@@ -1,0 +1,785 @@
+
+
+
+
+atomic nucleus - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"atomic_nucleus","wgtitle":"atomic nucleus","wgcurrevisionid":880253027,"wgrevisionid":880253027,"wgarticleid":19916559,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["cs1 maint: multiple names: authors list","wikipedia articles with gnd identifiers","wikipedia articles with ndl identifiers","nuclear chemistry","nuclear physics","subatomic particles","radiochemistry","proton"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"atomic_nucleus","wgrelevantarticleid":19916559,"wgrequestid":"xge@xgpaad0aaj8ymzuaaaan","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q37147","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","ext.math.scripts","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+atomic nucleus 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+nuclear physics
+nucleus  · nucleons (p, n)  · nuclear matter  · nuclear force  · nuclear structure  · nuclear reaction
+
+models of the nucleusliquid drop · nuclear shell model · interacting boson model · ab initio
+
+nuclides' classificationisotopes – equal zisobars – equal aisotones – equal nisodiaphers – equal n − z     isomers – equal all the abovemirror nuclei – z ↔ n
+stable · magic · even/odd · halo
+
+nuclear stabilitybinding energy · p–n ratio · drip line · island of stability · valley of stability
+
+radioactive decayalpha α · beta β (2β, β+) · k/l capture · isomeric (gamma γ · internal conversion) · spontaneous fission · cluster decay · neutron emission · proton emissiondecay energy · decay chain · decay product · radiogenic nuclide
+
+nuclear fissionspontaneous · products (pair breaking) · photofission
+
+capturing processeselectron · neutron (s · r) · proton (p · rp)
+
+high energy processesspallation (by cosmic ray) · photodisintegration
+
+nucleosynthesis and nuclear astrophysicsnuclear fusionprocesses: stellar · big bang · supernovanuclides: primordial · cosmogenic · artificial
+
+high energy nuclear physicsquark–gluon plasma  · rhic  · lhc
+
+scientistsalvarez · becquerel · bethe · a.bohr · n.bohr · chadwick · cockcroft · ir.curie · fr.curie · pi.curie · skłodowska-curie · davisson · fermi · hahn · jensen · lawrence · mayer · meitner · oliphant · oppenheimer · proca · purcell · rabi · rutherford · soddy · strassmann · szilárd · teller · thomson · walton · wigner
+vte
+ a model of the atomic nucleus showing it as a compact bundle of the two types of nucleons: protons (red) and neutrons (blue). in this diagram, protons and neutrons look like little balls stuck together, but an actual nucleus (as understood by modern nuclear physics) cannot be explained like this, but only by using quantum mechanics. in a nucleus which occupies a certain energy level (for example, the ground state), each nucleon can be said to occupy a range of locations.
+the atomic nucleus is the small, dense region consisting of protons and neutrons at the center of an atom, discovered in 1911 by ernest rutherford based on the 1909 geiger–marsden gold foil experiment.  after the discovery of the neutron in 1932, models for a nucleus composed of protons and neutrons were quickly developed by dmitri ivanenko[1] and werner heisenberg.[2][3][4][5][6]  an atom is composed of a positively-charged nucleus, with a cloud of negatively-charged electrons surrounding it, bound together by electrostatic force.  almost all of the mass of an atom is located in the nucleus, with a very small contribution from the electron cloud.  protons and neutrons are bound together to form a nucleus by the nuclear force.
+the diameter of the nucleus is in the range of 6985175659999999999♠1.7566 fm (6985175659999999999♠1.7566×10−15 m) for hydrogen (the diameter of a single proton) to about 6986117142000000000♠11.7142 fm for the heaviest atom uranium.[7] these dimensions are much smaller than the diameter of the atom itself (nucleus + electron cloud), by a factor of about 26,634 (uranium atomic radius is about 6990156000000000000♠156 pm (6990156000000000000♠156×10−12 m))[8] to about 60,250 (hydrogen atomic radius is about 6989529200000000000♠52.92 pm).[a]
+the branch of physics concerned with the study and understanding of the atomic nucleus, including its composition and the forces which bind it together, is called nuclear physics.
+
+contents
+
+1 introduction
+
+1.1 history
+1.2 etymology
+1.3 nuclear makeup
+
+
+2 composition and shape
+3 forces
+4 halo nuclei and strong force range limits
+5 nuclear models
+
+5.1 liquid drop model
+5.2 shell models and other quantum models
+5.3 consistency between models
+
+
+6 see also
+7 notes
+8 references
+9 external links
+
+
+introduction[edit]
+history[edit]
+main article: rutherford model
+the nucleus was discovered in 1911, as a result of ernest rutherford's efforts to test thomson's "plum pudding model" of the atom.[9] the electron had already been discovered earlier by j.j. thomson himself. knowing that atoms are electrically neutral, thomson postulated that there must be a positive charge as well. in his plum pudding model, thomson suggested that an atom consisted of negative electrons randomly scattered within a sphere of positive charge. ernest rutherford later devised an experiment with his research partner hans geiger and with help of ernest marsden, that involved the deflection of alpha particles (helium nuclei) directed at a thin sheet of metal foil. he reasoned that if thomson's model were correct, the positively charged alpha particles would easily pass through the foil with very little deviation in their paths, as the foil should act as electrically neutral if the negative and positive charges are so intimately mixed as to make it appear neutral. to his surprise, many of the particles were deflected at very large angles. because the mass of an alpha particle is about 8000 times that of an electron, it became apparent that a very strong force must be present if it could deflect the massive and fast moving alpha particles. he realized that the plum pudding model could not be accurate and that the deflections of the alpha particles could only be explained if the positive and negative charges were separated from each other and that the mass of the atom was a concentrated point of positive charge. this justified the idea of a nuclear atom with a dense center of positive charge and mass.
+
+etymology[edit]
+the term nucleus is from the latin word nucleus, a diminutive of nux ("nut"), meaning the kernel (i.e., the "small nut") inside a watery type of fruit (like a peach). in 1844, michael faraday used the term to refer to the "central point of an atom". the modern atomic meaning was proposed by ernest rutherford in 1912.[10] the adoption of the term "nucleus" to atomic theory, however, was not immediate. in 1916, for example, gilbert n. lewis stated, in his famous article the atom and the molecule, that "the atom is composed of the kernel and an outer atom or shell"[11]
+
+nuclear makeup[edit]
+ a figurative depiction of the helium-4 atom with the electron cloud in shades of gray. in the nucleus, the two protons and two neutrons are depicted in red and blue. this depiction shows the particles as separate, whereas in an actual helium atom, the protons are superimposed in space and most likely found at the very center of the nucleus, and the same is true of the two neutrons. thus, all four particles are most likely found in exactly the same space, at the central point. classical images of separate particles fail to model known charge distributions in very small nuclei. a more accurate image is that the spatial distribution of nucleons in a helium nucleus is much closer to the helium electron cloud shown here, although on a far smaller scale, than to the fanciful nucleus image.
+the nucleus of an atom consists of neutrons and protons, which in turn are the manifestation of more elementary particles, called quarks, that are held in association by the nuclear strong force in certain stable combinations of hadrons, called baryons. the nuclear strong force extends far enough from each baryon so as to bind the neutrons and protons together against the repulsive electrical force between the positively charged protons. the nuclear strong force has a very short range, and essentially drops to zero just beyond the edge of the nucleus. the collective action of the positively charged nucleus is to hold the electrically negative charged electrons in their orbits about the nucleus. the collection of negatively charged electrons orbiting the nucleus display an affinity for certain configurations and numbers of electrons that make their orbits stable. which chemical element an atom represents is determined by the number of protons in the nucleus; the neutral atom will have an equal number of electrons orbiting that nucleus. individual chemical elements can create more stable electron configurations by combining to share their electrons. it is that sharing of electrons to create stable electronic orbits about the nucleus that appears to us as the chemistry of our macro world.
+protons define the entire charge of a nucleus, and hence its chemical identity. neutrons are electrically neutral, but contribute to the mass of a nucleus to nearly the same extent as the protons. neutrons can explain the phenomenon of isotopes (same atomic number with different atomic mass.) the main role of neutrons is to reduce electrostatic repulsion inside the nucleus.
+
+composition and shape[edit]
+protons and neutrons are fermions, with different values of the strong isospin quantum number, so two protons and two neutrons can share the same space wave function since they are not identical quantum entities. they are sometimes viewed as two different quantum states of the same particle, the nucleon.[12][13] two fermions, such as two protons, or two neutrons, or a proton + neutron (the deuteron) can exhibit bosonic behavior when they become loosely bound in pairs, which have integer spin.
+in the rare case of a hypernucleus, a third baryon called a hyperon, containing one or more strange quarks and/or other unusual quark(s), can also share the wave function. however, this type of nucleus is extremely unstable and not found on earth except in high energy physics experiments.
+the neutron has a positively charged core of radius ≈ 0.3 fm surrounded by a compensating negative charge of radius between 0.3 fm and 2 fm. the proton has an approximately exponentially decaying positive charge distribution with a mean square radius of about 0.8 fm.[14]
+nuclei can be spherical, rugby ball-shaped (prolate deformation), discus-shaped (oblate deformation), triaxial (a combination of oblate and prolate deformation) or pear-shaped.[15][16]
+
+forces[edit]
+nuclei are bound together by the residual strong force (nuclear force). the residual strong force is a minor residuum of the strong interaction which binds quarks together to form protons and neutrons. this force is much weaker between neutrons and protons because it is mostly neutralized within them, in the same way that electromagnetic forces between neutral atoms (such as van der waals forces that act between two inert gas atoms) are much weaker than the electromagnetic forces that hold the parts of the atoms together internally (for example, the forces that hold the electrons in an inert gas atom bound to its nucleus).
+the nuclear force is highly attractive at the distance of typical nucleon separation, and this overwhelms the repulsion between protons due to the electromagnetic force, thus allowing nuclei to exist. however, the residual strong force has a limited range because it decays quickly with distance (see yukawa potential); thus only nuclei smaller than a certain size can be completely stable. the largest known completely stable nucleus (i.e. stable to alpha, beta, and gamma decay) is lead-208 which contains a total of 208 nucleons (126 neutrons and 82 protons). nuclei larger than this maximum are unstable and tend to be increasingly short-lived with larger numbers of nucleons. however, bismuth-209 is also stable to beta decay and has the longest half-life to alpha decay of any known isotope, estimated at a billion times longer than the age of the universe.
+the residual strong force is effective over a very short range (usually only a few femtometres (fm); roughly one or two nucleon diameters) and causes an attraction between any pair of nucleons. for example, between protons and neutrons to form [np] deuteron, and also between protons and protons, and neutrons and neutrons.
+
+halo nuclei and strong force range limits[edit]
+the effective absolute limit of the range of the strong force is represented by halo nuclei such as lithium-11 or boron-14, in which dineutrons, or other collections of neutrons, orbit at distances of about 6986100000000000000♠10 fm (roughly similar to the 6985800000000000000♠8 fm radius of the nucleus of uranium-238). these nuclei are not maximally dense. halo nuclei form at the extreme edges of the chart of the nuclides—the neutron drip line and proton drip line—and are all unstable with short half-lives, measured in milliseconds; for example, lithium-11 has a half-life of 6997880000000000000♠8.8 ms.
+halos in effect represent an excited state with nucleons in an outer quantum shell which has unfilled energy levels "below" it (both in terms of radius and energy). the halo may be made of either neutrons [nn, nnn] or protons [pp, ppp]. nuclei which have a single neutron halo include 11be and 19c. a two-neutron halo is exhibited by 6he, 11li, 17b, 19b and 22c. two-neutron halo nuclei break into three fragments, never two, and are called borromean nuclei because of this behavior (referring to a system of three interlocked rings in which breaking any ring frees both of the others). 8he and 14be both exhibit a four-neutron halo. nuclei which have a proton halo include 8b and 26p. a two-proton halo is exhibited by 17ne and 27s. proton halos are expected to be more rare and unstable than the neutron examples, because of the repulsive electromagnetic forces of the excess proton(s).
+
+nuclear models[edit]
+main article: nuclear structure
+although the standard model of physics is widely believed to completely describe the composition and behavior of the nucleus, generating predictions from theory is much more difficult than for most other areas of particle physics.  this is due to two reasons:
+
+in principle, the physics within a nucleus can be derived entirely from quantum chromodynamics (qcd). in practice however, current computational and mathematical approaches for solving qcd in low-energy systems such as the nuclei are extremely limited. this is due to the phase transition that occurs between high-energy quark matter and low-energy hadronic matter, which renders perturbative techniques unusable, making it difficult to construct an accurate qcd-derived model of the forces between nucleons. current approaches are limited to either phenomenological models such as the argonne v18 potential or chiral effective field theory.[17]
+even if the nuclear force is well constrained, a significant amount of computational power is required to accurately compute the properties of nuclei ab initio. developments in many-body theory have made this possible for many low mass and relatively stable nuclei, but further improvements in both computational power and mathematical approaches are required before heavy nuclei or highly unstable nuclei can be tackled.
+historically, experiments have been compared to relatively crude models that are necessarily imperfect. none of these models can completely explain experimental data on nuclear structure.[18]
+the nuclear radius (r) is considered to be one of the basic quantities that any model must predict. for stable nuclei (not halo nuclei or other unstable distorted nuclei) the nuclear radius is roughly proportional to the cube root of the mass number (a) of the nucleus, and particularly in nuclei containing many nucleons, as they arrange in more spherical configurations:
+the stable nucleus has approximately a constant density and therefore the nuclear radius r can be approximated by the following formula,
+
+
+
+
+
+r
+=
+
+r
+
+0
+
+
+
+a
+
+1
+
+/
+
+3
+
+
+
+
+
+{\displaystyle r=r_{0}a^{1/3}\,}
+
+
+where a = atomic mass number (the number of protons z, plus the number of neutrons n) and r0 = 1.25 fm = 1.25 × 10−15 m. in this equation, the "constant" r0 varies by 0.2 fm, depending on the nucleus in question, but this is less than 20% change from a constant.[19]
+in other words, packing protons and neutrons in the nucleus gives approximately the same total size result as packing hard spheres of a constant size (like marbles) into a tight spherical or almost spherical bag (some stable nuclei are not quite spherical, but are known to be prolate).[20]
+models of nuclear structure include :
+
+liquid drop model[edit]
+main article: semi-empirical mass formula
+early models of the nucleus viewed the nucleus as a rotating liquid drop. in this model, the trade-off of long-range electromagnetic forces and relatively short-range nuclear forces, together cause behavior which resembled surface tension forces in liquid drops of different sizes. this formula is successful at explaining many important phenomena of nuclei, such as their changing amounts of binding energy as their size and composition changes (see semi-empirical mass formula), but it does not explain the special stability which occurs when nuclei have special "magic numbers" of protons or neutrons.
+the terms in the semi-empirical mass formula, which can be used to approximate the binding energy of many nuclei, are considered as the sum of five types of energies (see below). then the picture of a nucleus as a drop of incompressible liquid roughly accounts for the observed variation of binding energy of the nucleus:
+
+volume energy.  when an assembly of nucleons of the same size is packed together into the smallest volume, each interior nucleon has a certain number of other nucleons in contact with it. so, this nuclear energy is proportional to the volume.
+surface energy.  a nucleon at the surface of a nucleus interacts with fewer other nucleons than one in the interior of the nucleus and hence its binding energy is less. this surface energy term takes that into account and is therefore negative and is proportional to the surface area.
+coulomb energy. the electric repulsion between each pair of protons in a nucleus contributes toward decreasing its binding energy.
+asymmetry energy (also called pauli energy).  an energy associated with the pauli exclusion principle. were it not for the coulomb energy, the most stable form of nuclear matter would have the same number of neutrons as protons, since unequal numbers of neutrons and protons imply filling higher energy levels for one type of particle, while leaving lower energy levels vacant for the other type.
+pairing energy.  an energy which is a correction term that arises from the tendency of proton pairs and neutron pairs to occur. an even number of particles is more stable than an odd number.
+
+shell models and other quantum models[edit]
+main article: nuclear shell model
+a number of models for the nucleus have also been proposed in which nucleons occupy orbitals, much like the atomic orbitals in atomic physics theory. these wave models imagine nucleons to be either sizeless point particles in potential wells, or else probability waves as in the "optical model", frictionlessly orbiting at high speed in potential wells.
+in the above models, the nucleons may occupy orbitals in pairs, due to being fermions, which allows explanation of even/odd z and n effects well-known from experiments. the exact nature and capacity of nuclear shells differs from those of electrons in atomic orbitals, primarily because the potential well in which the nucleons move (especially in larger nuclei) is quite different from the central electromagnetic potential well which binds electrons in atoms. some resemblance to atomic orbital models may be seen in a small atomic nucleus like that of helium-4, in which the two protons and two neutrons separately occupy 1s orbitals analogous to the 1s orbital for the two electrons in the helium atom, and achieve unusual stability for the same reason. nuclei with 5 nucleons are all extremely unstable and short-lived, yet, helium-3, with 3 nucleons, is very stable even with lack of a closed 1s orbital shell. another nucleus with 3 nucleons, the triton hydrogen-3 is unstable and will decay into helium-3 when isolated. weak nuclear stability with 2 nucleons {np} in the 1s orbital is found in the deuteron hydrogen-2, with only one nucleon in each of the proton and neutron potential wells. while each nucleon is a fermion, the {np} deuteron is a boson and thus does not follow pauli exclusion for close packing within shells. lithium-6 with 6 nucleons is highly stable without a closed second 1p shell orbital. for light nuclei with total nucleon numbers 1 to 6 only those with 5 do not show some evidence of stability. observations of beta-stability of light nuclei outside closed shells indicate that nuclear stability is much more complex than simple closure of shell orbitals with magic numbers of protons and neutrons.
+for larger nuclei, the shells occupied by nucleons begin to differ significantly from electron shells, but nevertheless, present nuclear theory does predict the magic numbers of filled nuclear shells for both protons and neutrons. the closure of the stable shells predicts unusually stable configurations, analogous to the noble group of nearly-inert gases in chemistry. an example is the stability of the closed shell of 50 protons, which allows tin to have 10 stable isotopes, more than any other element. similarly, the distance from shell-closure explains the unusual instability of isotopes which have far from stable numbers of these particles, such as the radioactive elements 43 (technetium) and 61 (promethium), each of which is preceded and followed by 17 or more stable elements.
+there are however problems with the shell model when an attempt is made to account for nuclear properties well away from closed shells. this has led to complex post hoc distortions of the shape of the potential well to fit experimental data, but the question remains whether these mathematical manipulations actually correspond to the spatial deformations in real nuclei. problems with the shell model have led some to propose realistic two-body and three-body nuclear force effects involving nucleon clusters and then build the nucleus on this basis. three such cluster models are the 1936 resonating group structure model of john wheeler, close-packed spheron model of linus pauling and the 2d ising model of macgregor.[18]
+
+consistency between models[edit]
+main article: nuclear structure
+as with the case of superfluid liquid helium, atomic nuclei are an example of a state in which both (1) "ordinary" particle physical rules for volume and (2) non-intuitive quantum mechanical rules for a wave-like nature apply. in superfluid helium, the helium atoms have volume, and essentially "touch" each other, yet at the same time exhibit strange bulk properties, consistent with a bose–einstein condensation. the nucleons in atomic nuclei also exhibit a wave-like nature and lack standard fluid properties, such as friction. for nuclei made of hadrons which are fermions, bose-einstein condensation does not occur, yet nevertheless, many nuclear properties can only be explained similarly by a combination of properties of particles with volume, in addition to the frictionless motion characteristic of the wave-like behavior of objects trapped in erwin schrödinger's quantum orbitals.
+
+see also[edit]
+
+giant resonance
+list of particles
+james rainwater, modelled non-spherical nuclei
+nuclear medicine
+radioactivity
+notes[edit]
+
+
+^ 26,634 derives from 7000200000000000000♠2 x 6990156000000000000♠156 pm / 6986117142000000000♠11.7142 fm; 60,250 derives from 7000200000000000000♠2 x 6989529200000000000♠52.92 pm / 6985171660000000000♠1.7166 fm
+
+
+references[edit]
+
+
+^ iwanenko, d.d. (1932). "the neutron hypothesis". nature. 129 (3265): 798. bibcode:1932natur.129..798i. doi:10.1038/129798d0..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ heisenberg, w. (1932). "über den bau der atomkerne. i". z. phys. 77: 1–11. bibcode:1932zphy...77....1h. doi:10.1007/bf01342433.
+
+^ heisenberg, w. (1932). "über den bau der atomkerne. ii". z. phys. 78 (3–4): 156–164. bibcode:1932zphy...78..156h. doi:10.1007/bf01337585.
+
+^ heisenberg, w. (1933). "über den bau der atomkerne. iii". z. phys. 80 (9–10): 587–596. bibcode:1933zphy...80..587h. doi:10.1007/bf01335696.
+
+^ miller a. i. early quantum electrodynamics:  a sourcebook, cambridge university press, cambridge, 1995, isbn 0521568919, pp. 84–88.
+
+^ fernandez, bernard & ripka, georges (2012). "nuclear theory after the discovery of the neutron". unravelling the mystery of the atomic nucleus: a sixty year journey 1896 — 1956. springer. p. 263. isbn 9781461441809.
+
+^ 
+angeli, i., marinova, k.p. (january 10, 2013). "table of experimental nuclear ground state charge radii: an update". atomic data and nuclear data tables. 99: 69–95. bibcode:2013adndt..99...69a. doi:10.1016/j.adt.2011.12.006.cs1 maint: multiple names: authors list (link)
+
+^ "uranium" idc technologies. 
+
+^ "the rutherford experiment". rutgers university. archived from the original on november 14, 2001. retrieved february 26, 2013.
+
+^ 
+harper, d. "nucleus". online etymology dictionary. retrieved 2010-03-06.
+
+^ 
+lewis, g.n. (1916). "the atom and the molecule". journal of the american chemical society. 38 (4): 4. doi:10.1021/ja02261a002.
+
+^ 
+sitenko, a.g. & tartakovskiĭ, v.k. (1997). theory of nucleus: nuclear structure and nuclear interaction. kluwer academic. p. 3. isbn 978-0-7923-4423-0.
+
+^ 
+srednicki, m.a. (2007). quantum field theory. cambridge university press. pp. 522–523. isbn 978-0-521-86449-7.
+
+^ 
+basdevant, j.-l.; rich, j. & spiro, m. (2005). fundamentals in nuclear physics. springer. p. 155. isbn 978-0-387-01672-6.
+
+^ battersby, stephen (2013). "pear-shaped nucleus boosts search for new physics". nature. doi:10.1038/nature.2013.12952. retrieved 23 november 2017.
+
+^ 
+gaffney, l. p.; butler, p a; scheck, m; hayes, a b; wenander, f;  et al. (2013). "studies of pear-shaped nuclei using accelerated radioactive beams" (pdf). nature. 497 (7448): 199–204. bibcode:2013natur.497..199g. doi:10.1038/nature12073. issn 0028-0836. archived (pdf) from the original on may 9, 2013.
+
+^ 
+machleidt, r.; entem, d.r. (2011). "chiral effective field theory and nuclear forces". physics reports. 503 (1): 1–75. arxiv:1105.2919. bibcode:2011phr...503....1m. doi:10.1016/j.physrep.2011.02.001.
+
+^ a b 
+cook, n.d. (2010). models of the atomic nucleus (2nd ed.). springer. p. 57 ff. isbn 978-3-642-14736-4.
+
+^ 
+krane, k.s. (1987). introductory nuclear physics. wiley-vch. isbn 978-0-471-80553-3.
+
+^ serway, raymond; vuille, chris; faughn, jerry (2009). college physics (8th ed.). belmont, ca: brooks/cole, cengage learning. p. 915. isbn 9780495386933.
+
+
+external links[edit]
+
+
+
+wikiquote has quotations related to: atomic nucleus
+the nucleus – a chapter from an online textbook
+the livechart of nuclides – iaea in java  or html
+article on the "nuclear shell model," giving nuclear shell filling for the various elements. accessed sept. 16, 2009.
+timeline: subatomic concepts, nuclear science & technology.
+vteparticles in physicselementaryfermionsquarks
+up (quark
+antiquark)
+down (quark
+antiquark)
+charm (quark
+antiquark)
+strange (quark
+antiquark)
+top (quark
+antiquark)
+bottom (quark
+antiquark)
+leptons
+electron
+positron
+muon
+antimuon
+tau
+antitau
+electron neutrino
+electron antineutrino
+muon neutrino
+muon antineutrino
+tau neutrino
+tau antineutrino
+bosonsgauge
+photon
+gluon
+w and z bosons
+scalar
+higgs boson 
+ghost fields
+faddeev–popov ghosts
+hypotheticalsuperpartnersgauginos
+gluino
+gravitino
+photino
+others
+higgsino
+neutralino
+chargino
+axino
+sfermion (stop squark)
+others
+planck particle
+axion
+dilaton
+dual graviton
+graviton
+leptoquark
+majoron
+majorana fermion
+magnetic monopole
+preon
+sterile neutrino
+tachyon
+w′ and z′ bosons
+x and y bosons
+compositehadronsbaryons / hyperons
+nucleon
+proton
+antiproton
+neutron
+antineutron
+delta baryon
+lambda baryon
+sigma baryon
+xi baryon
+omega baryon
+mesons / quarkonia
+pion
+rho meson
+eta and eta prime mesons
+phi meson
+j/psi meson
+omega meson
+upsilon meson
+kaon
+b meson
+d meson
+exotic hadrons
+tetraquark
+pentaquark
+others
+atomic nuclei
+atoms
+exotic atoms
+positronium
+muonium
+tauonium
+onia
+superatoms
+molecules
+hypotheticalhypothetical baryons
+hexaquark
+skyrmion
+hypothetical mesons
+glueball
+theta meson
+t meson
+others
+mesonic molecule
+pomeron
+diquarks
+quasiparticles
+davydov soliton
+dropleton
+exciton
+hole
+magnon
+phonon
+plasmaron
+plasmon
+polariton
+polaron
+roton
+trion
+lists
+baryons
+mesons
+particles
+quasiparticles
+timeline of particle discoveries
+related
+history of subatomic physics
+timeline
+standard model
+mathematical formulation
+subatomic particles
+particles
+antiparticles
+nuclear physics
+eightfold way
+quark model
+exotic matter
+massless particle
+relativistic particle
+virtual particle
+wave–particle duality
+wikipedia books
+hadronic matter
+particles of the standard model
+leptons
+quarks
+ physics portal
+vtenuclear technologyscience
+chemistry
+engineering
+physics
+atomic nucleus
+fission
+fusion
+radiation
+ionizing
+braking
+fuel
+tritium
+deuterium
+helium-3
+fertile material
+fissile material
+isotope separation
+nuclear material
+uranium
+enriched
+depleted
+plutonium
+thorium
+neutron
+activation
+capture
+poison
+cross section
+generator
+radiation
+reflector
+temperature
+thermal
+fast
+fusion
+power
+by country
+power plant
+economics
+multi-mission radioisotope thermoelectric generator
+accidents and incidents
+policy
+fusion
+radioisotope thermoelectric (rtg)
+propulsion
+rocket
+safety and security
+medicineimaging
+radball
+scintigraphy
+single-photon emission (spect)
+positron-emission tomography (pet)
+therapy
+fast-neutron
+neutron capture therapy of cancer
+targeted alpha-particle
+proton-beam
+tomotherapy
+brachytherapy
+radiation therapy
+radiosurgery
+radiopharmacology
+weaponstopics
+arms race
+delivery
+design
+disarmament
+ethics
+explosion
+effects
+history
+proliferation
+testing
+high-altitude
+underground
+warfare
+yield
+tnte
+lists
+estimated death tolls from attacks
+states with nuclear weapons
+tests
+united states
+wmd treaties
+weapon-free zones
+weapons
+wasteproducts
+actinide
+reprocessed uranium
+reactor-grade plutonium
+minor actinide
+activation
+fission
+llfp
+actinide chemistry
+disposal
+fuel cycle
+high-level (hlw)
+low-level (llw)
+repository
+reprocessing
+spent fuel
+pool
+cask
+transmutation
+debate
+nuclear power
+nuclear weapons
+blue ribbon commission on america's nuclear future
+anti-nuclear movement
+uranium mining
+nuclear power phase-out
+nuclear reactorsfissionmoderatorlight water
+aqueous homogeneous
+boiling
+bwr
+abwr
+esbwr
+kerena
+pressurized
+ap1000
+apr-1400
+apr+
+apwr
+atmea1
+cap1400
+cpr-1000
+epr
+hpr-1000
+acpr1000
+acp1000
+vver
+many others
+supercritical (scwr)
+natural fission
+heavy waterd2o
+pressurized
+candu
+candu 6
+candu 9
+ec6
+afcr
+acr-1000
+ahwr
+cvtr
+iphwr-x
+phwr kwu
+mzfr
+r3
+r4 marviken
+h2o
+hwlwr
+atr
+hw blwr 250
+steam-generating (sghwr)
+organic
+wr-1
+co2
+hwgcr
+el-4
+ks 150
+kkn
+graphite .mw-parser-output .nobold{font-weight:normal}by coolantwaterh2o
+am-1
+amb-x
+egp-6
+rbmk
+gasco2
+uranium naturel graphite gaz (ungg)
+magnox
+advanced gas-cooled (agr)
+he
+gtmhr
+mhr-t
+uhtrex
+vhtr (htgr)
+pbr (pbmr)
+avr
+htr-10
+htr-pm
+thtr-300
+pmr
+molten-saltfluorides
+fuji msr
+liquid-fluoride thorium reactor (lftr)
+molten-salt reactor experiment (msre)
+integral molten salt reactor (imsr)
+thorcon
+none(fast-neutron)
+breeder (fbr)
+integral (ifr)
+liquid-metal-cooled (lmfr)
+small sealed transportable autonomous (sstar)
+traveling-wave (twr)
+energy multiplier module (em2)
+reduced-moderation (rmwr)
+fast breeder test reactor (fbtr)
+dual fluid reactor (dfr)
+generation iv
+sodium (sfr)
+bn-350
+bn-600
+bn-800
+bn-1200
+cfr-600
+phénix
+superphénix
+pfbr
+cefr
+pfr
+prism
+lead (lfr)
+helium gas (gfr)
+others
+organically moderated and cooled reactor
+arbus
+piqua
+aircraft reactor experiment
+
+fusionby confinementmagnetic
+field-reversed configuration
+levitated dipole
+reversed field pinch
+spheromak
+stellarator
+tokamak
+inertial
+bubble (acoustic)
+fusor
+electrostatic
+laser-driven
+magnetized-target
+z-pinch
+other
+dense plasma focus
+migma
+muon-catalyzed
+polywell
+pyroelectric
+
+ category
+portal
+ commons
+
+authority control 
+gnd: 4068924-4
+ndl: 00562376
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=atomic_nucleus&oldid=880253027"					
+categories: nuclear chemistrynuclear physicssubatomic particlesradiochemistryprotonhidden categories: cs1 maint: multiple names: authors listwikipedia articles with gnd identifierswikipedia articles with ndl identifiers 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commonswikiquote 
+
+
+
+languages
+
+
+afrikaansالعربيةasturianuazərbaycancaবাংলাbân-lâm-gúbasa banyumasanбеларускаябеларуская (тарашкевіца)‎българскиbosanskibrezhonegcatalàчӑвашлаčeštinacorsucymraegdanskdeutscheestiελληνικάespañolesperantoeuskaraفارسیfrançaisfryskgaeilgegàidhliggalego한국어հայերենहिन्दीhrvatskiidobahasa indonesiainterlinguaíslenskaitalianoעבריתbasa jawaಕನ್ನಡქართულიқазақшаkiswahilikreyòl ayisyenkurdîlatinalatviešulietuviųlimburgslingálalumbaartmagyarмакедонскиമലയാളംमराठीbahasa melayumìng-dĕ̤ng-ngṳ̄монголမြန်မာဘာသာnederlands日本語norsknorsk nynorsknovialoccitanолык марийoʻzbekcha/ўзбекчаਪੰਜਾਬੀپنجابیpolskiportuguêsromânăruna simiрусскийscotsseelterskshqipsimple englishسنڌيslovenčinaslovenščinaсрпски / srpskisrpskohrvatski / српскохрватскиbasa sundasuomisvenskatagalogதமிழ்తెలుగుไทยtürkçeукраїнськаاردوtiếng việtvõrowinaray吴语ייִדישyorùbá粵語žemaitėška中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 26 january 2019, at 09:36 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.692","walltime":"0.882","ppvisitednodes":{"value":2875,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":293731,"limit":2097152},"templateargumentsize":{"value":2558,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":61128,"limit":5000000},"entityaccesscount":{"value":5,"limit":400},"timingprofile":["100.00%  610.716      1 -total"," 43.87%  267.915      2 template:reflist"," 25.00%  152.668      9 template:cite_journal"," 21.87%  133.568     22 template:navbox"," 12.95%   79.087     15 template:val"," 11.71%   71.498      1 template:nuclear_technology"," 10.72%   65.452      1 template:navbox_with_collapsible_groups","  7.33%   44.780      1 template:nuclear_physics","  6.66%   40.698      1 template:particles","  6.60%   40.285      1 template:sidebar_with_collapsible_lists"]},"scribunto":{"limitreport-timeusage":{"value":"0.308","limit":"10.000"},"limitreport-memusage":{"value":8368422,"limit":52428800}},"cachereport":{"origin":"mw1249","timestamp":"20190216070957","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"atomic nucleus","url":"https:\/\/en.wikipedia.org\/wiki\/atomic_nucleus","sameas":"http:\/\/www.wikidata.org\/entity\/q37147","mainentity":"http:\/\/www.wikidata.org\/entity\/q37147","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2002-05-31t16:49:48z","datemodified":"2019-01-26t09:36:03z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/4b\/nuclearreaction.svg","headline":"core of the atom; composed of bound nucleons (protons and neutrons)"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":122,"wghostname":"mw1266"});});
+
+

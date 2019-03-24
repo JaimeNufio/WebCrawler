@@ -1,0 +1,1572 @@
+
+
+
+
+republic of china (1912–1949) - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"republic_of_china_(1912–1949)","wgtitle":"republic of china (1912–1949)","wgcurrevisionid":884064170,"wgrevisionid":884064170,"wgarticleid":33167689,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["articles containing chinese-language text","articles with chinese-language external links","cs1 uses chinese-language script (zh)","cs1 chinese-language sources (zh)","all articles with dead external links","articles with dead external links from august 2010","cs1 uses japanese-language script (ja)","all articles with unsourced statements","articles with unsourced statements from december 2012","articles with short description","use dmy dates from september 2012","wikipedia articles needing copy edit from january 2019","all articles needing copy edit","pages using infobox country or infobox former country with the flag caption or type parameters","pages using infobox country or infobox former country with the symbol caption or type parameters","articles containing mongolian-language text","articles with unsourced statements from september 2015","articles with unsourced statements from october 2017","commons category link is defined as the pagename","republic of china (1912–1949)","history of the republic of china","20th century in china","states and territories established in 1912","1912 establishments in china","1949 disestablishments in china","former member states of the united nations","former polities of the cold war"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"republic_of_china_(1912–1949)","wgrelevantarticleid":33167689,"wgrequestid":"xgvazgpaad8aaes7y-iaaabv","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q13426199","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","ext.tmh.thumbnail.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","jquery.makecollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","mw.mediawikiplayer.loader","mw.popupmediatransform","mw.tmhgalleryhook.js","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makecollapsible","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+.mw-parser-output .font-mong{font-family:"menk hawang tig","menk qagan tig","menk garqag tig","menk har_a tig","menk scnin tig","oyun gurban ulus tig","oyun qagan tig","oyun garqag tig","oyun har_a tig","oyun scnin tig","oyun agula tig","mongolian baiti","noto sans mongolian","mongolian universal white","mongol usug","mongolian white","mongolianscript","code2000","menksoft qagan"}.mw-parser-output .font-mong-mnc,.mw-parser-output .font-mong:lang(mnc-mong),.mw-parser-output .font-mong:lang(dta-mong),.mw-parser-output .font-mong:lang(sjo-mong){font-family:"abkai xanyan","abkai xanyan la","abkai xanyan vt","abkai xanyan xx","abkai xanyan sc","abkai buleku","daicing white","mongolian baiti","noto sans mongolian","mongolian universal white"}
+
+.mw-parser-output .uchen{font-family:"qomolangma-dunhuang","qomolangma-uchen sarchen","qomolangma-uchen sarchung","qomolangma-uchen suring","qomolangma-uchen sutung","qomolangma-title","qomolangma-subtitle","qomolangma-woodblock","ddc uchen","ddc rinzin",kailash,"babelstone tibetan",jomolhari,"tcrc youtso unicode","tibetan machine uni",wangdi29,"noto sans tibetan","microsoft himalaya"}.mw-parser-output .ume{font-family:"qomolangma-betsu","qomolangma-chuyig","qomolangma-drutsa","qomolangma-edict","qomolangma-tsumachu","qomolangma-tsuring","qomolangma-tsutong","tibetansambhotayigchung","tibetantsugring","tibetanyigchung"}
+
+.mw-parser-output .font-uig{font-family:"ukij tuz","ukij nasq","ukij basma","ukij_mac basma","ukij zilwa","ukij esliye","ukij tuz basma","ukij tuz kitab","ukij tuz gezit","ukij tuz qara","ukij tuz qara","ukij tuz tor","ukij kesme","ukij kesme tuz","ukij qara","ukij basma aq","ukij basma qara","ukij basma tuz","ukij putuk","ukij tuz xet","ukij tom xet","ukij tuz jurnal","ukij arabic","ukij cjk","ukij ekran","ukij_mac ekran","ukij teng","ukij tor","ukij tuz tom","ukij mono keng","ukij mono tar","ukij nokia","ukij simsun","ukij yanfon","ukij qolyazma","ukij saet","ukij nasq zilwa","ukij sulus","ukij sulus tom","ukij 3d","ukij diwani","ukij diwani yantu","ukij diwani tom","ukij esliye tom","ukij esliye qara","ukij jelliy","ukij kufi","ukij kufi tar","ukij kufi uz","ukij kufi yay","ukij merdane","ukij ruqi","ukij mejnuntal","ukij junun","ukij moy qelem","ukij chiwer kesme","ukij orxun-yensey","ukij elipbe","ukij qolyazma tez","ukij qolyazma tuz","ukij qolyazma yantu","ukij ruqi tuz",fzwwbbot_unicode,fzwwhqhtot_unicode,scheherazade,lateef,lateefgr,"noto naskh arabic","microsoft uighur";font-feature-settings:"cv50"1}
+
+
+republic of china (1912–1949) 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+1912–1949 country in asia, historical period of the present-day republic of china (taiwan)
+
+
+this article may require copy editing for grammar, style, cohesion, tone, or spelling. you can assist by editing it. (january 2019) (learn how and when to remove this template message)
+for republic of china after 1949, see taiwan.
+republic of china.mw-parser-output .nobold{font-weight:normal}中華民國chunghwa minkuo1912–1949
+
+
+top: flag(1912–1928)bottom: flag(1928–1949)
+
+
+
+top: national emblem(1912–1928)bottom: national emblem(1928–1949)
+
+anthem: 《五族共和歌》"song of five races under one union" (1912–1913)《卿雲歌》"song to the auspicious cloud"(1913–1915) 《中華雄立宇宙間》"china heroically stands in the universe"(1915–1921)《卿雲歌》"song to the auspicious cloud"(modified version)(1921–1928) 《中華民國國歌》"national anthem of the republic of china" (1937–1949)
+flag anthem《中華民國國旗歌》"national flag anthem of the republic of china"(1937–1949)location and maximum extent of the territory claimed by the republic of china (1945).capitalpeking (1912–1928)nanking (1927–1949)[a]chungking (1937–1946)[b]largest cityshanghaiofficial languagesstandard chineserecognised national languagestibetanchagatai/uighurmanchumongolianand other languagesofficial script
+traditional chinese
+manchu alphabet
+mongolian script
+tibetan alphabet
+uyghur alphabets
+formosan latin alphabet (from 1945)
+religion see religion in chinademonym(s)chinese[1]governmentfederal semi-presidential republic under beiyang rule (1912–1928)one-party state under a military dictatorship (1928–1946)unitary parliamentary constitutional republic (1946–1949)president • 1912 sun yat-sen (first, provisional)• 1949 li zongren (last in mainland china, acting)
+premier • 1912 tang shaoyi (first)• 1949 he yingqin (last in mainland china)
+• upper housenational assembly• lower houselegislative yuanhistory • xinhai revolution 10 october 1911[c]–12 february 1912[d]• republic proclaimed 1 january 1912• beiyang government in peking 1912–1928• northern expedition 1926–1928• nationalist government in nanking 1927–1949• chinese civil war 1927–19361946–1950[e]• second sino-japanese war 7 july 1937[f]–2 september 1945[g]• people's republic of china proclaimed 1 october 1949• government fled to taipei 7 december 1949
+area 191211,077,380 km2 (4,277,000 sq mi)19469,676,204 km2 (3,736,003 sq mi)population• 1912 432,375,000• 1920 472,000,000• 1930 489,000,000• 1946 535,418,000• 1949 541,670,000
+currencychinese yuanold taiwan dollar (from 1946 in taiwan)time zoneutc+5:30 to +8:30 (kunlun to changpai standard times)driving siderightiso 3166 codecn
+
+
+ preceded by
+succeeded by
+
+
+
+
+
+
+
+qing dynasty
+
+
+
+
+
+
+people's republic of china
+
+
+
+
+republic of china
+
+
+
+
+mongolian people's republic
+
+
+
+
+populations from http://www.populstat.info/asia/chinac.htm
+the republic of china (roc) was a state and republic in east asia, which ruled the chinese mainland and mongolia from 1912, when it was established by the xinhai revolution, which overthrew the qing dynasty, the last imperial dynasty of china, to 1949, when its government fled to taipei due to the kuomintang's defeat in the chinese civil war. the republic of china's first president, sun yat-sen, served only briefly before handing over the position to yuan shikai, leader of the beiyang army. his party, then led by song jiaoren won the parliamentary election held in december 1912. song jiaoren was assassinated shortly after and the beiyang army led by yuan shikai maintained full control of the beiyang government. between late 1915 and early 1916, yuan shikai tried to reinstate the monarchy before abdicating due to popular unrest. after yuan shikai's death in 1916, members of cliques in the beiyang army claimed their autonomy and clashed with each other. during this period, the authority of the beiyang government was weakened by a restoration of the qing dynasty.
+in 1921, sun yat-sen's kuomintang (kmt) established a rival government in canton city, canton province, together with the fledgling communist party of china (cpc). the economy of north china, overtaxed to support warlord adventurism, collapsed between 1927 and 1928. general chiang kai-shek, who became kmt leader after sun yat-sen's death, started his northern expedition military campaign in 1926 to overthrow the beiyang government, which was completed in 1928. in april 1927, chiang established a nationalist government in nanking, and massacred communists in shanghai, which forced the cpc into armed rebellion, marking the beginning of the chinese civil war.
+there was industrialization and modernization, but also conflict between the nationalist government in nanking, the cpc, remnant warlords, and the empire of japan. nation-building took a backseat to the second sino-japanese war when the imperial japanese army launched an offensive against china in 1937 that turned into a full-scale invasion. after the surrender of japan at the end of world war ii in 1945, the chinese civil war quickly resumed in 1946 between the kmt and cpc, with both sides receiving foreign assistance due to the cold war between the ussr and usa. during this period, the 1946 constitution of the republic of china replaced the 1928 organic law as the republic of china's fundamental law. near the end of the chinese civil war in 1949, the chinese communist party established the people's republic of china, overthrowing the nationalist government on the chinese mainland. the government of the republic of china fled from nanking to taipei in 1949, controlling only taiwan after 1949.
+
+contents
+
+1 names
+2 history
+
+2.1 founding
+2.2 nanjing decade
+2.3 second sino-japanese war (1937–1945)
+2.4 post-world war ii
+
+
+3 government
+
+3.1 foreign relations
+3.2 administrative divisions
+
+
+4 economy
+5 military
+6 see also
+7 notes
+8 references
+
+8.1 citations
+8.2 sources
+
+
+9 external links
+
+
+names[edit]
+see also: names of china
+republic of china"republic of china" in traditional (top) and simplified (bottom) chinese characterschinese nametraditional chinese中華民國simplified chinese中华民国postalchunghwa minkuotranscriptionsstandard mandarinhanyu pinyinzhōnghuá mínguówade–gileschung1-hua2 min2-kuo2ipa[ʈʂʊ́ŋxwǎ mǐn.kwǒ]yue: cantoneseyale romanizationjūng-wàah màhn-gwoksouthern minhokkien pojtiong-hoâ bîn-koktâi-lôtiong-huâ bîn-kokchinatraditional chinese中國simplified chinese中国literal meaningmiddle or central state[2]transcriptionsstandard mandarinhanyu pinyinzhōngguóbopomofoㄓㄨㄥ ㄍㄨㄛˊgwoyeu romatzyhjong'gwowade–gileschung1-kuo2tongyong pinyinjhongguómps2jūng-guóipa[ʈʂʊ́ŋ.kwǒ]other mandarinxiao'erjingﺟْﻮﻗُﻮَع‎sichuanese pinyinzong1 gwe2wuromanizationtson平-koh入ganromanizationtung-koe̍txiangipatan33-kwɛ24/hakkaromanizationdung24-gued2yue: cantoneseyale romanizationjūnggwokjyutpingzung1-gwok3southern minhokkien pojtiong-kokeastern minfuzhou bucdṳ̆ng-guókpu-xian minhinghwa bucde̤ng-go̤hnorthern minjian'ou romanizeddô̤ng-gŏtibetan nametibetanཀྲུང་ཧྭ་དམངས་གཙོའི།་རྒྱལ་ཁབtranscriptionswyliekrung hwa dmangs gtso'i rgyal khabzhuang namezhuangcunghvaz minzgozmongolian namemongolian cyrillicдундад иргэн улсmongolian scriptᠳᠤᠮᠳᠠᠳᠤᠢᠷᠭᠡᠨᠤᠯᠤᠰtranscriptionssasm/gncdumdadu irgen ulusuyghur nameuyghurجۇڭخۇا مىنگوtranscriptionslatin yëziqijungxua mingoyengi yeziⱪjunghua mingosiril yëziqiҗуңхуа мингоmanchu namemanchu scriptᡩᡠᠯᡳᠮᠪᠠᡳᡳᡵᡤᡝᠨᡤᡠᡵᡠᠨromanizationdulimbai irgen' gurun
+
+the official name of the state in the mainland was the "republic of china"; it has also been known under various names throughout its existence. shortly after the roc's establishment in 1912, while it was still located on the chinese mainland, the government used the short form "china" (zhōngguó (中國)) to refer to itself, which derives from zhōng ("central" or "middle") and guó ("state, nation-state"),[h] a term which also developed under the zhou dynasty in reference to its royal demesne,[i] and the name was then applied to the area around luoyi (present-day luoyang) during the eastern zhou and then to china's central plain before being used as an occasional synonym for the state during the qing era.[4]
+the roc also used alternate names throughout its existence were republican china or republican era[6][7], as well as the beiyang government (1912–1928) and nationalist government (1928–1947).
+
+history[edit]
+main articles: history of china and history of the republic of china
+further information: timeline of republic of china history
+
+
+ history of china
+
+
+ancient
+
+
+neolithic c. 8500 – c. 2070 bce
+
+
+xia c. 2070 – c. 1600 bce
+
+
+shang c. 1600 – c. 1046 bce
+
+
+zhou c. 1046 – 256 bce
+
+
+ western zhou
+
+
+ eastern zhou
+
+
+   spring and autumn
+
+
+   warring states
+
+
+imperial
+
+
+qin 221–206 bce
+
+
+han 202 bce – 220 ce
+
+
+  western han
+
+
+  xin
+
+
+  eastern han
+
+
+three kingdoms 220–280
+
+
+  wei, shu and wu
+
+
+jin 265–420
+
+
+  western jin
+
+
+  eastern jin
+
+sixteen kingdoms
+
+
+northern and southern dynasties 420–589
+
+
+sui 581–618
+
+
+tang 618–907
+
+
+  (second zhou 690–705)
+
+
+five dynasties andten kingdoms 907–979
+
+liao 907–1125
+
+
+song 960–1279
+
+
+
+
+  northern song
+
+
+
+western xia
+
+
+  southern song
+
+jin
+
+
+
+
+yuan 1271–1368
+
+
+ming 1368–1644
+
+
+qing 1636–1912
+
+
+modern
+
+
+republic of china 1912–1949
+
+
+people's republic of china 1949–present
+
+
+related articles
+chinese historiography
+timeline of chinese history
+dynasties in chinese history
+linguistic history
+art history
+economic history
+education history
+science and technology history
+legal history
+media history
+military history
+naval history
+
+
+
+viewtalkedit
+
+history of therepublic of china (roc)
+1912–1949mainland rule
+
+xinhai revolution
+provisional gov't
+beiyang government
+northern expedition
+shanghai massacre
+chinese civil war
+nationalist government
+second sino-japanese war
+nanjing massacre
+
+constitutional government
+
+
+1945–presenttaiwan
+
+retrocession of taiwan
+february 28 incident
+white terror
+retreat to taiwan
+korean war
+first taiwan strait crisis
+vietnam war
+second taiwan strait crisis
+project national glory
+three noes
+lieyu massacre
+third taiwan strait crisis
+anti-secession law
+100th anniversary
+sunflower student movement
+2015 ma–xi meeting
+2017 summer universiade
+
+
+history of
+china
+the prc (1949–present)
+taiwan (geographical)
+taipei
+kaohsiung
+beiping
+
+
+culture
+economy
+education
+geography
+politics
+
+
+ taiwan portalvte
+a republic was formally established on 1 january 1912 following the xinhai revolution, which itself began with the wuchang uprising on 10 october 1911, successfully overthrowing the qing dynasty and ending over two thousand years of imperial rule in china.[8] from its founding until 1949 it was based on mainland china. central authority waxed and waned in response to warlordism (1915–28), japanese invasion (1937–45), and a full-scale civil war (1927–49), with central authority strongest during the nanjing decade (1927–37), when most of china came under the control of the kuomintang (kmt) under an authoritarian one-party military dictatorship.[9]
+at the end of world war ii in 1945, the empire of japan surrendered control of taiwan and its island groups to the allies, and taiwan was placed under the republic of china's administrative control. the communist takeover of mainland china in the chinese civil war in 1949 left the ruling kuomintang (kmt) with control over only taiwan, penghu, kinmen, matsu, and other minor islands. with the 1949 loss of mainland china in the civil war, the roc government retreated to taiwan and the kmt declared taipei the provisional capital.[10] the communist party of china took over all of mainland china[11][12] and founded the people's republic of china (prc) in beijing.
+
+founding[edit]
+main article: wuchang uprising
+further information: beiyang government and warlord era
+see also: first united front, northern expedition, shanghai massacre of 1927, and nanchang uprising
+ yuan shikai (left) and sun yat-sen (right) with flags representing the early republic.
+in 1912, after over two thousand years of imperial rule, a republic was established to replace the monarchy.[8] the qing dynasty that preceded the republic experienced a century of instability throughout the 19th century, suffered from both internal rebellion and foreign imperialism.[13] the ongoing instability eventually led to the outburst of boxer rebellion in 1900, whose attacks on foreigners led to the invasion by the eight nation alliance. china signed the boxer protocol and paid a large indemnity to the foreign powers: 450 million taels of fine silver (around $333 million  or £67 million at the then current exchange rates).[14] a program of institutional reform proved too little and too late. only the lack of an alternative regime prolonged its existence until 1912.[15][16]
+the establishment of the chinese republic developed out of the wuchang uprising against the qing government on 10 october 1911. that date is now celebrated annually as the roc's national day, also known as the "double ten day". on 29 december 1911, sun yat-sen was elected president by the nanjing assembly with representatives from seventeen provinces. on 1 january 1912, he was officially inaugurated and pledged "to overthrow the despotic government led by the manchu, consolidate the republic of china and plan for the welfare of the people".[17]
+sun, however, lacked the necessary military strength to defeat the qing government by force. as a compromise, the new republic negotiated with the commander of the beiyang army, yuan shikai, with the promise of presidency in the republic if he was to remove the qing emperor force. yuan agreed to the deal, and the last emperor of the qing dynasty, puyi, was forced to abdicate in 1912, and yuan was officially elected president of the roc in 1913.[13][18] he ruled by military power and ignored the republican institutions established by his predecessor, threatening to execute senate members who disagreed with his decisions. he soon dissolved the ruling kuomintang (kmt) party, banned "secret organizations" (which implicitly included the kmt), and ignored the provisional constitution. an attempt at a democratic election in 1912 ended with the assassination of the elected candidate by a man recruited by yuan. ultimately, yuan declared himself emperor of china in 1915.[19] the new ruler of china tried to increase centralization by abolishing the provincial system; however, this move angered the gentry along with the provincial governors, usually military men. many provinces declared independence and became warlord states. increasingly unpopular and deserted by his supporters, yuan gave up being emperor in 1916 and died of natural causes shortly after.[20][21]
+china declined into a period of warlordism. sun, forced into exile, returned to guangdong province in the south with the help of warlords in 1917 and 1922, and set up successive rival governments to the beiyang government in beijing; he re-established the kmt in october 1919. sun's dream was to unify china by launching an expedition to the north. however, he lacked military support and funding to make it a reality.[22]
+meanwhile, the beiyang government struggled to hold on to power, and an open and wide-ranging debate evolved regarding how china should confront the west. in 1919, a student protest against the government's weak response to the treaty of versailles, considered unfair by chinese intellectuals, led to the may fourth movement. these demonstrations were aimed at spreading western influence to replace chinese culture. it is also in this intellectual climate that the influence of marxism spread and became more popular. it eventually led to the founding of the communist party of china in 1921.[23]
+
+nanjing decade[edit]
+main article: nanjing decade
+further information: nationalist government
+see also: chinese reunification (1928), central plains war, encirclement campaigns, mukden incident, and xi'an incident
+ with help from germany, chinese industry and its military were improved just prior to the war against imperial japan.
+after sun's death in march 1925, chiang kai-shek became the leader of the kmt. in 1926, chiang led the northern expedition through china with the intention of defeating the beiyang warlords and unifying the country. chiang received the help of the soviet union and the chinese communists; however, he soon dismissed his soviet advisers. he was convinced, not without reason, that they wanted to get rid of the kmt (also known as the chinese nationalists) and take over control.[24] chiang decided to strike first and purged the communists, killing thousands of them. at the same time, other violent conflicts were taking place in china; in the south, where the communists had superior numbers, nationalist supporters were being massacred. these events eventually led to the chinese civil war between the nationalists and communists. chiang kai-shek pushed the communists into the interior as he sought to destroy them, and established a government with nanking as its capital in 1927.[25] by 1928, chiang's army overturned the beiyang government and unified the entire nation, at least nominally, beginning the so-called nanjing decade.[citation needed]
+according to sun yat-sen's theory, the kmt was to rebuild china in three phases: a phase of military rule through which the kmt would take over power and reunite china by force; a phase of political tutelage; and finally a constitutional democratic phase.[26] in 1930, the nationalists, having taken over power militarily and reunified china, started the second phase, promulgating a provisional constitution and beginning the period of so-called "tutelage".[27] the kmt was criticized for instituting authoritarianism, but claimed it was attempting to establish a modern democratic society. among other things, it created at that time the academia sinica, the central bank of china, and other agencies. in 1932, china sent a team for the first time to the olympic games. laws were passed and campaigns mounted to promote the rights of women. the ease and speed of communication also allowed a focus on social problems, including those of the villages. the rural reconstruction movement was one of many which took advantage of the new freedom to raise social consciousness.[citation needed]
+historians such as edmund fung argue that establishing a democracy in china at that time was not possible. the nation was at war and divided between communists and nationalists. corruption within the government and lack of direction also prevented any significant reform from taking place. chiang realized the lack of real work being done within his administration and told the state council: "our organization becomes worse and worse... many staff members just sit at their desks and gaze into space, others read newspapers and still others sleep."[28] the nationalist government wrote a draft of the constitution on 5 may 1936.[29]
+during this time a series of massive wars took place in western china, including the kumul rebellion, the sino-tibetan war and the soviet invasion of xinjiang. although the central government was nominally in control of the entire country during this period, large areas of china remained under the semi-autonomous rule of local warlords, provincial military leaders or warlord coalitions. nationalist rule was strongest in the eastern regions around the capital nanjing, but regional militarists such as feng yuxiang and yan xishan retained considerable local authority. the central plains war in 1930, the japanese aggression in 1931 and the red army's long march in 1934 led to more power for the central government, but there continued to be foot-dragging and even outright defiance, as in the fujian rebellion of 1933–34.[citation needed]
+
+second sino-japanese war (1937–1945)[edit]
+main article: second sino-japanese war
+see also: marco polo bridge incident, second united front, new fourth army incident, and burma campaign
+ china has been resisting the aggression of the imperial japan since 1931.
+few chinese had any illusions about japanese desires on china. hungry for raw materials and pressed by a growing population, japan initiated the seizure of manchuria in september 1931 and established ex-qing emperor puyi as head of the puppet state of manchukuo in 1932. the loss of manchuria, and its vast potential for industrial development and war industries, was a blow to the kuomintang economy. the league of nations, established at the end of world war i, was unable to act in the face of the japanese defiance.
+the japanese began to push from south of the great wall into northern china and the coastal provinces. chinese fury against japan was predictable, but anger was also directed against chiang and the nanking government, which at the time was more preoccupied with anti-communist extermination campaigns than with resisting the japanese invaders. the importance of "internal unity before external danger" was forcefully brought home in december 1936, when chiang kai-shek, in an event now known as the xi'an incident, was kidnapped by zhang xueliang and forced to ally with the communists against the japanese in the second kuomintang-ccp united front against japan.
+the chinese resistance stiffened after 7 july 1937, when a clash occurred between chinese and japanese troops outside beiping (later peking and beijing) near the marco polo bridge. this skirmish led to open, though undeclared, warfare between china and japan. shanghai fell after a three-month battle during which japan suffered extensive casualties, both in its army and navy. the capital of nanking fell in december 1937. it was followed by an orgy of mass murders and rapes known as the nanking massacre. the national capital was briefly at wuhan, then removed in an epic retreat to chongqing, the seat of government until 1945. in 1940 the collaborationist wang jingwei regime was set up with its capital in nanking, proclaiming itself the legitimate "republic of china" in opposition to chiang kai-shek's government, though its claims were significantly hampered due to its nature as a japanese puppet state controlling limited amounts of territory, along with its subsequent defeat at the end of the war.
+the united front between the kuomintang and ccp took place with salutary effects for the beleaguered ccp, despite japan's steady territorial gains in northern china, the coastal regions and the rich yangtze river valley in central china. after 1940 conflicts between the kuomintang and communists became more frequent in the areas not under japanese control. the entrance of the united states into the pacific war after 1941 changed the nature of their relationship. the communists expanded their influence wherever opportunities presented themselves through mass organizations, administrative reforms and the land- and tax-reform measures favoring the peasants and the spread of their organizational network, while the kuomintang attempted to neutralize the spread of communist influence. meanwhile, northern china was infiltrated politically by japanese politicians in manchukuo using facilities such as wei huang gong.
+in 1945, the republic of china emerged from the war nominally a great military power but actually a nation economically prostrate and on the verge of all-out civil war. the economy deteriorated, sapped by the military demands of foreign war and internal strife, by spiraling inflation and by nationalist profiteering, speculation and hoarding. starvation came in the wake of the war, and millions were rendered homeless by floods and the unsettled conditions in many parts of the country. the situation was further complicated by an allied agreement at the yalta conference in february 1945 that brought soviet troops into manchuria to hasten the termination of war against japan. although the chinese had not been present at yalta, they had been consulted and had agreed to have the soviets enter the war in the belief that the soviet union would deal only with the kuomintang government.
+after the end of the war in august 1945, the nationalist government moved back to nanjing. with american help, nationalist troops moved to take the japanese surrender in north china. the soviet union, as part of the yalta agreement allowing a soviet sphere of influence in manchuria, dismantled and removed more than half the industrial equipment left there by the japanese. the soviet presence in northeast china enabled the communists to move in long enough to arm themselves with the equipment surrendered by the withdrawing japanese army. the problems of rehabilitating the formerly japanese-occupied areas and of reconstructing the nation from the ravages of a protracted war were staggering.
+
+post-world war ii[edit]
+further information: chinese civil war, taiwan after world war ii, first taiwan strait crisis, and cross-strait relations
+for the history of republic of china after 1949, see taiwan.
+during world war ii, the united states has become increasingly involved in chinese affairs. as an ally, it embarked in late 1941 on a program of massive military and financial aid to the hard-pressed nationalist government. in january 1943, both the united states and the united kingdom led the way in revising their unequal treaties with china from the past.[30][31] within a few months a new agreement was signed between the united states and the republic of china for the stationing of american troops in china for the common war effort against japan. in december 1943 the chinese exclusion acts of the 1880s and subsequent laws enacted by the united states congress to restrict chinese immigration into the united states were repealed.
+the wartime policy of the united states was initially to help china become a strong ally and a stabilizing force in postwar east asia. as the conflict between the kuomintang and the communists intensified, however, the united states sought unsuccessfully to reconcile the rival forces for a more effective anti-japanese war effort. following the surrender of japan, the administration of taiwan was handed over from japan to the republic of china on 25 october 1945.[32]  toward the end of the war, united states marines were used to hold beiping (beijing) and tianjin against a possible soviet incursion, and logistic support was given to kuomintang forces in north and northeast china. to further this end, on 30 september 1945 the 1st marine division arrived in china, charged with security in the areas of the shandong peninsula and the eastern hebei province.[33] during the war, china was one of the big four allies of world war ii and later became the four policemen, which was a precursor to the united nations security council.[34]
+through the mediating influence of the united states a military truce was arranged in january 1946, but battles between the kuomintang and communists soon resumed. public opinion of the administrative incompetence of the nationalist government was escalated and incited by the communists in the nationwide student protest against mishandling of the shen chong rape case in early 1947 and another national protest against monetary reforms later that year. realizing that no american efforts short of large-scale armed intervention could stop the coming war, the united states withdrew the american mission, headed by gen. george c. marshall, in early 1947. the chinese civil war became more widespread; battles raged not only for territories but also for the allegiance of cross-sections of the population. the united states aided the nationalists with massive economic loans and weapons but no combat support.
+
+ the nationalists' retreat to taipei: after the nationalists lost nanjing (nanking) they next moved to guangzhou (canton), then to chongqing (chungking), chengdu (chengtu) and xichang (sichang) before arriving in taipei.
+belatedly, the republic of china government sought to enlist popular support through internal reforms. the effort was in vain, however, because of rampant government corruption and the accompanying political and economic chaos. by late 1948 the kuomintang position was bleak. the demoralized and undisciplined national revolutionary army proved to be no match for the motivated and disciplined communist people's liberation army, earlier known as the red army. the communists were well established in the north and northeast. although the kuomintang had an advantage in numbers of men and weapons, controlled a much larger territory and population than their adversaries and enjoyed considerable international support, they were exhausted by the long war with japan and in-fighting among various generals. they were also losing the propaganda war to the communists, with a population weary of kuomintang corruption and yearning for peace.
+in january 1949, beiping was taken by the communists without a fight, and its name changed back to beijing. following the capture of nanjing on 23 april, major cities passed from kuomintang to communist control with minimal resistance through november. in most cases the surrounding countryside and small towns had come under communist influence long before the cities. finally, on 1 october 1949, communists led by mao zedong founded the people's republic of china. during those periods, chiang kai-shek declared martial law in may 1949 whilst a few hundred thousand nationalist troops and two million refugees, predominantly from the government and business community, fled from mainland china to taiwan; there remained in china itself only isolated pockets of resistance. on 7 december 1949 chiang proclaimed taipei, taiwan, the temporary capital of the republic of china.
+during the civil war both the nationalists and communists carried out mass atrocities with millions of non-combatants killed by both sides during the civil war.[35] benjamin valentino has estimated atrocities in the chinese civil war resulted in the death of between 1.8 million and 3.5 million people between 1927 and 1949. atrocities include deaths from forced conscription and massacres.[36]
+
+government[edit]
+main article: government of the republic of china
+see also: provisional government of the republic of china (1912), beiyang government, warlord era, nationalist government, and reorganized national government of the republic of china
+the first chinese national government was established on 1 january 1912, in nanjing, with sun yat-sen as the provisional president. provincial delegates were sent to confirm the authority of the national government, and they later also formed the first parliament. the power of this national government was limited and short-lived, with generals controlling both central and northern provinces of china. the limited acts passed by this government included the formal abdication of the qing dynasty and some economic initiatives.
+the parliament's authority became nominal; violations of the constitution by yuan were met with half-hearted motions of censure, and kuomintang members of the parliament that gave up their membership in the kmt were offered 1,000 pounds. yuan maintained power locally by sending military generals to be provincial governors or by obtaining the allegiance of those already in power.
+when yuan died, the parliament of 1913 was reconvened to give legitimacy to a new government. however, the real power of the time passed to military leaders, forming the warlord period. the impotent government still had its use; when world war i began, several western powers and japan wanted china to declare war on germany, in order to liquidate german holdings.
+there were also several warlord governments and puppet states sharing the same name.
+the government of the republic of china was founded on the constitution of the roc and its three principles of the people, which states that "[the roc] shall be a democratic republic of the people, to be governed by the people and for the people."[37]
+in february 1928, the fourth plenary session of the 2nd kuomintang national congress held in nanjing passed the reorganization of the nationalist government act. this act stipulated that the nationalist government was to be directed and regulated under the central executive committee of the kuomintang, with the committee of the nationalist government being elected by kmt central committee. under the nationalist government were seven ministries – interior, foreign affairs, finance, transport, justice, agriculture and mines, commerce in addition institutions such as the supreme court, control yuan and the general academy.
+
+ nationalist government of nanking – nominally ruling over entire china during 1930s
+with the promulgation of the organic law of the nationalist government in october 1928, the government was reorganized into five different branches or yuan, namely the executive yuan, legislative yuan, judicial yuan, examination yuan as well as the control yuan. the chairman of the national government was to be the head-of-state and commander-in-chief of the national revolutionary army. chiang kai-shek was appointed as the first chairman of the nationalist government, a position he would retain until 1931. the organic law also stipulated that the kuomintang, through its national congress and central executive committee, would exercise sovereign power during the period of political tutelage, and the kmt's political council would guide and superintend the nationalist government in the execution of important national affairs, and that the council has the power to interpret or amend the organic law.[38]
+shortly after the second sino-japanese war, the long-delayed constitutional convention was summoned to meet in nanking in may 1946. amidst heated debate, this convention adopted many demands from several parties, including the kmt and the communist party, into the constitution. this constitution was promulgated on 25 december 1946 and came into effect on 25 december 1947. under it, the central government was divided into the president and the five yuans, each responsible for one power of the government. none was responsible to the other except for certain obligations such as the president appointing the head of the executive yuan. ultimately the president and the yuans reported to the national assembly, which represented the will of the citizens.
+the first elections for the national assembly occurred in january 1948, and the assembly was summoned to meet in march 1948. it elected the president of the republic on 21 march 1948, formally bringing an end to the kmt party rule started in 1928—though the president was a member of the kmt. these elections, though praised by at least one us observer, were poorly received by the communist party, which would soon start an open, armed insurrection.
+
+foreign relations[edit]
+see also: foreign relations of china and foreign relations of taiwan
+before the nationalist government was ousted from the mainland, the republic of china had diplomatic relations with 59 countries such as australia, canada,  cuba, czechoslovakia, estonia, france, germany, guatemala, honduras, italy, japan, latvia, lithuania, norway, panama, siam, soviet union, spain, united kingdom, united states, and vatican city.  most of these relations continued at least until the 1970s, and the republic of china remained a member of the united nations until 1971.
+
+administrative divisions[edit]
+see also: history of the administrative divisions of china (1912–49)
+.mw-parser-output .mod-gallery{display:table}.mw-parser-output .mod-gallery-default{background:transparent;margin-top:0.5em}.mw-parser-output .mod-gallery-center{margin-left:auto;margin-right:auto}.mw-parser-output .mod-gallery-left{float:left}.mw-parser-output .mod-gallery-right{float:right}.mw-parser-output .mod-gallery-none{float:none}.mw-parser-output .mod-gallery-collapsible{width:100%}.mw-parser-output .mod-gallery .title{display:table-row}.mw-parser-output .mod-gallery .title>div{display:table-cell;text-align:center;font-weight:bold}.mw-parser-output .mod-gallery .main{display:table-row}.mw-parser-output .mod-gallery .main>div{display:table-cell}.mw-parser-output .mod-gallery .caption{display:table-row;vertical-align:top}.mw-parser-output .mod-gallery .caption>div{display:table-cell;display:block;font-size:94%;padding:0}.mw-parser-output .mod-gallery .footer{display:table-row}.mw-parser-output .mod-gallery .footer>div{display:table-cell;text-align:right;font-size:80%;line-height:1em}.mw-parser-output .mod-gallery .gallerybox .thumb img{background:none}.mw-parser-output .mod-gallery .bordered-images img{border:solid #eee 1px}.mw-parser-output .mod-gallery .whitebg img{background:#fff!important}.mw-parser-output .mod-gallery .gallerybox div{background:#fff!important}
+
+
+
+rand mcnally map of the republic of china in 1914 while mongolia declare its independence
+
+
+
+
+
+
+map of provinces and equivalents of the republic of china in law (1945)
+
+
+
+
+
+
+provinces and equivalents of the republic of china (1945)[39]
+
+
+period name (current name)
+traditionalchinese
+pinyin
+abbreviation
+capital
+chinese
+modern equivalent (if applicable)
+
+
+provinces
+
+
+antung (andong)
+安東
+āndōng
+安 ān
+tunghwa (tonghua)
+通化
+now part of jilin and liaoning
+
+
+anhwei (anhui)
+安徽
+ānhuī
+皖 wǎn
+hofei (hefei)
+合肥
+
+
+chahar (chahar)
+察哈爾
+cháhār
+察 chá
+changyuan (zhangjiakou)
+張垣(張家口)
+now part of inner mongolia and hebei
+
+
+chekiang (zhejiang)
+浙江
+zhèjiāng
+浙 zhè
+hangchow (hangzhou)
+杭州
+
+
+fukien (fujian)
+福建
+fújiàn
+閩 mǐn
+foochow (fuzhou)
+福州
+
+
+hopeh (hebei)
+河北
+héběi
+冀 jì
+tsingyuan (baoding)
+清苑(保定)
+
+
+heilungkiang (heilongjiang)
+黑龍江
+hēilóngjiāng
+黑 hēi
+peian (bei'an)
+北安
+
+
+hokiang (hejiang)
+合江
+héjiāng
+合 hé
+chiamussu (jiamusi)
+佳木斯
+now part of heilongjiang
+
+
+honan (henan)
+河南
+hénán
+豫 yù
+kaifeng (kaifeng)
+開封
+
+
+hupeh (hubei)
+湖北
+húběi
+鄂 è
+wuchang (wuchang)
+武昌
+
+
+hunan (hunan)
+湖南
+húnán
+湘 xiāng
+changsha (changsha)
+長沙
+
+
+hsingan (xing'an)
+興安
+xīng'ān
+興 xīng
+hailar (hulunbuir)
+海拉爾(呼倫貝爾)
+now part of heilongjiang and jilin
+
+
+jehol (rehe)
+熱河
+rèhé
+熱 rè
+chengteh (chengde)
+承德
+now part of hebei, liaoning, and inner mongolia
+
+
+kansu (gansu)
+甘肅
+gānsù
+隴 lǒng
+lanchow (lanzhou)
+蘭州
+
+
+kiangsu (jiangsu)
+江蘇
+jiāngsū
+蘇 sū
+chingkiang (zhenjiang)
+鎮江
+
+
+kiangsi (jiangxi)
+江西
+jiāngxī
+贛 gàn
+nanchang (nanchang)
+南昌
+
+
+kirin (jilin)
+吉林
+jílín
+吉 jí
+kirin (jilin)
+吉林
+
+
+kwangtung (guangdong)
+廣東
+guǎngdōng
+粵 yuè
+canton (guangzhou)
+廣州
+
+
+kwangsi (guangxi)
+廣西
+guǎngxī
+桂 guì
+kweilin (guilin)
+桂林
+
+
+kweichow (guizhou)
+貴州
+guìzhōu
+黔 qián
+kweiyang (guiyang)
+貴陽
+
+
+liaopeh (liaobei)
+遼北
+liáoběi
+洮 táo
+liaoyuan (liaoyuan)
+遼源
+now mostly part of inner mongolia
+
+
+liaoning (liaoning)
+遼寧
+liáoníng
+遼 liáo
+shenyang (shenyang)
+瀋陽
+
+
+ningsia (ningxia)
+寧夏
+níngxià
+寧 níng
+yinchuan (yinchuan)
+銀川
+
+
+nunkiang (nenjiang)
+嫩江
+nènjiāng
+嫩 nèn
+tsitsihar (qiqihar)
+齊齊哈爾
+the province was abolished in 1950 and incorporated with heilongjiang province.
+
+
+shansi (shanxi)
+山西
+shānxī
+晉 jìn
+taiyuan (taiyuan)
+太原
+
+
+shantung (shandong)
+山東
+shāndōng
+魯 lǔ
+tsinan (jinan)
+濟南
+
+
+shensi (shaanxi)
+陝西
+shǎnxī
+陝 shǎn
+sian (xi'an)
+西安
+
+
+sikang (xikang)
+西康
+xīkāng
+康 kāng
+kangting (kangding)
+康定
+now part of tibet and sichuan
+
+
+sinkiang (xinjiang)
+新疆
+xīnjiāng
+新 xīn
+tihwa (ürümqi)
+迪化(烏魯木齊)
+
+
+suiyuan (suiyuan)
+綏遠
+suīyuǎn
+綏 suī
+kweisui (hohhot)
+歸綏(呼和浩特)
+now part of inner mongolia
+
+
+sungkiang (songjiang)
+松江
+sōngjiāng
+松 sōng
+mutankiang (mudanjiang)
+牡丹江
+now part of heilongjiang
+
+
+szechwan (sichuan)
+四川
+sìchuān
+蜀 shǔ
+chengtu (chengdu)
+成都
+
+
+taiwan (taiwan)
+臺灣
+táiwān
+臺 tái
+taipei
+臺北
+
+
+tsinghai (qinghai)
+青海
+qīnghǎi
+青 qīng
+sining (xining)
+西寧
+
+
+yunnan (yunnan)
+雲南
+yúnnán
+滇 diān
+kunming (kunming)
+昆明
+
+
+special administrative region
+
+
+hainan (hainan)
+海南
+hǎinán
+瓊 qióng
+haikow (haikou)
+海口
+
+
+regions
+
+
+mongolia area (outer mongolia)
+蒙古
+ménggǔ
+蒙 méng
+kulun (ulaanbaatar)
+庫倫(烏蘭巴托)
+now part of state mongolia, kmt recognized its independence in 1946, but overturned previous recognition in 1953
+
+
+tibet area (tibet area)
+西藏
+xīzàng
+藏 zàng
+lhasa
+拉薩
+
+
+special municipalities
+
+
+nanking (nanjing)
+南京
+nánjīng
+京 jīng
+(chinhuai district)
+秦淮區
+
+
+shanghai (shanghai)
+上海
+shànghǎi
+滬 hù
+(huangpu district)
+黄浦區
+
+
+peiping or  peking (beijing)
+北平
+běipíng
+平 píng
+(xicheng district)
+西城區
+
+
+tientsin (tianjin)
+天津
+tiānjīn
+津 jīn
+(heping district)
+和平區
+
+
+chungking (chongqing)
+重慶
+chóngqìng
+渝 yú
+(yuzhong district)
+渝中區
+
+
+hankow (hankou, wuhan)
+漢口
+hànkǒu
+漢 hàn
+(jiang'an district)
+江岸區
+
+
+canton (guangzhou)
+廣州
+guǎngzhōu
+穗 suì
+(yuexiu district)
+越秀區
+
+
+sian (xi'an)
+西安
+xī'ān
+安 ān
+(weiyang district)
+未央區
+
+
+tsingtao (qingdao)
+青島
+qīngdǎo
+膠 jiāo
+(shinan district)
+市南區
+
+
+dairen (dalian)
+大連
+dàlián
+連 lián
+(xigang district)
+西崗區
+
+
+mukden (shenyang)
+瀋陽
+shěnyáng
+瀋 shěn
+(shenhe district)
+瀋河區
+
+
+harbin (harbin)
+哈爾濱
+hā'ěrbīn
+哈 hā
+(nangang district)
+南崗區
+
+the roc had complicated relations with mongolia (outer mongolia). as the successor of the qing dynasty, the roc claimed outer mongolia, and for a short time occupied it by beiyang government. the nationalist government of roc recognised mongolia's independence in the 1945 sino-soviet treaty of friendship due to pressure from soviet union but the recognition was rescinded in 1953 during the cold war.
+[40]
+
+economy[edit]
+main article: economic history of china (1912–49)
+ boat traffic and development along suzhou creek, around 1920, shanghai
+ a bill from 1930, early roc
+in the early years of the republic of china, the economy remained unstable as the country was marked by constant warfare between different regional warlord factions. the beiyang government in beijing were also experiencing constant change of leadership, and this political instability led to stagnation in economic development until chinese reunification in 1928 by the kuomintang.[41]
+after the kuomintang reunified the country in 1928, china entered a period of relative stability despite of ongoing isolated military conflicts and in the face of japanese aggression in shandong eventually manchuria in 1931.
+the 1930s in china were alternatively known as the "nanjing decade", in which economic growth was ongoing due to relative political stability compared to the previous decade. chinese industries grew considerably from 1928 to 1931. while the economy was hit again by japanese occupation of manchuria in 1931 and the great depression from 1931 to 1935, industrial output recovered to their earlier peak by 1936. this is reflected by the trends in chinese gdp. in 1932, china's gdp peaked at 28.8 billion, before falling to 21.3 billion by 1934 and recovering to 23.7 billion by 1935.[42] by 1930, foreign investment in china totaled 3.5 billion, with japan leading (1.4 billion) and the united kingdom at 1 billion. by 1948, however, the capital stock had halted with investment dropping to only 3 billion, with the us and britain leading.[43]
+however, the rural economy was hit hard by the great depression of the 1930s, in which an overproduction of agricultural goods lead to massive falling prices for china as well as an increase in foreign imports (as agricultural goods produced in western countries were "dumped" in china). in 1931, imports of rice in china amounted to 21 million bushels compared with 12 million in 1928. other goods saw even more staggering increases. in 1932, 15 million bushels of grain were imported compared with 900,000 in 1928. this increased competition lead to a massive decline in chinese agricultural prices (which were cheaper) and thus the income of rural farmers. in 1932, agricultural prices were 41 percent of 1921 levels.[44] rural incomes had fallen to 57 percent of 1931 levels by 1934 in some areas.[44]
+in 1937, japan invaded china and the resulting warfare laid waste to china. most of the prosperous east china coast was occupied by the japanese, who carried out various atrocities such as the rape of nanjing in 1937. in one anti-guerilla sweep in 1942, the japanese killed up to 200,000 civilians in a month. the war was estimated to have killed between 20 and 25 million chinese, and destroyed all that chiang had built up in the preceding decade.[45] development of industries was severely hampered after the war by devastating conflict as well as the inflow of cheap american goods. by 1946, chinese industries operated at 20% capacity and had 25% of the output of pre-war china.[46]
+one effect of the war was a massive increase in government control of industries. in 1936, government-owned industries were only 15% of gdp. however, the roc government took control of many industries in order to fight the war. in 1938, the roc established a commission for industries and mines to control and supervise firms, as well as instilling price controls. by 1942, 70% of the capital of chinese industry were owned by the government.[47]
+following the war with japan, chiang acquired taiwan from japan and renewed his struggle with the communists. however, the corruption of the kmt, as well as hyperinflation as a result of trying to fight the civil war, resulted in mass unrest throughout the republic[48] and sympathy for the communists. in addition, the communists' promise to redistribute land gained them support among the massive rural population. in 1949, the communists captured beijing and later nanjing as well. the people's republic of china was proclaimed on 1 october 1949. the republic of china relocated to taiwan where japan had laid an educational groundwork.[49]
+
+military[edit]
+main articles: beiyang army and national revolutionary army
+ beiyang army troops on parade.
+the original military power of the republic of china was inherited from the new army, mainly the beiyang army. the beiyang army later split into many warlords and attacked each other.[50] the national revolutionary army, which was established by sun yat-sen in 1925 in guangdong with the goal of reunifying china under the kuomintang. originally organized with soviet aid as a means for the kmt to unify china against warlordism, the national revolutionary army fought major engagements in the northern expedition against the chinese beiyang army warlords, in the second sino-japanese war against the imperial japanese army, and in the chinese civil war against the people's liberation army.[citation needed]
+
+ the nra during world war ii
+during the second sino-japanese war, the armed forces of the communist party of china were nominally incorporated into the national revolutionary army (while retaining separate commands), but broke away to form the people's liberation army shortly after the end of the war. with the promulgation of the constitution of the republic of china in 1947 and the formal end of the kmt party-state, the national revolutionary army was renamed the republic of china armed forces, with the bulk of its forces forming the republic of china army, which retreated to taiwan in 1949 after their defeat in the chinese civil war. units which surrendered and remained in mainland china were either disbanded or incorporated into the people's liberation army.[51]
+
+see also[edit]
+
+
+china portal
+taiwan portal
+economic history of china (1912–49)
+five races under one union
+sino-german cooperation 1926–1941
+sino-soviet relations
+three principles of the people
+notes[edit]
+
+
+^ provisional government was also established here.
+
+^ chongqing served as provisional capital during the second sino-japanese and pacific wars (1937–46).
+
+^ wuchang uprising started.
+
+^ the last monarch of qing dynasty, xuantong emperor abdicated, qing dynasty formally ended.
+
+^ chinese communist revolution.
+
+^ marco polo bridge incident started.
+
+^ surrender of japan at the end of world war ii.
+
+^ although this is the present meaning of guó, in old chinese (when its pronunciation was something like /*qʷˤək/)[3] it meant the walled city of the chinese and the areas they could control from them.[4]
+
+^ its use is attested from the 6th-century classic of history, which states "huangtian bestowed the lands and the peoples of the central state to the ancestors" (皇天既付中國民越厥疆土于先王).[5]
+
+
+references[edit]
+citations[edit]
+
+
+^ dreyer, june teufel (17 july 2003). the evolution of a taiwanese national identity. woodrow wilson international center for scholars. retrieved 13 january 2018..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ bilik, naran (2015), "reconstructing china beyond homogeneity", patriotism in east asia, political theories in east asian context, abingdon: routledge, p. 105
+
+^ baxter-sagart.
+
+^ a b wilkinson, endymion (2000), chinese history: a manual, harvard-yenching institute monograph no. 52, cambridge: harvard university asia center, p. 132, isbn 978-0-674-00249-4
+
+^ 《尚書》, 梓材. (in chinese)
+
+^ http://www.chinadaily.com.cn/a/201806/06/ws5b174f73a31001b82571e71c.html
+
+^ http://www.ciis.org.cn/english/2013-05/02/content_5919530.htm
+
+^ a b china, fiver thousand years of history and civilization. city university of hong kong press. 2007. p. 116. isbn 9789629371401. retrieved 9 september 2014.
+
+^ roy, denny (2003). taiwan: a political history. ithaca, new york: cornell university press. pp. 55, 56. isbn 0-8014-8805-2.
+
+^ "taiwan timeline – retreat to taiwan". bbc news. 2000. retrieved 2009-06-21.
+
+^ china: u.s. policy since 1945. congressional quarterly. 1980. isbn 0-87187-188-2. the city of taipei became the temporary capital of the republic of china
+
+^ "introduction to sovereignty: a case study of taiwan". stanford program on international and cross-cultural education. 2004. retrieved 2010-02-25.
+
+^ a b "the chinese revolution of 1911". us department of state. retrieved 2016-10-27.
+
+^ spence, jonathan d. [1991] (1991), the search for modern china, ww norton & co. isbn 0-393-30780-8.
+
+^ fenby 2009, pp. 89–94
+
+^ fairbank; goldman. china. p. 235. isbn 0-690-07612-6.
+
+^ "孙中山任临时大总统誓词手迹". people.com.
+
+^ fenby 2009, pp. 123–125
+
+^ fenby 2009, p. 131
+
+^ fenby 2009, pp. 136–138
+
+^ meyer, kathryn; james h wittebols; terry parssinen (2002). webs of smoke. rowman & littlefield. pp. 54–56. isbn 0-7425-2003-x.
+
+^ pak, edwin; wah leung (2005). essentials of modern chinese history. research & education assoc. pp. 59–61. isbn 978-0-87891-458-6.
+
+^ guillermaz, jacques (1972). a history of the chinese communist party 1921–1949. taylor & francis. pp. 22–23.
+
+^ fenby 2009
+
+^ "民國十六年，國民政府宣言定為首都，今以臺北市為我國中央政府所在地。". ministry of education, roc. retrieved 2012-12-22.
+
+^ edmund s. k. fung. in search of chinese democracy: civil opposition in nationalist china, 1929–1949 (cambridge; new york: cambridge university press, 2000. isbn 0521771242), p. 30.
+
+^ chen, lifu; ramon hawley myers (1994).  hsu-hsin chang, ramon hawley myers, ed. the storm clouds clear over china: the memoir of chʻen li-fu, 1900–1993. hoover press. p. 102. isbn 0-8179-9272-3. after the 1930 mutiny ended, chiang accepted the suggestion of wang ching-wei, yen hsi-shan, and feng yü-hsiang that a provisional constitution for the political tutelage period be drafted.
+
+^ (fung 2000, p. 5) "nationalist disunity, political instability, civil strife, the communist challenge, the autocracy of chiang kai-shek, the ascendancy of the military, the escalating japanese threat, and the "crisis of democracy" in italy, germany, poland, and spain, all contributed to a freezing of democracy by the nationalist leadership."
+
+^ jing zhiren (荆知仁).  中华民国立宪史 (in chinese). 联经出版公司.
+
+^ sino-u.s. treaty for relinquishment of extraterritorial rights in china
+
+^ sino-british treaty for the relinquishment of extra-territorial rights in china
+
+^ brendan m. howe (2016). post-conflict development in east asia. routledge. p. 71. isbn 9781317077404.
+
+^ jessup, john e. (1989). a chronology of conflict and resolution, 1945–1985. new york: greenwood press. isbn 0-313-24308-5.
+
+^ urquhart, brian. looking for the sheriff. new york review of books, 16 july 1998.
+
+^ rummel, rudolph (1994), death by government.
+
+^ valentino, benjamin a. final solutions: mass killing and genocide in the twentieth century cornell university press. 8 december 2005. p88
+
+^ "the republic of china yearbook 2008 / chapter 4 government". government information office, republic of china (taiwan). 2008. retrieved 2009-05-28.[dead link]
+
+^ wilbur, clarence martin. the nationalist revolution in china, 1923–1928. cambridge university press, 1983, p. 190.
+
+^ national institute for compilation and translation of the republic of china (taiwan): geography textbook for junior high school volume 1 (1993 version): lesson 10: pages 47 to 49
+
+^ 1945年「外モンゴル独立公民投票」をめぐる中モ外交交渉.
+
+^ sun jian, pages 613–614[citation needed]
+
+^ sun jian, pg 1059–1071
+
+^ sun jian, pg 1353
+
+^ a b sun jian, page 1089
+
+^ sun jian, page 615-616
+
+^ sun jian, page 1319
+
+^ sun jian, pg 1237–1240
+
+^ sun jian, page 617-618
+
+^ gary marvin davison. a short history of taiwan: the case for independence. praeger publishers. p. 64. isbn 0-275-98131-2. basic literacy came to most of the school-aged populace by the end of the japanese tenure on taiwan. school attendance for taiwanese children rose steadily throughout the japanese era, from 3.8 percent in 1904 to 13.1 percent in 1917; 25.1 percent in 1920; 41.5 percent in 1935; 57.6 percent in 1940; and 71.3 percent in 1943.
+
+^ schillinger, nicolas (2016). the body and military masculinity in late qing and early republican china: the art of governing soldiers. lexington books. p. 2. isbn 978-1498531689.
+
+^ westad, odd (2003). decisive encounters: the chinese civil war, 1946–1950. stanford university press. p. 305. isbn 978-0-8047-4484-3.
+
+
+sources[edit]
+.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}
+jowett, philip. (2013) china's wars: rousing the dragon 1894–1949 (bloomsbury publishing, 2013).
+li, xiaobing. (2007) a history of the modern chinese army excerpt
+li, xiaobing. (2012) china at war: an encyclopedia excerpt
+jean chesneaux; françoise le barbier; marie-claire bergère (1977). china from the 1911 revolution to liberation. pantheon books. isbn 978-0-394-73332-6.
+john van antwerp macmurray (1921). treaties and agreements with and concerning china, 1894-1919: republican period (1912-1919). oxford university press. pp. 1565–.
+john van antwerp macmurray (1921). republican period (1912–1919). oxford university press. pp. 1565–.
+carnegie endowment for international peace. division of international law (1929). treaties and agreements with and concerning china, 1919–1929. carnegie endowment for international peace.
+john van antwerp macmurray (1973). treaties and agreements with and concerning china, 1894–1919: republican period (1912–1919). h. fertig. pp. 1565–.
+mao zedong; stuart schram (3 june 2015). mao's road to power: revolutionary writings, 1912–49: v. 1: pre-marxist period, 1912–20: revolutionary writings, 1912–49. routledge. pp. 326–. isbn 978-1-317-46541-6.
+george f. botjer (1979). a short history of nationalist china, 1919-1949. putnam. p. 180.
+
+external links[edit]
+ chinese revolutionary destinations travel guide from wikivoyage
+ media related to republic of china (1912–1949) at wikimedia commons
+vte warlord era 1915–19241925–1934factions
+1915twenty-one demands1915–1916empire of china (yuan shikai)national protection war1916death of yuan shikai1917manchu restoration1917–1922constitutional protection movement1917–1929golok rebellion1918–1920siberian intervention1919paris peace conferenceshandong problemmay fourth movement1919–1921occupation of outer mongolia1920zhili–anhui war1920–1921guangdong–guangxi war19211st national cpc congress1921–1922washington naval conference1922first zhili–fengtian war1923–1927first united front1924second zhili–fengtian warbeijing coup
+
+1925yunnan–guangxi warmay thirtieth movement1925–1926anti-fengtian war1926zhongshan warship incident1926–1928northern expeditionnanjing–wuhan splitnationalist-communist civil war1927shanghai massacre1927–1930muslim conflict in gansu1928jinan incidenthuanggutun incidentlooting of the eastern mausoleumflag replacement of the northeast1928–1929third red spears' uprising in shandong1929warlord rebellion in northeastern shandong (incl. beijing revolt)sino-soviet conflict1930central plains war1930–1932sino-tibetan war / qinghai–tibet war1931–1935kumul rebellion / soviet invasion of xinjiang1932han–liu war1934war in ningxia
+
+yuan shikai
+anhui
+communications
+zhili
+research
+fengtian (zhili army)
+northeastern army
+shanxi
+guominjun
+ma
+xinjiang
+yunnan
+sichuan
+old guangxi
+new guangxi (guangdong)
+kuomintang (kmt)
+communist party (cpc)
+republic of china (1912–1949)
+vtechina articleshistory
+china
+timeline
+ancient china (outline) (2070–221 bce)
+imperial china (221 bce–1911 ce)
+republic of china (1912–1949)
+people's republic of china−prc
+prc 1949–76
+prc 1976–89
+prc 1989–2002
+prc since 2002
+years in the prc
+geographynatural environmentoverviews
+borders
+extreme points
+geology
+natural disasters
+regions
+east
+northeast
+north
+south central
+central
+south
+western
+northwest
+southwest
+terrain
+bays
+canyons
+caves
+deserts
+grasslands
+hills
+islands
+mountains
+ranges
+passes
+peninsulas
+northeast / north / central plains
+valleys
+volcanoes
+water
+canals
+lakes
+rivers
+waterfalls
+wetlands
+water resources
+seas
+bohai
+yellow
+east china
+south china
+reserves
+protected areas
+national parks
+nature reserves
+unesco biosphere reserves
+wildlife
+fauna
+flora
+governmentpoliticseconomygovernmentand politics
+civil service
+constitution
+elections
+environmental policy
+foreign relations
+military (people's liberation army)
+national people's congress
+standing committee
+national security
+political parties and movements
+communist party
+general secretary
+politburo
+democratic parties
+anti-democratisation
+pro-democratisation
+president
+vice president
+state council
+premier
+vice premier
+administrativedivisions
+baseline islands
+border crossings
+cities
+province-level subdivisions
+law
+judicial system
+human rights
+lgbt
+law enforcement
+nationality law
+penal system
+economy
+agriculture
+banking
+central bank
+economic history
+energy
+petroleum industry
+renewable energy
+finance system
+foreign aid received
+foreign aid program
+historical gdp
+international rankings
+poverty
+reform
+renminbi (currency)
+science and technology
+history
+special economic zones (sezs)
+standard of living
+telecommunications
+tourism
+aaaaa tourist attractions of china
+transport
+airports
+ports and harbors
+peoplesocietyculturepeople
+demographics
+emigration
+ethnic groups
+internal migration
+statistics
+urbanization
+society
+anthem
+chinese dream
+corruption
+crime
+emblem
+education
+universities
+flag
+"generation y"
+harmonious socialist society
+hiv/aids
+intellectualism
+languages
+poverty
+public health
+food safety
+incidents
+public holidays
+rural life
+sexuality
+socialism with chinese characteristics
+social issues
+social relations
+social structure
+social welfare
+suicide
+terrorism
+time zones
+urban life
+water supply and sanitation
+women
+xiaokang (middle-class)
+primary stage of socialism
+culture
+archaeology
+archives
+art
+cinema
+cuisine
+dance
+gardens
+libraries
+martial arts
+media
+newspapers
+radio
+television
+music
+parks
+philosophy
+religion
+smoking
+sports
+tea culture
+tourism
+variety arts
+world heritage sites
+literature
+poetry
+folklore
+mythology
+novel
+xiehouyu
+ chinese idiom
+index
+category
+portal
+vtetaiwan articleshistory
+timeline of taiwanese history
+prehistory
+archaeological sites
+dutch formosa
+spanish formosa
+kingdom of tungning
+qing empire
+republic of formosa
+empire of japan
+republic of china
+retreat to taiwan
+geographyoverviews
+cities
+climate
+earthquakes
+endemic species / protected species
+hot springs
+islands
+lakes
+mountains
+national parks
+rivers
+scenic areas
+superlatives
+volcanoes
+governmentpoliticseconomygovernmentand politics
+censorship
+constitution
+elections
+government
+human rights
+lgbt rights
+lgbt history
+intelligence
+law
+enforcement
+nationality
+legislative yuan (parliament)
+military
+conscription
+president
+political parties
+propaganda
+north–south divide
+administrativedivisions
+special municipalities
+kaohsiung
+new taipei
+taichung
+tainan
+taipei
+taoyuan
+cities
+chiayi
+hsinchu
+keelung
+counties
+changhua
+chiayi
+hsinchu
+hualien
+kinmen
+matsu
+miaoli
+nantou
+pingtung
+taitung
+yilan
+yunlin
+political issues
+foreign relations
+cross-strait relations
+political status of taiwan
+one country on each side
+special non-state-to-state relations
+two chinas
+chinese taipei
+taiwanization
+de-sinicization
+taiwanese nationalism
+chinese nationalism
+taiwan independence
+chinese unification
+economy
+banks
+central bank
+companies
+dollar (currency)
+economic history
+energy
+electricity
+mining
+metropolitan areas
+stock exchange
+taiwan miracle
+telecommunications
+transportation
+taxation
+uniform invoice lottery
+peoplesocietyculturepeopledemographics
+taiwanese people
+taiwanese indigenous peoples
+ethnic groups
+hans
+hoklos
+hakkas
+mainland chinese
+languages
+formosan languages
+amis
+atayal
+bunun
+kanakanabu
+kavalan
+paiwan
+puyuma
+rukai
+saaroa
+saisiyat
+sakizaya
+seediq
+thao
+tsou
+yami
+sinitic
+mandarin
+taiwanese hokkien
+hakka
+matsu dialect
+sign language
+braille
+society
+anthem
+architecture
+education
+universities
+academia sinica
+scholarships
+history
+ministry of science and technology
+academia sinica
+flag
+flag anthem
+emblem
+healthcare
+inventions and discoveries
+international rankings
+public holidays
+superlatives
+women
+culture
+animation
+cinema
+cuisine
+cultural history
+drama
+gambling
+glove puppetry
+literature
+media
+ncc
+television
+public television service
+music
+hokkien pop
+mandopop
+opera
+night markets
+photography
+religion
+smoking
+sports
+taiwanese wave
+tea
+tourist attractions
+
+ category
+ portal
+ outline
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=republic_of_china_(1912–1949)&oldid=884064170"					
+categories: republic of china (1912–1949)history of the republic of china20th century in chinastates and territories established in 19121912 establishments in china1949 disestablishments in chinaformer member states of the united nationsformer polities of the cold warhidden categories: articles containing chinese-language textarticles with chinese-language external linkscs1 uses chinese-language script (zh)cs1 chinese-language sources (zh)all articles with dead external linksarticles with dead external links from august 2010cs1 uses japanese-language script (ja)all articles with unsourced statementsarticles with unsourced statements from december 2012articles with short descriptionuse dmy dates from september 2012wikipedia articles needing copy edit from january 2019all articles needing copy editpages using infobox country or infobox former country with the flag caption or type parameterspages using infobox country or infobox former country with the symbol caption or type parametersarticles containing mongolian-language textarticles with unsourced statements from september 2015articles with unsourced statements from october 2017commons category link is defined as the pagename 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commonswikiversity 
+
+
+
+languages
+
+
+العربيةasturianubân-lâm-gúбеларускаяcatalàčeštinadanskdeutscheestiελληνικάespañolesperantoفارسیfrançais客家語/hak-kâ-ngî한국어bahasa indonesiaitalianoעבריתქართულიlatviešubahasa melayuмонголnederlandsnorskoccitanپنجابیportuguêsromânăscotsсрпски / srpskisuomisvenskatagalogไทยtürkçeукраїнськаاردوtiếng việt粵語中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 19 february 2019, at 08:36 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"2.156","walltime":"2.605","ppvisitednodes":{"value":14235,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":522798,"limit":2097152},"templateargumentsize":{"value":75097,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":28,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":113251,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 2077.409      1 -total"," 51.11% 1061.667      8 template:infobox"," 34.98%  726.666      1 template:infobox_former_country"," 17.15%  356.221      2 template:reflist"," 14.36%  298.393      1 template:infobox_chinese"," 12.12%  251.710      3 template:iso_3166_code","  8.11%  168.407     12 template:navbox","  7.82%  162.437     14 template:lang","  7.41%  153.839      2 template:nobold","  5.93%  123.111     22 template:cite_book"]},"scribunto":{"limitreport-timeusage":{"value":"1.163","limit":"10.000"},"limitreport-memusage":{"value":26588261,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1248","timestamp":"20190219083634","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"republic of china (1912\u20131949)","url":"https:\/\/en.wikipedia.org\/wiki\/republic_of_china_(1912%e2%80%931949)","sameas":"http:\/\/www.wikidata.org\/entity\/q13426199","mainentity":"http:\/\/www.wikidata.org\/entity\/q13426199","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2011-09-21t23:23:25z","datemodified":"2019-02-19t08:36:31z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/ff\/flag_of_china_%281912%e2%80%931928%29.svg","headline":"1912\u20131949 country in asia, historical period of the present-day republic of china (taiwan)"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":119,"wghostname":"mw1268"});});
+
+

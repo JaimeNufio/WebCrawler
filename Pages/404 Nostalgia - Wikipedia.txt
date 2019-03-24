@@ -1,0 +1,468 @@
+
+
+
+
+nostalgia - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"nostalgia","wgtitle":"nostalgia","wgcurrevisionid":878995820,"wgrevisionid":878995820,"wgarticleid":171302,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["articles containing ancient greek-language text","all articles with unsourced statements","articles with unsourced statements from june 2016","nostalgia","emotions"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"nostalgia","wgrelevantarticleid":171302,"wgrequestid":"xgwtqqpamfyaaaxfbdyaaaax","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q12151852","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+nostalgia 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+for other uses, see nostalgia (disambiguation).
+ nostalgic visit to a long-disused airline terminal
+ memories of pre-computer-era settings, such as this small office/home office containing no modern computer equipment, can inspire nostalgia.
+nostalgia is a sentimentality for the past, typically for a period or place with happy personal associations.[1] the word nostalgia is learned formation of a greek compound, consisting of νόστος (nóstos), meaning "homecoming", a homeric word, and ἄλγος (álgos), meaning "pain" or "ache", and was coined by a 17th-century medical student to describe the anxieties displayed by swiss mercenaries fighting away from home. described as a medical condition—a form of melancholy—in the early modern period,[2] it became an important trope in romanticism.[1]
+nostalgia is associated with a  yearning for the past, its personalities, and events, especially the "good old days" or a "warm childhood".[3]
+the scientific literature on nostalgia usually refers to nostalgia regarding the personal life and has mainly studied the effects of nostalgia induced during the studies.[4] smell and touch are strong evokers of nostalgia due to the processing of these stimuli first passing through the amygdala, the emotional seat of the brain. these recollections of one's past are usually important events, people one cares about, and places where one has spent time. music[5] and weather[6] can also be strong triggers of nostalgia. nostalgic preferences, the belief that the past was better than the present, have been linked to biases in memory.[7]
+
+contents
+
+1 functions
+
+1.1 improve mood
+1.2 increase social connectedness
+1.3 enhance positive self-regard
+1.4 provide existential meaning
+1.5 promote psychological growth
+1.6 as a deception
+1.7 as a comfort
+1.8 as a political tool
+
+
+2 other aspects
+
+2.1 as a medical condition
+2.2 romanticism
+2.3 music
+2.4 as an advertising tool
+
+
+3 see also
+4 references
+5 further reading
+
+
+functions[edit]
+nostalgia's definition has changed greatly over time.  consistent with its greek word roots meaning "homecoming" and "pain," nostalgia was for centuries considered a potentially debilitating and sometimes fatal medical condition expressing extreme homesickness.[2] the modern view is that nostalgia is an independent, and even positive, emotion that many people experience often. occasional nostalgia has been found to have many functions, such as to improve mood, increase social connectedness, enhance positive self-regard, and provide existential meaning. many nostalgic reflections serve more than one function, and overall seem to benefit those who experience them. such benefits may lead to a chronic disposition or personality trait of "nostalgia proneness."[8][9]
+
+improve mood[edit]
+although nostalgia is often triggered by negative feelings, it results in increasing one's mood and heightening positive emotions, which can stem from feelings of warmth or coping resulting from nostalgic reflections. one way to improve mood is to effectively cope with problems that hinder one's happiness. batcho (2013) found that nostalgia proneness positively related to successful methods of coping throughout all stages—planning and implementing strategies, and reframing the issue positively. these studies led to the conclusion that the coping strategies that are likely among nostalgia prone people often lead to benefits during stressful times. nostalgia can be connected to more focus on coping strategies and implementing them, thus increasing support in challenging times.[10]
+
+increase social connectedness[edit]
+nostalgia also sometimes involves memories of people you were close to, and thus it can increase one's sense of social support and connections. nostalgia is also triggered specifically by feelings of loneliness, but counteracts such feelings with reflections of close relationships. according to zhou et al. (2008), lonely people often have lesser perceptions of social support. loneliness, however, leads to nostalgia, which actually increases perceptions of social support. thus, zhou and colleagues (2008) concluded that nostalgia serves a restorative function for individuals regarding their social connectedness.[11]
+
+enhance positive self-regard[edit]
+nostalgia serves as a coping mechanism and helps people to feel better about themselves. vess et al. (2012) found that the subjects who thought of nostalgic memories showed a greater accessibility of positive characteristics than those who thought of exciting future experiences. additionally, in a second study conducted, some participants were exposed to nostalgic engagement and reflection while the other group was not. the researchers looked again at self-attributes and found that the participants who were not exposed to nostalgic experiences reflected a pattern of selfish and self-centered attributes. vess et al. (2012), however, found that this effect had weakened and become less powerful among the participants who engaged in nostalgic reflection.[12]
+
+provide existential meaning[edit]
+nostalgia helps increase one's self-esteem and meaning in life by buffering threats to well-being and also by initiating a desire to deal with problems or stress. routledge (2011) and colleagues found that nostalgia correlates positively with one's sense of meaning in life. the second study revealed that nostalgia increases one's perceived meaning in life, which was thought to be mediated by a sense of social support or connectedness. thirdly, the researchers found that threatened meaning can even act as a trigger for nostalgia, thus increasing one's nostalgic reflections. by triggering nostalgia, though, one's defensiveness to such threat is minimized as found in the fourth study. the final two studies found that nostalgia is able to not only create meaning, but buffer threats to meaning by breaking the connection between a lack of meaning and one's well being. follow-up studies also completed by routledge in 2012 not only found meaning as a function of nostalgia, but also concluded that nostalgic people have greater perceived meaning, search for meaning less, and can better buffer existential threat.[13][14]
+
+promote psychological growth[edit]
+nostalgia makes people more willing to engage in growth-oriented behaviors and encourages them to view themselves as growth-oriented people. baldwin & landau (2014) found that nostalgia leads people to rate themselves higher on items like "i am the kind of person who embraces unfamiliar people, events, and places." nostalgia also increased interest in growth-related behavior such as "i would like to explore someplace that i have never been before." in the first study, these effects were statistically mediated by nostalgia-induced positive affect—the extent to which nostalgia made participants feel good. in the second study, nostalgia led to the same growth outcomes but the effects were statistically mediated by nostalgia-induced self-esteem.[15]
+
+as a deception[edit]
+one recent study critiques the idea of nostalgia, which in some forms can become a defense mechanism by which people avoid the historical facts.[16] this study looked at the different portrayals of apartheid in south africa and argued that nostalgia appears as two ways,[17] 'restorative nostalgia' a wish to return to that past, and 'reflective nostalgia' which is more critically aware.
+
+as a comfort[edit]
+reliving past memories may provide comfort and contribute to mental health.[18] one notable recent medical study has looked at the physiological effects thinking about past 'good' memories can have. they found that thinking about the past 'fondly' actually increased perceptions of physical warmth.[19]
+
+as a political tool[edit]
+in a 2014 study conducted by routledge, he and a team observed that the more people reported having major disruptions and uncertainties in their lives, the more they nostalgically longed for the past. routledge suggests that by invoking the idea of an idealized past, politicians can provoke the social and cultural anxieties and uncertainties that make nostalgia especially attractive — and effective — as a tool of political persuasion.[20][21]
+
+other aspects[edit]
+as a medical condition[edit]
+further information: homesickness
+the term was coined in  1688 by johannes hofer (1669–1752) in his basel dissertation. hofer introduced nostalgia or mal du pays "homesickness" for the condition also known as mal du suisse "swiss illness" or schweizerheimweh "swiss homesickness," because of its frequent occurrence in swiss mercenaries who in the plains of lowlands france or italy were pining for their native mountain landscapes. symptoms were also thought to include fainting, high fever, indigestion, stomach pain, and death. military physicians hypothesized that the malady was due to damage to the victims' brain cells and ear drums by the constant clanging of cowbells in the pastures of switzerland.[18]
+english homesickness is a loan translation of nostalgia. sir joseph banks used the word in his journal during the first voyage of captain cook. on 3 september 1770 he stated that the sailors "were now pretty far gone with the longing for home which the physicians have gone so far as to esteem a disease under the name of nostalgia," but his journal was not published in his lifetime (see beaglehole, j. c. (ed.). the endeavour journal of joseph banks 1768–1771, public library of new south wales/angus and robertson, sydney, 1962, vol. ii, p. 145). cases resulting in death were known and soldiers were sometimes successfully treated by being discharged and sent home. receiving a diagnosis was, however, generally regarded as an insult. in 1787 robert hamilton (1749–1830, physician of ipswich) described a case of a soldier suffering from nostalgia, who received sensitive and successful treatment:
+
+
+
+“
+
+in the year 1782, while i lay in barracks at tin mouth in the north of england, a recruit who had lately joined the regiment ... was returned in sick list, with a message from his captain, requesting i would take him into the hospital. he had only been a few months a soldier; was young, handsome, and well-made for the service; but a melancholy hung over his countenance, and wanness preyed on his cheeks. he complained of a universal weakness, but no fixed pain; a noise in his ears, and giddiness of his head. ... as there were little obvious symptoms of fever, i did not well know what to make of the case. ... some weeks passed with little alteration ... excepting that he was evidently become more meager. he scarcely took any nourishment ... became indolent. ... he was put on a course of strengthening medicines; wine was allowed him. all proved ineffectual. he had now been in the hospital three months, and was quite emaciated, and like one in the last stage of consumption. ... on making my morning visit, and inquiring, as usual, of his rest at the nurse, she happened to mention the strong notions he had got in his head, she said, of home, and of his friends. what he was able to speak was constantly on this topic. this i had never heard of before. ... he had talked in the same style, it seems, less or more, ever since he came into the hospital. i went immediately up to him, and introduced the subject; and from the alacrity with which he resumed it.. i found it a theme which much affected him. he asked me, with earnestness, if i would let him go home. i pointed out to him how unfit he was, from his weakness to undertake such a journey [he was a welchman ] till once he was better; but promised him, assuredly, without farther hesitation, that as soon as he was able he should have six weeks to go home. he revived at the very thought of it. ... his appetite soon mended; and i saw in less than a week, evident signs of recovery.
+
+”
+
+[citation needed]
+in the eighteenth century, scientists were looking for a locus of nostalgia, a nostalgic bone. by the 1850s nostalgia was losing its status as a particular disease and coming to be seen rather as a symptom or stage of a pathological process. it was considered as a form of melancholia and a predisposing condition among suicides.  nostalgia was, however, still diagnosed among soldiers as late as the american civil war.[22]  by the 1870s interest in nostalgia as a medical category had almost completely vanished. nostalgia was still being recognized in both the first and second world wars, especially by the american armed forces. great lengths were taken to study and understand the condition to stem the tide of troops leaving the front in droves (see the bbc documentary century of the self).
+nostalgia is triggered by something reminding an individual of an event or item from their past. the resulting emotion can vary from happiness to sorrow. the term of "feeling nostalgic" is more commonly used to describe pleasurable emotions associated with and/or a longing to go back to a particular period of time, although the former may also be true.
+
+romanticism[edit]
+swiss nostalgia was linked to the singing of kuhreihen, which were forbidden to swiss mercenaries because they led to nostalgia to the point of desertion, illness or death. the 1767 dictionnaire de musique by  jean-jacques rousseau claims that swiss mercenaries were threatened with severe punishment to prevent them from singing their swiss songs. it became somewhat of a topos in romantic literature, and figures in the poem der schweizer by achim von arnim (1805) and in clemens brentano's des knaben wunderhorn (1809) as well as in the opera le chalet by adolphe charles adam (1834) which was performed for queen victoria under the title the swiss cottage. the romantic connection of nostalgia, the kuhreihen and the swiss alps was a significant factor in the enthusiasm for switzerland, the development of early tourism in switzerland and  alpinism that took hold of the european cultural elite in the 19th century. german romanticism coined an opposite to heimweh, fernweh "far-sickness," "longing to be far away," like wanderlust expressing the romantic desire to travel and explore.
+
+music[edit]
+hearing an old song can bring back memories for a person. a song heard once at a specific moment and then not heard again until a far later date will give the listener a sense of nostalgia for the date remembered and events which occurred then.[5]
+
+as an advertising tool[edit]
+in media and advertising, nostalgia-evoking images, sounds, and references can be used strategically to create a sense of connectedness between consumers and products with the goal of convincing the public to consume, watch, or buy advertised products.[23] modern technology facilitates nostalgia-eliciting advertising through the subject, style, and design of an advertisement.[24] the feeling of longing for the past is easily communicated through social media and advertising because these media require the participation of multiple senses, are able to represent their ideas entirely, and therefore become more reminiscent of reality.
+due to efficient advertising schemes, consumers need not have experienced a specific event or moment in time in order to feel nostalgic for it. this is due to a phenomenon referred to as vicarious nostalgia. vicarious nostalgia is a feeling of wistful yearning for a moment that occurred prior to, or outside of, the span of one's memory, but is relatable (has sentimental value) due to repeated mediated exposure to it.[25] the constant propagating of advertisements and other media messages makes vicarious nostalgia possible, and changes the ways we understand advertisements and subsequently, the way consumers use their purchasing power.
+examples of nostalgia used for provoking public interest include entertainment websites like doyouremember, revamps of old movies or tv shows, or books. vintage, rustic and old-fashioned design styles can also be seen in nostalgia-based ad campaigns that companies such as coca-cola and levi strauss & co. use.[25]
+
+see also[edit]
+historic preservation
+retro style
+golden age (metaphor)
+americana
+ostalgie
+yugo-nostalgia
+sehnsucht
+mono no aware
+nostalgia industry
+old-time radio
+rosy retrospection
+saudade
+solastalgia
+declinism
+vintage (design)
+hauntology
+references[edit]
+
+
+^ a b boym, svetlana (2002). the future of nostalgia. basic books. pp. xiii–xiv. isbn 978-0-465-00708-0..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ a b dahl, melissa (february 25, 2016). "the little-known medical history of homesickness". new york magazine. archived from the original on march 1, 2016.
+
+^ sedikides, constantine; wildschut, tim; arndt, jamie; routledge, clay (october 2008). "nostalgia: past, present, and future" (pdf). current directions in psychological science. 17 (5): 304–307. doi:10.1111/j.1467-8721.2008.00595.x.
+
+^ see the research of constantine sedikides and colleagues, http://www.southampton.ac.uk/psychology/about/staff/cs2.page.
+
+^ a b "music-evoked nostalgia".
+
+^ "study: nostalgia makes us warm, and cold makes us nostalgic". 2012-12-04.
+
+^ morewedge, carey k. (2013-10-01). "it was a most unusual time: how memory bias engenders nostalgic preferences". journal of behavioral decision making. 26 (4): 319–326. doi:10.1002/bdm.1767. issn 1099-0771.
+
+^ vanessa köneke: more bitter than sweet - are nostalgic people rather sad than happy after all? grin verlag gmbh, münchen 2010, isbn 978-3640942268.
+
+^ schindler, robert m.; holbrook, morris b. (2003-04-01). "nostalgia for early experience as a determinant of consumer preferences". psychology and marketing. 20 (4): 275–302. citeseerx 10.1.1.520.403. doi:10.1002/mar.10074. issn 1520-6793.
+
+^ batcho, k. i. (2013). "nostalgia: retreat or support in difficult times?" the american journal of psychology,
+
+^ zhou, x., sedikides, c., wildschut, t., & gao, d. (2008). "counteracting loneliness: on the restorative function of nostalgia." psychological science, 19(10), 1023–1029.
+
+^ vess, m., arndt, j., routledge, c., sedikides, c., & wildschut, t. (2012). "nostalgia as a resource for the self." self and identity, 11(3), 273–284.
+
+^ routledge, c., arndt, j., wildschut, t., sedikides, c., & hart, c. m. (2011). "the past makes the present meaningful: nostalgia as an existential resource." journal of personality and social psychology, 101(3), 638–652.
+
+^ routledge, c., wildschut, t., sedikides, c., juhl, j., & arndt, j. (2012). "the power of the past: nostalgia as a meaning-making resource." memory, 20(5), 452–460
+
+^ baldwin, m. & landau, m.j. (2014). "exploring nostalgia's influence on psychological growth" self and identity, 13(2), 162-177.
+
+^ hook, d.(2012) "screened history: nostalgia as defensive formation." peace and conflict: journal of peace psychology, vol 18(3), aug, 2012. special issue: of narratives and nostalgia. pp. 225–239
+
+^ boym, s. (2001). the future of nostalgia. new york, ny: basic books
+
+^ a b john tierney (july 8, 2013). "what is nostalgia good for? quite a bit, research shows". the new york times. retrieved july 9, 2013.
+
+^ "heartwarming memories: nostalgia maintains physiological comfort." zhou, xinyue; wildschut, tim; sedikides, constantine; chen, xiaoxi; vingerhoets, ad j. j. m.emotion, vol 12(4), aug 2012, 678–684. doi: 10.1037/a0027236
+
+^ c. sedikides, t. wildschut, c. routledge, & j. arndt (2014). "nostalgia counteracts self-discontinuity and restores self-continuity" european journal of social psychology, 10.1002/ejsp.2073
+
+^ routledge, clay (october 31, 2017). "approach with caution: nostalgia is a potent political agent". undark magazine. archived from the original on october 31, 2017.
+
+^ wisconsin public radio, to the best of our knowledge, "svetlana boym on nostalgia", 2002 november 3
+
+^ lizardi, ryan (2015). mediated nostalgia. maryland: lexington books.
+
+^ nieymar, k (2014). media and nostalgia. palgrave macmillan. isbn 978-1-137-37588-9.
+
+^ a b merchant, a (2013). "effects of advertising evoked vicarious nostalgia in brand heritage". journal of business research: 66.
+
+
+further reading[edit]
+bartholeyns, g. (2014). "the instant past: nostalgia and digital photo retro photography." media and nostalgia. yearning for the past, present and future, ed. k. niemeyer (palgrave macmillan): 51-69.
+batcho, k. i. (2013). nostalgia: retreat or support in difficult times? the american journal of psychology, 126(3), 355-367.
+simon bunke: heimweh. studien zur kultur- und literaturgeschichte einer tödlichen krankheit. (homesickness. on the cultural and literary history of a lethal disease). freiburg 2009. 674 pp.
+boulbry, gaëlle and borges, adilson. évaluation d’une échelle anglo-saxonne de mesure du tempérament nostalgique dans un contexte culturel français (evaluation of an anglo-saxon scale of measurement of nostalgic mood in a french cultural context)
+dominic boyer, "ostalgie and the politics of the future in eastern germany." public culture 18(2):361-381.
+simon bunke: heimweh. in: bettina von jagow / florian steger (eds.): literatur und medizin im europäischen kontext. ein lexikon. göttingen: vandenhoeck & ruprecht 2005. sp. 380-384.
+niemeyer, katharina (ed. 2014), media and nostalgia. yearning for the past, present and future'(palgrave macmillan.
+coromines i vigneaux, joan. diccionari etimològic i complementari de la llengua catalana [barcelona, curial edicions catalanes, 1983]
+davis, fred yearning for yesterday: a sociology of nostalgia. new york: free press, 1979.
+hofer, johannes, "medical dissertation on nostalgia." bulletin of the institute of the history of medicine. trans. carolyn kiser anspach 2.6 ((1688) aug. 1934): 376-91.
+hunter, richard and macalpine, ida. three hundred years of psychiatry:1535–1860, [hartsdale, ny, carlisle publishing, inc, 1982]
+hutcheon, linda "irony, nostalgia, and the postmodern"
+jameson, fredric "nostalgia for the present." the south atlantic quarterly, 88.2 (1989): 527. 60.
+thurber, christopher a. and marian d. sigman, "preliminary models of risk and protective factors for childhood homesickness: review and empirical synthesis." child development  69:4 (aug. 1998): 903-34.
+dylan trigg, the aesthetics of decay: nothingness, nostalgia, and the absence of reason (new york: peter lang, 2006) [1]
+linda m. austin, 'emily brontë's homesickness', victorian studies, 44:4 (summer 2002): 573-596.
+simon bunke: heimwehforschung.de
+bbc four documentaries - the century of the self
+zhou, x., sedikides, c., wildschut, t., & gao, d. (2008). counteracting loneliness: on the restorative function of nostalgia. psychological science, 19(10), 1023-1029.
+vess, m., arndt, j., routledge, c., sedikides, c., & wildschut, t. (2012). nostalgia as a resource for the self. self and identity, 11(3), 273-284.
+rieter, o., http://www.barbarus.org/single-post/2015/08/22/nostalgia-as-a-way-of-creating-meaning-in-everyday-life
+routledge, c., wildschut, t., sedikides, c., juhl, j., & arndt, j. (2012). the power of the past: nostalgia as a meaning-making resource. memory, 20(5), 452-460.
+routledge, c., arndt, j., wildschut, t., sedikides, c., & hart, c. m. (2011). the past makes the present meaningful: nostalgia as an existential resource . journal of personality and social psychology, 101(3), 638-652.
+köneke, v. (2010). more bitter than sweet - are nostalgic people rather sad than happy after all? grin verlag gmbh, munich, germany. isbn 
+gilad padva, queer nostalgia in cinema and pop culture (basingstock, uk and new york: palgrave macmillan, 2014). 254 pp.
+
+
+
+look up nostalgia in wiktionary, the free dictionary.
+
+
+
+wikiquote has quotations related to: nostalgia
+vteemotions (list)emotions
+adoration
+aesthetic emotions
+affection
+agitation
+agony
+amusement
+anger
+anguish
+annoyance
+anxiety
+apathy
+arousal
+attraction
+awe
+boredom
+calmness
+compassion
+contempt
+contentment
+defeat
+depression
+desire
+disappointment
+disgust
+ecstasy
+embarrassment
+vicarious
+empathy
+enthrallment
+enthusiasm
+envy
+euphoria
+excitement
+fear
+flow (psychology)
+frustration
+gratitude
+grief
+guilt
+happiness
+hatred
+hiraeth
+homesickness
+hope
+horror
+hostility
+humiliation
+hygge
+hysteria
+infatuation
+insecurity
+insult
+interest
+irritation
+isolation
+jealousy
+joy
+limerence
+loneliness
+longing
+love
+lust
+melancholy
+mono no aware
+neglect
+nostalgia
+panic
+passion
+pity
+pleasure
+pride
+hubris
+rage
+regret
+rejection
+remorse
+resentment
+sadness
+saudade
+schadenfreude
+sehnsucht
+sentimentality
+shame
+shock
+shyness
+sorrow
+spite
+stress
+suffering
+surprise
+sympathy
+tenseness
+wonder
+worry
+world views
+cynicism
+defeatism
+nihilism
+optimism
+pessimism
+reclusion
+weltschmerz
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=nostalgia&oldid=878995820"					
+categories: nostalgiaemotionshidden categories: articles containing ancient greek-language textall articles with unsourced statementsarticles with unsourced statements from june 2016 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commonswikiquotewikivoyage 
+
+
+
+languages
+
+
+العربيةavañe'ẽazərbaycancaবাংলাbân-lâm-gúбългарскиབོད་ཡིགcatalàčeštinadanskdeutscheestiespañolفارسیfrançais한국어हिन्दीhrvatskiidobahasa indonesiaíslenskaitalianoעבריתмакедонскиمصرىمازِرونیbahasa melayunederlandsnedersaksies日本語norsknorsk nynorskoccitanਪੰਜਾਬੀpolskiportuguêsromânăрусскийsicilianusimple englishslovenčinaکوردیсрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskaதமிழ்türkçeукраїнськаاردوtiếng việt中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 18 january 2019, at 08:53 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.564","walltime":"0.733","ppvisitednodes":{"value":1436,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":40550,"limit":2097152},"templateargumentsize":{"value":3204,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":43950,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  642.338      1 -total"," 40.22%  258.364      1 template:reflist"," 33.20%  213.240      2 template:lang"," 13.56%   87.114      3 template:cite_book"," 11.97%   76.918      5 template:cite_journal","  8.92%   57.297      1 template:citation_needed","  7.88%   50.600      1 template:fix","  7.77%   49.879      1 template:other_uses","  6.16%   39.573      1 template:isbn","  5.28%   33.926      2 template:category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.360","limit":"10.000"},"limitreport-memusage":{"value":13559561,"limit":52428800}},"cachereport":{"origin":"mw1269","timestamp":"20190219155725","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"nostalgia","url":"https:\/\/en.wikipedia.org\/wiki\/nostalgia","sameas":"http:\/\/www.wikidata.org\/entity\/q12151852","mainentity":"http:\/\/www.wikidata.org\/entity\/q12151852","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2003-01-19t20:03:38z","datemodified":"2019-01-18t08:53:29z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/98\/wide-angle_interior_of_twa.jpg","headline":"sentimentality for the past"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":98,"wghostname":"mw1251"});});
+
+

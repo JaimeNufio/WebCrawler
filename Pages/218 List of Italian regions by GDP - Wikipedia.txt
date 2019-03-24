@@ -1,0 +1,3199 @@
+
+
+
+
+list of italian regions by gdp - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"list_of_italian_regions_by_gdp","wgtitle":"list of italian regions by gdp","wgcurrevisionid":873569603,"wgrevisionid":873569603,"wgarticleid":26184600,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["italy geography-related lists","gross state product","economy of italy-related lists","regions of italy","ranked lists of country subdivisions"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"list_of_italian_regions_by_gdp","wgrelevantarticleid":26184600,"wgrequestid":"xgws4gpaadgaafbmr70aaaax","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q6574919","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+list of italian regions by gdp 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+this article lists italian regions and autonomous provinces (nuts 2) by gross domestic product (gdp).
+note that data for region trentino-alto adige are broke down to the level of its two constituent autonomous provinces, trento and bolzano.
+
+contents
+
+1 gross domestic product
+2 per capita gdp
+3 provincial gdp
+4 references
+
+
+gross domestic product[edit]
+this table reports the gross domestic product (nominal gdp), expressed in millions of euro, of the twenty italian regions and two autonomous provinces from 2000 to 2016.
+
+
+list of italian regions by gdp (millions of current euro[1])
+
+
+rank
+region
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+
+2016
+% of nation
+
+
+1
+ lombardy
+
+257,315
+
+270,005
+
+281,977
+
+291,488
+
+301,791
+
+310,195
+
+319,728
+
+333,047
+
+346,189
+
+330,594
+
+345,569
+
+352,857
+
+346,972
+
+344,407
+
+351,831
+
+359,349
+
+366,541
+
+21.81
+
+
+2
+ lazio
+
+135,579
+
+143,912
+
+151,451
+
+156,104
+
+166,260
+
+171,116
+
+177,058
+
+184,742
+
+185,199
+
+182,492
+
+184,141
+
+187,649
+
+182,525
+
+180,802
+
+181,792
+
+183,000
+
+185,935
+
+11.06
+
+
+3
+ veneto
+
+112,686
+
+116,875
+
+119,679
+
+125,795
+
+132,334
+
+136,174
+
+141,078
+
+146,984
+
+147,220
+
+142,048
+
+144,738
+
+149,232
+
+146,773
+
+147,023
+
+149,603
+
+152,656
+
+155,515
+
+9.25
+
+
+4
+ emilia-romagna
+
+106,967
+
+111,321
+
+115,006
+
+118,585
+
+123,614
+
+127,191
+
+134,164
+
+140,856
+
+142,842
+
+135,581
+
+138,755
+
+144,413
+
+142,532
+
+143,796
+
+146,812
+
+149,693
+
+153,997
+
+9.16
+
+
+5
+ piedmont
+
+100,449
+
+104,622
+
+108,148
+
+112,347
+
+116,777
+
+120,012
+
+124,739
+
+128,808
+
+129,164
+
+120,669
+
+125,313
+
+128,104
+
+123,950
+
+125,353
+
+125,444
+
+127,866
+
+129,322
+
+7.70
+
+
+6
+ tuscany
+
+80,776
+
+84,609
+
+87,702
+
+90,840
+
+94,400
+
+96,425
+
+100,696
+
+104,999
+
+106,096
+
+104,029
+
+105,152
+
+107,704
+
+107,241
+
+106,456
+
+108,516
+
+110,182
+
+112,239
+
+6.68
+
+
+7
+ campania
+
+82,289
+
+86,662
+
+90,435
+
+92,392
+
+95,408
+
+97,907
+
+101,682
+
+105,126
+
+105,537
+
+102,678
+
+101,430
+
+101,213
+
+100,738
+
+99,202
+
+99,880
+
+102,422
+
+106,753
+
+6.35
+
+
+8
+ sicily
+
+69,928
+
+73,669
+
+75,977
+
+78,751
+
+81,124
+
+84,770
+
+88,154
+
+90,005
+
+91,120
+
+88,796
+
+88,966
+
+88,712
+
+88,049
+
+86,722
+
+84,888
+
+86,661
+
+86,998
+
+5.18
+
+
+9
+ apulia
+
+57,708
+
+60,045
+
+61,630
+
+63,246
+
+65,224
+
+66,581
+
+69,479
+
+71,143
+
+70,506
+
+68,785
+
+69,990
+
+71,267
+
+71,702
+
+70,115
+
+70,654
+
+72,167
+
+72,406
+
+4.31
+
+
+10
+ liguria
+
+37,131
+
+39,234
+
+39,839
+
+41,522
+
+43,080
+
+44,322
+
+45,695
+
+48,203
+
+49,254
+
+46,986
+
+46,688
+
+47,630
+
+46,801
+
+46,347
+
+47,180
+
+47,958
+
+48,287
+
+2,87
+
+
+-
+ trentino-alto adige
+
+27,182
+
+28,242
+
+28,913
+
+29,938
+
+31,393
+
+32,055
+
+33,584
+
+35,194
+
+36,036
+
+35,669
+
+36,683
+
+37,737
+
+38,487
+
+39,180
+
+39,532
+
+40,211
+
+43,613
+
+2.60
+
+
+11
+ marche
+
+30,594
+
+32,163
+
+33,896
+
+34,784
+
+36,285
+
+37,355
+
+39,467
+
+41,210
+
+40,974
+
+39,856
+
+39,921
+
+40,486
+
+39,597
+
+30,132
+
+40,239
+
+40,418
+
+40,988
+
+2.44
+
+
+12
+ friuli-venezia giulia
+
+28,031
+
+29,473
+
+30,412
+
+30,717
+
+31,833
+
+33,160
+
+34,679
+
+36,207
+
+35,924
+
+33,968
+
+35,169
+
+35,844
+
+34,746
+
+35,106
+
+35,438
+
+36,467
+
+36,935
+
+2.20
+
+
+13
+ sardinia
+
+25,296
+
+26,798
+
+27,360
+
+28,650
+
+30,033
+
+30,670
+
+31,950
+
+32,948
+
+33,926
+
+33,090
+
+33,150
+
+33,375
+
+33,359
+
+32,506
+
+32,590
+
+33,712
+
+33,556
+
+2.00
+
+
+14
+ calabria
+
+26,383
+
+27,732
+
+28,312
+
+29,159
+
+30,512
+
+31,427
+
+32,419
+
+33,253
+
+33,816
+
+33,092
+
+32,975
+
+33,328
+
+32,734
+
+32,255
+
+32,105
+
+32,440
+
+33,054
+
+1.97
+
+
+15
+ abruzzo
+
+24,046
+
+25,177
+
+25,739
+
+26,168
+
+26,273
+
+27,579
+
+28,867
+
+30,086
+
+30,863
+
+29,747
+
+30,581
+
+31,888
+
+31,788
+
+31,349
+
+31,440
+
+31,695
+
+31,959
+
+1.90
+
+
+16
+ south tyrol
+
+13,878
+
+14,182
+
+14,432
+
+14,990
+
+15,952
+
+16,243
+
+17,175
+
+17,944
+
+18,541
+
+18,448
+
+19,081
+
+19,723
+
+20,493
+
+20,783
+
+20,983
+
+21,603
+
+22,272
+
+1.33
+
+
+17
+ umbria
+
+17,668
+
+18,538
+
+18,984
+
+19,603
+
+20,442
+
+20,821
+
+21,858
+
+22,663
+
+22,967
+
+21,584
+
+21,947
+
+22,133
+
+21,520
+
+21,171
+
+20,855
+
+21,466
+
+21,341
+
+1.27
+
+
+18
+ trentino
+
+13,395
+
+14,060
+
+14,481
+
+14,948
+
+15,441
+
+15,812
+
+16,409
+
+17,250
+
+17,495
+
+17,221
+
+17,602
+
+18,014
+
+17,994
+
+18,397
+
+18,549
+
+18,608
+
+18,832
+
+1.12
+
+
+19
+ basilicata
+
+9,590
+
+9,860
+
+10,140
+
+10,110
+
+10,418
+
+10,546
+
+11,147
+
+11,593
+
+11,571
+
+10,937
+
+10,797
+
+11,129
+
+11,081
+
+11,404
+
+11,008
+
+12,001
+
+11,782
+
+0.70
+
+
+20
+ molise
+
+5,356
+
+5,612
+
+5,756
+
+5,863
+
+6,107
+
+6,245
+
+6,643
+
+6,910
+
+6,756
+
+5,587
+
+6,552
+
+6,546
+
+5,369
+
+5,961
+
+5,903
+
+6,036
+
+6,233
+
+0.37
+
+
+21
+ aosta valley
+
+3,286
+
+3,447
+
+3,564
+
+3,830
+
+3,950
+
+4,091
+
+4,227
+
+4,346
+
+4,487
+
+4,289
+
+4,487
+
+4,559
+
+4,593
+
+4,403
+
+4,385
+
+4,404
+
+4,436
+
+0.26
+
+
+—
+ italy
+
+1,239,266
+
+1,298,890
+
+1,345,794
+
+1,390,710
+
+1,448,363
+
+1,489,726
+
+1,548,473
+
+1,609,551
+
+1,632,151
+
+1,572,878
+
+1,604,515
+
+1,637,463
+
+1,613,265
+
+1,604,599
+
+1,621,827
+
+1,652,150
+
+1,680,520
+
+100.00
+
+
+per capita gdp[edit]
+ 
+ 
+figures are in euros at market exchange rates and not at purchasing power parity (ppp).
+
+
+italian regions and autonomous provinces by gdp per capita (in euros, at current market prices)[2]
+
+
+rank
+region
+2015[3]
+% of national average
+
+
+1
+ south tyrol
+
+41,141
+
+152.12
+
+
+—
+ trentino-alto adige
+
+37,813
+
+139.81
+
+
+2
+ lombardy
+
+35,885
+
+132.88
+
+
+3
+ trentino
+
+34,597
+
+127.92
+
+
+4
+ aosta valley
+
+34,301
+
+125.82
+
+
+5
+ emilia-romagna
+
+33,558
+
+124.08
+
+
+6
+ lazio
+
+30,967
+
+114.50
+
+
+7
+ veneto
+
+30,843
+
+114.04
+
+
+8
+ liguria
+
+30,438
+
+112.55
+
+
+9
+ tuscany
+
+29,446
+
+108.88
+
+
+10
+ friuli-venezia giulia
+
+29,147
+
+107.77
+
+
+11
+ piedmont
+
+28,870
+
+106.75
+
+
+12
+ marche
+
+25,971
+
+96.03
+
+
+13
+ abruzzo
+
+24,160
+
+89.33
+
+
+14
+ umbria
+
+23,735
+
+87.76
+
+
+15
+ basilicata
+
+19,473
+
+72.00
+
+
+16
+ sardinia
+
+19,306
+
+71.38
+
+
+17
+ molise
+
+18,891
+
+69.85
+
+
+18
+ campania
+
+17,187
+
+63.55
+
+
+19
+ apulia
+
+17,166
+
+63.47
+
+
+20
+ sicily
+
+17,068
+
+63.11
+
+
+21
+ calabria
+
+16,467
+
+60.88
+
+
+—
+ italy
+
+27,045
+
+100.00
+
+
+provincial gdp[edit]
+all provinces and metropolitan cities of italy by gdp and gdp per capita in 2015.[4]
+
+
+
+province
+
+region
+
+2015 gdp(in mil. of euro)
+
+2015 gdp(mil. of us$ ppp)
+
+2015 gdp percapita (in euro)
+
+2015 gdp percapita (in us$ ppp)
+
+
+metropolitan city of turin
+
+ piedmont
+
+69,305
+
+93,316
+
+30,304
+
+40,803
+
+
+vercelli
+
+ piedmont
+
+4,725
+
+6,362
+
+26,922
+
+36,249
+
+
+biella
+
+ piedmont
+
+4,610
+
+6,207
+
+25,556
+
+34,410
+
+
+verbano-cusio-ossola
+
+ piedmont
+
+3,733
+
+5,026
+
+23,259
+
+31,317
+
+
+novara
+
+ piedmont
+
+10,416
+
+14,025
+
+28,078
+
+37,805
+
+
+cuneo
+
+ piedmont
+
+17,987
+
+24,219
+
+30,423
+
+40,962
+
+
+asti
+
+ piedmont
+
+5,368
+
+7,228
+
+24,575
+
+33,090
+
+
+alessandria
+
+ piedmont
+
+11,722
+
+15,783
+
+27,238
+
+36,674
+
+
+aosta valley
+
+ aosta valley
+
+4,404
+
+5,930
+
+34,457
+
+46,395
+
+
+imperia
+
+ liguria
+
+5,024
+
+6,765
+
+23,256
+
+31,313
+
+
+savona
+
+ liguria
+
+7,667
+
+10,323
+
+27,221
+
+36,651
+
+
+metropolitan city of genoa
+
+ liguria
+
+28,753
+
+38,715
+
+33,506
+
+45,114
+
+
+la spezia
+
+ liguria
+
+6,514
+
+8,771
+
+29,431
+
+39,628
+
+
+varese
+
+ lombardy
+
+25,779
+
+34,710
+
+28,960
+
+38,993
+
+
+como
+
+ lombardy
+
+16,310
+
+21,961
+
+27,193
+
+36,614
+
+
+lecco
+
+ lombardy
+
+9,903
+
+13,334
+
+29,148
+
+39,246
+
+
+sondrio
+
+ lombardy
+
+5,149
+
+6,933
+
+28,307
+
+38,114
+
+
+bergamo
+
+ lombardy
+
+33,795
+
+45,503
+
+30,485
+
+41,046
+
+
+brescia
+
+ lombardy
+
+39,322
+
+52,945
+
+31,095
+
+41,867
+
+
+pavia
+
+ lombardy
+
+13,188
+
+17,757
+
+24,052
+
+32,384
+
+
+lodi
+
+ lombardy
+
+5,679
+
+7,647
+
+24,746
+
+33,320
+
+
+cremona
+
+ lombardy
+
+10,294
+
+13,860
+
+28,513
+
+38,391
+
+
+mantua
+
+ lombardy
+
+12,377
+
+16,665
+
+29,904
+
+40,264
+
+
+metropolitan city of milan
+
+ lombardy
+
+162,652
+
+219,003
+
+50,786
+
+68,381
+
+
+monza and brianza
+
+ lombardy
+
+24,901
+
+33,528
+
+28,777
+
+38,746
+
+
+l'aquila
+
+ abruzzo
+
+7,286
+
+9,810
+
+23,962
+
+32,264
+
+
+teramo
+
+ abruzzo
+
+7,093
+
+9,550
+
+22,825
+
+30,733
+
+
+pescara
+
+ abruzzo
+
+7,764
+
+10,454
+
+24,084
+
+32,428
+
+
+chieti
+
+ abruzzo
+
+9,551
+
+12,860
+
+24,374
+
+32,818
+
+
+isernia
+
+ molise
+
+1,663
+
+2,239
+
+19,199
+
+25,850
+
+
+campobasso
+
+ molise
+
+4,372
+
+5,887
+
+19,339
+
+26,039
+
+
+caserta
+
+ campania
+
+14,536
+
+19,572
+
+15,723
+
+21,170
+
+
+benevento
+
+ campania
+
+4,508
+
+6,070
+
+16,014
+
+21,562
+
+
+metropolitan city of naples
+
+ campania
+
+56,553
+
+76,146
+
+18,149
+
+24,437
+
+
+avellino
+
+ campania
+
+7,467
+
+10,054
+
+17,502
+
+23,566
+
+
+salerno
+
+ campania
+
+19,358
+
+26,065
+
+17,479
+
+23,534
+
+
+taranto
+
+ apulia
+
+9,780
+
+13,168
+
+16,655
+
+22,425
+
+
+brindisi
+
+ apulia
+
+7,246
+
+9,756
+
+18,129
+
+24,410
+
+
+lecce
+
+ apulia
+
+12,715
+
+17,120
+
+15,789
+
+21,259
+
+
+foggia
+
+ apulia
+
+10,670
+
+14,367
+
+16,874
+
+22,719
+
+
+metropolitan city of bari
+
+ apulia
+
+25,869
+
+34,831
+
+20,448
+
+27,532
+
+
+barletta-andria-trani
+
+ apulia
+
+5,888
+
+7,928
+
+14,946
+
+20,124
+
+
+potenza
+
+ basilicata
+
+8,585
+
+11,559
+
+22,942
+
+30,890
+
+
+matera
+
+ basilicata
+
+3,417
+
+4,601
+
+17,004
+
+22,895
+
+
+cosenza
+
+ calabria
+
+10,772
+
+14,504
+
+15,045
+
+20,258
+
+
+crotone
+
+ calabria
+
+2,733
+
+3,680
+
+15,660
+
+21,086
+
+
+catanzaro
+
+ calabria
+
+6587
+
+8,869
+
+18,127
+
+24,407
+
+
+vibo valentia
+
+ calabria
+
+2,447
+
+3,295
+
+15,032
+
+20,239
+
+
+reggio calabria
+
+ calabria
+
+9,901
+
+13,331
+
+17,778
+
+23,938
+
+
+trapani
+
+ sicily
+
+6,735
+
+9,068
+
+15,446
+
+20,798
+
+
+metropolitan city of palermo
+
+ sicily
+
+23,223
+
+31,269
+
+18,229
+
+24,544
+
+
+metropolitan city of messina
+
+ sicily
+
+10,980
+
+14,784
+
+17,076
+
+22,993
+
+
+agrigento
+
+ sicily
+
+6,558
+
+8,830
+
+14,690
+
+19,779
+
+
+caltanissetta
+
+ sicily
+
+4,163
+
+5,605
+
+15,255
+
+20,540
+
+
+enna
+
+ sicily
+
+2,608
+
+3,512
+
+15,297
+
+20,597
+
+
+metropolitan city of catania
+
+ sicily
+
+19,405
+
+26,128
+
+17,384
+
+23,407
+
+
+ragusa
+
+ sicily
+
+5,570
+
+7,500
+
+17,428
+
+23,466
+
+
+syracuse
+
+ sicily
+
+7,419
+
+9,989
+
+18,339
+
+24,692
+
+
+sassari
+
+ sardinia
+
+6,315
+
+8,503
+
+18,884
+
+25,426
+
+
+nuoro
+
+ sardinia
+
+2,943
+
+3,963
+
+18,656
+
+25,120
+
+
+metropolitan city of cagliari
+
+ sardinia
+
+13,593
+
+18,302
+
+24,204
+
+32,589
+
+
+oristano
+
+ sardinia
+
+2,831
+
+3,812
+
+17,462
+
+23,512
+
+
+olbia-tempio
+
+ sardinia
+
+3,547
+
+4,776
+
+22,147
+
+29,819
+
+
+ogliastra
+
+ sardinia
+
+1,002
+
+1,349
+
+17,432
+
+23,471
+
+
+medio campidano
+
+ sardinia
+
+1,434
+
+1,931
+
+14,379
+
+19,360
+
+
+carbonia-iglesias
+
+ sardinia
+
+2,048
+
+2,758
+
+16,068
+
+21,634
+
+
+south tyrol
+
+ trentino-alto adige
+
+21,603
+
+29,087
+
+41,568
+
+55,970
+
+
+trentino
+
+ trentino-alto adige
+
+18,608
+
+25,055
+
+34,599
+
+46,586
+
+
+verona
+
+ veneto
+
+29,406
+
+39,594
+
+31,858
+
+42,896
+
+
+vicenza
+
+ veneto
+
+27,697
+
+37,293
+
+31,890
+
+42,938
+
+
+belluno
+
+ veneto
+
+6,547
+
+8,815
+
+31,570
+
+42,508
+
+
+treviso
+
+ veneto
+
+26,867
+
+36,175
+
+30,311
+
+40,813
+
+
+metropolitan city of venice
+
+ veneto
+
+25,887
+
+34,856
+
+30,208
+
+40,674
+
+
+padua
+
+ veneto
+
+30,146
+
+40,590
+
+32,153
+
+43,292
+
+
+rovigo
+
+ veneto
+
+6,107
+
+8,223
+
+25,284
+
+34,043
+
+
+pordenone
+
+ friuli-venezia giulia
+
+9,217
+
+12,410
+
+29,412
+
+39,601
+
+
+udine
+
+ friuli-venezia giulia
+
+15,708
+
+21,150
+
+29,376
+
+39,553
+
+
+gorizia
+
+ friuli-venezia giulia
+
+3,656
+
+4,923
+
+26,007
+
+35,017
+
+
+trieste
+
+ friuli-venezia giulia
+
+7,886
+
+10,618
+
+33,490
+
+45,093
+
+
+piacenza
+
+ emilia-romagna
+
+8,929
+
+12,023
+
+31,056
+
+41,816
+
+
+parma
+
+ emilia-romagna
+
+15,672
+
+21,102
+
+35,093
+
+47,250
+
+
+reggio emilia
+
+ emilia-romagna
+
+17,961
+
+24,184
+
+33,694
+
+45,368
+
+
+modena
+
+ emilia-romagna
+
+25,296
+
+34,060
+
+36,034
+
+48,518
+
+
+metropolitan city of bologna
+
+ emilia-romagna
+
+25,296
+
+52,668
+
+38,918
+
+52,402
+
+
+ferrara
+
+ emilia-romagna
+
+9,016
+
+12,140
+
+25,559
+
+34,414
+
+
+ravenna
+
+ emilia-romagna
+
+12,058
+
+16,236
+
+30,779
+
+41,442
+
+
+forlì-cesena
+
+ emilia-romagna
+
+12,157
+
+16,369
+
+30,758
+
+41,414
+
+
+rimini
+
+ emilia-romagna
+
+9,489
+
+12,777
+
+28,297
+
+38,101
+
+
+massa and carrara
+
+ tuscany
+
+4,657
+
+6,270
+
+23,454
+
+31,579
+
+
+lucca
+
+ tuscany
+
+10,543
+
+14,196
+
+26,871
+
+36,181
+
+
+pistoia
+
+ tuscany
+
+7,302
+
+9,832
+
+24,986
+
+33,643
+
+
+metropolitan city of florence
+
+ tuscany
+
+36,097
+
+48,603
+
+35,642
+
+47,990
+
+
+prato
+
+ tuscany
+
+7,395
+
+9,957
+
+29,222
+
+39,346
+
+
+livorno
+
+ tuscany
+
+8,818
+
+11,873
+
+26,049
+
+35,074
+
+
+pisa
+
+ tuscany
+
+12,429
+
+16,735
+
+29,497
+
+39,717
+
+
+arezzo
+
+ tuscany
+
+9,445
+
+12,717
+
+27,315
+
+36,778
+
+
+siena
+
+ tuscany
+
+8,196
+
+11,036
+
+30,374
+
+40,897
+
+
+grosseto
+
+ tuscany
+
+5,299
+
+7,135
+
+23,649
+
+31,842
+
+
+perugia
+
+ umbria
+
+16,436
+
+22,130
+
+24,785
+
+33,372
+
+
+terni
+
+ umbria
+
+5,030
+
+6,773
+
+21,885
+
+29,467
+
+
+pesaro and urbino
+
+ marche
+
+9,314
+
+12,541
+
+25,697
+
+34,599
+
+
+ancona
+
+ marche
+
+13,855
+
+18,655
+
+29,044
+
+39,106
+
+
+macerata
+
+ marche
+
+7,866
+
+10,591
+
+24,496
+
+32,983
+
+
+ascoli piceno
+
+ marche
+
+5,181
+
+6,976
+
+24,593
+
+33,113
+
+
+fermo
+
+ marche
+
+4,202
+
+5,658
+
+23,875
+
+32,147
+
+
+viterbo
+
+ lazio
+
+6,559
+
+8,831
+
+20,425
+
+27,502
+
+
+rieti
+
+ lazio
+
+2,943
+
+3,963
+
+18,542
+
+24,966
+
+
+metropolitan city of rome
+
+ lazio
+
+150,315
+
+202,392
+
+34,625
+
+46,621
+
+
+latina
+
+ lazio
+
+12,524
+
+16,863
+
+21,844
+
+29,411
+
+
+frosinone
+
+ lazio
+
+10,659
+
+14,352
+
+21,490
+
+28,935
+
+references[edit]
+
+
+^ "gross domestic product (gdp) at current market prices by nuts 2 regions". retrieved 15 november 2017..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ "regional accounts: per capita values". istituto nazionale di statistica. retrieved 24 november 2017.
+
+^ "regional accounts: per capita values". istituto nazionale di statistica. retrieved 24 november 2017.
+
+^ regions and cities > regional statistics > regional economy > regional gdp per capita, oecd.stats. accessed on 16 november 2018.
+
+
+vteitaly articleshistorychronology
+prehistory
+italic peoples
+ancient peoples of italy
+pre-nuragic sardinia
+nuragic peoples
+etruscan civilization
+nuragic civilization
+phoenician/carthaginian colonies
+magna graecia
+ancient rome
+kingdom
+republic
+empire
+middle ages
+italy under odoacer
+ostrogoths
+byzantium
+lombards
+the holy roman empire
+the sardinian judicates
+arabs
+normans
+guelphs and ghibellines
+the italian city-states
+the maritime republics
+renaissance
+italian wars
+early modern period
+unification
+revolutions of 1820
+revolutions of 1830
+revolutions of 1848
+sicilian revolution of 1848
+first war of independence
+crimean war
+second war of independence
+expedition of the thousand
+third war of independence
+capture of rome
+monarchy and the world wars
+kingdom of italy
+colonial empire
+world war i
+fascist italy
+world war ii
+resistance
+civil war
+republic
+economic boom
+years of lead
+years of mud
+mani pulite
+by topic
+citizenship
+currency
+economy
+fashion
+flags
+genetic
+historic states
+military
+music
+postal
+railways
+geography
+peninsula
+northern
+northwest
+northeast
+central
+southern
+south
+insular
+climate
+fauna
+flora
+mountains
+prealps
+alps
+apennines
+volcanology
+volcanoes
+beaches
+canals
+caves
+earthquakes
+islands
+lakes
+national parks
+rivers
+valleys
+politics
+constitution
+elections
+referendums
+foreign relations
+missions
+judiciary
+law enforcement
+military
+parliament
+chamber of deputies
+senate
+political parties
+president
+prime minister
+council of ministers
+regions
+provinces
+metropolitan cities
+comune
+municipalities
+cities
+economy
+economic history
+milan
+naples
+rome
+turin
+regions by gdp
+automotive industry
+banking
+central bank
+companies
+energy
+government debt
+science and technology
+stock exchange
+taxation
+telecommunications
+internet
+tourism
+trade unions
+transportation
+welfare
+society
+abortion
+adoption
+billionaires
+capital punishment
+corruption
+crime
+demographics
+education
+secondary
+higher
+universities
+emigration
+fathers' rights movement
+feminism
+gambling
+health
+healthcare
+immigration
+lgbt rights
+nobility
+prostitution
+racism
+religion
+smoking
+social class
+terrorism
+women
+culture
+duecento
+trecento
+quattrocento
+cinquecento
+seicento
+settecento
+architecture
+art
+castles
+cinema
+cuisine
+beer
+wine
+cultural icons
+decorations
+design
+fashion
+festivals
+folklore
+italian language
+regional italian
+italian literature
+italophilia
+italophobia
+languages
+media
+newspapers
+radio
+tv
+monuments
+music
+classical
+folk
+opera
+popular
+mythology
+national symbols
+anthem
+emblem
+flag
+regions
+national monument
+personification
+people
+philosophy
+public holidays
+festa della repubblica
+sculpture
+sport
+traditions
+world heritage sites
+
+ italy portal
+ category
+ commons
+ news
+quotes
+travel
+ wikiproject
+
+vtelist of european subdivisions by gdpsovereign stateseuropean union
+austria
+belgium
+bulgaria
+croatia
+cyprus
+czech republic
+denmark
+estonia
+finland
+france
+germany
+greece
+hungary
+republic of ireland
+italy
+latvia
+lithuania
+luxembourg
+malta
+netherlands
+poland
+portugal
+romania
+slovakia
+slovenia
+spain
+sweden
+united kingdom
+other
+albania
+andorra
+armenia
+azerbaijan
+belarus
+bosnia and herzegovina
+georgia
+iceland
+kazakhstan
+liechtenstein
+north macedonia
+moldova
+monaco
+montenegro
+norway
+russia
+san marino
+serbia
+switzerland
+turkey
+ukraine
+states with limitedrecognition
+abkhazia
+kosovo
+nagorno-karabakh
+northern cyprus
+south ossetia
+transnistria
+
+vtelists of countries by gdp rankingspurchasing power parity (ppp)
+per capita
+past
+per capita
+past and projected
+per capita
+private consumption per capita
+per hour
+per person employed
+ten largest historically
+19th century
+nominal
+per capita
+past and projected
+per capita
+sector composition
+growth rate
+african countries
+asian states
+european union member states
+european countries
+latin american and caribbean countries
+oceanian countries
+per capita
+1980–2010 growth
+industrial growth
+gross national income (gni)
+ppp per capita
+nominal per capita
+countries by region
+africa
+ppp
+nominal
+commonwealth of nations
+ppp
+nominal
+latin america & caribbean
+ppp
+nominal
+north america
+ppp
+nominal
+nominal per capita
+south america
+ppp
+arab league
+nominal and per capita
+ppp and per capita
+asean
+asia
+asia & pacific
+ppp
+former soviet republics
+europe
+ppp
+ppp per capita
+nominal
+nominal per capita
+oceania
+ppp
+ppp per capita
+nominal
+nominal per capita
+subnational divisions
+argentina
+australia
+austria
+belgium
+brazil
+bulgaria
+canada
+chile
+per capita
+china
+per capita
+colombia
+croatia
+czech republic
+finland
+france
+nominal
+nominal per capita
+germany
+nominal
+nominal per capita
+greece
+hungary
+india
+per capita
+indonesia
+italy
+japan
+per capita
+malaysia
+mexico
+per capita
+netherlands
+nigeria
+norway
+pakistan
+peru
+philippines
+poland (per capita)
+portugal
+romania
+russia
+per capita
+slovakia
+south africa
+per capita
+south korea
+spain
+sweden
+switzerland
+united kingdom
+nominal
+nominal per capita
+united states
+ppp
+nominal
+nominal per capita
+taiwan
+thailand
+turkey
+oecd
+top country subdivisions by gdp
+nominal
+
+lists of countries by financial rankings
+
+list of international rankings
+list of top international rankings by country
+lists by country
+
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=list_of_italian_regions_by_gdp&oldid=873569603"					
+categories: italy geography-related listsgross state producteconomy of italy-related listsregions of italyranked lists of country subdivisions 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+languages
+
+
+portuguêsاردو 
+edit links 
+
+
+
+
+
+ this page was last edited on 13 december 2018, at 20:48 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.804","walltime":"0.980","ppvisitednodes":{"value":23463,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":218473,"limit":2097152},"templateargumentsize":{"value":42901,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":20,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":9330,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  572.169      1 -total"," 84.09%  481.109      9 template:navbox"," 34.51%  197.440      1 template:european_topic"," 21.57%  123.401      1 template:italy_topics"," 21.45%  122.709    156 template:flag"," 20.73%  118.612      1 template:country_topics"," 20.35%  116.460     49 template:iso2country"," 18.29%  104.666      1 template:reflist"," 15.48%   88.592      3 template:cite_web","  7.86%   44.993     49 template:iso2country/data"]},"scribunto":{"limitreport-timeusage":{"value":"0.137","limit":"10.000"},"limitreport-memusage":{"value":4426045,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1327","timestamp":"20190219150013","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"list of italian regions by gdp","url":"https:\/\/en.wikipedia.org\/wiki\/list_of_italian_regions_by_gdp","sameas":"http:\/\/www.wikidata.org\/entity\/q6574919","mainentity":"http:\/\/www.wikidata.org\/entity\/q6574919","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2010-02-13t11:09:24z","datemodified":"2018-12-13t20:48:29z","headline":"wikimedia list article"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":108,"wghostname":"mw1261"});});
+
+

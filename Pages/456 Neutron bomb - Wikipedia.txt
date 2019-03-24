@@ -1,0 +1,503 @@
+
+
+
+
+neutron bomb - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"neutron_bomb","wgtitle":"neutron bomb","wgcurrevisionid":880005817,"wgrevisionid":880005817,"wgarticleid":37630,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["webarchive template other archives","cs1 maint: extra text: authors list","subscription required using via","pages containing links to subscription-only content","cs1 maint: archived copy as title","all articles lacking reliable references","articles lacking reliable references from april 2017","webarchive template wayback links","all articles with unsourced statements","articles with unsourced statements from november 2016","wikipedia articles needing factual verification from august 2015","wikipedia articles that may have off-topic sections","all accuracy disputes","articles with disputed statements from april 2017","articles with unsourced statements from march 2014","wikipedia articles with bnf identifiers","wikipedia articles with gnd identifiers","wikipedia articles with lccn identifiers","wikipedia articles with nara identifiers","wikipedia articles with ndl identifiers","american inventions","energy weapons","neutron","nuclear weapons"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"neutron_bomb","wgrelevantarticleid":37630,"wgrequestid":"xgscwgpaic8aak1n4vaaaabo","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfexpandallsectionsuseroption":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q719349","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+neutron bomb 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+
+energy distribution of weapon
+
+
+energy type
+
+proportion of total energy (%)
+
+
+fission
+
+enhanced
+
+
+blast
+50
+40[1] to minimum 30[2]
+
+
+thermal energy
+35
+25[1] to minimum 20[2]
+
+
+prompt radiation
+5
+45 to minimum 30[1]
+
+
+residual radiation
+10
+5[1]
+
+a neutron bomb, officially defined as a type of enhanced radiation weapon (erw), is a low yield thermonuclear weapon designed to maximize lethal neutron radiation in the immediate vicinity of the blast while minimizing the physical power of the blast itself. the neutron release generated by a nuclear fusion reaction is intentionally allowed to escape the weapon, rather than being absorbed by its other components.[3] the neutron burst, which is used as the primary destructive action of the warhead, is able to penetrate enemy armor more effectively than a conventional warhead, thus making it more lethal as a tactical weapon.
+the concept was originally developed by the us in the late 1950s and early 1960s. it was seen as a "cleaner" bomb for use against massed soviet armored divisions. as these would be used over allied nations, notably west germany, the reduced blast damage was seen as an important advantage.[4][5]
+erws were first operationally deployed for anti-ballistic missiles (abm). in this role the burst of neutrons would cause nearby warheads to undergo partial fission, preventing them from exploding properly. for this to work, the abm would have to explode within ca. 100 metres (300 ft) of its target. the first example of such a system was the w66, used on the sprint missile used in the us's nike-x system. it is believed the soviet equivalent, the a-135's 53t6 missile, uses a similar design.[6][7]
+the weapon was once again proposed for tactical use by the us in the 1970s and 1980s, and production of the w70 began for the mgm-52 lance in 1981. this time it experienced a firestorm of protest as the growing anti-nuclear movement gained strength through this period. opposition was so intense that european leaders refused to accept it on their territory. president ronald reagan bowed to pressure and the built examples of the w70-3 remained stockpiled in the us until they were retired in 1992. the last w70 was dismantled in 2011.[8]
+
+contents
+
+1 basic concept
+2 history and deployment to present
+3 use
+
+3.1 effects
+3.2 effectiveness in modern anti-tank role
+3.3 use against ballistic missiles
+3.4 use as an area denial weapon
+3.5 maintenance
+
+
+4 hypothetical effects of a pure fusion bomb
+5 see also
+6 references
+7 further reading
+8 external links
+
+
+basic concept[edit]
+in a standard thermonuclear design, a small fission bomb is placed close to a larger mass of thermonuclear fuel. the two components are then placed within a thick radiation case, usually made from uranium, lead or steel. the case traps the energy from the fission bomb for a brief period, allowing it to heat and compress the main thermonuclear fuel. the case is normally made of depleted uranium or natural uranium metal, because the thermonuclear reactions give off massive numbers of high-energy neutrons that can cause fission reactions in the casing material. these can add considerable energy to the reaction; in a typical design as much as 50% of the total energy comes from fission events in the casing. for this reason, these weapons are technically known as fission-fusion-fission designs.
+in a neutron bomb, the casing material is selected either to be transparent to neutrons or to actively enhance their production. the burst of neutrons created in the thermonuclear reaction is then free to escape the bomb, outpacing the physical explosion. by designing the thermonuclear stage of the weapon carefully, the neutron burst can be maximized while minimizing the blast itself. this makes the lethal radius of the neutron burst greater than that of the explosion itself. since the neutrons disappear from the environment rapidly, such a burst over an enemy column would kill the crews and leave the area able to be quickly reoccupied.
+compared to a pure fission bomb with an identical explosive yield, a neutron bomb would emit about ten times[9] the amount of neutron radiation. in a fission bomb, at sea level, the total radiation pulse energy which is composed of both gamma rays and neutrons is approximately 5% of the entire energy released; in neutron bombs it would be closer to 40%, with the percentage increase coming from the higher production of neutrons. furthermore, the neutrons emitted by a neutron bomb have a much higher average energy level (close to 14 mev) than those released during a fission reaction (1–2 mev).[10]
+technically speaking, every low yield nuclear weapon is a radiation weapon, including non-enhanced variants. up to about 10 kilotons in yield, all nuclear weapons have prompt neutron radiation[2] as their furthest-reaching lethal component, after which yield in regular nuclear weapons, the lethal blast and thermal effects radius begins to out-range the lethal ionizing radiation radius.[11][12][13] enhanced radiation weapons also fall into this same yield range and simply enhance the intensity and range of the neutron dose for a given yield.
+
+history and deployment to present[edit]
+the conception of neutron bombs is generally credited to samuel t. cohen of the lawrence livermore national laboratory, who developed the concept in 1958.[14] initial development was carried out as part of projects dove and starling, and an early device was tested underground in early 1962. designs of a "weaponized" version were carried out in 1963.[15][16]
+development of two production designs for the army's mgm-52 lance short-range missile began in july 1964, the w63 at livermore and the w64 at los alamos. both entered phase three testing in july 1964, and the w64 was cancelled in favor of the w63 in september 1964. the w63 was in turn cancelled in november 1965 in favor of the w70 (mod 0), a conventional design.[15] by this time, the same concepts were being used to develop warheads for the sprint missile, an anti-ballistic missile (abm), with livermore designing the w65 and los alamos the w66. both entered phase three testing in october 1965, but the w65 was cancelled in favor of the w66 in november 1968. testing of the w66 was carried out in the late 1960s, and entered production in june 1974,[15] the first neutron bomb to do so. approximately 120 were built, with about 70 of these being on active duty during 1975 and 1976 as part of the safeguard program. when that program was shut down they were placed in storage, and eventually decommissioned in the early 1980s.[15]
+development of er warheads for lance continued, but in the early 1970s attention had turned to using modified versions of the w70, the w70 mod 3.[15] development was subsequently postponed by president jimmy carter in 1978 following protests against his administration's plans to deploy neutron warheads to ground forces in europe.[17] on november 17, 1978, in a test the ussr detonated its first similar-type bomb.[18]  president ronald reagan restarted production in 1981.[17] the soviet union renewed a propaganda campaign against the us's neutron bomb in 1981 following reagan's announcement. in 1983 reagan then announced the strategic defense initiative, which surpassed neutron bomb production in ambition and vision and with that, neutron bombs quickly faded from the center of the public's attention.[18]
+
+
+attempted warhead replacement programs
+
+
+initial
+enhanced
+gun caliber
+
+
+w48
+w82
+155 mm
+
+
+w33
+w79
+203mm
+
+three types of enhanced radiation weapons (erw) were deployed by the united states.[19] the w66 warhead, for the anti-icbm sprint missile system, was deployed in 1975 and retired the next year, along with the missile system. the w70 mod 3 warhead was developed for the short-range, tactical mgm-52 lance missile, and the w79 mod 0 was developed for nuclear artillery shells. the latter two types were retired by president george h. w. bush in 1992, following the end of the cold war.[20][21] the last w70 mod 3 warhead was dismantled in 1996,[22] and the last w79 mod 0 was dismantled by 2003, when the dismantling of all w79 variants was completed.[23]
+according to the cox report, as of 1999 the united states had never deployed a neutron weapon. the nature of this statement is not clear; it reads "the stolen information also includes classified design information for an enhanced radiation weapon (commonly known as the "neutron bomb"), which neither the united states, nor any other nation, has ever deployed."[24] however, the fact that neutron bombs had been produced by the us was well known at this time and part of the public record. cohen suggests the report is playing with the definitions; while the us bombs were never deployed to europe, they remained stockpiled in the us.[25]
+in addition to the two superpowers, france and china are known to have tested neutron or enhanced radiation bombs. france conducted an early test of the technology in 1967[26] and tested an "actual" neutron bomb in 1980.[27] china conducted a successful test of neutron bomb principles in 1984 and a successful test of a neutron bomb in 1988. however, neither of those countries chose to deploy neutron bombs. chinese nuclear scientists stated before the 1988 test that china had no need for neutron bombs, but it was developed to serve as a "technology reserve", in case the need arose in the future.[28]
+in august, 1999, the indian government disclosed that india was capable of producing a neutron bomb.[29]
+although no country is currently known to deploy them in an offensive manner, all thermonuclear dial-a-yield warheads that have about 10 kiloton and lower as one dial option, with a considerable fraction of that yield derived from fusion reactions, can be considered able to be neutron bombs in use, if not in name. the only country definitely known to deploy dedicated (that is, not dial-a-yield) neutron warheads for any length of time is the soviet union/russia,[6] which inherited the ussr's neutron warhead equipped abm-3 gazelle missile program. this abm system contains at least 68 neutron warheads with a 10 kiloton yield each and it has been in service since 1995, with inert missile testing approximately every other year since then (2014). the system is designed to destroy incoming endoatmospheric level nuclear warheads aimed at moscow and other targets and is the lower-tier/last umbrella of the a-135 anti-ballistic missile system (nato reporting name: abm-3).[7]
+by 1984, according to mordechai vanunu, israel was mass-producing neutron bombs.[30]
+considerable controversy arose in the us and western europe following a june 1977 washington post exposé describing us government plans to purchase the bomb. the article focused on the fact that it was the first weapon specifically intended to kill humans with radiation.[31][32] lawrence livermore national laboratory director harold brown and soviet general secretary leonid brezhnev both described neutron bombs as a "capitalist bomb", because it was designed to destroy people while preserving property.[33][34][need quotation to verify] science fiction author and commentator isaac asimov also stated[relevant?  – discuss] that "such a neutron bomb or n bomb seems desirable to those who worry about property and hold life cheap."[35][36]
+
+use[edit]
+ the 1979 soviet/warsaw pact invasion plan, "seven days to the river rhine" to seize west germany. soviet analysts had correctly assumed that the nato response would be to use regular tactical nuclear weapons to stop such a massive warsaw pact invasion.[37] according to proponents, neutron bombs would blunt an invasion by soviet tanks and armored vehicles without causing as much damage or civilian deaths as the older nuclear weapons would.[4] neutron bombs would have been used if the reforger conventional response of nato to the invasion was too slow or ineffective.[4][38]
+neutron bombs are purposely designed with explosive yields lower than other nuclear weapons. since neutrons are scattered and absorbed by air,[2] neutron radiation effects drop off rapidly with distance in air. as such, there is a sharper distinction, relative to thermal effects, between areas of high lethality and areas with minimal radiation doses.[3] all high yield (more than c. 10 kiloton) nuclear bombs, such as the extreme example of a device that derived 97% of its energy from fusion, the 50 megaton tsar bomba, are not able to radiate sufficient neutrons beyond their lethal blast range when detonated as a surface burst or low altitude air burst and so are no longer classified as neutron bombs, thus limiting the yield of neutron bombs to a maximum of about 10 kilotons. the intense pulse of high-energy neutrons generated by a neutron bomb is the principal killing mechanism, not the fallout, heat or blast.
+the inventor of the neutron bomb, sam cohen, criticized the description of the w70 as a neutron bomb since it could be configured to yield 100 kilotons:
+
+.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}the w-70 ... is not even remotely a "neutron bomb." instead of being the type of weapon that, in the popular mind, "kills people and spares buildings" it is one that both kills and physically destroys on a massive scale. the w-70 is not a discriminate weapon, like the neutron bomb—which, incidentally, should be considered a weapon that "kills enemy personnel while sparing the physical fabric of the attacked populace, and even the populace too."[39]
+
+although neutron bombs are commonly believed to "leave the infrastructure intact", with current designs that have explosive yields in the low kiloton range,[40] detonation in (or above) a built-up area would still cause a sizable degree of building destruction, through blast and heat effects out to a moderate radius, albeit considerably less destruction, than when compared to a standard nuclear bomb of the exact same total energy release or "yield".[41]
+
+ u.s. army m110 howitzers in a 1984 reforger staging area before transport. variants of this "dual capable"[42] nuclear artillery howitzer would launch the w79 neutron bomb.[43]
+the warsaw pact tank strength was over twice that of nato, and soviet deep battle doctrine was likely to be to use this numerical advantage to rapidly sweep across continental europe if the cold war ever turned hot. any weapon that could break up their intended mass tank formation deployments and force them to deploy their tanks in a thinner, more easily dividable manner,[4] would aid ground forces in the task of hunting down solitary tanks and using anti-tank missiles against them,[44] such as the contemporary m47 dragon and bgm-71 tow missiles, of which nato had hundreds of thousands.[4]
+rather than making extensive preparations for battlefield nuclear combat in central europe, "the soviet military leadership believed that conventional superiority provided the warsaw pact with the means to approximate the effects of nuclear weapons and achieve victory in europe without resort to those weapons."[45]
+neutron bombs, or more precisely, enhanced [neutron] radiation weapons were also to find use as strategic anti-ballistic missile weapons,[41] and in this role they are believed to remain in active service within russia's gazelle missile.[6]
+
+effects[edit]
+ wood frame house in 1953 nuclear test, 5 pounds per square inch (psi) overpressure, full collapse.
+upon detonation, a near-ground airburst of a 1 kiloton neutron bomb would produce a large blast wave and a powerful pulse of both thermal radiation and ionizing radiation, and non-ionizing radiation in the form of fast (14.1 mev) neutrons. the thermal pulse would cause third degree burns to unprotected skin out to approximately 500 meters. the blast would create pressures of at least 4.6 psi out to a radius of 600 meters, which would severely damage all non-reinforced concrete structures. at the conventional effective combat range against modern main battle tanks and armored personnel carriers (< 690–900 m), the blast from a 1 kt neutron bomb would destroy or damage to the point of nonusability almost all un-reinforced civilian buildings.
+using neutron bombs to stop an enemy armored attack by rapidly incapacitating crews with a dose of 8000+ rads of radiation[46] would require exploding large numbers of them to blanket the enemy forces, destroying all normal civilian buildings within c. 600 meters of the immediate area.[46][47] neutron activation from the explosions could make many building materials in the city radioactive, such as zinc coated steel/galvanized steel (see area denial use below).
+because liquid-filled objects like the human body are resistant to gross overpressure, the 4–5 psi blast overpressure would cause very few direct casualties at a range of c. 600 m. the powerful winds produced by this overpressure, however, could throw bodies into objects or throw debris at high velocity, including window glass, both with potentially lethal results. casualties would be highly variable depending on surroundings, including potential building collapses.[48]
+the pulse of neutron radiation would cause immediate and permanent incapacitation to unprotected outdoor humans in the open out to 900 meters,[9] with death occurring in one or two days. the median lethal dose (ld50) of 600 rads would extend to between 1350 and 1400 meters for those unprotected and outdoors,[46] where approximately half of those exposed would die of radiation sickness after several weeks.
+a human residing within, or simply shielded by, at least one concrete building with walls and ceilings 30 cm (12 in) thick, or alternatively of damp soil 24 inches thick, would receive a neutron radiation exposure reduced by a factor of 10.[49][50] even near ground zero, basement sheltering or buildings with similar radiation shielding characteristics would drastically reduce the radiation dose.[4]
+furthermore, the neutron absorption spectrum of air is disputed by some authorities, and depends in part on absorption by hydrogen from water vapor. thus, absorption might vary exponentially with humidity, making neutron bombs far more deadly in desert climates than in humid ones.[46]
+
+effectiveness in modern anti-tank role[edit]
+see also: centurion tank § nuclear tests, object 279, and signs and symptoms of radiation poisoning § "walking ghost phase"
+ the neutron cross section and absorption probability in barns of the two natural boron isotopes found in nature (top curve is for 10 b and bottom curve for 11 b. as neutron energy increases to 14 mev, the absorption effectiveness, in general, decreases. thus, for boron-containing armor to be effective, fast neutrons must first be slowed by another element by neutron scattering.
+the questionable effectiveness of er weapons against modern tanks is cited as one of the main reasons that these weapons are no longer fielded or stockpiled. with the increase in average tank armor thickness since the first er weapons were fielded, it was argued in the march 13, 1986 new scientist magazine, that tank armor protection, approaches the level where tank crews are now almost fully protected from radiation effects. thus, for an er weapon to incapacitate a modern tank crew through irradiation, the weapon must now be detonated at such proximity to the tank that the nuclear explosion's blast would now be equally effective at incapacitating it and its crew.[51] however this assertion was regarded as dubious in the 12 june, 1986 new scientist reply by c.s. grace, a member of the royal military college of science,[52] as neutron radiation from a 1 kiloton neutron bomb would incapacitate the crew of a tank with a protection factor of 35 out to a range of 280 meters, but the incapacitating blast range, depending on the exact weight of the tank, is much less, from 70 to 130 meters. however although the author did note that effective neutron absorbers and neutron poisons such as boron carbide can be incorporated into conventional armor and strap-on neutron moderating hydrogenous material (substances containing hydrogen atoms), such as explosive reactive armor, can both increase the protection factor, the author holds that in practice combined with neutron scattering, the actual average total tank area protection factor is rarely higher than 15.5 to 35.[53] according to the federation of american scientists, the neutron protection factor of a "tank" can be as low as 2,[2] without qualifying whether the statement implies a light tank, medium tank, or main battle tank.
+a composite high density concrete, or alternatively, a laminated graded-z shield, 24 units thick of which 16 units are iron and 8 units are polyethylene containing boron (bpe), and additional mass behind it to attenuate neutron capture gamma rays, is more effective than just 24 units of pure iron or bpe alone, due to the advantages of both iron and bpe in combination. during neutron transport iron is effective in slowing down/scattering high-energy neutrons in the 14-mev energy range and attenuating gamma rays, while the hydrogen in polyethylene is effective in slowing down these now slower fast neutrons in the few mev range, and boron 10 has a high absorption cross section for thermal neutrons and a low production yield of gamma rays when it absorbs a neutron.[54][55][56][57] the soviet t72 tank, in response to the neutron bomb threat, is cited as having fitted a boronated[58] polyethylene liner, which has had its neutron shielding properties simulated.[50][59]
+
+ the radiation weighting factor for neutrons of various energy has been revised over time and certain agencies have different weighting factors, however despite the variation amongst the agencies, from the graph, for a given energy, a fusion neutron (14.1 mev) although more energetic, is less biologically harmful as rated in sieverts, than a fission generated thermal neutron or a fusion neutron slowed to that energy, c. 0.8 mev.
+however, some tank armor material contains depleted uranium (du), common in the us's m1a1 abrams tank, which incorporates steel-encased depleted uranium armor,[60] a substance that will fast fission when it captures a fast, fusion-generated neutron, and thus on fissioning will produce fission neutrons and fission products embedded within the armor, products which emit among other things, penetrating gamma rays. although the neutrons emitted by the neutron bomb may not penetrate to the tank crew in lethal quantities, the fast fission of du within the armor could still ensure a lethal environment for the crew and maintenance personnel by fission neutron and gamma ray exposure[dubious  – discuss],[61] largely depending on the exact thickness and elemental composition of the armor—information usually hard to attain. despite this, ducrete—which has an elemental composition similar (but not identical) to the ceramic second generation heavy metal chobham armor of the abrams tank—is an effective radiation shield, to both fission neutrons and gamma rays due to it being a graded z material.[62][63] uranium, being about twice as dense as lead, is thus nearly twice as effective at shielding gamma ray radiation per unit thickness.[64]
+
+use against ballistic missiles[edit]
+as an anti-ballistic missile weapon, the first fielded er warhead, the w66, was developed for the sprint missile system as part of the safeguard program to protect united states cities and missile silos from incoming soviet warheads.
+a problem faced by sprint and similar abms was that the blast effects of their warheads change greatly as they climb and the atmosphere thins out. at higher altitudes, starting around 60,000 feet (18,000 m) and above, the blast effects begin to drop off rapidly as the air density becomes very low. this can be countered by using a larger warhead, but then it becomes too powerful when used at lower altitudes. an ideal system would use a mechanism that was less sensitive to changes in air density.
+neutron-based attacks offer one solution to this problem. the burst of neutrons released by an er weapon can induce fission in the fissile materials of primary in the target warhead. the energy released by these reactions may be enough to melt the warhead, but even at lower fission rates the "burning up" of some of the fuel in the primary can cause it to fail to explode properly, or "fizzle".[65] thus a small er warhead can be effective across a wide altitude band, using blast effects at lower altitudes and the increasingly long-ranged neutrons as the engagement rises.
+the use of neutron-based attacks was discussed as early as the 1950s, with the us atomic energy commission mentioning weapons with a "clean, enhanced neutron output" for use as "antimissile defensive warheads."[66] studying, improving and defending against such attacks was a major area of research during the 1950s and 60s. a particular example of this is the us polaris a-3 missile, which delivered three warheads travelling on roughly the same trajectory, and thus with a short distance between them. a single abm could conceivably destroy all three through neutron flux. developing warheads that were less sensitive to these attacks was a major area of research in the us and uk during the 1960s.[65]
+some sources claim that the neutron flux attack was also the main design goal of the various nuclear-tipped anti-aircraft weapons like the aim-26 falcon and cim-10 bomarc. one f-102 pilot noted:
+
+gar-11/aim-26 was primarily a weapon-killer. the bomber(s, if any) was collateral damage. the weapon was proximity-fused to ensure detonation close enough so an intense flood of neutrons would result in an instantaneous nuclear reaction (not full-scale) in the enemy weapon’s pit; rendering it incapable of functioning as designed...[o]ur first “neutron bombs” were the gar-11 and mb-1 genie.[66]
+
+it has also been suggested that neutron flux's effects on the warhead electronics are another attack vector for er warheads in the abm role. ionization greater than 5,000 rads in silicon chips delivered over seconds to minutes will degrade the function of semiconductors for long periods.[67] however, while such attacks might be useful against guidance systems which used relatively advanced electronics, in the abm role these components have long ago separated from the warheads by the time they come within range of the interceptors. the electronics in the warheads themselves tend to be very simple, and hardening them was one of the many issues studied in the 1960s.[65]
+lithium-6 hydride (li6h) is cited as being used as a countermeasure to reduce the vulnerability and "harden" nuclear warheads from the effects of externally generated neutrons.[68][69]
+radiation hardening of the warhead's electronic components as a countermeasure to high altitude neutron warheads somewhat reduces the range that a neutron warhead could successfully cause an unrecoverable glitch by the transient radiation effects on electronics (tree) effects.[70][71]
+at very high altitudes, at the edge of the atmosphere and above it, another effect comes into play. at lower altitudes, the x-rays generated by the bomb are absorbed by the air and have mean free paths on the order of meters. but as the air thins out, the x-rays can travel further, eventually outpacing the area of effect of the neutrons. in exoatmospheric explosions, this can be on the order of 10 kilometres (6.2 mi) in radius. in this sort of attack, it is the x-rays promptly delivering energy on the warhead surface that is the active mechanism; the rapid ablation (or "blow off") of the surface creates shock waves that can break up the warhead.[72]
+
+use as an area denial weapon[edit]
+in november 2012, during the planning stages of operation hammer of god, british labour peer lord gilbert suggested that multiple enhanced radiation reduced blast (errb) warheads could be detonated in the mountain region of the afghanistan-pakistan border to prevent infiltration.[73] he proposed to warn the inhabitants to evacuate, then irradiate the area, making it unusable and impassable.[74]  used in this manner, the neutron bomb(s), regardless of burst height, would release neutron activated casing materials used in the bomb, and depending on burst height, create radioactive soil activation products.
+in much the same fashion as the area denial effect resulting from fission product (the substances that make up most fallout) contamination in an area following a conventional surface burst nuclear explosion, as considered in the korean war by douglas macarthur, it would thus be a form of radiological warfare—with the difference that neutron bombs produce half, or less, of the quantity of fission products relative to the same-yield pure fission bomb. radiological warfare with neutron bombs that rely on fission primaries would thus still produce fission fallout, albeit a comparatively cleaner and shorter lasting version of it in the area than if air bursts were used, as little to no fission products would be deposited on the direct immediate area, instead becoming diluted global fallout.
+
+ the easiest to achieve fusion reaction, of deuterium ("d) with tritium (t") creating helium-4, freeing a neutron, and releasing only 3.5 mev in the form of kinetic energy as the charged alpha particle that will inherently generate heat(which manifests as blast and thermal effects), while the majority of the energy of the reaction(14.1 mev) is carried away by the uncharged fast neutron.[75] devices with a higher proportion of yield derived from this reaction would be more efficient in the stand-off asteroid impact avoidance role, due to the penetrative depth of fast-neutrons and the resulting higher momentum transfer that is produced in this "scabbing" of a much larger mass of material free from the main body, as opposed to the shallower surface penetration and ablation of regolith, that is produced by thermal/soft x-rays.
+however the most effective use of a neutron bomb with respect to area denial would be to encase it in a thick shell of material that could be neutron activated, and use a surface burst. in this manner the neutron bomb would be turned into a salted bomb; a case of zinc-64, produced as a byproduct of depleted zinc oxide enrichment, would for example probably be the most attractive for military use, as when activated, the zinc-65 so formed is a gamma emitter, with a half life of 244 days.[76]
+
+maintenance[edit]
+neutron bombs-warheads require considerable maintenance for their abilities, requiring some tritium for fusion boosting[citation needed] and tritium in the secondary stage (yielding more neutrons), in amounts on the order of a few tens of grams[77] (10–30 grams[78] estimated). because tritium has a relatively short half-life of 12.32 years (after that time, half the tritium has decayed), it is necessary to replenish it periodically to keep the bomb effective. (for instance: to maintain a constant level of 24 grams of tritium in a warhead, about 1.3 grams per bomb per year[79] must be supplied.) moreover, tritium decays into helium-3, which absorbs neutrons[80] and will thus further reduce the bomb's neutron yield.
+
+hypothetical effects of a pure fusion bomb[edit]
+see also: inertial confinement fusion
+with considerable overlap between the two devices, the prompt radiation effects of a pure fusion weapon would similarly be much higher than that of a pure-fission device: approximately twice the initial radiation output of current standard fission-fusion-based weapons. in common with all neutron bombs that must presently derive a small percentage of trigger energy from fission, in any given yield a 100% pure fusion bomb would likewise generate a more diminutive atmospheric blast wave than a pure-fission bomb. the latter fission device has a higher kinetic energy-ratio per unit of reaction energy released, which is most notable in the comparison with the d-t fusion reaction. a larger percentage of the energy from a d-t fusion reaction, is inherently put into uncharged neutron generation as opposed to charged particles, such as the alpha particle of the d-t reaction, the primary species, that is most responsible for the coulomb explosion/fireball.[81]
+
+see also[edit]
+atomic demolition munition - similar strategic use, low yield nuclear weapons.
+neutron transport
+nuclear strategy
+nuclear warfare
+nuclear weapon design
+w54 - a compact nuclear warhead.
+references[edit]
+
+
+^ a b c d "sci/tech neutron bomb: why 'clean' is deadly". archived from the original on 2011-10-21..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ a b c d e "chapter 2 conventional and nuclear weapons - energy production and atomic physics section i - general. figure 2-ix, table 2-iii". archived from the original on 2014-07-19.
+
+^ a b "the neutron bomb". archived from the original on 2018-01-03.
+
+^ a b c d e f "neutron bomb an explosive issue, 1981". archived from the original on 2015-02-28.
+
+^ muller, richard a. (2009). physics for future presidents: the science behind the headlines. w.w. norton & company. p. 148. isbn 978-0-393-33711-2.
+
+^ a b c yost, david scott (2 february 1988). soviet ballistic missile defense and the western alliance. harvard university press. isbn 9780674826106  – via google books.
+
+^ a b pike, john. "53t6 gazelle". www.globalsecurity.org. archived from the original on 2015-06-03.
+
+^ "y-12 completes dismantlement of w70 nuclear weapons system components". oak ridge national lab. 21 october 2011. archived from the original on 3 november 2016.
+
+^ a b kistiakovsky, george (sep 1978). "the folly of the neutron bomb". bulletin of the atomic scientists. 34: 27. retrieved 11 february 2011.
+
+^ hafemeister, david w. (2007). physics of societal issues: calculations on national security, environment, and energy. springer. p. 18. isbn 978-0-387-95560-5.
+
+^ "mock up". remm.nlm.gov. archived from the original on 2013-06-07. retrieved 2013-11-30.
+
+^ "range of weapons effects". johnstonsarchive.net. archived from the original on 2016-01-08. retrieved 2013-11-30.
+
+^ "weapon designer robert christy discussing scaling laws, that is, how injuries from ionizing radiation do not linearly scale in lock step with the range of thermal flash injuries, especially as higher and higher yield nuclear weapons are used". webofstories.com. retrieved 2013-11-30.
+
+^ robert d. mcfadden (december 1, 2010). "samuel t. cohen, neutron bomb inventor, dies at 89". the new york times. archived from the original on january 17, 2012. retrieved 2010-12-02. after the war, he joined the rand corporation and in 1958 designed a neutron bomb as a way to strike a cluster of enemy forces while sparing infrastructure and distant civilian populations.
+
+^ a b c d e cochran, thomas; arkin, william; hoenig, milton (1987). nuclear weapons databook: u.s. nuclear warhead production. volume 2. ballinger publishing. p. 23.
+
+^ "about: chemistry article archived 2011-02-23 at wikiwix", by anne marie helmenstine, ph. d
+
+^ a b "on this day: 7 april". bbc. 1978-04-07. archived from the original on 2010-12-07. retrieved 2010-07-02. jimmy carter's successor, ronald reagan, changed us policy and gave the order for the production of neutron warheads to start in 1981. ...
+
+^ a b "the soviet neutron bomb at 30. march 07 2010. rt". archived from the original on november 10, 2011.
+
+^ "nuclear weapon news and background". archived from the original on 2007-09-29. retrieved 2012-10-11.
+
+^ christopher ruddy (june 15, 1997). "bomb inventor says u.s. defenses suffer because of politics". tribune-review. archived from the original on september 22, 2010. retrieved 2010-07-03. with the fall of the berlin wall and the end of communism as we knew it, the bush administration moved to dismantle all of our tactical nuclear weapons, including the reagan stockpile of neutron bombs. in cohen's mind, america was brought back to square one. without tactical weapons like neutron bombs, america would be left with two choices if an enemy was winning a conventional war: surrender, or unleash the holocaust of strategic nuclear weapons.
+
+^ "types of nuclear weapons". nuclearweaponarchive.org. archived from the original on 2012-07-28. retrieved 2012-10-12.
+
+^ john pike. "march 13, 1996". globalsecurity.org. archived from the original on october 26, 2012. retrieved 2012-10-12.
+
+^ "nnsa dismantles last nuclear artillery shell" (pdf). national nuclear security administration. archived (pdf) from the original on 2011-10-23. retrieved 2012-10-12.
+
+^ "report of the select committee on u.s. national security and military/commercial concerns with the people's republic of china:  chapter 2 - prc theft of u.s. thermonuclear warhead design information". archived from the original on 2015-05-08.
+
+^ cohen, samuel (9 august 1999). "check your facts: cox report bombs". insight on the news.
+
+^ "neutron bomb: why 'clean' is deadly". bbc news. 1999-07-15. archived from the original on 2009-04-07. retrieved 2012-10-12.
+
+^ uk parliamentary question on whether condemnation was considered by thatcher government [1]
+
+^ ray, jonathan (january 2015). "red china's "capitalist bomb": inside the chinese neutron bomb program" (pdf). china strategic perspectives. 8. archived (pdf) from the original on 2015-02-07.
+
+^ journal, jonathan karp staff reporter of the wall street. "india discloses it is able to build a neutron bomb". archived from the original on 2017-01-23.
+
+^ the nuclear express: a political history of the bomb and its proliferation, by thomas c. reed, danny b. stillman (2010), page 181
+
+^ wittner, lawrence s. (2009). confronting the bomb: a short history of the world nuclear disarmament movement. stanford university press. pp. 132–133. isbn 978-0-8047-5632-7.
+
+^ auten, brian j. (2008). carter's conversion: the hardening of american defense policy. university of missouri press. p. 134. isbn 978-0-8262-1816-2.
+
+^ national security for a new era: globalization and geopolitics after iraq, donald snow
+
+^ herken, greff (2003). brotherhood of the bomb: the tangled lives and loyalties of robert oppenheimer, ernest lawrence, and edward teller. macmillan. p. 332. isbn 978-0-8050-6589-3.
+
+^ asimov, isaac. the new intelligent man's guide to science. basic books, new york, 1965. page 410.
+
+^ dewar, dale; oelck, florian (2014). from hiroshima to fukushima to you: a primer on radiation and health. between the lines. p. 29. isbn 9781771131285.
+
+^ isn editors. "poland reveals warsaw pact war plans". international relations and security network. archived from the original on 8 october 2013. retrieved 23 december 2014.cs1 maint: extra text: authors list (link)
+
+^ healy, melissa (october 3, 1987). "senate permits study for new tactical nuclear missile". los angeles times. archived from the original on december 23, 2012. retrieved 2012-08-08.
+
+^ "check your facts: cox report bombs". insight on the news. 9 august 1999. archived from the original on 4 march 2016. retrieved 5 june 2015.  – via questia (subscription required)
+
+^ "list of all u.s. nuclear weapons". nuclearweaponarchive.org. 2006-10-14. archived from the original on 2013-02-05. retrieved 2012-10-12.
+
+^ a b "what is a neutron bomb? by anne marie helmenstine, ph.d". archived from the original on 2011-02-23.
+
+^ boersma, hans. "1 (nl) corps artillery • 1 legerkorpsartillerie (1 lka)". www.orbat85.nl. archived from the original on 2015-09-24.
+
+^ "accomplishments in the 1970s: llnl's 50th anniversary". 17 february 2005. archived from the original on 17 february 2005.
+
+^ "what is a neutron bomb "in strategic terms, the neutron bomb has a theoretical deterrent effect: discouraging an armoured ground assault by arousing the fear of neutron bomb counterattack"". archived from the original on 2006-01-13.
+
+^ "candid interviews with former soviet officials reveal u.s. strategic intelligence failure over decades". www.gwu.edu. archived from the original on 2011-08-05.
+
+^ a b c d "fact-index, neutron bomb". archived from the original on 2013-06-30.
+
+^ calculated from "archived copy". archived from the original on 2014-04-28. retrieved 2014-04-21.cs1 maint: archived copy as title (link) assuming 0.5 kt combined blast and thermal
+
+^ "1) effects of blast pressure on the human body" (pdf). archived (pdf) from the original on 2013-01-27. retrieved 2012-10-12.
+
+^ "field manual 3-4 chapter 4". archived from the original on 2013-03-13.
+
+^ a b "applications of the monte carlo adjoint shielding methodology - mit". archived from the original on 2015-07-17.
+
+^ information, reed business (1986-03-13). new scientist march 13, 1986 pg 45. retrieved 2012-10-12.
+
+^ "credible effects of nuclear weapons for real world peace: peace through tested, proved and practical declassified deterrence and countermeasures against collateral damage. credible deterrence through simple, effective protection against concentrated and dispersed invasions and aerial attacks. discussions of the facts as opposed to inaccurate, misleading lies of the "disarm or be annihilated" political dogma variety. hiroshima and nagasaki anti-nuclear propaganda debunked by the hard facts. walls not wars. walls bring people together by stopping divisive terrorists". glasstone.blogspot.co.uk. archived from the original on 2014-08-26.
+
+^ information, reed business (1986-06-12). new scientist june 12, 1986 pg 62.
+
+^ "monte carlo calculations using mcnp4b for an optimal shielding design of a 14-mev neutron source, submitted to the journal of radiation protection dosimetry 1998" (pdf). archived (pdf) from the original on 2016-03-05.
+
+^ "neutron interactions – part 2 george starkschall, ph.d. department of radiation physics" (pdf). archived (pdf) from the original on 2015-07-17.
+
+^ "22.55 "principles of radiation interactions"" (pdf). archived (pdf) from the original on 2015-07-17.
+
+^ "the preparation of polyethylene and mineral material composites, and experimental and theoretical (using mcnp code) verification of their characteristics for neutron beam attenuation" (pdf). journal of science and engineering vol. 1 (2), 2013, 95-101.
+
+^ "what is a neutron bomb". archived from the original on 2006-01-13.
+
+^ strobing, ronan (jul 2009). terror reigns again by ronan strobing. pg 418. isbn 9780955855771.
+
+^ "m1a1/2 abrams main battle tank, united states of america". archived from the original on 2014-08-10.
+
+^ ""for example, m-1 tank armor includes depleted uranium, which can undergo fast fission and can be made to be radioactive when bombarded with neutrons"". archived from the original on 2011-02-23.[unreliable source?]
+
+^ "archived copy" (pdf). archived (pdf) from the original on 2011-10-19. retrieved 2011-11-29.cs1 maint: archived copy as title (link) paper summary submitted to spectrum 2000, sept 24-28, 2000, chattanooga, tn. ducrete: a cost effective radiation shielding material. quote- "the ducrete/duagg replaces the conventional aggregate in concrete producing concrete with a density of 5.6 to 6.4 g/cm3 (compared to 2.3 g/cm3 for conventional concrete). this shielding material has the unique feature of having both high z and low z elements in a single matrix. consequently, it is very effective for the attenuation of gamma and neutron radiation ..."
+
+^ m. j. haire and s. y. lobach, "cask size and weight reduction through the use of depleted uranium dioxide (duo2)-concrete material" archived 2012-09-26 at the wayback machine, waste management 2006 conference,tucson, arizona, february 26–march 2, 2006.
+
+^ "half-value layer (shielding)". archived from the original on 2014-08-11.
+
+^ a b c walker, john (2016). british nuclear weapons and the test ban 1954–1973. routledge. p. 23, 323-325.
+
+^ a b maloney, sean (fall 2014). "secrets of the bomarc: re-examining canada's misunderstood missile".
+
+^ "fas nuclear weapon radiation effects". archived from the original on 2013-07-21.
+
+^ "section 12.0 useful tables nuclear weapons frequently asked questions". archived from the original on 2011-02-24. due to moderating ability and light weight, used to harden weapons against outside neutron fluxes (especially in combination with li-6) ...the very high cross section of this reaction for thermalized neutrons, combined with the light weight of the li-6 atom, make it useful in the form of lithium hydride for hardening of nuclear weapons against external neutron fluxes.
+
+^ "restricted data declassification policy, 1946 to the present rdd-1". archived from the original on 2013-10-20. the fact that li6h is used in unspecified weapons for hardening
+
+^ "the nuclear matters handbook, f.13". archived from the original on 2013-03-02.
+
+^ "transient radiation effects on electronics (tree) handbook formerly design handbook for tree, chapters 1-6". archived from the original on 2014-05-06.
+
+^ "nuclear matters handbook". archived from the original on 2014-05-06. nuclear weapon-generated x-rays are the chief threat to the survival of strategic missiles in-flight above the atmosphere and to satellites ... the neutron and gamma ray effects dominate at lower altitudes where the air absorbs most of the x-rays.
+
+^ "huffington post". archived from the original on 2012-11-29. retrieved 2012-11-27.
+
+^ "lord gilbert obituary, by andrew roth, 3 june 2013. "nobody lives up in the mountains on the border between afghanistan and pakistan except for a few goats and a handful of people herding them," he observed. "if you told them that some ... warheads were going to be dropped there and that it would be a very unpleasant place to go, they would not go there."". archived from the original on 6 march 2014.
+
+^ 
+shultis, j.k. & faw, r.e. (2002). fundamentals of nuclear science and engineering. crc press. p. 151. isbn 978-0-8247-0834-4.
+
+^ "1.6 cobalt bombs and other salted bombs, nuclear weapons archive, carey sublette". archived from the original on 2012-07-28.
+
+^ kalinowski, martin (2004). international control of tritium for nuclear nonproliferation and disarmament. crc press. p. 10. isbn 978-0-415-31615-6.
+
+^ zerriffi, hisham (january 1996). "tritium: the environmental, health, budgetary, and strategic effects of the department of energy's decision to produce tritium". institute for energy and environmental research. archived from the original on 2013-11-13.
+
+^ after a year the initial amount of 24 grams of tritium decays to 2^(-1/12.32)x 24=22.68 grams.
+
+^ when absorbing neutrons, helium-3 produces back some tritium, but it comes too late in the reaction for fusion boosting and does not compensate for the decayed tritium missing at the reaction start.[citation needed]
+
+^ physics of societal issues - springer (submitted manuscript). 2007. doi:10.1007/978-0-387-68909-8. isbn 978-0-387-95560-5.
+
+
+further reading[edit]
+cohen, sam (1983). the truth about the neutron bomb: the inventor of the bomb speaks out. william morrow & co. isbn 978-0-688-01646-3.
+cohen, sam (september 2015). shame: confessions of the father of the neutron bomb (pdf) (4th ed.). archived from the original (pdf) on 2015-10-23. retrieved 2016-11-14.
+external links[edit]
+strategic implications of enhanced radiation weapons
+nuclear files.org definition and history of the neutron bomb
+creator of neutron bomb leaves an explosive legacy
+the woodrow wilson center's nuclear proliferation international history project or npihp is a global network of individuals and institutions engaged in the study of international nuclear history through archival documents, oral history interviews and other empirical sources.
+authority control 
+bnf: cb11947041z (data)
+gnd: 4183517-7
+lccn: sh85091203
+nara: 10642487
+ndl: 00575799
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=neutron_bomb&oldid=880005817"					
+categories: american inventionsenergy weaponsneutronnuclear weaponshidden categories: webarchive template other archivescs1 maint: extra text: authors listsubscription required using viapages containing links to subscription-only contentcs1 maint: archived copy as titleall articles lacking reliable referencesarticles lacking reliable references from april 2017webarchive template wayback linksall articles with unsourced statementsarticles with unsourced statements from november 2016wikipedia articles needing factual verification from august 2015wikipedia articles that may have off-topic sectionsall accuracy disputesarticles with disputed statements from april 2017articles with unsourced statements from march 2014wikipedia articles with bnf identifierswikipedia articles with gnd identifierswikipedia articles with lccn identifierswikipedia articles with nara identifierswikipedia articles with ndl identifiers 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+languages
+
+
+العربيةazərbaycancaбългарскиcatalàčeštinadeutscheestiespañoleuskaraفارسیfrançaisgaeilge한국어հայերենitalianoעבריתmagyarമലയാളംnederlands日本語polskiportuguêsрусскийslovenčinasuomisvenskatürkçeукраїнська吴语粵語中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 24 january 2019, at 19:16 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.904","walltime":"1.046","ppvisitednodes":{"value":4205,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":145423,"limit":2097152},"templateargumentsize":{"value":4088,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":11,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":238390,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  889.249      1 -total"," 65.71%  584.356      1 template:reflist"," 30.03%  267.037     49 template:cite_web"," 14.00%  124.502     17 template:cite_book"," 11.61%  103.233      6 template:fix","  6.82%   60.690      1 template:quotation_needed","  5.54%   49.248      6 template:delink","  5.31%   47.258      4 template:convert","  5.26%   46.740      8 template:category_handler","  4.04%   35.912      1 template:authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.504","limit":"10.000"},"limitreport-memusage":{"value":7726180,"limit":52428800}},"cachereport":{"origin":"mw1323","timestamp":"20190213223848","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":158,"wghostname":"mw1326"});});
+
+

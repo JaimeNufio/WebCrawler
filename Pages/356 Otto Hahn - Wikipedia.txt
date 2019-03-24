@@ -1,0 +1,801 @@
+
+
+
+
+otto hahn - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"otto_hahn","wgtitle":"otto hahn","wgcurrevisionid":879750385,"wgrevisionid":879750385,"wgarticleid":46825,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["use dmy dates from november 2014","interlanguage link template link number","biography template using pronunciation","biography with signature","infobox person using alma mater","articles with hcards","all articles with unsourced statements","articles with unsourced statements from august 2017","articles needing additional references from december 2017","all articles needing additional references","wikipedia articles with bibsys identifiers","wikipedia articles with bnf identifiers","wikipedia articles with gnd identifiers","wikipedia articles with isni identifiers","wikipedia articles with lccn identifiers","wikipedia articles with ndl identifiers","wikipedia articles with nkc identifiers","wikipedia articles with nla identifiers","wikipedia articles with selibr identifiers","wikipedia articles with snac-id identifiers","wikipedia articles with sudoc identifiers","wikipedia articles with viaf identifiers","wikipedia articles with worldcat-viaf identifiers","1879 births","1968 deaths","20th-century german chemists","cornell university faculty","discoverers of chemical elements","enrico fermi award recipients","faraday lecturers","fellows of the american academy of arts and sciences","foreign fellows of the indian national science academy","foreign members of the royal society","free university of berlin faculty","german anti–nuclear weapons activists","german autobiographers","german humanitarians","german military personnel of world war i","german nobel laureates","german pacifists","grand crosses 1st class of the order of merit of the federal republic of germany","honorary members of the romanian academy","honorary officers of the order of the british empire","humboldt university of berlin alumni","humboldt university of berlin faculty","knights of the house order of hohenzollern","ludwig maximilian university of munich alumni","max planck society people","members of the austrian academy of sciences","members of the bavarian academy of sciences","members of the finnish academy of science and letters","members of the german academy of sciences at berlin","members of the pontifical academy of sciences","members of the prussian academy of sciences","members of the royal danish academy of sciences and letters","members of the royal swedish academy of sciences","nobel laureates in chemistry","nuclear chemists","officiers of the légion d'honneur","operation epsilon","otto hahn","people from frankfurt","people from hesse-nassau","recipients of the albert order","recipients of the pour le mérite (civil class)","recipients of the pro ecclesia et pontifice","university of marburg alumni","winners of the max planck medal"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"otto_hahn","wgrelevantarticleid":46825,"wgrequestid":"xgwfhqpaaeaaah8tlqiaaabm","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q57065","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+otto hahn 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+
+
+otto hahnpronunciationgerman: [ˈʔɔto ˈhaːn] born(1879-03-08)8 march 1879frankfurt am main,hesse-nassau, prussia,germanydied28 july 1968(1968-07-28) (aged 89)göttingen, west germanynationalitygermanalma materuniversity of marburgknown fordiscovery of radioactive elements (1905–1921)radiothorium (1905)radioactinium (1906)mesothorium (1907)ionium (1907)radioactive recoil (1909)fajans–paneth–hahn lawprotactinium (1917)nuclear isomerism (1921)applied radiochemistry (1936)rubidium-strontium dating (1938)nuclear fission (1938)spouse(s)edith junghans [de] (b.1887 – d.1968) (married: 1913–1968)awards
+emil fischer medal (1919)
+cannizzaro prize (1939)
+copernicus prize (1941)
+nobel prize in chemistry (1944)
+max planck medal (1949)
+paracelsus medal (1952)
+henri becquerel medal (1952)
+pour le mérite (1952)
+faraday lectureship prize (1956)
+formemrs (1957)[1]
+wilhelm exner medal (1958)
+hugo grotius medal (1958)
+légion d'honneur (1959)
+enrico fermi award (1966)
+scientific careerfieldsradiochemistrynuclear chemistryinstitutionsuniversity college londonmcgill universityuniversity of berlinkaiser wilhelm institute for chemistrymax planck societydoctoral advisortheodor zinckeother academic advisorsadolf von baeyer, university of munich;sir william ramsay, university college london;ernest rutherford, mcgill university montreal;emil fischer, university of berlindoctoral studentsroland lindnerwalter seelmann-eggebertjohannes heidenhainjan de vriestruus de vries-kruytaristid von grosseboris nikitinlaszlo imreclara lieberfritz strassmannsalomon rosenblumkarl erik zimenhans-joachim bornboris sagortschewhans göttesiegfried flüggenikolaus riehlinfluencedfrédéric joliot-curieenrico fermiglenn t. seaborgedwin mcmillanalbert ghiorsoemilio segrèphilip abelsonjoseph w. kennedynikolay semyonovigor kurchatovgeorgy flyorovisaak kikoinyulii borisovich khariton
+signature
+otto hahn (8 march 1879 – 28 july 1968)[1] was a german chemist and pioneer in the fields of radioactivity and radiochemistry. otto hahn discovered nuclear fission in 1938. he is referred to as the father of nuclear chemistry.[2] he was awarded the nobel prize in chemistry in 1944 for the discovery and the radiochemical proof of nuclear fission.[3] this process is exploited by nuclear reactors and is one of the basics of nuclear weapons that were developed in the u.s. during world war ii.
+he served as the last president of the kaiser wilhelm society (kwg) in 1946 and as the founding president of the max planck society (mpg) from 1948 to 1960. considered by many to be a model for scholarly excellence and personal integrity,[4] he became one of the most influential and respected citizens of the new postwar country west germany.
+hahn was an opponent of national socialism and jewish persecution by the nazi party. albert einstein wrote that hahn was "one of the very few who stood upright and did the best he could in these years of evil".[5] after world war ii,[4] hahn became a passionate campaigner against the use of nuclear energy as a weapon.
+
+contents
+
+1 early life
+2 research in london and montreal (1904–1906)
+
+2.1 discovery of radiothorium and other "new elements"
+
+
+3 research in berlin (1906–1944)
+
+3.1 discovery of mesothorium i (ra 228)
+3.2 discovery of radioactive recoil
+3.3 marriage with edith junghans
+3.4 world war i
+3.5 discovery of protactinium
+3.6 discovery of nuclear isomerism
+
+
+4 applied radiochemistry
+5 discovery of nuclear fission (1938)
+6 internment in england (1945)
+7 the nobel prize in chemistry 1944
+8 founder and president of the max planck society
+9 spokesman for social responsibility
+10 honors and awards
+11 death
+12 legacy
+13 publications in english
+14 see also
+15 references
+16 bibliography
+17 external links
+
+
+early life[edit]
+hahn was the youngest son of heinrich hahn (1845–1922), a prosperous glazier and entrepreneur ("glasbau hahn"), and charlotte hahn, née giese (1845–1905). together with his brothers karl, heiner and julius, otto was raised in a sheltered environment. at the age of 15, he began to take a special interest in chemistry, and carried out simple experiments in the laundry room of the family home. his father wanted otto to study architecture, as he had built or acquired several residential and business properties, but otto persuaded him that his ambition was to become an industrial chemist.[6] in 1897, after taking his abitur at the klinger oberrealschule in frankfurt, hahn began to study chemistry and mineralogy at the university of marburg. his subsidiary subjects were physics and philosophy. hahn joined the students' association of natural sciences and medicine, a student fraternity and a forerunner of today's "landsmannschaft nibelungia" (coburger convent der akademischen landsmannschaften und turnerschaften). he spent his third and fourth semester studying under adolf von baeyer at the university of munich. in 1901, hahn received his doctorate in marburg for a dissertation entitled on bromine derivates of isoeugenol, a topic in classical organic chemistry.[citation needed] after completing his one-year military service, the young chemist returned to the university of marburg, where for two years he worked as assistant to his doctoral supervisor, geheimrat professor theodor zincke.[7]
+his long-time scientific collaborator nikolaus riehl claimed that the family had "a jewish antecedent", but this didn't hinder hahn's academic career during the nazi era.[8] according to journalist bernt engelmann, hahn was often thought of as jewish because of his "jewish sounding" surname, but he instead asserts that hahn only had jewish ancestors on his maternal side of the family despite "giese" (his mother's maiden name) not being a traditional jewish surname. engelmann claimed that this jewish ancestry was an "anxiously guarded secret" which had been "hushed up because german science could not afford the loss of this scientist of the highest international repute."[9] however, one of lise meitner's principal biographers was skeptical of this claim of jewish maternal ancestry, noting that engelmann made numerous factual errors in his book. she speculates that it may have been a malicious rumor, similar to the one that affected max planck, who was falsely accused by his enemies in the reich of having jewish ancestors on his maternal side
+[10][11]
+
+research in london and montreal (1904–1906)[edit]
+discovery of radiothorium and other "new elements"[edit]
+ sir william ramsay, london 1905
+ ernest rutherford at mcgill university, montreal 1905
+hahn's intention had been to work in industry. with this in mind, and to improve his knowledge of english, he took up a post at university college london in 1904, working under sir william ramsay, known for having discovered the inert gases. here hahn worked on radiochemistry, at that time a very new field. in early 1905, in the course of his work with salts of radium, hahn discovered a new substance he called radiothorium (thorium-228), which at that time was believed to be a new radioactive element. (in fact, it was a still undiscovered isotope of the known element thorium. the term isotope was only coined in 1913, by the british chemist frederick soddy).
+ramsay was very enthusiastic when yet another new element was found in his institute, and he intended to announce the discovery in a correspondingly suitable way. in accordance with tradition this should be done before the committee of the venerable royal society. at the session of the royal society on the 16 march 1905 ramsay communicated hahn's discovery of radiothorium,[12] and even the press was interested. the daily telegraph informed its readers:[13]
+
+.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}a new element - very soon the scientific papers will be agog with a new discovery which has been added to the many brilliant triumphs of gower street. dr. otto hahn, who is working at university college, has discovered a new radioactive element, extracted from a mineral from ceylon, named thorianite, and possibly, it is conjectured, the substance which renders thorium radioactive. its activity is at least 250,000 times as great as that of thorium, weight for weight. it gives off a gas (generally called an emanation), identical with the radioactive emanation from thorium. another theory of deep interest is that it is the possible source of a radioactive element possibly stronger in radioactivity than radium itself, and capable of producing all the curious effects which are known of radium up to the present. - the discoverer read a paper on the subject to the royal society last week, and this should rank, when published, among the most original of recent contributions to scientific literature.
+
+for the first time the name of otto hahn was mentioned in connection with radium research, and his "new radioactive element, which evolves thorium emanation" (so the original title) was published in the proceedings of the royal society in the issue of 24 march 1905 (76 a, pages 115-117). it was the first of more than 250 scientific publications of otto hahn in the field of radiochemistry. in may 1905, ramsay wrote to ernest rutherford: "hahn is a capital fellow and has done his work admirably. i am sure that you would enjoy having him to work with you."[14]
+rutherford agreed and, from september 1905 until mid-1906, hahn worked in his team at mcgill university in montreal, canada where he discovered thorium c (later identified as polonium-212), radium d (later identified as lead-210), and radioactinium (later identified as thorium-227), and investigated the alpha rays of radiothorium,[15] while rutherford used to say in these days: "hahn has a special nose for discovering new elements."[16]
+in his rutherford biography, the bbc science correspondent david wilson stated:[17]
+
+greatest of all rutherford's mcgill collaborators was otto hahn, who became the world's leading radio-chemist, a nobel prize winner, a man whose experiments showed the natural fission of uranium, the crucial piece of work which opened the door to the atomic age in 1939.
+
+research in berlin (1906–1944)[edit]
+this section needs additional citations for verification. please help improve this article by adding citations to reliable sources. unsourced material may be challenged and removed.find sources: "otto hahn" – news · newspapers · books · scholar · jstor (december 2017) (learn how and when to remove this template message)
+discovery of mesothorium i (ra 228)[edit]
+in 1906, hahn returned to germany, where he collaborated with emil fischer at the university of berlin. fischer placed at his disposal a former woodworking shop ("holzwerkstatt") in the chemical institute to use as his own laboratory. there, in the space of a few months, using extremely primitive apparatus, hahn discovered mesothorium i, mesothorium ii, and – independently from bertram boltwood – the mother substance of radium, ionium (later identified as thorium-230). in subsequent years, mesothorium i (radium-228) assumed great importance because, like radium-226 (discovered by pierre and marie curie), it was ideally suited for use in medical radiation treatment, while costing only half as much to manufacture. wilson wrote in his rutherford biography:
+
+hahn was rapidly carving out his place as the world's leading radio-chemist, with a series of new discoveries of radioactive daughter elements. he also showed a wisdom and humour which impressed rutherford, for when the new zealander suggested "paradium" as the name for one of hahn's newly discovered elements - meaning "parallel to radium" - hahn rejected the suggestion on the grounds that the name was too reminiscent of military activity and goose-stepping.[18]
+in 1914, for the discovery of mesothorium i (radium-228), otto hahn was first nominated for the nobel prize in chemistry by adolf von baeyer and, in june 1907, by means of the traditional habilitation thesis, hahn qualified to teach at the university of berlin. on 28 september 1907 he made the acquaintance of the austrian physicist lise meitner who was almost the same age, who had transferred from vienna to berlin. so began the thirty-year collaboration and lifelong close friendship between the two scientists.
+
+discovery of radioactive recoil[edit]
+after the physicist harriet brooks had observed a radioactive recoil in 1904, but interpreted it wrongly, otto hahn succeeded, in late 1908 and early 1909, in demonstrating the radioactive recoil incident to alpha particle emission and interpreting it correctly. the physicist walther gerlach described this as "a profoundly significant discovery in physics with far-reaching consequences".[19] rutherford in manchester wrote in a letter to his mother: "he is doing the best work in germany at present."[20]
+in 1910, hahn was appointed professor by the prussian minister of culture and education august von trott zu solz and, in 1912, he became head of the radioactivity department of the newly founded kaiser wilhelm institute for chemistry in berlin-dahlem (today 'hahn-meitner-building' of the free university, berlin, thielallee 63). succeeding alfred stock, hahn was director of the institute from 1928 to 1946. in 1924, hahn was elected to full membership of the prussian academy of sciences in berlin (proposed by albert einstein, max planck, fritz haber, wilhelm schlenk, and max von laue).
+
+marriage with edith junghans[edit]
+ marble plaque in latin by professor massimo ragnolini, commemorating the honeymoon of otto hahn and his wife edith at punta san vigilio, lake garda, italy, in march and april 1913. (unveiled by count guglielmo guarienti di brenzone in 1983).
+in june 1911, while attending a conference in stettin (today szczecin, poland) otto hahn met the young edith junghans (1887–1968), an art student at the royal school of art in berlin. on 22 march 1913 the couple married in edith's native city of stettin, where her father, paul ferdinand junghans, was a high-ranking law officer and president of the city parliament until his 1915 death. their only child, hanno, born in 1922, became a distinguished art historian and architectural researcher (at the hertziana in rome), known for his discoveries in the early cistercian architecture of the 12th century. in august 1960, while on a study trip in france, hanno hahn died in a car accident, together with his wife and assistant ilse hahn, née pletz. they left a fourteen-year-old son, dietrich. in 1990, the hanno and ilse hahn prize for outstanding contributions to italian art history was established in memory of hanno and ilse hahn to support young and talented art historians. it is awarded biennially by the bibliotheca hertziana – max planck institute of art history in rome.
+
+ hahn and meitner, 1913, in the chemical laboratory of the kwi.
+world war i[edit]
+ hahn in 1915. from the archiv der max-planck-gesellschaft, berlin-dahlem
+in august 1914 he was recalled to the army in a landwehr regiment.[21] they marched through belgium, where the platoon he commanded was armed with captured machine guns, with which they attacked unsuccessfully in flanders. he was a joyful participant in the christmas truce of 1914 and was commissioned. in mid-january 1915 he was summoned to meet fritz haber, who explained their plan to break the trench deadlock with chlorine gas.[22] after brief training in berlin together with james franck and gustav hertz, hahn was sent to flanders to scout for a site for the first attack, which he did not witness because he and franck were off selecting a position for the next attack. transferred to poland, on 12 june 1915 he witnessed the death agonies of russians they had poisoned. he was transferred to berlin as a human guinea-pig testing poisonous gases and gas masks. this assignment was interrupted by a hiatus at the front in flanders and again in 1916 by a mission to verdun to introduce shells filled with phosgene and mustard gas. then once again he was hunting along both fronts for sites for gas attacks. in december 1916 he joined the new gas command unit at imperial headquarters.
+in september 1917 he was one of three officers, disguised in austrian uniforms, sent to the isonzo front in italy to find a suitable location for an attack, utilizing newly developed mortars that simultaneously hurled hundreds of containers of poison onto enemy targets. they selected a site where the italian trenches were sheltered in a deep valley so that a gas cloud would persist. the attack at caporetto broke-through the italian line and the central powers overran much of northern italy. in 1918 the third german offensive in the west smashed through the allied lines after a massive release of gas from their mortars — the germans reached the marne. that summer hahn was too weak to work, presumably poisoned by phosgene. at the end of the war he was in the field in mufti on a secret mission to test a pot that heated and released a cloud of arsenicals. his military clothing was returned by his batman rehfeldt, who remained a lifelong friend.
+
+discovery of protactinium[edit]
+in december 1916, when posted to berlin, hahn was able to resume radiochemical research in his institute. in 1917–1918, hahn and meitner isolated a long-lived activity, which they named "proto-actinium". already in 1913, kazimierz fajans and göhring had isolated a short-lived activity from uranium x2 (later known as 234mpa), and called the substance "brevium". the two activities were different isotopes of the same undiscovered element number 91.
+for their discovery hahn and meitner were repeatedly nominated for the nobel prize in chemistry in the 1920s by a number of scientists, among them max bergmann, viktor moritz goldschmidt, and even fajans himself. in 1949, the international union of pure and applied chemistry (iupac) named the new element definitely protactinium, and confirmed hahn and meitner as discoverers.
+
+discovery of nuclear isomerism[edit]
+in february 1921, otto hahn published the first report on his discovery of uranium z (later known as 234pa ),[23] the first example of nuclear isomerism. gerlach remarked that this was "a discovery that was not understood at the time but later became highly significant for nuclear physics".[19] not until 1936 did carl friedrich von weizsäcker provide a theoretical explanation of the phenomenon of nuclear isomerism.[24] for this discovery, whose full significance was recognized by very few, hahn was again proposed, from 1923 till 1929, for the nobel prize in chemistry by naunyn, goldschmidt, and max planck.
+
+applied radiochemistry[edit]
+in the early 1920s, otto hahn created a new field of work. using the "emanation method", which he had recently developed, and the "emanation ability", he founded what became known as "applied radiochemistry" for the researching of general chemical and physical-chemical questions. in 1936 cornell university press published a book in english (and later in russian) titled applied radiochemistry, which contained the lectures given by hahn when he was a visiting professor at cornell university in ithaca, new york in 1933. this important publication had a major influence on almost all nuclear chemists and physicists in the united states, the united kingdom, france, and the soviet union during the 1930s and 1940s.
+in 1966, glenn t. seaborg, co-discoverer of many transuranium elements and president of the united states atomic energy commission, wrote about this book as follows:[25]
+
+as a young graduate student at the university of california at berkeley in the mid-1930s and in connection with our work with plutonium a few years later, i used his book applied radiochemistry as my bible. this book was based on a series of lectures which professor hahn had given at cornell in 1933; it set forth the "laws" for the co-precipitation of minute quantities of radioactive materials when insoluble substances were precipitated from aqueous solutions. i recall reading and rereading every word in these laws of co-precipitation many times, attempting to derive every possible bit of guidance for our work, and perhaps in my zealousness reading into them more than the master himself had intended. i doubt that i have read sections in any other book more carefully or more frequently than those in hahn's applied radiochemistry. in fact, i read the entire volume repeatedly and i recall that my chief disappointment with it was its length. it was too short.
+
+and seaborg added:
+
+it has been given to very few men to make contributions to science and to humanity of the magnitude of those made by otto hahn. he has made those contributions over a span of nearly two generations, beginning with a key role in the earliest days of radiochemistry in investigating and unraveling the complexities of the natural radioactivities and culminating with his tremendous discovery of the nuclear fission of uranium. i believe that it is fair to refer to otto hahn as the father of radiochemistry and of its more recent offspring nuclear chemistry. for his special genius the world of science will be forever grateful.
+
+discovery of nuclear fission (1938)[edit]
+ otto hahn, 1938
+jointly with lise meitner and his pupil and assistant fritz strassmann (1902–1980), otto hahn furthered the research begun by enrico fermi and his team in 1934 when they bombarded uranium with neutrons. until 1938, it was believed that the elements with atomic numbers greater than 92 (known as transuranium elements) arose when uranium atoms were bombarded with neutrons.
+between 1934 and 1938, hahn, meitner, and strassmann found a great number of radioactive transmutation products, all of which they regarded as transuranic.[26] at that time, the existence of actinides was not yet established, and uranium was wrongly believed to be a group 6 element similar to tungsten. it followed that first transuranic elements would be similar to group 7 to 10 elements, i.e. rhenium and platinoids. the hahn group established the presence of multiple isotopes of at least four such elements, and (mistakenly) identified them as elements with atomic numbers 93 through 96. they were the first scientists to measure the half-life of 239u and to establish chemically that it was an isotope of uranium, but they were unable to continue this work to its logical conclusion and identify the decay product of 239u – namely, neptunium (the real element 93); this task was only completed by edwin mcmillan and philip h. abelson in 1940.
+
+ nuclear fission experimental setup, reconstructed at the deutsches museum, munich.
+ otto hahn's notebook
+ plaque commemorating the discovery of fission in berlin (unveiled 1956)
+on 13 july 1938, with the help and support of hahn, meitner – born into a jewish family – escaped to the netherlands;[27] before she left, hahn gave her a diamond ring he had inherited from his mother, to be used to bribe the frontier guards if required.[28] meitner emigrated to stockholm, and hahn continued to work with strassmann. in late 1938 they found evidence of isotopes of an alkaline earth metal in their sample. the metal was detected by the use of an organic barium salt constructed by wilhelm traube. finding a group 2 alkaline earth metal was problematic, because it did not logically fit with the other elements found thus far. hahn initially suspected it to be radium, produced by splitting off two alpha-particles from the uranium nucleus. at the time, the scientific consensus was that even splitting off two alpha particles via this process was unlikely. the idea of turning uranium into barium (by removing around 100 nucleons) was seen as preposterous. on 10 november during a visit to copenhagen, where he was invited to lecture in bohr's institute, hahn discussed these results with niels bohr, meitner, and otto robert frisch.[27] further refinements of the technique, leading to the decisive experiment on 16–17 december 1938 (the celebrated "radium-barium-mesothorium-fractionation"), produced puzzling results: the three isotopes consistently behaved not as radium, but as barium. hahn, who did not inform the physicists in his institute, described the results exclusively in a letter to meitner on 19 december: 
+
+we are more and more coming to the awful conclusion that our ra isotopes behave not like ra, but like ba. ... perhaps you can suggest some fantastic explanation. we ourselves realize that it can't really burst into ba.[29] 
+in her reply, meitner concurred that hahn's conclusion of "the bursting of the uranium nucleus" was very difficult to accept, but considered it possible.
+on 22 december 1938, hahn sent a manuscript to naturwissenschaften reporting their radiochemical results, which were published on 6 january 1939.[30] on 27 december, hahn telephoned the editor of naturwissenschaften and requested to add a paragraph to the article, speculating that some platinum group elements previously observed in irradiated uranium, which were originally interpreted as transuranium elements, could in fact be technetium (then called "masurium") and lower platinum-group metals (atomic numbers 43 through 46). by january 1939, he was sufficiently convinced that formation of light elements was occurring in his setup that he published a new revision of the article, essentially retracting former claims of observing transuranic elements and neighbors of uranium, and concluding instead that he was seeing light platinoids, barium, lanthanum, and cerium.
+fritz strassmann recollects:[31]
+
+the significance accorded to the outcome from the scientific point of view becomes clear when one reads in the first publication of nuclear fission that professor hahn, who had over 30 years of practical and theoretical experience in the sphere of radioactivity and whose judgement unquestionably commanded the greatest weight among fellow scientists both in germany and the whole world, announced the new discovery only hesitatingly. the radiochemical methods he applied, which were partly developed by him, tested out hundreds of times in the course of 30 years and found to be reliable, did not permit any doubt about the finding.
+
+as a chemist, hahn was reluctant to propose a revolutionary discovery in physics.[26] however, meitner and her nephew, the young physicist otto robert frisch, in sweden, came to the same conclusion (a "bursting") as hahn and were able, because they had a lead of time, to work out the first theoretical interpretation of nuclear fission – the term that was coined by frisch, and which subsequently became internationally known. over the next few months, frisch and meitner published two articles discussing and experimentally confirming this hypothesis.[32][33]
+in a later appreciation (1963), meitner wrote:[4]
+
+the discovery of nuclear fission by otto hahn and fritz strassmann opened up a new era in human history. it seems to me that what makes the science behind this discovery so remarkable is that it was achieved by purely chemical means.
+
+and in an interview on west german television (ard, 8 march 1959), meitner said:[4]
+
+hahn and strassmann were able to do this by exceptionally good chemistry, fantastically good chemistry, which was way ahead of what anyone else was capable of at that time. the americans learned to do it later. but at that time, hahn and strassmann were really the only ones who could do it. and that was because they were such good chemists. somehow they really succeeded in using chemistry to demonstrate and prove a physical process.
+
+in the same interview, fritz strassmann responded with this clarification:[4]
+
+professor meitner stated that the success could be attributed to chemistry. i have to make a slight correction. chemistry merely isolated the individual substances, it did not precisely identify them. it took professor hahn's method to do this. this is where his achievement lies.
+
+james chadwick wrote in a preface:[34]
+
+this exciting discovery of the "bursting" or "fission" of uranium owed, to my mind, as much to the character of hahn as to his great competence as a radiochemist. in all his scientific work one sees his untiring determination to get to the bottom of his problems, his refusal to be satisfied with less than as complete a knowledge as possible of the facts, followed by his acceptance of these facts, however unexpected they might be. ... this discovery was the crowning achievement of more than thirty years of research in the subject of radioactivity, during which his many outstanding contributions had already brought him a high reputation.
+
+in their second publication on nuclear fission (die naturwissenschaften, 10 february 1939), otto hahn and fritz strassmann used for the first time the term uranspaltung (uranium fission), and predicted the existence and liberation of additional neutrons during the fission process, which was proved to be a chain reaction by frédéric joliot and his team in march 1939.
+rudolf ladenburg, émigré physicist at princeton university (palmer laboratory) wrote to hahn on february 22, 1939: "your discovery has caused a huge sensation in the whole scientific world, and every laboratory which has the necessary means is now working on the consequences of your discovery."[35]
+during the war, hahn – together with his assistants hans-joachim born, siegfried flügge, hans götte, walter seelmann-eggebert, and strassmann – continued their work. by 1945, he had drawn up a list of 25 elements and about 100 isotopes whose existence he had demonstrated. in 1944 his laboratory and office, with his files of correspondence, were destroyed by bombs, later that year the chemistry institute moved to southern germany.
+
+internment in england (1945)[edit]
+ otto hahn, farm hall, 1945
+ hiroshima after the bombing on august 6, 1945
+ the bomb over nagasaki on august 9, 1945
+at the end of world war ii in 1945, hahn was suspected of working on the german nuclear weapon project to develop an atomic reactor or an atomic bomb, but his only connection was the discovery of fission; he did not work on the program.
+in april 1945, hahn and nine leading german physicists (including max von laue, werner heisenberg, and carl friedrich von weizsäcker) were taken into custody by the alsos mission (see operation epsilon) and interned at farm hall, godmanchester, near cambridge, england, from 3 july 1945 to 3 january 1946. their every conversation, indoors and out, was recorded from hidden microphones.[36] the chief officer, major terence h. rittner, informed the authorities about his prisoners. he described hahn as follows:
+
+a man of the world. he has been the most helpful of the professors and his sense of humour and common sense has saved the day on many occasions. he is definitely friendly disposed to england and america.[37]
+
+at farm hall, the german scientists learned of the dropping of the atom bombs on hiroshima and nagasaki by the american airforce on 6 and 9 august 1945. hahn was on the brink of despair.
+the historian lawrence badash (from the university of california at santa barbara) wrote:[38]
+
+hahn had been the first informed about hiroshima on august 6, 1945, by the british officer in charge at farm hall. the news completely shattered him, for he felt that his discovery of fission had made construction of the atomic bomb possible, and that he was thus personally responsible for the thousands of deaths in japan. long before, he had contemplated suicide, when he first recognized the possible military use of fission; now, with the blame of its realization drawn squarely upon his shoulders, suicide again seemed a way to escape his desolation. fearing this, max von laue remained with him until he passed this personal crisis. never has social responsibility hit a scientist with such impact.
+
+according to his captors, "with the help of considerable alcoholic stimulant he was calmed down".[39] later he told his fellow captives, "i must honestly say that i would have sabotaged the war if i had been in a position to do so." [40]
+on january 3, 1946, the group was allowed to return to germany, and hahn, heisenberg, and von laue were brought to the city of göttingen, which was controlled by the british occupation authorities.
+
+the nobel prize in chemistry 1944[edit]
+on 15 november 1945 the royal swedish academy of sciences announced that hahn had been awarded the 1944 nobel prize in chemistry "for his discovery of the fission of heavy atomic nuclei."[3][41][42] some american historians have documented their view of the discovery of nuclear fission and believe meitner should have been awarded the nobel prize with hahn.[43][44][45] hahn was still being detained at farm hall when the announcement was made; thus, his whereabouts were a secret, and it was impossible for the nobel committee to send him a congratulatory telegram. instead, he learned about his award through the daily telegraph newspaper.[46] his fellow interned german scientists celebrated his award on 18 november by giving speeches, making jokes, and composing songs.[47]
+
+on 4 december, hahn was persuaded by two of his captors to write a letter to the nobel committee accepting the prize but also stating that he would not be able to attend the award ceremony.[48] he could not participate in the nobel festivities on 10 december since his captors would not allow him to leave farm hall. meitner said in a letter to her friend b. broomé-aminoff on november 20, 1945:surely hahn fully deserved the nobel prize in chemistry. there is really no doubt about it. but i believe that otto robert frisch and i contributed something not insignificant to the clarification of the process of uranium fission – how it originates and that it produces so much energy, and that was something very remote from hahn.[49]meitner's former assistant carl friedrich von weizsäcker later added:he certainly did deserve this nobel prize. he would have deserved it even if he had not made this discovery. but everyone recognized that the splitting of the atomic nucleus merited a nobel prize.[4]
+
+the radiochemist and jewish émigré elizabeth rona (later a professor of chemistry in miami) wrote in her memoirs: "i often thought, that he would have deserved a second nobel prize - the nobel prize for peace."[50]
+hahn attended the nobel festivities the year after he was awarded the prize. on 10 december 1946, king gustav v of sweden presented him with his nobel prize medal and diploma.[42]
+
+ otto hahn stamp, germany 1979.
+the chemist and science historian klaus hoffmann wrote in his 1993 biography of hahn (translated by j. michael cole, leyburn, uk):[12]
+
+uranium fission is exclusively chemical, and had not been proved physically, and, to be precise, had been demonstrated by otto hahn and fritz strassmann alone. lise meitner had repeatedly conceded and emphasised the recognition of the achievement of these two, and that the chemical proof of the physics effect of uranium fission could have been carried out by no other research team in the world in 1938. ... in the radiochemical analytical work in the second half of the year of 1938, which immediately led to the proof of the fission of the nucleus, the absent lise meitner had no part at all.
+doubtless meitner and frisch, but not hahn's lady colleague alone, had merit in the interpretation of the results obtained by hahn and strassmann with regard to the physical character of the nuclear fission. but they did not gain these laurels, because in january 1939 they were the only ones in the world who were qualified in that area. rather was it through the unqualified revelation by hahn of his results that they had a lead in time over others. as the subsequent events confirmed, they arrived at the same results. ...
+once again - the nobel prize for chemistry of 1944 was awarded for the fission of the atomic nucleus of uranium, a discovery which no physicist, including lise meitner, had deliberately investigated, because it had not been held to be possible. - the reproaches against hahn that he alone had been nominated for the nobel prize and that he alone had received it are just as mistaken - as if hahn could have done anything about this decoration finally becoming a reality, after he had been nominated for it for over twenty years. ... - but of course the nobel committee took into account in its decision that hahn had many times been in the arena as a candidate for the nobel prize because of his performance beforehand, whereas strassmann had not been at all.
+
+
+otto hahn had been nominated 22 times for the nobel prize in chemistry from 1914 to 1945, and 16 times for the nobel prize in physics from 1937 to 1947.[51]
+in 1951, samuel c. lind, the eminent american radiation scientist from the university of minnesota in minneapolis, wrote in a review: "no living man has so successfully spanned the world of discovery from radiothorium to fission, one of the greatest - if not the greatest - discovery of all time."[52]
+
+founder and president of the max planck society[edit]
+ monument in berlin-dahlem, in front of the otto-hahn-platz
+from 1948 to 1960 otto hahn was the founding president of the newly formed max planck society for the advancement of science, which through his tireless activity and his worldwide respected personality succeeded in regaining the renown once enjoyed by the kaiser wilhelm society.
+lawrence badash wrote:
+
+hahn learned while still interned at farm hall that he was awarded the nobel prize in chemistry for the discovery of fission. this added prominence to his already distinguished career, and his wartime anti-nazi stance made him all the more acceptable to the allied occupation authorities. thus, he became the leading figure in the resurrection of german science after the war, an elder statesman who held the confidence of the various factions. in his position as president, he was particularly successful in rebuilding the kaiser wilhelm society, the parent body of the institutes, which was renamed the max planck society.[38]
+
+sir james chadwick noted:
+
+hahn had accepted this onerous office with much misgiving. he was, however, a happy choice; not so much because of his political record or his scientific eminence, but because of his character - he had an honesty and integrity which commanded the respect and trust of all. he took the leading part in the re-establishment of science in west germany and, when he retired from his office in 1960, he could look back with pride on a remarkable achievement.[53]
+
+spokesman for social responsibility[edit]
+immediately after the second world war, hahn reacted to the dropping of the atomic bombs on hiroshima and nagasaki by coming out strongly against the use of nuclear energy for military purposes. he saw the application of his scientific discoveries to such ends as a misuse, or even a crime. badash wrote: "his wartime recognition of the perversion of science for the construction of weapons and his postwar activity in planning the direction of his country's scientific endeavours now inclined him increasingly toward being a spokesman for social responsibility."[54]
+in early 1954, he wrote the article "cobalt 60 - danger or blessing for mankind?", about the misuse of atomic energy, which was widely reprinted and transmitted in the radio in germany, norway, austria, and denmark, and in an english version worldwide via the bbc. the international reaction was encouraging.
+the next year hahn initiated and organized the mainau declaration of 1955, in which he and a number of international nobel prize-winners called attention to the dangers of atomic weapons and warned the nations of the world urgently against the use of "force as a final resort", and which was issued a week after the similar russell-einstein manifesto. in 1956, hahn repeated his appeal with the signature of 52 of his nobel colleagues from all parts of the world.
+he was also instrumental in and one of the authors of the göttingen manifesto of april 13, 1957, in which, together with 17 leading german atomic scientists, he protested against a proposed nuclear arming of the new west german armed forces (bundeswehr).
+on november 13, 1957, in the 'konzerthaus' (concerto hall) in vienna, hahn warned in his vienna appeal of the "dangers of a- and h-bomb-experiments", and declared that "today war is no means of politics anymore - it will only destroy all countries in the world". his highly acclaimed speech was transmitted internationally by the austrian radio, österreichischer rundfunk (ör). on december 28, 1957, hahn repeated his appeal in an english translation for the bulgarian radio in sofia, which was broadcast in all warsaw pact states.[55]
+in january 1958, otto hahn, together with his friend albert schweitzer signed the pauling appeal to the united nations in new york for the "immediate conclusion of an international agreement to stop the testing of nuclear weapons". in october, together with clement attlee, edgar faure, tetsu katayama, et al. he signed the international "agreement to call a meeting to draw up a world constitution".
+since 1958, hahn was sending messages to the annual conferences of the recently founded "japan council against a and h bombs" in tokyo. in 1960, for instance, he wrote to president koshiro okakura:
+
+as i have often emphasized on official occasions and in my lectures, i consider the manufacturing of a and h bombs a great danger to mankind, especially when small countries, one after another, wish to produce them, too. it would be satisfactory if the usa and britain on one hand and the soviet union on the other be neutralized by the possession of those bombs.
+we must reach an agreement through negotiations with these "a-bomb-manufacturing nations", and even after that i am against any further increasing of a bombs and support all that is opposed to the expansion of them. - i wish a full success to the japan council against a and h bombs.[56]
+
+
+in 1959 hahn co-founded in berlin the federation of german scientists (vdw), a non-governmental organization, which has been committed to the ideal of responsible science. the members of the federation feel committed to taking into consideration the possible military, political, and economical implications and possibilities of atomic misuse when carrying out their scientific research and teaching. with the results of its interdisciplinary work the 'vdw' not only addresses the general public, but also the decision-makers at all levels of politics and society.
+right up to his death, otto hahn never tired of warning urgently of the dangers of the nuclear arms race between the great powers and of the radioactive contamination of the planet.[57]
+the philosopher sir karl r. popper wrote in his last book:
+
+ever since my early youth, i have admired otto hahn as a scientist and a human being. the reason for hahn's peace work was simply that, knowing more than other citizens about atomic weapons, he felt it his duty to speak about this issue that was so crucial for mankind. he could make things clear, he had to use his knowledge. and it is why otto hahn, with atomic weapons in mind, wrote shortly before his death of the necessity of world peace.[58]
+
+the historian lawrence badash analysed:
+
+otto hahn is widely portrayed as a warm, considerate, charming person. the characterization is accurate. in fact, precisely because the personality of this decent human being suffered no great changes throughout his career, he offers us a touchstone to determined the extent of changes in scientists' perceptions of their obligations to society during the twentieth century. ...
+the important thing is not that scientists may disagree on where their responsibility to society lies, but that they are conscious that a responsibility exists, are vocal about it, and when they speak out they expect to affect policy. otto hahn, it would seem, was even more than just an example of this twentieth-century conceptual evolution; he was a leader in the process.[59]
+
+
+from 1957, hahn was repeatedly nominated for the nobel peace prize by a number of international organizations, including the largest french trade union, the confederation generale du travail (cgt). linus pauling, the 1962 nobel peace laureate, once described hahn as "an inspiration to me."[4]
+
+honors and awards[edit]
+ otto hahn aboard the ms  düsseldorf, june 1965
+ hahn's grave in göttingen
+during his lifetime hahn was awarded orders, medals, scientific prizes, and fellowships of academies, societies, and institutions from all over the world. a selection:
+
+iron cross, 1st and 2nd class, german empire (1915)
+general honor decoration (hesse), german empire (1916)
+knight of the royal house order of hohenzollern, kingdom of prussia (1917)
+officer of the albert order, kingdom of saxony (1917)
+numerous honorary degrees and was elected member or honorary member of 45 academies and scientific societies (among them the university of cambridge, the physical society, the university college and the royal society in london,[1] the romanian physical society in bucharest, the royal spanish society for chemistry and physics in madrid, the csic in madrid, and the academies in allahabad (india), bangalore (india), berlin, boston (us), bucharest, copenhagen, göttingen, halle, helsinki, lisbon, madrid, mainz, munich, rome, stockholm, vatican, and vienna). hahn was, too, an honorary member of the german physical society (dpg), the society of german chemists (gdch), the german bunsen-society of physical chemistry and the japan council against a- and h-bombs in tokyo.
+37 of the highest national and international orders and medals, among them the gold medals emil fischer, cannizzaro, copernicus, henri becquerel, paracelsus, fritz haber, marie curie, cothenius, senckenberg, theodor goldschmidt, heraeus, and hugo grotius, the max planck medal, the faraday lectureship prize with medal from the royal society of chemistry in london, the wilhelm exner medal in vienna, the helmholtz medal, the harnack medal in gold from the max planck society, and the gold medal of the pontifical academy of sciences from pope john xxiii in the vatican.
+officer of the order for cultural merit, kingdom of romania (1939)
+knight of the peace class of the order pour le mérite, federal republic of germany (1952)
+grand cross with star and sash of the order of merit of the federal republic of germany (1954)
+gold cross of the order of the redeemer, kingdom of greece (1956)
+elected a foreign member of the royal society (formemrs) in 1957[1]
+honorary officer of the order of the british empire, united kingdom (1957)
+gold cross of the order pro ecclesia et pontifice, holy see (1957)
+officer of the order of leopold, kingdom of belgium (1958)
+officer of the 'ordre national de la légion d'honneur', republic of france (1959)
+grand cross first class of the order of merit of the federal republic of germany (1959)
+in 1957, hahn was elected an honorary citizen of the city of magdeburg, ddr (german democratic republic) and, in 1958, an honorary member of the academy of sciences of the ussr (today russian academy of sciences) in moscow, but he declined both honors.
+in 1966, us president lyndon b. johnson and the united states atomic energy commission (aec) in washington awarded hahn (together with lise meitner and fritz strassmann) the enrico fermi award (with a gold medal and citation). the diploma for hahn bears the words: "for pioneering research in the naturally occurring radioactivities and extensive experimental studies culminating in the discovery of fission."[60]
+hahn, since 1960 honorary president of the mpg, was made an honorary citizen of the cities of frankfurt am main and göttingen in 1959, and of the land and the city of berlin in 1968. the british physicist robert spence frs, concluded in his essay:
+
+it was remarkable, how, after the war, this rather unassuming scientist who had spent a lifetime in the laboratory, became an effective administrator and an important public figure in germany. hahn, famous as the discoverer of nuclear fission, was respected and trusted for his human qualities, simplicity of manner, transparent honesty, common sense, and loyalty.[61]
+
+death[edit]
+otto hahn died on 28 july 1968. the day after his death, the max planck society published the following obituary notice in all the major newspapers in germany, austria, and switzerland:[62]
+
+on 28 july, in his 90th year, our honorary president otto hahn passed away. his name will be recorded in the history of humanity as the founder of the atomic age. in him germany and the world have lost a scholar who was distinguished in equal measure by his integrity and personal humility. the max planck society mourns its founder, who continued the tasks and traditions of the kaiser wilhelm society after the war, and mourns also a good and much loved human being, who will live in the memories of all who had the chance to meet him. his work will continue. we remember him with deep gratitude and admiration.
+
+fritz strassmann, hahn's pupil and assistant, wrote:[63]
+
+the number of those who had been able to be near otto hahn is small. his behaviour was completely natural for him, but for the next generations he will serve as a model, regardless of whether one admires in the attitude of otto hahn his humane and scientific sense of responsibility or his personal courage.
+
+otto robert frisch, lise meitner's nephew, recollected:[64]
+
+hahn remained modest and informal all his life. his disarming frankness, unfailing kindness, good common sense, and impish humour will be remembered by his many friends all over the world.
+
+the royal society in london wrote in an obituary:[65]
+
+otto hahn's achievements are known universally and will hold a special place in the history of science. he is remembered too for his whole character, his generosity of spirit, his belief in the proper use of scientific discovery, and for his humanity.
+
+legacy[edit]
+ otto hahn on a stamp of the german democratic republic, 1979
+ hahn monument at the site of his birthplace in frankfurt
+ bust by knud knudsen
+hahn's death did not stop his public acclamation. proposals were made at different times, first in 1971 by american chemists, that the newly synthesized element no. 105 should be named hahnium in hahn's honor; in 1997 the iupac (international union of pure and applied chemistry) named it dubnium, after the russian research center in dubna (see element naming controversy). although element 108 was given the name hassium (after hesse) by its officially recognized german discoverers in 1992, a 1994 iupac committee recommended that it be named hahnium (hn),[66] in spite of the long-standing convention to give the discoverer the right to suggest a name. this recommendation was not adopted, following protests from the german discoverers, and the name hassium (hs) was adopted internationally in 1997.[67]
+in 1964 the only european nuclear-powered civilian ship, the freighter ns otto hahn, was named in his honor. in 1959 there were the opening ceremonies of the otto hahn institute in mainz and the hahn-meitner-institut for nuclear research (hmi) in berlin. there are craters on mars and the moon, and the asteroid no. 19126 ottohahn named in his honor, as were the otto hahn prize of both the german chemical and physical societies and the city of frankfurt/main, the otto hahn medal, and the otto hahn award of the max planck society and, since 1988, the otto hahn peace medal in gold of the united nations association of germany (dgvn) in berlin.
+
+ caricature by gheorghe manu, romania
+many cities and districts in the german-speaking countries have named secondary schools after him, and streets, squares, and bridges throughout europe bear his name. more than twenty states worldwide have honored otto hahn by issuing coins, medals or stamps with his portrait. an island in the antarctic (near mt. discovery) was also named after him, as were two intercity trains otto hahn of the german federal railways in 1971, running between hamburg and basel sbb, and the otto hahn library in göttingen. in 1974, in appreciation of the special contribution of otto hahn to german-israeli relations, a wing of the weizmann institute of science in rehovot, israel, was given his name, and a scientific research center of the saint louis university (baguio) (philippines) was named the otto hahn building.
+in several cities and districts otto hahn busts, monuments, and memorial plaques were unveiled, including in vienna in the foyer of the international atomic energy agency (iaea). there are public otto hahn centers in göttingen and ottobrunn (near munich), and planned in the near future also in hahn's native city frankfurt/main, while in 2011 the city of albstadt created an otto hahn memorial place in her local ihk-academy, focussed on hahn's work in tailfingen at the end of world war ii. in early 2014, the university of dortmund opened two new otto hahn libraries in her general university library, which are specialized in the natural sciences and technologies.
+at the end of 1999, the german news magazine focus published an inquiry of 500 leading natural scientists, engineers, and physicians about the most important scientists of the 20th century. in this poll the experimental chemist otto hahn – after the theoretical physicists albert einstein and max planck – was elected third (with 81 points), and thus the most significant empiric researcher of his time.[68]
+
+publications in english[edit]
+1936. applied radiochemistry. cornell university press, ithaca, new york 1936. humphrey milford, london 1936. oxford university press, oxford 1936.
+1950. new atoms – progress and some memories. edited by w. gaade. elsevier inc., new york-amsterdam-london-brussels.
+1966. a scientific autobiography. introduction by glenn t. seaborg. translated and edited by willy ley. charles scribner's sons, new york. british edition: mcgibbon and kee, london 1967.
+1970. my life. preface by sir james chadwick. translated by ernst kaiser and eithne wilkins. macdonald & co., london. american edition: herder and herder, new york 1970.
+see also[edit]
+fajans–paneth–hahn law
+german inventors and discoverers
+list of chemists
+list of peace activists
+hahn (crater)
+otto hahn medal
+otto hahn peace medal
+otto hahn prize
+references[edit]
+
+
+^ a b c d spence, r. (1970). "otto hahn. 1879–1968". biographical memoirs of fellows of the royal society. 16: 279–313. doi:10.1098/rsbm.1970.0010..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ seaborg, glenn t. (1966) introduction to otto hahn – a scientific autobiography. charles scribner's sons, new york.
+
+^ a b "the nobel prize in chemistry 1944". nobel foundation. retrieved 17 december 2007.
+
+^ a b c d e f g lise meitner – recollections of otto hahn. edited by dietrich hahn. verlag s. hirzel, stuttgart 2005.
+
+^ albert einstein in a letter to otto hahn, january 28, 1949. see: dietrich hahn (ed.): otto hahn - leben und werk in texten und bildern. suhrkamp-insel verlag, frankfurt/main 1988. p. 237. isbn 3-458-32789-4.
+
+^ otto hahn: my life. herder and herder publishers, new york, 1970. p. 13-37 (chapter one: childhood and schooldays).
+
+^ klaus hoffmann: otto hahn - achievement and responsibility. translated by j. michael cole, springer verlag, new york inc., heidelberg, berlin etc., 2001. p. 17-19. isbn 0-387-95057-5.
+
+^ nikolaus riehl; frederick seitz (1996). stalin's captive: nikolaus riehl and the soviet race for the bomb. chemical heritage foundation. pp. 10–. isbn 978-0-8412-3310-2.
+
+^ bernt engelmann, germany without jews, bantam books (1984), p. 183
+
+^ ruth lewin sime (1996). lise meitner: a life in physics. university of california press. pp. 453–. isbn 978-0-520-20860-5.
+
+^ heilbron, 2000, page 191
+
+^ a b klaus hoffmann: otto hahn - achievement and responsibility. translated by j. michael cole (leyburn, uk). springer, inc., new york-berlin-heidelberg-london-paris-singapore-tokyo 2001. p. 207 f. isbn 0-387-95057-5. see also klaus hoffmann: schuld und verantwortung: otto hahn, konflikte eines wissenschaftlers (springer verlag, berlin). 1993. isbn 9783540567660. oclc 28944783.
+
+^ the daily telegraph, london, 18 march 1905.
+
+^ walther gerlach/dietrich hahn: otto hahn - ein forscherleben unserer zeit. wissenschaftliche verlagsgesellschaft (wvg), stuttgart 2005. p. 173. isbn 3-8047-0757-2.
+
+^ angelo, joseph a. (2004) nuclear technology. greenwood publishing group. isbn 1573563366. p. 117.
+
+^ dietrich hahn (ed.): otto hahn - leben und werk in texten und bildern. suhrkamp-insel publishers, frankfurt am main, 1988. p. 59. isbn 3-458-32789-4.
+
+^ david wilson: rutherford - simple genius. hodder and stoughton, london-sydney-auckland-toronto 1983. p. 183. isbn 0-340-23805-4.
+
+^ david wilson: rutherford - simple genius. hodder and stoughton, london-sydney-auckland-toronto 1983. p. 242/243. isbn 0-340-23805-4.
+
+^ a b gerlach, walther/dietrich hahn: otto hahn – ein forscherleben unserer zeit. wissenschaftliche verlagsgesellschaft (wvg), stuttgart 1984. p. 39.
+
+^ ernest rutherford: letter to his mother, september 14, 1910. see: gerlach, walther/dietrich hahn: otto hahn - ein forscherleben unserer zeit. wvg publishers, stuttgart 1984. p. 173.
+
+^ hahn 1968, pp. 112-129 (chapter seven: the first world war).
+
+^ van der kloot, w. (2004). "april 1918: five future nobel prize-winners inaugurate weapons of mass destruction and the academic-industrial-military complex". notes rec. r. soc. lond. 58 (2): 149–160.
+
+^ hahn, o. (1921). "über ein neues radioaktives zerfallsprodukt im uran". die naturwissenschaften. 9 (5): 84. bibcode:1921nw......9...84h. doi:10.1007/bf01491321.
+
+^ klaus hoffmann (6 december 2012). otto hahn: achievement and responsibility. springer science & business media. pp. 93–. isbn 978-1-4613-0101-1.
+
+^ seaborg, glenn: introduction to otto hahn – a scientific autobiography. scribners, new york 1966
+
+^ a b hahn, o. (1958). "the discovery of fission". scientific american. 198 (2): 76–84. bibcode:1958sciam.198b..76h. doi:10.1038/scientificamerican0258-76.
+
+^ a b sime, ruth lewin (1990). "lise meitner's escape from germany". american journal of physics. 58 (3): 262–267. bibcode:1990amjph..58..262s. doi:10.1119/1.16196.
+
+^ sime, ruth lewin (june 27, 1997). lise meitner: a life in physics.
+
+^ rife, patricia (1999). lise meitner and the dawn of the nuclear age. basel, switzerland: birkhäuser. isbn 978-0-8176-3732-3.
+
+^ hahn, o.; strassmann, f. (1939). "über den nachweis und das verhalten der bei der bestrahlung des urans mittels neutronen entstehenden erdalkalimetalle". die naturwissenschaften. 27 (1): 11–15. bibcode:1939nw.....27...11h. doi:10.1007/bf01488241. (on the detection and characteristics of the alkaline earth metals formed by irradiation of uranium with neutrons)
+
+^ fritz strassmann: erinnerungen an die entdeckung der kernspaltung. in: mitteilungen aus der max-planck-gesellschaft (mpg), nr. 1, 1957. p. 12. see also: walther gerlach/dietrich hahn: otto hahn - ein forscherleben unserer zeit. wvg, stuttgart 1984. p. 182.
+
+^ meitner, l.; frisch, o. r. (1939). "disintegration of uranium by neutrons: a new type of nuclear reaction". nature. 143 (3615): 239. bibcode:1939natur.143..239m. doi:10.1038/143239a0.
+
+^ frisch, o. r. (1939). "physical evidence for the division of heavy nuclei under neutron bombardment". nature. 143 (3616): 276. bibcode:1939natur.143..276f. doi:10.1038/143276a0. [the experiment for this letter to the editor was conducted on 13 january 1939; see richard rhodes the making of the atomic bomb 263 and 268 (simon and schuster, 1986).]
+
+^ james chadwick: preface to otto hahn: my life, london, mcdonald, 1970. p. vii/viii. isbn 0-356-02933-6.
+
+^ rudolf ladenburg to otto hahn, february 22, 1939.
+
+^ bernstein, jeremy (1996). hitler's uranium club. woodbury ny: aip press.
+
+^ j. a. revill, sir charles frank, eds.: operation epsilon. the farmhall transcripts. iop publishing, briston-philadelphia 1993. (crown copyright).
+
+^ a b lawrence badash: otto hahn, science, and social responsibility. in: william r. shea (ed.): otto hahn and the rise of nuclear physics. d. reidel publishing company, dordrecht/boston/lancaster 1983. p. 175.
+
+^ bernstein 1996, p. 120.
+
+^ berstein 1996, p. 137.
+
+^ bernstein, jeremy (2001). hitler's uranium club: the secret recordings at farm hall. new york: copernicus. p. 281. isbn 978-0-387-95089-1.
+
+^ a b "the nobel prize in chemistry 1944: presentation speech". nobel foundation. retrieved 3 january 2008.
+
+^ crawford, elisabeth; sime, ruth lewin; walker, mark (1997). "a nobel tale of postwar injustice". physics today. 50 (9): 26–32. bibcode:1997pht....50i..26c. doi:10.1063/1.881933.
+
+^ sime, ruth lewin from exceptional prominence to prominent exception: lise meitner at the kaiser wilhelm institute for chemistry ergebnisse 24 forschungsprogramm geschichte der kaiser-wilhelm-gesellschaft im nationalsozialismus (2005).
+
+^ sime, ruth lewin (1996). lise meitner: a life in physics. berkeley: university of california press. isbn 978-0-520-20860-5.
+
+^ bernstein, jeremy (2001). hitler's uranium club: the secret recordings at farm hall. new york: copernicus. pp. 283, 323. isbn 978-0-387-95089-1.
+
+^ bernstein, jeremy (2001). hitler's uranium club: the secret recordings at farm hall. new york: copernicus. pp. 286, 323–235. isbn 978-0-387-95089-1.
+
+^ bernstein, jeremy (2001). hitler's uranium club: the secret recordings at farm hall. new york: copernicus. pp. 311, 325. isbn 978-0-387-95089-1.
+
+^ anne hardy/lore sexl: lise meitner. rowohlt publishers, reinbek 2002. p. 119. isbn 3-499-50439-1.
+
+^ elizabeth rona: how it came about: radioactivity, nuclear physics, atomic energy. oak ridge associated universities (orau), oak ridge 1978.
+
+^ http://www.nobelprize.org
+
+^ samuel c. lind: review - in: journal of physical and colloid chemistry, vol. 55, no. 4, p. 42, 1951.
+
+^ james chadwick: preface. in: otto hahn: my life. herder and herder (publishers), new york 1970. p. ix.
+
+^ lawrence badash: otto hahn, science, and social responsibility. in: william r. shea (ed.): otto hahn and the rise of nuclear physics. d. reidel publishing company, dordrecht/boston/lancaster 1983. p. 176.
+
+^ "otto hahn's wiener appell gegen weitere a- und h-bomben-experimente". in: salzburger nachrichten, november 14, 1957. see: dietrich hahn (ed.):otto hahn - leben und werk in texten und bildern. suhrkamp-insel verlag, frankfurt am main 1988. p. 288. isbn 3-458-32789-4.
+
+^ message to the japan council against a and h bombs, september 1960. in: dietrich hahn (ed.): otto hahn. suhrkamp-insel verlag, frankfurt am main, 1988, p. 311, isbn 3-458-32789-4
+
+^ dietrich hahn (ed.): otto hahn – leben und werk in texten und bildern. introduction by carl friedrich von weizsäcker. suhrkamp-insel verlag, frankfurt am main 1988. isbn 3-458-32789-4.
+
+^ karl r. popper: alles leben ist problemlösen. über erkenntnis, geschichte und politik. r. piper verlag, munich 2004. see also: lise meitner: recollections of otto hahn. (ed.: dietrich hahn). s. hirzel, stuttgart 2005. p. 5.
+
+^ lawrence badash: otto hahn, science, and social responsibility. in: william r. shea (ed.): otto hahn and the rise of nuclear physics. d. reidel publishing company, dordrecht/boston/lancaster 1983. p. 178. isbn 90-277-1584-x
+
+^ http://science.energy.gov/fermi/award-laureates/1960s/hahn/
+
+^ robert spence: otto hahn. biographical memoirs of fellows of the royal society, vol. 16, 1970
+
+^ frankfurter allgemeine zeitung, frankfurt, die welt, hamburg, süddeutsche zeitung, munich, u.a., die presse, vienna, neue zürcher zeitung, zürich, 29 july 1968.
+
+^ strassmann, fritz (29 july 1968) "zum tode von otto hahn". die welt.
+
+^ frisch, otto r. (1968). "otto hahn". physics bulletin. 19 (10): 354. doi:10.1088/0031-9112/19/10/010.
+
+^ meitner, lise (2005) recollections of otto hahn. s. hirzel, stuttgart. p. 3.
+
+^ (iupac 1994 recommendations). iupac.org
+
+^ (iupac 1997 recommendations). iupac.org
+
+^ focus, no. 52, 1999, p. 103–108
+
+
+bibliography[edit]
+(a selection of books in english)
+
+berninger, ernst h. (1970). otto hahn 1879–1968 (english ed.). bonn: inter nationes.
+beyerchen, alan d. (1977). scientists under hitler. new haven and london: yale university press.
+bernstein, jeremy (2001). hitler's uranium club: the secret recordings at farm hall (2nd ed.). new york, ny: springer-verlag. isbn 978-0-387-95089-1.
+ronald w. clark, 1980: the greatest power on earth: the story of nuclear fission. sidgwick & jackson, london. isbn 978-0-283-98715-1
+anthony feldman, peter ford, 1979: otto hahn – in: scientists and inventors. aldus books, london.
+laura fermi, 1962. the story of atomic energy. random house, new york.
+hans d. graetzer, david l. anderson, 1971. the discovery of nuclear fission. a documentary history. van nostrand-reinhold, new york.
+klaus hoffmann, 2001. otto hahn - achievement and responsibility. translated by j. michael cole (leyburn, uk). isbn 0-387-95057-5. cole translated klaus hoffmann: schuld und verantwortung: otto hahn, konflikte eines wissenschaftlers (springer verlag, berlin). 1993. isbn 9783540567660. oclc 28944783.
+horst kant, 2002. otto hahn and the declarations of mainau and göttingen. berlin.
+alwyn mckay, 1984. the making of the atomic age. oxford university press.
+lise meitner, 2005. recollections of otto hahn. s. hirzel. stuttgart.
+david nachmansohn, 1979. german-jewish pioneers in science 1900–1933. highlights in atomic physics, chemistry and biochemistry. springer inc., new york etc.
+r. w. reid, 1969. tongues of conscience. constable & co., london.
+j.a. revill, sir charles frank, eds., 1993. operation epsilon. the farm hall transcripts. iop publishing, bristol-philadelphia.
+richard rhodes, 1988. the making of the atomic bomb. simon and schuster, new york.
+glenn t. seaborg, 1972. nuclear milestones. san francisco.
+william r. shea, ed., 1983. otto hahn and the rise of nuclear physics. reidel, dordrecht-boston-lancaster.
+jim whiting, 2004. otto hahn and the discovery of nuclear fission. mitchell lane, hockessin.
+external links[edit]
+
+
+
+wikimedia commons has media related to otto hahn.
+
+
+
+wikiquote has quotations related to: otto hahn
+otto hahn – the top 10 greatest scientists
+otto hahn – the 100 greatest germans
+otto hahn – winner of the enrico fermi award 1966 u.s government, department of energy
+annotated bibliography for otto hahn from the alsos digital library for nuclear issues
+the discovery of radiothorium by otto hahn
+the discovery of mesothorium by otto hahn
+biography on nobel prize website
+award ceremony speech honoring otto hahn by professor arne westgren, stockholm.
+otto hahn and the discovery of nuclear fission br, 2008
+otto hahn – discoverer of nuclear fission author: dr. anne hardy (pro-physik, 2004)
+otto hahn (1879–1968) – the discovery of fission visit berlin, 2011.
+otto hahn – discoverer of nuclear fission
+otto hahn – president 1946–1960 website of the max planck society, 2010.
+otto hahn – founder of the atomic age author: dr edmund neubauer (translation: brigitte hippmann) – website of the otto hahn gymnasium (ohg), 2007.
+otto hahn award
+otto hahn peace medal in gold website of the united nations association of germany (dgvn) in berlin
+otto hahn medal
+the history of the hahn meitner institute (hmi) helmholtz-zentrum, berlin 2011.
+otto hahn heads a delegation to israel 1959 website of the max planck society, 2011.
+biography otto hahn 1879–1968
+grandson of otto hahn visits hiroshima hiroshima peace center, 3 october 2013.
+otto hahn – a life for science, humanity and peace hiroshima university peace lecture, held by dietrich hahn, 2 october 2013.
+otto hahn – discoverer of nuclear fission, grandfather of the atombomb gmx, switzerland, 17 december 2013. author: marinus brandl.
+otto hahn: im bann der kernspaltung (german) the curse of nuclear fission cóndor, periódico chileno-aleman, 20 december 2013. author: petra wilken, santiago.
+newspaper clippings about  otto hahn in the 20th century press archives of the german national library of economics (zbw)
+vtelaureates of the nobel prize in chemistry1901–1925
+1901 jacobus van 't hoff
+1902 emil fischer
+1903 svante arrhenius
+1904 william ramsay
+1905 adolf von baeyer
+1906 henri moissan
+1907 eduard buchner
+1908 ernest rutherford
+1909 wilhelm ostwald
+1910 otto wallach
+1911 marie curie
+1912 victor grignard / paul sabatier
+1913 alfred werner
+1914 theodore richards
+1915 richard willstätter
+1916
+1917
+1918 fritz haber
+1919
+1920 walther nernst
+1921 frederick soddy
+1922 francis aston
+1923 fritz pregl
+1924
+1925 richard zsigmondy
+1926–1950
+1926 theodor svedberg
+1927 heinrich wieland
+1928 adolf windaus
+1929 arthur harden / hans von euler-chelpin
+1930 hans fischer
+1931 carl bosch / friedrich bergius
+1932 irving langmuir
+1933
+1934 harold urey
+1935 frédéric joliot-curie / irène joliot-curie
+1936 peter debye
+1937 norman haworth / paul karrer
+1938 richard kuhn
+1939 adolf butenandt / leopold ružička
+1940
+1941
+1942
+1943 george de hevesy
+1944 otto hahn
+1945 artturi virtanen
+1946 james b. sumner / john northrop / wendell meredith stanley
+1947 robert robinson
+1948 arne tiselius
+1949 william giauque
+1950 otto diels / kurt alder
+1951–1975
+1951 edwin mcmillan / glenn t. seaborg
+1952 archer martin / richard synge
+1953 hermann staudinger
+1954 linus pauling
+1955 vincent du vigneaud
+1956 cyril hinshelwood / nikolay semyonov
+1957 alexander todd
+1958 frederick sanger
+1959 jaroslav heyrovský
+1960 willard libby
+1961 melvin calvin
+1962 max perutz / john kendrew
+1963 karl ziegler / giulio natta
+1964 dorothy hodgkin
+1965 robert woodward
+1966 robert s. mulliken
+1967 manfred eigen / ronald norrish / george porter
+1968 lars onsager
+1969 derek barton / odd hassel
+1970 luis federico leloir
+1971 gerhard herzberg
+1972 christian b. anfinsen / stanford moore / william stein
+1973 ernst otto fischer / geoffrey wilkinson
+1974 paul flory
+1975 john cornforth / vladimir prelog
+1976–2000
+1976 william lipscomb
+1977 ilya prigogine
+1978 peter d. mitchell
+1979 herbert c. brown / georg wittig
+1980 paul berg / walter gilbert / frederick sanger
+1981 kenichi fukui / roald hoffmann
+1982 aaron klug
+1983 henry taube
+1984 robert merrifield
+1985 herbert a. hauptman / jerome karle
+1986 dudley r. herschbach / yuan t. lee / john polanyi
+1987 donald j. cram / jean-marie lehn / charles j. pedersen
+1988 johann deisenhofer / robert huber / hartmut michel
+1989 sidney altman / thomas cech
+1990 elias corey
+1991 richard r. ernst
+1992 rudolph a. marcus
+1993 kary mullis / michael smith
+1994 george olah
+1995 paul j. crutzen / mario j. molina / f. sherwood rowland
+1996 robert curl / harold kroto / richard smalley
+1997 paul d. boyer / john e. walker / jens christian skou
+1998 walter kohn / john pople
+1999 ahmed zewail
+2000 alan j. heeger / alan macdiarmid / hideki shirakawa
+2001–present
+2001 william knowles / ryoji noyori / k. barry sharpless
+2002 john b. fenn / koichi tanaka / kurt wüthrich
+2003 peter agre / roderick mackinnon
+2004 aaron ciechanover / avram hershko / irwin rose
+2005 robert h. grubbs / richard r. schrock / yves chauvin
+2006 roger d. kornberg
+2007 gerhard ertl
+2008 osamu shimomura / martin chalfie / roger y. tsien
+2009 venkatraman ramakrishnan / thomas a. steitz / ada e. yonath
+2010 richard f. heck / akira suzuki / ei-ichi negishi
+2011 dan shechtman
+2012 robert lefkowitz / brian kobilka
+2013 martin karplus / michael levitt / arieh warshel
+2014 eric betzig / stefan hell / william e. moerner
+2015 tomas lindahl / paul l. modrich / aziz sancar
+2016 jean-pierre sauvage / fraser stoddart / ben feringa
+2017 jacques dubochet / joachim frank / richard henderson
+2018 frances arnold / greg winter / george smith
+
+authority control 
+bibsys: 90075248
+bnf: cb12391759n (data)
+gnd: 118544853
+isni: 0000 0001 0902 412x
+lccn: n50019693
+ndl: 00442158
+nkc: nlk20000087441
+nla: 35161583
+selibr: 260459
+snac: w6dj5gs2
+sudoc: 033006547
+viaf: 54231313
+ worldcat identities (via viaf): 54231313
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=otto_hahn&oldid=879750385"					
+categories: 1879 births1968 deaths20th-century german chemistscornell university facultydiscoverers of chemical elementsenrico fermi award recipientsfaraday lecturersfellows of the american academy of arts and sciencesforeign fellows of the indian national science academyforeign members of the royal societyfree university of berlin facultygerman anti–nuclear weapons activistsgerman autobiographersgerman humanitariansgerman military personnel of world war igerman nobel laureatesgerman pacifistsgrand crosses 1st class of the order of merit of the federal republic of germanyhonorary members of the romanian academyhonorary officers of the order of the british empirehumboldt university of berlin alumnihumboldt university of berlin facultyknights of the house order of hohenzollernludwig maximilian university of munich alumnimax planck society peoplemembers of the austrian academy of sciencesmembers of the bavarian academy of sciencesmembers of the finnish academy of science and lettersmembers of the german academy of sciences at berlinmembers of the pontifical academy of sciencesmembers of the prussian academy of sciencesmembers of the royal danish academy of sciences and lettersmembers of the royal swedish academy of sciencesnobel laureates in chemistrynuclear chemistsofficiers of the légion d'honneuroperation epsilonotto hahnpeople from frankfurtpeople from hesse-nassaurecipients of the albert orderrecipients of the pour le mérite (civil class)recipients of the pro ecclesia et pontificeuniversity of marburg alumniwinners of the max planck medalhidden categories: use dmy dates from november 2014interlanguage link template link numberbiography template using pronunciationbiography with signatureinfobox person using alma materarticles with hcardsall articles with unsourced statementsarticles with unsourced statements from august 2017articles needing additional references from december 2017all articles needing additional referenceswikipedia articles with bibsys identifierswikipedia articles with bnf identifierswikipedia articles with gnd identifierswikipedia articles with isni identifierswikipedia articles with lccn identifierswikipedia articles with ndl identifierswikipedia articles with nkc identifierswikipedia articles with nla identifierswikipedia articles with selibr identifierswikipedia articles with snac-id identifierswikipedia articles with sudoc identifierswikipedia articles with viaf identifierswikipedia articles with worldcat-viaf identifiers 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commonswikiquote 
+
+
+
+languages
+
+
+العربيةasturianuazərbaycancaتۆرکجهবাংলাbân-lâm-gúбеларускаябеларуская (тарашкевіца)‎българскиbosanskibrezhonegcatalàčeštinadanskdeutschελληνικάespañolesperantoeuskaraفارسیfrançaisgaeilgegàidhliggalegoગુજરાતી한국어hrvatskiidobahasa indonesiaíslenskaitalianoעבריתbasa jawaಕನ್ನಡქართულიkiswahilikreyòl ayisyenlatinalatviešumagyarмакедонскиmalagasyമലയാളംमराठीnederlands日本語norskoccitanoʻzbekcha/ўзбекчаپنجابیplattdüütschpolskiportuguêsromânăрусскийscotsshqipsimple englishslovenčinaslovenščinaсрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskaதமிழ்татарча/tatarçaไทยtürkçeукраїнськаاردوtiếng việtyorùbá中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 23 january 2019, at 04:24 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"1.008","walltime":"1.237","ppvisitednodes":{"value":9985,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":179261,"limit":2097152},"templateargumentsize":{"value":36047,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":18,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":140978,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  960.743      1 -total"," 40.62%  390.260      1 template:reflist"," 23.05%  221.444      1 template:infobox_scientist"," 22.13%  212.579      1 template:infobox_person"," 20.83%  200.122      2 template:infobox"," 15.50%  148.885     10 template:cite_journal"," 13.77%  132.290     18 template:isbn"," 11.01%  105.793      5 template:br_separated_entries","  7.86%   75.525      1 template:birth_date","  7.48%   71.890     14 template:cite_book"]},"scribunto":{"limitreport-timeusage":{"value":"0.425","limit":"10.000"},"limitreport-memusage":{"value":10776162,"limit":52428800}},"cachereport":{"origin":"mw1326","timestamp":"20190219122326","ttl":86400,"transientcontent":true}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"otto hahn","url":"https:\/\/en.wikipedia.org\/wiki\/otto_hahn","sameas":"http:\/\/www.wikidata.org\/entity\/q57065","mainentity":"http:\/\/www.wikidata.org\/entity\/q57065","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2002-03-31t05:02:26z","datemodified":"2019-01-23t04:24:39z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/64\/otto_hahn_1970.jpg","headline":"german chemist"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":133,"wghostname":"mw1269"});});
+
+

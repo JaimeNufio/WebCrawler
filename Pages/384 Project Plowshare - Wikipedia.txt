@@ -1,0 +1,1528 @@
+
+
+
+
+project plowshare - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"project_plowshare","wgtitle":"project plowshare","wgcurrevisionid":883292780,"wgrevisionid":883292780,"wgarticleid":253892,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["use mdy dates from november 2018","wikipedia articles needing factual verification from august 2015","all articles with unsourced statements","articles with unsourced statements from february 2016","commons category link is on wikidata","commons category link is on wikidata using p373","american nuclear weapons testing","peaceful nuclear explosions"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"project_plowshare","wgrelevantarticleid":253892,"wgrequestid":"xgzuoapaiceaal34a50aaaas","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgredirectedfrom":"operation_plowshare","wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wginternalredirecttargeturl":"/wiki/project_plowshare","wgwikibaseitemid":"q7249253","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+project plowshare 
+from wikipedia, the free encyclopedia   (redirected from operation plowshare)
+ jump to navigation
+jump to search
+
+
+this article is about proposed peaceful uses of nuclear weapons. for the serialized philip k. dick novel with the same name, see the zap gun. for the christian anti-nuclear protest movement, see plowshares movement.
+ the 1962 "sedan" plowshares shot displaced 12 million tons of earth and created a crater 320 feet (100 m) deep and 1,280 feet (390 m) wide
+project plowshare was the overall united states program for the development of techniques to use nuclear explosives for peaceful construction purposes. as part of the program, 31 nuclear warheads were detonated in 27 separate tests. plowshare was the us portion of what are called peaceful nuclear explosions (pne); a similar soviet program was carried out under the name nuclear explosions for the national economy.
+successful demonstrations of non-combat uses for nuclear explosives include rock blasting, stimulation of tight gas, chemical element manufacture,[a] unlocking some of the mysteries of the r-process of stellar nucleosynthesis and probing the composition of the earth's deep crust, creating reflection seismology vibroseis data which has helped geologists and follow-on mining company prospecting.[1][2][3]
+the project's uncharacteristically large and atmospherically vented sedan nuclear test also led geologists to determine that barringer crater was formed as a result of a meteor impact and not from a volcanic eruption, as had earlier been assumed. this became the first crater on earth definitely proven to be from an impact event.[4]
+negative impacts from project plowshare's tests generated significant public opposition, which eventually led to the program's termination in 1977.[5] these consequences included tritiated water (projected to increase by cer geonuclear corporation to a level of 2% of the then-maximum level for drinking water)[6] and the deposition of fallout from radioactive material being injected into the atmosphere before underground testing was mandated by treaty.
+
+contents
+
+1 rationale
+2 proposals
+3 plowshare testing
+
+3.1 natural gas stimulation experiment
+
+
+4 impacts, opposition and economics
+5 nuclear tests
+6 non-nuclear tests
+7 proposed nuclear projects
+8 see also
+9 notes
+10 references
+11 further reading
+12 external links
+
+
+rationale[edit]
+by exploiting the peaceful uses of the "friendly atom" in medical applications, earth removal, and later in nuclear power plants, the nuclear industry and government sought to allay public fears about nuclear technology and promote the acceptance of nuclear weapons.[7] at the peak of the atomic age, the united states federal government initiated project plowshare, involving "peaceful nuclear explosions". the united states atomic energy commission chairman at the time, lewis strauss, announced that the plowshares project was intended to "highlight the peaceful applications of nuclear explosive devices and thereby create a climate of world opinion that is more favorable to weapons development and tests".[8][9][need quotation to verify]
+
+proposals[edit]
+ one of the chariot schemes involved chaining five thermonuclear devices to create the artificial harbor.
+proposed uses for nuclear explosives under project plowshare included widening the panama canal, constructing a new sea-level waterway through nicaragua nicknamed the pan-atomic canal, cutting paths through mountainous areas for highways, and connecting inland river systems.  other proposals involved blasting underground caverns for water, natural gas, and petroleum storage.  serious consideration was also given to using these explosives for various mining operations.  one proposal suggested using nuclear blasts to connect underground aquifers in arizona.  another plan involved surface blasting on the western slope of california's sacramento valley for a water transport project.[5]
+one of the first serious cratering proposals that came close to being carried out was project chariot, which would have used several hydrogen bombs to create an artificial harbor at cape thompson, alaska. it was never carried out due to concerns for the native populations and the fact that there was little potential use for the harbor to justify its risk and expense.[10]
+project carryall,[11] proposed in 1963 by the atomic energy commission, the california division of highways (now caltrans), and the santa fe railway, would have used 22 nuclear explosions to excavate a massive roadcut through the bristol mountains in the mojave desert, to accommodate construction of interstate 40 and a new rail line.[5]
+at the end of the program, a major objective was to develop nuclear explosives, and blast techniques, for stimulating the flow of natural gas in "tight" underground reservoir formations. in the 1960s, a proposal was suggested for a modified in situ shale oil extraction process which involved creation of a rubble chimney (a zone in the oil shale formation created by breaking the rock into fragments) using a nuclear explosive.[12]  however, this approach was abandoned for a number of technical reasons.
+
+plowshare testing[edit]
+the first pne blast was project gnome, conducted on december 10, 1961 in a salt bed 24 mi (39 km) southeast of carlsbad, new mexico.  the explosion released 3.1 kilotons (13 tj) of energy yield at a depth of 361 meters (1,184 ft) which resulted in the formation of a 170 ft (52 m) diameter, 80 ft (24 m) high cavity. the test had many objectives.  the most public of these involved the generation of steam which could then be used to generate electricity.  another objective was the production of useful radioisotopes and their recovery.  another experiment involved neutron time-of-flight physics.  a fourth experiment involved geophysical studies based upon the timed seismic source. only the last objective was considered a complete success. the blast unintentionally vented radioactive steam while the press watched. the partly developed project coach detonation experiment that was to follow adjacent to the gnome test was then canceled.
+a number of proof-of-concept cratering blasts were conducted; including the buggy shot of 5 1 kt devices for a channel/trench in area 30 and the largest being 104 kiloton (435 terajoule) on july 6, 1962 at the north end of yucca flats, within the atomic energy commission's nevada test site (nts) in southern nevada. the shot, "sedan", displaced more than 12 million short tons (11 teragrams) of soil and resulted in a radioactive cloud that rose to an altitude of 12,000 ft (3.7 km).  the radioactive dust plume headed northeast and then east towards the mississippi river[citation needed].
+over the next 11 years 26 more nuclear explosion tests were conducted under the u.s. pne program. the radioactive blast debris from 839 u.s. underground nuclear test explosions remains buried in-place and has been judged impractical to remove by the doe's nevada site office. funding quietly ended in 1977.  costs for the program have been estimated at more than (us) $770 million.[5]
+
+natural gas stimulation experiment[edit]
+three nuclear explosion experiments were intended to stimulate the flow of natural gas from "tight" formation gas fields. industrial participants included el paso natural gas company for the gasbuggy test; cer geonuclear corporation and austral oil company for the rulison test;[13] and cer geonuclear corporation for the rio blanco test.
+the final pne blast took place on may 17, 1973, under fawn creek, 76.4 km north of grand junction, colorado.  three 30-kiloton detonations took place simultaneously at depths of 1,758, 1,875, and 2,015 meters.  if it had been successful, plans called for the use of hundreds of specialized nuclear explosives in the western rockies gas fields.  the previous two tests had indicated that the produced natural gas would be too radioactive for safe use; the rio blanco test found that the three blast cavities had not connected as hoped, and the resulting gas still contained unacceptable levels of radionuclides.[14]
+by 1974, approximately $82 million had been invested in the nuclear gas stimulation technology program. it was estimated that even after 25 years of production of all the natural gas deemed recoverable, only 15 to 40 percent of the investment would be recouped.  also, the concept that stove burners in california might soon emit trace amounts of blast radionuclides into family homes did not sit well with the general public.  the contaminated gas was never channeled into commercial supply lines.
+the situation remained so for the next three decades, but a resurgence in colorado western slope natural gas drilling has brought resource development closer and closer to the original underground detonations. by mid-2009, 84 drilling permits had been issued within a 3-mile radius, with 11 permits within one mile of the site.[15]
+
+impacts, opposition and economics[edit]
+operation plowshare "started with great expectations and high hopes". planners believed that the projects could be completed safely, but there was less confidence that they could be completed more economically than conventional methods. moreover, there was insufficient public and congressional support for the projects. projects chariot and coach were two examples where technical problems and environmental concerns prompted further feasibility studies which took several years, and each project was eventually canceled.[1]
+
+ the 104 kiloton, 1962 sedan nuclear test formed a crater 100 m (330 ft) deep with a diameter of about 390 m (1,300 ft), as a means of investigating the possibilities of using peaceful nuclear explosions for large-scale earth moving. if this test was conducted in 1965+, when improvements in device design were realized, a "100-fold" reduction in radiation release was considered feasible.[16] the 140 kiloton soviet chagan (nuclear test), comparable in yield to the sedan test of 104 kt, formed lake chagan, reportedly used as a watering hole for cattle and human swimming.[17][18][19]
+citizen groups voiced concerns and opposition to some of the plowshare tests.  there were concerns that the blast effects from the schooner explosion could dry up active wells or trigger an earthquake. there was opposition to both rulison and rio blanco tests because of possible radioactive gas flaring operations and other environmental hazards.[1] in a 1973 article, time used the term "project dubious" to describe operation plowshare.[14]
+there were negative impacts from a select few of project plowshare’s 27 nuclear explosions, primarily those conducted in the project's infancy and those that were very high in explosive yield.
+on project gnome and the sedan test:[5]
+
+.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}project gnome vented radioactive steam over the very press gallery that was called to confirm its safety. the next blast, a 104-kiloton detonation at yucca flat, nevada, displaced 12 million tons of soil and resulted in a radioactive dust cloud that rose 12,000 feet [3,700 m] and plumed toward the mississippi river. other consequences – blighted land, relocated communities, tritium-contaminated water, radioactivity, and fallout from debris being hurled high into the atmosphere – were ignored and downplayed until the program was terminated in 1977, due in large part to public opposition.[5]
+
+project plowshare shows how something intended to improve national security can unwittingly do the opposite if it fails to fully consider the social, political, and environmental consequences. it also “underscores that public resentment and opposition can stop projects in their tracks”.[5]
+
+ united states and soviet union/russia nuclear stockpiles. the slow down in the production of nuclear weapons, beginning in the late 1970s in the us, greatly impacted on the economic calculations of peaceful uses of nuclear detonations.
+while the above social scientist, benjamin sovacool, contends that the main problem with oil and gas stimulation, which many considered the most promising economic use of nuclear detonations, was that the produced oil and gas was radioactive, which caused consumers to reject it and this was ultimately the programs downfall.[5] in contrast, oil and gas are sometimes considerably naturally radioactive to begin with and the industry is set up to deal with oil and gas that contain radioactive contaminants; moreover in contrast to earlier stimulation efforts,[20] contamination from many later tests was not a show-stopping issue, historian dr. michael payne notes that it was primarily changing public opinion due to the societal perception shift, to one fearing all nuclear detonations, caused by events such as the cuban missile crisis, that resulted in protests,[21] court cases and general hostility that ended the oil and gas stimulation efforts. furthermore, as the years went by without further development and the closing/curtailment in output of nuclear weapons factories, this evaporated the existing economies of scale advantage of operation plowshare that had earlier been present in the united states in the 1950s-60s. it was increasingly found in the following decades that most us fields could instead be stimulated by non-nuclear techniques which were found to be likely cheaper.[22][23]
+as a point of comparison, the most successful and profitable nuclear stimulation effort that did not result in customer product contamination issues was the 1976 project neva on the sredne-botuobinsk gas field in the soviet union, made possible by multiple cleaner stimulation explosives, favorable rock strata and the possible creation of an underground contaminant storage cavity.[24][25] the soviet union retains the record for the cleanest/lowest fission-fraction nuclear devices so far demonstrated.
+the public records for devices that produced the highest proportion of their yield via fusion-only reactions, and therefore created orders of magnitude smaller amounts of long-lived fission products as a result, are the ussr's peaceful nuclear explosions of the 1970s, with the three detonations that excavated part of pechora–kama canal, being cited as 98% fusion each in the taiga test's three 15-kiloton explosive yield devices, that is, a total fission fraction of 0.3 kilotons in a 15 kt device.[26] in comparison, the next three high fusion-yielding devices were all much too high in total explosive yield for oil and gas stimulation: the 50-megaton tsar bomba achieved a yield 97% derived from fusion,[27] while in the us, the 9.3-megaton hardtack poplar test is reported as 95.2%,[28] and the 4.5-megaton redwing navajo test as 95% derived from fusion.[29]
+
+nuclear tests[edit]
+the u.s. conducted 27 pne shots in conjunction with other, weapons-related, test series.[1] a report by the federation of american scientists includes yields slightly different than that presented below.[30]
+
+
+plowshare nuclear tests
+
+
+test name
+date
+location
+
+type
+
+depth of burial
+
+medium
+yield (kilotons)
+test series
+
+objective
+
+
+gnome
+
+december 10, 1961
+carlsbad, new mexico
+
+shaft
+
+1,185 ft (361 m)
+
+salt
+3
+nougat
+
+a multipurpose experiment designed to provide data concerning:  (1) heat generated from a nuclear explosion; (2) isotopes production; (3)  neutron physics; (4) seismic measurements in a salt medium; and (5) design  data for developing nuclear devices specifically for peaceful uses.
+
+
+sedan
+
+july 6, 1962
+nevada test site
+
+crater
+
+635 ft (194 m)
+
+alluvium
+104
+
+storax
+
+a excavation experiment in alluvium to determine feasibility of  using nuclear explosions for large excavation projects, such as harbors and  canals; provide data on crater size, radiological safety, seismic effects,  and air blast.
+
+
+anacostia
+
+november 27, 1962
+nevada test site
+
+shaft
+
+747 ft (227.7 m)
+
+tuff
+5.2
+storax
+
+a device-development experiment to produce heavy elements and  provide radiochemical analysis data for the planned coach project.
+
+
+kaweah
+
+february 21, 1963
+nevada test site
+
+shaft
+
+745 ft (227.1 m)
+
+alluvium
+3
+dominic i and ii
+
+a device-development experiment to produce heavy elements and  provide technical data for the planned coach project.
+
+
+tornillo
+
+october 11, 1963
+nevada test site
+
+shaft
+
+489 ft (149 m)
+
+alluvium
+0.38
+niblick
+
+a device-development experiment to produce a clean nuclear  explosive for excavation applications.
+
+
+klickitat
+
+february 20, 1964
+nevada test site
+
+shaft
+
+1,616 ft (492.6 m)
+
+tuff
+70
+niblick
+
+a device-development experiment to produce an improved nuclear  explosive for excavation applications.
+
+
+ace
+
+june 11, 1964
+nevada test site
+
+shaft
+
+862 ft (262.7 m)
+
+alluvium
+3
+niblick
+
+a device-development experiment to produce an improved nuclear  explosive for excavation applications.
+
+
+dub
+
+june 30, 1964
+nevada test site
+
+shaft
+
+848 ft (258.5 m)
+
+alluvium
+11.7
+niblick
+
+a device-development experiment to study emplacement techniques.
+
+
+par
+
+october 9, 1964
+nevada test site
+
+shaft
+
+1,325 ft (403.9 m)
+
+alluvium
+38
+whetstone
+
+a device-development experiment designed to increase the neutron  flux needed for the creation of heavy elements.
+
+
+handcar
+
+november 5, 1964
+nevada test site
+
+shaft
+
+1,332 ft (406 m)
+
+dolomite  (carbonate rock)
+12
+whetstone
+
+an emplacement experiment to study the effects of nuclear  explosions in carbonate rock.
+
+
+sulky
+
+november 5, 1964
+nevada test site
+
+shaft
+
+90 ft (27.4 m)
+
+basalt
+0.9
+whetstone
+
+an excavation experiment to explore cratering mechanics in hard,  dry rock and study dispersion patterns of airborne radionuclides released  under these conditions.
+
+
+palanquin
+
+april 14, 1965
+nevada test site
+
+crater
+
+280 ft (85.3 m)
+
+rhyolite
+4.3
+whetstone
+
+an excavation experiment in hard, dry rock to study dispersion  patterns of airborne radionuclides released under these conditions.
+
+
+templar
+
+march 24, 1966
+nevada test site
+
+shaft
+
+495 ft (150.9 m)
+
+tuff
+0.37
+flintlock
+
+to develop an improved nuclear explosive for excavation  applications.
+
+
+vulcan
+
+june 25, 1966
+nevada test site
+
+shaft
+
+1,057 ft (322.2 m)
+
+alluvium
+25
+flintlock
+
+a heavy element device-development test to evaluate neutron flux  performance.
+
+
+saxon
+
+july 11, 1966
+nevada test site
+
+1.2 kt
+
+502 ft (153 m)
+
+tuff
+1.2
+latchkey
+
+a device-development experiment to improve nuclear explosives  for excavation applications.
+
+
+simms
+
+november 6, 1966
+nevada test site
+
+shaft
+
+650 ft (198.1 m)
+
+alluvium
+2.3
+latchkey
+
+a device-development experiment to evaluate clean nuclear  explosives for excavation applications.
+
+
+switch
+
+june 22, 1967
+nevada test site
+
+shaft
+
+990 ft (301.8 m)
+
+tuff
+3.1
+latchkey
+
+a device-development experiment to evaluate clean nuclear  explosives for excavation applications.
+
+
+marvel
+
+september 21, 1967
+nevada test site
+
+shaft
+
+572 ft (174.3 m)
+
+alluvium
+2.2
+crosstie
+
+an emplacement experiment to investigate underground  phenomenology related to emplacement techniques.
+
+
+gasbuggy
+
+december 10, 1967
+farmington, new mexico
+
+shaft
+
+4,240 ft (1,292 m)
+
+sandstone,  gas bearing formation
+29
+crosstie
+
+a gas stimulation experiment to investigate the feasibility of  using nuclear explosives to stimulate a low-permeability gas field; first  plowshare joint government-industry nuclear experiment to evaluate an  industrial application.
+
+
+cabriolet
+
+january 26, 1968
+nevada test site
+
+crater
+
+170 ft (51.8 m)
+
+rhyolite
+2.3
+crosstie
+
+an excavation experiment to explore cratering mechanics in hard,  dry rock and study dispersion patterns of airborne radionuclides released  under these conditions.
+
+
+buggy
+
+march 12, 1968
+nevada test site
+
+crater
+
+135 ft (41.1 m)
+
+basalt
+5 at 1.1 each
+crosstie
+
+a five-detonation excavation experiment to study the effects and  phenomenology of nuclear row-charge excavation detonations.
+
+
+stoddard
+
+september 17, 1968
+nevada test site
+
+shaft
+
+1,535 ft (467.9 m)
+
+tuff
+31
+bowline
+
+a device-development experiment to develop clean nuclear  explosives for excavation applications.
+
+
+schooner
+
+december 8, 1968
+nevada test site
+
+crater
+
+365 ft (111.3 m)
+
+tuff
+30
+bowline
+
+an excavation experiment to study the effects and phenomenology  of cratering detonations in hard rock.
+
+
+rulison
+
+september 10, 1969
+grand valley, colorado
+
+shaft
+
+8,425 ft (2,567.9 m)
+
+sandstone
+43
+mandrel
+
+a gas stimulation experiment to investigate the feasibility of  using nuclear explosives to stimulate a low-permeability gas field; provide  engineering data on the use of nuclear explosions for gas stimulation; on  changes in gas production and recovery rates; and on techniques to reduce the  radioactive contamination to the gas.
+
+
+flask  -green, -yellow, -red
+
+may 26, 1970
+nevada test site
+
+shaft
+
+green,  1736 ft (529.2 m); yellow, 1,099 ft (335 m); red, 499 ft (152.1 m)
+
+green,  tuff; yellow and red, alluvium
+green,  105; yellow, 0.9; red, 0.4 tons
+mandrel
+
+a three-detonation device development experiment to develop  improved nuclear explosives for excavation applications.
+
+
+miniata
+
+july 8, 1971
+nevada test site
+
+shaft
+
+1,735 ft (528.8 m)
+
+tuff
+83
+grommet
+
+to develop a clean nuclear explosive for excavation  applications.
+
+
+rio blanco  -1, -2, -3
+
+may 17, 1973
+rifle, colorado
+
+shaft
+
+5,840 ft (1,780 m); 6,230 ft (1,898.9 m); 6,690 ft (2,039.1 m)
+
+sandstone,  gas-bearing formation
+3 at 33 each
+toggle
+
+a gas stimulation experiment to investigate the feasibility of  using nuclear explosives to stimulate a low-permeability gas field; develop  technology for recovering natural gas from reservoirs with very low  permeability.
+
+non-nuclear tests[edit]
+in addition to the nuclear tests, plowshare executed a number of non-nuclear test projects in an attempt to learn more about how the nuclear explosives could best be used.  several of these projects led to practical utility as well as to furthering knowledge about large explosives. these projects included:[1]
+
+
+
+test  name
+
+date
+
+location
+
+type
+
+depth of burial
+
+medium
+
+yield
+
+objective
+
+
+pre-gnome
+
+february 10–16, 1959
+
+southeast  of carlsbad, new mexico
+
+seismic  experiment (high explosive)
+
+1,200 ft (365.8 m), each
+
+bedded  salt
+
+3.65  tons
+
+three  seismic experiments to measure ground shock for the planned gnome nuclear  test.
+
+
+toboggan
+
+november-  december 1959 & april–june 1960
+
+nevada  test site
+
+ditching  experiment (high explosive, tnt)
+
+3  to 20 ft (1 to 6.1 m)
+
+playa  (combination of silt and clay)
+
+series  of 122 detonations of both linear and point he charges
+
+study  ditching characteristics of both-end detonated and multidetonated he  explosives in preparation for nuclear row charge experiments.
+
+
+hobo
+
+february-  april 1960
+
+nevada  test site
+
+seismic  experiment (high explosive, tnt)
+
+unknown
+
+tuff
+
+three  explosions, varying from 500 to 1,000 lb. charges each
+
+to  study rock fracturing and related phenomena produced by contained explosions.
+
+
+stagecoach
+
+march  1960
+
+nevada  test site
+
+excavation  experiment (high explosive, tnt)
+
+shot  1 – 80 ft (24.4 m); shot 2 - 17.1 ft (5.2 m); shot 3 - 34.2 ft (10.4 m)
+
+alluvium
+
+three  40,000 lb. charges
+
+examine  blast, seismic effects and throw out characteristics in preparation for  nuclear cratering experiments.
+
+
+plowboy
+
+march–july  1960
+
+winnfield,  louisiana
+
+experiment
+
+unknown
+
+unknown
+
+unknown
+
+mining  operation to examine high explosive- induced fracturing of salt.
+
+
+buckboard
+
+july–september  1960
+
+nevada  test site
+
+excavation  experiment (high explosive, tnt)
+
+5  to 59.85 ft (1.5 to 18.24 m)
+
+basalt
+
+three  40,000 lb. charges and ten 1,000 lb. charges
+
+establish  depth of burst curves for underground explosives in a hard rock medium.
+
+
+pinot
+
+august 2, 1960
+
+rifle,  colorado
+
+tracer  experiment (high explosive, nitromethane)
+
+610 ft (185.9 m)
+
+oil  shale
+
+unknown
+
+to  determine how gases in a confined underground explosion migrate.
+
+
+scooter
+
+october  1960
+
+nevada  test site
+
+excavation  experiment (high explosive, tnt)
+
+125 ft (38.1 m)
+
+alluvium
+
+500  ton charges
+
+to  study crater dimension, throw out material distribution, ground motion, dust  cloud growth, and long-range air blast.
+
+
+rowboat
+
+june  1961
+
+nevada  test site
+
+row-charge  experiment (high explosive, tnt)
+
+varied
+
+alluvium
+
+8  detonations of series of four 278 lb. charges
+
+to  study the effects of depth of burial and charge separation on crater  dimensions.
+
+
+yo-yo
+
+summer  1961
+
+at  lrl, near tracy, california
+
+simulated  excavation experiment (high explosive)
+
+varied
+
+oil-sand  mixture
+
+100  gm charges
+
+to  develop estimates for the quantities of radiation released to the atmosphere  by a cratering detonation.
+
+
+pre-buggy i
+
+november  1962- february 1963
+
+nevada  test site
+
+row-charge  experiment (high explosive, nitromethane)
+
+15  to 21.4 ft (4.57 to 6.52 m) for single-charge detonations; all row-charge  detonations at 19.8 ft (6.04 m)
+
+alluvium
+
+six  single-charge detonations, four multiple-charge
+
+u.s.  army engineer cratering group study of row- charge phenomenology and effects  in preparation for nuclear row-charge tests.
+
+
+pre-buggy ii
+
+june–august  1963
+
+nevada  test site
+
+row-charge  experiment (high explosive, nitromethane)
+
+18.5  to 23 ft (5.64 to 7.0 m)
+
+alluvium
+
+five  rows of five 1,000 lb. charges
+
+u.s.  army corps of engineers study of row-charge phenomenology and effects in  preparation for a nuclear row- charge experiment.
+
+
+pre-schooner i
+
+february  1964
+
+nevada  test site
+
+cratering  experiment (high explosive, nitromethane)
+
+42  to 66 ft (18.3 to 20.1 m)
+
+basalt
+
+four  40,000 lb. spherical charges
+
+u.s.  army engineer nuclear cratering group study of basic cratering phenomenology  in preparation for nuclear cratering experiments.
+
+
+dugout
+
+june 24, 1964
+
+nevada  test site
+
+row  charge experiment (high explosive, nitromethane)
+
+59 ft (18.0 m)
+
+basalt
+
+simultaneous  detonation of a row of five 20 ton charges placed 45 feet (13.7 m) apart (1  crater radius)
+
+study  fundamental processes involved in row charge excavating dense, hard rock.
+
+
+pre-schooner ii
+
+september 30, 1965
+
+owyhee  county, southwestern idaho
+
+cratering  experiment (high explosive, nitromethane)
+
+71 ft (21.6 m)
+
+rhyolite
+
+85  ton charge
+
+obtain  data for proposed schooner nuclear cratering test, particularly cavity  growth, seismic effects, and air blast.
+
+
+pre-gondola i, ii, iii
+
+october  1966 - october 1969
+
+near  fort peck reservoir, valley county, montana
+
+excavation  experiments (high explosive, nitromethane)
+
+varied
+
+saturated  bearclaw shale
+
+pre-gondola  i, four 20-ton charges; pre-gondola ii, row of five charges totaling 140  tons; pre-gondola iii, phase i, three rows of seven one-ton charges; phase  ii, one row of seven 30- ton charges; phase iii, one row of five charges  varying from five to 35 tons and totaling 70 tons
+
+u.s.  army corps of engineers project to provide seismic calibration test data and  cratering characteristics for excavation projects.
+
+
+tugboat
+
+november  1969- december 1970
+
+kawaihae  bay, hawaii
+
+excavation  experiment (high explosive, tnt)
+
+4–8 ft (1.2-2.4 m)
+
+water
+
+unknown
+
+to  study excavation of a small boat harbor in a weak coral medium.
+
+
+trinidad
+
+july–december  1970
+
+trinidad,  colorado (six miles west)
+
+excavation  experiment (high explosive)
+
+unknown
+
+sandstone/shale
+
+unknown
+
+four  series of row-charge detonations to study excavation designs.
+
+
+old reliable
+
+august  1971- march 1972
+
+galiuro  mountains, 44 miles northeast tucson, arizona
+
+fracturing  experiment (high explosive, ammonium nitrate)
+
+unknown
+
+unknown
+
+2,002  tons
+
+to  promote fracturing and in situ leaching of copper ore.
+
+proposed nuclear projects[edit]
+a number of projects were proposed and some planning accomplished, but were not followed through on.  a list of these is given here:[1]
+
+
+
+name
+
+date
+
+location
+
+type
+
+purpose
+
+
+oxcart
+
+1959
+
+nevada  test site
+
+nuclear  explosive
+
+investigate  excavation efficiency as a function of yield and depth in planning for  project chariot.
+
+
+oilsands
+
+1959
+
+athabasca,  canada
+
+nuclear  explosive
+
+study  the feasibility of oil recovery using a nuclear explosive detonation in the  athabascan tar sands.
+
+
+oil shale
+
+1959
+
+not  determined
+
+nuclear  explosive
+
+study  a nuclear detonation to shatter an oil shale formation to extract oil.
+
+
+ditchdigger
+
+1961
+
+not  determined
+
+nuclear  explosive
+
+a  deeply buried clean nuclear explosive detonation excavation experiment
+
+
+coach
+
+1963
+
+carlsbad,  nm (gnome site)
+
+nuclear  explosive
+
+produce  neutron-rich isotopes of known trans- plutonium elements.
+
+
+phaeton
+
+1963
+
+not  determined
+
+nuclear  explosive
+
+scaling  experiment.
+
+
+carryall
+
+nov-63
+
+bristol  mountains mojave desert, ca
+
+nuclear  explosive
+
+row-charge  excavation experiment to cut through the bristol mountains for realignment of  the santa fe railroad and a new highway i-40.
+
+
+dogsled
+
+1964
+
+colorado  plateau co or az
+
+nuclear  explosive
+
+study  cratering characteristics in dry sandstone; study ground shock and air blast  intensities.
+
+
+tennessee/ tombigee waterway
+
+1964
+
+northeast  mississippi
+
+nuclear  explosive
+
+excavation  of three miles of a divide cut through low hills; connect tennessee and  tombigee rivers; dig 250-mile long canal.
+
+
+interoceanic sea-level canal study
+
+1965-70
+
+pan-american  isthmus (central america)
+
+nuclear  explosive
+
+commission  appointed in 1965 to conduct feasibility studies of several sea-level routes  for an atlantic- pacific interoceanic canal. two routes were in panama and  one in northwestern colombia. the 1970 final report recommended, in part,  that no current u.s. canal policy should be made on the basis that nuclear  excavation technology will be available for canal construction. aec deferred  in making any decision.
+
+
+flivver
+
+mar-66
+
+nevada  test site
+
+nuclear  explosive
+
+a  low-yield cratering detonation to study basic cratering phenomenology.
+
+
+dragon trail
+
+dec-66
+
+rio  blanco county, co
+
+nuclear  explosive
+
+natural  gas stimulation experiment; different geological characteristics than either  gasbuggy or rulison; geological study completed.
+
+
+ketch
+
+aug-67
+
+renovo,  pa (12 miles sw)
+
+nuclear  explosive
+
+create  a large chimney of broken rock with void space to store natural gas under  high pressure.
+
+
+bronco
+
+oct-67
+
+rio  blanco county, co
+
+nuclear  explosive
+
+break  oil shale deposits for in situ retorting; exploratory core holes  drilled.
+
+
+sloop
+
+10/67-68
+
+safford,  az (11 miles ne)
+
+nuclear  explosive
+
+fracturing  copper ore; extract copper by in situ leaching methods; feasibility study  completed.
+
+
+thunderbird
+
+1967
+
+buffalo,  wy (35 miles e)
+
+nuclear  explosive
+
+coal  gasification; fracture rock-containing coal and in situ combustion of the  coal would produce low-btu gas and other products.
+
+
+galley
+
+1967-68
+
+not  determined
+
+nuclear  explosive
+
+a  high-yield row charge in hard rock under terrain of varying elevations.
+
+
+aquarius
+
+1968-70
+
+clear  creek or san simon, az
+
+nuclear  explosive
+
+water  resource management; dam construction, subsurface storage, purification;  aquifer modification.
+
+
+wagon wheel
+
+01/68-74
+
+pinedale,  wy (19 miles s)
+
+nuclear  explosive
+
+natural  gas stimulation; study stimulation at various depths; an exploratory hole and  two hydrological wells were drilled.
+
+
+wasp
+
+07/69-74
+
+pinedale,  wy (24 miles nw)
+
+nuclear  explosive
+
+natural  gas stimulation; meteorological observations taken.
+
+
+utah
+
+1969
+
+near  ouray, ut
+
+nuclear  explosive
+
+oil  shale maturation; exploratory hole drilled.
+
+
+sturtevant
+
+1969
+
+nevada  test site
+
+nuclear  explosive
+
+cratering  experiment to extend excavation information on yields and rock types relevant  to the trans-isthmian canal.
+
+
+australian harbor project
+
+1969
+
+cape  keraudren (nw coast of australia)
+
+nuclear  explosive
+
+first  discussed with u.s. officials in 1962, the u.s. formally agreed to  participate in a joint feasibility study with the australian government in  early 1969 for using nuclear explosives to construct a harbor. the project  was stopped in march 1969 when it was determined that there was an  insufficient economic basis to proceed.
+
+
+yawl
+
+1969-70
+
+nevada  test site
+
+nuclear  explosive
+
+cratering  experiment to extend excavation information on yields and rock types relevant  to the trans-isthmian canal.
+
+
+geothermal power plant
+
+1971
+
+not  determined
+
+nuclear  explosive
+
+geothermal  resource experiment; fracturing would allow fluids circulated in fracture  zones to be converted to steam to generate electricity.[1]
+
+see also[edit]
+plowshares movement
+atoms for peace
+nuclear explosions for the national economy - the equivalent soviet program(s) that achieved "practical application" status.
+atomic age
+project oilsand, a 1958 proposal to exploit the athabasca oil sands in canada via the underground detonation of nuclear bombs.
+notes[edit]
+
+
+^ test shot anacostia resulted in curium-250 being discovered.
+
+
+references[edit]
+
+
+^ a b c d e f g "executive summary: plowshare program" (pdf). us department of energy, office of science and technical information. retrieved august 17, 2016..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}  this article incorporates text from this source, which is in the public domain.
+
+^ https://web.archive.org/web/20060210141005/http://www.ociw.edu/ociw/symposia/series/symposium4/ms/becker.ps.gz
+
+^ carnegie observatories astrophysics series
+
+^ impact processes: meteor crater, arizona. nuclear explosions often excavated craters identical to those attributed to meteorite impacts.  theke released in these blasts was known to the weapons designers, so here was a relationship between energy and crater size.  this information was eventually made public, and planetary geoscientists made use of this relationship to estimate the ke needed to excavate impact craters of various sizes and ages, on earth and other planet
+
+^ a b c d e f g h sovacool, benjamin k (2011), "contesting the future of nuclear power: a critical global assessment of atomic energy", world scientific: 171–2
+
+^ jacobsen, sally (may 1972). "turning up the gas: aec prepares another nuclear gas stimulation shot". bulletin of the atomic scientists. 28 (5): 37. issn 0096-3402.
+
+^ stone, oliver and kuznick, peter, "the untold history of the united states" (gallery books, 2012), page 283-84
+
+^ hewlett, richard g.; holl, jack m. (1989). atoms for peace and war, 1953-1961: eisenhower and the atomic energy commission. berkeley and los angeles, california: university of california press. p. 529. highlight the peaceful applications of nuclear explosive devices and thereby create a climate of world opinion that is more favorable to weapons development and tests
+
+^ "semiannual report to congress in january 1958". other mentions of strauss making statements in feb 1958 or hearings being held are on p 447, and 474 it seems. p.474's quotation: senate subcommittee of the committee on foreign relations, hearings on control and reduction of armaments, feb. 28 – april 17, 1958, washington: government printing office, 1958) pp.1336-64.
+
+^ o'neill, dan (2007) [1995], the firecracker boys: h-bombs, inupiat eskimos, and the roots of the environmental movement, new york: basic books, isbn 0-465-00348-6
+
+^ "preliminary design studies in a nuclear excavation — project carryall" (50). highway research board. 1964: 32–39. retrieved august 17, 2016.
+
+^ lombard, db; carpenter, hc (1967). "recovering oil by retorting a nuclear chimney in oil shale". journal of petroleum technology. society of petroleum engineers (19): 727–34.
+
+^ "austral oil, co., inc". harvard business school. retrieved november 23, 2014.
+
+^ a b "environment: project dubious". time magazine. april 9, 1973. retrieved august 17, 2016.
+
+^ jaffe, mark (july 2, 2009). "colorado drilling rigs closing in on '60s nuke site". the denver post. retrieved january 30, 2010.
+
+^ talkingsticktv (november 7, 2007). "declassified u.s. nuclear test film #35"  – via youtube.
+
+^ guinness world records. "largest crater from an underground nuclear explosion". retrieved october 24, 2014.
+
+^ "the soviet nuclear weapons program". retrieved october 24, 2014.
+
+^ russia today documentary that visits the lake at around the 1 minute mark on youtube
+
+^ ""gasbuggy" tests nuclear fracking - american oil & gas historical society". december 4, 2015.
+
+^ "innovation alberta: article details". august 24, 2007. archived from the original on august 24, 2007.
+
+^ plowshare program executive summary, pg 4-5
+
+^ "elmada.com/wagon: nuclear stimulation projects". july 6, 2004. archived from the original on july 6, 2004.
+
+^ "the soviet program for peaceful uses of nuclear explosions".
+
+^ milo d. nordyke, 2000. peaceful nuclear explosions (pnes) in the soviet union over the period 1965 to 1988.
+
+^ the soviet program for peaceful uses of nuclear explosions by milo d. nordyke. science & global security, 1998, volume 7, pp. 1-117
+
+^ 4.5 thermonuclear weapon designs and later subsections. nuclearweaponarchive.org. retrieved on may 1, 2011.
+
+^ operation hardtack i. nuclearweaponarchive.org. retrieved on may 1, 2011.
+
+^ operation redwing. nuclearweaponarchive.org. retrieved on may 1, 2011.
+
+^ "restricted data declassification decisions 1946 to the present, rdd-7, january 1, 2001". retrieved august 17, 2016.
+
+
+further reading[edit]
+iaea review of the 1968 book: the constructive uses of nuclear explosions by edward teller.
+“the containment of underground nuclear explosions”, project director gregory e van der vink, u.s. congress, office of technology assessment, ota-isc-414, (oct 1989).
+external links[edit]
+
+
+
+wikimedia commons has media related to operation plowshare.
+ "plowshare (1961)- us atomic energy commission"  on youtube
+bolt, bruce a (1976), nuclear explosions and earthquakes: the parted veil, san francisco, ca, us: wh freeman & co, isbn 0-7167-0276-2.
+hansen, chuck (1988), us nuclear weapons: the secret history, arlington, tx: aerofax, isbn 0-517-56740-7.
+———, the swords of armageddon: us nuclear weapons development since 1945 (cd-rom), us cold war, retrieved august 17, 2016.
+kirsch, scott (2005), proving grounds: project plowshare and the unrealized dream of nuclear earthmoving, new brunswick, nj and london: rutgers university press.
+miller, richard l (1999), under the cloud: the decades of nuclear testing, woodlands, tx: two sixty press, isbn 1-881043-05-3.
+schwartz, stephen i, ed. (1998), atomic audit: the costs and consequences of u.s. nuclear weapons since 1940, washington, dc: brookings institution press, isbn 0-8157-7773-6, retrieved august 17, 2016.
+"united states nuclear tests, july 1945 through september 1992" (pdf). us: department of energy nevada operations office. december 2000. doe/nv-209-rev15. archived from the original (pdf) on june 15, 2010.
+plowshare program (pdf), osti, retrieved august 17, 2016.
+"background", radioactive i-131 from fallout, national cancer institute.
+"executive summary", estimated exposures and thyroid doses received by the american people from iodine-131 in fallout following nevada atmospheric nuclear bomb tests (report), national cancer institute, figure 1 – per capita thyroid doses resulting from all exposure routes from all test.
+focused evaluation of selected remedial alternatives for the underground test area (pdf), nevada, us: environmental restoration division, operations office, department of energy, april 1997, doe/nv-465.
+"plowshare", nv (pdf), us: doe, archived from the original (pdf) on september 7, 2006, declassification of the yields of 11 nuclear tests conducted as part of the plowshare... program.
+"plowshare program", atomic traveler (pdf) (chronology) milestones, including proposed tests and projects conducted.
+the short film plowshare (part i) (ca. 1961) is available for free download at the internet archive
+the short film plowshare (part ii) (ca. 1961) is available for free download at the internet archive
+the short film new mexico, 1961/11/30 (1961) is available for free download at the internet archive
+the short film radiation safety in nuclear energy explorations (part i) is available for free download at the internet archive
+the short film radiation safety in nuclear energy explorations (part ii) is available for free download at the internet archive
+vtenuclear weapons tests conducted by the united statesoperations
+"anvil"
+"aqueduct"
+"arbor"
+"argus"
+"bedrock"
+"bowline"
+"buster–jangle"
+"castle"
+"chariot"
+"charioteer"
+"cornerstone"
+"cresset"
+"crossroads"
+"crosstie"
+"dominic"
+starfish prime
+"emery"
+"fishbowl"
+"flintlock"
+"fulcrum"
+"fusileer"
+"greenhouse"
+"grenadier"
+"grommet"
+"guardian"
+"hardtack i"
+"hardtack ii"
+"ivy"
+"julin"
+"latchkey"
+"little feller"
+"mandrel"
+"musketeer"
+"niblick"
+"nougat"
+"phalanx"
+"plowshare"
+"plumbbob"
+"praetorian"
+project 56
+project 57
+project 58
+project 58a
+"quicksilver"
+"ranger"
+"redwing"
+"roller coaster"
+"sandstone"
+"sculpin"
+"storax"
+"sunbeam"
+"teapot"
+"tinderbox"
+"toggle"
+"touchstone"
+"trinity"
+"tumbler–snapper"
+"upshot–knothole"
+"whetstone"
+"wigwam"
+testing areasnevada
+area 15
+area 16
+area 18
+area 30
+frenchman flat
+pahute mesa
+rainier mesa
+yucca flat
+other
+south atlantic
+pacific proving grounds
+alamogordo
+amchitka
+carlsbad
+central nevada
+sand springs range
+carson national forest
+parachute
+salmon site
+nevada test and training range
+rifle
+related topics
+national atomic testing museum
+fallout: an american nuclear tragedy
+alvin c. graves
+reed hadley
+chuck hansen
+corbin harney
+desert rock exercises
+unethical human experimentation in the united states
+international day against nuclear tests
+nevada desert experience
+nuclear weapons testing
+radiation exposure compensation act
+radio bikini
+reactor-grade plutonium nuclear test
+trinity and beyond: the atomic bomb movie
+vela uniform
+louie vitale
+nuclear testing at bikini atoll
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=project_plowshare&oldid=883292780"					
+categories: american nuclear weapons testingpeaceful nuclear explosionshidden categories: use mdy dates from november 2018wikipedia articles needing factual verification from august 2015all articles with unsourced statementsarticles with unsourced statements from february 2016commons category link is on wikidatacommons category link is on wikidata using p373 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+العربية 
+edit links 
+
+
+
+
+
+ this page was last edited on 14 february 2019, at 14:22 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.644","walltime":"0.810","ppvisitednodes":{"value":2664,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":88677,"limit":2097152},"templateargumentsize":{"value":3390,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":85547,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  675.865      1 -total"," 39.93%  269.861      2 template:reflist"," 18.58%  125.587     12 template:cite_web"," 10.94%   73.951      1 template:commons_category"," 10.26%   69.360     14 template:citation","  8.79%   59.428      2 template:fix","  8.38%   56.638      1 template:quote_needed","  7.92%   53.514      3 template:cite_journal","  6.67%   45.076      1 template:about","  6.46%   43.635      3 template:convert"]},"scribunto":{"limitreport-timeusage":{"value":"0.333","limit":"10.000"},"limitreport-memusage":{"value":8648546,"limit":52428800}},"cachereport":{"origin":"mw1323","timestamp":"20190215001758","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":105,"wghostname":"mw1331"});});
+
+

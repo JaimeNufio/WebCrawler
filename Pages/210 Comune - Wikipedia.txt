@@ -1,0 +1,1163 @@
+
+
+
+
+comune - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"comune","wgtitle":"comune","wgcurrevisionid":877135875,"wgrevisionid":877135875,"wgarticleid":457055,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["articles with italian-language external links","articles needing additional references from december 2009","all articles needing additional references","articles containing italian-language text","articles containing spanish-language text","commons category link is on wikidata","municipalities of italy","types of country subdivisions","subdivisions of italy"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"comune","wgrelevantarticleid":457055,"wgrequestid":"xgbmigpamfkaahp4esaaaabh","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q747074","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+comune 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+"comunes" redirects here. for the non-profit collective, see comunes collective.
+not to be confused with commune.
+this article needs additional citations for verification. please help improve this article by adding citations to reliable sources. unsourced material may be challenged and removed.find sources: "comune" – news · newspapers · books · scholar · jstor (december 2009) (learn how and when to remove this template message)
+ administrative divisions of italy: - regions (black borders)- comuni (grey borders)
+the comune (ipa: [koˈmuːne]; plural: comuni [koˈmuːni]) is a basic administrative division in italy, roughly equivalent to a township or municipality.
+
+contents
+
+1 importance and function
+2 subdivisions
+3 homonymy
+4 see also
+5 references
+6 external links
+
+
+importance and function[edit]
+the comune provides many of the basic civil functions: registry of births and deaths, registry of deeds, and contracting for local roads and public works.
+it is headed by a mayor (sindaco) assisted by a legislative body, the consiglio comunale (communal council), and an executive body, the giunta comunale (communal committee). the mayor and members of the consiglio comunale are elected together by resident citizens: the coalition of the elected mayor (who needs an absolute majority in the first or second round of voting) gains three fifths of the consiglio's seats. the giunta comunale is chaired by the mayor, who appoints others members, called assessori, one of whom serves as deputy mayor (vicesindaco). the offices of the comune are housed in a building usually called the municipio, or palazzo comunale.
+as of january 2019 there were 7,926 comuni in italy; they vary considerably in area and population. for example, the comune of rome, in lazio, has an area of 1,307.71 km² and a population of 2,761,477 inhabitants, and is both the largest and the most populated; atrani in the province of salerno (campania) was the smallest comune by area, with only 0.12 km², and moncenisio in the metropolitan city of turin (piedmont) is the smallest by population, with 29 inhabitants.
+the density of the comuni varies widely by province and region: the province of barletta-andria-trani, for example, has 391,224 inhabitants in 10 municipalities, or over 39,000 inhabitants per municipality; whereas the province of isernia has 85,237 inhabitants in 52 municipalities, or 1,640 inhabitants per municipality – roughly twenty-four times more communal units per inhabitant. there are inefficiencies at both ends of the scale, and there is concern about optimizing the size of the comuni so they may best function in the modern world, but planners are hampered by the historical resonances of the comuni, which often reach back many hundreds of years, or even a full millennium.
+while provinces and regions are creations of the central government, and subject to fairly frequent border changes, the natural cultural unit is indeed the comune, for many italians, their hometown.
+many comuni also have a municipal police (polizia municipale), which is responsible for public order duties. traffic control is their main function in addition to controlling commercial establishments to ensure they open and close according to their license.
+
+subdivisions[edit]
+
+number of municipalities and population in italy[1]
+
+
+year
+number
+population
+pop/comune
+
+
+1861
+7,720
+22,171,946
+2,872
+
+
+1871
+8,383
+27,295,509
+3,256
+
+
+1881
+8,260
+28,951,546
+3,505
+
+
+1901
+8,263
+32,963,316
+3,989
+
+
+1911
+8,324
+35,841,563
+4,306
+
+
+1921
+9,195
+39,396,757
+4,285
+
+
+1931
+7,311
+41,043,489
+5,614
+
+
+1936
+7,339
+42,398,489
+5,777
+
+
+1951
+7,810
+47,515,537
+6,084
+
+
+1961
+8,035
+50,623,569
+6,300
+
+
+1971
+8,056
+54,136,547
+6,720
+
+
+1981
+8,086
+56,556,911
+6,994
+
+
+1991
+8,100
+56,885,336
+7,023
+
+
+2001
+8,101
+56,995,744
+7,036
+
+
+2011
+8,092
+59,433,744
+7,345
+
+
+2018
+7,954
+60,483,973
+7,604
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1,000
+
+2,000
+
+3,000
+
+4,000
+
+5,000
+
+6,000
+
+7,000
+
+8,000
+
+9,000
+
+10,000
+
+
+
+1861
+
+1871
+
+1881
+
+1901
+
+1911
+
+1921
+
+1931
+
+1941
+
+1951
+
+1961
+
+1971
+
+1981
+
+1991
+
+2001
+
+2011
+
+2018
+
+
+
+number of municipalities (comuni) in italy at each census from 1861–2016.
+administrative areas inside comuni varies according to their population.
+comuni with at least 250000 residents are divided into circoscrizioni (circonscriptions, roughly equivalent to french arrondissements or london boroughs) to which the comune delegates administrative functions like schools, social services and waste collection; such functions varies from comune to comune. these bodies are headed by an elected president and a local council.
+smaller comuni usually comprises:
+
+a main city, town or village, that almost always gives its name to the comune; such a place is referred to as the capoluogo ("head-place" or "capital"; cf. the french chef-lieu) of the comune; the word comune is also used in casual speech to refer to the city hall.
+outlying areas called frazioni (singular: frazione, abbreviated: fraz., literally "fraction"), each usually centred on a small town or village. these frazioni have usually never had any independent historical existence, but occasionally are former smaller comuni consolidated into a larger one. they may also represent settlements which predated the capoluogo: the ancient town of pollentia (today pollenzo), for instance, is a frazione of bra. in recent years the frazioni have become more important thanks to the institution of the consiglio di frazione (fraction council), a local form of government which can interact with the comune to address local needs, requests and claims. even smaller places are called località ("localities", abbreviated: loc.).
+smaller administrative divisions called municipalità, rioni, quartieri, terzieri, sestieri or contrade, which are similar to districts and neighbourhoods.
+sometimes a frazione might be more populated than the capoluogo; and rarely, owing to unusual circumstances (like depopulation), the town hall and its administrative functions can be moved to one of the frazioni: but the comune still retains the name of the capoluogo.
+in some cases, a comune might not have a capoluogo but only some frazioni. in these cases, it is a comune sparso ("sparse comune") and the frazione which houses the town hall (municipio) is a sede municipale (compare county seat).
+
+homonymy[edit]
+there are not many perfect homonymous italian municipalities. there are only six cases in 12 comuni:[2]
+
+calliano: calliano, piedmont and calliano, trentino
+castro: castro, apulia and castro, lombardy
+livo: livo, lombardy and livo, trentino
+peglio: peglio, lombardy and peglio, marche
+samone: samone, piedmont and samone, trentino
+san teodoro: san teodoro, sardinia and san teodoro, sicily
+this is mostly due to the fact the name of the province or region was appended to the name of the municipality in order to avoid the confusion. remarkably two provincial capitals share the name reggio: reggio nell'emilia, the capital of the province of reggio emilia, in the emilia-romagna, and reggio di calabria, the capital of the homonymous metropolitan city. many other towns or villages are likewise partial homonyms (e.g. anzola dell'emilia and anzola d'ossola, or bagnara calabra and bagnara di romagna).
+
+see also[edit]
+
+list of comuni of italy by region and province
+list of renamed places in italy
+alphabetical list of comuni of italy
+
+international
+
+communes of france
+municipio, spanish & portuguese
+medieval commune
+municipalities of switzerland - those in italian speaking areas of the country are called comuni
+references[edit]
+
+
+^ "comuni dal 1861". www.comuniverso.it. retrieved 19 march 2017..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ (in italian) complete list and infos on comuni-italiani.it
+
+
+external links[edit]
+associazione nazionale comuni italiani (in italian).
+ media related to municipalities in italy at wikimedia commons
+ the dictionary definition of comune at wiktionary
+vteitaly articleshistorychronology
+prehistory
+italic peoples
+ancient peoples of italy
+pre-nuragic sardinia
+nuragic peoples
+etruscan civilization
+nuragic civilization
+phoenician/carthaginian colonies
+magna graecia
+ancient rome
+kingdom
+republic
+empire
+middle ages
+italy under odoacer
+ostrogoths
+byzantium
+lombards
+the holy roman empire
+the sardinian judicates
+arabs
+normans
+guelphs and ghibellines
+the italian city-states
+the maritime republics
+renaissance
+italian wars
+early modern period
+unification
+revolutions of 1820
+revolutions of 1830
+revolutions of 1848
+sicilian revolution of 1848
+first war of independence
+crimean war
+second war of independence
+expedition of the thousand
+third war of independence
+capture of rome
+monarchy and the world wars
+kingdom of italy
+colonial empire
+world war i
+fascist italy
+world war ii
+resistance
+civil war
+republic
+economic boom
+years of lead
+years of mud
+mani pulite
+by topic
+citizenship
+currency
+economy
+fashion
+flags
+genetic
+historic states
+military
+music
+postal
+railways
+geography
+peninsula
+northern
+northwest
+northeast
+central
+southern
+south
+insular
+climate
+fauna
+flora
+mountains
+prealps
+alps
+apennines
+volcanology
+volcanoes
+beaches
+canals
+caves
+earthquakes
+islands
+lakes
+national parks
+rivers
+valleys
+politics
+constitution
+elections
+referendums
+foreign relations
+missions
+judiciary
+law enforcement
+military
+parliament
+chamber of deputies
+senate
+political parties
+president
+prime minister
+council of ministers
+regions
+provinces
+metropolitan cities
+comune
+municipalities
+cities
+economy
+economic history
+milan
+naples
+rome
+turin
+regions by gdp
+automotive industry
+banking
+central bank
+companies
+energy
+government debt
+science and technology
+stock exchange
+taxation
+telecommunications
+internet
+tourism
+trade unions
+transportation
+welfare
+society
+abortion
+adoption
+billionaires
+capital punishment
+corruption
+crime
+demographics
+education
+secondary
+higher
+universities
+emigration
+fathers' rights movement
+feminism
+gambling
+health
+healthcare
+immigration
+lgbt rights
+nobility
+prostitution
+racism
+religion
+smoking
+social class
+terrorism
+women
+culture
+duecento
+trecento
+quattrocento
+cinquecento
+seicento
+settecento
+architecture
+art
+castles
+cinema
+cuisine
+beer
+wine
+cultural icons
+decorations
+design
+fashion
+festivals
+folklore
+italian language
+regional italian
+italian literature
+italophilia
+italophobia
+languages
+media
+newspapers
+radio
+tv
+monuments
+music
+classical
+folk
+opera
+popular
+mythology
+national symbols
+anthem
+emblem
+flag
+regions
+national monument
+personification
+people
+philosophy
+public holidays
+festa della repubblica
+sculpture
+sport
+traditions
+world heritage sites
+
+ italy portal
+ category
+ commons
+ news
+quotes
+travel
+ wikiproject
+
+vtearticles on third-level administrative divisions of countries
+austria
+bangladesh
+belgium
+bolivia
+bosnia and herzegovina
+burkina faso
+brunei
+cambodia
+cameroon
+chile
+china
+costa rica
+côte d'ivoire
+dominican republic
+east timor
+ecuador
+ethiopia
+finland
+france
+germany
+greece
+guinea
+haiti
+india
+indonesia
+district
+subdistrict
+iran
+iraq
+israel
+local council
+city council
+regional council
+italy
+ivory coast
+japan
+liberia
+lebanon
+lithuania
+mali
+morocco
+mozambique
+myanmar
+nepal
+niger
+panama
+papua new guinea
+peru
+philippines
+portugal
+russia
+senegal
+sierra leone
+slovakia
+south africa
+spain
+sri lanka
+switzerland
+taiwan
+tajikistan
+thailand
+togo
+ukraine
+united states
+vietnam
+zimbabwe
+list of administrative divisions by country
+vtedesignations for types of administrative territorial entitiesenglish termscommon english terms1area
+insular area
+local government area
+protected area
+special area
+statistical area
+combined statistical area
+metropolitan statistical area
+micropolitan statistical area
+urban area
+cantonhalf-cantonborough
+county borough
+metropolitan borough
+capital
+federal capital
+imperial capital
+city
+city-state
+autonomous city
+charter city
+independent city
+incorporated city
+imperial city
+free imperial city
+royal free city
+community
+autonomous community
+residential community
+county
+administrative county
+autonomous county
+consolidated city-county
+metropolitan county
+non-metropolitan
+viscountcy
+country
+overseas country
+department
+overseas department
+district
+capital district
+city district
+congressional district
+electoral district
+federal district
+indian government district
+land district
+metropolitan district
+non-metropolitan district
+military district
+municipal district
+police district
+regional district
+rural district
+sanitary district
+subdistrict
+urban district
+special district
+division
+census division
+police division
+subdivision
+municipality
+city municipality
+county municipality
+norway
+nova scotia
+regional county municipality
+direct-controlled municipality
+district municipality
+mountain resort municipality
+neutral municipality
+regional municipality
+resort municipality
+rural municipality
+specialized municipality
+prefecture
+autonomous prefecture
+subprefecture
+super-prefecture
+praetorian prefecture
+province
+autonomous province
+overseas province
+roman province
+region
+administrative region
+autonomous region
+capital region
+development region
+economic region
+mesoregion
+microregion
+overseas region
+planning region
+special administrative region
+statistical region
+subregion
+reserve
+biosphere reserve
+ecological reserve
+game reserve
+indian reserve
+nature reserve
+state
+federal state
+free state
+sovereign state
+territory
+capital territory
+federal capital territory
+dependent territory
+federal territory
+military territory
+organized incorporated territory
+overseas territory
+union territory
+unorganized territory
+town
+census town
+market town
+township
+charter township
+civil township
+paper township
+survey township
+urban township
+unit
+autonomous territorial unit
+local administrative unit
+municipal unit
+regional unit
+zone
+economic zone
+exclusive economic zone
+free economic zone
+special economic zone
+free-trade zone
+neutral zone
+self-administered zone
+other english termscurrent
+alpine resort
+bailiwick
+banner
+autonomous
+block
+cadastre
+circle
+circuit
+colony
+commune
+condominium
+constituency
+duchy
+eldership
+emirate
+federal dependency
+governorate
+hamlet
+ilkhanate
+indian reservation
+manor
+royal
+muftiate
+neighbourhood
+parish
+periphery
+precinct
+principality
+protectorate
+quarter
+regency
+autonomous republic
+riding
+sector
+autonomous
+shire
+sultanate
+suzerainty
+townland
+village
+administrative
+summer
+ward
+
+historical
+agency
+barony
+burgh
+exarchate
+hide
+hundred
+imperial circle
+march
+monthon
+presidency
+residency
+roman diocese
+seat
+tenth
+tithing
+non-english or loanwordscurrent
+amt
+bakhsh
+barangay
+bezirk
+regierungsbezirk
+comune
+frazione
+fu
+gemeinde
+austria
+germany
+south tyrol
+switzerland
+gemeente
+gmina
+județ
+kampong
+kommun / kunta
+finland
+sweden
+län (sweden)
+landskap (finland)
+località
+maakunta
+megye
+muban
+mukim
+oblast
+autonomous
+okrug
+ostān
+poblacion
+purok
+shahrestān
+sum
+sýsla
+tehsil
+vingtaine
+historical
+commote
+gau
+heerlijkheid
+köping
+län / lääni
+landskap (sweden)
+landskommun
+maalaiskunta
+nome
+egypt
+greece
+pagus
+pargana
+plasă
+satrapy
+socken
+subah
+syssel
+zhou
+vtearabic terms for country subdivisionsfirst-level
+muhafazah (محافظة governorate)
+wilayah (ولاية province)
+mintaqah (منطقة region)
+mudiriyah (مديرية directorate)
+imarah (إمارة emirate)
+baladiyah (بلدية municipality)
+shabiyah (شعبية "popularate")
+second / third-level
+mintaqah (منطقة region)
+qadaa (قضاء district)
+nahiyah (ناحية subdistrict)
+markaz (مركز district)
+mutamadiyah (معتمدية "delegation")
+daerah/daïra (دائرة circle)
+liwa (لواء banner / sanjak)
+city / township-level
+amanah (أمانة municipality)
+baladiyah (بلدية municipality)
+ḥai (حي neighborhood / quarter)
+mahallah (محلة)
+qarya (قرية)
+sheyakhah (شياخة "neighborhood subdivision")
+majlis mahalliyy (مجلس محلي local council)
+majlis ʾiqlimiyy (مجلس اقليمي regional council)
+english translations given are those most commonly used.
+vtefrench terms for country subdivisions
+arrondissement
+département
+préfecture
+subprefectures
+
+vtegreek terms for country subdivisionsmodern
+apokentromenes dioikiseis / geniki dioikisis§ / diamerisma§ / periphereia
+nomos§ / periphereiaki enotita
+demos / eparchia§ / koinotita§
+historical
+archontia/archontaton
+bandon
+demos
+despotaton
+dioikesis
+doukaton
+droungos
+eparchia
+exarchaton
+katepanikion
+kephalatikion
+kleisoura
+meris
+naukrareia
+satrapeia
+strategis
+thema
+toparchia
+tourma
+§ signifies a defunct institution
+vteportuguese terms for country subdivisionsregional subdivisions
+estado
+distrito federal
+província
+região
+distrito
+comarca
+capitania
+local subdivisions
+município
+concelho
+freguesia
+comuna
+circunscrição
+settlements
+cidade
+vila
+aldeia
+bairro
+lugar
+
+historical subdivisions in italics.
+
+vteslavic terms for country subdivisionscurrent
+dzielnica
+gmina
+krai
+kraj
+krajina / pokrajina
+městys
+obec
+oblast / oblast' / oblasti / oblys / obwód / voblast'
+okręg
+okres
+okrug
+opština / općina / občina / obshtina
+osiedle
+powiat / povit
+raion
+selsoviet / silrada
+sołectwo
+voivodeship / vojvodina
+županija
+historical
+darugha
+gromada
+guberniya / gubernia
+jurydyka
+khutor
+obshchina
+okolia
+opole
+pogost
+prowincja
+sorok
+srez
+starostwo / starostva
+uyezd
+volost
+ziemia
+župa
+
+vtespanish terms for country subdivisionsnational, federal
+comunidad autónoma
+departamento
+distrito federal
+estado
+provincia
+región
+regional, metropolitan
+cantón
+comarca
+comuna
+corregimiento
+delegación
+distrito
+mancomunidad
+merindad
+municipalidad
+municipio
+parroquia
+ecuador
+spain
+urban, rural
+aldea
+alquería
+anteiglesia
+asentamiento
+asentamiento informal
+pueblos jóvenes
+barrio
+campamento
+caserío
+ciudad
+ciudad autónoma
+colonia
+lugar
+masía
+pedanía
+población
+ranchería
+sitio
+vereda
+villa
+village (pueblito/pueblo)
+
+historical subdivisions in italics.
+
+vteturkish terms for country subdivisionsmodern
+il (province)
+ilçe (district)
+şehir (city)
+kasaba (town)
+belediye (municipality)
+belde (community)
+köy (village)
+mahalle (neighbourhood/quarter)
+historical
+ağalık (feudal district)
+bucak (subdistrict)
+beylerbeylik (province)
+kadılık (subprovince)
+kaza (sub-province)
+hidivlik (viceroyalty)
+mutasarrıflık (subprovince)
+nahiye (nahiyah)
+paşalık (province)
+reya (romanian principalities)
+sancak (prefecture)
+vilayet (province)
+voyvodalık (romanian provinces)
+1 used by ten or more countries or having derived terms. historical derivations in italics.
+see also: census division, electoral district, political division, and list of administrative divisions by country
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=comune&oldid=877135875"					
+categories: municipalities of italytypes of country subdivisionssubdivisions of italyhidden categories: articles with italian-language external linksarticles needing additional references from december 2009all articles needing additional referencesarticles containing italian-language textarticles containing spanish-language textcommons category link is on wikidata 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+العربيةaragonésasturianuazərbaycancabân-lâm-gúбеларускаяcatalàdeutschespañoleuskaraفارسیfrançaisgalego한국어հայերենहिन्दीhrvatskiinterlinguaitalianoעבריתқазақшаlatina日本語norsk nynorskoʻzbekcha/ўзбекчаportuguêsromânăрусскийscotsshqipsicilianuslovenščinasvenskatagalogtürkçeукраїнськаاردوtiếng việt中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 6 january 2019, at 20:27 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.864","walltime":"1.160","ppvisitednodes":{"value":3489,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":410530,"limit":2097152},"templateargumentsize":{"value":35161,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":19,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":3074,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  898.230      1 -total"," 34.17%  306.888     17 template:navbox"," 29.74%  267.126     89 template:lang"," 17.26%  155.004      1 template:types_of_administrative_country_subdivision"," 16.33%  146.712      1 template:navbox_with_collapsible_groups"," 12.94%  116.250      1 template:italy_topics"," 12.54%  112.636      1 template:country_topics"," 10.60%   95.216      1 template:reflist"," 10.03%   90.118      1 template:refimprove","  9.05%   81.317      1 template:ambox"]},"scribunto":{"limitreport-timeusage":{"value":"0.446","limit":"10.000"},"limitreport-memusage":{"value":22202122,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1322","timestamp":"20190215155918","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":95,"wghostname":"mw1254"});});
+
+

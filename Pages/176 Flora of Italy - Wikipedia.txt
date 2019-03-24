@@ -1,0 +1,687 @@
+
+
+
+
+flora of italy - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"flora_of_italy","wgtitle":"flora of italy","wgcurrevisionid":879995756,"wgrevisionid":879995756,"wgarticleid":20296940,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["articles containing potentially dated statements from 2005","all articles containing potentially dated statements","commons category link from wikidata","flora of italy"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"flora_of_italy","wgrelevantarticleid":20296940,"wgrequestid":"xgwevqpamfiaalmfnzaaaabb","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q3746674","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+flora of italy 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+ sicilian fir, a critically endangered species endemic to sicily
+the flora of italy was traditionally estimated to comprise about 5,500 vascular plant species.[1] however, as of  2005[update], 6,759 species are recorded in the data bank of italian vascular flora.[2] geobotanically, the italian flora is shared between the circumboreal region and mediterranean region. according to the index compiled by the italian ministry for the environment in 2001, 274 vascular plant species were protected.
+
+ goeological map of italy
+contents
+
+1 geography
+2 ecoregions
+3 the floral composition
+4 species richness in southern europe
+5 endemic species
+6 threats
+7 conservation
+8 plants and shrubs of the italian macchia mediterranea
+9 notable flora
+10 herbaria
+11 database
+12 see also
+13 references
+14 further reading
+15 external links
+
+
+geography[edit]
+italy consists of a 1,000 km (620 miles) long peninsula extending out into the central mediterranean, together with a number of islands to the south and west. the apennines run north-south through the peninsula connecting the alps in the north to etna and the peloritani mountains in sicily in the south. the geology is diverse.
+northern italy is dominated by the alps and an extensive valley of the po river which is extensively agricultural and industrialised.
+central italy includes the regions of tuscany, umbria, marche and lazio. it is dominated by the apennines, from which a few major rivers flow. there are few natural plains. a process of land reclamation has replaced the coastal swamps and marshes with  agricultural land.
+southern italy includes the regions of abruzzo, molise, apulia, basilicata and campania. agriculture and industry are less developed.
+the main islands are sicily, sardinia and the aeolian islands.
+each region has a distinct flora.
+
+ecoregions[edit]
+an ecoregion is an ecologically and geographically defined area with characteristic natural communities and species. different ecoregions are distinguished by different vegetation features.
+in italy carlo blasi et al. identified and mapped two divisions (temperate and mediterranean), 13 provinces, 33 sections and approximately 80 subsections. each unit has an alphanumeric code that indicates its hierarchical level and a full name that indicates its geographic location and main diagnostic factor.[3]
+the temperate division includes the alps, the po plain, and most of the apennines. it accounts for 64% of italy. this area is characterized by almost absent summer aridity and by marked differences between summer and winter temperatures. the natural vegetation mainly consists of forests, with broad-leaved deciduous plants (quercus, fagus and carpinus species).
+the mediterranean division includes the southern apennines, the tyrrhenian and ionian coasts, the southern adriatic coast and the islands. it accounts for almost 36% of the italian territory. this area is characterized by summer aridity, with precipitations concentrated in autumn and winter. the natural vegetation mainly consists of mixed woods of evergreen and deciduous species, shrublands and mediterranean maquis.
+
+the floral composition[edit]
+the native vegetation of italy reflects the diversity of the physical environment: the differences in geology, the differences of altitude above sea level and the diversity of the climate between the continental and the peninsular italy, that give rise to various phytoclimatic areas.
+the peninsula and islands are dominated by the characteristics of the mediterranean climate, with mild and rainy winters and very warm and dry summers. on the contrary, the north of italy has lower temperatures in winter and a more uniform distribution of rainfall during the summer.
+the species of plants present in italy belong to the flora of the continental europe or to the mediterranean flora. in some cases western species can be distinguished (e.g. the hornbeam, limited to western europe) and eastern species (e.g. the oriental hornbeam, present in eastern europe).
+the last ice age, the würm glaciation, in the alps ended about 12,000 years ago, and one can still recognize its influence on vegetation, in particular by means of the glacial relicts (relict species). a well known example is the etna birch (betula aetniensis), driven in sicily at a time when the climate was much colder.
+broadly there are three different vegetational zones of forests or bushes in italy:
+1. evergreen vegetation: maquis shrubland (italian: macchia mediterranea) with densely growing plants and shrubs that always have leaves on. this flora is typical of the dry mediterranean climate, especially along the coast and in the islands.
+the most common plants are olives (olea europaea), agrumes (citrus species), maritime pines (pinus pinaster), cork oaks (quercus suber), holm oak, carrubo (ceratonia siliqua), myrtles (myrtus communis), strawberry tree (arbutus unedo), sage, junipers (juniperus communis, tree heath and bay laurel (laurus nobilis).(mediterranean south)
+2. broad-leaved vegetation (oaks, beeches, chestnuts): it is typical of the mountain region with a humid climate (apennines and prealps). temperate.
+the most common plants are castanea sativa, fagus sylvatica, the relicts pinus mugo and pinus nigra var. italica, sorbus chamaemespilus, arctostaphylos uva-ursi, and vaccinium vitis-idaea. there are also a high number of endemic species increasing at higher elevations. alpine species include gentiana nivalis, androsace alpina, polygala chamaebuxus, saxifraga oppositifolia and carlina acaulis.
+3. coniferous vegetation (larches, pines, firs): it is an evergreen vegetation typical of the alps and of a few high apennines areas. temperate.
+the most common plants present in this phytoclimatic area are picea abies,  abies alba, larix decidua, pinus sylvestris, pinus nigra, pinus cembra and pinus mugo.
+in the po basin can be found mixed forests that include mixed deciduous oak/hornbeam forests (quercus robur, quercus cerris, carpinus betulus, ulmus minor, fraxinus ornus) and riparian forest, as well as flood-plain vegetation of the po basin (fraxinus oxycarpa, salix alba, alnus glutinosa, ulmus minor, populus alba, populus nigra, quercus robur).
+there are also plant associations almost treeless: grasslands, pastures, deserts. in the mountains, gradually, the forest turns in mountain pastures, scattered in various shrubs (e.g. pinus mugo, rhododendrons, junipers) and dotted with small colorful flowers. higher up are the montane grasslands and even areas similar to a desert because they have no or almost no vegetation (rocks, glaciers).
+
+species richness in southern europe[edit]
+italy has around  6,711 (6,759) species of vascular plants (conti et al., 2005 an inventory of vascular plants endemic to italy), preceded only by the iberian peninsula and balearic islands with around 7,500 vascular plant taxa (species and subspecies) (castroviejo 2010 flora iberica). in greece, the number of species is around 5,700 (strid and tan, 1997 flora hellenica) and in france, there are 4,630 species (walter and gillett, 1998 1997 iucn red list of threatened plants). per unit area greece is the country with the highest concentration of native plant species.
+
+endemic species[edit]
+italy has 1371 endemic species and subspecies (18.9% of the total vascular flora).[4]
+
+threats[edit]
+habitat loss, fragmentation and degradation are the most significant threats to plant species that occur in italy. also changing water flow patterns and over-extraction, increasing droughts due to climate change, pollution and the introduction of alien species threaten the flora. other threats come from farming (as a result of agricultural expansion and intensification), urbanization and tourism.[5]
+the cultivation of plants that give textile fibers (cannabis sativa, linum usitatissimum), the cultivation of sugar beet (beta vulgaris), cereals, potatoes, orchards, vineyards and olive groves have almost replaced the natural vegetation.
+the actions of man since roman times have resulted in the destruction of most of the lowland forests and hills, the expansion of pastures, and the extinction of many species and in the introduction of exotic species which are then naturalized. for example, the indian fig opuntia (opuntia ficus-indica), is now common in the warmer parts of the southern italy. also, the invasive false acacia (robinia) is widely spread.
+
+conservation[edit]
+italy is a signatory to the berne convention on the conservation of european wildlife and natural habitats and the habitats directive both affording protection to the fauna and flora of italy.
+
+plants and shrubs of the italian macchia mediterranea[edit]
+
+
+
+
+quercus suber
+
+
+
+
+
+
+ceratonia siliqua
+
+
+
+
+
+
+erica arborea
+
+
+
+
+
+
+pistacia lentiscus
+
+
+
+
+
+
+laurus nobilis
+
+
+
+
+
+
+arbutus unedo
+
+
+
+
+
+
+myrtus communis
+
+
+
+
+
+
+rosmarinus officinalis
+
+
+
+
+
+
+capparis spinosa
+
+
+
+
+
+
+juniperus oxycedrus
+
+
+
+
+
+
+rhamnus alaternus
+
+
+
+
+
+
+cytisus scoparius
+
+
+
+
+
+
+smilax aspera
+
+
+
+
+
+
+nerium oleander
+
+
+
+
+notable flora[edit]
+arcangeli, giovanni. compendio della flora italiana. torino: loescher, 1882.
+cesati, vincenzo de, giovanni passerini & giuseppe gibelli. compendio della flora italiana. vol. 1-35. milano: vallardi, 1868-1886.
+fiori, adriano. nuova flora analitica d'italia. vol. 1-2. firenze: ricci, 1923-1929.
+parlatore, filippo & teodoro caruel. flora italiana. vol. 1-10. firenze: le monnier, 1848-1896.
+pignatti, sandro. flora d'italia. vol. 1-3. bologna: edagricole, 1982. .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}isbn 88-506-2449-2.
+herbaria[edit]
+see list of herbaria in europe.
+
+database[edit]
+the department of biology of the university of trieste houses the  national data bank for the italian flora and vegetation.
+
+see also[edit]
+apennine deciduous montane forest
+dinaric mountains mixed forests
+flora of the alps
+geography of italy
+high alps
+illyrian deciduous forests
+italian sclerophyllous and semi-deciduous forests
+list of national parks of italy
+museo del fiore
+po basin mixed forests
+south apennine mixed montane forests
+tyrrhenian-adriatic sclerophyllous and mixed forests
+list of orchids of italy - in italian; links in turn to orchidee della montagna della ganzaria, orchidee di monte pellegrino, orchidee dello zingaro and orchidee di cavagrande del cassibile
+orchidee del gargano
+specie botaniche in italia
+specie botaniche in sardegna
+references[edit]
+
+
+^ pignatti,s.,1982 flora d’italia. edagricole, bologna, vol. 1-3, 1982
+
+^ riccardo guarino, sabina addamiano, marco la rosa, sandro pignatti flora italiana digitale:an interactive identification tool for the flora of italy
+
+^ carlo blasi, giulia capotorti, daniela smiraglia, domenico guida, laura zavattero, barbara mollo, raffaella frondoni, and riccardo copiz a thematic contribution to the  national biodiversity strategy - the ecoregions of italy
+
+^ lorenzo peruzzi. fabio conti and fabrizio bartolucci an inventory of vascular plants endemic to italy
+
+^ italy’s biodiversity at risk iucn
+
+
+further reading[edit]
+tutin t.g. et al., 1964-1980. flora europaea, cambridge university press
+ansaldi m., medda e., plastino s., 1994. i fiori delle apuane, mauro baroni & c. s.a.s., viareggio
+d. aeschimann; k. lauber; d. martin moser; j. p. theurillat. flora alpina. bologna, zanichelli, 2004. isbn 88-08-07159-6
+external links[edit]
+
+
+
+wikimedia commons has media related to flora of italy.
+acta plantarum checklist. extensive photo gallery, bibliography. image access vis "schede botaniche" and "galleria della flora italiana"
+ecoregions of italy sapienza
+flora italiana digitale - distribution, images (via google search), flowering time, altitude.
+melanie bilz, shelagh p. kell, nigel maxted and richard v. lansdown european red list of vascular plants
+walter and gillett, 1998 1997 iucn red list of threatened plants
+natura mediterraneo forum. many images (see galleria tassonomica) in italian.
+franz xaver/pflanzen aus italien
+vteflora of europesovereign states
+albania
+andorra
+armenia
+austria
+azerbaijan
+belarus
+belgium
+bosnia and herzegovina
+bulgaria
+croatia
+cyprus
+czech republic
+denmark
+estonia
+finland
+france
+georgia
+germany
+greece
+hungary
+iceland
+ireland
+
+italy
+kazakhstan
+latvia
+liechtenstein
+lithuania
+luxembourg
+macedonia
+malta
+moldova
+monaco
+montenegro
+netherlands
+norway
+poland
+portugal
+romania
+russia
+san marino
+serbia
+slovakia
+slovenia
+spain
+sweden
+switzerland
+turkey
+ukraine
+united kingdom
+states with limitedrecognition
+abkhazia
+artsakh
+kosovo
+northern cyprus
+south ossetia
+transnistria
+dependencies andother entities
+åland
+faroe islands
+gibraltar
+guernsey
+isle of man
+jersey
+svalbard
+
+vteitaly articleshistorychronology
+prehistory
+italic peoples
+ancient peoples of italy
+pre-nuragic sardinia
+nuragic peoples
+etruscan civilization
+nuragic civilization
+phoenician/carthaginian colonies
+magna graecia
+ancient rome
+kingdom
+republic
+empire
+middle ages
+italy under odoacer
+ostrogoths
+byzantium
+lombards
+the holy roman empire
+the sardinian judicates
+arabs
+normans
+guelphs and ghibellines
+the italian city-states
+the maritime republics
+renaissance
+italian wars
+early modern period
+unification
+revolutions of 1820
+revolutions of 1830
+revolutions of 1848
+sicilian revolution of 1848
+first war of independence
+crimean war
+second war of independence
+expedition of the thousand
+third war of independence
+capture of rome
+monarchy and the world wars
+kingdom of italy
+colonial empire
+world war i
+fascist italy
+world war ii
+resistance
+civil war
+republic
+economic boom
+years of lead
+years of mud
+mani pulite
+by topic
+citizenship
+currency
+economy
+fashion
+flags
+genetic
+historic states
+military
+music
+postal
+railways
+geography
+peninsula
+northern
+northwest
+northeast
+central
+southern
+south
+insular
+climate
+fauna
+flora
+mountains
+prealps
+alps
+apennines
+volcanology
+volcanoes
+beaches
+canals
+caves
+earthquakes
+islands
+lakes
+national parks
+rivers
+valleys
+politics
+constitution
+elections
+referendums
+foreign relations
+missions
+judiciary
+law enforcement
+military
+parliament
+chamber of deputies
+senate
+political parties
+president
+prime minister
+council of ministers
+regions
+provinces
+metropolitan cities
+comune
+municipalities
+cities
+economy
+economic history
+milan
+naples
+rome
+turin
+regions by gdp
+automotive industry
+banking
+central bank
+companies
+energy
+government debt
+science and technology
+stock exchange
+taxation
+telecommunications
+internet
+tourism
+trade unions
+transportation
+welfare
+society
+abortion
+adoption
+billionaires
+capital punishment
+corruption
+crime
+demographics
+education
+secondary
+higher
+universities
+emigration
+fathers' rights movement
+feminism
+gambling
+health
+healthcare
+immigration
+lgbt rights
+nobility
+prostitution
+racism
+religion
+smoking
+social class
+terrorism
+women
+culture
+duecento
+trecento
+quattrocento
+cinquecento
+seicento
+settecento
+architecture
+art
+castles
+cinema
+cuisine
+beer
+wine
+cultural icons
+decorations
+design
+fashion
+festivals
+folklore
+italian language
+regional italian
+italian literature
+italophilia
+italophobia
+languages
+media
+newspapers
+radio
+tv
+monuments
+music
+classical
+folk
+opera
+popular
+mythology
+national symbols
+anthem
+emblem
+flag
+regions
+national monument
+personification
+people
+philosophy
+public holidays
+festa della repubblica
+sculpture
+sport
+traditions
+world heritage sites
+
+ italy portal
+ category
+ commons
+ news
+quotes
+travel
+ wikiproject
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=flora_of_italy&oldid=879995756"					
+categories: flora of italyhidden categories: articles containing potentially dated statements from 2005all articles containing potentially dated statementscommons category link from wikidata 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+العربيةitaliano 
+edit links 
+
+
+
+
+
+ this page was last edited on 24 january 2019, at 18:11 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.544","walltime":"0.705","ppvisitednodes":{"value":12544,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":120123,"limit":2097152},"templateargumentsize":{"value":26671,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":24,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":16385,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  582.215      1 -total"," 44.28%  257.832      7 template:navbox"," 32.87%  191.367      1 template:flora_of_europe"," 32.28%  187.925      1 template:europe_topic"," 24.36%  141.848     49 template:iso2country"," 18.22%  106.108      1 template:commons_category"," 16.01%   93.187      1 template:italy_topics"," 15.48%   90.099      1 template:commons"," 15.32%   89.177      1 template:country_topics"," 15.10%   87.888      1 template:sister_project"]},"scribunto":{"limitreport-timeusage":{"value":"0.129","limit":"10.000"},"limitreport-memusage":{"value":4512462,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1272","timestamp":"20190219151501","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"flora of italy","url":"https:\/\/en.wikipedia.org\/wiki\/flora_of_italy","sameas":"http:\/\/www.wikidata.org\/entity\/q3746674","mainentity":"http:\/\/www.wikidata.org\/entity\/q3746674","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2008-11-19t19:09:25z","datemodified":"2019-01-24t18:11:30z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/4a\/abies_nebrodensis.jpg"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":101,"wghostname":"mw1247"});});
+
+

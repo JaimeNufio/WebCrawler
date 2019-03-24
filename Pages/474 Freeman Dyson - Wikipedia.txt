@@ -1,0 +1,1218 @@
+
+
+
+
+freeman dyson - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"freeman_dyson","wgtitle":"freeman dyson","wgcurrevisionid":883621017,"wgrevisionid":883621017,"wgarticleid":11397,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["all articles with dead external links","articles with dead external links from august 2017","cs1 maint: unfit url","use dmy dates from february 2014","infobox person using alma mater","articles with hcards","wikipedia articles needing clarification from november 2013","articles containing potentially dated statements from 2003","all articles containing potentially dated statements","articles containing potentially dated statements from 2013","commons category link from wikidata","ted speaker template with id same as wikidata","wikipedia articles with bibsys identifiers","wikipedia articles with bne identifiers","wikipedia articles with bnf identifiers","wikipedia articles with cinii identifiers","wikipedia articles with dblp identifiers","wikipedia articles with gnd identifiers","wikipedia articles with isni identifiers","wikipedia articles with lccn identifiers","wikipedia articles with lnb identifiers","wikipedia articles with ndl identifiers","wikipedia articles with nkc identifiers","wikipedia articles with nla identifiers","wikipedia articles with sbn identifiers","wikipedia articles with selibr identifiers","wikipedia articles with snac-id identifiers","wikipedia articles with sudoc identifiers","wikipedia articles with viaf identifiers","wikipedia articles with worldcat-viaf identifiers","ac with 17 elements","freeman dyson","1923 births","living people","people from winchester","people educated at winchester college","english mathematicians","english nuclear physicists","members of the united states national academy of sciences","20th-century american mathematicians","american nuclear physicists","wolf prize in physics laureates","enrico fermi award recipients","institute for advanced study faculty","members of the bavarian academy of sciences","members of the french academy of sciences","foreign members of the russian academy of sciences","space advocates","futurologists","templeton prize laureates","american christians","english christians","cornell university alumni","english emigrants to the united states","english memoirists","philosophy writers","english science writers","american anti–nuclear weapons activists","english anti–nuclear weapons activists","fellows of the royal society","lorentz medal winners","theoretical physicists","21st-century mathematicians","20th-century scientists","21st-century scientists","academics of the university of birmingham","alumni of trinity college, cambridge","members of jason"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"freeman_dyson","wgrelevantarticleid":11397,"wgrequestid":"xguu5apaaemaaa@dkvgaaabt","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgredirectedfrom":"freeman_j._dyson","wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wginternalredirecttargeturl":"/wiki/freeman_dyson","wgwikibaseitemid":"q153717","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","ext.math.scripts","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+freeman dyson 
+from wikipedia, the free encyclopedia   (redirected from freeman j. dyson)
+ jump to navigation
+jump to search
+
+
+freeman dysonfrsdyson at the long now seminar in san francisco, california in 2005bornfreeman john dyson (1923-12-15) 15 december 1923 (age 95)crowthorne, berkshire, englandnationalitybritish-americanalma mater
+university of cambridge
+cornell university[1]
+known for
+circular ensemble
+ random matrix theory
+advocacy against nuclear weapons
+project orion
+triga
+eponyms list
+spouse(s)verena huber-dyson (1950–1958)[2]imme jung (1958-)childrenesther dyson, george dyson, dorothy dyson, mia dyson, rebecca dyson, emily dysonawards
+frs (1952)[3]
+heineman prize (1965)
+lorentz medal (1966)
+hughes medal (1968)
+harvey prize (1977)
+wolf prize (1981)
+andrew gemant award (1988)
+matteucci medal (1989)
+oersted medal (1991)
+enrico fermi award (1993)
+templeton prize (2000)
+pomeranchuk prize (2003)
+henri poincaré prize (2012)
+scientific careerfieldsphysics, mathematicsinstitutions
+royal air force
+institute for advanced study
+university of birmingham
+cornell university
+academic advisorshans betheinfluencesrichard feynman[4][5]abram samoilovitch besicovitch[6]
+websitewww.sns.ias.edu/dysonnotes he is the son of george dyson.
+quantum field theoryfeynman diagram
+history
+background
+field theory
+electromagnetism
+weak force
+strong force
+quantum mechanics
+special relativity
+general relativity
+gauge theory
+
+symmetries
+symmetry in quantum mechanics
+c-symmetry
+p-symmetry
+t-symmetry
+space translation symmetry
+time translation symmetry
+rotation symmetry
+lorentz symmetry
+poincaré symmetry
+gauge symmetry
+explicit symmetry breaking
+spontaneous symmetry breaking
+yang–mills theory
+noether charge
+topological charge
+
+tools
+anomaly
+crossing
+effective field theory
+expectation value
+ghost fields
+faddeev–popov ghosts
+feynman diagram
+lattice gauge theory
+lsz reduction formula
+partition function
+propagator
+quantization
+regularization
+renormalization
+vacuum state
+wick's theorem
+wightman axioms
+feynman parametrization
+
+equations
+dirac equation
+klein–gordon equation
+proca equations
+wheeler–dewitt equation
+bargmann–wigner equations
+joos–weinberg equation
+weyl equation
+
+standard model
+quantum electrodynamics
+electroweak interaction
+quantum chromodynamics
+higgs mechanism
+
+incomplete theories
+topological quantum field theory
+string theory
+superstring theory
+m-theory
+supersymmetry
+supergravity
+technicolor
+theory of everything
+quantum gravity
+
+scientists
+c. d. anderson
+p. w. anderson
+bethe
+bjorken
+bogoliubov
+brout
+callan
+coleman
+dewitt
+dirac
+dyson
+englert
+fermi
+feynman
+fierz
+fock
+fröhlich
+glashow
+gell-mann
+gross
+guralnik
+heisenberg
+higgs
+haag
+hagen
+'t hooft
+jordan
+kendall
+kibble
+lamb
+landau
+lee
+majorana
+mills
+nambu
+nishijima
+parisi
+polyakov
+salam
+schwinger
+skyrme
+sudarshan
+tomonaga
+veltman
+ward
+weinberg
+weisskopf
+weyl
+wilczek
+wilson
+yang
+yukawa
+
+vte
+modern physics
+
+
+
+
+
+
+h
+^
+
+
+
+
+|
+
+
+ψ
+
+n
+
+
+(
+t
+)
+⟩
+=
+i
+ℏ
+
+
+∂
+
+∂
+t
+
+
+
+
+|
+
+
+ψ
+
+n
+
+
+(
+t
+)
+⟩
+
+
+{\displaystyle {\hat {h}}|\psi _{n}(t)\rangle =i\hbar {\frac {\partial }{\partial t}}|\psi _{n}(t)\rangle }
+
+ 
+
+
+
+
+
+1
+
+
+c
+
+
+2
+
+
+
+
+
+
+
+
+
+∂
+
+
+2
+
+
+
+
+ϕ
+
+
+n
+
+
+
+
+
+∂
+t
+
+
+2
+
+
+
+
+−
+
+
+
+∇
+
+
+2
+
+
+
+
+ϕ
+
+
+n
+
+
+
++
+
+
+
+(
+
+
+
+m
+c
+
+ℏ
+
+
+)
+
+
+
+2
+
+
+
+
+ϕ
+
+
+n
+
+
+=
+0
+
+
+{\displaystyle {\frac {1}{{c}^{2}}}{\frac {{\partial }^{2}{\phi }_{n}}{{\partial t}^{2}}}-{{\nabla }^{2}{\phi }_{n}}+{\left({\frac {mc}{\hbar }}\right)}^{2}{\phi }_{n}=0}
+
+manifold dynamics: schrödinger and klein–gordon equations
+foundersmax planck  · albert einstein  · niels bohr  · max born  · werner heisenberg  · erwin schrödinger  · pascual jordan  · wolfgang pauli  · paul dirac  · ernest rutherford  · louis de broglie  · satyendra nath bose
+
+conceptstopology · space · time · energy · matter · work  randomness · information · entropy · mind  light · particle · wave
+
+branchesapplied · experimental · theoretical  philosophy of science · philosophy of physics  mathematical logic · mathematical physics  supersymmetry · string theory · m-theory grand unified theory · standard model  quantum mechanics · quantum field theory  antiparticle · antimatter  electromagnetism · quantum electrodynamics  weak interaction · electroweak interaction  strong interaction · quantum chromodynamics  atomic physics · particle physics · nuclear physics  exotic matter · higgs boson  atomic, molecular, and optical physics  condensed matter physics  quantum statistical mechanics  quantum information · quantum computation  spintronics · superconductivity  non-linear dynamics · photonics · biophysics  neurophysics · quantum mind  plasma physics · neutrino astronomy  special relativity · general relativity  scale relativity · spacetime symmetries  dark matter · dark energy  fractal analysis · quantum chaos  emergence · complex systems  black holes · holographic principle  astrophysics · observable universe  big bang · cosmology  theories of gravitation · loop quantum gravity  quantum gravity · theory of everything  mathematical universe hypothesis · multiverse · weak gravity conjecture
+
+scientistsröntgen · becquerel · lorentz · planck · curie · wien · skłodowska-curie · sommerfeld · rutherford · soddy · onnes · einstein · wilczek · born · weyl · bohr · schrödinger · de broglie · laue · bose · compton · pauli · walton · fermi · van der waals · heisenberg · dyson · zeeman · moseley · hilbert · gödel · jordan · dirac · wigner · hawking · p.w anderson · lemaître · thomson · poincaré · wheeler · penrose · millikan · nambu · von neumann · higgs · hahn · feynman · lee · lenard · salam · 't hooft · bell · gell-mann · j. j. thomson  · raman · bragg · bardeen · shockley · chadwick · lawrence · zeilinger
+vte
+freeman john dyson frs (born 15 december 1923) is an english-born american theoretical physicist and mathematician. he is known for his work in quantum electrodynamics, solid-state physics, astronomy and nuclear engineering.[7][8] he theorized several concepts that bear his name, such as dyson's transform, dyson tree, dyson series, and dyson sphere.
+he is professor emeritus in the institute for advanced study in princeton, a visitor of ralston college,[9] and a member of the board of sponsors of the bulletin of the atomic scientists.[10]
+
+contents
+
+1 biography
+
+1.1 early life
+1.2 career in the united states
+1.3 family
+
+
+2 concepts
+
+2.1 biotechnology and genetic engineering
+2.2 the origin of life
+2.3 dyson sphere
+2.4 dyson tree
+2.5 space colonies
+2.6 space exploration
+2.7 dyson's eternal intelligence
+2.8 dyson's transform
+2.9 dyson series
+2.10 quantum physics and prime numbers
+
+
+3 views
+
+3.1 climate change
+3.2 warfare and weapons
+3.3 science and religion
+
+
+4 honours and awards
+5 works
+
+5.1 books
+5.2 articles
+
+
+6 documentaries
+7 see also
+8 references
+9 further reading
+10 external links
+
+10.1 by dyson
+10.2 about dyson
+
+
+
+
+biography[edit]
+early life[edit]
+born on 15 december 1923, at crowthorne in berkshire, dyson is the son of the english composer george dyson, who was later knighted. his mother had a law degree, and after dyson was born she worked as a social worker.[11] although not known to be related to the early 20th-century astronomer frank watson dyson, as a small boy dyson was aware of him and has credited the popularity of an astronomer sharing his surname with helping to spark his own interest in science.[12] at the age of five he calculated the number of atoms in the sun.[13] as a child, he showed an interest in large numbers and in the solar system, and was strongly influenced by the book men of mathematics by eric temple bell.[4] politically, dyson says he was "brought up as a socialist".[14]
+from 1936 to 1941, dyson was a scholar at winchester college, where his father was director of music. at age 17 he studied mathematics with g.h. hardy at trinity college, cambridge (where he won a scholarship at age 15) and at age 19 was assigned to war work in the operational research section (ors) of the royal air force's bomber command,[15] where he developed analytical methods to help the royal air force bomb german targets during the second world war.[15] after the war, dyson was readmitted to trinity college, cambridge,[16] where he obtained a ba degree in mathematics.[17]  from 1946 to 1949, he was a fellow of his college, occupying rooms just below those of the philosopher ludwig wittgenstein, who resigned his professorship in 1947.[18] in 1947, dyson published two papers in number theory.[19][20] friends and colleagues describe him as shy and self-effacing, with a contrarian streak that his friends find refreshing but his intellectual opponents find exasperating. "i have the sense that when consensus is forming like ice hardening on a lake, dyson will do his best to chip at the ice", steven weinberg said of him. his friend, the neurologist and author oliver sacks, said: "a favourite word of freeman's about doing science and being creative is the word 'subversive'. he feels it's rather important not only to be not orthodox, but to be subversive, and he's done that all his life."[21][clarification needed]
+
+career in the united states[edit]
+on g. i. taylor's advice and recommendation, dyson moved to the united states in 1947 as a commonwealth fellow to earn a physics doctorate with hans bethe at cornell university (1947–48).[22][23] within a week, however, he had made the acquaintance of richard feynman.[24] the budding english physicist recognized the brilliance of the flamboyant american, and attached himself as quickly as possible. he then moved to the institute for advanced study (1948–49), before returning to england (1949–51), where he was a research fellow at the university of birmingham.[25] dyson never got his phd degree.
+in 1949, dyson demonstrated the equivalence of two then-current formulations of quantum electrodynamics (qed): richard feynman's diagrams and the operator method developed by julian schwinger and shin'ichirō tomonaga.[26] he was the first person after their creator to appreciate the power of feynman diagrams, and his paper written in 1948 and published in 1949 was the first to make use of them. he said in that paper that feynman diagrams were not just a computational tool, but a physical theory, and developed rules for the diagrams that completely solved the renormalization problem. dyson's paper and also his lectures presented feynman's theories of qed in a form that other physicists could understand, facilitating the physics community's acceptance of feynman's work. j. robert oppenheimer, in particular, was persuaded by dyson that feynman's new theory was as valid as schwinger's and tomonaga's. oppenheimer rewarded dyson with a lifetime appointment at the institute for advanced study, "for proving me wrong", in oppenheimer's words.[27]
+also in 1949, in related work, dyson invented the dyson series.[28] it was this paper that inspired john ward to derive his celebrated ward identity.[29]
+in 1951, dyson joined the faculty at cornell as a physics professor, although still lacking a doctorate, and in 1953, he received a permanent post at the institute for advanced study in princeton, new jersey, where he has now lived for more than sixty years.[21] in 1957, he became a naturalized citizen of the united states and renounced his british nationality. one reason he gave decades later is that his children born in the united states had not been recognized as british subjects.[7][8]
+from 1957 to 1961, he worked on project orion, which proposed the possibility of space-flight using nuclear pulse propulsion. a prototype was demonstrated using conventional explosives, but the 1963 partial test ban treaty, in which dyson was involved and supported, permitted only underground nuclear weapons testing, so the project was abandoned.
+in 1958, he led the design team for the triga, a small, inherently safe nuclear reactor used throughout the world in hospitals and universities for the production of medical isotopes.
+a seminal paper by dyson came in 1966, when, together with andrew lenard and independently of elliott h. lieb and walter thirring, he proved rigorously that the exclusion principle plays the main role in the stability of bulk matter.[30][31][32] hence, it is not the electromagnetic repulsion between outer-shell orbital electrons which prevents two wood blocks that are left on top of each other from coalescing into a single piece, but rather it is the exclusion principle applied to electrons and protons that generates the classical macroscopic normal force. in condensed matter physics, dyson also analysed the phase transition of the ising model in 1 dimension and spin waves.[33]
+dyson also did work in a variety of topics in mathematics, such as topology, analysis, number theory and random matrices.[33] there is an interesting story involving random matrices. in 1973, the number theorist hugh montgomery was visiting the institute for advanced study and had just made his pair correlation conjecture concerning the distribution of the zeros of the riemann zeta function. he showed his formula to the mathematician atle selberg, who said it looked like something in mathematical physics and he should show it to dyson, which he did. dyson recognized the formula as the pair correlation function of the gaussian unitary ensemble, which has been extensively studied by physicists. this suggested that there might be an unexpected connection between the distribution of primes (2, 3, 5, 7, 11,  ...) and the energy levels in the nuclei of heavy elements such as uranium.[34]
+around 1979, dyson worked with the institute for energy analysis on climate studies. this group, under the direction of alvin weinberg, pioneered multidisciplinary climate studies, including a strong biology group. also during the 1970s, he worked on climate studies conducted by the jason defense advisory group.[21]
+dyson retired from the institute for advanced study in 1994.[35] in 1998 he joined the board of the solar electric light fund. as of  2003[update] he was president of the space studies institute, the space research organization founded by gerard k. o'neill; as of  2013[update] he is on its board of trustees.[36] dyson is a longtime member of the jason group.
+dyson has won numerous scientific awards but never a nobel prize. nobel physics laureate steven weinberg has said that the nobel committee has "fleeced" dyson, but dyson himself remarked in 2009, "i think it's almost true without exception if you want to win a nobel prize, you should have a long attention span, get hold of some deep and important problem and stay with it for ten years. that wasn't my style."[21] dyson is a regular contributor to the new york review of books.
+in 2012, he published (with william h. press) a fundamental new result about the prisoner's dilemma in pnas.[37]
+
+family[edit]
+with his first wife, the swiss mathematician verena huber-dyson, dyson had two children, esther and george. in 1958, he married imme jung, a masters runner, and they had four more children, dorothy, mia, rebecca, and emily dyson.[21]
+dyson's eldest daughter, esther, is a digital technology consultant and investor; she has been called "the most influential woman in all the computer world."[38] his son, george, is a historian of science,[39] one of whose books is project orion: the atomic spaceship 1957–1965.
+
+concepts[edit]
+biotechnology and genetic engineering[edit]
+.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}my book the sun, the genome, and the internet (1999) describes a vision of green technology enriching villages all over the world and halting the migration from villages to megacities. the three components of the vision are all essential: the sun to provide energy where it is needed, the genome to provide plants that can convert sunlight into chemical fuels cheaply and efficiently, the internet to end the intellectual and economic isolation of rural populations. with all three components in place, every village in africa could enjoy its fair share of the blessings of civilization.[40]
+
+dyson cheerfully admits his record as a prophet is mixed, but "it is better to be wrong than to be vague."[41]
+"to answer the world's material needs, technology has to be not only beautiful but also cheap."[42]
+
+the origin of life[edit]
+dyson favors the dual origin concept: life first formed cells, then enzymes, and finally, much later, genes. this was first propounded by the russian alexander oparin.[43] j. b. s. haldane developed the same theory independently.[44] dyson has simplified things by saying simply that life evolved in two stages, widely separated in time. he regards it as too unlikely that genes could have developed fully blown in one process, because of the biochemistry. current cells contain adenosine triphosphate or atp and adenosine 5'-monophosphate or amp, which greatly resemble each other but have completely different functions. atp transports energy around the cell, and amp is part of rna and the genetic apparatus. dyson proposes that in a primitive early cell containing atp and amp, rna and replication were invented accidentally because of the similarity between amp and rna. he suggests that amp was produced when atp molecules lost two of their phosphate radicals, and then one cell somewhere performed eigen's experiment and produced rna.
+
+unfortunately there is no direct evidence for the dual origin concept, because once genes developed, they took over, obliterating all traces of the earlier forms of life. in the first origin, the cells were probably just drops of water held together by surface tension, teeming with enzymes and chemical reactions, and a primitive kind of growth or replication. when the liquid drop became too big, it split into two drops. many complex molecules formed in these "little city economies" and the probability that genes would eventually develop in them was much greater than in the prebiotic environment.[45] artist's concept of dyson rings, forming a stable dyson swarm, or "dyson sphere"
+dyson sphere[edit]
+main article: dyson sphere
+one should expect that, within a few thousand years of its entering the stage of industrial development, any intelligent species should be found occupying an artificial biosphere which completely surrounds its parent star.[46]
+
+in 1960, dyson wrote a short paper for the journal science, titled "search for artificial stellar sources of infrared radiation".[47] in it, he theorized that a technologically advanced extraterrestrial civilization might completely surround its native star with artificial structures in order to maximize the capture of the star's available energy. eventually, the civilization would completely enclose the star, intercepting electromagnetic radiation with wavelengths from visible light downwards and radiating waste heat outwards as infrared radiation. therefore, one method of searching for extraterrestrial civilizations would be to look for large objects radiating in the infrared range of the electromagnetic spectrum.
+dyson conceived that such structures would be clouds of asteroid-sized space habitats, though science fiction writers have preferred a solid structure: either way, such an artifact is often called a dyson sphere, although dyson used the term "shell". dyson says that he used the term "artificial biosphere" in the article to mean a habitat, not a shape.[48] the general concept of such an energy-transferring shell had been advanced decades earlier by author olaf stapledon in his 1937 novel star maker, a source dyson has credited publicly.[49][50]
+
+dyson tree[edit]
+main article: dyson tree
+dyson has also proposed the creation of a dyson tree, a genetically engineered plant capable of growing on a comet. he suggested that comets could be engineered to contain hollow spaces filled with a breathable atmosphere, thus providing self-sustaining habitats for humanity in the outer solar system.
+
+plants could grow greenhouses ... just as turtles grow shells and polar bears grow fur and polyps build coral reefs in tropical seas. these plants could keep warm by the light from a distant sun and conserve the oxygen that they produce by photosynthesis. the greenhouse would consist of a thick skin providing thermal insulation, with small transparent windows to admit sunlight. outside the skin would be an array of simple lenses, focusing sunlight through the windows into the interior ... groups of greenhouses could grow together to form extended habitats for other species of plants and animals.[51]
+
+space colonies[edit]
+i've done some historical research on the costs of the mayflower's voyage, and on the mormons' emigration to utah, and i think it's possible to go into space on a much smaller scale. a cost on the order of $40,000 per person [1978 dollars, $143,254 in 2013 dollars] would be the target to shoot for; in terms of real wages, that would make it comparable to the colonization of america. unless it's brought down to that level it's not really interesting to me, because otherwise it would be a luxury that only governments could afford.[46]
+
+dyson has been interested in space travel since he was a child, reading such science fiction classics as olaf stapledon's star maker. as a young man, he worked for general atomics on the nuclear-powered orion spacecraft. he hoped project orion would put men on mars by 1965, saturn by 1970. he's been unhappy for a quarter-century about how the government conducts space travel:
+
+the problem is, of course, that they can't afford to fail. the rules of the game are that you don't take a chance, because if you fail, then probably your whole program gets wiped out.[46]
+
+he still hopes for cheap space travel, but is resigned to waiting for private entrepreneurs to develop something new and inexpensive.
+
+no law of physics or biology forbids cheap travel and settlement all over the solar system and beyond. but it is impossible to predict how long this will take. predictions of the dates of future achievements are notoriously fallible. my guess is that the era of cheap unmanned missions will be the next fifty years, and the era of cheap manned missions will start sometime late in the twenty-first century.
+any affordable program of manned exploration must be centered in biology, and its time frame tied to the time frame of biotechnology; a hundred years, roughly the time it will take us to learn to grow warm-blooded plants, is probably reasonable.[51]
+
+
+dyson also proposed the use of bioengineered space colonies to colonize the kuiper belt on the outer edge of our solar system. he proposed that habitats could be grown from space hardened spores. the colonies could then be warmed by large reflector plant leaves that could focus the dim, distant sunlight back on the growing colony. this was illustrated by pat rawlings on the cover of the national space society's ad astra magazine.
+
+space exploration[edit]
+a direct search for life in europa's ocean would today be prohibitively expensive. impacts on europa give us an easier way to look for evidence of life there. every time a major impact occurs on europa, a vast quantity of water is splashed from the ocean into the space around jupiter. some of the water evaporates, and some condenses into snow. creatures living in the water far enough from the impact have a chance of being splashed intact into space and quickly freeze-dried. therefore, an easy way to look for evidence of life in europa's ocean is to look for freeze-dried fish in the ring of space debris orbiting jupiter.
+freeze-dried fish orbiting jupiter is a fanciful notion, but nature in the biological realm has a tendency to be fanciful. nature is usually more imaginative than we are. ... to have the best chance of success, we should keep our eyes open for all possibilities.[51]
+
+
+dyson's eternal intelligence[edit]
+main article: dyson's eternal intelligence
+dyson has proposed that intelligent beings may be capable of thinking an infinite number of thoughts in an open/expanding universe.[52]
+
+dyson's transform[edit]
+main article: dyson's transform
+dyson also has some credits in pure mathematics. his concept "dyson's transform" led to one of the most important lemmas of olivier ramaré's theorem: that every even integer can be written as a sum of no more than six primes.
+
+dyson series[edit]
+the dyson series, the formal solution of an explicitly time-dependent schrödinger equation by iteration, and the corresponding dyson time-ordering operator 
+
+
+
+
+
+t
+
+
+
+,
+
+
+{\displaystyle {\mathcal {t}}\,,}
+
+ an entity of basic importance in the mathematical formulation of quantum mechanics, are also named after dyson.
+
+ freeman dyson in 2007 at the institute for advanced study
+quantum physics and prime numbers[edit]
+dyson and hugh montgomery discovered together an intriguing connection between quantum physics and montgomery's pair correlation conjecture about the zeros of the zeta function. the primes 2, 3, 5, 7, 11, 13, 17, 19, ... are described by the riemann zeta function, and dyson had previously developed a description of quantum physics based on m by m arrays of totally random numbers.[53] what montgomery and dyson discovered is that the eigenvalues of these matrices are spaced apart in exactly the same manner as montgomery conjectured for the nontrivial zeros of the zeta function. andrew odlyzko has verified the conjecture on a computer, using his odlyzko–schönhage algorithm to calculate many zeros. dyson recognized this connection because of a number-theory question montgomery asked him. dyson had published results in number theory in 1947, while a fellow at trinity college, cambridge and so was able to understand montgomery's question. if montgomery had not been visiting the institute for advanced study that week, this connection might not have been discovered.
+there are in nature one, two, and three dimensional quasicrystals. mathematicians define a quasicrystal as a set of discrete points whose fourier transform is also a set of discrete points. odlyzko has done extensive computations of the fourier transform of the nontrivial zeros of the zeta function, and they seem to form a one-dimensional quasicrystal. this would in fact follow from the riemann hypothesis.[54]
+
+views[edit]
+climate change[edit]
+dyson agrees that anthropogenic global warming exists: "[one] of the main causes of warming is the increase of carbon dioxide in the atmosphere resulting from our burning of fossil fuels such as oil and coal and natural gas".[55] but he believes that existing simulation models of climate fail to account for some important factors, and hence the results contain too much error to reliably predict future trends:
+
+the models solve the equations of fluid dynamics, and they do a very good job of describing the fluid motions of the atmosphere and the oceans. they do a very poor job of describing the clouds, the dust, the chemistry and the biology of fields and farms and forests. they do not begin to describe the real world we live in ...[55]
+
+and, in 2009:
+
+what has happened in the past 10 years is that the discrepancies between what's observed and what's predicted have become much stronger. it's clear now the models are wrong, but it wasn't so clear 10 years ago.[56]
+
+he is among signatories of a letter to the un criticizing the intergovernmental panel on climate change (ipcc),[57][58] and has also argued against ostracizing scientists whose views depart from the acknowledged mainstream of scientific opinion on climate change, stating that "heretics" have historically been an important force in driving scientific progress. "[h]eretics who question the dogmas are needed  ... i am proud to be a heretic. the world always needs heretics to challenge the prevailing orthodoxies."[55]
+dyson's views on global warming have been strongly criticized. in reply, he notes that "[m]y objections to the global warming propaganda are not so much over the technical facts, about which i do not know much, but it's rather against the way those people behave and the kind of intolerance to criticism that a lot of them have."[59]
+in 2008, he endorsed the now common usage of "global warming" as synonymous with global anthropogenic climate change, referring to "measurements that transformed global warming from a vague theoretical speculation into a precise observational science."[60]
+he has, however, argued that political efforts to reduce the causes of climate change distract from other global problems that should take priority:
+
+i'm not saying the warming doesn't cause problems; obviously it does. obviously we should be trying to understand it. i'm saying that the problems are being grossly exaggerated. they take away money and attention from other problems that are much more urgent and important. poverty, infectious diseases, public education and public health. not to mention the preservation of living creatures on land and in the oceans.[61]
+
+in an opinion piece in the boston globe of 3 dec 2015 he wrote,
+
+[t]he environmental movement [has been] hijacked by a bunch of climate fanatics, who have captured the attention of the public with scare stories. ...
+china and india have a simple choice to make. either they get rich [by burning prodigious quantities of coal and causing] a major increase of atmospheric carbon dioxide, or they stay poor. i hope they choose to get rich. ...
+the good news is that the main effect of carbon dioxide ... is to make the planet greener, [by] feeding the growth of green plants of all kinds [and] increasing the fertility of farms and fields and forests."[62]
+
+
+since originally taking interest in climate studies in the 1970s, dyson has suggested that carbon dioxide levels in the atmosphere could be controlled by planting fast-growing trees. he calculates that it would take a trillion trees to remove all carbon from the atmosphere.[63][21]
+in a 2014 interview, he said, "what i'm convinced of is that we don't understand climate ...  it will take a lot of very hard work before that question is settled."[4]
+he is a member of the academic advisory council of the global warming policy foundation, a climate sceptic think tank chaired by nigel lawson.[64]
+
+warfare and weapons[edit]
+at the british bomber command, dyson and colleagues proposed removing two gun turrets from the raf lancaster bombers, to cut the catastrophic losses due to german fighters in the battle of berlin. a lancaster without turrets could fly 50 mph (80 km/h) faster and be much more maneuverable.
+
+all our advice to the commander in chief [went] through the chief of our section, who was a career civil servant. his guiding principle was to tell the commander in chief things that the commander in chief liked to hear ... to push the idea of ripping out gun turrets, against the official mythology of the gallant gunner defending his crew mates ... was not the kind of suggestion the commander in chief liked to hear.[65]
+
+on hearing the news of the bombing of hiroshima:
+
+i agreed emphatically with henry stimson. once we had got ourselves into the business of bombing cities, we might as well do the job competently and get it over with. i felt better that morning than i had felt for years ... those fellows who had built the atomic bombs obviously knew their stuff ... later, much later, i would remember [the downside].[66]
+
+i am convinced that to avoid nuclear war it is not sufficient to be afraid of it. it is necessary to be afraid, but it is equally necessary to understand. and the first step in understanding is to recognize that the problem of nuclear war is basically not technical but human and historical. if we are to avoid destruction we must first of all understand the human and historical context out of which destruction arises.[67]
+
+in 1967, in his capacity as a military adviser, dyson wrote an influential paper on the issue of possible us use of tactical nuclear weapons in the vietnam war. when a general said in a meeting, "i think it might be a good idea to throw in a nuke now and then, just to keep the other side guessing ..."[68] dyson became alarmed and obtained permission to write a report on the pros and cons of using such weapons from a purely military point of view. (this report, tactical nuclear weapons in southeast asia, published by the institute for defense analyses, was obtained, with some redactions, by the nautilus institute for security and sustainability under the freedom of information act in 2002.)[69] it was sufficiently objective that both sides in the debate based their arguments on it. dyson says that the report showed that, even from a narrow military point of view, the us was better off not using nuclear weapons. dyson stated on the dick cavett show that the use of nuclear weaponry was a bad idea for the us at the time because "our targets were large and theirs were small." (his unstated assumption was that the soviets would respond by supplying tactical nukes to the other side.)
+dyson opposed the vietnam war, the gulf war and the invasion of iraq. he supported barack obama in the 2008 us presidential election and the new york times has described him as a political liberal.[21] he was one of 29 leading us scientists who wrote obama a strongly supportive letter about his administration's 2015 nuclear deal with iran.[70]
+
+science and religion[edit]
+dyson is a nondenominational christian and has attended various churches, from presbyterian to roman catholic. regarding doctrinal or christological issues, he has said, "i am neither a saint nor a theologian. to me, good works are more important than theology."[71]
+
+science and religion are two windows that people look through, trying to understand the big universe outside, trying to understand why we are here. the two windows give different views, but they look out at the same universe. both views are one-sided, neither is complete. both leave out essential features of the real world. and both are worthy of respect.
+trouble arises when either science or religion claims universal jurisdiction, when either religious or scientific dogma claims to be infallible. religious creationists and scientific materialists are equally dogmatic and insensitive. by their arrogance they bring both science and religion into disrepute. the media exaggerate their numbers and importance. the media rarely mention the fact that the great majority of religious people belong to moderate denominations that treat science with respect, or the fact that the great majority of scientists treat religion with respect so long as religion does not claim jurisdiction over scientific questions.[71]
+
+
+dyson partially disagrees with the famous remark by his fellow physicist steven weinberg that "with or without religion, good people can behave well and bad people can do evil; but for good people to do evil—that takes religion."[72]
+
+weinberg's statement is true as far as it goes, but it is not the whole truth. to make it the whole truth, we must add an additional clause: "and for bad people to do good things—that [also] takes religion." the main point of christianity is that it is a religion for sinners. jesus made that very clear. when the pharisees asked his disciples, "why eateth your master with publicans and sinners?" he said, "i come to call not the righteous but sinners to repentance." only a small fraction of sinners repent and do good things but only a small fraction of good people are led by their religion to do bad things.[72]
+
+while dyson has called himself a christian, he identifies himself as agnostic about some of the specifics of his faith.[73][74] for example, here is a passage from dyson's review of the god of hope and the end of the world from john polkinghorne:
+
+i am myself a christian, a member of a community that preserves an ancient heritage of great literature and great music, provides help and counsel to young and old when they are in trouble, educates children in moral responsibility, and worships god in its own fashion. but i find polkinghorne's theology altogether too narrow for my taste. i have no use for a theology that claims to know the answers to deep questions but bases its arguments on the beliefs of a single tribe. i am a practicing christian but not a believing christian. to me, to worship god means to recognize that mind and intelligence are woven into the fabric of our universe in a way that altogether surpasses our comprehension.[75]
+
+in the god delusion (2006), biologist richard dawkins criticized dyson for accepting the religious templeton prize in 2000; "it would be taken as an endorsement of religion by one of the world's most distinguished physicists."[76] in 2000 dyson declared that he is a (non-denominational) christian,[71] and he has disagreed with dawkins on several occasions, as when he criticized dawkins' understanding of evolution.[77]
+
+honours and awards[edit]
+dyson was elected a fellow of the royal society (frs) in 1952.[3]
+dyson was awarded the lorentz medal in 1966, max planck medal in 1969, the j. robert oppenheimer memorial prize in 1970,[78][79] and the harvey prize in 1977.
+in the 1984–85 academic year, he gave the gifford lectures at aberdeen, which resulted in the book infinite in all directions.
+in 1989, dyson taught at duke university as a fritz london memorial lecturer. in the same year, he was elected as an honorary fellow of trinity college, university of cambridge.
+dyson has published a number of collections of speculations and observations about technology, science, and the future.  in 1996, he was awarded the lewis thomas prize for writing about science.
+in 1993, dyson was given the enrico fermi award.
+in 1995, he gave the jerusalem-harvard lectures at the hebrew university of jerusalem, sponsored jointly by the hebrew university and harvard university press that grew into the book imagined  worlds.[80]
+in 2000, dyson was awarded the templeton prize for progress in religion.[81]
+in 2003, dyson was awarded the telluride tech festival award of technology in telluride, colorado.
+in 2011, dyson received as one of twenty distinguished old wykehamists at the ad portas celebration, the highest honour that winchester college bestows.
+in 2018, dyson received the first presidential science and humanism award from the american university of beirut.[82]
+works[edit]
+books[edit]
+external video freeman dyson: let's look for life in the outer solar system, ted talks, february 2003 freeman dyson 1 - my middle class upbringing, web of stories (1st of a series) big ideas: freeman dyson on living through four revolutions, tvo, 1 june 2011 at perimeter institute, waterloo, canada
+symmetry groups in nuclear and particle physics, 1966 (academic-oriented text)
+interstellar transport, physics today 1968
+disturbing the universe, 1979, .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}isbn 978-0-465-01677-8. review (scroll down)
+weapons and hope, 1984 (winner of the national book critics circle award).[21] review
+origins of life, 1985. second edition, 1999.  review
+infinite in all directions, 1988, isbn 0-14-014482-x. review
+from eros to gaia, 1992
+selected papers of freeman dyson, (selected works up to 1990) american mathematical society, 1996.
+imagined worlds, harvard university press 1997, isbn 978-0-674-53908-2.  review
+the sun, the genome and the internet, 1999.  review
+l'importanza di essere imprevedibile, di renzo editore, 2003
+the scientist as rebel, 2006. review
+advanced quantum mechanics, world scientific, 2007, isbn 978-981-270-661-4.  freely available at: arxiv:quant-ph/0608140. (dyson's 1951 cornell lecture notes transcribed by david derbes)
+a many-colored glass: reflections on the place of life in the universe, university of virginia press, 2007. review
+birds and frogs: selected papers, 1990–2014, world scientific publishing company, 2015.
+dreams of earth and sky. new york review books. 2015. isbn 9781590178546.
+maker of patterns: an autobiography through letters, liveright/w.w. norton, 2018.
+articles[edit]
+"freeman dyson: by the book". sunday book review. the new york times (interview). 18 april 2015. p. 8.[83]
+"birds and frogs" – notices of the american mathematical society, 2009[84]
+documentaries[edit]
+to mars by a-bomb: the secret history of project orion
+een schitterend ongeluk
+the oakes
+atomic dream
+2001: the science of futures past
+cool it
+nuclear dynamite
+gaia symphony iii
+the starship and the canoe
+the day after trinity
+the untold history of the united states
+the uncertainty has settled
+a glorious accident
+see also[edit]
+abiogenesis
+a. i. shlyakhter
+astrochicken
+helios (propulsion system)
+list of science and religion scholars
+list of things named after freeman dyson
+lumpers and splitters
+the 2005 global intellectuals poll
+rank of a partition
+crank of a partition
+references[edit]
+
+
+^ dyson, freeman. "alma mater". web of stories.[dead link]
+
+^ "obituary of verena huber-dyson". moles farewell tributes. 12 march 2016. retrieved 3 december 2017.
+
+^ a b "professor freeman dyson frs". london: royal society. archived from the original on 2015-11-16.
+
+^ a b c 
+lin, thomas (2014-03-31). "at 90, freeman dyson ponders his next challenge". wired. retrieved 2014-04-02.
+
+^ freeman dyson | school of natural sciences
+
+^ dyson, freeman. "influences".
+
+^ a b "scientist wins $1m religion prize". bbc news. 9 may 2000. retrieved 2010-05-02.
+
+^ a b dyson, f.j. (1979). disturbing the universe, p. 131, "i had finally become an american ... the decision to abjure my allegiance to queen elizabeth might have been a difficult one, but the queen's ministers made it easy for me."
+
+^ "ralston college". retrieved 30 january 2016.
+
+^ board of sponsors. bulletin of the atomic scientists. retrieved 3 december 2017.
+
+^ "the scientist as rebel". retrieved 5 december 2017. wild river review interview by joy e. stocke
+
+^ freeman dyson. from eros to gaia 1992 p.vii
+
+^ greatest mysteries of the cold war: america's interplanetary spaceship (project orion) (video). bbc four.
+
+^ ghodsee, kristen (2015). the left side of history: world war ii and the unfulfilled promise of communism in eastern europe. durham, nc: duke university press. p. 5. isbn 978-0-822-35823-7.
+
+^ a b dyson, freeman (1 november 2006). "a failure of intelligence". mit technology review magazine. mit technology review. retrieved 20 october 2013. prominent physicist freeman dyson recalls the time he spent developing analytical methods to help the british royal air force bomb german targets during world war ii.
+
+^ fractals in physics: essays in honour of benoit b. mandelbrot : proceedings of the international conference honouring benoit b. mandelbrot on his 65th birthday, vence, france, 1–4 october 1989, p. 66
+
+^ "freeman dyson". institute for advanced study, school of natural sciences. princeton university. retrieved 15 april 2014.
+
+^ dyson, f. (10 nov 2011) "what can you really know", new york review of books
+
+^ "the approximation to algebraic numbers by rationals," acta mathematica (uppsala), 89, 1947, pp. 225–240.
+
+^ 
+"on simultaneous diophantine approximations," proceedings of the london
+mathematical society, series 2, 49, 1947, pp. 409–420.
+
+^ a b c d e f g h dawidoff, nicholas (25 march 2009). "the civil heretic". the new york times magazine.
+
+^ freeman dyson (17 december 1986). "freeman dyson". oral history interviews (interview). interviewed by finn aaserud. princeton, new jersey: american institute of physics.
+
+^ schweber, silvan s. (1994). qed and the men who made it. princeton, nj: princeton university press. pp. 392ff.
+
+^ "freeman dyson: a 'rebel' without a ph.d". quanta magazine. 11 june 2015. event at 1:17. retrieved 20 january 2016.
+
+^ "freeman dyson". the american institute of physics. archived from the original on 17 october 2013. retrieved 23 august 2013.
+
+^ f. j. dyson (1949). "the radiation theories of tomonaga, schwinger, and feynman". phys. rev. 75 (3): 486–502. bibcode:1949phrv...75..486d. doi:10.1103/physrev.75.486.
+
+^ dyson, freeman j. (1979). disturbing the universe. basic books. isbn 978-0-465-01677-8.
+
+^ f. j. dyson (1949). "the s matrix in quantum electrodynamics". phys. rev. 75 (11): 1736–1755. bibcode:1949phrv...75.1736d. doi:10.1103/physrev.75.1736.
+
+^ j. c. ward (1950). "an identity in quantum electrodynamics". phys. rev. 78 (2): 182. bibcode:1950phrv...78..182w. doi:10.1103/physrev.78.182.. [note: this ward letter opens with "it has been recently proven by dyson ..."]
+
+^ f. j. dyson, a. lenard (1967). "stability of matter. i". j. math. phys. 8 (3): 423–434. bibcode:1967jmp.....8..423d. doi:10.1063/1.1705209.
+
+^ f. j. dyson, a. lenard (1968). "stability of matter. ii". j. math. phys. 9 (5): 698–711. bibcode:1968jmp.....9..698l. doi:10.1063/1.1664631.
+
+^ e. h. lieb, w. thirring (1975). "bound for the kinetic energy of fermions which proves the stability of matter". phys. rev. lett. 35 (11): 687–689. bibcode:1975phrvl..35..687l. doi:10.1103/physrevlett.35.687.
+
+^ a b f. j. dyson, e. h. lieb, selected papers by freeman dyson, ams (1996).
+
+^ john derbyshire, prime obsession, 2004, isbn 0309085497.
+
+^ "interviews freeman dyson". national academy of sciences. 23 july 2004. archived from the original on 1 december 2017. retrieved 19 december 2011.
+
+^ "officers and board". space studies institute. retrieved 6 january 2013.
+
+^ "iterated prisoner's dilemma contains strategies that dominate any evolutionary opponent". william h. press and freeman dyson. pnas vol. 109 no. 26 pp 0409–10413
+
+^ mckelvey, tara (27 may 2014). "esther dyson: breaking through tech's glass ceiling". bbc. retrieved 11 february 2017.
+
+^ see excerpt from digerati: encounters with the cyber elite by john brockman (hardwired books, 1996)
+
+^ dyson, f. (19 july 2007) "our biotech future", new york review of books. retrieved on 2011-10-07.
+
+^ dyson, f.j. (1999) the sun, the genome, and the internet
+
+^ dyson, f.j. (1979). "the greening of the galaxy" in disturbing the universe
+
+^ oparin, a. i. the origin of life, moscow worker publisher, 1924 (russian)
+
+^ the origin of life, j.b.s.haldane, the rationalist annual, 1929
+
+^ freeman dyson, origins of life,,. second edition, cambridge university press, 1999
+
+^ a b c freeman dyson (october 1978). "freeman dyson: imagine …". omni (interview). interviewed by monte davis. archived from the original on 1998-12-07. retrieved 2006-12-17.cs1 maint: unfit url (link)
+
+^ dyson, freeman j. (3 june 1960). "search for artificial stellar sources of infrared radiation". science. 131 (3414): 1667–1668. bibcode:1960sci...131.1667d. doi:10.1126/science.131.3414.1667. pmid 17780673.
+
+^ 20 minutes into a video
+
+^ dyson, freeman (1 june 2011). living through four revolutions (speech). perimeter institute public lecture series. waterloo, ontario, canada.
+
+^ dyson, f.j. (1979). disturbing the universe, p. 211, "some science fiction writers have wrongly given me the credit of inventing the artificial biosphere. in fact, i took the idea from olaf stapledon, one of their own colleagues"
+
+^ a b c dyson, fj, "warm-blooded plants and freeze-dried fish: the future of space exploration. played" the atlantic monthly, november 1997 subscribers only
+
+^ freeman j. dyson, "time without end: physics and biology in an open universe," reviews of modern physics, vol. 51, issue 3 (july 1979), pp. 447-460; doi:10.1103/revmodphys.51.447.
+
+^ dyson, freeman j. (1962). "a brownian?motion model for the eigenvalues of a random matrix". j. math. phys. 3 (6): 1191. bibcode:1962jmp.....3.1191d. doi:10.1063/1.1703862.
+
+^ freeman dyson, selected papers, 1990-2014, pp. 41–42, world scientific, 2015
+
+^ a b c freeman dyson (8 august 2007). "heretical thoughts about science and society". edge. retrieved 2007-09-05.dl
+
+^ "top boffin freeman dyson on climate change, interstellar travel, fusion, and more", interview published 2 june 2009 by the register
+
+^ "don't fight, adapt". archived from the original on 11 september 2016. retrieved 19 august 2016. open letter to the secretary-general of the united nations. national post. 13 december 2007
+
+^ n/a (16 december 2007). "wiggles". open mind. archived from the original on 17 december 2009.
+
+^ "freeman dyson takes on the climate establishment", interview published 2 june 2009 by yale university's environment 360
+
+^ dyson, f. (12 june 2008) "the question of global warming", the new york review of books. retrieved on 2011-10-07.
+
+^ "university of michigan 2005 winter commencement address". university of michigan. archived from the original on 31 august 2006.
+
+^ dyson, freeman (3 dec 2015). "misunderstandings, questionable beliefs mar paris climate talks". boston globe. retrieved 7 december 2015.
+
+^ freeman j. dyson, "can we control the carbon dioxide in the atmosphere?", energy, volume 2, issue 3, september 1977, pages 287–291. doi:10.1016/0360-5442(77)90033-0
+
+^ "academic advisory council". the global warming policy foundation (gwpf). retrieved 2017-01-19.
+
+^ dyson, f.j. (1979). "the children's crusade" in disturbing the universe
+
+^ dyson, f.j. (1979). "the blood of a poet" in disturbing the universe
+
+^ dyson, f.j. (1984) weapons and hope
+
+^ dyson, f.j. (1979). "the ethics of defense" in disturbing the universe, p. 149.
+
+^ f.j. dyson, r. gomer, s. weinberg, s.c. wright "tactical nuclear weapons in southeast asia" (march 1967) [declassified december 2002]
+
+^ broad, william j. (8 august 2015). "29 u.s. scientists praise iran nuclear deal in letter to obama". the new york times. retrieved 9 august 2015.
+
+^ a b c freeman dyson (15 march 2000). progress in religion (speech). templeton prize lecture. retrieved 2011-10-07  – via edge.org.
+
+^ a b freeman dyson (22 june 2006). "religion from the outside". the new york review of books. retrieved 2011-10-07.
+
+^ moses gbenu (june 2003). back to hell. xulon press. p. 110. isbn 9781591608158. retrieved 15 february 2014. the cash part of this award is over $1 million. three facts are significant about this award. first, the same award was given to an agnostic mathematician freeman dyson, the buddhist dalai lama, mother theresa, and charles r. filmore, son of the founder of the mind-science cult, unity.
+
+^ karl giberson; donald a. yerxa (2002). species of origins: america's search for a creation story. rowman & littlefield. p. 141. isbn 9780742507654. retrieved 15 february 2014. dyson is not a hard-nosed materialist and, in fact, criticizes his colleagues who champion that viewpoint. officially, he calls himself an agnostic, but his writings make it clear that his agnosticism is tinged with something akin to deism.
+
+^ freeman dyson (28 march 2002). "science & religion: no ends in sight". the new york review of books. retrieved 30 july 2012.
+
+^ dawkins, richard (2006). the god delusion. bantam press. p. 152. isbn 978-0-61868-000-9.
+
+^ john brockman (2007). "richard dawkins—freeman dyson: an exchange". edge.org. retrieved 21 october 2015.
+
+^ walter, claire (1982). winners, the blue ribbon encyclopedia of awards. facts on file inc. p. 438. isbn 9780871963864.
+
+^ "theoreticians name dyson as winner of oppenheimer prize". physics today. 23 (3): 97. march 1970. bibcode:1970pht....23c..97.. doi:10.1063/1.3022048.
+
+^ dyson, freeman (september 1998). imagined worlds. the jerusalem-harvard lectures. hup. p. 224. isbn 9780674539099.
+
+^ steve connor (23 march 2000). "£600,000 prize for physicist who urges ethics in science". the independent. retrieved 15 october 2015.
+
+^ https://www.aub.edu.lb/articles/pages/first-presidential-science-humanism-award-physicist-freeman-dyson.aspx
+
+^ "freeman dyson: by the book". the new york times (interview). 16 april 2015.
+
+^ dyson, freeman (february 2009). "birds and frogs" (pdf). notices of the american mathematical society. 56 (2): 212–223. issn 1088-9477. archived (pdf) from the original on 2011-03-04. retrieved 2015-04-23.
+
+
+further reading[edit]
+brower, kenneth, 1978.  the starship and the canoe, holt, rinehart and winston.
+schweber, silvan s. (1994). qed and the men who made it: dyson, feynman, schwinger, and tomonaga. princeton university press. isbn 978-0-691-03327-3.
+schewe, phillip f., 2014. maverick genius: the pioneering odyssey of freeman dyson. st. martin's griffin:  isbn 978-1250042569.
+external links[edit]
+
+
+
+wikiquote has quotations related to: freeman dyson
+
+
+
+wikimedia commons has media related to freeman dyson.
+official website 
+by dyson[edit]
+freeman dyson at the new york review of books
+templeton prize acceptance lecture 2000, by freeman dyson
+imagined worlds by freeman dyson, 1996: chapter 1
+video interview of freeman dyson discussing bogus climate models on youtube
+a radio interview with freeman dyson aired on the lewis burke frumkes radio show in 2009.
+tactical nuclear weapons in southeast asia, published march 1967 (declassified december 2002)
+suzan mazur interviewing dyson, 2012
+"pushing the boundaries - a conversation with freeman dyson", ideas roadshow, 2014
+about dyson[edit]
+"the civil heretic", profile at the new york times magazine by nicholas dawidoff, 25 march 2009
+interview, 4 june 2009, dyson comments on the misleading overemphasis of his climate-change views in the new york times profile.
+freeman dyson wins $1m religion prize, 9 may 2000
+"freeman dyson's brain", interview by stewart brand at wired, 1998
+oral history interview transcript with freeman j. dyson 17 december 1986, american institute of physics, niels bohr library and archives
+2008 video interview with freeman dyson by atomic heritage foundation voices of the manhattan project
+roberts, russ (7 march 2011). "dyson on heresy, climate change, and science". econtalk. library of economics and liberty.
+freeman dyson at ted
+authority control 
+bibsys: 90227946
+bne: xx912949
+bnf: cb123088859 (data)
+cinii: da00904818
+dblp: 94/6280
+gnd: 119206269
+isni: 0000 0001 1873 6639
+lccn: n79056129
+lnb: 000048711
+ndl: 00438517
+nkc: jx20111005004
+nla: 36063439
+iccu: it\iccu\parv\133628
+selibr: 326255
+snac: w6125vkp
+sudoc: 031970443
+viaf: 19745011
+ worldcat identities (via viaf): 19745011
+
+vtelaureates of the wolf prize in physics1970s
+chien-shiung wu (1978)
+george uhlenbeck / giuseppe occhialini (1979)
+1980s
+michael fisher / leo kadanoff / kenneth g. wilson (1980)
+freeman dyson / gerardus 't hooft / victor weisskopf (1981)
+leon m. lederman / martin lewis perl (1982)
+erwin hahn / peter hirsch / theodore maiman (1983–84)
+conyers herring / philippe nozières (1984–85)
+mitchell feigenbaum / albert j. libchaber (1986)
+herbert friedman / bruno rossi / riccardo giacconi (1987)
+roger penrose / stephen hawking (1988)
+1990s
+pierre-gilles de gennes / david j. thouless (1990)
+maurice goldhaber / valentine telegdi (1991)
+joseph h. taylor jr. (1992)
+benoît mandelbrot (1993)
+vitaly ginzburg / yoichiro nambu (1994–95)
+john wheeler (1996–97)
+yakir aharonov / michael berry (1998)
+dan shechtman (1999)
+2000s
+raymond davis jr. / masatoshi koshiba (2000)
+bertrand halperin / anthony leggett (2002–03)
+robert brout / françois englert / peter higgs (2004)
+daniel kleppner (2005)
+albert fert / peter grünberg (2006–07)
+2010s
+john f. clauser / alain aspect / anton zeilinger (2010)
+maximilian haider / harald rose / knut urban (2011)
+jacob bekenstein (2012)
+peter zoller / juan ignacio cirac (2013)
+james d. bjorken / robert p. kirshner (2015)
+yoseph imry (2016)
+michel mayor / didier queloz (2017)
+charles h. bennett / gilles brassard (2018)
+
+agriculture
+arts
+chemistry
+mathematics
+medicine
+physics
+
+vtematteucci medallists1851-1900
+hermann helmholtz (1868)
+henri victor regnault (1875)
+william thomson, 1st baron kelvin (1876)
+gustav kirchhoff (1877)
+gustav wiedemann (1878)
+wilhelm weber (1879)
+antonio pacinotti (1880)
+emilio villari (1881)
+augusto righi (1882)
+thomas edison (1887)
+heinrich rudolph hertz (1888)
+john strutt, 3rd baron rayleigh (1894)
+henry augustus rowland (1895)
+wilhelm conrad röntgen / philipp lenard (1896)
+1901-1950
+guglielmo marconi (1901)
+albert a. michelson (1903)
+marie curie / pierre curie (1904)
+henri poincaré (1905)
+james dewar (1906)
+william ramsay (1907)
+antonio garbasso (1908)
+orso mario corbino (1909)
+heike kamerlingh onnes (1910)
+jean perrin (1911)
+pieter zeeman (1912)
+ernest rutherford (1913)
+max von laue (1914)
+johannes stark (1915)
+william henry bragg / lawrence bragg (1915)
+antonino lo surdo (1917)
+robert w. wood (1918)
+henry gwyn-jeffreys moseley (1919)
+albert einstein (1921)
+niels bohr (1923)
+arnold sommerfeld (1924)
+robert andrews millikan (1925)
+enrico fermi (1926)
+erwin schrödinger (1927)
+venkata raman chandrasekhara (1928)
+werner heisenberg (1929)
+arthur compton (1930)
+franco rasetti (1931)
+frédéric joliot / irène joliot-curie (1932)
+1951-2000
+wolfgang pauli (1956)
+bruno touschek (1975)
+abdus salam (1978)
+luciano maiani (1979)
+giancarlo wick (1980)
+rudolf peierls (1982)
+hendrik casimir (1985)
+pierre-gilles de gennes (1987)
+lev okun (1988)
+freeman dyson (1989)
+jack steinberger (1990)
+bruno rossi (1991)
+anatole abragam (1992)
+john archibald wheeler (1993)
+claude cohen-tannoudji (1994)
+tsung-dao lee (1995)
+wolfgang k.h. panofsky (1996)
+oreste piccioni (1998)
+2001-present
+theodor w. hänsch (2001)
+nicola cabibbo (2002)
+manuel cardona (2003)
+david ruelle (2004)
+john iliopoulos (2005)
+giorgio bellettini (2006)
+adalberto giazotto (2016)
+marco tavani (2017)
+
+vtetempleton prize laureates1970s
+mother teresa (1973)
+brother roger (1974)
+sarvepalli radhakrishnan (1975)
+leo josef suenens (1976)
+chiara lubich (1977)
+thomas f. torrance (1978)
+nikkyō niwano (1979)
+1980s
+ralph wendell burhoe (1980)
+cicely saunders (1981)
+billy graham (1982)
+aleksandr solzhenitsyn (1983)
+michael bourdeaux (1984)
+alister hardy (1985)
+james i. mccord (1986)
+stanley jaki (1987)
+inamullah khan (1988)
+carl friedrich von weizsäcker & george macleod (1989)
+1990s
+baba amte & charles birch (1990)
+immanuel jakobovits (1991)
+kyung-chik han (1992)
+charles colson (1993)
+michael novak (1994)
+paul davies (1995)
+bill bright (1996)
+pandurang shastri athavale (1997)
+sigmund sternberg (1998)
+ian barbour (1999)
+2000s
+freeman dyson (2000)
+arthur peacocke (2001)
+john polkinghorne (2002)
+holmes rolston iii (2003)
+george f. r. ellis (2004)
+charles h. townes (2005)
+john d. barrow (2006)
+charles taylor (2007)
+michał heller (2008)
+bernard d'espagnat (2009)
+2010s
+francisco j. ayala (2010)
+martin rees (2011)
+14th dalai lama (2012)
+desmond tutu (2013)
+tomáš halík (2014)
+jean vanier (2015)
+jonathan sacks (2016)
+alvin plantinga (2017)
+abdullah ii of jordan (2018)
+
+vtejohn von neumann lecturers
+lars ahlfors (1960)
+mark kac (1961)
+jean leray (1962)
+stanislaw ulam (1963)
+solomon lefschetz (1964)
+freeman dyson (1965)
+eugene wigner (1966)
+chia-chiao lin (1967)
+peter lax (1968)
+george f. carrier (1969)
+james h. wilkinson (1970)
+paul samuelson (1971)
+jule charney (1974)
+james lighthill (1975)
+rené thom (1976)
+kenneth arrow (1977)
+peter henrici (1978)
+kurt o. friedrichs (1979)
+keith stewartson (1980)
+garrett birkhoff (1981)
+david slepian (1982)
+joseph b. keller (1983)
+jürgen moser (1984)
+john w. tukey (1985)
+jacques-louis lions (1986)
+richard m. karp (1987)
+germund dahlquist (1988)
+stephen smale (1989)
+andrew majda (1990)
+r. tyrrell rockafellar (1992)
+martin d. kruskal (1994)
+carl de boor (1996)
+william kahan (1997)
+olga ladyzhenskaya (1998)
+charles s. peskin (1999)
+persi diaconis (2000)
+david donoho (2001)
+eric lander (2002)
+heinz-otto kreiss (2003)
+alan c. newell (2004)
+jerrold e. marsden (2005)
+george c. papanicolaou (2006)
+nancy kopell (2007)
+david gottlieb (2008)
+franco brezzi (2009)
+bernd sturmfels (2010)
+ingrid daubechies (2011)
+john m. ball (2012)
+stanley osher (2013)
+leslie greengard (2014)
+jennifer tour chayes (2015)
+donald knuth (2016)
+bernard j. matkowsky (2017)
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=freeman_dyson&oldid=883621017"					
+categories: freeman dyson1923 birthsliving peoplepeople from winchesterpeople educated at winchester collegeenglish mathematiciansenglish nuclear physicistsmembers of the united states national academy of sciences20th-century american mathematiciansamerican nuclear physicistswolf prize in physics laureatesenrico fermi award recipientsinstitute for advanced study facultymembers of the bavarian academy of sciencesmembers of the french academy of sciencesforeign members of the russian academy of sciencesspace advocatesfuturologiststempleton prize laureatesamerican christiansenglish christianscornell university alumnienglish emigrants to the united statesenglish memoiristsphilosophy writersenglish science writersamerican anti–nuclear weapons activistsenglish anti–nuclear weapons activistsfellows of the royal societylorentz medal winnerstheoretical physicists21st-century mathematicians20th-century scientists21st-century scientistsacademics of the university of birminghamalumni of trinity college, cambridgemembers of jasonhidden categories: all articles with dead external linksarticles with dead external links from august 2017cs1 maint: unfit urluse dmy dates from february 2014infobox person using alma materarticles with hcardswikipedia articles needing clarification from november 2013articles containing potentially dated statements from 2003all articles containing potentially dated statementsarticles containing potentially dated statements from 2013commons category link from wikidatated speaker template with id same as wikidatawikipedia articles with bibsys identifierswikipedia articles with bne identifierswikipedia articles with bnf identifierswikipedia articles with cinii identifierswikipedia articles with dblp identifierswikipedia articles with gnd identifierswikipedia articles with isni identifierswikipedia articles with lccn identifierswikipedia articles with lnb identifierswikipedia articles with ndl identifierswikipedia articles with nkc identifierswikipedia articles with nla identifierswikipedia articles with sbn identifierswikipedia articles with selibr identifierswikipedia articles with snac-id identifierswikipedia articles with sudoc identifierswikipedia articles with viaf identifierswikipedia articles with worldcat-viaf identifiersac with 17 elements 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commonswikiquote 
+
+
+
+languages
+
+
+العربيةتۆرکجهবাংলাбеларускаябългарскиcatalàčeštinadanskdeutscheestiελληνικάespañoleuskaraفارسیfrançaisgaeilgegalego한국어bahasa indonesiaitalianoעבריתkreyòl ayisyenкыргызчаlatviešumagyarമലയാളംnederlands日本語norskoccitanpolskiportuguêsromânăрусскийshqipsimple englishslovenčinaslovenščinasuomisvenskaтоҷикӣtürkçeукраїнська中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 16 february 2019, at 15:43 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"1.424","walltime":"1.773","ppvisitednodes":{"value":8888,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":256185,"limit":2097152},"templateargumentsize":{"value":26796,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":26,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":192446,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00% 1353.318      1 -total"," 34.38%  465.275      1 template:reflist"," 15.20%  205.656      1 template:infobox_scientist"," 14.50%  196.181      1 template:infobox_person"," 13.58%  183.752      3 template:infobox","  8.99%  121.711     23 template:cite_web","  7.53%  101.914     10 template:cite_journal","  6.74%   91.230     10 template:cite_book","  6.58%   89.026      6 template:isbn","  5.28%   71.434      1 template:commons_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.597","limit":"10.000"},"limitreport-memusage":{"value":10963569,"limit":52428800}},"cachereport":{"origin":"mw1258","timestamp":"20190216154342","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"freeman dyson","url":"https:\/\/en.wikipedia.org\/wiki\/freeman_dyson","sameas":"http:\/\/www.wikidata.org\/entity\/q153717","mainentity":"http:\/\/www.wikidata.org\/entity\/q153717","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2001-10-24t10:45:04z","datemodified":"2019-02-16t15:43:40z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/03\/freeman_dyson_%282005%29.jpg","headline":"theoretical physicist and mathematician"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":121,"wghostname":"mw1272"});});
+
+

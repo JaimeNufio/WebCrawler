@@ -1,0 +1,243 @@
+
+
+
+
+rds-1 - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"rds-1","wgtitle":"rds-1","wgcurrevisionid":857110880,"wgrevisionid":857110880,"wgarticleid":1115854,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["use dmy dates from august 2018","coordinates on wikidata","pages using deprecated image syntax","articles containing russian-language text","all articles with unsourced statements","articles with unsourced statements from august 2018","commons category link is on wikidata","joseph stalin","1949 in the soviet union","1949 in military history","nuclear proliferation","soviet nuclear weapons testing","1949 in international relations","nuclear weapons policy","nuclear bombs of the soviet union","cold war military history of the soviet union"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"rds-1","wgrelevantarticleid":1115854,"wgrequestid":"xgyd1apame8aabx5eg4aaado","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgcoordinates":{"lat":50.4375,"lon":77.814166666667},"wgwikibaseitemid":"q586755","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+rds-1 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+
+coordinates: 50°26′15″n 77°48′51″e﻿ / ﻿50.43750°n 77.81417°e﻿ / 50.43750; 77.81417
+
+ rds-1 the first soviet atomic bomb, "rds-1", was an implosion-type, like the u.s. "fat man" bomb, even in appearance; the front "eyes" are radar fuzes.typenuclear weaponplace of originsoviet unionspecificationsblast yield22 kt (92 tj)
+the rds-1 (russian: рдс-1), also known as izdeliye 501 (device 501) and first lightning (russian: пе́рвая мо́лния, tr. pérvaya mólniya, ipa: [pʲˈervəjə mˈolnʲɪjə]),[1] was the nuclear bomb used in the soviet union's first nuclear weapon test. the united states assigned it the code-name joe-1, in reference to joseph stalin. it was detonated on 29 august 1949 at 7:00 a.m.,[2] at semipalatinsk, kazakh ssr,[3] after top-secret research and development as part of the soviet atomic bomb project.[4]
+
+contents
+
+1 description
+2 detection by the west
+3 response in the west
+4 see also
+5 references
+6 external links
+
+
+description[edit]
+the weapon was designed at the kurchatov institute — at the time officially known as "laboratory № 2", but designated as the "office" or "base" in internal documents — starting in april 1946.[4][5]  plutonium for the bomb was produced at the industrial complex chelyabinsk-40.[6]
+the rds-1 explosion yielded 22 kilotons of tnt, similar to the american gadget and fat man bombs.[7] at lavrentiy beria's insistence, the rds-1 bomb was designed as an implosion weapon similar to the fat man bomb dropped on nagasaki, japan; rds-1 also had a solid plutonium core. the bomb designers had developed a more sophisticated design (tested later as rds-2), but rejected it due to the known reliability of the fat man type design, the ussr having received extensive intelligence on the design of the fat man bomb during world war ii.[citation needed]
+in order to test the effects of the new weapon, workers constructed houses made of wood and bricks, along with a bridge, and a simulated metro in the vicinity of the test site. armoured hardware and approximately 50 aircraft were also brought to the testing grounds, as well as over 1,500 animals to test the bomb's effects on life.[4] the resulting data showed the rds explosion to be 50% more destructive than originally estimated by its engineers.[4]
+there are several explanations for the ussr code-name of rds-1, usually an arbitrary designation: a backronym "special jet engine" (реактивный двигатель специальный, reaktivnyi dvigatel spetsialnyi), or "stalin's jet engine" (реактивный двигатель сталина, reaktivnyi dvigatel stalina), or "russia does it herself" (россия делает сама, rossiya delayet sama).[4][8] later weapons were also designated rds, but with different model numbers.
+mikhail pervukhin served as the chairman of the commission in charge of the rds-1 testing.[citation needed]
+five rds-1 weapons were completed as a pilot series by march 1950 with a serial production of the weapon that began in december 1951.[9]
+
+ the mushroom cloud from the first rds-1 test (1949)
+detection by the west[edit]
+some united states air force wb-29 weather reconnaissance aircraft were fitted with special filters to collect atmospheric radioactive debris. on 1 september 1949, the air force office of atomic energy had a wb-29 fly from misawa air base in japan to eielson air force base in alaska. the plane collected some debris during this flight. these data were then cross-checked with data from later flights, and it was determined that the soviet union had effectively tested a nuclear weapon.[10]
+
+response in the west[edit]
+the test surprised the western powers. american intelligence had estimated that the soviets would not produce an atomic weapon until 1953, while the british did not expect it until 1954.[11] when the nuclear fission products from the test were detected by the u.s. air force, the united states began to follow the trail of the nuclear fallout debris.[12] president harry s. truman notified the world of the situation on 23 september 1949: "we have evidence that within recent weeks an atomic explosion occurred in the u.s.s.r."[13] truman's statement likely in turn surprised the soviets, who had hoped to keep the test a secret to avoid encouraging the americans to increase their atomic programs, and did not know that the united states had built a test-detection system using the wb-29 superfortress.[12] the announcement was a turning point in the cold war that had just begun. once the soviet union was confirmed to be in possession of the atomic bomb, pressure mounted to develop the first hydrogen bomb.[13]
+
+see also[edit]
+rds-3
+rds-6s
+rds-4
+rds-37
+rds-220 (tsar bomba)
+plan totality
+references[edit]
+
+
+^ sublette, carey (12 december 1997). "the soviet nuclear weapons program". nuclearweaponarchive.org. retrieved 13 august 2016..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ kjelstrup, christian (11 august 2013). "dette er stedet der sovjet testet atombombene sine". dagens næringsliv. archived from the original on 14 august 2013. retrieved 13 august 2016.
+
+^ righter, rosemary (31 july 2002). "the nuclear guinea pigs". archived from the original on 16 july 2007. retrieved 13 august 2016.
+
+^ a b c d e peslyak, alexander (31 august 2009). "russia: building a nuclear deterrent for the sake of peace (60th anniversary of the first soviet atomic test)". ria novosti. archived from the original on 10 march 2012. retrieved 13 august 2016.
+
+^ goncharov, german a; ryabev, lev d (2001). "the development of the first soviet atomic bomb". physics-uspekhi. 44 (1): 71–93. bibcode:2001phyu...44...71g. doi:10.1070/pu2001v044n01abeh000875.
+
+^ "nuclear weapon production at mayak". closed nuclear cities partnership. archived from the original on 9 november 2013. retrieved 13 august 2016. scientists succeeded in producing weapon-grade plutonium in april 1949 which was used in the first soviet atomic bomb
+
+^ bukharin, oleg; podvig, pavel leonardovich; hippel, frank von (2004). russian strategic nuclear forces. mit press. p. 441. isbn 978-0-262-66181-2.
+
+^ khalturin, vitaly i.; rautian, tatyana g.; richards, paul g.; leith, william s. (1 january 2005). "a review of nuclear testing by the soviet union at novaya zemlya, 1955–1990" (pdf). science & global security. 13 (1–2): 1–42. doi:10.1080/08929880590961862. issn 0892-9882.
+
+^ bukharin, oleg; kadyshev, timur; miasnikov, eugene; sutyagin, igor; tarasenko, maxim; zhelezov, boris (2001).  podvig, pavel, ed. "russian strategic nuclear forces". cambridge, massachusetts: the mit press.
+
+^ "u.s. intelligence and the detection of the first soviet nuclear test, september 1949". nsarchive.gwu.edu. retrieved 18 april 2017.
+
+^ aldrich, richard j. (july 1998). "british intelligence and the anglo-american 'special relationship' during the cold war". review of international studies. 24 (3): 331–351. doi:10.1017/s0260210598003313. jstor 20097530.
+
+^ a b u.s. intelligence and the detection of the first soviet nuclear test, september 1949, william burr, washington, d.c., 22 september 2009
+
+^ a b geselbracht, raymond h. (ed.). "the truman administration during 1949: a chronology". harry s. truman library. retrieved 13 august 2016.
+
+
+external links[edit]
+
+
+
+wikimedia commons has media related to rds-1.
+video of the joe-1 nuclear test
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=rds-1&oldid=857110880"					
+categories: joseph stalin1949 in the soviet union1949 in military historynuclear proliferationsoviet nuclear weapons testing1949 in international relationsnuclear weapons policynuclear bombs of the soviet unioncold war military history of the soviet unionhidden categories: use dmy dates from august 2018coordinates on wikidatapages using deprecated image syntaxarticles containing russian-language textall articles with unsourced statementsarticles with unsourced statements from august 2018commons category link is on wikidata 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+العربيةбългарскиcatalàčeštinadanskdeutschespañolفارسیfrançais한국어հայերենעבריתmagyar日本語norskpolskiportuguêsromânăрусскийscotsslovenčinaсрпски / srpskisuomisvenskatürkçe中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 29 august 2018, at 16:54 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.824","walltime":"1.024","ppvisitednodes":{"value":1965,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":36708,"limit":2097152},"templateargumentsize":{"value":2019,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":38532,"limit":5000000},"entityaccesscount":{"value":5,"limit":400},"timingprofile":["100.00%  968.513      1 -total"," 29.06%  281.476      1 template:reflist"," 19.94%  193.124      1 template:lang-ru"," 15.01%  145.361      6 template:cite_web"," 14.24%  137.893      1 template:infobox_weapon"," 12.62%  122.239      1 template:infobox","  9.95%   96.338      2 template:cn","  8.79%   85.155      2 template:fix","  8.05%   77.924      1 template:commons_category","  7.53%   72.900      4 template:cite_journal"]},"scribunto":{"limitreport-timeusage":{"value":"0.561","limit":"10.000"},"limitreport-memusage":{"value":16775808,"limit":52428800}},"cachereport":{"origin":"mw1244","timestamp":"20190215001205","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"rds-1","url":"https:\/\/en.wikipedia.org\/wiki\/rds-1","sameas":"http:\/\/www.wikidata.org\/entity\/q586755","mainentity":"http:\/\/www.wikidata.org\/entity\/q586755","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2004-10-29t20:35:58z","datemodified":"2018-08-29t16:54:21z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/2\/23\/casing_for_the_first_soviet_atomic_bomb%2c_rds-1.jpg"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":1161,"wghostname":"mw1244"});});
+
+

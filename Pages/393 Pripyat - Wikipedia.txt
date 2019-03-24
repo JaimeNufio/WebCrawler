@@ -1,0 +1,621 @@
+
+
+
+
+pripyat - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"pripyat","wgtitle":"pripyat","wgcurrevisionid":884002595,"wgrevisionid":884002595,"wgarticleid":509972,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["cs1 maint: archived copy as title","webarchive template archiveis links","webarchive template wayback links","cs1 french-language sources (fr)","articles with short description","pages using infobox settlement with unknown parameters","articles containing ukrainian-language text","articles containing russian-language text","commons category link is on wikidata","coordinates on wikidata","pripyat","populated places established in the ukrainian soviet socialist republic","cities and towns built in the soviet union","cities in kiev oblast","ghost towns in the chernobyl exclusion zone","radioactively contaminated areas","environmental disaster ghost towns","modern ruins","former cities in ukraine","cities of regional significance in ukraine","1970 establishments in ukraine","populated places established in 1970","company towns in ukraine"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"pripyat","wgrelevantarticleid":509972,"wgrequestid":"xgt22gpame8aagwg60yaaaau","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgredirectedfrom":"pripyat_(city)","wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wginternalredirecttargeturl":"/wiki/pripyat","wgcoordinates":{"lat":51.405555555556,"lon":30.056944444444},"wgwikibaseitemid":"q170456","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+pripyat 
+from wikipedia, the free encyclopedia   (redirected from pripyat (city))
+ jump to navigation
+jump to search
+for other uses, see pripyat (disambiguation).
+city of regional significance in kiev oblast, ukrainepripyatпри́п'ятьcity of regional significancepripyat
+coat of armspripyatcoordinates: 51°24′17″n 30°03′25″e﻿ / ﻿51.40472°n 30.05694°e﻿ / 51.40472; 30.05694country ukraineoblastkiev oblastraionchornobyl raion (1923–1988)founded4 february 1970city rights1979government • administrationstate agency of ukraine on the exclusion zone managementelevation[1]111 m (364 ft)population (2019) • total0
+  (ca 49,360 in 1986)time zoneutc+02:00 (eet) • summer (dst)utc+03:00 (eest)postal codenone (formerly 01196)area code(s)+380 4499[2]
+pripyat or prypyat (ukrainian: при́п'ять, translit. pryp"iat' [ˈprɪpjɑtʲ]) is a ghost town in northern ukraine, near the ukraine-belarus border.
+named after the nearby pripyat river, pripyat was founded on 4 february, 1970, as the ninth nuclear city (a type of closed city) in the soviet union, to serve the nearby chernobyl nuclear power plant.[3] it was officially proclaimed a city in 1979, and had grown to a population of 49,360[4] by the time it was evacuated on the afternoon of 27 april 1986, the day after the chernobyl disaster.[5]
+though pripyat is located within the administrative district of ivankiv raion, the abandoned city now has the status of city of oblast significance within the larger kiev oblast (province), being administered directly from kiev. pripyat is also supervised by ukraine's ministry of emergencies, which manages activities for the entire chernobyl exclusion zone.
+
+contents
+
+1 history
+
+1.1 background
+1.2 post-chernobyl years
+
+
+2 infrastructure and statistics
+3 safety
+4 in popular culture
+5 transport
+6 personalities
+7 gallery
+8 see also
+9 references
+10 external links
+
+
+history[edit]
+background[edit]
+see also: chernobyl disaster
+ panoramic view of pripyat in may 2009
+ view of the chernobyl power plant including 2003 radioactive level of 763 microroentgens per hour
+access to pripyat, unlike cities of military importance, was not restricted before the disaster as nuclear power stations were seen by the soviet union as safer than other types of power plants. nuclear power stations were presented as being an achievement of soviet engineering, where nuclear power was harnessed for peaceful projects. the slogan "peaceful atom" (russian: мирный атом, translit. mirnyy atom) was popular during those times. the original plan had been to build the plant only 25 km (16 mi) from kiev, but the ukrainian academy of sciences, among other bodies, expressed concern about it being too close to the city. as a result, the power station and pripyat[6] were built at their current locations, about 100 km (62 mi) from kiev. after the disaster the city of pripyat was evacuated in two days.[7]
+
+
+ a panorama of pripyat during summer. the abandoned chernobyl power plant is visible in the distance, at top center.
+
+post-chernobyl years[edit]
+ pripyat ferris wheel, as seen from the city center gymnasium
+ the azure swimming pool was still in use by liquidators in 1996, a decade after the chernobyl incident.
+ in 2009, over two decades after the chernobyl incident, the azure swimming pool shows decay after years of disuse.
+in 1986 the city of slavutych was constructed to replace pripyat. after the city of chernobyl, this is the second-largest city for accommodating power plant workers and scientists in the commonwealth of independent states (cis).
+one notable landmark often featured in photographs of the city and visible from aerial-imaging websites is the long-abandoned ferris wheel located in the pripyat amusement park. the azure swimming pool and avanhard stadium are two other popular tourist sites.
+
+infrastructure and statistics[edit]
+ pripyat before the chernobyl disaster
+the following statistics are from january 1, 1986.[8]
+
+population: 49,400 before the disaster. the average age was about 26 years old. total living space was 658,700 m2 (7,090,000 sq ft): 13,414 apartments in 160 apartment blocks, 18 halls of residence accommodating up to 7,621 single males or females, and eight halls of residence for married or de facto couples.
+education: 15 kindergartens and elementary schools for 4980 children, and 5 secondary schools for 6786 students.
+healthcare: one hospital that could accommodate up to 410 patients, and three clinics.
+trade: 25 stores and malls; 27 cafes, cafeterias and restaurants could serve up to 5,535 customers simultaneously. 10 warehouses could hold 4,430 tons of goods.
+culture: three facilities: a culture palace, the palace of culture energetik, a cinema and a school of arts, with eight different societies.
+sports: 10 gyms, three indoor swimming-pools, 10 shooting galleries, two stadiums.
+recreation: one park, 35 playgrounds, 18,136 trees, 249,247 shrubs, 33,000 rose plants.
+industry: four factories with total annual turnover of 477,000,000 rubles. one nuclear power plant with four reactors.
+transportation: yanov railway station, 167 urban buses, plus the nuclear power plant car park which had 400 spaces.
+telecommunication: 2,926 local phones managed by the pripyat phone company, plus 1,950 phones owned by chernobyl power station's administration, jupiter plant and department of architecture and urban development.
+safety[edit]
+ the external relative gamma dose for a person in the open near the chernobyl disaster site. the intermediate lived fission products like cs-137 contribute nearly all of the gamma dose now after a number of decades have passed, see opposite.
+ the impact of the different isotopes on the radioactive contamination of the air soon after the accident. drawn using data from the oecd report [1] and the second edition of 'the radiochemical manual'.
+a natural concern is whether it is safe to visit pripyat and the surroundings. the zone of alienation is considered relatively safe to visit, and several ukrainian companies offer guided tours around the area.[9][10][11][12][13][14][15][16] at present, radiation levels have dropped considerably, compared to the fatal levels of april 1986, due to the decay of the short-lived isotopes released during the accident.[17] in most places within the city, the level of radiation does not exceed an equivalent dose of 1 μsv (one microsievert) per hour.[18]
+
+in popular culture[edit]
+markiyan kamysh novel about chernobyl illegal trips, a stroll to the zone, was praised by reviewers as the most interesting literature debut in ukraine. the novel has been translated into french (in title la zone), and was published by french publishing house arthaud (groupe flammarion), and was warmly welcomed by critics and praised in french magazines.[19][20][21]
+in 2006, musician example featured pripyat in his 18-minute documentary of the ghost town, and for his promotional video for his track, "what we made".
+a portion of the 2007 first-person shooter video game call of duty 4: modern warfare takes place in pripyat. it also appears in the game's infamous "fifty-thousand people used to live here. now it's a ghost town" title sequence. the segment was also referenced in the game's 2011 sequel, call of duty: modern warfare 3.
+the city of pripyat was the location of filming of the 2008 documentary white horse.[22]
+the exclusion zone is the setting for karl schroeder's science fiction short story "the dragon of pripyat".
+the novel wolves eat dogs by martin cruz smith uses pripyat as the setting for an investigation by arkady renko.
+much of the james rollins novel the last oracle takes place in pripyat and around chernobyl. the story revolves around a team of american "killer scientist" special agents who must stop a terrorist plot to unleash the radiation of lake karachay on the world during the installation of the new sarcophagus over the chernobyl nuclear power plant.
+the american paranormal investigation series destination truth conducted an overnight investigation within pripyat.
+ukrainian singer alyosha recorded most of the video for her eurovision 2010 entry "sweet people" in pripyat.
+the song "dead city" (ukrainian: мертве місто) by ukrainian symphonic metal band deliais about pripyat, and scenes from the music video were shot in the city. delia's vocalist, anastasia sverkunova, was born in pripyat just before the chernobyl disaster.[23]
+the majority of the 2011 movie land of oblivion was shot on location in pripyat.
+in the 2011 batwoman comic book series, the final mission of kate kane's training to become the titular superhero consists of a hostage rescue in the city.
+the 2012 horror movie chernobyl diaries was inspired by the chernobyl disaster in 1986 and takes place in pripyat.[24]
+the 2013 film a good day to die hard is partly set in pripyat.
+marillion guitarist steve rothery's first solo album is called the ghosts of pripyat (2014).
+the third episode of the 21st series of top gear features two of the presenters driving through the abandoned city
+german pianist and composer hauschka features pripyat on the second track of his album abandoned cities.
+pripyat is featured in the history channel documentary called life after people.
+filmmaker danny cooke used a drone to capture shots of the abandoned amusement park, some residential shots of decaying walls, children's toys and gas masks. he collected them in a 3-minute short film postcards from chernobyl, released in november 2014, while making footage for the cbs news 60 minutes episode in early 2014 "chernobyl: the catastrophe that never ended".[25][26]
+in 2014, for the twentieth anniversary of the original release of the division bell, a music video for the song "marooned" was produced and released on the official pink floyd website. aubrey powell of hipgnosis directed the video, filming some parts in pripyat,[27] during the first week of april 2014.[28]
+in may 2015 the drone manufacture dji produced lost city of chernobyl, a documentary film about the work of photographer and cinematographer philip grossman and his five-year project in pripyat and the zone of exclusion.[29]
+with the help of drones the 2016 film the girl with all the gifts shot its aerial views of a deserted london in pripyat.[30]
+the city of pripyat is the primary location used in atypical games newest game radiation city|[31]
+ed edd n eddy shows a cameo of pripyat in a jawbreaker storage vault in the episode "once upon an ed".
+manhunt: unabomber s1:e3 mentions this town as the homeland of slavic people.
+the s.t.a.l.k.e.r. video game series, consisting of s.t.a.l.k.e.r.: shadow of chernobyl, s.t.a.l.k.e.r.: clear sky and s.t.a.l.k.e.r: call of pripyat, takes place entirely in and around pripyat
+discovery science channel's episode "mysteries of the abandoned: chernobyl's deadly secrets" produced and hosted by philip grossman was filmed over a four (4) day period in pripyat and the chernobyl nuclear power plant in 2017
+scottish post-rock band mogwai included a song called pripyat on their 2016 album atomic, which is a soundtrack to the mark cousins documentary atomic, living in dread and promise.
+the azure swimming pool in pripyat is featured in the 2017 video game playerunknown's battlegrounds.
+english rock band suede used the city to shoot their music video clip life is golden, including takes of the azure swimming pool, pripyat amusement park, and polissya hotel.
+australian rapper seth sentry wrote a two-part song "pripyat" in his 2015 album strange new past.
+the 2011 film transformers: dark of the moon shows a brief mission to pripyat where the autobots are first attacked by shockwave while searching for a piece of alien technology which, in universe, is explained as being the catalyst to the chernobyl disaster.
+in the videogame counter-strike: global offensive the map named cache sees the action in the pripyat area, with the terrorist team trying to blow up a warehouse which could presumably contain nuclear waste, while the counter-terrorist team tries to stop it.
+one special forces mission of the multi-player shooter warface features a mission in the pripyat area including locations like the azure swimming pool and pripyat amusement park.
+transport[edit]
+the city was served by yaniv station on the chernihiv–ovruch railway. it was an important passenger hub of the line and was located between the southern suburb of pripyat and the village of yaniv. an electric train terminus semikhody, built in 1988 and located in front of the nuclear plant, is currently the only operating station near pripyat connecting it to slavutych.[32]
+
+personalities[edit]
+alexander sirota (born 1976), photographer, journalist, filmmaker
+lyubov sirota (born 1956), poet, writer, playwright, journalist and translator
+markiyan kamysh (born 1988), writer, illegal chernobyl tourist ("stalker")
+gallery[edit]
+.mw-parser-output .mod-gallery{display:table}.mw-parser-output .mod-gallery-default{background:transparent;margin-top:0.5em}.mw-parser-output .mod-gallery-center{margin-left:auto;margin-right:auto}.mw-parser-output .mod-gallery-left{float:left}.mw-parser-output .mod-gallery-right{float:right}.mw-parser-output .mod-gallery-none{float:none}.mw-parser-output .mod-gallery-collapsible{width:100%}.mw-parser-output .mod-gallery .title{display:table-row}.mw-parser-output .mod-gallery .title>div{display:table-cell;text-align:center;font-weight:bold}.mw-parser-output .mod-gallery .main{display:table-row}.mw-parser-output .mod-gallery .main>div{display:table-cell}.mw-parser-output .mod-gallery .caption{display:table-row;vertical-align:top}.mw-parser-output .mod-gallery .caption>div{display:table-cell;display:block;font-size:94%;padding:0}.mw-parser-output .mod-gallery .footer{display:table-row}.mw-parser-output .mod-gallery .footer>div{display:table-cell;text-align:right;font-size:80%;line-height:1em}.mw-parser-output .mod-gallery .gallerybox .thumb img{background:none}.mw-parser-output .mod-gallery .bordered-images img{border:solid #eee 1px}.mw-parser-output .mod-gallery .whitebg img{background:#fff!important}.mw-parser-output .mod-gallery .gallerybox div{background:#fff!important}
+
+
+
+a gate in pripyat city, 2000
+
+
+
+
+
+
+ferris wheel of the pripyat amusement park
+
+
+
+
+
+
+polissya hotel
+
+
+
+
+
+
+pripyat city limit sign
+
+
+
+
+
+see also[edit]
+fc stroitel pripyat
+chernobyl nuclear power plant exclusion zone
+cultural impact of the chernobyl disaster
+references[edit]
+
+
+^ "archived copy". archived from the original on 2016-08-16. retrieved 2016-07-26.cs1 maint: archived copy as title (link).mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ "city phone codes". archived from the original on 2015-08-15. retrieved 2 december 2014.
+
+^ pripyat: short introduction archived 2012-07-11 at archive.today
+
+^ "chernobyl and eastern europe: my journey to chernobyl 6". chernobylee.com. archived from the original on 2013-10-15. retrieved 2013-10-15.
+
+^ "pripyat – city of ghosts". archived from the original on 2016-02-17. retrieved 2016-02-13.
+
+^ "history of the pripyat city creation". archived from the original on 2011-07-22. retrieved 2 december 2014.
+
+^ anastasia. "dirjournal.com". info blog. archived from the original on 2014-11-17. retrieved 2 december 2014.
+
+^ припять в цифрах  archived 2012-10-13 at the wayback machine ("pripyat in numbers"), a page from pripyat website
+
+^ "chernobyl tour". archived from the original on 2016-01-31. retrieved 2016-02-13.
+
+^ "chernobyl welcome". archived from the original on 2016-02-11. retrieved 2016-02-13.
+
+^ "chernobyl tours by solo east travel". archived from the original on 2019-01-25. retrieved 2019-01-26.
+
+^ "tour chernobyl". archived from the original on 2018-11-27. retrieved 2019-01-26.
+
+^ "lupine travel - chernobyl". archived from the original on 2016-01-25. retrieved 2016-02-13.
+
+^ "tour2chernobyl". archived from the original on 2018-04-27. retrieved 2018-12-10.
+
+^ "tour2kiev". archived from the original on 2015-12-24. retrieved 2016-02-13.
+
+^ "pripyat - chernobyl tour". archived from the original on 2016-03-02. retrieved 2016-02-13.
+
+^ "bugging in and bugging out". archived from the original on 2016-04-09. retrieved 2016-02-13.
+
+^ "radiation levels". the chernobyl gallery. archived from the original on 2014-09-29. retrieved 2014-12-02.
+
+^ "tchernobyl 30 ans après : au coeur de la zone interdite". l'obs (in french). archived from the original on 2017-09-15. retrieved 2017-10-02.
+
+^ "littérature : "la zone" de markiyan kamysh et "la maison dans laquelle" de mariam petrosyan". france culture (in french). archived from the original on 2017-10-02. retrieved 2017-10-02.
+
+^ "reportage dans la zone interdite de tchernobyl". les inrocks (in french). archived from the original on 2017-10-02. retrieved 2017-10-02.
+
+^ white horse on imdb 
+
+^ "delia". archived from the original on 2014-12-11. retrieved 2 december 2014.
+
+^ chernobyl diaries on imdb 
+
+^ "witness a drone's eye view of chernobyl's urban decay". the creators project. archived from the original on 2014-11-26. retrieved 2 december 2014.
+
+^ "من فوق.. كيف يبدو ما بقي من تشيرنوبل بعد 30 عاما من الكارثة النووية؟". cnn arabic. archived from the original on 2015-07-24. retrieved 2 december 2014.
+
+^ johns, matt (19 may 2014). "pink floyd release new marooned video...and tdb20 countdown!". brain-damage.co.uk. archived from the original on 2014-05-22. retrieved 17 june 2014.
+
+^ "pink floyd to release 20th anniversary box set of "the division bell"" (press release). 20 may 2014. archived from the original on 2014-03-04. retrieved 6 june 2014.
+
+^ dji (2015-08-14), dji stories – the lost city of chernobyl, archived from the original on 2015-08-25, retrieved 2016-03-24
+
+^ wiseman, andreas (4 august 2016). "the story behind 'the girl with all the gifts'". screen international. archived from the original on 2016-09-20. retrieved 13 september 2016.
+
+^ ""atypical games launches radiation city"". archived from the original on 2017-09-03. retrieved 2017-09-02.
+
+^ "radioactive railroad". archived from the original on 2015-11-21. retrieved 2015-11-25.
+
+
+external links[edit]
+
+
+
+wikimedia commons has media related to pripyat.
+pripyat.com - site created by former residents
+25 years of satellite imagery over chernobyl pripyat map
+pripyatpanorama.com - pripyat in panoramas project
+exploringthezone.com - 5-year project documenting the pripyat and chernobyl zone
+pripyat-city.ru - blog related to pripyat
+chernobylgallery.com - photographs of pripyat and chernobyl
+[2] - 2018 footage of pripyat and chernobyl
+vtepopulated places of the chernobyl exclusion zoneraions1
+chornobyl (former)
+ivankiv
+luhyny
+narodychi
+ovruch
+poliske
+cities
+chernobyl
+pripyat (ghost town)
+urban-type settlements
+poliske (ghost town)
+vilcha (ghost town)
+villages
+andriivka
+benivka
+bober
+bovyshche
+buda
+buda-varovychi
+budoliubivka
+buriakivka
+bychky
+chapaievka
+cherevach
+chistohalivka
+denisovychi
+derevtsi
+derkachi
+dibrova
+dovhyi lis
+fabrykivka
+hlynka
+horodchan
+horodyshche
+hrezlia
+hriazeve
+illintsi
+ilovnytsia
+ivanivka
+kamianka
+khryplia
+klyvyny
+kopachi
+korohod
+korolivka
+kosharivka
+koshivka
+kotsiubynske
+kovshylivka
+krasne i
+krasne ii
+kryva hora
+kupuvate
+ladyzhychi
+leliv
+lubianka
+lypski romany
+malenivka
+mali klishchi
+mali minky
+malynka
+martynovychi
+masheve
+moshchanytsia
+motyli
+nova krasnytsia
+nove sharne
+novoshepelychi
+novosilky
+novyi mir
+omelnyky
+opachychi
+otashiv
+paryshiv
+pereizd
+peremoha
+pidchashia
+pliutovyshche
+poliske
+richytsia
+rohy
+rozizhdzhe
+rozsokha
+rudky
+rudnia-hrezlianska
+rudnia-illinetska
+rudnia-ososhnia
+rudnia-veresnia
+severivka
+shevchenkove
+shyshelivka
+sloboda
+sosnivka
+stara krasnytsia
+stara rudnia
+stare sharne
+stari shepelychi
+starosillia
+stebli
+stechanka
+stepky
+sytivka
+tarasy
+terekhy
+teremtsi
+tovstyi lis
+usiv
+varovychi
+velyki klishchi
+vesniane
+vilshanka
+volodymyrivka
+yampil
+yaniv
+yasen
+zalissia
+zamoshnia
+zapillia
+zholudivka
+zhovtneve
+zhurba
+zvizdal
+zymovyshche
+
+1only portions of these raions (large or small) were affected due to the chernobyl disaster
+list of places in the psrer (belarus)
+
+vte administrative divisions of kiev oblastadministrative center: kievraions
+baryshivka
+bila tserkva
+bohuslav
+boryspil
+borodianka
+brovary
+fastiv
+ivankiv
+kaharlyk
+kiev-sviatoshyn
+makariv
+myronivka
+obukhiv
+pereiaslav-khmelnytskyi
+poliske
+rokytne
+skvyra
+stavyshche
+tarashcha
+tetiiv
+vasylkiv
+volodarka
+vyshhorod
+yahotyn
+zghurivka
+citiesregional
+berezan
+bila tserkva
+boryspil
+brovary
+bucha
+fastiv
+irpin
+obukhiv
+pereiaslav-khmelnytskyi
+pripyat
+rzhyshchiv
+slavutych
+vasylkiv
+district
+bohuslav
+boyarka
+chernobyl
+kaharlyk
+myronivka
+skvyra
+tarashcha
+tetiiv
+ukrainka
+uzyn
+vyshhorod
+vyshneve
+yahotyn
+urban-type settlementscategory:kiev oblast
+vtechernobyl disaster
+effects
+comparisons
+people
+liquidators
+samosely
+list of people involved
+deaths due to the disaster
+placesexclusion zone
+pripyat
+amusement park
+polissya hotel
+azure swimming pool
+avanhard stadium
+palace of culture energetik
+jupiter factory
+yaniv station
+chernobyl
+duga radar
+red forest
+list of populated settlements
+power plant
+sarcophagus
+new safe confinement
+other
+slavutych
+dytiatky
+ukrainian national chernobyl museum
+polesie state radioecological reserve (list of settlements)
+works
+cultural impact of the chernobyl disaster
+documentation and media
+organisations
+chernobyl children international
+chernobyl forum
+chernobyl recovery and development programme
+chernobyl shelter fund
+friends of chernobyl's children
+bellesrad
+list of chernobyl-related charities
+related articles
+chernobylite
+chernihiv–ovruch railway
+the elephant's foot
+
+ list
+ category
+
+coordinates: 51°24′20″n 30°03′25″e﻿ / ﻿51.40556°n 30.05694°e﻿ / 51.40556; 30.05694
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=pripyat&oldid=884002595"					
+categories: pripyatpopulated places established in the ukrainian soviet socialist republiccities and towns built in the soviet unioncities in kiev oblastghost towns in the chernobyl exclusion zoneradioactively contaminated areasenvironmental disaster ghost townsmodern ruinsformer cities in ukrainecities of regional significance in ukraine1970 establishments in ukrainepopulated places established in 1970company towns in ukrainehidden categories: cs1 maint: archived copy as titlewebarchive template archiveis linkswebarchive template wayback linkscs1 french-language sources (fr)articles with short descriptionpages using infobox settlement with unknown parametersarticles containing ukrainian-language textarticles containing russian-language textcommons category link is on wikidatacoordinates on wikidata 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+العربيةazərbaycancaتۆرکجهбашҡортсабеларускаябеларуская (тарашкевіца)‎българскиcatalàčeštinacymraegdanskdeutscheestiελληνικάespañolesperantoeuskaraفارسیfrançaisgalego한국어հայերենhornjoserbscehrvatskibahasa indonesiaиронíslenskaitalianoעבריתkapampanganქართულიlatviešulietuviųmagyarмакедонскиმარგალურიbahasa melayuмонголnederlands日本語norsknorsk nynorskpolskiποντιακάportuguêsqırımtatarcaromânăрусскийсаха тылаscotssimple englishslovenčinaslovenščinaکوردیсрпски / srpskisuomisvenskatürkçeукраїнськаtiếng việtwinaray粵語žemaitėška中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 18 february 2019, at 23:08 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.948","walltime":"1.173","ppvisitednodes":{"value":5555,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":144951,"limit":2097152},"templateargumentsize":{"value":10864,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":90857,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  989.949      1 -total"," 28.13%  278.463      1 template:reflist"," 28.13%  278.430      1 template:infobox_settlement"," 16.55%  163.835      1 template:infobox"," 15.58%  154.273      1 template:lang-uk"," 15.21%  150.567     22 template:cite_web","  6.24%   61.801      5 template:navbox","  5.59%   55.293      1 template:commons_category","  4.26%   42.212      1 template:gallery","  3.35%   33.170      3 template:convert"]},"scribunto":{"limitreport-timeusage":{"value":"0.495","limit":"10.000"},"limitreport-memusage":{"value":20771443,"limit":52428800}},"cachereport":{"origin":"mw1221","timestamp":"20190218230840","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":110,"wghostname":"mw1244"});});
+
+

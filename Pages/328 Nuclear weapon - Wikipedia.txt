@@ -1,0 +1,1283 @@
+
+
+
+
+nuclear weapon - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"nuclear_weapon","wgtitle":"nuclear weapon","wgcurrevisionid":881870172,"wgrevisionid":881870172,"wgarticleid":21785,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["webarchive template wayback links","cs1 errors: chapter ignored","cs1 maint: uses editors parameter","all accuracy disputes","articles with disputed statements from july 2013","pages using web citations with no url","cs1 maint: multiple names: authors list","articles with short description","wikipedia pages semi-protected against vandalism","use mdy dates from december 2015","articles containing potentially dated statements from january 2016","all articles containing potentially dated statements","all articles with unsourced statements","articles with unsourced statements from may 2014","wikipedia articles in need of updating from june 2013","all wikipedia articles in need of updating","articles with unsourced statements from june 2013","articles containing potentially dated statements from 2012","articles containing potentially dated statements from march 2009","articles with unsourced statements from july 2017","articles with unsourced statements from may 2013","articles to be expanded from july 2017","all articles to be expanded","articles with empty sections from july 2017","all articles with empty sections","articles using small message boxes","articles with french-language external links","spoken articles","articles with haudio microformats","wikipedia articles with gnd identifiers","wikipedia articles with hds identifiers","wikipedia articles with lccn identifiers","wikipedia articles with nara identifiers","wikipedia articles with ndl identifiers","articles containing video clips","nuclear weapons","weapons and ammunition introduced in 1945","american inventions"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"nuclear_weapon","wgrelevantarticleid":21785,"wgrequestid":"xgvi8apaad4aajt5r5caaaas","wgcspnonce":false,"wgisprobablyeditable":false,"wgrelevantpageisprobablyeditable":false,"wgrestrictionedit":["autoconfirmed"],"wgrestrictionmove":["sysop"],"wgredirectedfrom":"nuclear_bomb","wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfexpandallsectionsuseroption":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wginternalredirecttargeturl":"/wiki/nuclear_weapon","wgwikibaseitemid":"q12802","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","mw.mediawikiplayer.loader","mw.popupmediatransform","mw.tmhgalleryhook.js","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+nuclear weapon 
+from wikipedia, the free encyclopedia   (redirected from nuclear bomb)
+ jump to navigation
+jump to search
+explosive device that derives its destructive force from nuclear reactions
+"atom bomb" redirects here. for other uses, see atom bomb (disambiguation).
+"atomic bomb" redirects here. for other uses, see atomic bomb (album).
+
+
+ the mushroom cloud of the atomic bombing of the japanese city of nagasaki on august 9, 1945, rose some 11 mi (18 km) above the bomb's hypocenter.
+nuclear weapons
+background
+history
+warfare
+design
+testing
+delivery
+yield
+effects and estimated megadeaths of explosions
+winter
+workers
+ethics
+arsenals
+arms race
+espionage
+proliferation
+disarmament
+terrorism
+opposition
+
+nuclear-armed states
+npt recognizedunited states
+russia
+united kingdom
+france
+china
+othersindia
+israel (undeclared)
+pakistan
+north korea
+formersouth africa
+belarus 
+kazakhstan
+ukraine
+vte
+weapons of mass destruction
+by type
+biological
+chemical
+nuclear
+radiological
+
+by country
+albania
+algeria
+argentina
+australia
+brazil
+bulgaria
+canada
+china
+egypt
+france
+germany
+india
+iran
+iraq
+israel
+italy
+japan
+libya
+mexico
+myanmar
+netherlands
+north korea
+pakistan
+philippines
+poland
+rhodesia
+romania
+russia
+saudi arabia
+south africa
+south korea
+sweden
+switzerland
+syria
+taiwan
+ukraine
+united kingdom
+united states
+
+proliferation
+chemical
+nuclear
+missiles
+
+treaties
+list of treaties
+
+ book
+ categoryvte
+a nuclear weapon is an explosive device that derives its destructive force from nuclear reactions, either fission (fission bomb) or from a combination of fission and fusion reactions (thermonuclear bomb). both bomb types release large quantities of energy from relatively small amounts of matter. the first test of a fission ("atomic") bomb released an amount of energy approximately equal to 20,000 tons of tnt (84 tj).[1] the first thermonuclear ("hydrogen") bomb test released energy approximately equal to 10 million tons of tnt (42 pj). a thermonuclear weapon weighing little more than 2,400 pounds (1,100 kg) can release energy equal to more than 1.2 million tons of tnt (5.0 pj).[2] a nuclear device no larger than traditional bombs can devastate an entire city by blast, fire, and radiation. since they are weapons of mass destruction, the proliferation of nuclear weapons is a focus of international relations policy.
+nuclear weapons have been used twice in war, both times by the united states against japan near the end of world war ii. on august 6, 1945, the u.s. army air forces detonated a uranium gun-type fission bomb nicknamed "little boy" over the japanese city of hiroshima; three days later, on august 9, the u.s. army air forces detonated a plutonium implosion-type fission bomb nicknamed "fat man" over the japanese city of nagasaki.  these bombings caused injuries that resulted in the deaths of approximately 200,000 civilians and military personnel.[3] the ethics of these bombings and their role in japan's surrender are subjects of debate.
+since the atomic bombings of hiroshima and nagasaki, nuclear weapons have been detonated over two thousand times for testing and demonstration. only a few nations possess such weapons or are suspected of seeking them. the only countries known to have detonated nuclear weapons—and acknowledge possessing them—are (chronologically by date of first test) the united states, the soviet union (succeeded as a nuclear power by russia), the united kingdom, france, china, india, pakistan, and north korea. israel is believed to possess nuclear weapons, though, in a policy of deliberate ambiguity, it does not acknowledge having them. germany, italy, turkey, belgium and the netherlands are nuclear weapons sharing states.[4][5][6] south africa is the only country to have independently developed and then renounced and dismantled its nuclear weapons.[7]
+the treaty on the non-proliferation of nuclear weapons aims to reduce the spread of nuclear weapons, but its effectiveness has been questioned, and political tensions remained high in the 1970s and 1980s. modernisation of weapons continues to this day.[8]
+
+contents
+
+1 types
+
+1.1 fission weapons
+1.2 fusion weapons
+1.3 other types
+
+
+2 weapons delivery
+3 nuclear strategy
+4 governance, control, and law
+
+4.1 disarmament
+4.2 united nations
+
+
+5 controversy
+
+5.1 ethics
+5.2 notable nuclear weapons accidents
+5.3 nuclear testing and fallout
+
+
+6 effects of nuclear explosions
+
+6.1 effects of nuclear explosions on human health
+
+6.1.1 public opposition
+
+
+
+
+7 costs and technology spin-offs
+8 non-weapons uses
+9 history of development
+10 see also
+11 references
+12 bibliography
+13 further reading
+14 external links
+
+
+types
+main article: nuclear weapon design
+ the trinity test of the manhattan project was the first detonation of a nuclear weapon, which lead j. robert oppenheimer to recall verses from the hindu scripture bhagavad gita: "if the radiance of a thousand suns were to burst at once into the sky, that would be like the splendor of the mighty one "... "i am become death, the destroyer of worlds".[9]
+there are two basic types of nuclear weapons: those that derive the majority of their energy from nuclear fission reactions alone, and those that use fission reactions to begin nuclear fusion reactions that produce a large amount of the total energy output.[10]
+
+fission weapons
+ the two basic fission weapon designs
+all existing nuclear weapons derive some of their explosive energy from nuclear fission reactions. weapons whose explosive output is exclusively from fission reactions are commonly referred to as atomic bombs or atom bombs (abbreviated as a-bombs). this has long been noted as something of a misnomer, as their energy comes from the nucleus of the atom, just as it does with fusion weapons.
+in fission weapons, a mass of fissile material (enriched uranium or plutonium) is forced into supercriticality—allowing an exponential growth of nuclear chain reactions—either by shooting one piece of sub-critical material into another (the "gun" method) or by compression of a sub-critical sphere or cylinder of fissile material using chemically-fueled explosive lenses. the latter approach, the "implosion" method, is more sophisticated than the former, and only it can produce a nuclear yield if the fissile material is plutonium.[11]
+a major challenge in all nuclear weapon designs is to ensure that a significant fraction of the fuel is consumed before the weapon destroys itself. the amount of energy released by fission bombs can range from the equivalent of just under a ton to upwards of 500,000 tons (500 kilotons) of tnt (4.2 to 2.1×108 gj).[12]
+all fission reactions generate fission products, the remains of the split atomic nuclei. many fission products are either highly radioactive (but short-lived) or moderately radioactive (but long-lived), and as such, they are a serious form of radioactive contamination. fission products are the principal radioactive component of nuclear fallout. another source of radioactivity is the burst of free neutrons produced by the weapon. when they collide with other nuclei in surrounding material, the neutrons transmute those nuclei into other isotopes, altering their stability and making them radioactive. 
+the most commonly used fissile materials for nuclear weapons applications have been uranium-235 and plutonium-239. less commonly used has been uranium-233. neptunium-237 and some isotopes of americium may be usable for nuclear explosives as well, but it is not clear that this has ever been implemented, and their plausible use in nuclear weapons is a matter of dispute.[13]
+
+fusion weapons
+main article: thermonuclear weapon
+ the basics of the teller–ulam design for a hydrogen bomb: a fission bomb uses radiation to compress and heat a separate section of fusion fuel.
+the other basic type of nuclear weapon produces a large proportion of its energy in nuclear fusion reactions. such fusion weapons are generally referred to as thermonuclear weapons or more colloquially as hydrogen bombs (abbreviated as h-bombs), as they rely on fusion reactions between isotopes of hydrogen (deuterium and tritium). all such weapons derive a significant portion of their energy from fission reactions used to "trigger" fusion reactions, and fusion reactions can themselves trigger additional fission reactions.[14]
+only six countries—united states, russia, united kingdom, china, france, and india—have conducted thermonuclear weapon tests. (whether india has detonated a "true" multi-staged thermonuclear weapon is controversial.)[15] north korea claims to have tested a fusion weapon as of  january 2016[update], though this claim is disputed.[16] thermonuclear weapons are considered much more difficult to successfully design and execute than primitive fission weapons. almost all of the nuclear weapons deployed today use the thermonuclear design because it is more efficient.[citation needed]
+thermonuclear bombs work by using the energy of a fission bomb to compress and heat fusion fuel. in the teller-ulam design, which accounts for all multi-megaton yield hydrogen bombs, this is accomplished by placing a fission bomb and fusion fuel (tritium, deuterium, or lithium deuteride) in proximity within a special, radiation-reflecting container. when the fission bomb is detonated, gamma rays and x-rays emitted first compress the fusion fuel, then heat it to thermonuclear temperatures. the ensuing fusion reaction creates enormous numbers of high-speed neutrons, which can then induce fission in materials not normally prone to it, such as depleted uranium. each of these components is known as a "stage", with the fission bomb as the "primary" and the fusion capsule as the "secondary". in large, megaton-range hydrogen bombs, about half of the yield comes from the final fissioning of depleted uranium.[12]
+virtually all thermonuclear weapons deployed today use the "two-stage" design described above, but it is possible to add additional fusion stages—each stage igniting a larger amount of fusion fuel in the next stage. this technique can be used to construct thermonuclear weapons of arbitrarily large yield, in contrast to fission bombs, which are limited in their explosive force. the largest nuclear weapon ever detonated, the tsar bomba of the ussr, which released an energy equivalent of over 50 megatons of tnt (210 pj), was a three-stage weapon. most thermonuclear weapons are considerably smaller than this, due to practical constraints from missile warhead space and weight requirements.[17]
+
+ edward teller, often referred to as the "father of the hydrogen bomb"
+fusion reactions do not create fission products, and thus contribute far less to the creation of nuclear fallout than fission reactions, but because all thermonuclear weapons contain at least one fission stage, and many high-yield thermonuclear devices have a final fission stage, thermonuclear weapons can generate at least as much nuclear fallout as fission-only weapons.
+
+other types
+main articles: boosted fission weapon, neutron bomb, radiological warfare, and antimatter weapon
+there are other types of nuclear weapons as well. for example, a boosted fission weapon is a fission bomb that increases its explosive yield through a small number of fusion reactions, but it is not a fusion bomb. in the boosted bomb, the neutrons produced by the fusion reactions serve primarily to increase the efficiency of the fission bomb. there are two types of boosted fission bomb: internally boosted, in which a deuterium-tritium mixture is injected into the bomb core, and externally boosted, in which concentric shells of lithium-deuteride and depleted uranium are layered on the outside of the fission bomb core.
+some nuclear weapons are designed for special purposes; a neutron bomb is a thermonuclear weapon that yields a relatively small explosion but a relatively large amount of neutron radiation; such a device could theoretically be used to cause massive casualties while leaving infrastructure mostly intact and creating a minimal amount of fallout. the detonation of any nuclear weapon is accompanied by a blast of neutron radiation. surrounding a nuclear weapon with suitable materials (such as cobalt or gold) creates a weapon known as a salted bomb. this device can produce exceptionally large quantities of long-lived radioactive contamination. it has been conjectured that such a device could serve as a "doomsday weapon" because such a large quantity of radioactivities with half-lives of decades, lifted into the stratosphere where winds would distribute it around the globe, would make all life on the planet extinct.
+in connection with the strategic defense initiative, research into the nuclear pumped laser was conducted under the dod program project excalibur but this did not result in a working weapon. the concept involves the tapping of the energy of an exploding nuclear bomb to power a single-shot laser which is directed at a distant target.
+during the starfish prime high-altitude nuclear test in 1962, an unexpected effect was produced which is called a nuclear electromagnetic pulse. this is an intense flash of electromagnetic energy produced by a rain of high energy electrons which in turn are produced by a nuclear bomb's gamma rays. this flash of energy can permanently destroy or disrupt electronic equipment if insufficiently shielded. it has been proposed to use this effect to disable an enemy's military and civilian infrastructure as an adjunct to other nuclear or conventional military operations against that enemy. because the effect is produced by high altitude nuclear detonations, it can produce damage to electronics over a wide, even continental, geographical area.
+research has been done into the possibility of pure fusion bombs: nuclear weapons that consist of fusion reactions without requiring a fission bomb to initiate them. such a device might provide a simpler path to thermonuclear weapons than one that required development of fission weapons first, and pure fusion weapons would create significantly less nuclear fallout than other thermonuclear weapons, because they would not disperse fission products. in 1998, the united states department of energy divulged that the united states had, "...made a substantial investment" in the past to develop pure fusion weapons, but that, "the u.s. does not have and is not developing a pure fusion weapon", and that, "no credible design for a pure fusion weapon resulted from the doe investment".[18]
+antimatter, which consists of particles resembling ordinary matter particles in most of their properties but having opposite electric charge, has been considered as a trigger mechanism for nuclear weapons.[19][20][21] a major obstacle is the difficulty of producing antimatter in large enough quantities, and there is no evidence that it is feasible beyond the military domain.[22] however, the u.s. air force funded studies of the physics of antimatter in the cold war, and began considering its possible use in weapons, not just as a trigger, but as the explosive itself.[23] a fourth generation nuclear weapon design[19] is related to, and relies upon, the same principle as antimatter-catalyzed nuclear pulse propulsion.[24]
+most variation in nuclear weapon design is for the purpose of achieving different yields for different situations, and in manipulating design elements to attempt to minimize weapon size.[12]
+
+weapons delivery
+see also: nuclear weapons delivery, nuclear triad, strategic bomber, intercontinental ballistic missile, and submarine-launched ballistic missile
+ the first nuclear weapons were gravity bombs, such as this "fat man" weapon dropped on nagasaki, japan. they were large and could only be delivered by heavy bomber aircraft
+ a demilitarized, commercial launch of the russian strategic rocket forces r-36 icbm; also known by the nato reporting name: ss-18 satan. upon its first fielding in the late 1960s, the ss-18 remains the single highest throw weight missile delivery system ever built.
+the system used to deliver a nuclear weapon to its target is an important factor affecting both nuclear weapon design and nuclear strategy. the design, development, and maintenance of delivery systems are among the most expensive parts of a nuclear weapons program; they account, for example, for 57% of the financial resources spent by the united states on nuclear weapons projects since 1940.[25]
+the simplest method for delivering a nuclear weapon is a gravity bomb dropped from aircraft; this was the method used by the united states against japan. this method places few restrictions on the size of the weapon. it does, however, limit attack range, response time to an impending attack, and the number of weapons that a country can field at the same time. with miniaturization, nuclear bombs can be delivered by both strategic bombers and tactical fighter-bombers. this method is the primary means of nuclear weapons delivery; the majority of u.s. nuclear warheads, for example, are free-fall gravity bombs, namely the b61.[12][needs update]
+
+ montage of an inert test of a united states trident slbm (submarine launched ballistic missile), from submerged to the terminal, or re-entry phase, of the multiple independently targetable reentry vehicles
+more preferable from a strategic point of view is a nuclear weapon mounted on a missile, which can use a ballistic trajectory to deliver the warhead over the horizon. although even short-range missiles allow for a faster and less vulnerable attack, the development of long-range intercontinental ballistic missiles (icbms) and submarine-launched ballistic missiles (slbms) has given some nations the ability to plausibly deliver missiles anywhere on the globe with a high likelihood of success.
+more advanced systems, such as multiple independently targetable reentry vehicles (mirvs), can launch multiple warheads at different targets from one missile, reducing the chance of a successful missile defense. today, missiles are most common among systems designed for delivery of nuclear weapons. making a warhead small enough to fit onto a missile, though, can be difficult.[12]
+tactical weapons have involved the most variety of delivery types, including not only gravity bombs and missiles but also artillery shells, land mines, and nuclear depth charges and torpedoes for anti-submarine warfare. an atomic mortar has been tested by the united states. small, two-man portable tactical weapons (somewhat misleadingly referred to as suitcase bombs), such as the special atomic demolition munition, have been developed, although the difficulty of combining sufficient yield with portability limits their military utility.[12]
+
+nuclear strategy
+main articles: nuclear strategy and deterrence theory
+see also: nuclear peace, essentials of post–cold war deterrence, single integrated operational plan, nuclear warfare, and on thermonuclear war
+nuclear warfare strategy is a set of policies that deal with preventing or fighting a nuclear war. the policy of trying to prevent an attack by a nuclear weapon from another country by threatening nuclear retaliation is known as the strategy of nuclear deterrence. the goal in deterrence is to always maintain a second strike capability (the ability of a country to respond to a nuclear attack with one of its own) and potentially to strive for first strike status (the ability to destroy an enemy's nuclear forces before they could retaliate). during the cold war, policy and military theorists considered the sorts of policies that might prevent a nuclear attack, and they developed game theory models that could lead to stable deterrence conditions.[26]
+
+ the now decommissioned united states' peacekeeper missile was an icbm developed to replace the minuteman missile in the late 1980s. each missile, like the heavier lift russian ss-18 satan, could contain up to ten nuclear warheads (shown in red), each of which could be aimed at a different target. a factor in the development of mirvs was to make complete missile defense difficult for an enemy country.
+different forms of nuclear weapons delivery (see above) allow for different types of nuclear strategies. the goals of any strategy are generally to make it difficult for an enemy to launch a pre-emptive strike against the weapon system and difficult to defend against the delivery of the weapon during a potential conflict. this can mean keeping weapon locations hidden, such as deploying them on submarines or land mobile transporter erector launchers whose locations are difficult to track, or it can mean protecting weapons by burying them in hardened missile silo bunkers. other components of nuclear strategies included using missile defenses to destroy the missiles before they land, or implementing civil defense measures using early-warning systems to evacuate citizens to safe areas before an attack.
+weapons designed to threaten large populations or to deter attacks are known as strategic weapons. nuclear weapons for use on a battlefield in military situations are called tactical weapons.
+critics of nuclear war strategy often suggest that a nuclear war between two nations would result in mutual annihilation. from this point of view, the significance of nuclear weapons is to deter war because any nuclear war would escalate out of mutual distrust and fear, resulting in mutually assured destruction. this threat of national, if not global, destruction has been a strong motivation for anti-nuclear weapons activism.
+critics from the peace movement and within the military establishment[citation needed] have questioned the usefulness of such weapons in the current military climate. according to an advisory opinion issued by the international court of justice in 1996, the use of (or threat of use of) such weapons would generally be contrary to the rules of international law applicable in armed conflict, but the court did not reach an opinion as to whether or not the threat or use would be lawful in specific extreme circumstances such as if the survival of the state were at stake.
+another deterrence position is that nuclear proliferation can be desirable. in this case, it is argued that, unlike conventional weapons, nuclear weapons deter all-out war between states, and they succeeded in doing this during the cold war between the u.s. and the soviet union.[27] in the late 1950s and early 1960s, gen. pierre marie gallois of france, an adviser to charles de gaulle, argued in books like the balance of terror: strategy for the nuclear age (1961) that mere possession of a nuclear arsenal was enough to ensure deterrence, and thus concluded that the spread of nuclear weapons could increase international stability. some prominent neo-realist scholars, such as kenneth waltz and john mearsheimer, have argued, along the lines of gallois, that some forms of nuclear proliferation would decrease the likelihood of total war, especially in troubled regions of the world where there exists a single nuclear-weapon state. aside from the public opinion that opposes proliferation in any form, there are two schools of thought on the matter: those, like mearsheimer, who favored selective proliferation,[28] and waltz, who was somewhat more non-interventionist.[29][30] interest in proliferation and the stability-instability paradox that it generates continues to this day, with ongoing debate about indigenous japanese and south korean nuclear deterrent against north korea.[31]
+the threat of potentially suicidal terrorists possessing nuclear weapons (a form of nuclear terrorism) complicates the decision process. the prospect of mutually assured destruction might not deter an enemy who expects to die in the confrontation. further, if the initial act is from a stateless terrorist instead of a sovereign nation, there might not be a nation or specific target to retaliate against. it has been argued, especially after the september 11, 2001 attacks, that this complication calls for a new nuclear strategy, one that is distinct from that which gave relative stability during the cold war.[32] since 1996, the united states has had a policy of allowing the targeting of its nuclear weapons at terrorists armed with weapons of mass destruction.[33]
+robert gallucci argues that although traditional deterrence is not an effective approach toward terrorist groups bent on causing a nuclear catastrophe, gallucci believes that "the united states should instead consider a policy of expanded deterrence, which focuses not solely on the would-be nuclear terrorists but on those states that may deliberately transfer or inadvertently lead nuclear weapons and materials to them. by threatening retaliation against those states, the united states may be able to deter that which it cannot physically prevent.".[34]
+graham allison makes a similar case, arguing that the key to expanded deterrence is coming up with ways of tracing nuclear material to the country that forged the fissile material. "after a nuclear bomb detonates, nuclear forensics cops would collect debris samples and send them to a laboratory for radiological analysis. by identifying unique attributes of the fissile material, including its impurities and contaminants, one could trace the path back to its origin."[35] the process is analogous to identifying a criminal by fingerprints. "the goal would be twofold: first, to deter leaders of nuclear states from selling weapons to terrorists by holding them accountable for any use of their weapons; second, to give leaders every incentive to tightly secure their nuclear weapons and materials."[35]
+
+governance, control, and law
+main articles: treaty on the non-proliferation of nuclear weapons, strategic arms limitation talks, intermediate-range nuclear forces treaty, start i, start ii, strategic offensive reductions treaty, comprehensive nuclear-test-ban treaty, lahore declaration, and new start
+see also: anti-nuclear movement
+ the international atomic energy agency was created in 1957 to encourage peaceful development of nuclear technology while providing international safeguards against nuclear proliferation.
+because they are weapons of mass destruction, the proliferation and possible use of nuclear weapons are important issues in international relations and diplomacy. in most countries, the use of nuclear force can only be authorized by the head of government or head of state.[36] despite controls and regulations governing nuclear weapons, there is an inherent danger of "accidents, mistakes, false alarms, blackmail, theft, and sabotage".[37]
+in the late 1940s, lack of mutual trust prevented the united states and the soviet union from making progress on arms control agreements. the russell–einstein manifesto was issued in london on july 9, 1955, by bertrand russell in the midst of the cold war. it highlighted the dangers posed by nuclear weapons and called for world leaders to seek peaceful resolutions to international conflict. the signatories included eleven pre-eminent intellectuals and scientists, including albert einstein, who signed it just days before his death on april 18, 1955. a few days after the release, philanthropist cyrus s. eaton offered to sponsor a conference—called for in the manifesto—in pugwash, nova scotia, eaton's birthplace. this conference was to be the first of the pugwash conferences on science and world affairs, held in july 1957.
+by the 1960s, steps were taken to limit both the proliferation of nuclear weapons to other countries and the environmental effects of nuclear testing. the partial nuclear test ban treaty (1963) restricted all nuclear testing to underground nuclear testing, to prevent contamination from nuclear fallout, whereas the treaty on the non-proliferation of nuclear weapons (1968) attempted to place restrictions on the types of activities signatories could participate in, with the goal of allowing the transference of non-military nuclear technology to member countries without fear of proliferation.
+in 1957, the international atomic energy agency (iaea) was established under the mandate of the united nations to encourage development of peaceful applications of nuclear technology, provide international safeguards against its misuse, and facilitate the application of safety measures in its use. in 1996, many nations signed the comprehensive nuclear-test-ban treaty,[38] which prohibits all testing of nuclear weapons. a testing ban imposes a significant hindrance to nuclear arms development by any complying country.[39] the treaty requires the ratification by 44 specific states before it can go into force; as of  2012[update], the ratification of eight of these states is still required.[38]
+additional treaties and agreements have governed nuclear weapons stockpiles between the countries with the two largest stockpiles, the united states and the soviet union, and later between the united states and russia. these include treaties such as salt ii (never ratified), start i (expired), inf, start ii (never ratified), sort, and new start, as well as non-binding agreements such as salt i and the presidential nuclear initiatives[40] of 1991. even when they did not enter into force, these agreements helped limit and later reduce the numbers and types of nuclear weapons between the united states and the soviet union/russia.
+nuclear weapons have also been opposed by agreements between countries. many nations have been declared nuclear-weapon-free zones, areas where nuclear weapons production and deployment are prohibited, through the use of treaties. the treaty of tlatelolco (1967) prohibited any production or deployment of nuclear weapons in latin america and the caribbean, and the treaty of pelindaba (1964) prohibits nuclear weapons in many african countries. as recently as 2006 a central asian nuclear weapon free zone was established among the former soviet republics of central asia prohibiting nuclear weapons.
+in 1996, the international court of justice, the highest court of the united nations, issued an advisory opinion concerned with the "legality of the threat or use of nuclear weapons". the court ruled that the use or threat of use of nuclear weapons would violate various articles of international law, including the geneva conventions, the hague conventions, the un charter, and the universal declaration of human rights. given the unique, destructive characteristics of nuclear weapons, the international committee of the red cross calls on states to ensure that these weapons are never used, irrespective of whether they consider them lawful or not.[41]
+additionally, there have been other, specific actions meant to discourage countries from developing nuclear arms. in the wake of the tests by india and pakistan in 1998, economic sanctions were (temporarily) levied against both countries, though neither were signatories with the nuclear non-proliferation treaty. one of the stated casus belli for the initiation of the 2003 iraq war was an accusation by the united states that iraq was actively pursuing nuclear arms (though this was soon discovered not to be the case as the program had been discontinued). in 1981, israel had bombed a nuclear reactor being constructed in osirak, iraq, in what it called an attempt to halt iraq's previous nuclear arms ambitions; in 2007, israel bombed another reactor being constructed in syria.
+in 2013, mark diesendorf said that governments of france, india, north korea, pakistan, uk, and south africa have used nuclear power and/or research reactors to assist nuclear weapons development or to contribute to their supplies of nuclear explosives from military reactors.[42]
+
+disarmament
+main article: nuclear disarmament
+for statistics on possession and deployment, see list of states with nuclear weapons.
+ the ussr and united states nuclear weapon stockpiles throughout the cold war until 2015, with a precipitous drop in total numbers following the end of the cold war in 1991.
+nuclear disarmament refers to both the act of reducing or eliminating nuclear weapons and to the end state of a nuclear-free world, in which nuclear weapons are eliminated.
+beginning with the 1963 partial test ban treaty and continuing through the 1996 comprehensive test ban treaty, there have been many treaties to limit or reduce nuclear weapons testing and stockpiles. the 1968 nuclear non-proliferation treaty has as one of its explicit conditions that all signatories must "pursue negotiations in good faith" towards the long-term goal of "complete disarmament". the nuclear weapon states have largely treated that aspect of the agreement as "decorative" and without force.[43]
+only one country—south africa—has ever fully renounced nuclear weapons they had independently developed. the former soviet republics of belarus, kazakhstan, and ukraine returned soviet nuclear arms stationed in their countries to russia after the collapse of the ussr.
+proponents of nuclear disarmament say that it would lessen the probability of nuclear war, especially accidentally. critics of nuclear disarmament say that it would undermine the present nuclear peace and deterrence and would lead to increased global instability. various american elder statesmen,[44] who were in office during the cold war period, have been advocating the elimination of nuclear weapons. these officials include henry kissinger, george shultz, sam nunn, and william perry. in january 2010, lawrence m. krauss stated that "no issue carries more importance to the long-term health and security of humanity than the effort to reduce, and perhaps one day, rid the world of nuclear weapons".[45]
+
+ ukrainian workers use equipment provided by the u.s. defense threat reduction agency to dismantle a soviet-era missile silo. after the end of the cold war, ukraine and the other non-russian, post-soviet republics relinquished soviet nuclear stockpiles to russia.
+in the years after the end of the cold war, there have been numerous campaigns to urge the abolition of nuclear weapons, such as that organized by the global zero movement, and the goal of a "world without nuclear weapons" was advocated by united states president barack obama in an april 2009 speech in prague.[46] a cnn poll from april 2010 indicated that the american public was nearly evenly split on the issue.[47]
+some analysts have argued that nuclear weapons have made the world relatively safer, with peace through deterrence and through the stability–instability paradox, including in south asia.[48][49] kenneth waltz has argued that nuclear weapons have helped keep an uneasy peace, and further nuclear weapon proliferation might even help avoid the large scale conventional wars that were so common before their invention at the end of world war ii.[30] but former secretary henry kissinger says there is a new danger, which cannot be addressed by deterrence: "the classical notion of deterrence was that there was some consequences before which aggressors and evildoers would recoil. in a world of suicide bombers, that calculation doesn’t operate in any comparable way".[50] george shultz has said, "if you think of the people who are doing suicide attacks, and people like that get a nuclear weapon, they are almost by definition not deterrable".[51]
+
+united nations
+main article: united nations office for disarmament affairs
+the un office for disarmament affairs (unoda) is a department of the united nations secretariat established in january 1998 as part of the united nations secretary-general kofi annan's plan to reform the un as presented in his report to the general assembly in july 1997.[52]
+its goal is to promote nuclear disarmament and non-proliferation and the strengthening of the disarmament regimes in respect to other weapons of mass destruction, chemical and biological weapons. it also promotes disarmament efforts in the area of conventional weapons, especially land mines and small arms, which are often the weapons of choice in contemporary conflicts.
+
+controversy
+see also: nuclear weapons debate and history of the anti-nuclear movement
+ethics
+main article: nuclear ethics
+even before the first nuclear weapons had been developed, scientists involved with the manhattan project were divided over the use of the weapon. the role of the two atomic bombings of the country in japan's surrender and the u.s.'s ethical justification for them has been the subject of scholarly and popular debate for decades. the question of whether nations should have nuclear weapons, or test them, has been continually and nearly universally controversial.[53]
+
+notable nuclear weapons accidents
+main article: nuclear and radiation accidents and incidents
+see also: list of nuclear close calls
+21 august 1945: while conducting impromptu experiments on a third core (an alloy of plutonium and gallium) which had been prepared for atomic warfare at los alamos national laboratory, physicist harry daghlian received a lethal dose of radiation. he died on 15 september 1945.
+21 may 1946: while conducting further impromptu experiments on the third plutonium core at los alamos national laboratory, physicist louis slotin received a lethal dose of radiation. he died on 30 may 1946. after these 2 incidents, the core was used to construct a bomb for use on the nevada test range.[54]
+february 13, 1950: a convair b-36b crashed in northern british columbia after jettisoning a mark iv atomic bomb. this was the first such nuclear weapon loss in history.
+may 22, 1957: a 42,000-pound (19,000 kg) mark-17 hydrogen bomb accidentally fell from a bomber near albuquerque, new mexico. the detonation of the device's conventional explosives destroyed it on impact and formed a crater 25 feet (7.6 m) in diameter on land owned by the university of new mexico. according to a researcher at the natural resources defense council, it was one of the most powerful bombs made to date.[55]
+june 7, 1960: the 1960 fort dix im-99 accident destroyed a boeing cim-10 bomarc nuclear missile and shelter and contaminated the bomarc missile accident site in new jersey.
+january 24, 1961: the 1961 goldsboro b-52 crash occurred near goldsboro, north carolina. a boeing b-52 stratofortress carrying two mark 39 nuclear bombs broke up in mid-air, dropping its nuclear payload in the process.[56]
+1965 philippine sea a-4 crash, where a skyhawk attack aircraft with a nuclear weapon fell into the sea.[57] the pilot, the aircraft, and the b43 nuclear bomb were never recovered.[58] it was not until 1989 that the pentagon revealed the loss of the one-megaton bomb.[59]
+january 17, 1966: the 1966 palomares b-52 crash occurred when a b-52g bomber of the usaf collided with a kc-135 tanker during mid-air refuelling off the coast of spain. the kc-135 was completely destroyed when its fuel load ignited, killing all four crew members. the b-52g broke apart, killing three of the seven crew members aboard.[60] of the four mk28 type hydrogen bombs the b-52g carried,[61] three were found on land near almería, spain. the non-nuclear explosives in two of the weapons detonated upon impact with the ground, resulting in the contamination of a 2-square-kilometer (490-acre) (0.78 square mile) area by radioactive plutonium. the fourth, which fell into the mediterranean sea, was recovered intact after a 2½-month-long search.[62]
+january 21, 1968: the 1968 thule air base b-52 crash involved a united states air force (usaf) b-52 bomber. the aircraft was carrying four hydrogen bombs when a cabin fire forced the crew to abandon the aircraft. six crew members ejected safely, but one who did not have an ejection seat was killed while trying to bail out. the bomber crashed onto sea ice in greenland, causing the nuclear payload to rupture and disperse, which resulted in widespread radioactive contamination.
+september 18–19, 1980: the damascus accident, occurred in damascus, arkansas, where a titan missile equipped with a nuclear warhead exploded. the accident was caused by a maintenance man who dropped a socket from a socket wrench down an 80-foot (24 m) shaft, puncturing a fuel tank on the rocket. leaking fuel resulted in a hypergolic fuel explosion, jettisoning the w-53 warhead beyond the launch site.[63][64][65]
+nuclear testing and fallout
+main article: nuclear fallout see also: downwinders
+ over 2,000 nuclear tests have been conducted in over a dozen different sites around the world. red russia/soviet union, blue france, light blue united states, violet britain, black israel, yellow china, orange india, brown pakistan, green north korea and light green (territories exposed to nuclear bombs)
+ this view of downtown las vegas shows a mushroom cloud in the background. scenes such as this were typical during the 1950s. from 1951 to 1962 the government conducted 100 atmospheric tests at the nearby nevada test site.
+over 500 atmospheric nuclear weapons tests were conducted at various sites around the world from 1945 to 1980. radioactive fallout from nuclear weapons testing was first drawn to public attention in 1954 when the castle bravo hydrogen bomb test at the pacific proving grounds contaminated the crew and catch of the japanese fishing boat lucky dragon.[66] one of the fishermen died in japan seven months later, and the fear of contaminated tuna led to a temporary boycotting of the popular staple in japan. the incident caused widespread concern around the world, especially regarding the effects of nuclear fallout and atmospheric nuclear testing, and "provided a decisive impetus for the emergence of the anti-nuclear weapons movement in many countries".[66]
+as public awareness and concern mounted over the possible health hazards associated with exposure to the nuclear fallout, various studies were done to assess the extent of the hazard. a centers for disease control and prevention/ national cancer institute study claims that fallout from atmospheric nuclear tests would lead to perhaps 11,000 excess deaths among people alive during atmospheric testing in the united states from all forms of cancer, including leukemia, from 1951 to well into the 21st century.[67][68]
+as of  march 2009[update], the u.s. is the only nation that compensates nuclear test victims. since the radiation exposure compensation act of 1990, more than $1.38 billion in compensation has been approved. the money is going to people who took part in the tests, notably at the nevada test site, and to others exposed to the radiation.[69][70]
+in addition, leakage of byproducts of nuclear weapon production into groundwater has been an ongoing issue, particularly at the hanford site.[71]
+
+effects of nuclear explosions
+main article: effects of nuclear explosions
+effects of nuclear explosions on human health
+main article: effects of nuclear explosions on human health
+some scientists estimate that a nuclear war with 100 hiroshima-size nuclear explosions on cities could cost the lives of tens of millions of people from long term climatic effects alone. the climatology hypothesis is that if each city firestorms, a great deal of soot could be thrown up into the atmosphere which could blanket the earth, cutting out sunlight for years on end, causing the disruption of food chains, in what is termed a nuclear winter.[72][73]
+people near the hiroshima explosion and who managed to survive the explosion subsequently suffered a variety of medical effects:[74][75][citation needed][76]
+
+initial stage—the first 1–9 weeks, in which are the greatest number of deaths, with 90% due to thermal injury and/or blast effects and 10% due to super-lethal radiation exposure.
+intermediate stage—from 10–12 weeks. the deaths in this period are from ionizing radiation in the median lethal range – ld50
+late period—lasting from 13–20 weeks. this period has some improvement in survivors' condition.
+delayed period—from 20+ weeks. characterized by numerous complications, mostly related to healing of thermal and mechanical injuries, and if the individual was exposed to a few hundred to a thousand millisieverts of radiation, it is coupled with infertility, sub-fertility and blood disorders. furthermore, ionizing radiation above a dose of around 50–100 millisievert exposure has been shown to statistically begin increasing one's chance of dying of cancer sometime in their lifetime over the normal unexposed rate of ~25%, in the long term, a heightened rate of cancer, proportional to the dose received, would begin to be observed after ~5+ years, with lesser problems such as eye cataracts and other more minor effects in other organs and tissue also being observed over the long term.
+fallout exposure – depending on if further afield individuals shelter in place or evacuate perpendicular to the direction of the wind, and therefore avoid contact with the fallout plume, and stay there for the days and weeks after the nuclear explosion, their exposure to fallout, and therefore their total dose, will vary. with those who do shelter in place, and or evacuate, experiencing a total dose that would be negligible in comparison to someone who just went about their life as normal.[77][78]
+staying indoors until after the most hazardous fallout isotope, i-131 decays away to 0.1% of its initial quantity after ten half lifes – which is represented by 80 days in i-131s case, would make the difference between likely contracting thyroid cancer or escaping completely from this substance depending on the actions of the individual.[79]
+
+public opposition
+see also: history of the anti-nuclear movement and international day against nuclear tests
+ women strike for peace during the cuban missile crisis
+ demonstration against nuclear testing in lyon, france, in the 1980s.
+peace movements emerged in japan and in 1954 they converged to form a unified "japanese council against atomic and hydrogen bombs". japanese opposition to nuclear weapons tests in the pacific ocean was widespread, and "an estimated 35 million signatures were collected on petitions calling for bans on nuclear weapons".[80]
+in the united kingdom, the first aldermaston march organised by the campaign for nuclear disarmament(cnd) took place at easter 1958, when, according to the cnd, several thousand people marched for four days from trafalgar square, london, to the atomic weapons research establishment close to aldermaston in berkshire, england, to demonstrate their opposition to nuclear weapons.[81][82] the aldermaston marches continued into the late 1960s when tens of thousands of people took part in the four-day marches.[80]
+in 1959, a letter in the bulletin of the atomic scientists was the start of a successful campaign to stop the atomic energy commission dumping radioactive waste[quantify] in the sea 19 kilometres from boston.[83] in 1962, linus pauling won the nobel peace prize for his work to stop the atmospheric testing of nuclear weapons, and the "ban the bomb" movement spread.[53]
+in 1963, many countries ratified the partial test ban treaty prohibiting atmospheric nuclear testing. radioactive fallout became less of an issue and the anti-nuclear weapons movement went into decline for some years.[66][84] a resurgence of interest occurred amid european and american fears of nuclear war in the 1980s.[85]
+
+costs and technology spin-offs
+see also: global positioning system, nuclear weapons delivery, history of computing hardware, eniac, and swords to ploughshares
+according to an audit by the brookings institution, between 1940 and 1996, the u.s. spent $9.3 trillion in present-day terms[86] on nuclear weapons programs. 57 percent of which was spent on building nuclear weapons delivery systems. 6.3 percent of the total, $583 billion in present-day terms, was spent on environmental remediation and nuclear waste management, for example cleaning up the hanford site, and 7 percent of the total, $653 billion was spent on making nuclear weapons themselves.[87]
+
+non-weapons uses
+main article: peaceful nuclear explosion
+peaceful nuclear explosions are nuclear explosions conducted for non-military purposes, such as activities related to economic development including the creation of canals. during the 1960s and 1970s, both the united states and the soviet union conducted a number of pnes. six of the explosions by the soviet union are considered to have been of an applied nature, not just tests.
+subsequently, the united states and the soviet union halted their programs. definitions and limits are covered in the peaceful nuclear explosions treaty of 1976.[88][89] the comprehensive nuclear-test-ban treaty of 1996, once it enters into force, will prohibit all nuclear explosions, regardless of whether they are for peaceful purposes or not.[90]
+
+history of development
+main article: history of nuclear weapons
+see also: soviet atomic bomb project, manhattan project, cold war, and history of the teller–ulam design
+this section is empty. you can help by adding to it. (july 2017)
+see also
+
+
+nuclear technology portal
+weapons of mass destruction portal
+
+cobalt bomb
+cuban missile crisis
+dirty bomb
+induced gamma emission
+international court of justice advisory opinion on the legality of the threat or use of nuclear weapons
+list of nuclear close calls
+list of nuclear weapons
+list of states with nuclear weapons
+nth country experiment
+nuclear blackout
+nuclear bunker buster
+nuclear holocaust
+nuclear warfare
+nuclear weapons and the united kingdom
+nuclear weapons in popular culture
+nuclear weapons of the united states
+opanal (agency for the prohibition of nuclear weapons in latin america and the caribbean)
+russia and weapons of mass destruction
+three non-nuclear principles of japan
+
+references
+
+
+^ "atomic power for war and peace". popular mechanics. october 1945. pp. 18–19..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ specifically the 1970 to 1980 designed and deployed us b83 nuclear bomb, with a yield of up to 1.2 megatons.
+
+^ "frequently asked questions #1". radiation effects research foundation. archived from the original on september 19, 2007. retrieved september 18, 2007. total number of deaths is not known precisely ... acute (within two to four months) deaths ... hiroshima ... 90,000－166,000 ... nagasaki ... 60,000－80,000
+
+^ "federation of american scientists: status of world nuclear forces". fas.org. archived from the original on january  2, 2013. retrieved december 29, 2012.
+
+^ "nuclear weapons – israel". fas.org. january  8, 2007. archived from the original on december  7, 2010. retrieved december 15, 2010.
+
+^ see also mordechai vanunu
+
+^ executive release. "south african nuclear bomb". nuclear threat initiatives. nuclear threat initiatives, south africa (nti south africa). archived from the original on september 28, 2012. retrieved march 13, 2012.
+
+^ ian lowe, "three minutes to midnight", australasian science, march 2016, p. 49.
+
+^ jungk 1958, p. 201.
+
+^ educational foundation for nuclear science, inc. (february 1954). bulletin of the atomic scientists. educational foundation for nuclear science, inc. pp. 61–. issn 0096-3402. archived from the original on march 31, 2017.
+
+^ hoddeson, lillian; henriksen, paul w.; meade, roger a.; westfall, catherine l. (1993). critical assembly: a technical history of los alamos during the oppenheimer years, 1943–1945. new york: cambridge university press. p. 228. isbn 978-0-521-44132-2. oclc 26764320.
+
+^ a b c d e f hansen, chuck. u.s. nuclear weapons: the secret history. san antonio, tx: aerofax, 1988; and the more-updated hansen, chuck, "swords of armageddon: u.s. nuclear weapons development since 1945 archived december 30, 2016, at the wayback machine" (cd-rom & download available). pdf. 2,600 pages, sunnyvale, california, chuklea publications, 1995, 2007. isbn 978-0-9791915-0-3 (2nd ed.)
+
+^ david albright and kimberly kramer (august 22, 2005). "neptunium 237 and americium: world inventories and proliferation concerns" (pdf). institute for science and international security. archived (pdf) from the original on january  3, 2012. retrieved october 13, 2011.
+
+^ carey sublette, nuclear weapons frequently asked questions: 4.5.2 "dirty" and "clean" weapons archived march 3, 2016, at the wayback machine, accessed may 10, 2011.
+
+^ on india's alleged hydrogen bomb test, see carey sublette, what are the real yields of india's test? archived september 27, 2011, at the wayback machine.
+
+^ mckirdy, euan. "north korea announces it conducted nuclear test". cnn. archived from the original on january  7, 2016. retrieved january  7, 2016.
+
+^ sublette, carey. "the nuclear weapon archive". archived from the original on march  1, 2007. retrieved march  7, 2007.
+
+^ u.s. department of energy, restricted data declassification decisions, 1946 to the present (rdd-8) archived september 24, 2015, at the wayback machine (january 1, 2002), accessed november 20, 2011.
+
+^ a b gsponer, andre (2005). "fourth generation nuclear weapons: military effectiveness and collateral effects". pp. physics/0510071. arxiv:physics/0510071.
+
+^ "details on antimatter triggered fusion bombs - nextbigfuture.com". september 22, 2015. archived from the original on april 22, 2017.
+
+^ "page discussing the possibility of using antimatter as a trigger for a thermonuclear explosion". cui.unige.ch. archived from the original on april 24, 2013. retrieved may 30, 2013.
+
+^ gsponer, andre; hurni, jean-pierre (1987).  g. velarde and e. minguez, eds. "proceedings of the international conference on emerging nuclear energy systems, madrid, june/july, 1986". in g. velarde and e. minguez, eds., proceedings of the /july 4 (world scientific, singapore, 1987) 166--169. 4 (30): 166–169. arxiv:physics/0507114. bibcode:2005physics...7114g. |chapter= ignored (help)cs1 maint: uses editors parameter (link)
+
+^ keay davidson; chronicle science writer (october  4, 2004). "air force pursuing antimatter weapons: program was touted publicly, then came official gag order". sfgate.com. archived from the original on june  9, 2012. retrieved may 30, 2013.
+
+^ "fourth generation nuclear weapons". archived from the original on march 23, 2016. retrieved october 24, 2014.
+
+^ stephen i. schwartz, ed., atomic audit: the costs and consequences of u.s. nuclear weapons since 1940. washington, d.c.: brookings institution press, 1998. see also estimated minimum incurred costs of u.s. nuclear weapons programs, 1940–1996, an excerpt from the book. archived november 21, 2008, at the wayback machine
+
+^ michael i. handel (november 12, 2012). war, strategy and intelligence. routledge. pp. 85–. isbn 978-1-136-28624-7. archived from the original on march 31, 2017.
+
+^ creveld, martin van (2000). "technology and war ii:postmodern war?".  in charles townshend. the oxford history of modern war. new york, usa: oxford university press. p. 349. isbn 978-0-19-285373-8.cs1 maint: uses editors parameter (link)
+
+^ mearsheimer, john (2006). "conversations in international relations: interview with john j. mearsheimer (part i)" (pdf). international relations. 20 (1): 105–123. doi:10.1177/0047117806060939. archived (pdf) from the original on may  1, 2013.see page 116
+
+^ kenneth waltz, "more may be better," in scott sagan and kenneth waltz, eds., the spread of nuclear weapons (new york: norton, 1995).
+
+^ a b kenneth waltz, "the spread of nuclear weapons: more may better," archived december 1, 2010, at the wayback machine adelphi papers, no. 171 (london: international institute for strategic studies, 1981).
+
+^ "should we let the bomb spread? edited by mr. henry d. sokolski. strategic studies institute. november 2016". archived from the original on november 23, 2016.
+
+^ see, for example: feldman, noah. "islam, terror and the second nuclear age archived february 19, 2016, at the wayback machine," new york times magazine (october 29, 2006).
+
+^ daniel plesch & stephen young, "senseless policy", bulletin of the atomic scientists archived september 19, 2015, at the wayback machine, november/december 1998, page 4. fetched from url on april 18, 2011.
+
+^ gallucci, robert (september 2006). "averting nuclear catastrophe: contemplating extreme responses to u.s. vulnerability". annals of the american academy of political and social science. 607: 51–58. doi:10.1177/0002716206290457. archived from the original on february 23, 2015. retrieved january 28, 2013.
+
+^ a b allison, graham (march 13, 2009). "how to keep the bomb from terrorists". newsweek. archived from the original on may 13, 2013. retrieved january 28, 2013.
+
+^ in the united states, the president and the secretary of defense, acting as the national command authority, must jointly authorize the use of nuclear weapons.
+
+^ eric schlosser, today's nuclear dilemma, bulletin of the atomic scientists, november/december 2015, vol. 71 no. 6, 11–17.
+
+^ a b preparatory commission for the comprehensive nuclear-test-ban treaty organization (2010). "status of signature and ratification archived april 6, 2011, at the wayback machine". accessed may 27, 2010. of the "annex 2" states whose ratification of the ctbt is required before it enters into force, china, egypt, iran, israel, and the united states have signed but not ratified the treaty. india, north korea, and pakistan have not signed the treaty.
+
+^ richelson, jeffrey. spying on the bomb: american nuclear intelligence from nazi germany to iran and north korea. new york: norton, 2006.
+
+^ the presidential nuclear initiatives (pnis) on tactical nuclear weapons at a glance archived january 19, 2011, at the wayback machine, fact sheet, arms control association.
+
+^ nuclear weapons and international humanitarian law archived april 21, 2010, at the wayback machine international committee of the red cross
+
+^ mark diesendorf (2013). "book review: contesting the future of nuclear power" (pdf). energy policy. archived (pdf) from the original on september 27, 2013.[dubious  – discuss]
+
+^ gusterson, hugh, "finding article vi archived september 17, 2008, at the wayback machine" bulletin of the atomic scientists (january 8, 2007).
+
+^ jim hoagland (october  6, 2011). "nuclear energy after fukushima". washington post. archived from the original on october  1, 2013.
+
+^ lawrence m. krauss. the doomsday clock still ticks, scientific american, january 2010, p. 26.
+
+^ graham, nick (april  5, 2009). "obama prague speech on nuclear weapons". huffingtonpost.com. archived from the original on may  9, 2013. retrieved may 30, 2013.
+
+^ "cnn poll: public divided on eliminating all nuclear weapons". politicalticker.blogs.cnn.com. april 12, 2010. archived from the original on july 21, 2013. retrieved may 30, 2013.
+
+^ krepon, michael. "the stability-instability paradox, misperception, and escalation control in south asia" (pdf). stimson. archived (pdf) from the original on september 24, 2015. retrieved november 20, 2015.
+
+^ "michael krepon • the stability-instability paradox". archived from the original on january 12, 2015. retrieved october 24, 2014.
+
+^ ben goddard (january 27, 2010). "cold warriors say no nukes". the hill. archived from the original on february 13, 2014.
+
+^ hugh gusterson (march 30, 2012). "the new abolitionists". bulletin of the atomic scientists. archived from the original on february 17, 2014.
+
+^ kofi annan (july 14, 1997). "renewing the united nations: a program for reform". united nations. a/51/950. archived from the original on march 18, 2017. retrieved march 17, 2017.
+
+^ a b jerry brown and rinaldo brutoco (1997). profiles in power: the anti-nuclear movement and the dawn of the solar age, twayne publishers, pp. 191–192.
+
+^ "the nuclear 'demon core' that killed two scientists". april 23, 2018.
+
+^ "accident revealed after 29 years: h-bomb fell near albuquerque in 1957". los angeles times. associated press. august 27, 1986. archived from the original on september 10, 2014. retrieved august 31, 2014.
+
+^ barry schneider (may 1975). "big bangs from little bombs". bulletin of the atomic scientists. p. 28. retrieved july 13, 2009.
+
+^ "ticonderoga cruise reports". archived from the original (navy.mil weblist of aug 2003 compilation from cruise reports) on september 7, 2004. retrieved april 20, 2012. the national archives hold[s] deck logs for aircraft carriers for the vietnam conflict.
+
+^ broken arrows archived september 1, 2013, at the wayback machine at www.atomicarchive.com. accessed august 24, 2007.
+
+^ "u.s. confirms '65 loss of h-bomb near japanese islands". the washington post. reuters. may 9, 1989. p. a–27.
+
+^ hayes, ron (january 17, 2007). "h-bomb incident crippled pilot's career". palm beach post. archived from the original on june 16, 2011. retrieved may 24, 2006.
+
+^ maydew, randall c. (1997). america's lost h-bomb: palomares, spain, 1966. sunflower university press. isbn 978-0-89745-214-4.
+
+^ long, tony (january 17, 2008). "jan. 17, 1966: h-bombs rain down on a spanish fishing village". wired. archived from the original on december  3, 2008. retrieved february 16, 2008.
+
+^ schlosser, eric (2013). command and control: nuclear weapons, the damascus accident, and the illusion of safety. physics today. 67. pp. 48–50. bibcode:2014pht....67d..48w. doi:10.1063/pt.3.2350. isbn 978-1-59420-227-8.
+
+^ christ, mark k. "titan ii missile explosion". the encyclopedia of arkansas history & culture. arkansas historic preservation program. archived from the original on september 12, 2014. retrieved august 31, 2014.
+
+^ stumpf, david k. (2000).  christ, mark k.; slater, cathryn h., eds. "we can neither confirm nor deny" sentinels of history: refelections on arkansas properties on the national register of historic places. fayetteville, arkansas: university of arkansas press.
+
+^ a b c rudig, wolfgang (1990). "anti-nuclear movements: a world survey of opposition to nuclear energy". longman. pp. 54–55. missing or empty |url= (help)
+
+^ "report on the health consequences to the american population from nuclear weapons tests conducted by the united states and other nations". cdc. archived from the original on december  4, 2013. retrieved december  7, 2013.
+
+^ committee to review the cdc-nci feasibility study of the health consequences nuclear weapons tests, national research council. "exposure of the american population to radioactive fallout from nuclear weapons tests". archived from the original on september  7, 2014. retrieved october 24, 2014.
+
+^ abc news. "what governments offer to victims of nuclear tests". abc news. retrieved october 24, 2014.
+
+^ "radiation exposure compensation system: claims to date summary of claims received by 06/11/2009" (pdf). archived (pdf) from the original on september  7, 2009.
+
+^ coghlan, andy. "us nuclear dump is leaking toxic waste". new scientist. archived from the original on april 13, 2016. retrieved march 12, 2016.
+
+^ philip yam. nuclear exchange, scientific american, june 2010, p. 24.
+
+^ alan robock and owen brian toon. local nuclear war, global suffering, scientific american, january 2010, p. 74-81.
+
+^ "remm.nlm.gov". archived from the original on june  7, 2013.
+
+^ "nuclear warfare" (pdf). nd.edu. p. 3. archived (pdf) from the original on november 26, 2013.
+
+^ "hiroshima and nagasaki: the long term health effects | k=1 project". k1project.columbia.edu. archived from the original on june 20, 2017. retrieved september  7, 2017.
+
+^ 7 hour rule: at 7 hours after detonation the fission product activity will have decreased to about 1/10 (10%) of its amount at 1 hour. at about 2 days (49 hours-7x7) the activity will have decreased to 1% of the 1-hour value. falloutradiation.com archived august 31, 2011, at the wayback machine
+
+^ "nuclear warfare" (pdf). p. 22. archived (pdf) from the original on november 26, 2013.
+
+^ oak ridge reservation (usdoe), epa facility id: tn1890090003; site and radiological assessment branch, division of health assessment and consultation, agency for toxic substances and disease registry. "public health assessment iodine-131 releases" (pdf). atsdr.cdc.gov. u.s. center for disease control. archived (pdf) from the original on may 11, 2016. retrieved may 21, 2016.cs1 maint: multiple names: authors list (link)
+
+^ a b jim falk (1982). global fission: the battle over nuclear power, oxford university press, pp. 96–97.
+
+^ "a brief history of cnd". cnduk.org. archived from the original on june 17, 2004. retrieved may 30, 2013.
+
+^ "early defections in march to aldermaston". london: guardian unlimited. april  5, 1958. archived from the original on october  8, 2006.
+
+^ jim falk (1982). global fission: the battle over nuclear power, oxford university press, p. 93.
+
+^ jim falk (1982). global fission: the battle over nuclear power, oxford university press, p. 98.
+
+^ spencer weart, nuclear fear: a history of images (cambridge, massachusetts: harvard university press, 1988), chapters 16 and 19.
+
+^ federal reserve bank of minneapolis community development project. "consumer price index (estimate) 1800–". federal reserve bank of minneapolis. retrieved january 2, 2019.
+
+^ "estimated minimum incurred costs of u.s. nuclear weapons programs, 1940–1996". brookings institution. archived from the original on march 5, 2004. retrieved november 20, 2015.
+
+^ "announcement of treaty on underground nuclear explosions peaceful purposes (pne treaty)" (pdf). gerald r. ford museum and library. may 28, 1976. archived (pdf) from the original on march  5, 2016.
+
+^ peters, gerhard; woolley, john t. "gerald r. ford: "message to the senate transmitting united states-soviet treaty and protocol on the limitation of underground nuclear explosions," july 29, 1976". the american presidency project. university of california – santa barbara. archived from the original on march  3, 2016.
+
+^ "status of signature and ratification". ctbto dot org. ctbt organization preparatory commission. archived from the original on december 28, 2016. retrieved december 29, 2016.
+
+
+bibliography
+.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}
+see also: list of books about nuclear issues
+bethe, hans albrecht. the road from los alamos. new york: simon and schuster, 1991. isbn 0-671-74012-1
+devolpi, alexander, minkov, vladimir e., simonenko, vadim a., and stanford, george s. nuclear shadowboxing: contemporary threats from cold war weaponry. fidlar doubleday, 2004 (two volumes, both accessible on google book search) (content of both volumes is now available in the 2009 trilogy by alexander devolpi: nuclear insights: the cold war legacy)
+glasstone, samuel and dolan, philip j. the effects of nuclear weapons (third edition). washington, d.c.: u.s. government printing office, 1977. available online (pdf).
+nato handbook on the medical aspects of nbc defensive operations (part i – nuclear). departments of the army, navy, and air force: washington, d.c., 1996
+hansen, chuck. u.s. nuclear weapons: the secret history. arlington, tx: aerofax, 1988
+hansen, chuck, "swords of armageddon: u.s. nuclear weapons development since 1945" (cd-rom & download available). pdf. 2,600 pages, sunnyvale, california, chucklea publications, 1995, 2007. isbn 978-0-9791915-0-3 (2nd ed.)
+holloway, david. stalin and the bomb. new haven: yale university press, 1994. isbn 0-300-06056-4
+the manhattan engineer district, "the atomic bombings of hiroshima and nagasaki" (1946)
+(in french) jean-hugues oppel, réveillez le président, éditions payot et rivages, 2007 (isbn 978-2-7436-1630-4). the book is a fiction about the nuclear weapons of france; the book also contains about ten chapters on true historical incidents involving nuclear weapons and strategy.
+smyth, henry dewolf. atomic energy for military purposes. princeton, nj: princeton university press, 1945. (smyth report – the first declassified report by the us government on nuclear weapons)
+the effects of nuclear war. office of technology assessment, may 1979.
+rhodes, richard. dark sun: the making of the hydrogen bomb. new york: simon and schuster, 1995. isbn 0-684-82414-0
+rhodes, richard. the making of the atomic bomb. new york: simon and schuster, 1986 isbn 0-684-81378-5
+schultz, george p. and goodby, james e. the war that must never be fought, hoover press, 2015, isbn 978-0-8179-1845-3.
+weart, spencer r. nuclear fear: a history of images. cambridge, massachusetts: harvard university press, 1988. isbn 0-674-62836-5
+weart, spencer r. the rise of nuclear fear. cambridge, massachusetts: harvard university press, 2012. isbn 0-674-05233-1
+
+further reading
+thomas powers, "the nuclear worrier" (review of daniel ellsberg, the doomsday machine: confessions of a nuclear war planner, new york, bloomsbury, 2017, isbn 9781608196708, 420 pp.), the new york review of books, vol. lxv, no. 1 (18 january 2018), pp. 13–15.
+eric schlosser, command and control: nuclear weapons, the damascus accident, and the illusion of safety, penguin press, 2013, isbn 1594202273. the book became the basis for a 2-hour 2017 pbs american experience episode, likewise titled "command and control". nuclear weapons continue to be equally hazardous to their owners as to their potential targets. under the 1970 treaty on the non-proliferation of nuclear weapons, nuclear-weapon states are obliged to work toward the elimination of nuclear weapons.
+external links
+
+
+
+wikiquote has quotations related to: nuclear weapon
+
+
+
+wikimedia commons has media related to nuclear weapons.
+
+
+
+wikinews has news related to:
+ nuclear proliferation  
+
+
+
+wikibooks has a book on the topic of: the atomic age
+listen to this article (info/dl)
+
+
+
+
+
+this audio file was created from a revision of the article "nuclear weapon" dated 2005-12-01, and does not reflect subsequent edits to the article. (audio help)
+more spoken articles
+
+nuclear weapon archive from carey sublette is a reliable source of information and has links to other sources and an informative faq.
+the federation of american scientists provide solid information on weapons of mass destruction, including nuclear weapons and their effects
+alsos digital library for nuclear issues – contains many resources related to nuclear weapons, including a historical and technical overview and searchable bibliography of web and print resources.
+video archive of us, soviet, uk, chinese and french nuclear weapon testing at sonicbomb.com
+the national museum of nuclear science & history (united states) – located in albuquerque, new mexico; a smithsonian affiliate museum
+nuclear emergency and radiation resources
+the manhattan project: making the atomic bomb at atomicarchive.com
+los alamos national laboratory: history (u.s. nuclear history)
+race for the superbomb, pbs website on the history of the h-bomb
+recordings of recollections of the victims of hiroshima and nagasaki
+the woodrow wilson center's nuclear proliferation international history project or npihp is a global network of individuals and institutions engaged in the study of international nuclear history through archival documents, oral history interviews and other empirical sources.
+nukemap3d – a 3d nuclear weapons effects simulator powered by google maps.
+vteunited states nuclear devicesfissionworld war ii bombs
+little boy
+thin man
+fat man
+post-war bombs
+mark 3
+mark 4
+mark 5
+mark 6
+mark 7
+mark 10
+mark 12
+mark 13
+mark 18
+mark 20
+depth bombs
+mark 90
+bunker busters
+mark 8
+mark 11
+post-war warheads
+w4
+w5
+w7
+w8
+w12
+w13
+w25
+w42
+w44
+w45
+artillery shells
+w9
+w19
+w23
+w33
+w48
+w74
+w79 mod 1
+w82 mod 1
+primaries
+robin
+atomic demolitionmunitions (mines)
+t-4
+madm
+boostedfissionprimaries
+racer iv
+swan
+python
+tsetse
+kinglet
+depth bombs
+mk 101
+warheads
+w30
+w31
+w34
+w37
+w40
+w51
+w54
+w72
+w76 mod 2
+artillery shells
+w54
+atomic demolitionmunitions (mines)
+sadm
+tadm
+thermonuclearbombs
+mark 14
+mark 15
+tx-16
+mark 17
+mark 21
+tx-22
+mark 24
+mark 26
+mark 27
+b28
+mark 36
+mark 39
+b41
+b43
+tx-46
+b53
+b57
+b61
+b77
+b83
+b90
+depth bombs
+b57
+b61
+b90
+bunker busters
+b53
+b61
+warheads
+w15
+w27
+w28
+tx-29
+xw-35
+w38
+w39
+w41
+w46
+w47
+w49
+w50
+w52
+w53
+w55
+w56
+w58
+w59
+w60
+w62
+w63
+w67
+w68
+w69
+w70
+w71
+w73
+w76
+w78
+w80
+w81
+w84
+w85
+w86
+w87
+w88
+w89
+w91
+rrw
+enhanced radiationwarheads
+w64
+w65
+w66
+w70 mod 3
+enhanced radiationartillery shells
+w79 mod 0
+w82 mod 0
+
+vtefrench nuclear armamentstrategic missiles
+missile m1
+missile m2
+missile m20
+missile s1 
+missile s2
+missile s3
+missile m4
+missile m45
+missile m5
+missile m51
+pre-strategic missiles
+pluton
+hadès
+asmp
+nuclear warheads
+an-11 bomb
+an-22 bomb
+an-52 bomb
+mr 31
+mr 41
+mr 50 ctc
+an 51 ctc
+an 52 ctc
+tn 60
+tn 61
+tn 70
+tn 71
+tn 75
+tn 76
+tn 80
+tn 81
+tn 90
+tna
+tno
+related subjects
+french nuclear deterrence
+fas
+fost
+france and weapons of mass destruction
+
+vtestrategic nuclear weapon systems of the united kingdomv bomber force(1955–1969)
+launch platforms
+vickers valiant
+avro vulcan
+handley page victor
+missiles
+blue steel
+skybolt (cancelled)
+bomb casings
+blue danube
+yellow sun
+warheads
+mk.1 atom bomb
+green grass
+red snow
+we.177
+blue streak(1960, cancelled)
+launch platforms
+missile launch facility at raf spadeadam
+missiles
+blue streak
+warheads
+ulysses
+polaris(1968–1996)
+launch platforms
+resolution-class submarine
+missiles
+polaris a3t and a3tk
+warheads
+et.317
+chevaline upgrade
+trident(1994–present)
+launch platforms
+vanguard-class submarine (1994–present)
+dreadnought-class submarine (replacement)
+missiles
+trident ii d5
+warheads
+manufactured at the atomic weapons establishment
+part of the united kingdom nuclear weapons programme
+vtenuclear technologyscience
+chemistry
+engineering
+physics
+atomic nucleus
+fission
+fusion
+radiation
+ionizing
+braking
+fuel
+tritium
+deuterium
+helium-3
+fertile material
+fissile material
+isotope separation
+nuclear material
+uranium
+enriched
+depleted
+plutonium
+thorium
+neutron
+activation
+capture
+poison
+cross section
+generator
+radiation
+reflector
+temperature
+thermal
+fast
+fusion
+power
+by country
+power plant
+economics
+multi-mission radioisotope thermoelectric generator
+accidents and incidents
+policy
+fusion
+radioisotope thermoelectric (rtg)
+propulsion
+rocket
+safety and security
+medicineimaging
+radball
+scintigraphy
+single-photon emission (spect)
+positron-emission tomography (pet)
+therapy
+fast-neutron
+neutron capture therapy of cancer
+targeted alpha-particle
+proton-beam
+tomotherapy
+brachytherapy
+radiation therapy
+radiosurgery
+radiopharmacology
+weaponstopics
+arms race
+delivery
+design
+disarmament
+ethics
+explosion
+effects
+history
+proliferation
+testing
+high-altitude
+underground
+warfare
+yield
+tnte
+lists
+estimated death tolls from attacks
+states with nuclear weapons
+tests
+united states
+wmd treaties
+weapon-free zones
+weapons
+wasteproducts
+actinide
+reprocessed uranium
+reactor-grade plutonium
+minor actinide
+activation
+fission
+llfp
+actinide chemistry
+disposal
+fuel cycle
+high-level (hlw)
+low-level (llw)
+repository
+reprocessing
+spent fuel
+pool
+cask
+transmutation
+debate
+nuclear power
+nuclear weapons
+blue ribbon commission on america's nuclear future
+anti-nuclear movement
+uranium mining
+nuclear power phase-out
+nuclear reactorsfissionmoderatorlight water
+aqueous homogeneous
+boiling
+bwr
+abwr
+esbwr
+kerena
+pressurized
+ap1000
+apr-1400
+apr+
+apwr
+atmea1
+cap1400
+cpr-1000
+epr
+hpr-1000
+acpr1000
+acp1000
+vver
+many others
+supercritical (scwr)
+natural fission
+heavy waterd2o
+pressurized
+candu
+candu 6
+candu 9
+ec6
+afcr
+acr-1000
+ahwr
+cvtr
+iphwr-x
+phwr kwu
+mzfr
+r3
+r4 marviken
+h2o
+hwlwr
+atr
+hw blwr 250
+steam-generating (sghwr)
+organic
+wr-1
+co2
+hwgcr
+el-4
+ks 150
+kkn
+graphite .mw-parser-output .nobold{font-weight:normal}by coolantwaterh2o
+am-1
+amb-x
+egp-6
+rbmk
+gasco2
+uranium naturel graphite gaz (ungg)
+magnox
+advanced gas-cooled (agr)
+he
+gtmhr
+mhr-t
+uhtrex
+vhtr (htgr)
+pbr (pbmr)
+avr
+htr-10
+htr-pm
+thtr-300
+pmr
+molten-saltfluorides
+fuji msr
+liquid-fluoride thorium reactor (lftr)
+molten-salt reactor experiment (msre)
+integral molten salt reactor (imsr)
+thorcon
+none(fast-neutron)
+breeder (fbr)
+integral (ifr)
+liquid-metal-cooled (lmfr)
+small sealed transportable autonomous (sstar)
+traveling-wave (twr)
+energy multiplier module (em2)
+reduced-moderation (rmwr)
+fast breeder test reactor (fbtr)
+dual fluid reactor (dfr)
+generation iv
+sodium (sfr)
+bn-350
+bn-600
+bn-800
+bn-1200
+cfr-600
+phénix
+superphénix
+pfbr
+cefr
+pfr
+prism
+lead (lfr)
+helium gas (gfr)
+others
+organically moderated and cooled reactor
+arbus
+piqua
+aircraft reactor experiment
+
+fusionby confinementmagnetic
+field-reversed configuration
+levitated dipole
+reversed field pinch
+spheromak
+stellarator
+tokamak
+inertial
+bubble (acoustic)
+fusor
+electrostatic
+laser-driven
+magnetized-target
+z-pinch
+other
+dense plasma focus
+migma
+muon-catalyzed
+polywell
+pyroelectric
+
+ category
+portal
+ commons
+
+vtelists of nuclear disasters and radioactive incidentsmain  accident  lists
+vulnerability of nuclear plants to attack
+chernobyl-related articles
+crimes involving radioactive substances
+criticality accidents and incidents
+nuclear meltdown accidents
+list of milestone nuclear explosions
+military nuclear accidents
+nuclear and radiation accidents and incidents
+nuclear and radiation accidents by death toll
+nuclear weapons tests
+sunken nuclear submarines
+lists bycountry
+cancelled nuclear reactors in the united states
+inquiries into uranium mining in australia
+nuclear and radiation fatalities by country
+nuclear power accidents by country
+nuclear reactors by country
+nuclear test sites
+nuclear weapons tests of the soviet union
+nuclear weapons tests of the united states
+individual  accidents  and sites
+2011 fukushima daiichi nuclear disaster
+2001 instituto oncológico nacional#accident
+1996 san juan de dios radiotherapy accident
+1990 clinic of zaragoza radiotherapy accident
+1987 goiânia accident
+1986 chernobyl disaster and effects of the chernobyl disaster
+1979 three mile island accident and three mile island accident health effects
+1969 lucens reactor
+1962  thor missile launch failures at johnston atoll under operation fishbowl
+1962 cuban missile crisis
+1961 k-19 nuclear accident
+1961 sl-1 nuclear meltdown
+1957 kyshtym disaster
+1957 windscale fire
+1957 operation plumbbob
+1954 totskoye nuclear exercise
+bikini atoll
+hanford site
+rocky flats plant
+1945 atomic bombings of hiroshima and nagasaki
+related  topics
+books about nuclear issues
+films about nuclear issues
+anti-war movement
+bikini atoll
+bulletin of the atomic scientists
+france and weapons of mass destruction
+history of the anti-nuclear movement
+international day against nuclear tests
+nuclear close calls
+nuclear-free future award
+nuclear-free zone
+nuclear power debate
+nuclear power phase-out
+nuclear weapons debate
+peace activists
+peace movement
+peace camp
+russell–einstein manifesto
+smiling sun
+ category
+authority control 
+gnd: 4003434-3
+hds: 24625
+lccn: sh85093127
+nara: 10642999
+ndl: 00562373
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=nuclear_weapon&oldid=881870172"					
+categories: nuclear weaponsweapons and ammunition introduced in 1945american inventionshidden categories: webarchive template wayback linkscs1 errors: chapter ignoredcs1 maint: uses editors parameterall accuracy disputesarticles with disputed statements from july 2013pages using web citations with no urlcs1 maint: multiple names: authors listarticles with short descriptionwikipedia pages semi-protected against vandalismuse mdy dates from december 2015articles containing potentially dated statements from january 2016all articles containing potentially dated statementsall articles with unsourced statementsarticles with unsourced statements from may 2014wikipedia articles in need of updating from june 2013all wikipedia articles in need of updatingarticles with unsourced statements from june 2013articles containing potentially dated statements from 2012articles containing potentially dated statements from march 2009articles with unsourced statements from july 2017articles with unsourced statements from may 2013articles to be expanded from july 2017all articles to be expandedarticles with empty sections from july 2017all articles with empty sectionsarticles using small message boxesarticles with french-language external linksspoken articlesarticles with haudio microformatswikipedia articles with gnd identifierswikipedia articles with hds identifierswikipedia articles with lccn identifierswikipedia articles with nara identifierswikipedia articles with ndl identifiersarticles containing video clips 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readview sourceview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commonswikiquote 
+
+
+
+languages
+
+
+afrikaansalemannischالعربيةaragonésasturianuazərbaycancaتۆرکجهবাংলাbân-lâm-gúбашҡортсабеларускаябеларуская (тарашкевіца)‎българскиbosanskibrezhonegбуряадcatalàчӑвашлаčeštinachishonacymraegdanskdeutschdiné bizaadeestiελληνικάespañolesperantoeuskaraفارسیfrançaisfryskgaeilgegalego贛語गोंयची कोंकणी / gõychi konknni한국어hausaհայերենहिन्दीhrvatskibahasa indonesiainterlinguaíslenskaitalianoעבריתbasa jawaಕನ್ನಡქართულიқазақшаkiswahiliкыргызчаlatinalatviešulëtzebuergeschlietuviųmagyarмакедонскиമലയാളംमराठीمصرىbahasa melayuмонголမြန်မာဘာသာnederlandsनेपालीनेपाल भाषा日本語нохчийнnorsknorsk nynorskoccitanoʻzbekcha/ўзбекчаਪੰਜਾਬੀpälzischپنجابیپښتوpatoispolskiportuguêsromânăruna simiрусскийसंस्कृतम्scotsseelterskshqipසිංහලsimple englishسنڌيslovenčinaslovenščinaکوردیсрпски / srpskisrpskohrvatski / српскохрватскиbasa sundasuomisvenskatagalogதமிழ்татарча/tatarçaతెలుగుไทยтоҷикӣtürkçeукраїнськаاردوtiếng việtwinaray吴语ייִדיש粵語zazakižemaitėška中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 5 february 2019, at 10:09 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"1.624","walltime":"2.017","ppvisitednodes":{"value":11845,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":429109,"limit":2097152},"templateargumentsize":{"value":14085,"limit":2097152},"expansiondepth":{"value":24,"limit":40},"expensivefunctioncount":{"value":30,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":228537,"limit":5000000},"entityaccesscount":{"value":6,"limit":400},"timingprofile":["100.00% 1546.546      1 -total"," 30.18%  466.719      1 template:reflist"," 14.48%  223.915     37 template:cite_web","  9.31%  143.920      1 template:fr_icon","  9.17%  141.881      1 template:link_language","  8.34%  129.022     19 template:navbox","  6.30%   97.456     12 template:isbn","  6.04%   93.355      1 template:inflation-fn","  5.24%   81.045      1 template:nuclear_technology","  4.93%   76.249      1 template:navbox_with_collapsible_groups"]},"scribunto":{"limitreport-timeusage":{"value":"0.756","limit":"10.000"},"limitreport-memusage":{"value":19031988,"limit":52428800}},"cachereport":{"origin":"mw1271","timestamp":"20190214103632","ttl":3600,"transientcontent":true}}});mw.config.set({"wgbackendresponsetime":130,"wghostname":"mw1267"});});
+
+

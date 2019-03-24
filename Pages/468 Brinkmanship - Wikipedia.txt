@@ -1,0 +1,330 @@
+
+
+
+
+brinkmanship - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"brinkmanship","wgtitle":"brinkmanship","wgcurrevisionid":874387160,"wgrevisionid":874387160,"wgarticleid":241187,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["webarchive template wayback links","international relations theory","nuclear strategies","cold war terminology","foreign policy doctrines of the united states"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"brinkmanship","wgrelevantarticleid":241187,"wgrequestid":"xgtgcapaic0aaf@jid4aaacn","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgredirectedfrom":"brinksmanship","wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wginternalredirecttargeturl":"/wiki/brinkmanship","wgwikibaseitemid":"q917519","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+brinkmanship 
+from wikipedia, the free encyclopedia   (redirected from brinksmanship)
+ jump to navigation
+jump to search
+ the handling of the cuban missile crisis was described as brinkmanship
+brinkmanship (also brinksmanship) is the practice of trying to achieve an advantageous outcome by pushing dangerous events to the brink of active conflict. it occurs in international politics, foreign policy, labour relations, and (in contemporary settings) military strategy involving the threat of nuclear weapons, and high-stakes litigation.
+this maneuver of pushing a situation with the opponent to the brink succeeds by forcing the opponent to back down and make concessions. this might be achieved through diplomatic maneuvers by creating the impression that one is willing to use extreme methods rather than concede. during the cold war, the threat of nuclear force was often used as such an escalating measure.
+
+contents
+
+1 origins
+2 credible threats
+3 cold war
+
+3.1 conceptualization
+
+3.1.1 contextualization
+3.1.2 eisenhower's "new look" policy
+3.1.3 kennedy's "flexible response"
+
+
+3.2 practices and effects of cold war
+
+3.2.1 korean war (1950–1953)
+3.2.2 berlin crisis
+3.2.3 cuban missile crisis
+
+
+3.3 arms race
+3.4 aftermath of the cuban missile crisis
+
+3.4.1 détente
+3.4.2 ronald reagan and the end of the cold war
+
+
+
+
+4 donald trump and north korea
+5 see also
+6 references
+7 external links
+
+
+origins[edit]
+brinkmanship is the ostensible escalation of threats to achieve one's aims. the word was probably coined by adlai stevenson in his criticism of the philosophy described as "going to the brink" in an interview with secretary of state john foster dulles under the eisenhower administration, during the cold war.[1] in an article written in life magazine, john foster dulles then defined his policy of brinkmanship as "the ability to get to the verge without  getting into the war is the necessary art." [2][3] during the cold war, this was used as a policy by the united states to coerce the soviet union into backing down militarily. eventually, the threats involved might become so huge as to be unmanageable at which point both sides are likely to back down. this was the case during the cold war; the escalation of threats of nuclear war, if carried out, are likely to lead to mutually assured destruction.[4]
+
+credible threats[edit]
+for brinkmanship to be effective, the sides continuously escalate their threats and actions. however, a threat is ineffective unless credible—at some point, an aggressive party may have to prove its commitment to action.
+the chance of things sliding out of control is often used in itself as a tool of brinkmanship, because it can provide credibility to an otherwise incredible threat. the cuban missile crisis presents an example in which opposing leaders, namely u.s. president john f. kennedy and russian leader nikita khrushchev, continually issued warnings, with increasing force, about impending nuclear exchanges, without necessarily validating their statements. pioneering game theorist thomas schelling called this "the threat that leaves something to chance."[5]
+
+cold war[edit]
+brinkmanship was an effective tactic during the cold war because neither side of a conflict could contemplate mutual assured destruction in a nuclear war, acting as a nuclear deterrence for both the side threatening to pose damage and the country on the 'receiving end'. ultimately, it worsened the relationship between the ussr and the us.[6]
+
+conceptualization[edit]
+in the spectrum of the cold war, the concept of brinkmanship involved the west and the soviet union using fear tactics and intimidation as strategies to make the opposing faction back down.  each party pushed dangerous situations to the brink, with the intention of making the other back down in matters of international politics and foreign policy, to obtain concessions. nevertheless, in the cold war both parties were confronted with devastating consequences since the threats of nuclear war were unmanageable in any situation. by escalating threats of nuclear war and massive retaliation, both parties were forced to respond with more force. the principle of this tactic was that each party would prefer not to yield to the other; however, one would simply have to yield since if neither of the parties yielded, the outcome would be the worst possible for both. the problem, however, was that yielding would result in being labelled as the weaker of the two and in the cold war both the soviet union and the united states had a reputation to uphold to both their populations and their neighboring countries or allies, thus making brinkmanship utterly risky. since neither country would budge, the only way to avoid mutually assured destruction (mad) was compromise. the british philosopher, mathematician, and intellectual bertrand russell compared it to the game of chicken:[7]
+
+
+since the nuclear stalemate became apparent, the governments of east and west have adopted the policy which mr. dulles calls 'brinksmanship.' this is a policy adapted from a sport which, i am told, is practiced by some youthful degenerates. this sport is called 'chicken!'.
+
+
+contextualization[edit]
+the soviet union and the west spent nearly 50 years on the brink of war. during conflicts like the cuban missile crisis the tensions escalated to the point where it seemed as if the cold war would turn into an actual weaponized war. brinkmanship was one of the steps prior to the point where war would actually break out.
+in a conflict between two nations that were so ideologically opposed, it seemed as if drastic policies such as brinkmanship were the only way to come to any sense of agreement. both the united states and the soviet union maintained strict policies not to respond to military threats at this time, but by making the possibility of a war more and more likely, the two nations were able to make significant progress in discussions and peace.
+
+eisenhower's "new look" policy[edit]
+u.s. president dwight d. eisenhower's "new look" policy reverted to the older notion that they could contain the soviet union, assuming that soviet premier nikita khrushchev was aiming to expand the soviet's further still. this tactic was supposed to isolate soviet russia so that communism could not spread and would collapse in on itself. to enforce this tactic they set up many alliances with countries that would have been considered to be within the soviet sphere of influence. as it was now known that the soviets possessed nuclear weapons which stood the us and the russians on more of an even playing field. to combat this problem, eisenhower threatened to use all of his arsenal if the soviets took offensive measures. this was a bold move as it established the stakes to be extremely high, as this action could cause mass destruction for either side. this threat caused an increase and buildup of tension, neither one wanting to pull the trigger on the other for fear of what the reaction might be.
+
+kennedy's "flexible response"[edit]
+see also: flexible response
+"flexible response" was a defense strategy executed by john f. kennedy in 1961. its aim was to address the kennedy administration's skepticism of eisenhower's new look and its policy of massive retaliation. flexible response requires mutually assured destruction (mad) at tactical, strategic and conventional levels, bestowing upon the united states the ability to respond to aggression across the spectrum of warfare.
+flexible response required the continuous presence of substantial conventional forces. the forces were to serve two purposes; acting as a deterrent and fighting limited wars. kennedy hoped to deter all wars regardless of their nature. although both eisenhower and dulles wanted to achieve goals similar to those of kennedy, they were rather the more concerned with cost. in order to avoid both escalation and humiliation, kennedy highlighted the importance of adequate flexibility and disregarded cost. prior to nuclear war, kennedy wished to increase the range of available options. he also believed that the european allies should be contributing more to their own defense. fundamentally, the notion of flexible response was to "increase the ability to confine the response to non-nuclear weapons".[8]
+
+practices and effects of cold war[edit]
+korean war (1950–1953)[edit]
+main article: korean war
+the korean war was a military conflict between the republic of korea and the democratic people's republic of korea (dprk). it started on june 25, 1950, and was ended with the korean armistice agreement on july 27, 1953. with the united states supporting the republic of korea, and the soviet union supporting the dprk, the korean war was the first armed conflict of the cold war, escalating tensions between the two. in september 1949, the ussr tested its first a-bomb,[9] making a 'limited war' virtually impossible.
+
+fears of communism had risen after the second red scare, led by wisconsin senator joseph mccarthy, indirectly calling for a policy to limit communist threat: nsc 68. in accordance with nsc 68, a report which stated that all communist activities were controlled by joseph stalin, leader of the ussr, and called for military and economic aid to any country deemed to be resisting communist threats, the united states sent troops to south korea when it was invaded by the north on june 25, 1950. while it contradicted the report, in that the united states was once again at war (the report stated that the united states should avoid war), president harry s. truman feared a 'domino effect,' and wanted to prevent communism spreading, stating: 
+if we let korea down, the soviets will keep right on going and swallow up one piece of asia after another.... if we were to let asia go, the near east would collapse and no telling what would happen in europe.... korea is like the greece of the far east. if we are tough enough now, if we stand up to them like we did in greece three years ago, they won't take any more steps.[10]
+
+
+with the ussr boycotting the un security council (because the us refused communist china entry), the united nations, supported by the united states, freely passed a resolution requesting military action against north korea. led by gen. douglas macarthur, the un forces arrived along with the us forces on july 1, 1950. while truman believed that the north korean atomic threat was "a threat based on contingency planning to use the bomb, rather than the faux pas so many assume it to be," (and hence not just brinkmanship), he continuously opted for limited war. his beliefs in ceasefire and peacekeeping between the north and the south were cause for great conflict with macarthur, who sought total war. macarthur believed that the united states should take the opportunity to wipe out communism permanently before it grew stronger, using all of its weapons, hence turning the war into nuclear war.[11] macarthur was dismissed as a result of his continuous defiance to truman and other superiors on april 11, 1951, after he sent an ultimatum to the chinese army, without consent of truman.
+as historian bruce cumings noted,[12] the korean war heightened the cold war, bringing both nations closer to a nuclear war. the united states wanted to ensure that the united nations wouldn't fail, as it had done with the league of nations, and hence wanted to show off its power to the world. additionally, it wanted to exhibit that it could still tame the communist threat, now also present in asia. similarly, the soviet union wanted to demonstrate its newly built military strength to the united states.[13]
+
+berlin crisis[edit]
+main article: berlin crisis of 1961
+between 1950 and 1961, "the refugee flow continued at a rate of 100,000 to 200,000 annually" with people moving from the east to the west. the economic conditions were better in west berlin than in east berlin, and therefore attracted more young workers. trying to find a way to stop the people from moving, walter ulbricht, president of east germany, pressured the soviet union to help with the matter of berlin and emigration. khrushchev wanted the western allies to either leave berlin or sign a separate peace treaty with east germany, fearing that west germany would economically and politically overwhelm east germany, in turn undermining the warsaw pact that the soviet union dominated.[14]
+on november 10, 1958, nikita khrushchev delivered a speech in which he demanded that the western powers pulled out of western berlin within six months.  furthermore, khrushchev declared that east germany was to take control of all communication lines and therefore, west berlin would only be accessible by the permission of east germany. interpreting khrushchev's speech as an ultimatum, the united states, france, and britain declined the ultimatum and said that they would remain in west berlin.
+in 1959, the big four powers held a conference in geneva where the foreign ministers attempted to negotiate an agreement on berlin. however, the conference did not do much, other than open up talks between the soviet union and united states. the ussr wanted western powers out of west berlin in an attempt to reunify berlin. the united states refused to give up the freedom of west berliners.  in 1961, khrushchev met with kennedy and they continued to solve the issue on berlin. again, khrushchev sent an ultimatum to the united states, asking them to leave west berlin.  as a result, kennedy increased military and defense expenditures.
+on august 13, 1961, walter ulbricht had ordered barbed wire between east and west berlin. the barbed wire was later changed to cement walls.  this prevented the movement between the two sides. the division between the two berlins was known as "the berlin wall". the united states heavily condemned the berlin wall and responded by placing troops on the west german side. their actions were followed by soviet union, when they placed their troops and tanks on the east german side. this led to the iconic image of tanks facing each other at "checkpoint charlie", which symbolized the east-west division, which is the division of the east and west parts of germany.
+any action taken by either of the troops had the possibility of resulting in a nuclear war between the ussr and the us.  as a result, in the summer of 1961 john f. kennedy met with khrushchev in vienna in order to try to find a solution regarding the problem of berlin. kennedy suggested khrushchev to remove the soviet troops, after which the united states would remove their troops. however, they found no solution, because neither side was ready to make concessions. the conference ended with khrushchev issuing another ultimatum to the united states, giving them six months to get out of berlin. the division of berlin had become a symbol for the success of capitalism and showed a sharp contrast between the communist and capitalist system.[15] as a result, kennedy refused to back down and instead prepared for military action, leading to further military escalation by khrushchev.[15]
+
+cuban missile crisis[edit]
+main article: cuban missile crisis
+a prime example of brinkmanship during the cold war was the cuban missile crisis (15.10.62 - 28.10.62), a 13-day conflict between the us, ussr and cuba.[16] the us and the ussr, each armed with nuclear weapons, both practiced brinkmanship during this conflict. the cuban missile crisis was not only the closest the us and ussr came to an armed conflict[17] during the cold war, but also, to this day, the "closest the world has come to [a full-scale] nuclear war."[18]
+the crisis was caused by the placement of soviet nuclear weapons in cuba, an island that was within the "sphere of influence" and launching distance of the us. this was arguably an act of brinkmanship from the ussr, intimidating the us with weapons within the region. the us responded to the presence of the weapons by blockading cuba.[19]  the cuban blockade was also an act of brinkmanship since the us, instead of succumbing to the pressure from the ussr, decided to see how the soviets would react to the us stopping their vessels from entering cuba.
+it can be argued that brinkmanship, in this case, went too far. had the us attacked cuba through an airstrike to eliminate the weapons, the ussr may have responded in berlin where nato would have been pulled into a war. had the us left the weapons where they were they would have been a threat to the majority of the american population, in the case of a cuban missile strike. in either of the cases, retaliation could have led to a full-scale nuclear war. had any of the two superpowers been pushed over the brink the lives of millions of people would have been at stake.
+successful brinkmanship, however, is when you push your enemy to the brink of war, but not over it, getting him to back down under the pressure. considering this, brinkmanship during the cuban missile crisis was successful,  as war was avoided. the crisis, however, was a peculiar case of brinkmanship since the two opposing powers had near equal power [20] during the crisis. thus, in order to avoid war, both powers backed down and compromised, the soviets removing their weapons from cuba and the americans secretly agreeing to remove missiles from turkey. [2]
+
+arms race[edit]
+the us was building up its missiles, with president eisenhower issuing the national defense education act in 1958, which was an attempt to close the missile gap with the soviets. it gave funds to u.s. schools to start researching more so that the united states' military could catch up with the soviet's technology. eisenhower also started nasa from naca, several research laboratories, and parts of the army ballistic missile agency, see creation of nasa.
+
+aftermath of the cuban missile crisis[edit]
+détente[edit]
+main article: détente
+the détente was essentially a stilling of the waters between the us and the ussr.  it was started by richard nixon, elected president of the united states in 1968, and his national security advisor, henry kissinger and continued on through to 1980 and the start of the 'second cold war'.[10]  it focused on a 'philosophical deepening' of american foreign policy to adjust to the changing international order as opposed to the kennedy and johnson administrations which were too single-minded in their pursuit of victory in vietnam.[21]  this move away from focusing solely on military buildup heralded a 12-year period wherein the world experienced a kind of peace due to the decreased tensions between the us and the ussr.
+
+ronald reagan and the end of the cold war[edit]
+ronald reagan was inaugurated as president of the united states on january 20, 1981.  his idea of how nuclear relations was, from the outset, much different from the détente's goal of 'stability'.[10]  he effectively ended the previously accepted agreement of mutually assured destruction, or mad, between the ussr by almost immediately increasing the pace of the buildup of arms in the us to an unprecedented rate.  as well as the buildup of conventional arms, military technology was also improved.  with the introduction of the stealth bomber and neutron bomb, the us again began to pull away from the soviet union.  but the most pivotal among these was the strategic defense initiative which, though it was later called 'star wars' because of its improbability, simultaneously brought the us to the brink of war with the ussr as the sdi nullified the idea of mad as well as induced arms talks between reagan and mikhail gorbachev, leader of the ussr.[10]
+
+donald trump and north korea[edit]
+the north korean nuclear crisis, during the presidency of us president donald trump, has been described as representing brinkmanship between trump and north korean leader kim jong-un.[22][23]
+
+see also[edit]
+
+balance of terror
+game theory
+gamesmanship
+international crisis
+madman theory
+references[edit]
+
+
+^ "online etymology dictionary". retrieved 8 july 2015..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ sheply, james. "how dulles averted war." life 16 january 1956: 70+. print.
+
+^ stephen e. ambrose (2010). rise to globalism: american foreign policy since 1938, ninth revised edition. penguin. p. 109.
+
+^ watry, david m. (2014). diplomacy at the brink: eisenhower, churchill, and eden in the cold war. baton rouge: louisiana state university press..
+
+^ schelling, thomas, the strategy of conflict, copyright 1960, 1980, harvard university press, isbn 0-674-84031-3.
+
+^ watry, david m. (2014). diplomacy at the brink: eisenhower, churchill, and eden in the cold war. baton rouge: louisiana state university press..
+
+^ russell, bertrand w. (1959) common sense and nuclear warfare london: george allen & unwin, p30
+
+^ "key issues: nuclear weapons: history: cold war: strategy: flexible response". nuclearfiles.org. retrieved 2010-09-01.
+
+^ greenpeace, greenpeace archives: history of nuclear weapons archived 2005-11-21 at the wayback machine, 1996
+
+^ a b c d 'kelly rogers, jo thomas, history: the cold war, 2009
+
+^ pbs, douglas macarthur - the american experience, 2009
+
+^ kelly rogers, jo thomas, history: the cold war, 2009
+
+^ m. ruch, american history notes: the 1950s, 2007
+
+^ "khrushchev's speech on berlin, 1961." mount holyoke college, south hadley, massachusetts. [1] mar. 2010.
+
+^ a b "the berlin crisis, 1958–1961." u.s. department of state. web. mar. 2010. <http://www.state.gov/r/pa/ho/time/lw/103638.htm>.
+
+^ "timeline of the cuban missile crisis | the cuban missile crisis: a look back from the brink". atomicarchive.com. archived from the original on 2010-08-14. retrieved 2010-09-01.
+
+^ "office of the historian". state.gov. retrieved 2010-09-01.
+
+^ "the cuban missile crisis, 1962". gwu.edu. retrieved 2010-09-01.
+
+^ "office of the historian". state.gov. retrieved 2010-09-01.
+
+^ "office of the historian". state.gov. retrieved 2010-09-01.
+
+^ john mason in the cold war (routledge, 1996) p.51
+
+^ choe, sang-hun (2017-09-22). "north korea hits new level of brinkmanship in reacting to trump". new york times. retrieved 2018-01-05.
+
+^ noack, rick (2018-01-03). "under trump, nuclear brinkmanship is the new normal". washington post. retrieved 2018-01-05.
+
+
+external links[edit]
+analysis of the cuban missile crisis
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=brinkmanship&oldid=874387160"					
+categories: international relations theorynuclear strategiescold war terminologyforeign policy doctrines of the united stateshidden categories: webarchive template wayback links 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+languages
+
+
+العربيةcymraegdeutschفارسیfrançais한국어bahasa indonesiaitaliano日本語portuguêsрусский 
+edit links 
+
+
+
+
+
+ this page was last edited on 18 december 2018, at 22:55 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.268","walltime":"0.372","ppvisitednodes":{"value":1107,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":20943,"limit":2097152},"templateargumentsize":{"value":1123,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":41844,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  303.743      1 -total"," 70.15%  213.073      1 template:reflist"," 36.93%  112.180      9 template:cite_web"," 13.90%   42.206      1 template:isbn"," 10.38%   31.525      1 template:see_also","  7.66%   23.272      1 template:columns-list","  6.29%   19.103      3 template:cite_book","  5.66%   17.196      1 template:catalog_lookup_link","  5.48%   16.660      1 template:div_col","  5.09%   15.474      1 template:webarchive"]},"scribunto":{"limitreport-timeusage":{"value":"0.113","limit":"10.000"},"limitreport-memusage":{"value":3900310,"limit":52428800}},"cachereport":{"origin":"mw1264","timestamp":"20190203011423","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"brinkmanship","url":"https:\/\/en.wikipedia.org\/wiki\/brinkmanship","sameas":"http:\/\/www.wikidata.org\/entity\/q917519","mainentity":"http:\/\/www.wikidata.org\/entity\/q917519","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2003-06-06t12:47:42z","datemodified":"2018-12-18t22:55:37z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/70\/cubacrisis_17_oct_1962.jpg","headline":"extreme strategy"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":125,"wghostname":"mw1324"});});
+
+

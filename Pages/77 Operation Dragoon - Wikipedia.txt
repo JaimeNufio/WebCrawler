@@ -1,0 +1,1016 @@
+
+
+
+
+operation dragoon - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"operation_dragoon","wgtitle":"operation dragoon","wgcurrevisionid":883837464,"wgrevisionid":883837464,"wgarticleid":252167,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["articles with short description","good articles","use dmy dates from november 2012","coordinates on wikidata","cs1 german-language sources (de)","commons category link is on wikidata","conflicts in 1944","1944 in france","battles of world war ii involving france","naval battles of world war ii involving france","world war ii invasions","naval battles and operations of the european theatre of world war ii","operation dragoon","western european campaign (1944–1945)","invasions of france","invasions by the united states","invasions by the united kingdom","battles of world war ii involving canada","military history of canada during world war ii","invasions by canada","naval battles and operations of world war ii involving the united kingdom","amphibious operations of world war ii"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"operation_dragoon","wgrelevantarticleid":252167,"wgrequestid":"xgpmlgpaaeyaaae2d-yaaaao","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgcoordinates":{"lat":43.227083333333,"lon":6.6616666666667},"wgwikibaseitemid":"q221111","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+operation dragoon 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+allied invasion of southern france on 15 august 1944
+
+
+operation dragoonpart of mediterranean and middle east theatre and the european theatre of world war iithe operation dragoon invasion fleetdate15 august – 14 september 1944locationsouthern france, côte d'azur43°13′37.5″n 6°39′42″e﻿ / ﻿43.227083°n 6.66167°e﻿ / 43.227083; 6.66167coordinates: 43°13′37.5″n 6°39′42″e﻿ / ﻿43.227083°n 6.66167°e﻿ / 43.227083; 6.66167result
+allied victoryterritorialchanges
+german forces withdraw from most of southern france to the vosges regionbelligerents
+ united states france
+
+ french colonial empire
+ united kingdom canada[note]
+
+air force only
+ australia
+ south africa
+ southern rhodesia
+
+naval only
+ greece
+ germany
+
+ vichy francecommanders and leaders
+ jacob l. devers
+
+ henry kent hewitt (naval forces)
+ alexander patch (7th army)
+ jean de lattre de tassigny (armée b)
+ john k. cannon (air forces)
+ johannes blaskowitz
+
+ friedrich wiese
+ wend von wietersheim
+ kurt von der chevallerieunits involved
+ sixth army group
+
+ seventh army
+ armée b
+ french resistance mediterranean allied air forces eighth fleet
+ army group g
+
+ 19th armystrength
+initial landing151,000 men[1]entire invasion force576,833 men[2]french resistance75,000 men[3]
+initial landing85,000–100,000 men[4]1,481 artillery pieces[5]southern france285,000–300,000 men[4]casualties and losses
+
+15,574 casualties[6]
+
+7,301 killed[7]
+ more than 10,000 casualties[8][9]total: ~25,574
+ 7,000 killed~21,000 wounded131,250 captured[9][10][11]1,316 artillery pieces[12]total: ~159,000vtewest european campaign (1944–45)
+overlord
+dragoon
+paris
+paris to the rhine
+channel coast
+market garden
+aachen
+hürtgen forest
+scheldt
+queen
+bulge
+nordwind
+blackcock
+colmar pocket
+reichswald
+alps
+invasion of germany
+end of world war ii in europe
+
+vtewestern front ofworld war ii1939
+phoney war
+river forth
+saar
+the heligoland bight
+1940
+luxembourg
+the netherlands
+
+the hague
+rotterdam
+zeeland
+german bombing of rotterdam
+belgium
+
+fort eben-emael
+hannut
+gembloux
+la lys
+france
+
+sedan
+montcornet
+arras
+lille
+boulogne
+calais
+abbeville
+paula
+dunkirk
+dunkirk evacuation
+italian invasion of france
+saumur
+britain
+
+kanalkampf
+adlertag
+the hardest day
+battle of britain day
+sea lion
+1942–1943
+
+cerberus
+donnerkeil
+st nazaire raid
+dieppe raid
+1944–1945
+
+overlord
+dragoon
+siegfried line
+market garden
+arnhem
+hürtgen forest
+aachen
+queen
+scheldt
+bulge
+nordwind
+bodenplatte
+alps
+colmar pocket
+atlantic pockets
+germany
+
+blackcock
+veritable
+grenade
+blockbuster
+lumberjack
+remagen
+undertone
+amherst
+plunder
+varsity
+paderborn
+ruhr
+tf baum
+frankfurt
+south germany
+kassel
+heilbronn
+nuremberg
+archway
+hamburg
+strategic campaigns
+
+the blitz
+defence of the reich
+raids on the atlantic wall
+battle of atlantic
+vtemediterranean and middle east theatre
+adriatic
+north africa
+east africa
+mediterranean sea
+gibraltar
+malta
+bahrain
+balkans
+yugoslavia
+iraq
+syria–lebanon
+palestine
+iran
+sicily
+italian mainland
+dodecanese
+corsica
+dragoon
+alpes-maritimes
+
+vtefree french campaigns
+africa & middle east
+dakar
+gabon
+keren
+exporter
+kufra
+bir hakeim
+run for tunis
+torch
+tunisia
+europe
+eastern front
+husky
+corsica
+monte cassino
+glières
+ist
+mont mouchet
+overlord
+paris
+elba
+saint-marcel
+vercors
+dragoon
+toulon
+marseilles
+strasbourg
+nordwind
+colmar pocket
+alps
+indian ocean & asia
+réunion
+crimson
+indochina
+
+operation dragoon (15 august - 14 september 1944) was the code name for the allied invasion of the french riviera. originally planned to coincide with d-day (6 june), it had been postponed due to insufficient landing-craft. in august, it was revived, as the zone had become a low priority for the germans, and conditions looked favourable for the liberation of southern france with its key ports of marseille and toulon. 
+the us vi corps landed at hyères under the cover of a large naval task force, followed by several divisions of the french army b. they were opposed by the scattered forces of the german army group g.
+hindered by allied air superiority and an uprising by the french resistance, the german forces were swiftly defeated and withdrew to the north through the rhône valley, to establish a stable defense line at dijon. allied mobile units partially blocked their route at montélimar. but neither side could achieve a decisive breakthrough, though the germans were finally able to retreat from the town, while the french captured the seaports. fighting ultimately came to a stop at the vosges mountains, where army group g established a stable defense line. the allied forces needed reorganizing, and facing stiffened german resistance, they halted the offensive on 14 september. 
+operation dragoon was rated a success, though it remains controversial. the allies were able to liberate most of southern france in only 4 weeks, while inflicting heavy casualties, and the captured ports eased allied supply problems. but in the short term, it allowed german units to escape northward, into the face of patton and montgomery. long-term, it diverted churchill from his plan to invade the balkans, and thus enabled the soviets to take vienna, altering the map of postwar europe.
+
+contents
+
+1 background
+
+1.1 prelude
+1.2 planning
+1.3 opposing forces
+
+
+2 operation
+
+2.1 preliminary operations
+2.2 main invasion force landings
+2.3 german counterattacks
+2.4 german withdrawal
+2.5 liberation of marseille and toulon
+2.6 battle at montélimar
+2.7 final german retreat
+
+
+3 war crimes
+4 aftermath
+5 see also
+6 notes
+7 references
+8 bibliography
+9 further reading
+10 external links
+
+
+background[edit]
+prelude[edit]
+during planning stages, the operation was known as "anvil", to complement operation sledgehammer, at that time the code name for the invasion of normandy. subsequently, both plans were renamed. sledgehammer became operation overlord, and anvil becoming operation dragoon. the original idea of invading southern france had come in 1942 from general george marshall, the u.s. army chief of staff. it was supported by joseph stalin at the tehran conference in late 1943. in discussions with franklin d. roosevelt, stalin advocated for the operation as an inherent part of overlord, preferring to have the allies in the far west instead of at an alternative landing in the balkans, which he considered to be in his zone of influence.[13] marshall insisted that the operation be included in the strategic planning, and roosevelt found  cancelling the operation to be unpalatable.[14]
+operation dragoon was controversial from the time it was first proposed. the american military leadership and its british counterparts disagreed on the operation. winston churchill argued against it on the grounds that it diverted military resources that were better deployed for allied operations in italy. instead, he favored an invasion of the oil-producing regions of the balkans.[15] churchill reasoned that by attacking the balkans, the allies could deny germany petroleum, forestall the advance of the red army, and achieve a superior negotiating position in postwar europe, all at a stroke.[15][16][17]
+when first planned, the landings were to take place simultaneously – overlord in normandy and anvil in the south of france. a dual landing was soon recognized as impossible to conduct with the forces available. the expansion of overlord from a three- to a five-division front required many additional lsts, which would have been needed for anvil. another allied amphibious landing, in italy at anzio, had gone badly. all of these resulted in the postponing of anvil by the allies.[15][16][18]
+after the landing at normandy, a revival of anvil became increasingly attractive to allied planners. the normandy ports had insufficient capacity to handle allied supply needs and french generals under charles de gaulle pressed for a direct attack on southern france with participation of french troops. these factors led to a reconsideration of the plan. despite churchill's objections, the operation was authorized by the allied combined chiefs of staff on 14 july, then renamed dragoon on 1 august. the landing was scheduled for 15 august.[15][16][16][19]
+churchill and his chiefs of staff had opposed dragoon in favour of reinforcing the campaign in italy, by capturing trieste, landing on the istria peninsula, and moving through the ljubljana gap into austria and hungary. then on august 4, churchill proposed that dragoon (less than two weeks away) should be switched to the coast of brittany. eisenhower, supported by roosevelt, who (with his 1944 election campaign four months away) opposed diverting large forces to the balkans, stood firm on the agreed plan despite long harangues from churchill on august 5 and 9.[20]
+
+planning[edit]
+ a map showing the allied amphibious landings and advance in southern france, as well as german defensive positions
+the chief objectives of operation dragoon were the important french ports of marseille and toulon, considered essential to supply the growing allied forces in france.[21] the allied planners were cautious, taking heed of lessons learned from the anzio and normandy landings. they chose a location with no high ground controlled by the wehrmacht, conditions that had led to heavy casualties after the initial landings on one of the beaches at normandy. the choice for the disembarkation site was an area on the var coast east of toulon. a preliminary air campaign was planned to isolate the battlefield and cut the germans off from reinforcement by destroying several key bridges. a large airborne landing was also planned in the center of the landing zone to quickly seize the high ground overlooking the beaches. parallel to the invasion, several commando units were to take control of the islands off the coast.[22]
+the allied plan consisted of a three-division landing of us forces led by major general lucian truscott to secure a bridgehead on the first day. their flanks were to be protected by french, american, and canadian commando units. within 24 hours, 50,000–60,000 troops and 6,500 vehicles were to be disembarked. the airborne landings would concentrate in an area near draguignan and le muy, with the aim of taking these towns to prevent german counterattacks against the beaches. the bulk of the american force then had to advance quickly to the north along the rhône, to take lyon and dijon and make contact with the allied forces in northern france. after a successful initial landing, units of the french army b were to land, given the task of taking the french ports of toulon and marseille.[23]
+although the germans expected another allied landing in the mediterranean, the advancing red army and the allied landings in normandy placed great strains on german resources, so little was done to improve the condition of army group g, occupying southern france. given the advancing allied forces in northern france, the germans deemed a realistic defense in the south impossible. johannes blaskowitz's army group g headquarters discussed a general withdrawal from southern france in july and august with the german high command, but the 20 july plot led to an atmosphere in which any withdrawal was out of the question. blaskowitz was quite aware that with his scattered forces, any serious allied landing attempt would be impossible to ward off. he planned to withdraw in secret, to include demolishing the ports, and to proceed in an orderly manner, covered by the 11th panzer division. he intended to establish a new defense line at dijon in central france. german intelligence was aware of the impending allied landing, and on 13 august, blaskowitz ordered the 11th panzer division to move east of the rhône, where the landing was expected.[24][25]
+
+opposing forces[edit]
+main article: operation dragoon order of battle
+ german 88-mm gun on the coast in southern france
+the western naval task force was formed under the command of vice admiral henry kent hewitt to carry the u.s. 6th army group, also known as the southern group or dragoon force, onto the shore. the 6th army group was formed in corsica and activated on 1 august, to consolidate the french and american forces slated to invade southern france. admiral hewitt's naval support for the operation included the american battleships nevada, texas, and arkansas, the british battleship ramillies, and the french battleship lorraine, with 20 cruisers for gunfire support and naval aircraft from 9 escort carriers assembled as task force 88.[26]
+the main ground force for the operation was the us seventh army commanded by alexander patch. the us army's vi corps, commanded by major general lucian truscott, would carry out the initial landing and be followed by the french army b under command of général jean de lattre de tassigny.[27] accompanying the operation was a fully mobilized separate detachment called "task force butler", consisting of the bulk of the allied tanks, tank destroyers, and mechanized infantry.
+the french resistance played a major role in the fighting. as the allies advanced into france, the resistance evolved from a guerilla fighting force to a semiorganized army called french forces of the interior. the ffi would tie down  german troops by sabotaging bridges and communication lines, seizing important traffic hubs and directly attacking isolated german forces. they were aided by allied special forces from the office of strategic services (oss), who would supply the allies with vital intelligence.[28]
+the allied ground and naval forces were aided by a large aerial fleet of 3470 planes. the majority of them were stationed on corsica and sardinia. the tactical bombers and fighters had to support the landings directly, while the strategic element had to bomb german targets deep into france. the strategic bombing started well before the landing, and targeted airports, traffic hubs, railroads, coastal defenses, and communication lines.[29]
+opposing the allies was the german army group g (heeresgruppe g). although nominally an army group, army group g had at the time of the invasion only one army under its command: the 19th army, under the command of friedrich wiese. as southern france had never been important to german planning, their forces there had been stripped of nearly all their valuable units and equipment over the course of the war. due to the allied threat in normandy, army group g's units were continuously sent north until the dragoon landings. the remaining 11 divisions were understrength and only one panzer division was left, the 11th.[25] in early august, the 11th panzer division had sent one of its two panzer battalions to normandy shortly before the landing.[30]
+the troops were positioned thinly along the french coast, with an average of 90 km (56 mi) per division. generally, the troops of the german divisions were only second- and third-rate. this meant that over the course of the war, the divisions were thinned out and soldiers were replaced with wounded old veterans and volksdeutsche from poland and czechoslovakia. numerous units were also replaced by ostlegionen and ostbataillone. these units were volunteers from eastern europe, mainly the soviet union, and had a generally low fighting morale. the equipment of those troops was in poor shape, consisting of old weapons from various nations, with french, polish, soviet, italian, and czech guns, artillery, and mortars. four of the german divisions were designated as "static", which meant that they were stripped of all of their mobile capabilities and unable to move from their positions. the only potent unit inside army group g was the 11th panzer division, which was commanded by wend von wietersheim.[25][31]
+the german chain of command was overly complex, with parallel chains for the occupation forces, the land forces, the luftwaffe, and the kriegsmarine. the luftwaffe, with 200 aircraft, and the kriegsmarine, with 45 small ships, played a negligible role in the operation.[25][32] the german defense was aided by extensive coastal artillery placements which had been constructed in the years before the landing. after the fall of france, the vichy french regime greatly improved the coastal defenses to appease the germans. along the coast, about 75 coastal guns of heavy and medium caliber were placed. toulon was protected by a complex of heavy 340 millimetres (13 in) gun artillery batteries in mounted turrets. after their military take-over in november 1942, the germans improved the coastal defense further by repairing damaged and outdated turrets, as well as moving in additional guns. this included the 340 millimetres (13 in) guns taken from the dismantled french battleship provence.[33]
+
+operation[edit]
+preliminary operations[edit]
+ u.s. paratroopers of the 517th parachute regimental combat team prepare for the landings
+to ensure the success of dragoon and support the initial landings, preliminary commando operations had to be carried out. the first target was the hyères islands, specifically port-cros and levant. the guns of the german garrisons on both islands could reach the proposed allied landing area and the sea lanes that the troops would follow. the first special service force, a joint u.s.-canadian special-forces unit trained in amphibious assault and mountaineering and consisting of three regiments, received the order to take the islands as part of operation sitka.[34][35]
+the landings on port-cros and levant started simultaneously on 14 august. on levant, the 2nd and 3rd regiments of the first special service force faced sporadic resistance that became more intense when the german garrison forces came together in the area of the port. the men of the first special service force gained the upper hand and discovered that the "coastal defense battery" the allied naval forces were worried about was actually several well-camouflaged dummy weapons.[34][35]
+on port-cros, the 1st regiment drove the german garrison to the western side of the island to an old fort. fighting continued through 16 august. when darkness fell, enemy guns on the french mainland at cap benat shelled port-cros. the royal navy battleship hms ramillies took aim at the fort where the germans were barricaded. the german garrison surrendered on the morning of 17 august. with both islands in allied hands, the men of the first special service force transferred to the mainland, where they were attached to the first airborne task force.[34][35]
+meanwhile, at cap nègre to the west of the main invasion, a large group of french commandos destroyed german artillery emplacements as part of operation romeo. their main effort was supported by diversionary flank landings by other commando teams. while the main mission succeeded, 67 french commandos were taken prisoner after they ran into a minefield. in addition to the commando operations, another operation was carried out, named operation span. this was a deception plan, aimed to confuse the german defenders with fake landings and paratroopers, to disperse them from the actual landing zones.[34][35]
+
+main invasion force landings[edit]
+ operation dragoon landings
+the preceding bombing missions, together with resistance sabotage acts, hit the germans heavily, interrupting railroads, damaging bridges, and disrupting the communication network. the landing started on the morning of 15 august.[27] ships of the western naval task force approached under cover of darkness and were in position at dawn. the first of 1,300 allied bombers from italy, sardinia, and corsica began aerial bombardment shortly before 0600. bombing was nearly continuous until 0730, when battleships and cruisers launched spotting aircraft and began firing on specific targets detected by aerial surveillance. naval gunfire ceased as the landing craft headed ashore at 0800. the relatively steep beach gradients with small tidal range discouraged axis placement of underwater obstacles, but landing beaches had been defensively mined. lcis leading the first wave of landing craft fired rockets to explode land mines on the beaches to be used by following troops.[26]
+the main landing force consisted of three divisions of the vi corps. the 3rd infantry division landed on the left at alpha beach (cavalaire-sur-mer), the 45th infantry division landed in the centre at delta beach (le muy, saint-tropez), and the 36th infantry division landed on the right at camel beach (saint-raphaël).[36]
+the landings were overwhelmingly successful. on delta and alpha beaches, german resistance was low. the osttruppen surrendered quickly, and the biggest threats to the allies were the mines. a single german gun and a mortar position were silenced by destroyer fire. the allied units in this sector were able to secure a bridgehead and quickly linked up with the paratroopers, capturing saint-tropez and le muy.[36] the most serious fighting was on camel beach near the town of saint-raphaël. this beach was defended by several well-emplaced coastal guns, as well as flak batteries. through heavy german fire, the allies attempted to land at the shore. however, at sector red of the camel beach landing zone, the allies were not able to succeed. a bombing run of 90 allied b-24 bombers was called in against a german strongpoint here. even with the assistance of naval fire, the allies were not able to bring the landing ships close to the shore. they decided to avoid camel red and land only at the sectors of camel blue and camel green, which was successful.[36]
+the allied casualties at the landings were very light, with only 95 killed and 385 wounded; 40 of those casualties were caused by a rocket-boosted henschel hs 293 guided gliding bomb launched from a do 217 bomber aircraft by a rare appearance of the bomber wing kg 100, which sank the tank landing ship uss lst-282.[36] in conjunction with the sea landing, airborne and glider landings (mission albatross followed by mission dove, mission bluebird, and mission canary) around the area of le muy were carried out. they were as successful as the beach landings, with only 104 dead, 24 of which were caused by glider accidents and 18 by parachute accidents.[34][35]
+
+german counterattacks[edit]
+french sabotage by the ffi, together with the allied bombing, severed german communication lines, causing initial confusion among the troops. german field commanders were not able to communicate with army group g's headquarters. despite the hampered communications, german commanders acted independently to put measures in effect to counter the allied invasion. directly facing the brunt of the allied landings was the german lxii corps at draguignan, commanded by ferdinand neuling. allied paratroopers interrupted his communication lines and trapped his headquarters in the city. he, therefore, ordered the nearby 148th infantry division to counterattack against the beaches at le muy, just before the allied paratroopers cut him off completely. wiese, as commander of the 19th army, was also unable to contact blaskowitz's army group g headquarters, but implemented a plan to push the allied forces in the le muy – saint-raphaël region back into the sea unilaterally. with almost no mobile reserves to react against the beach landings, he ordered the commander of the 189th infantry division, richard von schwerin, to establish an ad hoc battle group (kampfgruppe) from all nearby units to counterattack the allied bridgeheads in this area. while von schwerin assembled all the men he could find, the 148th infantry division near draguignan encountered heavy resistance from the ffi, which had been reinforced by british paratroopers, upsetting the plan for a swift counterattack toward the beaches.[37][38]
+while the germans were unable to mount a counterattack against the allied beachheads on 15 august, by the morning of 16 august, von schwerin had finally assembled a force about the size of four infantry battalions. with this force, he launched a two-pronged assault towards le muy and the allied bridgehead, as well as toward draguignan to relieve the lxii corps headquarters there. by that time, the allies had already landed a significant number of troops, vehicles, and tanks. the allied mobile forces of the 45th division went out against the german forces themselves. the division surrounded the town of les arcs, recently reoccupied by von schwerin's troops, and attempted to isolate the german forces there. after heavy fighting throughout the day, von schwerin ordered his troops to retreat under cover of night. at the same time, heavy fighting occurred at saint-raphaël. mobile units of the 148th infantry division finally had arrived there and encountered the us 3rd division, which was trying to take saint-raphaël. this attack, however, was fruitless. by 17 august, the german counter-attacks had been largely defeated, saint-raphaël was secured together with a large bridgehead along the coastline, and mobile forces had linked up with the airborne troops in le muy.[38][39] french troops had been pouring ashore since 16 august, passing to the left of the american troops with the objective of toulon and marseille.[38]
+by the night of 16/17 august, army group g headquarters realized that it could not drive the allies back into the sea. simultaneously in northern france, the encirclement of the falaise pocket threatened the loss of large numbers of german forces. given the precarious situation, hitler moved away from his "no step backwards" agenda and agreed to an okw plan for the complete withdrawal of army groups g and b. the okw plan was for all german forces (except the stationary fortress troops) in southern france to move north to link up with army group b to form a new defensive line from sens through dijon to the swiss frontier. two german divisions (the 148th and 157th) were to retreat into the french-italian alps. the allies were privy to the german plan through ultra interception.[38][40][41]
+
+german withdrawal[edit]
+the germans started the withdrawal, while the motorized allied forces broke out from their bridgeheads and pursued the german units from behind. the rapid allied advance posed a major threat for the germans, who could not retreat fast enough. the germans tried to establish a defense line at the rhône to shield the withdrawal of several valuable units there. the us 45th and 3rd divisions were pressing to the north-west with uncontested speed, undermining wiese's plan for a new defense line. barjols and brignoles were taken by the two american divisions on 19 august, which also were about to envelop toulon, as well as marseille from the north, cutting off the german units there.[42][43]
+in the northeast, the german problems loomed as large. taskforce butler – the allied mechanized component of the landings – was pushing north of draguignan. on 18 august neuling's surrounded lxii corps headquarters attempted an unsuccessful breakout and was finally captured with the rest of the city after some fighting. the german troops in this area were exhausted and demoralized from the fighting against the ffi, so taskforce butler was also able to advance at high speed. digne was liberated on 18 august. at grenoble, the 157th reserve infantry division faced the allied advance, and its commander decided to retreat on 21 august toward the alps. this decision would prove to be fatal for the germans, as it left a large gap in the eastern flank of the retreating army group g. blaskowitz now decided to sacrifice the 242nd infantry division in toulon, as well as the 244th infantry division in marseille, to buy time for the rest of army group g to retreat through the rhône valley, while the 11th panzer division and the 198th infantry division would shield the retreat in several defense lines.[42][43]
+
+liberation of marseille and toulon[edit]
+main articles: battle of marseille and battle of toulon (1944)
+ jean de lattre de tassigny walking through the liberated city of marseille
+meanwhile, the disembarked french units started to head for marseille and toulon. the initial plan was to capture the ports in succession, but the unexpected allied advance allowed the french commander de lattre de tassigny to attack both ports almost simultaneously. he split his forces into two units, with joseph de goislard de monsabert given the task to take toulon from the east while edgard de larminat drove north to encircle the city at the flanks. the germans had a significant force stationed in both cities, but they lacked the time to prepare for a determined defense. after heavy fighting around hyères, which temporarily stopped the advance, french forces approached toulon on 19 august. at the same time, monsabert swung around the city, enveloped it, and cut off the highway between toulon and marseille. on 21 august, the french pressed into toulon, and heavy fighting ensued. the heavy german resistance led to an argument between larminat and de tassigny, after which de tassigny took over direct command of the operation, dismissing larminat. by 26 august, the remaining german units had surrendered. the battle for toulon cost the french 2,700 casualties, but they captured all remaining german forces, which lost their entire garrison of 18,000 men.[43][44]
+at the same time, monsabert's attempt to liberate marseille commenced. at first, a german force at aubagne was defeated before french troops attacked the city directly. unlike toulon, the german commander at marseille did not evacuate the civilian population, which became increasingly hostile. the resulting fighting with ffi troops further weakened the german units, which were exhausted from partisan fighting. the wehrmacht was not able to defend on a broad front and soon crumbled into numerous isolated strongpoints. on 27 august, most of the city was liberated, with only a few small strongpoints remaining, and on 28 august, german troops issued the official surrender. the battle caused 1,825 french casualties, but 11,000 german troops were captured.[45] in both harbours, german engineers had demolished port facilities to deny their use to the allies.[43][46]
+
+battle at montélimar[edit]
+ allied advance until mid-september
+while marseille and toulon were liberated, the german retreat continued. the 11th panzer division started several feint attacks toward aix-en-provence to discourage any further allied advance. by doing so, lxxxv corps, as well as iv luftwaffe field corps, were able to successfully retreat from the allied advance at the rhône. the allies were unsure of german intentions, and truscott decided to try to trap the germans with a right flank movement whilst pursuing them with his three divisions from vi corps. however, uncertainty at the allied headquarters led to indecisiveness, and the allies missed several opportunities to cut off the retreating   lxxxv corps.[47]
+through the decryption of german radio communications, the allied headquarters became aware of the german withdrawal plan. they recognized the open german flank to the east of the rhône at grenoble due the retreat of the 157th infantry division towards the alps. to seize this opportunity, taskforce butler was ordered to advance in this direction, paralleling the german evacuation effort and ultimately cutting them off further north. while doing so, it fought some scattered german resistance, and finally, after turning left, found itself near montélimar, a small city on the east bank of the rhône river. this town lay directly on the german escape route. following taskforce butler was the 36th infantry division. together, they were asked on 20 august to block the german force at montélimar and continue the northward advance to grenoble, while vi corps was pursuing the germans from behind. however, after this speedy advance, the forward allied forces suffered now from a serious lack of fuel and supplies, which made this task difficult.[43][48][49]
+on 21 august, taskforce butler occupied the hills north of the town of montélimar, according to revised orders from truscott, as he considered it too weak to block the entire german force marching north. from this position, taskforce butler fired on the evacuating german troops, while waiting for further reinforcements. troops from the ffi supported the americans, harassing german troops through the entire battle. the sudden appearance of this new threat shocked wiese and the german command. as a first countermeasure, wietersheim's 11th panzer division was called in. the first of its units to arrive, together with several ad hoc luftwaffe battle groups, were asked to deal with this new threat. this hastily assembled force mounted an attack against puy the same day, and the germans were able to isolate taskforce butler from supplies. this success was, however, short-lived, and the germans were pushed back soon after.[50][51]
+the next day, the first units of the 36th division arrived, reinforcing taskforce butler. however, the allied troops were still short of supplies and lacked enough men to directly attack the german escape route. during the next few days, more allied men and supplies trickled in. at the same time, the us 45th division took over positions at grenoble, leaving the 36th division free to fully commit its forces at montélimar. taskforce butler was officially dissolved on 23 august, and john e. dahlquist, commander of the now fully arrived 36th infantry division, assumed direct control of its units. for the rest of the day, only small skirmishes occurred between german and allied forces. meanwhile, the germans also struggled to bring the 11th panzer division through the chaos of the evacuation into position in the town. by 24 august, a substantial number of the 11th panzer division had finally reached the battle area.[51][52]
+with his newly reorganised units, dahlquist attempted a direct attack against montélimar, which failed against the newly arrived german tank units. the subsequent german counter-attack gained some ground against the hills occupied by the allies. its aim was to push the americans from the hills north of montélimar and to force the american artillery to move back out of range.[49] after the fighting, the germans captured a copy of dahlquist's operational plans, giving them a better picture of the allied forces. as a result, wiese planned a major attack for 25 august by the 11th panzer division and the 198th infantry division, together with some ad hoc luftwaffe battlegroups. this attack was, however, also a big failure. the allies struck back and retook the hills north of montélimar, and were able to establish a temporary roadblock on the german escape route. again, this allied success also did not last long, as another attack led by wietersheim reopened the passage at midnight.[51][53]
+after the repeated german counterattacks prevented any lasting roadblock, truscott finally allowed reinforcements from the 45th division to support dahlquist at montélimar, as he felt the successful operations further south at the french ports allowed him to refocus to the north. at the same time, the germans also reinforced their fighting force. over the next few days, a stalemate emerged, with the allies unable to block the retreat route and the germans unable to clear the area of the allied forces. both sides became increasingly frustrated during the fighting, with attack, counterattack, and spoiling attacks, which made launching a decisive offensive hard for the 36th division.[54][55] whilst the 36th division had surrounded the 19th army, they themselves were almost surrounded, too, during the chaotic fighting, with only a thin supply route to the east open, resulting in their having to fight to the front and the rear.[56] as the 36th division was seemingly making no progress, an angry truscott arrived at dahlquist's headquarters on 26 august to relieve him of command. however, on seeing the heavy terrain and shattered forces, he refrained and left the headquarters again. finally, during 26–28 august, the majority of the german forces were able to escape, leaving behind 4,000 burnt-out vehicles and 1,500 dead horses.[57] on 29 august, the allies captured montélimar, and the final german troops trying to break out surrendered. the germans suffered 2,100 battle casualties plus 8,000 pows, while the americans had 1,575 casualties.[51][55] total pow losses of the 19th army now amounted to 57,000.[57]
+
+final german retreat[edit]
+the vi corps, together with units from the french ii corps at its flank, pursued and tried to cut off the german forces on their way toward the town of dijon, while the germans planned to prevent another montélimar with a defensive shield by the 11th panzer division. the allied 45th and 3rd divisions, as well as the 11th panzer division, were racing north to fulfill their objectives. in the meantime, the germans tried to continue with the evacuation through lyon. behind their flight, the germans destroyed bridges, hoping this would slow down the allied advance. however, the 45th division was able to bypass the german forces, taking the town of meximieux on 1 september. this again posed a threat to the german evacuation. after some initial skirmishes, the 11th panzer division launched a heavy attack into the city, causing 215 american casualties and destroying a number of tanks and vehicles.[58][59][60]
+at the same time, the main german units retreated through lyon. on 2 september, the 36th infantry division arrived at lyon to find the maquis fighting the milice with much of the factory areas on fire. the next day, lyon was liberated and 2,000 germans were captured, but the rest had already continued their retreat north. lyon celebrated for two days with the americans.[61] the allies made a last-ditch attempt to cut off the germans with an offensive towards bourg-en-bresse by the 45th division and the 117th cavalry squadron from the original taskforce butler. however, the 45th division was not able to overcome the german defenses near the town. the 117th cavalry squadron had more success, bypassing bourg-en-bresse and taking montreval and marboz north of bourg-en-bresse, instead. by 3 september, montreval was secure, but the squadron soon found itself trapped by units from the 11th panzer division, which surrounded the town. as a result, the squadron was almost annihilated, and the german escape route was again open. the american units then retired to marboz.[58][59]
+over the next two weeks, more skirmishes occurred and the allies were not able to cut off a major portion of the german forces, but the germans were also not able to maintain any stable defense line as planned. on 10 september, forward units of the vi corps were able to establish contact with units from patton's third army. truscott hoped to be able to push through the belfort gap, but on 14 september, he received orders from the allied high command to halt the offensive. army group g was finally able to establish a stable defense line at the vosges mountains, thwarting further allied advances. this, combined with the allied need to reorganise their command structure as the forces from northern and southern france linked up, forced the allies to stop their pursuit of the germans, ending the offensive here.[59][60]
+during their fighting retreat up the rhône, the germans also withdrew their remaining forces from their garrisons in southwestern france. these divisions raced north along the atlantic coast and then swung towards the east at the loire to link up with the rest of army group g at burgundy. while they did not have to fight the western allies as much as the germans had done at the rhône, they still had to advance through french partisan-dominated terrain. about 88,000 men moved north, leaving 20,000 in southwestern france behind. during the retreat, about 19,000 men were captured by the allies and 60,000 men reached army group g's line, where they were integrated into the defense of the vosges mountains.[62]
+
+war crimes[edit]
+french resistance against the nazi german occupation and the vichy french puppet government increased drastically in the weeks leading up to the dragoon landings. to fight the uprising, german units committed numerous atrocities and war crimes against french fighters, as well as civilians, in retaliatory acts. on 9 june, after an attack on the german garrison at tulle, the 2nd ss panzer division hanged about 99 civilians while moving towards northern france during the tulle massacre. the next day, that division murdered 642 civilians in oradour-sur-glane during the oradour-sur-glane massacre and then proceeded to plunder and burn the town. german units also worked together with french collaborators to subdue partisans, for example against the partisan base at the vercors massif, but with little lasting result.[63]
+atrocities continued during the german retreat from southern france as german soldiers plundered and burned down towns. french civilians were brought before  military courts and sentenced to death because of alleged partisan activities. these atrocities did not help to subdue the french uprising. instead, the german reprisals had the opposite effect and encouraged the french population to engage in partisan fighting.[64]
+
+aftermath[edit]
+ monument to the landings of allied troops under general patch on the beach of st tropez, france
+operation dragoon was considered a success by the allied forces. it enabled them to liberate most of southern france in only four weeks, while inflicting heavy casualties on the german forces. however, the allies failed to cut off the most valuable units of the retreating army group g, which retreated over a distance of 800 km (500 mi) in good order, into the vosges mountains on the german border, with the capability of continuing the fight. the main reason for the failure to capture or destroy army group g was the allied shortage of fuel, which began soon after the landing. the allies had not anticipated the speed of their own advance, so could not adequately provide supplies and logistics to the leading allied units.[65][66]
+a significant benefit of operation dragoon was the use of the port facilities in southern france, especially the large ports at marseille and toulon. after operation cobra and operation dragoon, the allied advance slowed almost to a halt in september due to a critical lack of supplies. the ports were quickly brought back into service, together with the railroad system in southern france. thereafter, large quantities of supplies could be moved north to ease the supply situation. in october, 524,894 tons of supplies were unloaded, which was more than one-third of the allied cargo shipped to the western front.[66][67]
+operation dragoon also had political implications. two days after the landing, the germans proceeded to dismantle the french state. members of the sicherheitsdienst stormed french government institutions and moved french officials, including philippe pétain, to belfort in eastern france. later, they were moved to sigmaringen in germany, where they acted as a government in exile. with the collapse of the vichy regime, troops of the provisional government of the french republic re-established control of the french political institutions.[68] antony beevor comments, "the landings in the south of france prompted a rapid german withdrawal and thus reduced the damage and suffering done to france."[69]
+despite these successes, criticism of dragoon was made by some allied generals and contemporary commentators such as bernard montgomery, arthur r. wilson, and chester wilmot in the aftermath, mostly because of its geostrategic implications. dragoon was argued to have  diverted highly experienced men and much-needed materiel away from the continuing fighting at the western front that could have been used, instead, to bolster the italian front or to hasten the advance towards the rhine by the overlord forces. the resulting loss of momentum gave stalin on the eastern front a free hand to pursue his offensive efforts with more determination, allowing him to win the race towards berlin and occupy the balkans. dragoon, therefore, had consequences reaching into the cold war.[70]
+
+see also[edit]
+battle of port cros
+battle of la ciotat
+notes[edit]
+a  a significant number of canadians also took part, both afloat and in the battles in southern france as members of the binational us-canadian first special service force (also known as the devil's brigade).
+references[edit]
+
+
+^ clarke & smith (1993), p. 92.
+
+^ tucker-jones (2010), p. 92.
+
+^ clarke & smith (1993), p. 42.
+
+^ a b clarke & smith (1993), p. 70.
+
+^ clodfelter, m. (2017). "warfare and armed conflicts: a statistical encyclopedia of casualty and other figures, 1492–2015" (4th ed.). jefferson, north carolina: mcfarland. page 474.
+
+^ "statistical and accounting branch office of the adjutant general p. 93"
+
+^ "statistical and accounting branch office of the adjutant general p. 93"
+
+^ clarke & smith (1993), p. 195.
+
+^ a b vogel (1983), pp. 604–605.
+
+^ zaloga (2009), p. 88.
+
+^ clarke & smith (1993), p. 197.
+
+^ clodfelter 2017, p. 474
+
+^ tucker-jones (2010), p. 11.
+
+^ tucker-jones (2010), p. 66.
+
+^ a b c d yeide (2007), p. 13.
+
+^ a b c d zaloga (2009), pp. 6–8.
+
+^ tucker-jones (2010), p. 62.
+
+^ tucker-jones (2010), pp. 51–55.
+
+^ tucker-jones (2010), p. 69.
+
+^ smith, jean edward (2012). eisenhower in war and peace. new york: random house. pp. 371–373. isbn 978-0-679-64429-3..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ breuer (1996), p. 46.
+
+^ zaloga (2009), pp. 34–35.
+
+^ vogel (1983), pp. 582–584.
+
+^ zaloga (2009), pp. 32–34.
+
+^ a b c d vogel (1983), pp. 588–598.
+
+^ a b potter & nimitz (1960), pp. 588–598.
+
+^ a b pogue (1986), p. 227.
+
+^ zaloga (2009), pp. 8, 29.
+
+^ vogel (1983), pp. 584–586.
+
+^ clarke & smith (1993), p. 63.
+
+^ zaloga (2009), pp. 16–19.
+
+^ zaloga (2009), pp. 20–22.
+
+^ tucker-jones (2010), p. 78.
+
+^ a b c d e zaloga (2009), pp. 36–41.
+
+^ a b c d e vogel (1983), p. 597.
+
+^ a b c d zaloga (2009), pp. 41–50.
+
+^ clarke & smith (1993), pp. 105–107.
+
+^ a b c d vogel (1983), pp. 597–599.
+
+^ clarke & smith (1993), pp. 118–125.
+
+^ zaloga (2009), p. 55.
+
+^ clarke & smith (1993), pp. 128; 134–137.
+
+^ a b zaloga (2009), pp. 57–59.
+
+^ a b c d e vogel (1983), pp. 598–601.
+
+^ clarke & smith (1993), pp. 137–140.
+
+^ clarke & smith (1993), pp. 140–142.
+
+^ zaloga (2009), pp. 70–71.
+
+^ clarke & smith (1993), pp. 142–143.
+
+^ clarke & smith (1993), pp. 144–147.
+
+^ a b tucker-jones (2010), p. 129.
+
+^ clarke & smith (1993), pp. 147–149.
+
+^ a b c d zaloga (2009), pp. 71–81.
+
+^ clarke & smith (1993), pp. 150–154.
+
+^ clarke & smith (1993), pp. 154–160.
+
+^ tucker-jones (2010), pp. 129–130.
+
+^ a b clarke & smith (1993), pp. 160–165.
+
+^ tucker-jones (2010), p. 130.
+
+^ a b tucker-jones (2010), p. 132.
+
+^ a b clarke & smith (1993), pp. 175–180.
+
+^ a b c zaloga (2009), pp. 85–88.
+
+^ a b vogel (1983), pp. 600–602.
+
+^ tucker-jones (2010), p. 133.
+
+^ vogel (1983), pp. 601–602.
+
+^ vogel (1983), pp. 589, 593.
+
+^ vogel (1983), pp. 589, 603–604.
+
+^ tucker-jones (2010), p. 175.
+
+^ a b vogel (1983), pp. 602–605.
+
+^ zaloga (2009), p. 71.
+
+^ vogel (1983), p. 605.
+
+^ beevor, antony (2012). the second world war. london: weidenfeld & nicolson. p. 612. isbn 978-0-297-84497-6.
+
+^ tucker-jones (2010), pp. 175–180.
+
+
+bibliography[edit]
+.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}
+breuer, william (1996). operation dragoon: the allied invasion of the south of france. presidio press. isbn 978-0-89141-601-2.
+clarke, jeffrey j. & smith, robert ross (1993). riviera to the rhine. united states army in world war ii: european theater of operations. washington dc: center of military history, united states army. isbn 978-0-16-025966-1.
+pogue, c. (1986). the supreme command. united states army in world war ii: european theater of operations. washington, dc: center of military history, united states army. isbn 978-0-16-001916-6.
+potter, e.b. & nimitz, chester w. (1960). sea power. englewood cliffs, nj: prentice-hall. isbn 978-0-13-796870-1.
+tucker-jones, anthony (2010). operation dragoon: the liberation of southern france 1944. pen and sword. isbn 978-1-84884-140-6.
+vogel, detlef (1983). "deutsche und alliierte kriegsführung im westen [german and allied warfare in the west]".  in boog, horst; krebs, gerhard; vogel, detlef. das deutsche reich in der defensive [the german reich on the defense: the strategic air war in europe and the war in the west and east asia 1943–1944/5]. germany and the second world war (in german). vii. militärgeschichtliches forschungsamt. deutsche verlags-anstalt. pp. 419–642. isbn 978-3-421-05507-1.
+yeide, harry (2007). first to the rhine: the 6th army group in world war ii. zenith press. isbn 978-0-7603-3146-0.
+zaloga, steven j. (2009). operation dragoon 1944: france's other d-day. osprey publishing. isbn 978-1-84603-367-4.
+
+further reading[edit]
+gassend, jean-loup (2014). autopsy of a battle, the liberation of the french riviera, august-september 1944. atglen pa: schiffer. isbn 978-0764345807.
+leighton, richard m. (2000) [1960]. "chapter 10: overlord versus the mediterranean at the cairo-tehran conferences".  in greenfield, kent roberts. command decisions. washington, dc: united states army center of military history. oclc 909793361. cmh pub 70-7. retrieved 26 october 2016.
+external links[edit]
+
+
+
+wikimedia commons has media related to operation dragoon.
+us army campaigns of world war ii – southern france at the united states army center of military history
+the short film the big picture – command decision: the invasion of southern france (1963) is available for free download at the internet archive
+short film the unknown soldier: operation dragoon
+short film the unknown soldier: the children of the resistance
+contemporary us documentary allied invasion of southern france – operation dragoon, the other d-day
+video showing the recovery of several german soldiers killed shortly after operation dragoon in 2006
+vteworld war ii
+asia and the pacific
+china
+south-east asia
+north and central pacific
+south-west pacific
+europe
+western
+eastern
+mediterranean and middle east
+north africa
+east africa
+italy
+west africa
+atlantic
+north america
+south america
+casualties
+military engagements
+conferences
+commanders
+participantsallies.mw-parser-output .nobold{font-weight:normal}(leaders)
+australia
+belgium
+brazil
+canada
+china
+cuba
+czechoslovakia
+denmark
+ethiopia
+france
+free france (from june 1940)
+greece
+india
+italy (from september 1943)
+luxembourg
+mexico
+netherlands
+new zealand
+norway
+philippines (commonwealth)
+poland
+south africa
+southern rhodesia
+soviet union
+tuva
+united kingdom
+united states
+puerto rico
+yugoslavia
+axis andaxis-aligned(leaders)
+albania
+bulgaria
+reorganized national government of the republic of china
+independent state of croatia
+finland
+germany
+hungary
+free india
+iraq
+italy (until september 1943)
+italian social republic
+japan
+manchukuo
+philippines (second republic)
+romania
+slovakia
+thailand
+vichy france
+armed neutrality
+resistance
+albania
+austria
+belgium
+bulgaria
+czech lands
+denmark
+estonia
+ethiopia
+france
+germany
+greece
+hong kong
+italy
+japan
+jewish
+korea
+latvia
+lithuania
+luxembourg
+malaya
+netherlands
+northeast china
+norway
+philippines
+poland
+anti-communist
+romania
+thailand
+soviet union
+slovakia
+western ukraine
+vietnam
+yugoslavia
+monarchists
+timelineprelude
+africa
+asia
+europe
+1939
+poland
+phoney war
+winter war
+atlantic
+changsha
+china
+1940
+weserübung
+netherlands
+belgium
+france
+armistice of 22 june 1940
+britain
+north africa
+west africa
+british somaliland
+north china
+baltic states
+moldova
+indochina
+greece
+compass
+1941
+east africa
+yugoslavia
+shanggao
+greece
+crete
+iraq
+soviet union (barbarossa)
+finland
+lithuania
+syria and lebanon
+kiev
+iran
+leningrad
+gorky
+moscow
+sevastopol
+pearl harbor
+the outbreak of the pacific war
+hong kong
+philippines
+changsha
+malaya
+borneo (1941–42)
+1942
+burma
+changsha
+java sea
+coral sea
+gazala
+dutch harbor
+ attu (occupation)
+kiska
+zhejiang-jiangxi
+midway
+rzhev
+blue
+stalingrad
+singapore
+dieppe
+el alamein
+guadalcanal
+torch
+1943
+tunisia
+kursk
+smolensk
+gorky
+solomon islands
+ attu
+sicily
+ cottage
+lower dnieper
+italy
+armistice of cassibile
+gilbert and marshall islands
+ burma
+ northern burma and western yunnan
+changde
+1944
+monte cassino / shingle
+narva
+korsun–cherkassy
+tempest
+ichi-go
+overlord (battle of normandy - d-day)
+neptune
+normandy
+mariana and palau
+bagration
+western ukraine
+tannenberg line
+warsaw
+eastern romania
+belgrade
+paris
+dragoon
+gothic line
+market garden
+estonia
+crossbow
+pointblank
+lapland
+hungary
+leyte
+ardennes
+bodenplatte
+philippines (1944–1945)
+burma (1944–45)
+1945
+vistula–oder
+iwo jima
+western invasion of germany
+okinawa
+italy (spring 1945)
+borneo
+syrmian front
+berlin
+czechoslovakia
+budapest
+west hunan
+guangxi
+surrender of germany
+project hula
+manchuria
+manila
+borneo
+taipei
+atomic bombings
+debate
+kuril islands
+shumshu
+surrender of japan
+end of world war ii in asia
+aspectsgeneralfamines
+bengal famine of 1943
+chinese famine of 1942–43
+greek famine of 1941-1944
+dutch famine of 1944–45
+vietnamese famine of 1945
+
+air warfare of world war ii
+blitzkrieg
+comparative military ranks
+cryptography
+diplomacy
+home front
+united states
+australian
+united kingdom
+lend-lease
+manhattan project
+military awards
+military equipment
+military production
+nazi plunder
+opposition
+technology
+allied cooperation
+total war
+strategic bombing
+puppet states
+women
+art and world war ii
+aftermath
+expulsion of germans
+operation paperclip
+operation osoaviakhim
+operation keelhaul
+occupation of germany
+territorial changes of germany
+soviet occupations
+romania
+poland
+hungary
+baltic states
+occupation of japan
+first indochina war
+indonesian national revolution
+cold war
+decolonization
+treaty on the final settlement with respect to germany
+popular culture
+war crimes
+allied war crimes
+soviet war crimes
+british war crimes
+united states war crimes
+german (forced labour) / wehrmacht war crimes
+holocaust
+aftermath
+response
+prosecution
+italian war crimes
+japanese war crimes
+unit 731
+prosecution
+croatian war crimes
+against the serbs
+against the jews
+romanian war crimes
+wartimesexual violence
+german military brothels
+camp brothels
+rape during the occupation of japan
+sook ching
+comfort women
+rape of nanking
+rape of manila
+rape during the occupation of germany
+rape during the liberation of france
+rape during the soviet occupation of poland
+prisoners
+finnish prisoners of war in the soviet union
+german prisoners of war in the soviet union
+german prisoners of war in the united states
+italian prisoners of war in the soviet union
+japanese prisoners of war in the soviet union
+japanese prisoners of war in world war ii
+german mistreatment of soviet prisoners of war
+polish prisoners of war in the soviet union
+romanian prisoners of war in the soviet union
+soviet prisoners of war in finland
+
+bibliography
+category
+portal
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=operation_dragoon&oldid=883837464"					
+categories: conflicts in 19441944 in francebattles of world war ii involving francenaval battles of world war ii involving franceworld war ii invasionsnaval battles and operations of the european theatre of world war iioperation dragoonwestern european campaign (1944–1945)invasions of franceinvasions by the united statesinvasions by the united kingdombattles of world war ii involving canadamilitary history of canada during world war iiinvasions by canadanaval battles and operations of world war ii involving the united kingdomamphibious operations of world war iihidden categories: articles with short descriptiongood articlesuse dmy dates from november 2012coordinates on wikidatacs1 german-language sources (de)commons category link is on wikidata 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+العربيةتۆرکجهбългарскиcatalàčeštinadanskdeutschespañolesperantoفارسیfrançais한국어hrvatskibahasa indonesiaitalianoעבריתmagyarnederlands日本語norskoccitanpolskiportuguêsromânăрусскийslovenčinaslovenščinasrpskohrvatski / српскохрватскиsuomisvenskaதமிழ்ไทยtürkçeукраїнська中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 17 february 2019, at 23:11 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"1.012","walltime":"1.305","ppvisitednodes":{"value":7577,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":263019,"limit":2097152},"templateargumentsize":{"value":12753,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":62558,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  952.059      1 -total"," 23.35%  222.309    107 template:sfnp"," 21.62%  205.824      1 template:infobox_military_conflict"," 16.31%  155.311     12 template:cite_book"," 13.78%  131.149      1 template:reflist","  7.62%   72.570      9 template:military_navigation","  6.45%   61.378      1 template:commons_category","  4.80%   45.666      4 template:convert","  4.01%   38.153      1 template:short_description","  3.72%   35.436      1 template:pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.426","limit":"10.000"},"limitreport-memusage":{"value":7653467,"limit":52428800}},"cachereport":{"origin":"mw1245","timestamp":"20190218072329","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"operation dragoon","url":"https:\/\/en.wikipedia.org\/wiki\/operation_dragoon","sameas":"http:\/\/www.wikidata.org\/entity\/q221111","mainentity":"http:\/\/www.wikidata.org\/entity\/q221111","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2003-06-24t14:01:38z","datemodified":"2019-02-17t23:11:13z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/49\/operation_dragoon_invasion_fleet_1944.jpg","headline":"allied invasion of southern france on 15 august 1944"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":159,"wghostname":"mw1275"});});
+
+

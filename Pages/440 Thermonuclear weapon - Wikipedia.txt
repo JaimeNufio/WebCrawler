@@ -1,0 +1,821 @@
+
+
+
+
+thermonuclear weapon - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"thermonuclear_weapon","wgtitle":"thermonuclear weapon","wgcurrevisionid":883517457,"wgrevisionid":883517457,"wgarticleid":2269463,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["webarchive template wayback links","articles with short description","articles lacking in-text citations from october 2018","all articles lacking in-text citations","articles needing additional references from october 2018","all articles needing additional references","articles with multiple maintenance issues","articles needing additional references from december 2015","all articles with unsourced statements","articles with unsourced statements from october 2017","all articles lacking reliable references","articles lacking reliable references from october 2014","articles with unsourced statements from january 2016","articles lacking reliable references from december 2016","articles to be expanded from september 2009","all articles to be expanded","articles using small message boxes","articles with unsourced statements from november 2017","commons category link is locally defined","commons category link is on wikidata using p373","interlanguage link template link number","nuclear weapon design","nuclear secrecy","edward teller"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"thermonuclear_weapon","wgrelevantarticleid":2269463,"wgrequestid":"xgc5papaickaaaiyqdsaaaci","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgredirectedfrom":"hydrogen_bomb","wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wginternalredirecttargeturl":"/wiki/thermonuclear_weapon","wgwikibaseitemid":"q625107","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","jquery.makecollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makecollapsible","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+thermonuclear weapon 
+from wikipedia, the free encyclopedia   (redirected from hydrogen bomb)
+ jump to navigation
+jump to search
+2-stage nuclear fission weapon
+this article has multiple issues. please help improve it or discuss these issues on the talk page. (learn how and when to remove these template messages)
+
+this article includes a list of references, but its sources remain unclear because it has insufficient inline citations. please help to improve this article by introducing more precise citations. (october 2018) (learn how and when to remove this template message)
+this article needs additional citations for verification. please help improve this article by adding citations to reliable sources. unsourced material may be challenged and removed.find sources: "thermonuclear weapon" – news · newspapers · books · scholar · jstor (october 2018) (learn how and when to remove this template message)
+
+ (learn how and when to remove this template message)
+ 1950s fusion bomb design with cylindrical fusion stage(modern designs use spherical secondaries)a) fission primary stageb) fusion secondary stage1) high-explosive lenses2) uranium-238 ("tamper") lined with beryllium reflector3) vacuum ("levitated core")4) tritium "boost" gas (blue) within plutonium or uranium hollow core 5) radiation channel filled with polystyrene foam6) uranium ("pusher/tamper")7) lithium-6 deuteride (fusion fuel)8) plutonium (spark plug)9) radiation case (confines thermal x-rays by reflection)
+a thermonuclear weapon, or fusion weapon, is a second-generation nuclear weapon design which affords vastly greater destructive power than first-generation atomic bombs. modern fusion weapons consist essentially of two main components: a nuclear fission primary stage (fueled by uranium-235 or plutonium-239) and a separate nuclear fusion secondary stage containing thermonuclear fuel: the heavy hydrogen isotopes deuterium and tritium, or in modern weapons lithium deuteride. for this reason, thermonuclear weapons are often colloquially called hydrogen bombs or h-bombs.[1]
+a fusion explosion begins with the detonation of the fission primary stage. its temperature soars past approximately one hundred million kelvins, causing it to glow intensely with thermal x-radiation. these x-rays flood the void (the "radiation channel" often filled with polystyrene foam) between the primary and secondary assemblies placed within an enclosure called a radiation case, which confines the x-ray energy and resists getting pressed outwards. the distance separating the two assemblies ensures that debris fragments from the fission primary (which move much slower than x-ray photons) cannot disassemble the secondary before the fusion explosion runs to completion. 
+the secondary fusion stage–consisting of pusher/tamper, fusion fuel, and plutonium spark plug–is imploded by the x-ray energy pressing it inward. this compresses it and drives up the density of the plutonium spark plug at its center. the density of the plutonium fuel rises to such an extent that the spark plug is driven into a supercritical state, and it begins a nuclear fission chain reaction. the fission products so produced heat the highly compressed, and thus superdense, thermonuclear fuel surrounding the spark plug to the region of some three hundred million kelvins, igniting fusion reactions between fusion fuel nuclei. in modern weapons fueled by lithium deuteride, the fissioning plutonium spark plug also emits free neutrons which collide with lithium nuclei and supply the tritium component of the thermonuclear fuel.
+the radiation implosion mechanism exploits the temperature difference between the secondary stage's hot, surrounding radiation channel and its relatively cool interior. this temperature difference is briefly maintained by a massive heat barrier called the "pusher"/"tamper", which also serves as an implosion tamper, increasing and prolonging the compression of the secondary.  if made of uranium, enriched uranium or plutonium, it can capture fusion neutrons produced by the fusion reaction and undergo fission itself, increasing the overall explosive yield. in addition to that, some designs also make the radiation case out of a fissile material that undergoes fission. as a result, such bombs get a third tertiary fission stage, and the majority of current teller–ulam are fission-fusion-fission weapons. fission of the tamper or radiation case is the main contribution to the total yield and produces radioactive fission product fallout.[2][3]
+the first full-scale thermonuclear test was carried out by the united states in 1952; the concept has since been employed by most of the world's nuclear powers in the design of their weapons.[4] the design of all modern thermonuclear weapons in the united states is known as the teller–ulam configuration for its two chief contributors, edward teller and stanislaw ulam, who developed it in 1951[5] for the united states, with certain concepts developed with the contribution of physicist john von neumann. similar devices were developed by the soviet union, united kingdom, france, and china. 
+as thermonuclear weapons represent the most efficient design for weapon energy yield in weapons with yields above 50 kilotons of tnt (210 tj), virtually all the nuclear weapons of this size deployed by the five nuclear-weapon states under the non-proliferation treaty today are thermonuclear weapons using the teller–ulam design.[6]
+
+contents
+
+1 public knowledge concerning nuclear weapon design
+2 basic principle
+
+2.1 summary
+
+
+3 compression of the secondary
+
+3.1 radiation pressure
+3.2 foam plasma pressure
+3.3 tamper-pusher ablation
+3.4 comparing implosion mechanisms
+
+
+4 design variations
+5 history
+
+5.1 united states
+5.2 soviet union
+5.3 united kingdom
+5.4 china
+5.5 france
+5.6 india
+5.7 israel
+5.8 pakistan
+5.9 north korea
+
+
+6 public knowledge
+
+6.1 doe statements
+6.2 the progressive case
+
+
+7 nuclear reduction
+8 variations
+
+8.1 ivy mike
+8.2 w88
+
+
+9 see also
+10 references
+
+10.1 bibliography
+
+
+11 external links
+
+
+public knowledge concerning nuclear weapon design[edit]
+this section needs additional citations for verification. please help improve this article by adding citations to reliable sources. unsourced material may be challenged and removed.find sources: "thermonuclear weapon" – news · newspapers · books · scholar · jstor (december 2015) (learn how and when to remove this template message)
+ edward teller in 1958
+detailed knowledge of fission and fusion weapons is classified to some degree in virtually every industrialized nation. in the united states, such knowledge can by default be classified as "restricted data", even if it is created by persons who are not government employees or associated with weapons programs, in a legal doctrine known as "born secret" (though the constitutional standing of the doctrine has been at times called into question; see united states v. progressive, inc.). born secret is rarely invoked for cases of private speculation. the official policy of the united states department of energy has been not to acknowledge the leaking of design information, as such acknowledgment would potentially validate the information as accurate. in a small number of prior cases, the u.s. government has attempted to censor weapons information in the public press, with limited success.[7] according to the new york times, physicist kenneth w. ford defied government orders to remove classified information from his book, building the h bomb: a personal history. ford claims he used only pre-existing information and even submitted a manuscript to the government, which wanted to remove entire sections of the book for concern that foreign nations could use the information.[8]
+though large quantities of vague data have been officially released, and larger quantities of vague data have been unofficially leaked by former bomb designers, most public descriptions of nuclear weapon design details rely to some degree on speculation, reverse engineering from known information, or comparison with similar fields of physics (inertial confinement fusion is the primary example). such processes have resulted in a body of unclassified knowledge about nuclear bombs that is generally consistent with official unclassified information releases, related physics, and is thought to be internally consistent, though there are some points of interpretation that are still considered open. the state of public knowledge about the teller–ulam design has been mostly shaped from a few specific incidents outlined in a section below.
+
+basic principle[edit]
+the basic principle of the teller–ulam configuration is the idea that different parts of a thermonuclear weapon can be chained together in "stages", with the detonation of each stage providing the energy to ignite the next stage. at a bare minimum, this implies a primary section that consists of an implosion-type fission bomb (a "trigger"), and a secondary section that consists of fusion fuel. the energy released by the primary compresses the secondary through a process called "radiation implosion", at which point it is heated and undergoes nuclear fusion. this process could be continued, with energy from the secondary igniting a third fusion stage; russia's an602 "tsar bomba" is thought to have been a three-stage fission-fusion-fusion device. theoretically by continuing this process thermonuclear weapons with arbitrarily high yield could be constructed.[citation needed] this contrasts with fission weapons which are limited in yield because only so much fission fuel can be amassed in one place before the danger of its accidentally becoming supercritical becomes too great.
+
+ one possible version of the teller–ulam configuration
+surrounding the other components is a hohlraum or radiation case, a container that traps the first stage or primary's energy inside temporarily. the outside of this radiation case, which is also normally the outside casing of the bomb, is the only direct visual evidence publicly available of any thermonuclear bomb component's configuration. numerous photographs of various thermonuclear bomb exteriors have been declassified.[9]
+the primary is thought to be a standard implosion method fission bomb, though likely with a core boosted by small amounts of fusion fuel (usually 50/50% deuterium/tritium gas) for extra efficiency; the fusion fuel releases excess neutrons when heated and compressed, inducing additional fission. when fired, the plutonium-239 (pu-239) or uranium-235 (u-235) core would be compressed to a smaller sphere by special layers of conventional high explosives arranged around it in an explosive lens pattern, initiating the nuclear chain reaction that powers the conventional "atomic bomb".
+the secondary is usually shown as a column of fusion fuel and other components wrapped in many layers. around the column is first a "pusher-tamper", a heavy layer of uranium-238 (u-238) or lead that helps compress the fusion fuel (and, in the case of uranium, may eventually undergo fission itself). inside this is the fusion fuel itself, usually a form of lithium deuteride, which is used because it is easier to weaponize than liquefied tritium/deuterium gas. this dry fuel, when bombarded by neutrons, produces tritium, a heavy isotope of hydrogen which can undergo nuclear fusion, along with the deuterium present in the mixture. (see the article on nuclear fusion for a more detailed technical discussion of fusion reactions.) inside the layer of fuel is the "spark plug", a hollow column of fissile material (plutonium-239 or uranium-235) often boosted by deuterium gas. the spark plug, when compressed, can itself undergo nuclear fission (because of the shape, it is not a critical mass without compression). the tertiary, if one is present, would be set below the secondary and probably be made up of the same materials.[10][11]
+separating the secondary from the primary is the interstage. the fissioning primary produces four types of energy: 1) expanding hot gases from high explosive charges that implode the primary; 2) superheated plasma that was originally the bomb's fissile material and its tamper; 3) the electromagnetic radiation; and 4) the neutrons from the primary's nuclear detonation. the interstage is responsible for accurately modulating the transfer of energy from the primary to the secondary. it must direct the hot gases, plasma, electromagnetic radiation and neutrons toward the right place at the right time. less than optimal interstage designs have resulted in the secondary failing to work entirely on multiple shots, known as a "fissile fizzle". the castle koon shot of operation castle is a good example; a small flaw allowed the neutron flux from the primary to prematurely begin heating the secondary, weakening the compression enough to prevent any fusion.
+
+@media all and (max-width:720px){.mw-parser-output .tmulti>.thumbinner{width:100%!important;max-width:none!important}.mw-parser-output .tmulti .tsingle{float:none!important;max-width:none!important;width:100%!important;text-align:center}}classified paper by teller and ulam on march 9, 1951: on heterocatalytic detonations i: hydrodynamic lenses and radiation mirrors, in which they proposed their revolutionary staged implosion idea. this declassified version is extensively redacted.
+there is very little detailed information in the open literature about the mechanism of the interstage. one of the best sources is a simplified diagram of a british thermonuclear weapon similar to the american w80 warhead. it was released by greenpeace in a report titled "dual use nuclear technology".[12] the major components and their arrangement are in the diagram, though details are almost absent; what scattered details it does include likely have intentional omissions or inaccuracies. they are labeled "end-cap and neutron focus lens" and "reflector wrap"; the former channels neutrons to the u-235/pu-239 spark plug while the latter refers to an x-ray reflector; typically a cylinder made out of an x-ray opaque material such as uranium with the primary and secondary at either end. it does not reflect like a mirror; instead, it gets heated to a high temperature by the x-ray flux from the primary, then it emits more evenly spread x-rays that travel to the secondary, causing what is known as radiation implosion. in ivy mike, gold was used as a coating over the uranium to enhance the blackbody effect.[13] next comes the "reflector/neutron gun carriage". the reflector seals the gap between the neutron focus lens (in the center) and the outer casing near the primary. it separates the primary from the secondary and performs the same function as the previous reflector. there are about six neutron guns (seen here from sandia national laboratories[14]) each poking through the outer edge of the reflector with one end in each section; all are clamped to the carriage and arranged more or less evenly around the casing's circumference. the neutron guns are tilted so the neutron emitting end of each gun end is pointed towards the central axis of the bomb. neutrons from each neutron gun pass through and are focused by the neutron focus lens towards the centre of primary in order to boost the initial fissioning of the plutonium. a "polystyrene polarizer/plasma source" is also shown (see below).
+the first u.s. government document to mention the interstage was only recently released to the public promoting the 2004 initiation of the reliable replacement warhead program. a graphic includes blurbs describing the potential advantage of a rrw on a part by part level, with the interstage blurb saying a new design would replace "toxic, brittle material" and "expensive 'special' material... [which require] unique facilities".[15] the "toxic, brittle material" is widely assumed to be beryllium which fits that description and would also moderate the neutron flux from the primary. some material to absorb and re-radiate the x-rays in a particular manner may also be used.[16]
+candidates for the "special material" are polystyrene and a substance called "fogbank", an unclassified codename. fogbank's composition is classified, though aerogel has been suggested as a possibility. it was first used in thermonuclear weapons with the w-76 thermonuclear warhead, and produced at a plant in the y-12 complex at oak ridge, tennessee for use in the w-76.  production of fogbank lapsed after the w-76 production run ended.  the w-76 life extension program required more fogbank to be made.  this was complicated by the fact that the original fogbank's properties weren't fully documented, so a massive effort was mounted to re-invent the process. an impurity crucial to the properties of the old fogbank was omitted during the new process. only close analysis of new and old batches revealed the nature of that impurity. the manufacturing process used acetonitrile as a solvent, which led to at least three evacuations of the fogbank plant in 2006. widely used in the petroleum and pharmaceutical industries, acetonitrile is flammable and toxic. y-12 is the sole producer of fogbank.[17]
+
+summary[edit]
+a simplified summary of the above explanation is:
+
+an implosion assembly type of fission bomb explodes. this is the primary stage. if a small amount of deuterium/tritium gas is placed inside the primary's core, it will be compressed during the explosion and a nuclear fusion reaction will occur; the released neutrons from this fusion reaction will induce further fission in the plutonium-239 or uranium-235 used in the primary stage. the use of fusion fuel to enhance the efficiency of a fission reaction is called boosting. without boosting, a large portion of the fissile material will remain unreacted; the little boy and fat man bombs had an efficiency of only 1.4% and 17%, respectively, because they were unboosted.
+energy released in the primary stage is transferred to the secondary (or fusion) stage. the exact mechanism whereby this happens is highly classified. this energy compresses the fusion fuel and sparkplug; the compressed sparkplug becomes critical and undergoes a fission chain reaction, further heating the compressed fusion fuel to a high enough temperature to induce fusion, and also supplying neutrons that react with lithium to create tritium for fusion.
+the fusion fuel of the secondary stage may be surrounded by uranium or enriched uranium, or plutonium. fast neutrons generated by fusion can induce fission even in materials normally not prone to it, such as depleted uranium whose u-238 is not fissile and cannot sustain a chain reaction, but which is fissionable when bombarded by the high-energy neutrons released by fusion in the secondary stage. this process provides considerable energy yield (as much as half of the total yield in large devices). although it is sometimes considered to be a separate stage, it should not be confused with a true tertiary stage. tertiary stages are further fusion stages (see below), which have been put in only a handful of bombs, none of them in large-scale production.
+thermonuclear weapons may or may not use a boosted primary stage, use different types of fusion fuel, and may surround the fusion fuel with beryllium (or another neutron reflecting material) instead of depleted uranium to prevent early premature fission from occurring before the secondary is optimally compressed.
+
+compression of the secondary[edit]
+the basic idea of the teller–ulam configuration is that each "stage" would undergo fission or fusion (or both) and release energy, much of which would be transferred to another stage to trigger it. how exactly the energy is "transported" from the primary to the secondary has been the subject of some disagreement in the open press, but is thought to be transmitted through the x-rays and gamma rays that are emitted from the fissioning primary. this energy is then used to compress the secondary. the crucial detail of how the x-rays create the pressure is the main remaining disputed point in the unclassified press. there are three proposed theories:
+
+radiation pressure exerted by the x-rays. this was the first idea put forth by howard morland in the article in the progressive.
+x-rays creating a plasma in the radiation channel's filler (a polystyrene or "fogbank" plastic foam). this was a second idea put forward by chuck hansen and later by howard morland.
+tamper/pusher ablation. this is the concept best supported by physical analysis.
+radiation pressure[edit]
+the radiation pressure exerted by the large quantity of x-ray photons inside the closed casing might be enough to compress the secondary. electromagnetic radiation such as x-rays or light carries momentum and exerts a force on any surface it strikes. the pressure of radiation at the intensities seen in everyday life, such as sunlight striking a surface, is usually imperceptible, but at the extreme intensities found in a thermonuclear bomb the pressure is enormous.
+for two thermonuclear bombs for which the general size and primary characteristics are well understood, the ivy mike test bomb and the modern w-80 cruise missile warhead variant of the w-61 design, the radiation pressure was calculated to be 73 million bar (atmospheres) (7.3 t pa) for the ivy mike design and 1,400 million bar (140 tpa) for the w-80.[18]
+
+foam plasma pressure[edit]
+foam plasma pressure is the concept that chuck hansen introduced during the progressive case, based on research that located declassified documents listing special foams as liner components within the radiation case of thermonuclear weapons.
+the sequence of firing the weapon (with the foam) would be as follows:
+
+the high explosives surrounding the core of the primary fire, compressing the fissile material into a supercritical state and beginning the fission chain reaction.
+the fissioning primary emits thermal x-rays, which "reflect" along the inside of the casing, irradiating the polystyrene foam.
+the irradiated foam becomes a hot plasma, pushing against the tamper of the secondary, compressing it tightly, and beginning the fission chain reaction in the spark plug.
+pushed from both sides (from the primary and the spark plug), the lithium deuteride fuel is highly compressed and heated to thermonuclear temperatures. also, by being bombarded with neutrons, each lithium-6 atom splits into one tritium atom and one alpha particle. then begins a fusion reaction between the tritium and the deuterium, releasing even more neutrons, and a huge amount of energy.
+the fuel undergoing the fusion reaction emits a large flux of high energy (17.6 mev) neutrons, which irradiates the u-238 tamper (or the u-238 bomb casing), causing it to undergo a fast fission reaction, providing about half of the total energy.
+this would complete the fission-fusion-fission sequence. fusion, unlike fission, is relatively "clean"—it releases energy but no harmful radioactive products or large amounts of nuclear fallout. the fission reactions though, especially the last fission reactions, release a tremendous amount of fission products and fallout. if the last fission stage is omitted, by replacing the uranium tamper with one made of lead, for example, the overall explosive force is reduced by approximately half but the amount of fallout is relatively low. the neutron bomb is a hydrogen bomb with an intentionally thin tamper, allowing most of the fast fusion neutrons as possible to escape.
+
+ foam plasma mechanism firing sequence.  warhead before firing; primary (fission bomb) at top, secondary (fusion fuel) at bottom, all suspended in polystyrene foam.high-explosive fires in primary, compressing plutonium core into supercriticality and beginning a fission reaction.fission primary emits x-rays that are scattered along the inside of the casing, irradiating the polystyrene foam.polystyrene foam becomes plasma, compressing secondary, and plutonium sparkplug begins to fission.compressed and heated, lithium-6 deuteride fuel produces tritium and begins the fusion reaction. the neutron flux produced causes the u-238 tamper to fission. a fireball starts to form.
+current technical criticisms of the idea of "foam plasma pressure" focus on unclassified analysis from similar high energy physics fields that indicate that the pressure produced by such a plasma would only be a small multiplier of the basic photon pressure within the radiation case, and also that the known foam materials intrinsically have a very low absorption efficiency of the gamma ray and x-ray radiation from the primary. most of the energy produced would be absorbed by either the walls of the radiation case or the tamper around the secondary. analyzing the effects of that absorbed energy led to the third mechanism: ablation.
+
+tamper-pusher ablation[edit]
+the outer casing of the secondary assembly is called the "tamper-pusher". the purpose of a tamper in an implosion bomb is to delay the expansion of the reacting fuel supply (which is very hot dense plasma) until the fuel is fully consumed and the explosion runs to completion. the same tamper material serves also as a pusher in that it is the medium by which the outside pressure (force acting on the surface area of the secondary) is transferred to the mass of fusion fuel.
+the proposed tamper-pusher ablation mechanism posits that the outer layers of the thermonuclear secondary's tamper-pusher are heated so extremely by the primary's x-ray flux that they expand violently and ablate away (fly off). because total momentum is conserved, this mass of high velocity ejecta impels the rest of the tamper-pusher to recoil inwards with tremendous force, crushing the fusion fuel and the spark plug. the tamper-pusher is built robustly enough to insulate the fusion fuel from the extreme heat outside; otherwise the compression would be spoiled.
+
+ ablation mechanism firing sequence. warhead before firing. the nested spheres at the top are the fission primary; the cylinders below are the fusion secondary device.fission primary's explosives have detonated and collapsed the primary's fissile pit.the primary's fission reaction has run to completion, and the primary is now at several million degrees and radiating gamma and hard x-rays, heating up the inside of the hohlraum and the shield and secondary's tamper.the primary's reaction is over and it has expanded. the surface of the pusher for the secondary is now so hot that it is also ablating or expanding away, pushing the rest of the secondary (tamper, fusion fuel, and fissile spark plug) inwards. the spark plug starts to fission. not depicted: the radiation case is also ablating and expanding outwards (omitted for clarity of diagram).the secondary's fuel has started the fusion reaction and shortly will burn up. a fireball starts to form.
+rough calculations for the basic ablation effect are relatively simple: the energy from the primary is distributed evenly onto all of the surfaces within the outer radiation case, with the components coming to a thermal equilibrium, and the effects of that thermal energy are then analyzed. the energy is mostly deposited within about one x-ray optical thickness of the tamper/pusher outer surface, and the temperature of that layer can then be calculated. the velocity at which the surface then expands outwards is calculated and, from a basic newtonian momentum balance, the velocity at which the rest of the tamper implodes inwards.
+applying the more detailed form of those calculations to the ivy mike device yields vaporized pusher gas expansion velocity of 290 kilometers per second and an implosion velocity of perhaps 400 kilometers per second if 3/4 of the total tamper/pusher mass is ablated off, the most energy efficient proportion. for the w-80 the gas expansion velocity is roughly 410 kilometers per second and the implosion velocity 570 kilometers per second. the pressure due to the ablating material is calculated to be 5.3 billion bar (530 t pa) in the ivy mike device and 64 billion bar (6.4 p pa) in the w-80 device.[18]
+
+comparing implosion mechanisms[edit]
+comparing the three mechanisms proposed, it can be seen that:
+
+
+
+mechanism
+pressure (tpa)
+
+
+ivy mike
+
+w80
+
+
+radiation pressure
+7.3
+140
+
+
+plasma pressure
+35  
+750
+
+
+ablation pressure
+530  
+6400
+
+the calculated ablation pressure is one order of magnitude greater than the higher proposed plasma pressures and nearly two orders of magnitude greater than calculated radiation pressure. no mechanism to avoid the absorption of energy into the radiation case wall and the secondary tamper has been suggested, making ablation apparently unavoidable. the other mechanisms appear to be unneeded.
+united states department of defense official declassification reports indicate that foamed plastic materials are or may be used in radiation case liners, and despite the low direct plasma pressure they may be of use in delaying the ablation until energy has distributed evenly and a sufficient fraction has reached the secondary's tamper/pusher.[19]
+richard rhodes' book dark sun stated that a 1-inch-thick (25 mm) layer of plastic foam was fixed to the lead liner of the inside of the ivy mike steel casing using copper nails. rhodes quotes several designers of that bomb explaining that the plastic foam layer inside the outer case is to delay ablation and thus recoil of the outer case: if the foam were not there, metal would ablate from the inside of the outer case with a large impulse, causing the casing to recoil outwards rapidly. the purpose of the casing is to contain the explosion for as long as possible, allowing as much x-ray ablation of the metallic surface of the secondary stage as possible, so it compresses the secondary efficiently, maximizing the fusion yield. plastic foam has a low density, so causes a smaller impulse when it ablates than metal does.[19]
+
+design variations[edit]
+a number of possible variations to the weapon design have been proposed:
+
+either the tamper or the casing have been proposed to be made of uranium-235 (highly enriched uranium) in the final fission jacket. the far more expensive u-235 is also fissionable with fast neutrons like the u-238 in depleted or natural uranium, but its fission-efficiency is higher. this is because u-235 nuclei also undergo fission by slow neutrons (u-238 nuclei require a minimum energy of about 1 mega-electron volt), and because these slower neutrons are produced by other fissioning u-235 nuclei in the jacket (in other words, u-235 supports the nuclear chain reaction whereas u-238 does not). furthermore, a u-235 jacket fosters neutron multiplication, whereas u-238 nuclei consume fusion neutrons in the fast-fission process. using a final fissionable/fissile jacket of u-235 would thus increase the yield of a teller–ulam bomb above a depleted uranium or natural uranium jacket. this has been proposed specifically for the w87 warheads retrofitted to currently deployed lgm-30 minuteman iii icbms.
+in some descriptions, additional internal structures exist to protect the secondary from receiving excessive neutrons from the primary.
+the inside of the casing may or may not be specially machined to "reflect" the x-rays. x-ray "reflection" is not like light reflecting off of a mirror, but rather the reflector material is heated by the x-rays, causing the material itself to emit x-rays, which then travel to the secondary.
+two special variations exist that will be discussed in a subsequent section: the cryogenically cooled liquid deuterium device used for the ivy mike test, and the putative design of the w88 nuclear warhead—a small, mirved version of the teller–ulam configuration with a prolate (egg or watermelon shaped) primary and an elliptical secondary.
+most bombs do not apparently have tertiary "stages"—that is, third compression stage(s), which are additional fusion stages compressed by a previous fusion stage. (the fissioning of the last blanket of uranium, which provides about half the yield in large bombs, does not count as a "stage" in this terminology.)
+the u.s. tested three-stage bombs in several explosions (see operation redwing) but is thought to have fielded only one such tertiary model, i.e., a bomb in which a fission stage, followed by a fusion stage, finally compresses yet another fusion stage. this u.s. design was the heavy but highly efficient (i.e., nuclear weapon yield per unit bomb weight) 25 mt b41 nuclear bomb.[20] the soviet union is thought to have used multiple stages (including more than one tertiary fusion stage) in their 50 megaton (100 mt in intended use) tsar bomba (however, as with other bombs, the fissionable jacket could be replaced with lead in such a bomb, and in this one, for demonstration, it was). if any hydrogen bombs have been made from configurations other than those based on the teller–ulam design, the fact of it is not publicly known. (a possible exception to this is the soviet early sloika design).
+in essence, the teller–ulam configuration relies on at least two instances of implosion occurring: first, the conventional (chemical) explosives in the primary would compress the fissile core, resulting in a fission explosion many times more powerful than that which chemical explosives could achieve alone (first stage). second, the radiation from the fissioning of the primary would be used to compress and ignite the secondary fusion stage, resulting in a fusion explosion many times more powerful than the fission explosion alone. this chain of compression could conceivably be continued with an arbitrary number of tertiary fusion stages, each igniting more fusion fuel in the next stage[21][22][better source needed] although this is debated (see more: arbitrarily large yield debate). finally, efficient bombs (but not so-called neutron bombs) end with the fissioning of the final natural uranium tamper, something that could not normally be achieved without the neutron flux provided by the fusion reactions in secondary or tertiary stages. such designs are suggested to be capable of being scaled up to an arbitrary large yield (with apparently as many fusion stages as desired),[21][22][better source needed] potentially to the level of a "doomsday device." however, usually such weapons were not more than a dozen megatons, which was generally considered enough to destroy even most hardened practical targets (for example, a control facility such as the cheyenne mountain complex). even such large bombs have been replaced by smaller-yield bunker buster type nuclear bombs (see more: nuclear bunker buster).
+as discussed above, for destruction of cities and non-hardened targets, breaking the mass of a single missile payload down into smaller mirv bombs, in order to spread the energy of the explosions into a "pancake" area, is far more efficient in terms of area-destruction per unit of bomb energy. this also applies to single bombs deliverable by cruise missile or other system, such as a bomber, resulting in most operational warheads in the u.s. program having yields of less than 500 kilotons.
+
+history[edit]
+main article: history of the teller–ulam design
+united states[edit]
+main articles: ivy mike and operation castle
+the idea of a thermonuclear fusion bomb ignited by a smaller fission bomb was first proposed by enrico fermi to his colleague edward teller in 1941 at the start of what would become the manhattan project.[5] teller spent most of the manhattan project attempting to figure out how to make the design work, to some degree neglecting his assigned work on the fission bomb program.[citation needed] his difficult and devil's advocate attitude in discussions led robert oppenheimer to sidetrack him and other "problem" physicists into the super program to smooth his way.[citation needed]
+
+ operation castle thermonuclear test, castle romeo shot
+stanislaw ulam, a co-worker of teller, made the first key conceptual leaps towards a workable fusion design. ulam's two innovations that rendered the fusion bomb practical were that compression of the thermonuclear fuel before extreme heating was a practical path towards the conditions needed for fusion, and the idea of staging or placing a separate thermonuclear component outside a fission primary component, and somehow using the primary to compress the secondary. teller then realized that the gamma and x-ray radiation produced in the primary could transfer enough energy into the secondary to create a successful implosion and fusion burn, if the whole assembly was wrapped in a hohlraum or radiation case.[5] teller and his various proponents and detractors later disputed the degree to which ulam had contributed to the theories underlying this mechanism. indeed, shortly before his death, and in a last-ditch effort to discredit ulam's contributions, teller claimed that one of his own "graduate students" had proposed the mechanism.[citation needed]
+the "george" shot of operation greenhouse of 9 may 1951 tested the basic concept for the first time on a very small scale. as the first successful (uncontrolled) release of nuclear fusion energy, which made up a small fraction of the 225 kt total yield,[23] it raised expectations to a near certainty that the concept would work.
+on november 1, 1952, the teller–ulam configuration was tested at full scale in the "ivy mike" shot at an island in the enewetak atoll, with a yield of 10.4 megatons (over 450 times more powerful than the bomb dropped on nagasaki during world war ii). the device, dubbed the sausage, used an extra-large fission bomb as a "trigger" and liquid deuterium—kept in its liquid state by 20 short tons (18 metric tons) of cryogenic equipment—as its fusion fuel,[citation needed] and weighed around 80 short tons (70 metric tons) altogether.
+the liquid deuterium fuel of ivy mike was impractical for a deployable weapon, and the next advance was to use a solid lithium deuteride fusion fuel instead. in 1954 this was tested in the "castle bravo" shot (the device was code-named shrimp), which had a yield of 15 megatons (2.5 times expected) and is the largest u.s. bomb ever tested.
+efforts in the united states soon shifted towards developing miniaturized teller–ulam weapons that could fit into intercontinental ballistic missiles and submarine-launched ballistic missiles. by 1960, with the w47 warhead[24] deployed on polaris ballistic missile submarines, megaton-class warheads were as small as 18 inches (0.5 m) in diameter and 720 pounds (320 kg) in weight. it was later found in live testing that the polaris warhead did not work reliably and had to be redesigned.[citation needed] further innovation in miniaturizing warheads was accomplished by the mid-1970s, when versions of the teller–ulam design were created that could fit ten or more warheads on the end of a small mirved missile (see the section on the w88 below).[9]
+
+soviet union[edit]
+main articles: joe 4 and rds-37the soviet thermonuclear weapons program was aided heavily by klaus fuchs. fuchs’ most valuable contribution to the soviet weapons program concerned the hydrogen bomb. the idea of a hydrogen bomb arose from discussions between enrico fermi and edward teller in 1941. from 1943 teller lectured at los alamos on what he called the "super".[25] following their meeting, fermi was convinced by teller to present a series of lectures detailing the current state of research into thermonuclear weapons.[26] in september 1945 fuchs passed a synopsis of these lectures to the soviets. this information was important to the soviets, but not solely for the information about the us bomb project. the importance of this material was in that it confirmed that the united states were working on their own thermonuclear weapon research.[27] although the information provided by fuchs regarding the thermonuclear weapons research was not seen as entirely beneficial, it still provided the soviet union with knowledge such as the properties of tritium. tritium is an isotope of hydrogen with two neutrons, which allows for more efficient fusion reactions to occur during the detonation of a nuclear weapon. discovering the properties of this radioactive material would allow the soviet union to develop a more powerful weapon that requires less fuel. following fuchs's return, experts from the soviet union spent a great deal of time researching his findings for themselves. even though the soviets did obtain some original ideas, the findings of this research served to confirm fuchs's notes from the american lectures on the matter. after his return to england in mid-1946, fuchs was not again in touch with soviet intelligence until september 1947, when his controller confirmed the soviet interest in thermonuclear weapons. in response fuchs provided details of the "ongoing theoretical superbomb studies in the u.s. under the direction of teller and enrico fermi at the university of chicago."[28] fuchs obtained information regardless of the american  mcmahon act, which prevented anglo-american cooperation on nuclear weapons research. under this act, fuchs did not have routine access to american collaborators like fermi and teller. fuchs was very close to teller at los alamos, and while there fuchs had worked on thermonuclear weapons. as teller later recalled, "he [fuchs] talked with me and others frequently in depth about our intensive efforts… it was easy and pleasant to discuss my work with him. he also made impressive contributions, and i learned many technical facts from him."[29] fuchs obtained the information, it energized the soviets to direct new intelligence activities against research in chicago. in february 1948 the soviet union formally began its hydrogen bomb program. a month later fuchs again met with feklisov, an event which "played an exceptional role in the subsequent course of the soviet thermonuclear bomb program."[27] a report of june 1953 warned that, although no indication of soviet development of hydrogen bombs had been found, "soviet research, development and even field testing of thermonuclear reactions based on the disclosures of fuchs may take place by mid-1953."[30] u.s. intelligence thus recognized for the first time that fuchs' material held invaluable information for the soviet thermonuclear weapons program.
+see also: soviet atomic bomb project
+the first soviet fusion design, developed by andrei sakharov and vitaly ginzburg in 1949 (before the soviets had a working fission bomb), was dubbed the sloika, after a russian layer cake, and was not of the teller–ulam configuration. it used alternating layers of fissile material and lithium deuteride fusion fuel spiked with tritium (this was later dubbed sakharov's "first idea"). though nuclear fusion might have been technically achievable, it did not have the scaling property of a "staged" weapon. thus, such a design could not produce thermonuclear weapons whose explosive yields could be made arbitrarily large (unlike u.s. designs at that time). the fusion layer wrapped around the fission core could only moderately multiply the fission energy (modern teller–ulam designs can multiply it 30-fold). additionally, the whole fusion stage had to be imploded by conventional explosives, along with the fission core, substantially multiplying the amount of chemical explosives needed.
+the first sloika design test, rds-6s, was detonated in 1953 with a yield equivalent to 400 kilotons of tnt (15–20% from fusion). attempts to use a sloika design to achieve megaton-range results proved unfeasible. after the united states tested the "ivy mike" bomb in november 1952, proving that a multimegaton bomb could be created, the soviets searched for an additional design. the "second idea", as sakharov referred to it in his memoirs, was a previous proposal by ginzburg in november 1948 to use lithium deuteride in the bomb, which would, in the course of being bombarded by neutrons, produce tritium and free deuterium.[31] in late 1953 physicist viktor davidenko achieved the first breakthrough, that of keeping the primary and secondary parts of the bombs in separate pieces ("staging"). the next breakthrough was discovered and developed by sakharov and yakov zel'dovich, that of using the x-rays from the fission bomb to compress the secondary before fusion ("radiation implosion"), in early 1954. sakharov's "third idea", as the teller–ulam design was known in the ussr, was tested in the shot "rds-37" in november 1955 with a yield of 1.6 megatons.
+the soviets demonstrated the power of the "staging" concept in october 1961, when they detonated the massive and unwieldy tsar bomba, a 50 megaton hydrogen bomb that derived almost 97% of its energy from fusion. it was the largest nuclear weapon developed and tested by any country.
+
+united kingdom[edit]
+ operation grapple on christmas island was the first british hydrogen bomb test.
+in 1954 work began at aldermaston to develop the british fusion bomb, with sir william penney in charge of the project. british knowledge on how to make a thermonuclear fusion bomb was rudimentary, and at the time the united states was not exchanging any nuclear knowledge because of the atomic energy act of 1946. however, the british were allowed to observe the american castle tests and used sampling aircraft in the mushroom clouds, providing them with clear, direct evidence of the compression produced in the secondary stages by radiation implosion.[32]
+because of these difficulties, in 1955 british prime minister anthony eden agreed to a secret plan, whereby if the aldermaston scientists failed or were greatly delayed in developing the fusion bomb, it would be replaced by an extremely large fission bomb.[32]
+in 1957 the operation grapple tests were carried out. the first test, green granite was a prototype fusion bomb, but failed to produce equivalent yields compared to the americans and soviets, achieving only approximately 300 kilotons. the second test orange herald was the modified fission bomb and produced 720 kilotons—making it the largest fission explosion ever. at the time almost everyone (including the pilots of the plane that dropped it) thought that this was a fusion bomb. this bomb was put into service in 1958. a second prototype fusion bomb purple granite was used in the third test, but only produced approximately 150 kilotons.[32]
+a second set of tests was scheduled, with testing recommencing in september 1957. the first test was based on a "… new simpler design. a two stage thermonuclear bomb that had a much more powerful trigger". this test grapple x round c was exploded on november 8 and yielded approximately 1.8 megatons. on april 28, 1958 a bomb was dropped that yielded 3 megatons—britain's most powerful test. two final air burst tests on september 2 and september 11, 1958, dropped smaller bombs that yielded around 1 megaton each.[32]
+american observers had been invited to these kinds of tests. after britain's successful detonation of a megaton-range device (and thus demonstrating a practical understanding of the teller–ulam design "secret"), the united states agreed to exchange some of its nuclear designs with the united kingdom, leading to the 1958 us–uk mutual defence agreement. instead of continuing with its own design, the british were given access to the design of the smaller american mk 28 warhead and were able to manufacture copies.[32]
+the united kingdom had worked closely with the americans on the manhattan project. british access to nuclear weapons information was cut-off by the united states at one point due to concerns about soviet espionage. full cooperation was not reestablished until an agreement governing the handling of secret information and other issues was signed.[32][unreliable source?]
+
+china[edit]
+main article: test no. 6
+this section needs expansion. you can help by adding to it. (september 2009)
+mao zedong decided to begin a chinese nuclear-weapons program during the first taiwan strait crisis of 1954–1955. the people's republic of china detonated its first hydrogen (thermonuclear) bomb on june 17, 1967, 32 months after detonating its first fission weapon, with a yield of 3.31 mt. it took place in the lop nor test site, in northwest china.[33] china had received extensive technical help from the soviet union to jump-start their nuclear program, but by 1960, the rift between the soviet union and china had become so great that the soviet union ceased all assistance to china.[34]
+a story in the new york times by william broad[35] reported that in 1995, a supposed chinese double agent delivered information indicating that china knew secret details of the u.s. w88 warhead, supposedly through espionage.[36] (this line of investigation eventually resulted in the abortive trial of wen ho lee.)
+
+france[edit]
+france's journey in building nuclear weapons began prior to world war ii in 1939. the development of nuclear weapons was slowed during the country's german invasion. the united states did not want france to acquire expert knowledge about nuclear weaponry, which ultimately led to the alsos mission. the missions followed closely behind the advancing forward-front to obtain information about how close germany was to building an atomic weapon. following the surrender of the nazis, germany was divided into "zones of occupation". the "zone" given to the french was suspected to contain several nuclear research facilities. the united states conducted operation harborage to seize any and all information about nuclear weaponry from the french. the operation strategized to have american troops intercede advancing french army, allowing the americans to seize any german scientists or records as well as destroy the remaining functional facilities.[37][38]
+in 1945, the french atomic energy commission (commissariat à l’énergie atomique, cea) was founded under charles de gaulle; the cea served as the country's atomic energy authority, overseeing commercial, military, and scientific uses of atomic power. however it was not until 1952 that a tangible goal of building plutonium reactors progressed. two years later, a reactor was being built and a plutonium separating plant began construction shortly after. in 1954 the question about continuing to explore building an atomic bomb was raised.[39] the french cabinet seemed to be favoring less the building of an atomic bomb. ultimately, the prime minister decided to continue efforts developing an atomic bomb in secret. in late 1956, tasks were delegated between the cea and defense ministry to propel atomic development such as finding a test site, providing the necessary uranium, and physical device assembly.
+charles de gaulle returned to power and was elected france's fifth republic's first president in 1958. de gaulle, a strong believer in the nuclear weapons program, approved the country's first nuclear test to take place in one of the early months of 1960. the country's first nuclear explosion took place on 13 february at reggane oasis in the sahara desert in french algeria of the time. it was called "gerboise bleue", translating to "blue jerboa".[39][40] the first explosion was detonated at a tower height of 105 meters. the bomb used a plutonium implosion design with a yield of 70 kilotons.[39] the reggane oasis test site was used for three more atmospheric tests before testing activity moved to a second site, ecker, to carry out a total of 13 underground tests into 1967.[40]
+the french nuclear testing site was moved to the unpopulated french atolls in the pacific ocean. the first test conducted at these new sites was the "canopus" test in the fangataufa atoll in french polynesia on 24 august 1968, the country's first multistage thermonuclear weapon test. the bomb was detonated from a balloon at a height of 520 meters. the result of this test was significant atmospheric contamination.[41] very little is known about france's development of the teller–ulam design, beyond the fact that france detonated a 2.6 mt device in the 'canopus" test. france reportedly had great difficulty with its initial development of the teller-ulam design, but it later overcame these, and is believed to have nuclear weapons equal in sophistication to the other major nuclear powers.[32]
+france and china did not sign or ratify the partial nuclear test ban treaty of 1963, which banned nuclear test explosions in the atmosphere, underwater, or in outer space. between 1966 and 1996 france carried out more than 190 nuclear tests.[41] france's final nuclear test took place on january 27, 1996, and then the country dismantled its polynesian test sites. france signed the comprehensive nuclear-test-ban treaty that same year, and then ratified the treaty within two years.
+
+ one of france's triomphant-class nuclear-armed submarines, the téméraire (s617)
+france confirmed that its nuclear arsenal contains about 300 warheads, carried by submarine-launched ballistic missiles (slbms) and fighter-bombers in 2015. france has four triomphant-class ballistic missile submarines. one ballistic missile submarine is deployed in the deep ocean, but a total of three must be in operational use at all times. the three older submarines are armed with 16 m45 missiles. the newest submarine, "le terrible", was commissioned in 2010, and it has m51 missiles capable of carrying tn 75 thermonuclear warheads. the air fleet is four squadrons at four different bases. in total, there are 23 mirage 2000n aircraft and 20 rafales capable of carrying nuclear warheads.[42] the m51.1 missiles are intended to be replaced with the new m51.2 warhead beginning in 2016, which has a 3,000 km greater range than the m51.1.[42]
+president françois hollande announced 180 billion euros would be used from the annual defense budget to improve the country's nuclear deterrence.[42] france contains 13 international monitoring system facilities that monitor for nuclear explosive activity on earth through the use of seismic, infrasound, and hydroacoustic monitors.[43]
+france also has about 60 air-launched missiles tipped with tn 80/tn 81 warheads with a yield of about 300 kilotons each. france's nuclear program has been carefully designed to ensure that these weapons remain usable decades into the future.[32][unreliable source?] currently, france is no longer deliberately producing critical mass materials such as plutonium and enriched uranium, but it still relies on nuclear energy for electricity, with pu-239 as a byproduct.[43]
+
+india[edit]
+ shakti-1
+see also: india and weapons of mass destruction
+on may 11, 1998, india reportedly detonated a thermonuclear bomb in its operation shakti tests ("shakti-i", specifically).[44] dr. samar mubarakmand, a pakistani nuclear physicist, asserted that shakti-1 was a successful thermonuclear test.[44] the yield of india's hydrogen bomb remains highly debatable among the indian science community and the international scholars.[45] the question of politicisation and disputes between indian scientists further complicated the matter.[46]
+in an interview in august 2009, the director for the 1998 test site preparations, dr. k. santhanam claimed that the yield of the thermonuclear explosion was lower than expected and that india should therefore not rush into signing the ctbt. other indian scientists involved in the test have disputed dr. k. santhanam's claim.[47] international sources, using local data and citing a united states geological survey report compiling seismic data from 125 iris stations across the world, argue that the magnitudes suggested a combined yield of up to 60 kilotonnes, consistent with the indian announced total yield of 56 kilotonnes.[citation needed]
+
+israel[edit]
+main articles: nuclear weapons and israel and vela incident
+israel is alleged to possess thermonuclear weapons of the teller–ulam design,[48] but it is not known to have tested any nuclear devices, although it is widely speculated that the vela incident of 1979 may have been a joint israeli–south african nuclear test.[49][50][51]
+it is well established that edward teller advised and guided the israeli establishment on general nuclear matters for some twenty years.[52] between 1964 and 1967, teller made six visits to israel where he lectured at the tel aviv university on general topics in theoretical physics.[53] it took him a year to convince the cia about israel's capability and finally in 1976, carl duckett of the cia testified to the u.s. congress, after receiving credible information from an "american scientist" (teller), on israel's nuclear capability.[51] during the 1990s, teller eventually confirmed speculations in the media that it was during his visits in the 1960s that he concluded that israel was in possession of nuclear weapons.[51] after he conveyed the matter to the higher level of the u.s. government, teller reportedly said: "they [israel] have it, and they were clever enough to trust their research and not to test, they know that to test would get them into trouble."[51]
+
+pakistan[edit]
+main article: pakistan and weapons of mass destruction
+according to the scientific data received and published by paec, the corps of engineers, and kahuta research laboratories (krl), in may 1998, pakistan carried out six underground nuclear tests in chagai hills and kharan desert in balochistan province (see the code-names of the tests, chagai-i and chagai-ii).[44] none of these boosted fission devices was the thermonuclear weapon design, according to krl and paec.[44]
+
+north korea[edit]
+main article: north korea and weapons of mass destruction
+north korea claimed to have tested its miniaturised thermonuclear bomb on 6 january 2016. north korea's first three nuclear tests (2006, 2009 and 2013) were relatively low yield and do not appear to have been of a thermonuclear weapon design. in 2013, the south korean defense ministry speculated that north korea may be trying to develop a "hydrogen bomb" and such a device may be north korea's next weapons test.[54][55] in january 2016, north korea claimed to have successfully tested a hydrogen bomb,[56] although only a magnitude 5.1 seismic event was detected at the time of the test,[57] a similar magnitude to the 2013 test of a 6–9 kt atomic bomb. these seismic recordings cast doubt upon north korea's claim that a hydrogen bomb was tested and suggest it was a non-fusion nuclear test.[58]
+on 3 september 2017, the country's state media reported that a hydrogen bomb test was conducted which resulted in "perfect success". according to the u.s. geological survey (usgs), the blast resulted in an earthquake with a magnitude of 6.3, 10 times more powerful than previous nuclear tests conducted by north korea.[59] u.s. intelligence released an early assessment that the yield estimate was 140 kilotons,[60] with an uncertainty range of 70 to 280 kilotons.[61]
+on 12 september, norsar revised its estimate of the earthquake magnitude upward to 6.1, matching that of the ctbto, but less powerful than the usgs estimate of 6.3. its yield estimate was revised to 250 kilotons, while noting the estimate had some uncertainty and an undisclosed margin of error.[62][63]
+on 13 september, an analysis of before and after synthetic-aperture radar satellite imagery of the test site was published suggesting the test occurred under 900 metres (3,000 ft) of rock and the yield "could have been in excess of 300 kilotons".[64]
+
+public knowledge[edit]
+the teller–ulam design was for many years considered one of the top nuclear secrets, and even today it is not discussed in any detail by official publications with origins "behind the fence" of classification. united states department of energy (doe) policy has been, and continues to be, that they do not acknowledge when "leaks" occur, because doing so would acknowledge the accuracy of the supposed leaked information. aside from images of the warhead casing, most information in the public domain about this design is relegated to a few terse statements by the doe and the work of a few individual investigators.
+
+ photographs of warhead casings, such as this one of the w80 nuclear warhead, allow for some speculation as to the relative size and shapes of the primaries and secondaries in u.s. thermonuclear weapons.
+doe statements[edit]
+in 1972 the united states government declassified a document stating "[i]n thermonuclear (tn) weapons, a fission 'primary' is used to trigger a tn reaction in thermonuclear fuel referred to as a 'secondary'", and in 1979 added, "[i]n thermonuclear weapons, radiation from a fission explosive can be contained and used to transfer energy to compress and ignite a physically separate component containing thermonuclear fuel." to this latter sentence the us government specified that "any elaboration of this statement will be classified."[65] the only information that may pertain to the spark plug was declassified in 1991: "fact that fissile or fissionable materials are present in some secondaries, material unidentified, location unspecified, use unspecified, and weapons undesignated." in 1998 the doe declassified the statement that "the fact that materials may be present in channels and the term 'channel filler,' with no elaboration", which may refer to the polystyrene foam (or an analogous substance).[66]
+whether these statements vindicate some or all of the models presented above is up for interpretation, and official u.s. government releases about the technical details of nuclear weapons have been purposely equivocating in the past (see, e.g., smyth report). other information, such as the types of fuel used in some of the early weapons, has been declassified, though precise technical information has not been.
+
+the progressive case[edit]
+main article: united states v. the progressive
+most of the current ideas on the workings of the teller–ulam design came into public awareness after the department of energy (doe) attempted to censor a magazine article by u.s. antiweapons activist howard morland in 1979 on the "secret of the hydrogen bomb". in 1978, morland had decided that discovering and exposing this "last remaining secret" would focus attention onto the arms race and allow citizens to feel empowered to question official statements on the importance of nuclear weapons and nuclear secrecy.[citation needed] most of morland's ideas about how the weapon worked were compiled from highly accessible sources—the drawings that most inspired his approach came from none other than the encyclopedia americana.[citation needed] morland also interviewed (often informally) many former los alamos scientists (including teller and ulam, though neither gave him any useful information), and used a variety of interpersonal strategies to encourage informative responses from them (i.e., asking questions such as "do they still use spark plugs?" even if he was not aware what the latter term specifically referred to).[67]
+morland eventually concluded that the "secret" was that the primary and secondary were kept separate and that radiation pressure from the primary compressed the secondary before igniting it. when an early draft of the article, to be published in the progressive magazine, was sent to the doe after falling into the hands of a professor who was opposed to morland's goal, the doe requested that the article not be published, and pressed for a temporary injunction. the doe argued that morland's information was (1) likely derived from classified sources, (2) if not derived from classified sources, itself counted as "secret" information under the "born secret" clause of the 1954 atomic energy act, and (3) was dangerous and would encourage nuclear proliferation.
+morland and his lawyers disagreed on all points, but the injunction was granted, as the judge in the case felt that it was safer to grant the injunction and allow morland, et al., to appeal, which they did in united states v. the progressive (1979).
+through a variety of more complicated circumstances, the doe case began to wane as it became clear that some of the data they were attempting to claim as "secret" had been published in a students' encyclopedia a few years earlier. after another h-bomb speculator, chuck hansen, had his own ideas about the "secret" (quite different from morland's) published in a wisconsin newspaper, the doe claimed that the progressive case was moot, dropped its suit, and allowed the magazine to publish its article, which it did in november 1979. morland had by then, however, changed his opinion of how the bomb worked, suggesting that a foam medium (the polystyrene) rather than radiation pressure was used to compress the secondary, and that in the secondary there was a spark plug of fissile material as well. he published these changes, based in part on the proceedings of the appeals trial, as a short erratum in the progressive a month later.[68] in 1981, morland published a book about his experience, describing in detail the train of thought that led him to his conclusions about the "secret".[67][69]
+morland's work is interpreted as being at least partially correct because the doe had sought to censor it, one of the few times they violated their usual approach of not acknowledging "secret" material that had been released; however, to what degree it lacks information, or has incorrect information, is not known with any confidence. the difficulty that a number of nations had in developing the teller–ulam design (even when they apparently understood the design, such as with the united kingdom), makes it somewhat unlikely that this simple information alone is what provides the ability to manufacture thermonuclear weapons. nevertheless, the ideas put forward by morland in 1979 have been the basis for all the current speculation on the teller–ulam design.
+
+nuclear reduction[edit]
+two years before his death in 1989, andrei sakharov's comments at a scientists’ forum helped begin the process for the elimination of thousands of nuclear ballistic missiles from the us and soviet arsenals. sakharov (1921–89) was recruited into the soviet union's nuclear weapons program in 1948, a year after he completed his doctorate. in 1949 the us detected the first soviet test of a fission bomb, and the two countries embarked on a desperate race to design a thermonuclear hydrogen bomb that was a thousand times more powerful. like his us counterparts, sakharov justified his h-bomb work by pointing to the danger of the other country's achieving a monopoly. but also like some of the us scientists who had worked on the manhattan project, he felt a responsibility to inform his nation's leadership and then the world about the dangers from nuclear weapons.[70] sakharov's first attempt to influence policy was brought about by his concern about possible genetic damage from long-lived radioactive carbon-14 created in the atmosphere from nitrogen-14 by the enormous fluxes of neutrons released in h-bomb tests.[71] in 1968 a friend suggested that sakharov write an essay about the role of the intelligentsia in world affairs. self-publishing was the method at the time for spreading unapproved manuscripts in the soviet union. many readers would create multiple copies by typing with multiple sheets of paper interleaved with carbon paper. one copy of sakharov's essay, "reflections on progress, peaceful coexistence, and intellectual freedom," was smuggled out of the soviet union and published by the new york times. more than 18 million reprints were produced during 1968–69. after the essay was published, sakharov was barred from returning to work in the nuclear weapons program and took a research position in moscow.[70] in 1980, after an interview with the new york times in which he denounced the soviet invasion of afghanistan the government put him beyond the reach of western media by exiling him and his wife to gorky. in march 1985 gorbachev became general secretary of the soviet communist party. more than a year and a half later, he persuaded the politburo, the party's executive committee, to allow sakharov and bonner to return to moscow. sakharov was elected as an opposition member to the soviet congress of people's deputies in 1989. later that year he had a cardiac arrhythmia and died in his apartment. he left behind a draft of a new soviet constitution that emphasized democracy and human rights.[72]
+
+variations[edit]
+ivy mike[edit]
+in his 1995 book dark sun: the making of the hydrogen bomb, author richard rhodes describes in detail the internal components of the "ivy mike" sausage device, based on information obtained from extensive interviews with the scientists and engineers who assembled it. according to rhodes, the actual mechanism for the compression of the secondary was a combination of the radiation pressure, foam plasma pressure, and tamper-pusher ablation theories described above; the radiation from the primary heated the polyethylene foam lining the casing to a plasma, which then re-radiated radiation into the secondary's pusher, causing its surface to ablate and driving it inwards, compressing the secondary, igniting the sparkplug, and causing the fusion reaction.  the general applicability of this principle is unclear.[13]
+
+w88[edit]
+in 1999 a reporter for the san jose mercury news reported that the u.s. w88 nuclear warhead, a small mirved warhead used on the trident ii slbm, had a prolate (egg or watermelon shaped) primary (code-named komodo) and a spherical secondary (code-named cursa) inside a specially shaped radiation case (known as the "peanut" for its shape).[73]
+the reentry cones for the w88 and w87 are the same size, 1.75 meters (69 in) long, with a maximum diameter of 55 cm. (22 in).[74] the higher yield of the w88 implies a larger secondary, which produces most of the yield. putting the secondary, which is heavier than the primary, in the wider part of the cone allows it to be larger, but it also moves the center of mass aft, potentially causing aerodynamic stability problems during reentry.[citation needed] dead-weight ballast must be added to the nose to move the center of mass forward.[citation needed]
+to make the primary small enough to fit into the narrow part of the cone, its bulky insensitive high explosive charges must be replaced with more compact "non-insensitive" high explosives that are more hazardous to handle.[citation needed] the higher yield of the w88, which is the last new warhead produced by the united states, thus comes at a price of higher warhead weight and higher workplace hazard. the w88 also contains tritium, which has a half life of only 12.32 years and must be repeatedly replaced.[75] if these stories are true, it would explain the reported higher yield of the w88, 475 kilotons, compared with only 300 kilotons for the earlier w87 warhead.
+
+see also[edit]
+pure fusion weapon
+nukemap
+colex process (isotopic separation)
+references[edit]
+
+
+^  the misleading term "hydrogen bomb" was already in wide public use before fission product fallout from the castle bravo test in 1954 revealed the extent to which the design relies on fission as well.
+
+^ https://arxiv.org/pdf/physics/0510071.pdf
+
+^ andre gsponer. "the b61-based "robust nuclear earth penetrator:" clever retrofit or headway towards fourth-generation nuclear weapons?". citeseerx 10.1.1.261.7309..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ from national public radio talk of the nation, november 8, 2005, siegfried hecker of los alamos, "the hydrogen bomb – that is, a two-stage thermonuclear device, as we referred to it – is indeed the principal part of the u.s. arsenal, as it is of the russian arsenal."
+
+^ a b c teller, edward; ulam, stanislaw (march 9, 1951). "on heterocatalytic detonations i. hydrodynamic lenses and radiation mirrors" (pdf). lams-1225. los alamos scientific laboratory. retrieved september 26, 2014. on the nuclear non-proliferation institute website. this is the original classified paper by teller and ulam proposing staged implosion. this declassified version is heavily redacted, leaving only a few paragraphs.
+
+^ carey sublette (july 3, 2007). "nuclear weapons faq section 4.4.1.4 the teller–ulam design". nuclear weapons faq. retrieved 17 july 2011. "so far as is known all high yield nuclear weapons today (>50 kt or so) use this design."
+
+^ broad, william j. (23 march 2015). "hydrogen bomb physicist's book runs afoul of energy department". new york times. retrieved 20 november 2015.
+
+^ greene, jes (25 march 2015). "a physicist might be in trouble for what he revealed in his new book about the h bomb". business insider. retrieved 20 november 2015.
+
+^ a b "complete list of all u.s. nuclear weapons". 1 october 1997. retrieved 2006-03-13.
+
+^ hansen, chuck (1988). u.s. nuclear weapons: the secret history. arlington, tx: aerofax. isbn 0-517-56740-7.
+
+^ hansen, chuck (2007). swords of armageddon: u.s. nuclear weapons development since 1945 (pdf) (cd-rom & download available) (2 ed.). sunnyvale, california: chukelea publications. isbn 978-0-9791915-0-3. 2,600 pages.
+
+^ "figure 5 – thermonuclear warhead components". archived from the original on july 12, 2010. retrieved 27 august 2010. a cleaned up version: "british h-bomb posted on the internet by greenpeace". federation of american scientists. retrieved 27 august 2010.
+
+^ a b rhodes, richard (1995). dark sun: the making of the hydrogen bomb. new york: simon & schuster. isbn 0-684-80400-x.
+
+^ http://nuclearweaponarchive.org/usa/weapons/w76neutrontube1200c20.jpg
+
+^ "improved security, safety & manufacturability of the reliable replacement warhead" archived 2008-12-17 at the wayback machine, nnsa march 2007.
+
+^ a 1976 drawing that depicts an interstage that absorbs and re-radiates x-rays. from howard morland, "the article", cardozo law review, march 2005, p 1374.
+
+^ speculation on fogbank, arms control wonk
+
+^ a b "nuclear weapons frequently asked questions 4.4.3.3 the ablation process". 2.04. 20 february 1999. retrieved 2006-03-13.
+
+^ a b "nuclear weapons frequently asked questions 4.4.4 implosion systems". 2.04. 20 february 1999. retrieved 2006-03-13.
+
+^ "the b-41 (mk-41) bomb – high yield strategic thermonuclear bomb". 21 october 1997. retrieved 2006-03-13.
+
+^ a b winterberg, friedwardt (2010). the release of thermonuclear energy by inertial confinement: ways towards ignition. world scientific. pp. 192–193. isbn 9814295914.
+
+^ a b croddy, eric a.; wirtz, james j.; larsen, jeffrey, eds. (2005). weapons of mass destruction: an encyclopedia of worldwide policy, technology, and history. abc-clio, inc. p. 376. isbn 1851094903.
+
+^ "the "george" shot, comprehensive test ban treaty organisation website".
+
+^ "photograph of a w47 warhead" (jpg). retrieved 2006-03-13.
+
+^ anne fitzpatrick, igniting the light elements: the los alamos thermonuclear weapon project, 1942–1952 (phd thesis la-13577-t, virginia polytechnic institute, 1999), 105.
+
+^ "summary of notes on lectures by e. fermi," g.p. thomson papers, trinity college, university of cambridge, j84.
+
+^ a b german a. goncharov, “the 50th anniversary of the beginning of research in the ussr on the potential creation of a nuclear fusion reactor,” physics-uspekhi, 44:8
+
+^ german a. goncharov, "thermonuclear milestones," physics today (nov 1996), 51
+
+^ cited in stanley a. blumberg and gwinn owens, energy and conflict: the life and times of edward teller (new york, 1976), 228.
+
+^ "nie-65: soviet bloc capabilities through 1957," june 1953, pro defe 41/155.
+
+^ holloway, david (1994). stalin and the bomb: the soviet union and atomic energy, 1939–1956. new haven, ct: yale university press. p. 299. isbn 0-300-06056-4.
+
+^ a b c d e f g h younger, stephen (2009). the bomb: a new history. new york: harper collins. isbn 978-0-06-173614-8.
+
+^ "17 june 1967 – china's first thermonuclear test: ctbto preparatory commission". www.ctbto.org. retrieved 2016-10-03.
+
+^ "china's nuclear weapon development, modernization and testing". nuclear threat initiative. september 26, 2003. archived from the original on october 8, 2011. retrieved november 4, 2011.
+
+^ "spies versus sweat, the debate over china's nuclear advance". the new york times. 7 september 1999. retrieved 2011-04-18.
+
+^ christopher cox, chairman (1999). report of the united states house of representatives select committee on u.s. national security and military/commercial concerns with the people's republic of china. archived from the original on 2005-08-04., esp. ch. 2, "prc theft of u.s. thermonuclear warhead design information".
+
+^ "alsos mission". atomic heritage foundation. retrieved 2017-04-15.
+
+^ "u.s. intelligence and the french nuclear weapons program". nsarchive.gwu.edu. retrieved 2017-04-15.
+
+^ a b c "nuclear weapon | history, facts, types, & effects". encyclopedia britannica. retrieved 2017-04-15.
+
+^ a b "13 february 1960 – the first french nuclear test : ctbto preparatory commission". www.ctbto.org. retrieved 2017-04-15.
+
+^ a b "24 august 1968 – french 'canopus' test: ctbto preparatory commission". www.ctbto.org. retrieved 2017-04-15.
+
+^ a b c "france | countries | nti". www.nti.org. retrieved 2017-04-15.
+
+^ a b "overview of the verification regime: ctbto preparatory commission". www.ctbto.org. retrieved 2017-04-15.
+
+^ a b c d khan, kamran (30 may 1998). "tit-for-tat: pakistan tested 6 nuclear devices in response to indian's tests". the news international. retrieved 10 august 2011. "none of these explosions were thermonuclear, we are doing research and can do a fusion test if asked, said by abdul qadeer khan. "these boosted devices are like a half way stage towards a thermonuclear bomb. they use elements of the thermonuclear process, and are effectively stronger atom bombs", quoted by munir ahmad khan.
+
+^ pti, press trust of india (september 25, 2009). "aec ex-chief backs santhanam on pokhran-ii". the hindu, 2009. retrieved 18 january 2013.
+
+^ carey sublette, et. al. "what are the real yield of india's test?". what are the real yields of india's test?. retrieved 18 january 2013.
+
+^ "former nsa disagrees with scientist, says pokhran ii successful". the times of india. 27 august 2009. archived from the original on 30 august 2009. retrieved 20 november 2015.
+
+^ samdani, zafar (25 march 2000). "india, pakistan can build hydrogen bomb: scientist". dawn news interviews. retrieved 23 december 2012.
+
+^ "doctrine", israel, fas.
+
+^ hersh, seymour (1991), the samson option: israel’s nuclear arsenal and american foreign policy, new york city: random house, p. 271.
+
+^ a b c d cohen, avner (october 15, 1999). "the battle over the npt: america learns the truth". israel and the bomb (google book). new york: columbia university press. pp. 297–300. isbn 978-0231104838.
+
+^ karpin, michael (2005). the bomb in the basement. new york: simon & schuster paperbacks. pp. 289–293. isbn 0-7432-6595-5.
+
+^ gábor palló (2000). "the hungarian phenomenon in israeli science". hungarian academy of science. 25 (1). retrieved 11 december 2012.
+
+^ kim kyu-won (february 7, 2013). "north korea could be developing a hydrogen bomb". the hankyoreh. retrieved february 8, 2013.
+
+^ kang seung-woo; chung min-uck (february 4, 2013). "north korea may detonate h-bomb". korea times. retrieved february 8, 2013.
+
+^ "north korea claims fully successful hydrogen bomb test". russia today. january 6, 2016. retrieved january 6, 2016.
+
+^ m5.1 – 21km ene of sungjibaegam, north korea (report). usgs. january 6, 2016. retrieved january 6, 2016.
+
+^ "north korea nuclear h-bomb claims met by scepticism".
+
+^ "north korea conducts sixth nuclear test, says developed h-bomb". reuters. 3 september 2017. retrieved 2017-09-03.
+
+^ panda, ankit (6 september 2017). "us intelligence: north korea's sixth test was a 140 kiloton 'advanced nuclear' device". the diplomat. retrieved 6 september 2017.
+
+^ michelle ye hee lee (13 september 2017). "north korea nuclear test may have been twice as strong as first thought". washington post. retrieved 28 september 2017.
+
+^ https://www.norsar.no/press/latest-press-release/archive/the-nuclear-explosion-in-north-korea-on-3-september-2017-a-revised-magnitude-assessment-article1548-984.html
+
+^ http://www.38north.org/2017/09/punggye091217/
+
+^ http://www.armscontrolwonk.com/archive/1203852/sar-image-of-punggye-ri/
+
+^ emphasis in original
+
+^ restricted data declassification decisions, 1946 to the present, volume 7. united states department of energy. january 2001.
+
+^ a b morland, howard (1981). the secret that exploded. new york: random house. isbn 0-394-51297-9.
+
+^ "the h-bomb secret: how we got it and why we're telling it". the progressive. 43 (11). november 1979.
+
+^ alexander de volpi; jerry marsh; ted postol & george stanford (1981). born secret: the h-bomb, the progressive case and national security. new york: pergamon press. isbn 0-08-025995-2.
+
+^ a b a. sakharov, memoirs, r. lourie, trans., knopf (1990), and moscow and beyond, 1986–1989, a. bouis, trans., knopf (1991); for elena bonner’s account of their time in gorky, see e. bonner, alone together, a. cook, trans., knopf (1986).
+
+^ a. sakharov, at. energy 4, 6 (1958), reprinted in sci. global secur. 1, 175 (1990)
+
+^ a. sakharov, at. energy 4, 6 (1958), reprinted in sci. global secur.1
+
+^ dan stober & ian hoffman (2001). a convenient spy: wen ho lee and the politics of nuclear espionage. new york: simon & schuster. isbn 0-7432-2378-0.
+
+^ "the w88 warhead – intermediate yield strategic slbm mirv warhead". 1 october 1997. retrieved 2006-03-13.
+
+^ morland, howard (february 2003). the holocaust bomb: a question of time.
+
+
+bibliography[edit]
+basic principles
+.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}
+"engineering and design of nuclear weapons" from carey sublette's nuclear weapons faq.
+hansen, chuck, u.s. nuclear weapons: the secret history (arlington, tx: aerofax, 1988). isbn 0-517-56740-7
+hansen, chuck (2007). swords of armageddon: u.s. nuclear weapons development since 1945 (pdf) (cd-rom & download available) (2 ed.). sunnyvale, california: chukelea publications. isbn 978-0-9791915-0-3. 2,600 pages.
+dalton e. g. barroso, the physics of nuclear explosives, in portuguese. (são paulo, brazil: editora livraria da física, 2009). isbn 978-85-7861-016-6
+
+history
+
+degroot, gerard, "the bomb: a history of hell on earth", london: pimlico, 2005. isbn 0-7126-7748-8
+peter galison and barton bernstein, "in any light: scientists and the decision to build the superbomb, 1942–1954" historical studies in the physical and biological sciences vol. 19, no. 2 (1989): 267–347.
+german a. goncharov, "american and soviet h-bomb development programmes: historical background" (trans. a.v. malyavkin), physics—uspekhi vol. 39, no. 10 (1996): 1033–1044. available online (pdf)
+david holloway, stalin and the bomb: the soviet union and atomic energy, 1939–1956 (new haven, ct: yale university press, 1994). isbn 0-300-06056-4
+richard rhodes, dark sun: the making of the hydrogen bomb (new york: simon and schuster, 1995). isbn 0-684-80400-x
+s.s. schweber, in the shadow of the bomb: bethe, oppenheimer, and the moral responsibility of the scientist (princeton, n.j.: princeton university press, 2000). isbn 0-691-04989-0
+gary stix, "infamy and honor at the atomic café: edward teller has no regrets about his contentious career", scientific american (october 1999): 42–43.
+
+analyzing fallout
+
+de geer, lars-erik (1991). "the radioactive signature of the hydrogen bomb" (pdf). science and global security. 2: 351–363. doi:10.1080/08929889108426372.
+yulii borisovich khariton and yuri smirnov, the khariton version bulletin of the atomic scientists vol. 49, no. 4 (may 1993): 20–31.
+
+external links[edit]
+
+
+
+wikimedia commons has media related to teller-ulam design.
+principles
+"hydrogen bomb / fusion weapons" at globalsecurity.org (see also links on right)
+"basic principles of staged radiation implosion (teller–ulam)" from carey sublette's nuclearweaponarchive.org.
+"matter, energy, and radiation hydrodynamics" from carey sublette's nuclear weapons faq.
+"engineering and design of nuclear weapons" from carey sublette's nuclear weapons faq.
+"elements of thermonuclear weapon design" from carey sublette's nuclear weapons faq.
+annotated bibliography for nuclear weapons design from the alsos digital library for nuclear issues
+history
+pbs: race for the superbomb: interviews and transcripts (with u.s. and ussr bomb designers as well as historians).
+howard morland on how he discovered the "h-bomb secret" (includes many slides).
+the progressive november 1979 issue – "the h-bomb secret: how we got it, why we're telling" (entire issue online).
+annotated bibliography on the hydrogen bomb from the alsos digital library
+university of southampton, mountbatten centre for international studies, nuclear history working paper no5.
+peter kuran's "trinity and beyond" – documentary film on the history of nuclear weapon testing.
+vtefusion power, processes and devicescore topics
+nuclear fusion
+timeline
+list of experiments
+nuclear power
+nuclear reactor
+atomic nucleus
+fusion energy gain factor
+lawson criterion
+magnetohydrodynamics
+neutron
+plasma
+processes and methodsby confinementgravitational 
+alpha process
+triple-alpha process
+cno cycle
+fusor
+helium flash
+nova
+remnants
+proton-proton chain
+carbon-burning
+lithium burning
+neon-burning
+oxygen-burning
+silicon-burning
+r-process
+s-process
+magnetic
+magnetic mirror
+dense plasma focus
+field-reversed configuration
+levitated dipole
+reversed field pinch
+spheromak
+stellarator
+tokamak
+spherical
+z-pinch
+inertial
+bubble (acoustic)
+laser-driven
+magnetized liner inertial fusion
+electrostatic
+fusor
+polywell
+other forms
+magnetized-target
+migma
+muon-catalyzed
+pyroelectric
+bumpy torus
+fusion devices and experimentsmagnetic confinementtokamakinternational
+iter
+demo
+proto
+americas
+ stor-m
+ medusa-cr
+ alcator c-mod
+diii-d
+ucla et
+ltx
+nstx
+pegasus
+pbx-m
+text
+tftr
+ ete
+ novillo
+asia and australia
+ lt-1
+tortus
+ ct-6
+cfetr
+east
+hl-1(m)
+hl-2a
+ht-6(b, m)
+ht-7(u)
+kt-5
+sunist
+ aditya
+sst-1
+ ir-t1
+ jt-60
+quest [ja]
+ ktm
+ glast
+ k-demo
+kstar
+europe
+ jet
+  compass
+ golem
+ tj-i
+ tfr
+west
+ asdex upgrade
+textor
+ ftu
+ignitor
+ rtp
+ isttok
+ t-3
+t-4
+t-10
+t-15
+ tcv
+ mast
+mast-u
+start
+stellaratoramericas
+ atf
+cat
+cnt
+hsx
+hidra
+ncsx
+qps
+ scr-1
+asia and australia
+ h-1nf
+ lingyun
+ chs
+heliotron j
+lhd
+tu-heliac
+europe
+ ust-1
+ust-2
+tj-ii
+tj-iu
+ tj-k
+wega [de]
+wendelstein 7-as [de]
+wendelstein 7-x
+ uragan-1
+uragan-2 (uragan-2m)
+uragan-3 (uragan-3m [uk])
+ l-2m
+rfp
+ rfx
+ tpe-rx
+ extrap t2r
+ mst
+other
+ mtf
+ ldx
+mcx
+mftf
+sspx
+ zeta
+inertial confinementlaseramericas
+ argus
+cyclops
+janus
+life
+long path
+nif
+nike
+nova
+omega
+shiva
+asia
+ sg-i
+sg-ii
+sg-iii
+sg-iv
+ gekko xii
+europe
+ hiper
+ asterix iv (pals)
+ lmj
+luli2000
+ iskra
+ vulcan
+non-laser
+ pts
+qiangguang-1
+ pacer
+z machine
+applications
+thermonuclear weapon
+pure fusion weapon
+international fusion materials irradiation facility
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=thermonuclear_weapon&oldid=883517457"					
+categories: nuclear weapon designnuclear secrecyedward tellerhidden categories: webarchive template wayback linksarticles with short descriptionarticles lacking in-text citations from october 2018all articles lacking in-text citationsarticles needing additional references from october 2018all articles needing additional referencesarticles with multiple maintenance issuesarticles needing additional references from december 2015all articles with unsourced statementsarticles with unsourced statements from october 2017all articles lacking reliable referencesarticles lacking reliable references from october 2014articles with unsourced statements from january 2016articles lacking reliable references from december 2016articles to be expanded from september 2009all articles to be expandedarticles using small message boxesarticles with unsourced statements from november 2017commons category link is locally definedcommons category link is on wikidata using p373interlanguage link template link number 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+العربيةasturianuazərbaycancabân-lâm-gúбеларускаябългарскиབོད་ཡིགbosanskicatalàčeštinadanskdeutscheestiελληνικάespañoleuskaraفارسیfrançaisfryskgaeilge한국어հայերենbahasa indonesiaíslenskaitalianoעבריתқазақшаlatviešuമലയാളംမြန်မာဘာသာnederlands日本語occitanoʻzbekcha/ўзбекчаپښتوpolskiportuguêsрусскийscotsslovenčinaslovenščinaсрпски / srpskisrpskohrvatski / српскохрватскиsuomiதமிழ்татарча/tatarçaతెలుగుไทยtürkçeукраїнськаtiếng việtwinaray吴语粵語中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 15 february 2019, at 21:37 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"1.800","walltime":"2.189","ppvisitednodes":{"value":12455,"limit":1000000},"ppgeneratednodes":{"value":31528,"limit":1500000},"postexpandincludesize":{"value":371263,"limit":2097152},"templateargumentsize":{"value":24428,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":15,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":197304,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00% 1728.514      1 -total"," 92.10% 1591.980      9 template:navbox"," 28.75%  496.916      1 template:reflist"," 24.74%  427.638      1 template:fusion_power"," 20.07%  346.882     50 template:flagicon"," 11.55%  199.654      5 template:ambox"," 10.69%  184.783     16 template:fix","  9.25%  159.850     12 template:citation_needed","  7.37%  127.398      1 template:multiple_issues","  6.59%  113.823      5 template:cite_journal"]},"scribunto":{"limitreport-timeusage":{"value":"0.592","limit":"10.000"},"limitreport-memusage":{"value":11327572,"limit":52428800}},"cachereport":{"origin":"mw1228","timestamp":"20190215213751","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":122,"wghostname":"mw1320"});});
+
+

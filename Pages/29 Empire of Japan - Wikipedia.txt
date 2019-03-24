@@ -1,0 +1,2175 @@
+
+
+
+
+empire of japan - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"empire_of_japan","wgtitle":"empire of japan","wgcurrevisionid":883432385,"wgrevisionid":883432385,"wgarticleid":183897,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["pages containing links to subscription-only content","cs1 japanese-language sources (ja)","articles with short description","use mdy dates from april 2017","articles containing japanese-language text","pages using infobox country or infobox former country with the flag caption or type parameters","pages using infobox country or infobox former country with the symbol caption or type parameters","articles to be expanded from february 2018","all articles to be expanded","articles using small message boxes","articles containing korean-language text","wikipedia articles needing clarification from july 2013","articles containing traditional chinese-language text","all articles with unsourced statements","articles with unsourced statements from october 2018","portal templates with redlinked portals","commons category link is on wikidata","coordinates on wikidata","empire of japan","former countries in japanese history","former empires in asia","former monarchies of asia","history of japan","japanese nationalism","19th century in japan","20th century in japan","1868 establishments in japan","1947 disestablishments in japan","states and territories established in 1868","states and territories disestablished in 1947","1868 establishments in asia","1947 disestablishments in asia","fascist states","military dictatorships","totalitarian states","karafuto","history of sakhalin","former japanese colonies","former prefectures of japan","subdivisions of japan","states and territories established in 1905","states and territories disestablished in 1945","1905 establishments in japan","1905 establishments in the japanese colonial empire","1949 disestablishments in japan","japan–soviet union relations","axis powers"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"empire_of_japan","wgrelevantarticleid":183897,"wgrequestid":"xgkwnwpaideaai8mecgaaaaf","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgcoordinates":{"lat":35.683333333333,"lon":139.76666666667},"wgwikibaseitemid":"q188712","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","mw.mediawikiplayer.loader","mw.popupmediatransform","mw.tmhgalleryhook.js","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+empire of japan 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+this article is about the former empire. for the modern state, see japan.
+empire in the asia-pacific region between 1868–1947
+
+
+empire of japan大日本帝国 (japanese)dai nippon teikoku1868–1947
+
+
+flag
+
+
+
+ imperial seal
+
+motto: 
+1868–1912:五箇条の御誓文gokajō no goseimon(charter oathorthe oath in five articles)
+1926–1947:八紘一宇hakkō ichiu(the world under one rooforall eight corners of the world)
+anthem: kimigayo君が代(his imperial majesty's reign)the empire of japan at its peak in 1942:
+   territory (1870–1895)   acquisitions (1895–1930)   acquisitions (1930–1942)capitalkyoto (1868–1869)[1]tokyo city (1869–1943)tokyo (1943–1947)common languagesjapanesereligion de jure: nonede facto: state shinto[nb 1]government
+daijō-kan under an absolute monarchy[5](1868–1885)
+semi-constitutional monarchy(1886–1940)[6]
+one-party totalitarian military dictatorship under an absolute monarchy(1940–1945)
+constitutional monarchy under allied-occupation of japan (1945–1947)
+emperor • 1868–1912 meiji[7]• 1912–1926 taishō• 1926–1947 shōwa[8]
+prime minister • 1885–1888 itō hirobumi• 1946–1947 shigeru yoshida
+legislatureimperial diet• upper househouse of peers• lower househouse of representativeshistorical erameiji, taishō, shōwa• meiji restoration january 3, 1868[9]• constitution adopted november 29, 1890• first sino-japanese war july 25, 1894• russo-japanese war february 10, 1904• world war i august 23, 1914• second sino-japanese war and world war ii september 18, 1931• surrender of japan september 2, 1945• reconstituted may 3, 1947[6]
+area1938[10]1,984,000 km2 (766,000 sq mi)population• 1920 77,700,000a• 1940 105,200,000b
+currencyjapanese yen,korean yen,taiwanese yen,japanese military yen
+
+
+ preceded by
+succeeded by
+
+
+
+
+
+
+
+tokugawa shogunate
+
+
+
+
+ryukyu kingdom
+
+
+
+
+taiwan under qing rule
+
+
+
+
+russian empire
+
+
+
+
+korean empire
+
+
+
+
+german new guinea
+
+
+
+
+british hong kong
+
+
+
+
+french indochina
+
+
+
+
+commonwealth of the philippines
+
+
+
+
+british malaya
+
+
+
+
+british borneo
+
+
+
+
+straits settlements
+
+
+
+
+dutch east indies
+
+
+
+
+british rule in burma
+
+
+
+
+
+
+occupied japan
+
+
+
+
+united states military government of the ryukyu islands
+
+
+
+
+republic of china
+
+
+
+
+united states army military government in korea
+
+
+
+
+soviet civil administration in korea
+
+
+
+
+sakhalin oblast
+
+
+
+
+trust territory of the pacific islands
+
+
+
+
+british hong kong
+
+
+
+
+french indochina
+
+
+
+
+commonwealth of the philippines
+
+
+
+
+british military administration in malaya
+
+
+
+
+british military administration in borneo
+
+
+
+
+dutch east indies
+
+
+
+
+british rule in burma
+
+
+
+
+
+56.0 million lived in japan proper.[11]73.1 million lived in japan proper.[11]
+
+history of japanthe battleship asahi
+periodspaleolithicbefore 14,000 bcjōmon14,000 – 300 bcyayoi300 bc – 300 adkofun300–538asuka538–710nara710–794heian794–1185kamakura1185–1333kenmu restoration1333–1336muromachi (ashikaga)
+nanboku-chōsengoku 1336–1573azuchi–momoyama
+nanban trade 1573–1603edo (tokugawa)
+sakokuconvention of kanagawabakumatsu 1603–1868meiji
+boshin warrestorationfirst sino-japanese warboxer rebellionrusso-japanese war 1868–1912taishō
+world war i 1912–1926shōwa
+financial crisismilitarismworld war iioccupationeconomic miraclepost-occupationbubble economy1926–1989heisei
+lost decadegreat hanshin earthquakegreat east japan earthquakeimperial transition 1989–2019 (planned)
+
+topics
+currency
+earthquakes
+economy
+education
+empire
+historiography
+military
+naval
+post-war
+
+
+glossary
+timelinevte
+empire of japanofficial term nameofficial termempire of japanliteral translation nameliteral translationgreater japanese empire
+vtejapanese colonial campaigns
+meiji period
+korea (1894–95)
+liaodong peninsula (1895)
+china (1899–1901)
+manchuria/korea (1904–05)
+korea (1910)
+taishō period
+tsingtao (1914)
+siberia (1918–22)
+shōwa period
+manchuria (1931–32)
+soviet union (1932–39)
+china (1937–45)
+vietnam (1940)
+thailand (1941)
+asia-pacific (1941–45)
+
+vtecampaigns of world war iieurope
+poland
+phoney war
+winter war
+denmark & norway
+france & benelux
+britain
+balkans
+eastern front
+finland
+western front (1944–45)
+pacific war
+
+china
+pacific ocean
+south-east asia
+south west pacific
+japan
+manchuria (1945)
+mediterranean and middle east
+
+north africa
+horn of africa
+mediterranean sea
+adriatic
+malta
+yugoslavia
+iraq
+syria–lebanon
+iran
+italy
+dodecanese
+southern france
+other campaigns
+
+atlantic
+arctic
+strategic bombing
+america
+french west africa
+madagascar
+contemporaneous wars
+
+soviet–japanese border conflicts
+franco-thai war
+ecuadorian–peruvian war
+ili rebellion
+vtepacific warcentral pacific
+hawaii
+marshalls-gilberts raids
+doolittle raid
+coral sea
+midway
+ry
+solomons
+gilberts & marshalls
+marianas & palau
+volcano & ryukyu
+truk
+southeast asia
+
+indochina (1940)
+indian ocean (1940–45)
+philippines 1941–42
+franco-thai war
+thailand
+dutch east indies
+malaya
+hong kong
+singapore
+indochina (1945)
+malacca strait
+jurist
+tiderace
+zipper
+strategic bombing (1944–45)
+ burma
+
+burma (1941–42)
+burma (1942–43)
+burma (1944)
+burma (1944–45)
+southwest pacific
+
+dutch east indies 1941–42
+portuguese timor
+australia
+new guinea
+philippines 1944–45
+borneo 1945
+north america
+
+ellwood
+k
+aleutian islands
+estevan point lighthouse
+fort stevens
+lookout air raids
+fire balloon
+project hula
+px
+japan
+
+air raids
+tokyo
+yokosuka
+kure
+hiroshima & nagasaki
+mariana islands
+volcano & ryukyu islands
+starvation
+naval bombardments
+sagami bay
+downfall
+kurils
+karafuto
+japanese surrender
+manchuria
+
+kantokuen
+manchuria (1945)
+mutanchiang
+south sakhalin island
+shumshu
+kuril islands
+
+second sino-japanese war
+the empire of japan (大日本帝國, dai nippon teikoku, literally meaning "empire of great japan")[12] was the historical nation-state[nb 2] and great power that existed from the meiji restoration in 1868 to the enactment of the 1947 constitution of modern japan.[6]
+japan's rapid industrialization and militarization under the slogan fukoku kyōhei (富國強兵, "enrich the country, strengthen the armed forces") and shokusan kōgyō (殖産興業, "promote industry") led to its emergence as a world power and the establishment of a colonial empire following the first sino-japanese war, the boxer rebellion, the russo-japanese war, and world war i. economic and political turmoil in the 1920s led to the rise of militarism, eventually culminating in japan's membership in the axis alliance and the conquest of a large part of the asia-pacific in world war ii.[15]
+japan's armed forces initially achieved large-scale military successes during the second sino-japanese war (1937–1945) and the pacific war. however, after many allied victories and following the soviet union's declaration of war against japan and invasion of manchuria, and the atomic bombings of hiroshima and nagasaki, the empire surrendered to the allies on august 15, 1945. a period of occupation by the allies followed the surrender, and a new constitution was created with american involvement in 1947, officially bringing the empire of japan to an end. occupation and reconstruction continued until 1952, eventually forming the current nation-state whose full title is the "state of japan" in japanese (simply rendered "japan" in english).
+the emperors during this time, which spanned the entire meiji and taishō, and the lesser part of the shōwa era, are now known in japan by their posthumous names, which coincide with those era names: emperor meiji (mutsuhito), emperor taishō (yoshihito), and emperor shōwa (hirohito).
+
+contents
+
+1 terminology
+2 background
+
+2.1 boshin war
+
+
+3 meiji era (1868–1912)
+
+3.1 re-emergence of christianity
+3.2 political reform
+3.3 economic development
+3.4 first sino-japanese war
+3.5 boxer rebellion
+3.6 russo-japanese war
+3.7 annexation of korea
+
+
+4 taishō era (1912–1926)
+
+4.1 world war i
+4.2 siberian intervention
+4.3 "taishō democracy"
+
+
+5 early shōwa (1926–1930)
+
+5.1 expansion of democracy
+5.2 military and social organizations
+5.3 nationalist factors
+5.4 economic factors
+
+
+6 later shōwa (1931–1941) – expansionism and war
+
+6.1 prewar expansionism
+
+6.1.1 manchuria
+6.1.2 second sino-japanese war
+6.1.3 clashes with the soviet union
+
+
+6.2 tripartite pact
+
+
+7 pacific war (1941–1945)
+
+7.1 japanese conquests
+7.2 tide turns
+7.3 surrender
+
+
+8 end of the empire of japan
+
+8.1 occupation of japan
+
+
+9 influential personnel
+
+9.1 political
+9.2 diplomats
+9.3 military
+
+
+10 notable scholars/scientists
+
+10.1 19th century
+10.2 20th century
+
+
+11 timeline
+12 emperors
+13 see also
+14 notes
+15 references
+
+15.1 citations
+15.2 sources
+
+
+16 external links
+
+
+terminology[edit]
+the historical state is frequently referred to as the "empire of japan", the "japanese empire", or "imperial japan" in english. in japanese it is referred to as dai nippon teikoku (大日本帝國),[12] which translates to "empire of great japan" (dai "great", nippon "japanese", teikoku "empire").
+this meaning is significant in terms of geography, encompassing japan and its surrounding areas. the nomenclature empire of japan had existed since the anti-tokugawa domains, satsuma and chōshū, which founded their new government during the meiji restoration, with the intention of forming a modern state to resist western domination.
+due to its name in kanji characters and its flag, it was also given the exonym empire of the sun.
+
+background[edit]
+main article: bakumatsu
+after two centuries, the seclusion policy, or sakoku, under the shōguns of the edo period came to an end when the country was forced open to trade by the convention of kanagawa in 1854. thus, the period known as bakumatsu began.
+the following years saw increased foreign trade and interaction; commercial treaties between the tokugawa shogunate and western countries were signed. in large part due to the humiliating terms of these unequal treaties, the shogunate soon faced internal hostility, which materialized into a radical, xenophobic movement, the sonnō jōi (literally "revere the emperor, expel the barbarians").[16]
+in march 1863, the emperor issued the "order to expel barbarians". although the shogunate had no intention of enforcing the order, it nevertheless inspired attacks against the shogunate itself and against foreigners in japan. the namamugi incident during 1862 led to the murder of an englishman, charles lennox richardson, by a party of samurai from satsuma. the british demanded reparations but were denied. while attempting to exact payment, the royal navy was fired on from coastal batteries near the town of kagoshima. they responded by bombarding the port of kagoshima in 1863. the tokugawa government agreed to pay an indemnity for richardson's death.[17] shelling of foreign shipping in shimonoseki and attacks against foreign property led to the bombardment of shimonoseki by a multinational force in 1864.[18] the chōshū clan also launched the failed coup known as the kinmon incident. the satsuma-chōshū alliance was established in 1866 to combine their efforts to overthrow the tokugawa bakufu. in early 1867, emperor kōmei died of smallpox and was replaced by his son, crown prince mutsuhito (meiji).
+on november 9, 1867, tokugawa yoshinobu resigned from his post and authorities to the emperor, agreeing to "be the instrument for carrying out" imperial orders.[19] the tokugawa shogunate had ended.[20][21] however, while yoshinobu's resignation had created a nominal void at the highest level of government, his apparatus of state continued to exist. moreover, the shogunal government, the tokugawa family in particular, remained a prominent force in the evolving political order and retained many executive powers,[22] a prospect hard-liners from satsuma and chōshū found intolerable.[23]
+on january 3, 1868, satsuma-chōshū forces seized the imperial palace in kyoto, and the following day had the fifteen-year-old emperor meiji declare his own restoration to full power. although the majority of the imperial consultative assembly was happy with the formal declaration of direct rule by the court and tended to support a continued collaboration with the tokugawa, saigō takamori threatened the assembly into abolishing the title shōgun and ordered the confiscation of yoshinobu's lands.[24]
+on january 17, 1868, yoshinobu declared "that he would not be bound by the proclamation of the restoration and called on the court to rescind it".[25] on january 24, yoshinobu decided to prepare an attack on kyoto, occupied by satsuma and chōshū forces. this decision was prompted by his learning of a series of arson attacks in edo, starting with the burning of the outworks of edo castle, the main tokugawa residence.
+
+boshin war[edit]
+main article: boshin war
+ the naval battle of hakodate, may 1869; in the foreground, kasuga and kōtetsu of the imperial japanese navy
+the boshin war (戊辰戦争, boshin sensō) was fought between january 1868 and may 1869. the alliance of samurai from southern and western domains and court officials had now secured the cooperation of the young emperor meiji, who ordered the dissolution of the two-hundred-year-old tokugawa shogunate. tokugawa yoshinobu launched a military campaign to seize the emperor's court at kyoto. however, the tide rapidly turned in favor of the smaller but relatively modernized imperial faction and resulted in defections of many daimyōs to the imperial side. the battle of toba–fushimi was a decisive victory in which a combined army from chōshū, tosa, and satsuma domains defeated the tokugawa army.[26] a series of battles were then fought in pursuit of supporters of the shogunate; edo surrendered to the imperial forces and afterwards yoshinobu personally surrendered. yoshinobu was stripped of all his power by emperor meiji and most of japan accepted the emperor's rule.
+pro-tokugawa remnants, however, then retreated to northern honshū (ōuetsu reppan dōmei) and later to ezo (present-day hokkaidō), where they established the breakaway republic of ezo. an expeditionary force was dispatched by the new government and the ezo republic forces were overwhelmed. the siege of hakodate came to an end in may 1869 and the remaining forces surrendered.[26]
+
+meiji era (1868–1912)[edit]
+main articles: meiji period, meiji restoration, and government of meiji japan
+the charter oath was made public at the enthronement of emperor meiji of japan on april 7, 1868. the oath outlined the main aims and the course of action to be followed during emperor meiji's reign, setting the legal stage for japan's modernization.[27] the meiji leaders also aimed to boost morale and win financial support for the new government.
+
+ prominent members of the iwakura mission. left to right: kido takayoshi, yamaguchi masuka, iwakura tomomi, itō hirobumi, ōkubo toshimichi
+japan dispatched the iwakura mission in 1871. the mission traveled the world in order to renegotiate the unequal treaties with the united states and european countries that japan had been forced into during the tokugawa shogunate, and to gather information on western social and economic systems, in order to effect the modernization of japan. renegotiation of the unequal treaties was universally unsuccessful, but close observation of the american and european systems inspired members on their return to bring about modernization initiatives in japan. japan made a territorial delimitation treaty with russia in 1875, gaining all the kuril islands in exchange for sakhalin island.[28]
+several prominent writers, under the constant threat of assassination from their political foes, were influential in winning japanese support for westernization. one such writer was fukuzawa yukichi, whose works included "conditions in the west," "leaving asia", and "an outline of a theory of civilization," which detailed western society and his own philosophies. in the meiji restoration period, military and economic power was emphasized. military strength became the means for national development and stability. imperial japan became the only non-western world power and a major force in east asia in about 25 years as a result of industrialization and economic development.
+
+ emperor meiji, the 122nd emperor of japan
+as writer albrecht fürst von urach comments in his booklet "the secret of japan's strength," published in 1942, during the axis powers period:
+
+the rise of japan to a world power during the past 80 years is the greatest miracle in world history. the mighty empires of antiquity, the major political institutions of the middle ages and the early modern era, the spanish empire, the british empire, all needed centuries to achieve their full strength. japan's rise has been meteoric. after only 80 years, it is one of the few great powers that determine the fate of the world.[29]
+the sudden westernization, once it was adopted, changed almost all areas of japanese society, ranging from armaments, arts, education, etiquette, fashion, health, justice, politics, language, etc. the japanese government sent students to western countries to observe and learn their practices, and also paid "foreign advisors" in a variety of fields to come to japan to educate the populace. for instance, the judicial system and constitution were largely modeled on those of prussia. the government also outlawed customs linked to japan's feudal past, such as publicly displaying and wearing katana and the top knot, both of which were characteristic of the samurai class, which was abolished together with the caste system. this would later bring the meiji government into conflict with the samurai.
+
+re-emergence of christianity[edit]
+main articles: christianity in japan § opening of japan, and history of the catholic church in japan § rediscovery and return
+ ōura church, nagasaki, 1885
+emperor ogimachi issued edicts to ban catholicism in 1565 and 1568, but to little effect. beginning in 1587 with imperial regent toyotomi hideyoshi’s ban on jesuit missionaries, christianity was repressed as a threat to national unity. under hideyoshi and the succeeding tokugawa shogunate, catholic christianity was repressed and adherents were persecuted. after the tokugawa shogunate banned christianity in 1620, it ceased to exist publicly. many catholics went underground, becoming hidden christians (隠れキリシタン, kakure kirishitan), while others lost their lives. after japan was opened to foreign powers in 1853, many christian clergymen were sent from catholic, protestant, and orthodox churches, though proselytism was still banned. only after the meiji restoration, was christianity re-established in japan. freedom of religion was introduced in 1871, giving all christian communities the right to legal existence and preaching.
+eastern orthodoxy was brought to japan in the 19th century by st. nicholas (baptized as ivan dmitrievich kasatkin),[30] who was sent in 1861 by the russian orthodox church to hakodate, hokkaidō as priest to a chapel of the russian consulate.[31] st. nicholas of japan made his own translation of the new testament and some other religious books (lenten triodion, pentecostarion, feast services, book of psalms, irmologion) into japanese.[32] nicholas has since been canonized as a saint by the patriarchate of moscow in 1970, and is now recognized as st. nicholas, equal-to-the-apostles to japan. his commemoration day is february 16. andronic nikolsky, appointed the first bishop of kyoto and later martyred as the archbishop of perm during the russian revolution, was also canonized by the russian orthodox church as a saint and martyr in the year 2000.
+divie bethune mccartee was the first ordained presbyterian minister missionary to visit japan, in 1861–1862. his gospel tract translated into japanese was among the first protestant literature in japan. in 1865 mccartee moved back to ningbo, china, but others have followed in his footsteps. there was a burst of growth of christianity in the late 19th century when japan re-opened its doors to the west. protestant church growth slowed dramatically in the early 20th century under the influence of the military government during the shōwa period.
+
+political reform[edit]
+main article: meiji constitution
+this section needs expansion. you can help by adding to it. (february 2018)
+ interior of japanese parliament, showing minister speaking at the tribune from which members address the house, 1915
+the idea of a written constitution had been a subject of heated debate within and outside of the government since the beginnings of the meiji government. the conservative meiji oligarchy viewed anything resembling democracy or republicanism with suspicion and trepidation, and favored a gradualist approach. the freedom and people's rights movement demanded the immediate establishment of an elected national assembly, and the promulgation of a constitution.
+
+ prince aritomo yamagata, twice prime minister of japan. he was one of the main architects of the military and political foundations of early modern japan.
+the constitution recognized the need for change and modernization after removal of the shogunate:
+
+we, the successor to the prosperous throne of our predecessors, do humbly and solemnly swear to the imperial founder of our house and to our other imperial ancestors that, in pursuance of a great policy co-extensive with the heavens and with the earth, we shall maintain and secure from decline the ancient form of government. ... in consideration of the progressive tendency of the course of human affairs and in parallel with the advance of civilization, we deem it expedient, in order to give clearness and distinctness to the instructions bequeathed by the imperial founder of our house and by our other imperial ancestors, to establish fundamental laws. ...
+ count kentaro kaneko, a diplomat in meiji period japan, renowned for his work on the meiji constitution
+imperial japan was founded, de jure, after the 1889 signing of constitution of the empire of japan. the constitution formalized much of the empire's political structure and gave many responsibilities and powers to the emperor.
+
+article 4. the emperor is the head of the empire, combining in himself the rights of sovereignty, and exercises them, according to the provisions of the present constitution.
+article 6. the emperor gives sanction to laws, and orders them to be promulgated and executed.
+article 11. the emperor has the supreme command of the army and navy.[33]
+in 1890, the imperial diet was established in response to the meiji constitution. the diet consisted of the house of representatives of japan and the house of peers. both houses opened seats for colonial people as well as japanese. the imperial diet continued until 1947.[6]
+
+economic development[edit]
+main articles: economy of the empire of japan and economic history of japan § 20th century
+ tokyo industrial exhibition, 1907
+ view of the city of yamagata, c. 1881
+the process of modernization was closely monitored and heavily subsidized by the meiji government in close connection with a powerful clique of companies known as zaibatsu (e.g.: mitsui and mitsubishi). borrowing and adapting technology from the west, japan gradually took control of much of asia's market for manufactured goods, beginning with textiles. the economic structure became very mercantilistic, importing raw materials and exporting finished products — a reflection of japan's relative scarcity of raw materials.
+economic reforms included a unified modern currency based on the yen, banking, commercial and tax laws, stock exchanges, and a communications network. the government was initially involved in economic modernization, providing a number of "model factories" to facilitate the transition to the modern period. the transition took time. by the 1890s, however, the meiji had successfully established a modern institutional framework that would transform japan into an advanced capitalist economy. by this time, the government had largely relinquished direct control of the modernization process, primarily for budgetary reasons. many of the former daimyōs, whose pensions had been paid in a lump sum, benefited greatly through investments they made in emerging industries.
+
+ thomas blake glover was a scottish merchant in bakumatsu and received japan's second highest order from emperor meiji in recognition of his contributions to japan's industrialization.
+japan emerged from the tokugawa-meiji transition as the first asian industrialized nation. from the onset, the meiji rulers embraced the concept of a market economy and adopted british and north american forms of free enterprise capitalism. rapid growth and structural change characterized japan's two periods of economic development after 1868. initially, the economy grew only moderately and relied heavily on traditional japanese agriculture to finance modern industrial infrastructure. by the time the russo-japanese war began in 1904, 65% of employment and 38% of the gross domestic product (gdp) were still based on agriculture, but modern industry had begun to expand substantially. by the late 1920s, manufacturing and mining amounted to 34% of gdp, compared with 20% for all of agriculture.[34] transportation and communications developed to sustain heavy industrial development.
+from 1894, japan built an extensive empire that included taiwan, korea, manchuria, and parts of northern china. the japanese regarded this sphere of influence as a political and economic necessity, which prevented foreign states from strangling japan by blocking its access to raw materials and crucial sea-lanes. japan's large military force was regarded as essential to the empire's defense and prosperity by obtaining natural resources that the japanese islands lacked.
+
+first sino-japanese war[edit]
+main articles: first sino-japanese war and taiwan under japanese rule
+the first sino-japanese war, fought in 1894 and 1895, revolved around the issue of control and influence over korea under the rule of the joseon dynasty. korea had traditionally been a tributary state of china's qing empire, which exerted large influence over the conservative korean officials who gathered around the royal family of the joseon kingdom. on february 27, 1876, after several confrontations between korean isolationists and japanese, japan imposed the japan–korea treaty of 1876, forcing korea open to japanese trade. the act blocks any other power from dominating korea, resolving to end the centuries-old chinese suzerainty.
+on june 4, 1894, korea requested aid from the qing empire in suppressing the donghak rebellion. the qing government sent 2,800 troops to korea. the japanese countered by sending an 8,000-troop expeditionary force (the oshima composite brigade) to korea. the first 400 troops arrived on june 9 en route to seoul, and 3,000 landed at incheon on june 12.[35] the qing government turned down japan's suggestion for japan and china to cooperate to reform the korean government. when korea demanded that japan withdraw its troops from korea, the japanese refused. in early june 1894, the 8,000 japanese troops captured the korean king gojong, occupied the royal palace in seoul and, by june 25, installed a puppet government in seoul. the new pro-japanese korean government granted japan the right to expel qing forces while japan dispatched more troops to korea.
+china objected and war ensued. japanese ground troops routed the chinese forces on the liaodong peninsula, and nearly destroyed the chinese navy in the battle of the yalu river. the treaty of shimonoseki was signed between japan and china, which ceded the liaodong peninsula and the island of taiwan to japan. after the peace treaty, russia, germany, and france forced japan to withdraw from liaodong peninsula. soon afterwards russia occupied the liaodong peninsula, built the port arthur fortress, and based the russian pacific fleet in the port. germany occupied jiaozhou bay, built tsingtao fortress and based the german east asia squadron in this port.
+
+boxer rebellion[edit]
+main articles: boxer rebellion and boxer protocol
+in 1900, japan joined an international military coalition set up in response to the boxer rebellion in the qing empire of china. japan provided the largest contingent of troops; 20,840, as well as 18 warships. of the total number, 20,300 were imperial japanese army troops of the 5th infantry division under lt. general yamaguchi motoomi; the remainder were 540 naval rikusentai(marines) from the imperial japanese navy.[36]
+at the beginning of the boxer rebellion the japanese only had 215 troops in northern china stationed at tientsin, nearly all of them were naval rikusentai from the kasagi and the atago, under the command of captain shimamura hayao.[37] the japanese were able to contributed 52 men to the seymour expedition.[37] on 12 june 1900, the advance of the seymour expedition was halted some 30 miles from the capital, by mixed boxer and chinese regular army forces. the vastly outnumbered allies withdrew to the vicinity of tianjin, having suffered more than 300 casualties.[38] the army general staff in tokyo had become aware of the worsening conditions in china and had drafted ambitious contingency plans,[39] but the government in the wake of the triple intervention five years prior, refused to deploy large number of troops unless requested by the western powers.[39] however three days later, a provisional force of 1,300 troops commanded by major general fukushima yasumasa, was to be deployed to northern china. fukushima was chosen because his ability to speak fluent english which enabled him to communicate with the british commander, the force landed near tianjin on 5 july.[39]
+
+ marquess komura jutaro, 1911. komura became minister for foreign affairs under the first katsura administration, and signed the boxer protocol on behalf of japan.
+on 17 june 1900, naval rikusentai from the kasagi and atago had joined british, russian, and german sailors to seize the dagu forts near tianjin.[39] the british, in light of the precarious situation were compelled to ask japan for additional reinforcements as the japanese had the only readily available forces in the region.[39] britain at the time was heavily engaged in the boer war, consequently a large part of the british army was tied down in south africa, also deploying large numbers of troops from its garrisons in india would take too much time and weaken internal security there.[39] overriding personal doubts, foreign minister aoki shūzō calculated that the advantages of participating in an allied coalition were too attractive to ignore. prime minister yamagata likewise concurred, but others in the cabinet demanded that there be guarantees from the british in return for the risks and costs of the major deployment of japanese troops.[39] on 6 july 1900, the 5th infantry division was alerted for possible deployment to china, but no timetable was set for its deployment. two days later, with more ground troops urgently needed to lift the siege of the foreign legations at peking, the british ambassador offered the japanese government one million british pounds in exchange for japanese participation.[39]
+shortly afterward, advance units of the 5th division departed for china, bringing japanese strength to 3,800 personnel of the then 17,000 allied force.[39] the commander of the 5th division, lt. general yamaguchi motoomi had taken operational control from fukushima. japanese troops were involved in the storming of tianjin on july 14,[39] after which the allies consolidated and awaited the remainder of the 5th division and other coalition reinforcements. by the time the siege of legations was lifted on 14 august 1900, the japanese force of 13,000 was the largest single contingent and made up about 40 percent of the approximately 33,000 strong allied expeditionary force.[39] japanese troops involved in the fighting had acquitted themselves well, although a british military observer felt their aggressiveness, densely-packed formations, and over-willingness to attack cost them excessive and disproportionate casualties.[40] for example, during the tianjin fighting, the japanese suffered more than half of the allied casualties, 400 out of 730, but comprised less than one quarter (3,800) of the force of 17,000.[40] similarly at beijing, the japanese accounted for almost two-thirds of the losses (280 of 453) even though they constituted slightly less than half of the assault force.[40]
+after the uprising, japan and the western countries signed the boxer protocol with china, which permitted them to station troops on chinese soil to protect their citizens. after the treaty, russia continued to occupy all of manchuria.
+
+russo-japanese war[edit]
+main article: russo-japanese war
+this section needs expansion. you can help by adding to it. (february 2018)
+ japanese riflemen assault on the entrenched imperial russian army, 1904
+ japanese riflemen in the russo-japanese war
+ port arthur viewed from the top of gold hill, after capitulation in 1905. from left wrecks of russian battleships: peresvet, poltava, retvizan, pobeda and pallada cruiser
+the russo-japanese war was a conflict for control of korea and parts of manchuria between the russian empire and empire of japan that took place from 1904 to 1905. the victory greatly raised japan's stature in the world of global politics. the war is marked by the japanese opposition of russian interests in korea, manchuria, and china, notably, the liaodong peninsula, controlled by the city of port arthur.
+originally, in the treaty of shimonoseki, port arthur had been given to japan. this part of the treaty was overruled by western powers, which gave the port to the russian empire, furthering russian interests in the region. these interests came into conflict with japanese interests. the war began with a surprise attack on the russian eastern fleet stationed at port arthur, which was followed by the battle of port arthur. those elements that attempted escape were defeated by the japanese navy under admiral togo heihachiro at the battle of the yellow sea. following a late start, the russian baltic fleet was denied passage through the british-controlled suez canal. the fleet arrived on the scene a year later, only to be annihilated in the battle of tsushima. while the ground war did not fare as poorly for the russians, the japanese forces were significantly more aggressive than their russian counterparts and gained a political advantage that culminated with the treaty of portsmouth, negotiated in the united states by the american president theodore roosevelt. as a result, russia lost the part of sakhalin island south of 50 degrees north latitude (which became karafuto prefecture), as well as many mineral rights in manchuria. in addition, russia's defeat cleared the way for japan to annex korea outright in 1910.
+
+annexation of korea[edit]
+main article: korea under japanese rule
+ count tadasu hayashi was the resident minister to great britain. while serving in london from 1900, he worked to successfully conclude the anglo-japanese alliance and signed on behalf of the government of japan on january 30, 1902.
+in the late 19th and early 20th centuries, various western countries actively competed for influence, trade, and territory in east asia, and japan sought to join these modern colonial powers. the newly modernised meiji government of japan turned to korea, then in the sphere of influence of china's qing dynasty. the japanese government initially sought to separate korea from qing and make korea a japanese satellite in order to further their security and national interests.[41]
+in january 1876, following the meiji restoration, japan employed gunboat diplomacy to pressure the joseon dynasty into signing the japan–korea treaty of 1876, which granted extraterritorial rights to japanese citizens and opened three korean ports to japanese trade. the rights granted to japan under this unequal treaty,[42] were similar to those granted western powers in japan following the visit of commodore perry.[42] japanese involvement in korea increased during the 1890s, a period of political upheaval.
+korea was occupied and declared a japanese protectorate following the japan–korea treaty of 1905. after proclaimed the founding of the korean empire, korea was officially annexed in japan through the annexation treaty in 1910.
+in korea, the period is usually described as the "time of japanese forced occupation" (hangul: 일제 강점기; ilje gangjeomgi, hanja: 日帝强占期). other terms include "japanese imperial period" (hangul: 일제시대, ilje sidae, hanja: 日帝時代) or "japanese administration" (hangul: 왜정, wae jeong, hanja: 倭政). in japan, a more common description is "the korea of japanese rule" (日本統治時代の朝鮮, nippon tōchi-jidai no chōsen). the korean peninsula was officially part of the empire of japan for 35 years, from august 29, 1910, until the formal japanese rule ended, de jure, on september 2, 1945, upon the surrender of japan in world war ii. the 1905 and 1910 treaties were eventually declared "null and void" by both japan and south korea in 1965.
+
+taishō era (1912–1926)[edit]
+main article: taishō period
+world war i[edit]
+main articles: japan during world war i, japanese entry into world war i, and asian and pacific theatre of world war i
+ emperor taishō, the 123rd emperor of japan
+japan entered world war i on the side of the allies in 1914, seizing the opportunity of germany's distraction with the european war to expand its sphere of influence in china and the pacific. japan declared war on germany on august 23, 1914. japanese and allied british empire forces soon moved to occupy tsingtao fortress, the german east asia squadron base, german-leased territories in china's shandong province as well as the marianas, caroline, and marshall islands in the pacific, which were part of german new guinea. the swift invasion in the german territory of the kiautschou bay concession and the siege of tsingtao proved successful. the german colonial troops surrendered on november 7, 1915, and japan gained the german holdings.
+with its western allies, notably the united kingdom, heavily involved in the war in europe, japan dispatched a naval fleet to the mediterranean sea to aid allied shipping. japan sought further to consolidate its position in china by presenting the twenty-one demands to china in january 1915. in the face of slow negotiations with the chinese government, widespread anti-japanese sentiment in china, and international condemnation, japan withdrew the final group of demands, and treaties were signed in may 1915. the anglo-japanese alliance was renewed and expanded in scope twice, in 1905 and 1911, before its demise in 1921. it was officially terminated in 1923.
+
+siberian intervention[edit]
+main articles: allied intervention in the russian civil war, siberian intervention, and japanese intervention in siberia
+after the fall of the tsarist regime and the later provisional regime in 1917, the new bolshevik government signed a separate peace treaty with germany. after this the russians fought amongst themselves in a multi-sided civil war.
+
+ russian civil war and allied intervention 1918-1920. commanding officers and chiefs of staff of the allied military mission to siberia, vladivostok.
+in july 1918, president wilson asked the japanese government to supply 7,000 troops as part of an international coalition of 25,000 troops planned to support the american expeditionary force siberia. prime minister terauchi masatake agreed to send 12,000 troops but under the japanese command rather than as part of an international coalition. the japanese had several hidden motives for the venture, which included an intense hostility and fear of communism; a determination to recoup historical losses to russia; and the desire to settle the "northern problem" in japan's security, either through the creation of a buffer state or through outright territorial acquisition.
+by november 1918, more than 70,000 japanese troops under chief of staff yui mitsue had occupied all ports and major towns in the russian maritime provinces and eastern siberia. japan received 765 polish orphans from siberia.[43][44]
+in june 1920, around 450 japanese civilians and 350 japanese soldiers, along with russian white army supporters, were massacred by partisan forces associated with the red army at nikolayevsk on the amur river; the united states and its allied coalition partners consequently withdrew from vladivostok after the capture and execution of white army leader admiral aleksandr kolchak by the red army. however, the japanese decided to stay, primarily due to fears of the spread of communism so close to japan and japanese-controlled korea and manchuria. the japanese army provided military support to the japanese-backed provisional priamurye government based in vladivostok against the moscow-backed far eastern republic.
+the continued japanese presence concerned the united states, which suspected that japan had territorial designs on siberia and the russian far east. subjected to intense diplomatic pressure by the united states and united kingdom, and facing increasing domestic opposition due to the economic and human cost, the administration of prime minister katō tomosaburō withdrew the japanese forces in october 1922. japanese casualties from the expedition were 5,000 dead from combat or illness, with the expedition costing over 900 million yen.
+
+"taishō democracy"[edit]
+ count itagaki taisuke is credited as being the first japanese party leader and an important force for liberalism in meiji japan.
+the two-party political system that had been developing in japan since the turn of the century came of age after world war i, giving rise to the nickname for the period, "taishō democracy". the public grew disillusioned with the growing national debt and the new election laws, which retained the old minimum tax qualifications for voters. calls were raised for universal suffrage and the dismantling of the old political party network. students, university professors, and journalists, bolstered by labor unions and inspired by a variety of democratic, socialist, communist, anarchist, and other thoughts, mounted large but orderly public demonstrations in favor of universal male suffrage in 1919 and 1920.
+
+ count katō komei, the 14th prime minister of japan from 11 june 1924 until his death on 28 january 1926
+the election of katō komei as prime minister of japan continued democratic reforms that had been advocated by influential individuals on the left. this culminated in the passage of universal male suffrage in march 1925. this bill gave all male subjects over the age of 25 the right to vote, provided they had lived in their electoral districts for at least one year and were not homeless. the electorate thereby increased from 3.3 million to 12.5 million.[45]
+in the political milieu of the day, there was a proliferation of new parties, including socialist and communist parties. fear of a broader electorate, left-wing power, and the growing social change led to the passage of the peace preservation law in 1925, which forbade any change in the political structure or the abolition of private property.
+unstable coalitions and divisiveness in the diet led the kenseikai (憲政会 constitutional government association) and the seiyū hontō (政友本党 true seiyūkai) to merge as the rikken minseitō (立憲民政党 constitutional democratic party) in 1927. the rikken minseitō platform was committed to the parliamentary system, democratic politics, and world peace. thereafter, until 1932, the seiyūkai and the rikken minseitō alternated in power.
+despite the political realignments and hope for more orderly government, domestic economic crises plagued whichever party held power. fiscal austerity programs and appeals for public support of such conservative government policies as the peace preservation law—including reminders of the moral obligation to make sacrifices for the emperor and the state—were attempted as solutions.
+
+early shōwa (1926–1930)[edit]
+main article: shōwa period
+ emperor shōwa during an army inspection on january 8, 1938
+expansion of democracy[edit]
+in 1932, park chun-kum was elected to the house of representatives in the japanese general election as the first person elected from a colonial background.[clarification needed][46] in 1935, democracy was introduced in taiwan and in response to taiwanese public opinion, local assemblies were established.[47] in 1942, 38 colonial people were elected to local assemblies of the japanese homeland.[46]
+overall, during the 1920s, japan changed its direction toward a democratic system of government. however, parliamentary government was not rooted deeply enough to withstand the economic and political pressures of the 1930s, during which military leaders became increasingly influential. these shifts in power were made possible by the ambiguity and imprecision of the meiji constitution, particularly as regarded the position of the emperor in relation to the constitution.
+
+military and social organizations[edit]
+ tokyo kaikan was requisitioned as the meeting place for members of the imperial rule assistance association (iraa) in the early days.
+important institutional links existed between the party in government (kōdōha) and military and political organizations, such as the imperial young federation and the "political department" of the kempeitai. amongst the himitsu kessha (secret societies), the kokuryu-kai and kokka shakai shugi gakumei (national socialist league) also had close ties to the government. the tonarigumi (residents committee) groups, the nation service society (national government trade union), and imperial farmers association were all allied as well. other organizations and groups related with the government in wartime were: double leaf society, kokuhonsha, taisei yokusankai, imperial youth corps, keishichō (to 1945), shintoist rites research council, treaty faction, fleet faction, and volunteer fighting corps.
+
+nationalist factors[edit]
+main articles: statism in shōwa japan, imperial way faction, may 15 incident, and february 26 incident
+ japanese pan-asian writer shūmei ōkawa
+sadao araki was an important figurehead and founder of the army party and the most important right-wing thinker in his time. his first ideological works date from his leadership of the kōdōha (imperial benevolent rule or action group), opposed by the tōseiha (control group) led by general kazushige ugaki. he linked the ancient (bushido code) and contemporary local and european fascist ideals (see statism in shōwa japan), to form the ideological basis of the movement (shōwa nationalism).
+from september 1931, the japanese were becoming more locked into the course that would lead them into the second world war, with araki leading the way. totalitarianism, militarism, and expansionism were to become the rule, with fewer voices able to speak against it. in a september 23 news conference, araki first mentioned the philosophy of "kōdōha" (the imperial way faction). the concept of kodo linked the emperor, the people, land, and morality as indivisible. this led to the creation of a "new" shinto and increased emperor worship.
+
+ rebel troops assembled at police headquarters during the february 26 incident.
+on february 26, 1936, a coup d'état was attempted (the february 26 incident). launched by the ultranationalist kōdōha faction with the military, it ultimately failed due to the intervention of the emperor. kōdōha members were purged from the top military positions and the tōseiha faction gained dominance. however, both factions believed in expansionism, a strong military, and a coming war. furthermore, kōdōha members, while removed from the military, still had political influence within the government.
+the state was being transformed to serve the army and the emperor. symbolic katana swords came back into fashion as the martial embodiment of these beliefs, and the nambu pistol became its contemporary equivalent, with the implicit message that the army doctrine of close combat would prevail. the final objective, as envisioned by army thinkers such as sadao araki and right-wing line followers, was a return to the old shogunate system, but in the form of a contemporary military shogunate. in such a government the emperor would once more be a figurehead (as in the edo period). real power would fall to a leader very similar to a führer or duce, though with the power less nakedly held. on the other hand, the traditionalist navy militarists defended the emperor and a constitutional monarchy with a significant religious aspect.
+a third point of view was supported by prince chichibu, a brother of emperor shōwa, who repeatedly counseled him to implement a direct imperial rule, even if that meant suspending the constitution.[48]
+with the launching of the imperial rule assistance association in 1940 by prime minister fumimaro konoe, japan would turn to a form of government that resembled totalitarianism. this unique style of government, very similar to fascism, was known as statism in shōwa japan.
+
+economic factors[edit]
+ bank run during the shōwa financial crisis, march 1927
+at the same time, the zaibatsu trading groups (principally mitsubishi, mitsui, sumitomo, and yasuda) looked towards great future expansion. their main concern was a shortage of raw materials. prime minister fumimaro konoe combined social concerns with the needs of capital, and planned for expansion.
+the main goals of japan's expansionism were acquisition and protection of spheres of influence, maintenance of territorial integrity, acquisition of raw materials, and access to asian markets. western nations, notably great britain, france, and the united states, had for long exhibited great interest in the commercial opportunities in china and other parts of asia. these opportunities had attracted western investment because of the availability of raw materials for both domestic production and re-export to asia. japan desired these opportunities in planning the development of the greater east asia co-prosperity sphere.
+the great depression, just as in many other countries, hindered japan's economic growth. the japanese empire's main problem lay in that rapid industrial expansion had turned the country into a major manufacturing and industrial power that required raw materials; however, these had to be obtained from overseas, as there was a critical lack of natural resources on the home islands.
+
+ national diet building, 1930
+in the 1920s and 1930s, japan needed to import raw materials such as iron, rubber, and oil to maintain strong economic growth. most of these resources came from the united states. the japanese felt that acquiring resource-rich territories would establish economic self-sufficiency and independence, and they also hoped to jump-start the nation's economy in the midst of the depression. as a result, japan set its sights on east asia, specifically manchuria with its many resources; japan needed these resources to continue its economic development and maintain national integrity.
+
+later shōwa (1931–1941) – expansionism and war[edit]
+main articles: hakkō ichiu, national spiritual mobilization movement, and world war ii
+prewar expansionism[edit]
+manchuria[edit]
+main articles: mukden incident, japanese invasion of manchuria, and pacification of manchukuo
+ japanese troops entering shenyang, northeast china during the mukden incident, 1931
+in 1931, japan invaded and conquered northeast china (manchuria) with little resistance. japan claimed that this invasion was a liberation of the local manchus from the chinese, although the majority of the population were han chinese as a result of the large scale settlement of chinese in manchuria in the 19th century. japan then established a puppet regime called manchukuo (chinese: 滿洲國), and installed the last manchu emperor of china, puyi, as the official head of state. jehol, a chinese territory bordering manchukuo, was later also taken in 1933. this puppet regime had to carry on a protracted pacification campaign against the anti-japanese volunteer armies in manchuria. in 1936, japan created a similar mongolian puppet state in inner mongolia named mengjiang (chinese: 蒙疆), which was also predominantly chinese as a result of recent han immigration to the area. at that time, east asians were banned from immigration to north america and australia, but the newly established manchukuo was open to immigration of asians. japan had an emigration plan to encourage colonization; the japanese population in manchuria subsequently grew to 850,000.[49] with rich natural resources and labor force in manchuria, army-owned corporations turned manchuria into a solid material support machine of the japanese army.[50]
+
+second sino-japanese war[edit]
+main article: second sino-japanese war
+ the japanese occupation of peiping (beijing) in china, on august 13, 1937. japanese troops are shown passing from peiping into the tartar city through zhengyangmen, the main gate leading onward to the palaces in the forbidden city.
+japan invaded china proper in 1937, creating what was essentially a three-way war between japan, mao zedong's communists, and chiang kai-shek's nationalists. on december 13 of that same year, the nationalist capital of nanking surrendered to japanese troops. in the event known as the "nanking massacre", japanese troops massacred a large number of the defending garrison. it is estimated that as many as 300,000 people, including civilians, may have been killed, although the actual numbers are uncertain and the government of the people's republic of china has never undertaken a full accounting of the massacre. in total, an estimated 20 million chinese, mostly civilians, were killed during world war ii. a puppet state was also set up in china quickly afterwards, headed by wang jingwei. the second sino-japanese war continued into world war ii with the communists and nationalists in a temporary and uneasy nominal alliance against the japanese.
+
+clashes with the soviet union[edit]
+main articles: battle of lake khasan, battles of khalkhin gol, and soviet–japanese neutrality pact
+in 1938, the japanese 19th division entered territory claimed by the soviet union, leading to the battle of lake khasan. this incursion was founded in the japanese belief that the soviet union misinterpreted the demarcation of the boundary, as stipulated in the treaty of peking, between imperial russia and manchu china (and subsequent supplementary agreements on demarcation), and furthermore, that the demarcation markers were tampered with.
+on may 11, 1939, in the nomonhan incident (battle of khalkhin gol), a mongolian cavalry unit of some 70 to 90 men entered the disputed area in search of grazing for their horses, and encountered manchukuoan cavalry, who drove them out. two days later the mongolian force returned and the manchukoans were unable to evict them.
+the ija 23rd division and other units of the kwantung army then became involved. joseph stalin ordered stavka, the red army's high command, to develop a plan for a counterstrike against the japanese. in late august, georgy zhukov employed encircling tactics that made skillful use of superior artillery, armor, and air forces; this offensive nearly annihilated the 23rd division and decimated the ija 7th division. on september 15 an armistice was arranged. nearly two years later, on april 13, 1941, the parties signed a neutrality pact, in which the soviet union pledged to respect the territorial integrity and inviolability of manchukuo, while japan agreed similarly for the mongolian people's republic.
+
+tripartite pact[edit]
+main articles: tripartite pact and axis powers
+ signing ceremony for the axis powers tripartite pact
+in 1938, japan prohibited the expulsion of the jews in japan, manchuria, and china in accordance with the spirit of racial equality on which japan had insisted for many years.[51][52]
+the second sino-japanese war had seen tensions rise between imperial japan and the united states; events such as the panay incident and the nanking massacre turned american public opinion against japan. with the occupation of french indochina in the years of 1940–41, and with the continuing war in china, the united states placed embargoes on japan of strategic materials such as scrap metal and oil, which were vitally needed for the war effort. the japanese were faced with the option of either withdrawing from china and losing face or seizing and securing new sources of raw materials in the resource-rich, european-controlled colonies of southeast asia—specifically british malaya and the dutch east indies (modern-day indonesia).
+on september 27, 1940, imperial japan signed the tripartite pact with nazi germany and fascist italy. their objectives were to "establish and maintain a new order of things" in their respective world regions and spheres of influence, with nazi germany and fascist italy in europe, and imperial japan in asia. the signatories of this alliance become known as the axis powers. the pact also called for mutual protection—if any one of the member powers was attacked by a country not already at war, excluding the soviet union—and for technological and economic cooperation between the signatories.
+
+ founding ceremony of the hakkō ichiu (all the world under one roof) monument in 1940
+for the sake of their own people and nation, prime minister konoe formed the taisei yokusankai (imperial rule assistance association) on october 12, 1940, as a ruling party in japan.
+
+pacific war (1941–1945)[edit]
+main articles: japan during world war ii and pacific war
+ a map of the japanese advance from 1937 to 1942
+facing an oil embargo by the united states as well as dwindling domestic reserves, the japanese government decided to execute a plan developed by isoroku yamamoto to attack the united states pacific fleet in hawaii. the imperial japanese navy made its surprise attack on pearl harbor, oahu, hawaii, on sunday morning, december 7, 1941. american forces sustained significant losses. the primary objective of the attack was to incapacitate the united states long enough for japan to establish its long-planned southeast asian empire and defensible buffer zones. the american public saw the attack as a treacherous act and rallied against the japanese. four days later, adolf hitler of germany, and benito mussolini of italy declared war on the united states, merging the separate conflicts. the united states entered the european theatre and pacific theater in full force, thereby bringing the united states to world war ii on the side of the allies.
+
+japanese conquests[edit]
+following the attack on pearl harbor, the japanese launched offensives against allied forces in east and southeast asia, with simultaneous attacks in british hong kong, british malaya and the philippines. hong kong surrendered to the japanese on december 25. in malaya the japanese overwhelmed an allied army composed of british, indian, australian and malay forces. the japanese were quickly able to advance down the malayan peninsula, forcing the allied forces to retreat towards singapore. the allies lacked aircover and tanks; the japanese had total air superiority. the sinking of hms prince of wales and hms repulse on december 10, 1941, led to the east coast of malaya being exposed to japanese landings and the elimination of british naval power in the area. by the end of january 1942, the last allied forces crossed the strait of johore and into singapore.
+
+ battle of singapore, february 1942. victorious japanese troops march through the city center. (photo from imperial war museum)
+in the philippines, the japanese pushed the combined filipino-american force towards the bataan peninsula and later the island of corregidor. by january 1942, general douglas macarthur and president manuel l. quezon were forced to flee in the face of japanese advance. this marked among one of the worst defeats suffered by the americans, leaving over 70,000 american and filipino prisoners of war in the custody of the japanese. on february 15, 1942, singapore, due to the overwhelming superiority of japanese forces and encirclement tactics, fell to the japanese, causing the largest surrender of british-led military personnel in history. an estimated 80,000 indian, australian and british troops were taken as prisoners of war, joining 50,000 taken in the japanese invasion of malaya (modern day malaysia). the japanese then seized the key oil production zones of borneo, central java, malang, cebu, sumatra, and dutch new guinea of the late dutch east indies, defeating the dutch forces.[53] however, allied sabotage had made it difficult for the japanese to restore oil production to its pre-war peak.[54] the japanese then consolidated their lines of supply through capturing key islands of the pacific, including guadalcanal.
+
+tide turns[edit]
+ battle of midway. model representing the attack by dive bombers from uss yorktown and uss enterprise on the japanese aircraft carriers soryu, akagi and kaga in the morning of 4 june 1942.
+japanese military strategists were keenly aware of the unfavorable discrepancy between the industrial potential of japan and the united states. because of this they reasoned that japanese success hinged on their ability to extend the strategic advantage gained at pearl harbor with additional rapid strategic victories. the japanese command reasoned that only decisive destruction of the united states' pacific fleet and conquest of its remote outposts would ensure that the japanese empire would not be overwhelmed by america's industrial might.
+
+ group of type 2 ka-mi tanks on board of 2nd class transporter of the imperial japanese navy
+in april 1942, japan was bombed for the first time in the doolittle raid. in may 1942, failure to decisively defeat the allies at the battle of the coral sea, in spite of japanese numerical superiority, equated to a strategic defeat for the japanese. this setback was followed in june 1942 by the catastrophic loss of four fleet carriers at the battle of midway, the first decisive defeat for the imperial japanese navy. it proved to be the turning point of the war as the navy lost its offensive strategic capability and never managed to reconstruct the "'critical mass' of both large numbers of carriers and well-trained air groups".[55] australian land forces defeated japanese marines in new guinea at the battle of milne bay in september 1942, which was the first land defeat suffered by the japanese in the pacific. further victories by the allies at guadalcanal in september 1942, and new guinea in 1943 put the empire of japan on the defensive for the remainder of the war, with guadalcanal in particular sapping their already-limited oil supplies.[54] during 1943 and 1944, allied forces, backed by the industrial might and vast raw material resources of the united states, advanced steadily towards japan. the sixth united states army, led by general macarthur, landed on leyte on october 20, 1944. in the subsequent months, during the philippines campaign (1944–45), the combined united states forces, together with the native guerrilla units, liberated the philippines.
+
+surrender[edit]
+main articles: surrender of japan, potsdam declaration, and victory over japan day
+ the rebuilt battlecruiser haruna sank at her moorings in the naval base of kure on july 24 during a series of bombings.
+by 1944, the allies had seized or bypassed and neutralized many of japan's strategic bases through amphibious landings and bombardment. this, coupled with the losses inflicted by allied submarines on japanese shipping routes began to strangle japan's economy and undermine its ability to supply its army. by early 1945, the u.s. marines had wrested control of the ogasawara islands in several hard-fought battles such as the battle of iwo jima, marking the beginning of the fall of the islands of japan. after securing airfields in saipan and guam in the summer of 1944, the united states army air forces undertook an intense strategic bombing campaign, using incendiary bombs, burning japanese cities in an effort to pulverize japan's industry and shatter its morale. the operation meetinghouse raid on tokyo on the night of march 9–10, 1945, led to the deaths of approximately 100,000 civilians. approximately 350,000–500,000 civilians died in 66 other japanese cities as a result of the incendiary bombing campaign on japan. concurrent to these attacks, japan's vital coastal shipping operations were severely hampered with extensive aerial mining by the u.s.'s operation starvation. regardless, these efforts did not succeed in persuading the japanese military to surrender. in mid-august 1945, the united states dropped nuclear weapons on the japanese cities of hiroshima and nagasaki. these atomic bombings were the first and only used against another nation in warfare. these two bombs killed approximately 120,000 to 140,000 people in a matter of minutes, and as many as a result of nuclear radiation in the following weeks, months and years. the bombs killed as many as 140,000 people in hiroshima and 80,000 in nagasaki by the end of 1945.
+at the yalta agreement, the us, the uk, and the ussr had agreed that the ussr would enter the war on japan within three months of the defeat of germany in europe. this soviet–japanese war led to the fall of japan's manchurian occupation, soviet occupation of south sakhalin island, and a real, imminent threat of soviet invasion of the home islands of japan. this was a significant factor for some internal parties in the japanese decision to surrender to the us[56] and gain some protection, rather than face simultaneous soviet invasion as well as defeat by the us. likewise, the superior numbers of the armies of the soviet union in europe was a factor in the us decision to demonstrate the use of atomic weapons to the ussr,[citation needed] just as the allied victory in europe was evolving into the division of germany and berlin, the division of europe with the iron curtain and the subsequent cold war.
+having ignored (mokusatsu) the potsdam declaration, the empire of japan surrendered and ended world war ii after the atomic bombings of hiroshima and nagasaki, the declaration of war by the soviet union and subsequent invasion of manchuria. in a national radio address on august 15, emperor hirohito announced the surrender to the japanese people by gyokuon-hōsō.
+
+end of the empire of japan[edit]
+occupation of japan[edit]
+main article: occupation of japan
+ a drawing depicting a speech in the imperial japanese diet on 1 november 1945, the end of the second world war. in the foreground there are several allied soldiers watching the proceedings from the back of the balcony.
+a period known as occupied japan followed after the war, largely spearheaded by united states general of the army douglas macarthur to revise the japanese constitution and de-militarize japan. the allied occupation, with economic and political assistance, continued well into the 1950s. allied forces ordered japan to abolish the meiji constitution and enforce the constitution of japan, then rename the empire of japan as japan on may 3, 1947.[6] japan adopted a parliamentary-based political system, while the emperor changed to symbolic status.
+american general of the army douglas macarthur later commended the new japanese government that he helped establish and the new japanese period when he was about to send the american forces to the korean war:
+
+the japanese people, since the war, have undergone the greatest reformation recorded in modern history. with a commendable will, eagerness to learn, and marked capacity to understand, they have, from the ashes left in war's wake, erected in japan an edifice dedicated to the supremacy of individual liberty and personal dignity; and in the ensuing process there has been created a truly representative government committed to the advance of political morality, freedom of economic enterprise, and social justice. politically, economically, and socially japan is now abreast of many free nations of the earth and will not again fail the universal trust. ... i sent all four of our occupation divisions to the korean battlefront without the slightest qualms as to the effect of the resulting power vacuum upon japan. the results fully justified my faith. i know of no nation more serene, orderly, and industrious, nor in which higher hopes can be entertained for future constructive service in the advance of the human race.
+for historian john w. dower:
+
+in retrospect, apart from the military officer corps, the purge of alleged militarists and ultranationalists that was conducted under the occupation had relatively small impact on the long-term composition of men of influence in the public and private sectors. the purge initially brought new blood into the political parties, but this was offset by the return of huge numbers of formerly purged conservative politicians to national as well as local politics in the early 1950s. in the bureaucracy, the purge was negligible from the outset. ... in the economic sector, the purge similarly was only mildly disruptive, affecting less than sixteen hundred individuals spread among some four hundred companies. everywhere one looks, the corridors of power in postwar japan are crowded with men whose talents had already been recognized during the war years, and who found the same talents highly prized in the 'new' japan.[57]
+influential personnel[edit]
+main article: list of japanese government and military commanders of world war ii
+political[edit]
+in the administration of japan dominated by the military political movement during world war ii, the civil central government was under the management of military men and their right-wing civilian allies, along with members of the nobility and imperial family. the emperor was in the center of this power structure as supreme commander-in-chief of the imperial armed forces and head of state.
+early period
+
+prince yamagata aritomo
+prince itō hirobumi
+world war ii
+
+prince fumimaro konoe
+kōki hirota
+hideki tojo
+diplomats[edit]
+early period
+
+marquess komura jutarō
+count mutsu munemitsu
+count hayashi tadasu
+count kaneko kentarō
+viscount aoki shūzō
+viscount torii tadafumi
+world war ii
+
+baron hiroshi ōshima
+military[edit]
+ from left to right: marshal admiral of the navy heihachirō tōgō (1848–1934), marshal general of the army oku yasukata (1847–1930), marshal admiral of the navy yoshika inoue (1845–1929), marshal general of the army kageaki kawamura (1850–1926), at the unveiling ceremony of bronze statue of marshal general of the army iwao ōyama
+the military of imperial japan was divided into two main branches: the imperial japanese navy and the imperial japanese army. to coordinate operations, the imperial general headquarters, headed by the emperor, was established in 1893. prominent generals and leaders:
+
+imperial japanese navy: navy of the empire of japan
+admiral count itō sukeyuki (1843–1914)
+admiral viscount inoue yoshika (1845–1929)
+admiral marquess tōgō heihachirō (1847–1934), battle of tsushima
+admiral prince arisugawa takahito (1862–1913)
+admiral baron ijuin gorō (1852–1921)
+admiral prince higashifushimi yorihito (1867–1922)
+admiral baron shimamura hayao (1858–1923)
+admiral baron katō tomosaburō (1861–1923)
+admiral prince fushimi hiroyasu (1876–1946)
+admiral isoroku yamamoto (1884–1943), attack on pearl harbor, battle of midway
+admiral osami nagano (1880–1947)
+admiral mineichi koga (1885–1944)
+vice admiral chūichi nagumo (1887–1944), attack on pearl harbor, battle of midway[58]
+imperial japanese army: army of the empire of japan
+marshal prince yamagata aritomo: chief of staff of the army, prime minister of japan
+marshal prince ōyama iwao: chief of staff of the army
+marshal prince komatsu akihito: chief of staff of the army
+marshal prince kotohito kan'in: chief of staff of the army
+marshal hajime sugiyama: chief of staff of the army
+general viscount kodama gentarō: chief of staff of the army
+general hideki tōjō: prime minister of japan
+general yoshijirō umezu: chief of staff of the army
+lieutenant general ōshima ken'ichi: chief of staff of the army, minister of war during world war i
+notable scholars/scientists[edit]
+ baron aoyama tanemichi, a medical scientist and doctor in the meiji period
+ kiyoo wadati, a seismologist and laureate of the imperial prize of the japan academy (1932)
+ matsusaburō fujiwara, a mathematician and historian of mathematics
+19th century[edit]
+anthropologists, ethnologists, archaeologists, historians
+
+ōtsuki fumihiko (1847-1928)
+yusuke hashiba (1851-1921)
+koganei yoshikiyo (1859-1944)
+naitō torajirō (1866-1934)
+inō kanori (1867-1925)
+torii ryūzō (1870–1953)
+kunio yanagita (1875-1962)
+ushinosuke mori (1877-1926)
+ryūsaku tsunoda (1877-1964)
+kōsaku hamada (1881-1938)
+tetsuji morohashi (1883-1982)
+tsuruko haraguchi (1886-1915)
+shinobu orikuchi (1887-1953)
+zenchū nakahara (1890-1964)
+ kyōsuke kindaichi
+naitō torajirō
+masaharu anesaki
+
+medical scientists, biologists, evolutionary theorists, geneticists
+
+keisuke ito (1803-1901)
+kusumoto ine (1827-1903)
+nagayo sensai (1838-1902)
+tanaka yoshio (1838-1916)
+nagai nagayoshi (1844-1929)
+takaki kanehiro (1849-1920)
+kitasato shibasaburō (1853-1931)
+ hirase sakugorō (1856-1925)
+jinzō matsumura (1856-1928)
+juntaro takahashi (1856-1920)
+aoyama tanemichi (1859-1917)
+yoichirō hirase (1859-1925)
+ishikawa chiyomatsu (1861-1935)
+tomitaro makino (1862-1957)
+yamagiwa katsusaburō (1863-1930)
+ yu fujikawa (1865-1940)
+fujiro katsurada (1867-1946)
+kamakichi kishinouye (1867-1929)
+yasuyoshi shirasawa (1868-1947)
+takuji iwasaki (1869-1937)
+kiyoshi shiga (1871-1957)
+heijiro nakayama (1871-1956)
+ sunao tawara (1873-1952)
+bunzō hayata (1874-1934)
+ ryukichi inada (1874-1950)
+kensuke mitsuda (1876-1964)
+ hideyo noguchi (1876-1928)
+fukushi masaichi (1878-1956)
+ takaoki sasaki (1878–1966)
+ gennosuke fuse (1880-1946)
+kono yasui (1880-1971)
+hakaru hashimoto (1881-1934)
+ichiro miyake (1881-1964)
+kunihiko hashida (1882-1945)
+takenoshin nakai (1882-1952)
+kyusaku ogino (1882-1975)
+gen-ichi koidzumi (1883-1953)
+makoto nishimura (1883-1956)
+shintarō hirase (1884-1939)
+tamezo mori (1884–1962)
+kanesuke hara (1885–1962)
+chōzaburō tanaka (1885-1976)
+michiyo tsujimura (1888-1969)
+yaichirō okada (1892-1976)
+ikuro takahashi (1892–1981)
+ hitoshi kihara (1893-1986)
+satyu yamaguti (1894-1976)
+kinichiro sakaguchi (1897-1994)
+minoru shirota (1899-1982)
+genkei masamune (1899–1993)
+
+inventors, industrialists, engineers
+
+tanaka hisashige (1799-1881)
+ōshima takatō (1826-1901)
+yamao yōzō (1837-1917)
+sasō sachū (1852-1905)
+furuichi kōi (1854-1934)
+hirai seijirō (1856-1926)
+mikimoto kōkichi (1858-1954)
+kotaro shimomura (1861-1937)
+chūhachi ninomiya (1866-1936)
+sakichi toyoda (1867-1930)
+namihei odaira (1874-1951)
+jujiro matsuda (1875-1952)
+ryōichi yazu (1878-1908)
+yoshisuke aikawa (1880-1967)
+miekichi suzuki (1882-1936)
+chikuhei nakajima (1884-1949)
+ yasujiro niwa (1893-1975)
+kōnosuke matsushita (1894-1989)
+ kinjiro okabe (1896-1984)
+toshiwo doko (1896-1988)
+masatoshi ōkōchi
+michio suzuki
+hidetsugu yagi
+tokuji hayakawa
+yasujiro niwa
+kenjiro takayanagi
+
+philosophers, educators, mathematicians, polymaths
+
+inoue enryō
+teiji takagi
+kikuchi dairoku
+nishimura shigeki
+rikitaro fujisawa
+hōjō tokiyuki
+mitsutaro shirai
+kintarô okamura
+nishi amane
+nitobe inazō
+paul tsuchihashi
+matsusaburo fujiwara
+yoshishige abe
+ sōichi kakeya
+tsuruichi hayashi
+yoshio mikami
+
+chemists, physicists, geologists
+
+umetaro suzuki
+masataka ogawa
+akira ogata
+hantaro nagaoka
+jokichi takamine
+tanakadate aikitsu
+yamakawa kenjirō
+akitsune imamura
+fusakichi omori
+sekiya seikei
+masuzo shikata
+yoshio nishina
+ jun ishiwara
+kikunae ikeda
+keiichi aichi
+kotaro honda
+ hisashi kimura
+kiyotsugu hirayama
+shin hirayama
+okuro oikawa
+harutaro murakami
+shinzo shinjo
+ tokushichi mishima
+ torahiko terada
+satoyasu iimori
+ ozawa yoshiaki
+ hakaru masumoto
+ yasuhiko asahina
+ suekichi kinoshita
+
+20th century[edit]
+
+yoji ito
+satosi watanabe
+seiji naruse
+takeo doi
+tatsuo hasegawa
+kiro honjo
+jiro horikoshi
+hideo itokawa
+soichiro honda
+yanosuke hirai
+katsuji miyazaki
+shinroku momose
+ryoichi nakagawa
+jiro tanaka
+noriaki fukuyama
+eizaburo nishibori
+shin'ichirō tomonaga
+kiyoo wadati
+shokichi iyanaga
+hideki yukawa
+takeo hatanaka
+kazuo kubokawa
+tomizo yoshida
+kiyosi itô
+shoichi sakata
+yutaka taniyama
+kôdi husimi
+seishi kikuchi
+taketani mitsuo
+takahiko yamanouchi
+shigeyoshi matsumae
+shigeo shingo
+nobuchika sugimura
+jisaburo ohwi
+yo takenaka
+sanshi imai
+kikutaro baba
+katsuzo kuronuma
+yasunori miyoshi
+katsuma dan
+hiroshi nakamura
+ukichiro nakaya
+yusuke hagihara
+isao imai
+shintaro uda
+kinjiro okabe
+ozawa yoshiaki
+issaku koga
+yuzuru hiraga
+jiro horikoshi
+yoshiro okabe
+motonori matuyama
+masauji hachisuka
+tokubei kuroda
+hikosaka tadayoshi
+bunsaku arakatsu
+shinji maejima
+takahito, prince mikasa
+toshihiko izutsu
+kawachi yoshihiro
+katsutada sezawa
+katsura kotaro
+
+timeline[edit]
+1926: emperor taishō dies (december 25).
+1927: tanaka giichi becomes prime minister (april 20).
+1928: emperor shōwa is formally installed as emperor (november 10).
+1929: osachi hamaguchi becomes prime minister (july 2).
+1930: hamaguchi is wounded in an assassination attempt (november 14).
+1931: hamaguchi dies and wakatsuki reijirō becomes prime minister (april 14). japan occupies manchuria after the mukden incident (september 18). inukai tsuyoshi becomes prime minister (december 13) and increases funding for the military in china.
+1932: after an attack on japanese monks in shanghai (january 18), japanese forces shell the city (january 29). manchukuo is established with henry pu yi as emperor (february 29). inukai is assassinated during a coup attempt and saitō makoto becomes prime minister (may 15). japan is censured by the league of nations (december 7).
+1933: japan leaves the league of nations (march 27).
+1934: keisuke okada becomes prime minister (july 8). japan withdraws from the washington naval treaty (december 29).
+1936: coup attempt (february 26 incident). kōki hirota becomes prime minister (march 9). japan signs its first pact with germany (november 25) and occupies tsingtao (december 3). mengjiang established in inner mongolia.
+1937: senjūrō hayashi becomes prime minister (february 2). prince fumimaro konoe becomes prime minister (june 4). battle of lugou bridge (july 7). japan captures beijing (july 31). japanese troops occupy nanjing (december 13), beginning the nanjing massacre.
+1938: battle of taierzhuang (march 24). canton falls to japanese forces (october 21).
+1939: hiranuma kiichirō becomes prime minister (january 5). abe nobuyuki becomes prime minister (august 30).
+1940: mitsumasa yonai becomes prime minister (january 16). konoe becomes prime minister for a second term (july 22). hundred regiments offensive (august–september). japan occupies french indochina in the wake of the fall of paris, and signs the tripartite pact (september 27).
+1941: general hideki tōjō becomes prime minister (october 18). japanese naval forces attack pearl harbor, hawaii (december 7), prompting the united states to declare war on japan (december 8). japan conquers hong kong (december 25).
+1942: battle of ambon (january 30 – february 3). battle of palembang (february 13–15). singapore surrenders to japan (february 15). japan bombs australia (february 19). indian ocean raid (march 31 – april 10). doolittle raid on tokyo (april 18). battle of the coral sea (may 4–8). u.s. and filipino forces in the battle of the philippines (1942) surrender (may 8). allied victory at the battle of midway (june 6). allied victory in the battle of milne bay (september 5). battle of the santa cruz islands (october 25–27).
+1943: allied victory in the battle of guadalcanal (february 9). allied victory at the battle of tarawa (november 23).
+1944: tojo resigns and kuniaki koiso becomes prime minister (july 22). battle of leyte gulf (october 23–26).
+1945: u.s. bombers begin firebombing of major japanese cities. allied victory at the battle of iwo jima (march 26). admiral kantarō suzuki becomes prime minister (april 7). allied victory at the battle of okinawa (june 21). u.s. drops atomic bombs on hiroshima (august 6) and nagasaki (august 9), the soviet union and mongolia invade japanese colonies of manchukuo, mengjiang (inner mongolia), northern korea, south sakhalin and the kuril islands (august 9–september 2). japan surrenders (september 2): allied occupation begins.
+1947: the constitution of japan comes into force.[6]
+emperors[edit]
+
+
+posthumous name1
+
+given name2
+
+childhood name3
+
+period of reign
+
+era name4
+
+
+meiji tennō(明治天皇)
+
+mutsuhito(睦仁)
+
+sachi-no-miya(祐宮)
+
+1868–1912(1890–1912)5
+
+meiji
+
+
+taishō tennō(大正天皇)
+
+yoshihito(嘉仁)
+
+haru-no-miya(明宮)
+
+1912–26
+
+taishō
+
+
+shōwa tennō(昭和天皇)
+
+hirohito(裕仁)
+
+michi-no-miya(迪宮)
+
+1926–896
+
+shōwa
+
+
+1 each posthumous name was given after the respective era names as ming and qing dynasties of china.
+
+
+2 the japanese imperial family name has no surname or dynastic name.
+
+
+3 the meiji emperor was known only by the appellation sachi-no-miya from his birth until november 11, 1860, when he was proclaimed heir apparent to emperor kōmei and received the personal name mutsuhito.
+
+
+4 no multiple era names were given for each reign after emperor meiji.
+
+
+5 constitutionally
+
+
+6 constitutionally. the reign of the shōwa emperor in fact continued until 1989 since he did not abdicate after world war ii. however, he lost his status as a living god and autocratic power after the 1947 constitution was adopted.
+
+see also[edit]
+
+empire of japan portal
+japan portal
+agriculture in the empire of japan
+demography of the empire of japan
+foreign commerce and shipping of empire of japan
+industrial production in shōwa japan
+germany–japan industrial co-operation before world war ii
+japanese mining and energy resources (world war ii)
+japanese nuclear weapon program
+list of territories occupied by imperial japan
+notes[edit]
+
+
+^ although the empire of japan officially had no state religion,[2][3] shinto played an important part for the japanese state: as marius jansen, states: "the meiji government had from the first incorporated, and in a sense created, shinto, and utilized its tales of the divine origin of the ruling house as the core of its ritual addressed to ancestors "of ages past." as the japanese empire grew the affirmation of a divine mission for the japanese race was emphasized more strongly. shinto was imposed on colonial lands in taiwan and korea, and public funds were utilized to build and maintain new shrines there. shinto priests were attached to army units as chaplains, and the cult of war dead, enshrined at the yasukuni jinja in tokyo, took on ever greater proportions as their number grew."[4]
+
+^ "during the second half of the nineteenth century, japan's nation-builders forged the meiji nation-state out of an older, heterogeneous tokugawa realm, integrating semi-autonomous domain states into a unified political community."[13] "rather than restore an ancient (and probably imaginary) center-periphery order, the meiji restoration hastened the creation of a new and unambiguously centralized and modern nation-state. within a few decades of the official beginning of the nation-building project, tokyo had become the political and economic capital of a state that replaced semi-autonomous domains with newly created prefectures subordinate to central laws and centrally appointed administrators."[14]
+
+
+references[edit]
+citations[edit]
+
+
+^ schellinger and salkin, ed. (1996). "kyoto". international dictionary of historic places: asia and oceania. uk: routledge. p. 515+. isbn 9781884964046..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ josephson, jason ānanda (2012). the invention of religion in japan. university of chicago press. p. 133. isbn 0226412342.
+
+^ thomas, jolyon baraka (2014). japan's preoccupation with religious freedom (ph.d.). princeton university. p. 76.
+
+^ jansen 2002, p. 669.
+
+^ hunter 1984, pp. 31-32.
+
+^ a b c d e f "chronological table 5 1 december 1946 - 23 june 1947". national diet library. retrieved september 30, 2010.
+
+^ emperor meiji started reigning in 1867, after the death of emperor kōmei and near the collapse of tokugawa shogunate.
+
+^ emperor shōwa reigned until his death in 1989.
+
+^ one can date the "restoration" of imperial rule from the edict of january 3, 1868. jansen, p.334.
+
+^ harrison, mark (2000). the economics of world war ii: six great powers in international comparison. cambridge university press. p. 3. isbn 9780521785037. retrieved 2 october 2016.
+
+^ a b taeuber, irene b.; beal, edwin g. (january 1945). "the demographic heritage of the japanese empire". annals of the american academy of political and social science. sage publications. 237: 65. jstor 1025496. (subscription required (help)).
+
+^ a b shillony, ben-ami (2013). ben-ami shillony - collected writings. routledge. p. 83. isbn 1134252307.
+
+^ tsutsui 2009, p. 234.
+
+^ tsutsui 2009, p. 433.
+
+^ townsend, susan (july 17, 2018). "japan's quest for empire 1931 - 1945". bbc.
+
+^ hagiwara, p. 34.
+
+^ jansen 2002, pp. 314–315.
+
+^ hagiwara, p. 35.
+
+^ satow, p. 282.
+
+^ keene 2002, p. 116.
+
+^ jansen 2002, pp. 310–311.
+
+^ keene, pp. 120–121, and satow, p. 283. moreover, satow (p. 285) speculates that yoshinobu had agreed to an assembly of daimyōs in the hope that such a body would reinstate him.
+
+^ satow, p. 286.
+
+^ during a recess, saigō, who had his troops outside, "remarked that it would take only one short sword to settle the discussion" (keene, p. 122). original quotation (japanese): "短刀一本あればかたづくことだ." in hagiwara, p. 42. the word used for "dagger" was tantō.
+
+^ keene 2002, p. 124.
+
+^ a b jansen 2002, p. 312.
+
+^ keene, p. 340, notes that one might "describe the oath in five articles as a constitution for all ages".
+
+^ "明治8年（1875）4月｜漸次立憲政体樹立の詔が発せられ、元老院・大審院が設置される：日本のあゆみ".
+
+^ the secret of japan's strength www.calvin.edu
+
+^ equal-to-the-apostles st. nicholas of japan, russian orthodox cathedral of saint john the baptist web-site, washington d.c.
+
+^ "日本の正教会の歴史と現代 "history of japanese orthodox charch and now"" (in japanese). the orthodox church in japan. 2007-02-01. retrieved 2007-08-25.
+
+^ orthodox translation of gospel into japanese, pravostok orthodox portal, october 2006
+
+^ "1889 japanese constitution".
+
+^ http://www.ggdc.nl/databases/hna/2009/data/hna_jpn_09.xls
+
+^ seth, michael j (2010). a history of korea: from antiquity to the present. rowman & littlefield publishers. p. 225. isbn 978-0-7425-6716-0.
+
+^ grant mclachlan (11 november 2012). sparrow, a chronicle of defiance: the story of the sparrows. klaut. p. 571. isbn 978-0-473-22623-7.
+
+^ a b ion 2014, p. 44.
+
+^ drea 2009, p. 97.
+
+^ a b c d e f g h i j k drea 2009, p. 98.
+
+^ a b c drea 2009, p. 99.
+
+^ duus, peter (1995). the abacus and the sword: the japanese penetration of korea, 1895–1910. berkeley: university of california press. isbn 978-0520213616.
+
+^ a b a reckless adventure in taiwan amid meiji restoration turmoil, the asahi shimbun, retrieved on july 22, 2007.
+
+^ "question 1917年（大正6年）のロシア革命時に、シベリアに在留していたポーランド孤児を日本政府が救済したことについて調べています。". ministry of foreign affairs of japan. retrieved october 3, 2010.
+
+^ "polish orphans". tsuruga city. archived from the original on november 12, 2010. retrieved october  3, 2010.
+
+^ hane, mikiso, modern japan: a historical survey (oxford: westview press, 1992) 234.
+
+^ a b "第150回国会　政治倫理の確立及び公職選挙法改正に関する特別委員会 第12号　平成12年11月16日（木曜日）". house of representatives of japan. november 16, 2000. archived from the original on september 28, 2011. retrieved october 10, 2009.
+
+^ "戦間期台湾地方選挙に関する考察". 古市利雄. 台湾研究フォーラム 【台湾研究論壇】. archived from the original on april 11, 2008. retrieved october 10, 2009.
+
+^ herbert bix, hirohito and the making of modern japan, 2001, p. 284
+
+^ kevin mcdowell. japan in manchuria: agricultural emigration in the japanese empire, 1932-1945. university of arizona
+
+^ "the unquiet past seven decades on from the defeat of japan, memories of war still divide east asia". the economist. 12 august 2015. retrieved 2016-11-26.
+
+^ "question 戦前の日本における対ユダヤ人政策の基本をなしたと言われる「ユダヤ人対策要綱」に関する史料はありますか。また、同要綱に関する説明文はありますか。". ministry of foreign affairs of japan. retrieved october 2, 2010.
+
+^ "猶太人対策要綱". five ministers council. japan center for asian historical record. december  6, 1938. p. 36/42. archived from the original on july 26, 2011. retrieved october  2, 2010.
+
+^ l, klemen (1999–2000). "forgotten campaign: the dutch east indies campaign 1941–1942". archived from the original on july 26, 2011.
+
+^ a b "oil and japanese strategy in the solomons: a postulate". www.combinedfleet.com.
+
+^ "battle of midway - nihon kaigun". combinedfleet.com.
+
+^ racing the enemy: stalin, truman, and the surrender of japan tsuyoshi hasegawa belknap press (oct. 30 2006) isbn 978-0674022416
+
+^ j. w. dower, japan in war & peace, new press, 1993, p. 11
+
+^ l, klemen (1999–2000). "vice-admiral chuichi nagumo". forgotten campaign: the dutch east indies campaign 1941–1942. archived from the original on june 30, 2012.
+
+
+sources[edit]
+.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}
+benesch, oleg. "castles and the militarisation of urban society in imperial japan," transactions of the royal historical society, vol. 28 (dec. 2018), pp. 107-134.
+jansen, marius; john whitney hall; madoka kanai; denis twitchett (1989). the cambridge history of japan. cambridge: cambridge university press. isbn 0-521-22352-0.
+jansen, marius b. (2002). the making of modern japan. cambridge, mass: harvard university press. isbn 0-674-00334-9. oclc 44090600
+jansen, marius b. (1995). the emergence of meiji japan. cambridge university press. isbn 0-5214-8405-7.
+hunter, janet (1984). concise dictionary of modern japanese history. university of california press. isbn 0-5200-4557-2.
+keene, donald (2002). emperor of japan: meiji and his world, 1852–1912. new york: columbia university press. isbn 0-231-12341-8. oclc 46731178
+klemen, l. (1999–2000). "forgotten campaign: the dutch east indies campaign 1941–1942". archived from the original on july 26, 2011.
+takemae, eiji (2003). the allied occupation of japan. continuum press. isbn 0-82641-521-0.
+tsutsui, william m. (2009). a companion to japanese history. john wiley & sons. isbn 1-405-19339-5.
+porter, robert p. (1918). japan: the rise of a modern power. oxford. isbn 0-665-98994-6.
+satow, ernest mason (1921). a diplomat in japan. london. isbn 4-925080-28-8.
+hotta, eri (2013). japan 1941: countdown to infamy. new york. isbn 978-0307739742.
+
+external links[edit]
+ media related to empire of japan at wikimedia commons
+
+
+preceded byedo period1603−1868
+
+ history of japanempire of japan1868−1947
+
+succeeded bypost-war japan1945−presentoccupation of japan1945−1952
+
+
+vte empire of japanoverview
+agriculture
+censorship
+demographics
+economy
+economic history
+education
+eugenics
+foreign commerce and shipping
+industrial production
+militarism
+nationalism
+statism
+internal politics
+state shinto
+kazoku
+emperors
+meiji (mutsuhito)
+taishō (yoshihito)
+shōwa (hirohito)
+symbols
+flag of japan
+rising sun flag
+imperial seal of japan
+government seal of japan
+state seal of japan
+privy seal of japan
+kimigayo
+policies
+constitution
+charter oath
+foreign relations
+imperial rescript on education
+imperial rule assistance association
+kokutai
+mokusatsu
+national spiritual mobilization movement
+peace preservation law
+political parties
+supreme court of judicature
+tokkō
+tonarigumi
+greater east asia conference
+governmentadministration (ministries)
+imperial household
+home ministry
+war
+army
+navy
+treasury
+foreign affairs
+agriculture and commerce
+commerce and industry
+munitions
+colonial affairs
+greater east asia
+east asia development board (kōain)
+legislative & deliberative bodies
+daijō-kan
+privy council
+gozen kaigi
+imperial diet
+peers
+representatives
+militaryarmed forces
+imperial general headquarters
+imperial japanese army general staff office
+imperial japanese navy general staff
+imperial rescript to soldiers and sailors
+senjinkun military code
+nuclear weapons program
+kamikaze
+war crimes
+supreme war council
+imperial japanese army
+general staff
+air service
+railways and shipping
+imperial guard
+imperial way faction (kōdōha)
+japanese holdout
+tōseiha
+kenpeitai
+imperial japanese navy
+general staff
+air service
+land forces
+fleet faction
+treaty faction
+historymeiji period
+meiji restoration
+boshin war
+satsuma rebellion
+first sino-japanese war
+triple intervention
+boxer rebellion
+anglo-japanese alliance
+russo-japanese war
+taishō period
+world war i
+siberian intervention
+general election law
+washington naval treaty
+shōwa period
+shōwa financial crisis
+jinan incident
+london naval treaty
+pacification of manchukuo
+january 28 incident
+anti-comintern pact
+second sino-japanese war
+soviet–japanese border conflicts
+tripartite pact
+soviet–japanese neutrality pact
+pacific war
+atomic bombings of hiroshima and nagasaki
+soviet–japanese war
+surrender (potsdam declaration, jewel voice broadcast)
+occupation
+territoriesgreater east asiaco-prosperity sphere
+karafuto
+korea
+kwantung
+manchukuo
+south pacific
+taiwan
+occupied territories
+borneo
+burma
+french indochina
+dutch east indies
+hong kong
+malaya
+philippines
+singapore
+thailand
+other topics
+sonnō jōi
+fukoku kyōhei
+hakkō ichiu
+internment camps
+german pre–world war ii industrial co-operation
+racial equality proposal
+shinmin no michi
+shōwa modan
+socialist thought
+yasukuni shrine
+international military tribunal for the far east
+japanese dissidence during the early shōwa period
+
+vteworld war i
+home fronts
+theatreseuropean
+balkans
+western front
+eastern front
+italian front
+middle eastern
+gallipoli
+sinai and palestine
+caucasus
+persia
+mesopotamia
+south arabia
+african
+south west
+east
+kamerun
+togoland
+north
+asian and pacific
+tsingtao
+german new guinea and samoa
+at sea
+north atlantic u-boat campaign
+mediterranean
+north sea
+baltic
+indian, pacific and south atlantic oceans
+papeete
+madras
+penang
+cocos
+coronel
+falkland islands
+más a tierra
+principalparticipantsentente powers
+belgium
+brazil
+china
+france
+french empire
+greece
+italy
+japan
+montenegro
+portuguese empire
+romania
+russia
+russian empire
+russian republic
+serbia
+united kingdom
+british empire
+united states
+central powers
+germany
+austria-hungary
+ottoman empire
+bulgaria
+timelinepre-war conflicts
+scramble for africa (1880–1914)
+russo-japanese war (1905)
+first moroccan (tangier) crisis (1905–06)
+agadir crisis (1911)
+italo-turkish war (1911–12)
+french conquest of morocco (1911–12)
+first balkan war (1912–13)
+second balkan war (1913)
+prelude
+origins
+sarajevo assassination
+anti-serb riots in sarajevo
+july crisis
+autumn 1914
+battle of the frontiers
+battle of cer
+first battle of the marne
+siege of tsingtao
+battle of tannenberg
+battle of galicia
+battle of the masurian lakes
+battle of kolubara
+battle of sarikamish
+race to the sea
+first battle of ypres
+1915
+second battle of the masurian lakes
+second battle of ypres
+battle of gallipoli
+second battle of artois
+battles of the isonzo
+gorlice–tarnów offensive
+great retreat
+second battle of champagne
+kosovo offensive
+siege of kut
+battle of loos
+1916
+erzurum offensive
+battle of verdun
+lake naroch offensive
+battle of asiago
+battle of jutland
+battle of the somme
+first day
+brusilov offensive
+baranovichi offensive
+battle of romani
+monastir offensive
+battle of transylvania
+1917
+capture of baghdad
+first battle of gaza
+zimmermann telegram
+second battle of arras
+second battle of the aisne
+kerensky offensive
+third battle of ypres (passchendaele)
+battle of mărășești
+battle of caporetto
+first battle of monte grappa
+southern palestine offensive
+battle of cambrai
+armistice of erzincan
+1918
+operation faustschlag
+treaty of brest-litovsk
+spring offensive
+battle of goychay
+battle of aghsu
+second battle of the piave river
+second battle of the marne
+battle of baku
+hundred days offensive
+vardar offensive
+battle of megiddo
+third transjordan attack
+meuse-argonne offensive
+battle of vittorio veneto
+battle of aleppo
+armistice of salonica
+armistice of mudros
+armistice of villa giusti
+armistice with germany
+other conflicts
+mexican revolution (1910–20)
+somaliland campaign (1910–20)
+libyan resistance movement (1911–43)
+maritz rebellion (1914–15)
+zaian war (1914–21)
+indo-german conspiracy (1914–19)
+senussi campaign (1915–16)
+volta-bani war (1915–17)
+easter rising (1916)
+anglo-egyptian darfur expedition (1916)
+kaocen revolt (1916–17)
+central asian revolt (1916-17)
+russian revolution (1917)
+finnish civil war (1918)
+post-war conflicts
+russian civil war (1917–21)
+ukrainian–soviet war (1917–21)
+armenian–azerbaijani war (1918–20)
+georgian–armenian war (1918)
+german revolution (1918–19)
+revolutions and interventions in hungary (1918–20)
+hungarian–romanian war (1918–19)
+greater poland uprising (1918–19)
+estonian war of independence (1918–20)
+latvian war of independence (1918–20)
+lithuanian wars of independence (1918–20)
+third anglo-afghan war (1919)
+egyptian revolution (1919)
+polish–ukrainian war (1918–19)
+polish–soviet war (1919–21)
+irish war of independence (1919–21)
+turkish war of independence
+greco-turkish war (1919–22)
+turkish–armenian war (1920)
+iraqi revolt (1920)
+polish–lithuanian war (1920)
+vlora war (1920)
+franco-syrian war (1920)
+soviet–georgian war (1921)
+irish civil war (1922–23)
+aspectsopposition
+pacifism
+anti-war movement
+deployment
+schlieffen plan (german)
+plan xvii (french)
+warfare
+military engagements
+naval warfare
+convoy system
+air warfare
+cryptography
+room 40
+horse use
+poison gas
+railways
+strategic bombing
+technology
+trench warfare
+total war
+christmas truce
+last surviving veterans
+civilian impactatrocitiesprisoners
+casualties
+economic history
+1918 flu pandemic
+destruction of kalisz
+rape of belgium
+german occupation of belgium
+german occupation of luxembourg
+german occupation of northeastern france
+ober ost
+ottoman people
+armenian genocide
+assyrian genocide
+pontic greek genocide
+urkun (kyrgyzstan)
+blockade of germany
+women
+australia
+popular culture
+german prisoners of war in the united states
+agreements
+partition of the ottoman empire
+sykes–picot agreement
+agreement of saint-jean-de-maurienne
+french-armenian agreement
+damascus protocol
+paris peace conference
+venizelos–tittoni agreement
+treaties
+treaty of brest-litovsk
+treaty of lausanne
+treaty of london
+treaty of neuilly
+treaty of st. germain
+treaty of sèvres
+treaty of trianon
+treaty of versailles
+consequences
+aftermath
+"fourteen points"
+league of nations
+world war i memorials
+in popular culture
+centenary
+outbreak
+
+category
+portal
+
+vteworld war ii
+asia and the pacific
+china
+south-east asia
+north and central pacific
+south-west pacific
+europe
+western
+eastern
+mediterranean and middle east
+north africa
+east africa
+italy
+west africa
+atlantic
+north america
+south america
+casualties
+military engagements
+conferences
+commanders
+participantsallies.mw-parser-output .nobold{font-weight:normal}(leaders)
+australia
+belgium
+brazil
+canada
+china
+cuba
+czechoslovakia
+denmark
+ethiopia
+france
+free france (from june 1940)
+greece
+india
+italy (from september 1943)
+luxembourg
+mexico
+netherlands
+new zealand
+norway
+philippines (commonwealth)
+poland
+south africa
+southern rhodesia
+soviet union
+tuva
+united kingdom
+united states
+puerto rico
+yugoslavia
+axis andaxis-aligned(leaders)
+albania
+bulgaria
+reorganized national government of the republic of china
+independent state of croatia
+finland
+germany
+hungary
+free india
+iraq
+italy (until september 1943)
+italian social republic
+japan
+manchukuo
+philippines (second republic)
+romania
+slovakia
+thailand
+vichy france
+armed neutrality
+resistance
+albania
+austria
+belgium
+bulgaria
+czech lands
+denmark
+estonia
+ethiopia
+france
+germany
+greece
+hong kong
+italy
+japan
+jewish
+korea
+latvia
+lithuania
+luxembourg
+malaya
+netherlands
+northeast china
+norway
+philippines
+poland
+anti-communist
+romania
+thailand
+soviet union
+slovakia
+western ukraine
+vietnam
+yugoslavia
+monarchists
+timelineprelude
+africa
+asia
+europe
+1939
+poland
+phoney war
+winter war
+atlantic
+changsha
+china
+1940
+weserübung
+netherlands
+belgium
+france
+armistice of 22 june 1940
+britain
+north africa
+west africa
+british somaliland
+north china
+baltic states
+moldova
+indochina
+greece
+compass
+1941
+east africa
+yugoslavia
+shanggao
+greece
+crete
+iraq
+soviet union (barbarossa)
+finland
+lithuania
+syria and lebanon
+kiev
+iran
+leningrad
+gorky
+moscow
+sevastopol
+pearl harbor
+the outbreak of the pacific war
+hong kong
+philippines
+changsha
+malaya
+borneo (1941–42)
+1942
+burma
+changsha
+java sea
+coral sea
+gazala
+dutch harbor
+ attu (occupation)
+kiska
+zhejiang-jiangxi
+midway
+rzhev
+blue
+stalingrad
+singapore
+dieppe
+el alamein
+guadalcanal
+torch
+1943
+tunisia
+kursk
+smolensk
+gorky
+solomon islands
+ attu
+sicily
+ cottage
+lower dnieper
+italy
+armistice of cassibile
+gilbert and marshall islands
+ burma
+ northern burma and western yunnan
+changde
+1944
+monte cassino / shingle
+narva
+korsun–cherkassy
+tempest
+ichi-go
+overlord (battle of normandy - d-day)
+neptune
+normandy
+mariana and palau
+bagration
+western ukraine
+tannenberg line
+warsaw
+eastern romania
+belgrade
+paris
+dragoon
+gothic line
+market garden
+estonia
+crossbow
+pointblank
+lapland
+hungary
+leyte
+ardennes
+bodenplatte
+philippines (1944–1945)
+burma (1944–45)
+1945
+vistula–oder
+iwo jima
+western invasion of germany
+okinawa
+italy (spring 1945)
+borneo
+syrmian front
+berlin
+czechoslovakia
+budapest
+west hunan
+guangxi
+surrender of germany
+project hula
+manchuria
+manila
+borneo
+taipei
+atomic bombings
+debate
+kuril islands
+shumshu
+surrender of japan
+end of world war ii in asia
+aspectsgeneralfamines
+bengal famine of 1943
+chinese famine of 1942–43
+greek famine of 1941-1944
+dutch famine of 1944–45
+vietnamese famine of 1945
+
+air warfare of world war ii
+blitzkrieg
+comparative military ranks
+cryptography
+diplomacy
+home front
+united states
+australian
+united kingdom
+lend-lease
+manhattan project
+military awards
+military equipment
+military production
+nazi plunder
+opposition
+technology
+allied cooperation
+total war
+strategic bombing
+puppet states
+women
+art and world war ii
+aftermath
+expulsion of germans
+operation paperclip
+operation osoaviakhim
+operation keelhaul
+occupation of germany
+territorial changes of germany
+soviet occupations
+romania
+poland
+hungary
+baltic states
+occupation of japan
+first indochina war
+indonesian national revolution
+cold war
+decolonization
+treaty on the final settlement with respect to germany
+popular culture
+war crimes
+allied war crimes
+soviet war crimes
+british war crimes
+united states war crimes
+german (forced labour) / wehrmacht war crimes
+holocaust
+aftermath
+response
+prosecution
+italian war crimes
+japanese war crimes
+unit 731
+prosecution
+croatian war crimes
+against the serbs
+against the jews
+romanian war crimes
+wartimesexual violence
+german military brothels
+camp brothels
+rape during the occupation of japan
+sook ching
+comfort women
+rape of nanking
+rape of manila
+rape during the occupation of germany
+rape during the liberation of france
+rape during the soviet occupation of poland
+prisoners
+finnish prisoners of war in the soviet union
+german prisoners of war in the soviet union
+german prisoners of war in the united states
+italian prisoners of war in the soviet union
+japanese prisoners of war in the soviet union
+japanese prisoners of war in world war ii
+german mistreatment of soviet prisoners of war
+polish prisoners of war in the soviet union
+romanian prisoners of war in the soviet union
+soviet prisoners of war in finland
+
+bibliography
+category
+portal
+
+vteformer external territories (gaichi) of japankarafuto prefecture
+karafuto minseisho
+koreagovernor-general
+keikidō
+kōgendō
+chūsei-hokudō
+chūsei-nandō
+zenra-hokudō
+zenra-nandō
+keishō-hokudō
+keishō-nandō
+heian-nandō
+heian-hokudō
+kōkaidō
+kankyō-nandō
+kankyō-hokudōtaiwangovernor-general
+taihoku prefecture
+shinchiku prefecture
+taichū prefecture
+tainan prefecture
+takao prefecture
+karenkō prefecture
+taitō prefecture
+hōko prefecturesouth pacific mandategovernor
+rinji nan'yō guntō bōbitai minseisho → nan'yō-chōkwantung leased territory
+kantō totokufu → kantō-chō → kantō-kyoku: kantō-shūchō
+
+vtestates and territories in the sphere of influence of the empire of japan during world war ii
+ manchukuo
+ east hebei autonomous government
+ shanghai great way government
+ provisional government of china
+ reformed government of china
+ reorganized national government of china
+ mengjiang
+ kingdom of thailand
+ state of burma
+ provisional government of free india
+ second philippine republic
+ french indochina
+ empire of vietnam
+ kingdom of kampuchea
+ kingdom of laos
+ korea under japanese rule
+ taiwan under japanese rule
+ south pacific mandate
+ karafuto prefecture
+ occupied dutch east indies
+ occupied malaya
+ occupied sarawak, brunei, labuan and british north borneo
+ occupied hong kong
+ occupied singapore
+ occupied guam
+ occupied nauru
+ portuguese timor
+
+greater east asia conference
+greater east asia co-prosperity sphere
+pacific war
+
+coordinates: 35°41′n 139°46′e﻿ / ﻿35.683°n 139.767°e﻿ / 35.683; 139.767
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=empire_of_japan&oldid=883432385"					
+categories: empire of japanformer countries in japanese historyformer empires in asiaformer monarchies of asiahistory of japanjapanese nationalism19th century in japan20th century in japan1868 establishments in japan1947 disestablishments in japanstates and territories established in 1868states and territories disestablished in 19471868 establishments in asia1947 disestablishments in asiafascist statesmilitary dictatorshipstotalitarian stateskarafutohistory of sakhalinformer japanese coloniesformer prefectures of japansubdivisions of japanstates and territories established in 1905states and territories disestablished in 19451905 establishments in japan1905 establishments in the japanese colonial empire1949 disestablishments in japanjapan–soviet union relationsaxis powershidden categories: pages containing links to subscription-only contentcs1 japanese-language sources (ja)articles with short descriptionuse mdy dates from april 2017articles containing japanese-language textpages using infobox country or infobox former country with the flag caption or type parameterspages using infobox country or infobox former country with the symbol caption or type parametersarticles to be expanded from february 2018all articles to be expandedarticles using small message boxesarticles containing korean-language textwikipedia articles needing clarification from july 2013articles containing traditional chinese-language textall articles with unsourced statementsarticles with unsourced statements from october 2018portal templates with redlinked portalscommons category link is on wikidatacoordinates on wikidata 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+العربيةasturianuazərbaycancaتۆرکجهbân-lâm-gúбеларускаяbrezhonegбуряадcatalàčeštinadanskdeutschespañolesperantoeuskaraفارسیfrançaisgaelggalego客家語/hak-kâ-ngî한국어հայերենहिन्दीhrvatskiidobahasa indonesiaíslenskaitalianoעבריתქართულიlatviešulietuviųmagyarमराठीbahasa melayumìng-dĕ̤ng-ngṳ̄монголnederlands日本語norskਪੰਜਾਬੀpolskiportuguêsromânăрусскийscotssimple englishslovenčinaslovenščinaсрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskatagalogதமிழ்ไทยtürkçeукраїнськаاردوtiếng việt吴语粵語中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 15 february 2019, at 10:51 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"2.244","walltime":"2.781","ppvisitednodes":{"value":14725,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":607276,"limit":2097152},"templateargumentsize":{"value":43991,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":13,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":118346,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00% 1889.727      1 -total"," 35.64%  673.458      9 template:infobox"," 34.68%  655.355      1 template:infobox_former_country"," 15.03%  284.024      2 template:reflist"," 11.19%  211.405     20 template:lang"," 10.28%  194.319      1 template:ubl","  9.61%  181.512      1 template:native_name","  7.91%  149.420      1 template:iso_3166_code","  7.59%  143.339     17 template:cite_book","  6.54%  123.659      7 template:navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.926","limit":"10.000"},"limitreport-memusage":{"value":24655966,"limit":52428800}},"cachereport":{"origin":"mw1310","timestamp":"20190217093928","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":135,"wghostname":"mw1328"});});
+
+

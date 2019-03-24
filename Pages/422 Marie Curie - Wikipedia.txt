@@ -1,0 +1,988 @@
+
+
+
+
+marie curie - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"marie_curie","wgtitle":"marie curie","wgcurrevisionid":882659126,"wgrevisionid":882659126,"wgarticleid":20408,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["cs1 polish-language sources (pl)","cs1: julian–gregorian uncertainty","cs1 french-language sources (fr)","wikipedia indefinitely semi-protected pages","use dmy dates from march 2016","use british english from august 2012","biography with signature","infobox person using alma mater","articles with hcards","articles with project gutenberg links","articles with internet archive links","articles with librivox links","wikipedia articles with bibsys identifiers","wikipedia articles with bne identifiers","wikipedia articles with bnf identifiers","wikipedia articles with cinii identifiers","wikipedia articles with gnd identifiers","wikipedia articles with isni identifiers","wikipedia articles with lccn identifiers","wikipedia articles with lnb identifiers","wikipedia articles with mgp identifiers","wikipedia articles with nara identifiers","wikipedia articles with ndl identifiers","wikipedia articles with nkc identifiers","wikipedia articles with nla identifiers","wikipedia articles with sbn identifiers","wikipedia articles with selibr identifiers","wikipedia articles with snac-id identifiers","wikipedia articles with sudoc identifiers","wikipedia articles with viaf identifiers","wikipedia articles with worldcat-viaf identifiers","ac with 18 elements","good articles","marie curie","1867 births","1934 deaths","19th-century chemists","19th-century french scientists","19th-century physicists","19th-century polish scientists","19th-century women scientists","20th-century chemists","20th-century french scientists","20th-century physicists","20th-century polish scientists","20th-century women scientists","experimental physicists","french chemists","french physicists","french women chemists","french women physicists","french nobel laureates","polish chemists","polish physicists","polish women chemists","polish women physicists","polish nobel laureates","nobel laureates in physics","nobel laureates in chemistry","nobel laureates with multiple nobel awards","nuclear chemists","radioactivity","discoverers of chemical elements","former roman catholics","polish agnostics","polish atheists","governesses","people from warsaw","people from warsaw governorate","congress poland emigrants to france","french people of polish descent","naturalized citizens of france","curie family","women inventors","polish inventors","french inventors","women nobel laureates","légion d'honneur refusals","university of paris alumni","university of paris faculty","members of the lwów scientific society","corresponding members of the russian academy of sciences (1917–25)","corresponding members of the st petersburg academy of sciences","honorary members of the ussr academy of sciences","corresponding members of the ussr academy of sciences","deaths from anemia","disease-related deaths in france","burials at the panthéon, paris","victims of radiological poisoning","inventors killed by own invention","intellectual cooperation"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"marie_curie","wgrelevantarticleid":20408,"wgrequestid":"xgv09apamfsaaamjc2gaaadm","wgcspnonce":false,"wgisprobablyeditable":false,"wgrelevantpageisprobablyeditable":false,"wgrestrictionedit":["autoconfirmed"],"wgrestrictionmove":["autoconfirmed"],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q7186","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+marie curie 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+this article is about the polish-french physicist. for other uses, see marie curie (disambiguation).
+
+
+in this slavic name, the family name "skłodowska" is sometimes transliterated as "sklodowska".
+marie curiec. 1920bornmaria salomea skłodowska(1867-11-07)7 november 1867warsaw, congress poland, russian empire[1]died4 july 1934(1934-07-04) (aged 66)passy, haute-savoie, francecause of deathaplastic anemia from exposure to radiationresidencepoland, francecitizenship
+poland (by birth)
+france (by marriage)
+alma mater
+university of paris
+espci[2]
+known for
+radioactivity
+polonium
+radium
+spouse(s)pierre curie (1859–1906; m. 1895)children
+irène joliot-curie (1897–1956)
+ève curie (1904–2007)
+awards
+nobel prize in physics (1903)
+davy medal (1903)
+matteucci medal (1904)
+elliott cresson medal (1909)
+albert medal (1910)
+nobel prize in chemistry (1911)
+willard gibbs award (1921)
+scientific careerfieldsphysics, chemistryinstitutions
+university of paris
+institut du radium
+école normale supérieure
+french academy of medicine
+international committee on intellectual cooperation
+thesisrecherches sur les substances radioactives (research on radioactive substances)doctoral advisorgabriel lippmanndoctoral studentsandré-louis debierneóscar morenomarguerite pereyémile henriot
+signaturenotesshe is the only person to win a nobel prize in two different sciences.
+marie skłodowska curie (/ˈkjʊəri/;[3] french: [kyʁi]; polish: [kʲiˈri]; born maria salomea skłodowska;[a] 7 november 1867 – 4 july 1934) was a polish and naturalized-french physicist and chemist who conducted pioneering research on radioactivity. she was the first woman to win a nobel prize, the first person and only woman to win twice, and the only person to win a nobel prize in two different sciences.  she was part of the curie family legacy of five nobel prizes. she was also the first woman to become a professor at the university of paris, and in 1995 became the first woman to be entombed on her own merits in the panthéon in paris.
+she was born in warsaw, in what was then the kingdom of poland, part of the russian empire. she studied at warsaw's clandestine flying university and began her practical scientific training in warsaw. in 1891, aged 24, she followed her older sister bronisława to study in paris, where she earned her higher degrees and conducted her subsequent scientific work. she shared the 1903 nobel prize in physics with her husband pierre curie and physicist henri becquerel. she won the 1911 nobel prize in chemistry.
+her achievements included the development of the theory of radioactivity (a term that she coined),[4][5] techniques for isolating radioactive isotopes, and the discovery of two elements, polonium and radium. under her direction, the world's first studies into the treatment of neoplasms were conducted using radioactive isotopes. she founded the curie institutes in paris and in warsaw, which remain major centres of medical research today. during world war i she developed mobile radiography units to provide x-ray services to field hospitals.
+while a french citizen, marie skłodowska curie, who used both surnames,[6][7] never lost her sense of polish identity. she taught her daughters the polish language and took them on visits to poland.[8] she named the first chemical element she discovered polonium, after her native country.[b]
+marie curie died in 1934, aged 66, at a sanatorium in sancellemoz (haute-savoie), france, of aplastic anemia from exposure to radiation in the course of her scientific research and in the course of her radiological work at field hospitals during world war i.[10]
+
+contents
+
+1 life
+
+1.1 early years
+1.2 new life in paris
+1.3 new elements
+1.4 nobel prizes
+1.5 world war i
+1.6 postwar years
+1.7 death
+
+
+2 legacy
+3 awards, honours, and tributes
+4 see also
+5 notes
+6 references
+7 further reading
+
+7.1 nonfiction
+7.2 fiction
+
+
+8 external links
+
+
+life
+early years
+ władysław skłodowski with daughters (from left) maria, bronisława, helena, 1890
+maria skłodowska was born in warsaw, in congress poland in the russian empire, on 7 november 1867, the fifth and youngest child of well-known teachers bronisława, née boguska, and władysław skłodowski.[11] the elder siblings of maria (nicknamed mania) were zofia (born 1862, nicknamed zosia), józef (born 1863, nicknamed józio), bronisława (born 1865, nicknamed bronia) and helena (born 1866, nicknamed hela).[12][13]
+on both the paternal and maternal sides, the family had lost their property and fortunes through patriotic involvements in polish national uprisings aimed at restoring poland's independence (the most recent had been the january uprising of 1863–65).[14] this condemned the subsequent generation, including maria and her elder siblings, to a difficult struggle to get ahead in life.[14] maria's paternal grandfather, józef skłodowski, had been a respected teacher in lublin, where he taught the young bolesław prus,[15] who would become a leading figure in polish literature.[16]
+władysław skłodowski taught mathematics and physics, subjects that maria was to pursue, and was also director of two warsaw gymnasia for boys. after russian authorities eliminated laboratory instruction from the polish schools, he brought much of the laboratory equipment home, and instructed his children in its use.[12] he was eventually fired by his russian supervisors for pro-polish sentiments, and forced to take lower-paying posts; the family also lost money on a bad investment, and eventually chose to supplement their income by lodging boys in the house.[12] maria's mother bronisława operated a prestigious warsaw boarding school for girls; she resigned from the position after maria was born.[12] she died of tuberculosis in may 1878, when maria was ten years old.[12] less than three years earlier, maria's oldest sibling, zofia, had died of typhus contracted from a boarder.[12] maria's father was an atheist; her mother a devout catholic.[17] the deaths of maria's mother and sister caused her to give up catholicism and become agnostic.[18]
+when she was ten years old, maria began attending the boarding school of j. sikorska; next she attended a gymnasium for girls, from which she graduated on 12 june 1883 with a gold medal.[11] after a collapse, possibly due to depression,[12] she spent the following year in the countryside with relatives of her father, and the next year with her father in warsaw, where she did some tutoring.[11] unable to enroll in a regular institution of higher education because she was a woman, she and her sister bronisława became involved with the clandestine flying university (sometimes translated as floating university), a polish patriotic institution of higher learning that admitted women students.[11][12]
+
+ maria skłodowska (left) with sister bronisława, ca. 1886
+maria made an agreement with her sister, bronisława, that she would give her financial assistance during bronisława's medical studies in paris, in exchange for similar assistance two years later.[11][19] in connection with this, maria took a position as governess: first as a home tutor in warsaw; then for two years as a governess in szczuki with a landed family, the żorawskis, who were relatives of her father.[11][19] while working for the latter family, she fell in love with their son, kazimierz żorawski, a future eminent mathematician.[19] his parents rejected the idea of his marrying the penniless relative, and kazimierz was unable to oppose them.[19] maria's loss of the relationship with żorawski was tragic for both. he soon earned a doctorate and pursued an academic career as a mathematician, becoming a professor and rector of kraków university. still, as an old man and a mathematics professor at the warsaw polytechnic, he would sit contemplatively before the statue of maria skłodowska which had been erected in 1935 before the radium institute that she had founded in 1932.[14][20]
+at the beginning of 1890, bronisława—who a few months earlier had married kazimierz dłuski, a polish physician and social and political activist—invited maria to join them in paris. maria declined because she could not afford the university tuition; it would take her a year and a half longer to gather the necessary funds.[11] she was helped by her father, who was able to secure a more lucrative position again.[19] all that time she continued to educate herself, reading books, exchanging letters, and being tutored herself.[19] in early 1889 she returned home to her father in warsaw.[11] she continued working as a governess, and remained there till late 1891.[19] she tutored, studied at the flying university, and began her practical scientific training (1890–91) in a chemical laboratory at the museum of industry and agriculture at krakowskie przedmieście 66, near warsaw's old town.[11][12][19] the laboratory was run by her cousin józef boguski, who had been an assistant in saint petersburg to the russian chemist dmitri mendeleev.[11][19][21]
+
+new life in paris
+in late 1891, she left poland for france.[22] in paris, maria (or marie, as she would be known in france) briefly found shelter with her sister and brother-in-law before renting a garret closer to the university, in the latin quarter, and proceeding with her studies of physics, chemistry, and mathematics at the university of paris, where she enrolled in late 1891.[23][24]  she subsisted on her meager resources, keeping herself warm during cold winters by wearing all the clothes she had.  she focused so hard on her studies that she sometimes forgot to eat.[24]
+skłodowska studied during the day and tutored evenings, barely earning her keep. in 1893, she was awarded a degree in physics and began work in an industrial laboratory of professor gabriel lippmann. meanwhile, she continued studying at the university of paris, and with the aid of a fellowship she was able to earn a second degree in 1894.[11][24][c]
+skłodowska had begun her scientific career in paris with an investigation of the magnetic properties of various steels, commissioned by the society for the encouragement of national industry (société d'encouragement pour l'industrie nationale [1]).[24] that same year pierre curie entered her life; it was their mutual interest in natural sciences that drew them together.[25] pierre curie was an instructor at the school of physics and chemistry, the école supérieure de physique et de chimie industrielles de la ville de paris (espci).[11] they were introduced by the polish physicist, professor józef wierusz-kowalski, who had learned that she was looking for a larger laboratory space, something that wierusz-kowalski thought pierre curie had access to.[11][24] though curie did not have a large laboratory, he was able to find some space for skłodowska where she was able to begin work.[24]
+their mutual passion for science brought them increasingly closer, and they began to develop feelings for one another.[11][24] eventually pierre curie proposed marriage, but at first skłodowska did not accept as she was still planning to go back to her native country. curie, however, declared that he was ready to move with her to poland, even if it meant being reduced to teaching french.[11] meanwhile, for the 1894 summer break, skłodowska returned to warsaw, where she visited her family.[24] she was still laboring under the illusion that she would be able to work in her chosen field in poland, but she was denied a place at kraków university because she was a woman.[14] a letter from pierre curie convinced her to return to paris to pursue a ph.d.[24] at skłodowska's insistence, curie had written up his research on magnetism and received his own doctorate in march 1895; he was also promoted to professor at the school.[24] a contemporary quip would call skłodowska "pierre's biggest discovery."[14] on 26 july 1895 they were married in sceaux (seine);[26] neither wanted a religious service.[11][24] curie's dark blue outfit, worn instead of a bridal gown, would serve her for many years as a laboratory outfit.[24] they shared two pastimes:  long bicycle trips, and journeys abroad, which brought them even closer. in pierre, marie had found a new love, a partner, and a scientific collaborator on whom she could depend.[14]
+
+new elements
+ pierre and marie curie in the laboratory
+in 1895, wilhelm roentgen discovered the existence of x-rays, though the mechanism behind their production was not yet understood.[27] in 1896, henri becquerel discovered that uranium salts emitted rays that resembled x-rays in their penetrating power.[27] he demonstrated that this radiation, unlike phosphorescence, did not depend on an external source of energy but seemed to arise spontaneously from uranium itself. influenced by these two important discoveries, curie decided to look into uranium rays as a possible field of research for a thesis.[11][27]
+she used an innovative technique to investigate samples.  fifteen years earlier, her husband and his brother had developed a version of the electrometer, a sensitive device for measuring electric charge.[27] using her husband's electrometer, she discovered that uranium rays caused the air around a sample to conduct electricity. using this technique, her first result was the finding that the activity of the uranium compounds depended only on the quantity of uranium present.[27] she hypothesized that the radiation was not the outcome of some interaction of molecules but must come from the atom itself.[27] this hypothesis was an important step in disproving the assumption that atoms were indivisible.[27][28]
+in 1897, her daughter irène was born. to support her family, curie began teaching at the école normale supérieure.[22] the curies did not have a dedicated laboratory; most of their research was carried out in a converted shed next to the school of physics and chemistry.[22] the shed, formerly a medical school dissecting room, was poorly ventilated and not even waterproof.[29] they were unaware of the deleterious effects of radiation exposure attendant on their continued unprotected work with radioactive substances. the school did not sponsor her research, but she would receive subsidies from metallurgical and mining companies and from various organizations and governments.[22][29][30]
+curie's systematic studies included two uranium minerals, pitchblende and torbernite (also known as chalcolite).[29] her electrometer showed that pitchblende was four times as active as uranium itself, and chalcolite twice as active. she concluded that, if her earlier results relating the quantity of uranium to its activity were correct, then these two minerals must contain small quantities of another substance that was far more active than uranium.[29][31] she began a systematic search for additional substances that emit radiation, and by 1898 she discovered that the element thorium was also radioactive.[27] pierre curie was increasingly intrigued by her work. by mid-1898 he was so invested in it that he decided to drop his work on crystals and to join her.[22][29]
+
+.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}the [research] idea [writes reid] was her own; no one helped her formulate it, and although she took it to her husband for his opinion she clearly established her ownership of it. she later recorded the fact twice in her biography of her husband to ensure there was no chance whatever of any ambiguity. it [is] likely that already at this early stage of her career [she] realized that... many scientists would find it difficult to believe that a woman could be capable of the original work in which she was involved.[32]
+
+ pierre, irène, marie curie
+she was acutely aware of the importance of promptly publishing her discoveries and thus establishing her priority. had not becquerel, two years earlier, presented his discovery to the académie des sciences the day after he made it, credit for the discovery of radioactivity, and even a nobel prize, would instead have gone to silvanus thompson. curie chose the same rapid means of publication. her paper, giving a brief and simple account of her work, was presented for her to the académie on 12 april 1898 by her former professor, gabriel lippmann.[33] even so, just as thompson had been beaten by becquerel, so curie was beaten in the race to tell of her discovery that thorium gives off rays in the same way as uranium; two months earlier, gerhard carl schmidt had published his own finding in berlin.[34]
+at that time, no one else in the world of physics had noticed what curie recorded in a sentence of her paper, describing how much greater were the activities of pitchblende and chalcolite than uranium itself: "the fact is very remarkable, and leads to the belief that these minerals may contain an element which is much more active than uranium." she later would recall how she felt "a passionate desire to verify this hypothesis as rapidly as possible."[34] on 14 april 1898, the curies optimistically weighed out a 100-gram sample of pitchblende and ground it with a pestle and mortar. they did not realize at the time that what they were searching for was present in such minute quantities that they would eventually have to process tons of the ore.[34]
+in july 1898, curie and her husband published a joint paper announcing the existence of an element which they named "polonium", in honour of her native poland, which would for another twenty years remain partitioned among three empires (russian, austrian, and prussian).[11] on 26 december 1898, the curies announced the existence of a second element, which they named "radium", from the latin word for "ray".[22][29][35] in the course of their research, they also coined the word "radioactivity".[11]
+to prove their discoveries beyond any doubt, the curies sought to isolate polonium and radium in pure form.[29] pitchblende is a complex mineral; the chemical separation of its constituents was an arduous task. the discovery of polonium had been relatively easy; chemically it resembles the element bismuth, and polonium was the only bismuth-like substance in the ore.[29] radium, however, was more elusive; it is closely related chemically to barium, and pitchblende contains both elements. by 1898 the curies had obtained traces of radium, but appreciable quantities, uncontaminated with barium, were still beyond reach.[36] the curies undertook the arduous task of separating out radium salt by differential crystallization. from a ton of pitchblende, one-tenth of a gram of radium chloride was separated in 1902. in 1910, she isolated pure radium metal.[29][37] she never succeeded in isolating polonium, which has a half-life of only 138 days.[29]
+between 1898 and 1902, the curies published, jointly or separately, a total of 32 scientific papers, including one that announced that, when exposed to radium, diseased, tumor-forming cells were destroyed faster than healthy cells.[38]
+
+ pierre and marie curie, c. 1903
+in 1900, curie became the first woman faculty member at the école normale supérieure, and her husband joined the faculty of the university of paris.[39][40] in 1902 she visited poland on the occasion of her father's death.[22]
+in june 1903, supervised by gabriel lippmann, curie was awarded her doctorate from the university of paris.[22][41] that month the couple were invited to the royal institution in london to give a speech on radioactivity; being a woman, she was prevented from speaking, and pierre curie alone was allowed to.[42] meanwhile, a new industry began developing, based on radium.[39] the curies did not patent their discovery and benefited little from this increasingly profitable business.[29][39]
+
+nobel prizes
+ 1903 nobel prize portrait
+ 1903 nobel prize diploma
+in december 1903, the royal swedish academy of sciences awarded pierre curie, marie curie, and henri becquerel the nobel prize in physics, "in recognition of the extraordinary services they have rendered by their joint researches on the radiation phenomena discovered by professor henri becquerel."[22] at first the committee had intended to honor only pierre curie and henri becquerel, but a committee member and advocate for women scientists, swedish mathematician magnus goesta mittag-leffler, alerted pierre to the situation, and after his complaint, marie's name was added to the nomination.[43] marie curie was the first woman to be awarded a nobel prize.[22]
+curie and her husband declined to go to stockholm to receive the prize in person; they were too busy with their work, and pierre curie, who disliked public ceremonies, was feeling increasingly ill.[42][43] as nobel laureates were required to deliver a lecture, the curies finally undertook the trip in 1905.[43] the award money allowed the curies to hire their first laboratory assistant.[43] following the award of the nobel prize, and galvanized by an offer from the university of geneva, which offered pierre curie a position, the university of paris gave him a professorship and the chair of physics, although the curies still did not have a proper laboratory.[22][39][40] upon pierre curie's complaint, the university of paris relented and agreed to furnish a new laboratory, but it would not be ready until 1906.[43]
+in december 1904, curie gave birth to their second daughter, ève.[43] she hired polish governesses to teach her daughters her native language, and sent or took them on visits to poland.[8]
+on 19 april 1906, pierre curie was killed in a road accident. walking across the rue dauphine in heavy rain, he was struck by a horse-drawn vehicle and fell under its wheels, causing his skull to fracture.[22][44] curie was devastated by her husband's death.[45] on 13 may 1906 the  physics department of the university of paris decided to retain the chair that had been created for her late husband and to offer it to marie. she accepted it, hoping to create a world-class laboratory as a tribute to her husband pierre.[45][46] she was the first woman to become a professor at the university of paris.[22]
+curie's quest to create a new laboratory did not end with the university of paris, however. in her later years, she headed the radium institute (institut du radium, now curie institute, institut curie), a radioactivity laboratory created for her by the pasteur institute and the university of paris.[46] the initiative for creating the radium institute had come in 1909 from pierre paul émile roux, director of the pasteur institute, who had been disappointed that the university of paris was not giving curie a proper laboratory and had suggested that she move to the pasteur institute.[22][47] only then, with the threat of curie leaving, did the university of paris relent, and eventually the curie pavilion became a joint initiative of the university of paris and the pasteur institute.[47]
+
+ at first solvay conference (1911), curie (seated, second from right) confers with henri poincaré; standing, fourth from right, is rutherford; second from right, einstein; far right, paul langevin
+in 1910 curie succeeded in isolating radium; she also defined an international standard for radioactive emissions that was eventually named for her and pierre: the curie.[46] nevertheless, in 1911 the french academy of sciences failed, by one[22] or two votes,[48] to elect her to membership in the academy.  elected instead was édouard branly, an inventor who had helped guglielmo marconi develop the wireless telegraph.[49]  it was only over half a century later, in 1962, that a doctoral student of curie's, marguerite perey, became the first woman elected to membership in the academy.
+despite curie's fame as a scientist working for france, the public's attitude tended toward xenophobia—the same that had led to the dreyfus affair—which also fueled false speculation that curie was jewish.[22][48] during the french academy of sciences elections, she was vilified by the right-wing press as a foreigner and atheist.[48] her daughter later remarked on the french press' hypocrisy in portraying curie as an unworthy foreigner when she was nominated for a french honor, but portraying her as a french heroine when she received foreign honors such as her nobel prizes.[22]
+in 1911 it was revealed that in 1910-11 curie had conducted an affair of about a year's duration with physicist paul langevin, a former student of pierre curie's,[50] a married man who was estranged from his wife.[48] this resulted in a press scandal that was exploited by her academic opponents. curie (then in her mid-40s) was five years older than langevin and was misrepresented in the tabloids as a foreign jewish home-wrecker.[51] when the scandal broke, she was away at a conference in belgium; on her return, she found an angry mob in front of her house and had to seek refuge, with her daughters, in the home of her friend, camille marbo.[48]
+
+ 1911 nobel prize diploma
+international recognition for her work had been growing to new heights, and the royal swedish academy of sciences, overcoming opposition prompted by the langevin scandal, honored her a second time, with the 1911 nobel prize in chemistry.[14] this award was "in recognition of her services to the advancement of chemistry by the discovery of the elements radium and polonium, by the isolation of radium and the study of the nature and compounds of this remarkable element."[52] she was the first person to win or share two nobel prizes, and remains alone with linus pauling as nobel laureates in two fields each. a delegation of celebrated polish men of learning, headed by novelist henryk sienkiewicz, encouraged her to return to poland and continue her research in her native country.[14] curie's second nobel prize enabled her to persuade the french government into supporting the radium institute, built in 1914, where research was conducted in chemistry, physics, and medicine.[47] a month after accepting her 1911 nobel prize, she was hospitalised with depression and a kidney ailment. for most of 1912 she avoided public life but did spend time in england with her friend and fellow physicist, hertha ayrton. she returned to her laboratory only in december, after a break of about 14 months.[52]
+in 1912, the warsaw scientific society offered her the directorship of a new laboratory in warsaw but she declined, focusing on the developing radium institute to be completed in august 1914, and on a new street named rue pierre-curie.[47][52] she was appointed director of the curie laboratory in the radium institute of the university of paris, founded in 1914.[53] she visited poland in 1913 and was welcomed in warsaw but the visit was mostly ignored by the russian authorities. the institute's development was interrupted by the coming war, as most researchers were drafted into the french army, and it fully resumed its activities in 1919.[47][52][54]
+
+world war i
+ curie in a mobile x-ray vehicle
+during world war i, curie recognised that wounded soldiers were best served if operated upon as soon as possible.[55] she saw a need for field radiological centres near the front lines to assist battlefield surgeons.[54] after a quick study of radiology, anatomy, and automotive mechanics she procured x-ray equipment, vehicles, auxiliary generators, and developed mobile radiography units, which came to be popularly known as petites curies ("little curies").[54] she became the director of the red cross radiology service and set up france's first military radiology centre, operational by late 1914.[54] assisted at first by a military doctor and by her 17-year-old daughter irène, curie directed the installation of 20 mobile radiological vehicles and another 200 radiological units at field hospitals in the first year of the war.[47][54] later, she began training other women as aides.[56]
+in 1915, curie produced hollow needles containing "radium emanation", a colorless, radioactive gas given off by radium, later identified as radon, to be used for sterilizing infected tissue. she provided the radium from her own one-gram supply.[56] it is estimated that over a million wounded soldiers were treated with her x-ray units.[18][47] busy with this work, she carried out very little scientific research during that period.[47] in spite of all her humanitarian contributions to the french war effort, curie never received any formal recognition of it from the french government.[54]
+
+also, promptly after the war started, she attempted to donate her gold nobel prize medals to the war effort but the french national bank refused to accept them.[56]  she did buy war bonds, using her nobel prize money.[56] she said:i am going to give up the little gold i possess.  i shall add to this the scientific medals, which are quite useless to me. there is something else: by sheer laziness i had allowed the money for my second nobel prize to remain in stockholm in swedish crowns. this is the chief part of what we possess. i should like to bring it back here and invest it in war loans. the state needs it. only, i have no illusions: this money will probably be lost.[55] she was also an active member in committees of polonia in france dedicated to the polish cause.[57] after the war, she summarized her wartime experiences in a book, radiology in war (1919).[56]
+postwar years
+in 1920, for the 25th anniversary of the discovery of radium, the french government established a stipend for her; its previous recipient was louis pasteur (1822–95).[47] in 1921, she was welcomed triumphantly when she toured the united states to raise funds for research on radium. mrs. william brown meloney, after interviewing curie, created a marie curie radium fund and raised money to buy radium, publicising her trip.[47][58]
+in 1921, u.s. president warren g. harding received her at the white house to present her with the 1 gram of radium collected in the united states.[59][60] before the meeting, recognising her growing fame abroad, and embarrassed by the fact that she had no french official distinctions to wear in public, the french government offered her a legion of honour award, but she refused.[60][61] in 1922 she became a fellow of the french academy of medicine.[47] she also travelled to other countries, appearing publicly and giving lectures in belgium, brazil, spain, and czechoslovakia.[62]
+led by curie, the institute produced four more nobel prize winners, including her daughter irène joliot-curie and her son-in-law, frédéric joliot-curie.[63] eventually it became one of the world's four major radioactivity-research laboratories, the others being the cavendish laboratory, with ernest rutherford; the institute for radium research, vienna, with stefan meyer; and the kaiser wilhelm institute for chemistry, with otto hahn and lise meitner.[63][64]
+in august 1922 marie curie became a member of the league of nations' newly created international committee on intellectual cooperation.[65][66] she sat on the committee until 1934 and contributed to league of nations scientific coordination with other prominent researchers such as albert einstein, hendrik lorentz, and henri bergson.[67] in 1923 she wrote a biography of her late husband, titled pierre curie.[68] in 1925 she visited poland to participate in a ceremony laying the foundations for warsaw's radium institute.[47] her second american tour, in 1929, succeeded in equipping the warsaw radium institute with radium; the institute opened in 1932, with her sister bronisława its director.[47][60] these distractions from her scientific labours, and the attendant publicity, caused her much discomfort but provided resources for her work.[60] in 1930 she was elected to the international atomic weights committee, on which she served until her death.[69]
+
+death
+ 1935 statue, facing the radium institute, warsaw
+curie visited poland for the last time in early 1934.[14][70] a few months later, on 4 july 1934, she died at the sancellemoz sanatorium in passy, haute-savoie, from aplastic anemia believed to have been contracted from her long-term exposure to radiation.[47][71]
+the damaging effects of ionising radiation were not known at the time of her work, which had been carried out without the safety measures later developed.[70] she had carried test tubes containing radioactive isotopes in her pocket,[72] and she stored them in her desk drawer, remarking on the faint light that the substances gave off in the dark.[73] curie was also exposed to x-rays from unshielded equipment while serving as a radiologist in field hospitals during the war.[56] although her many decades of exposure to radiation caused chronic illnesses (including near-blindness due to cataracts) and ultimately her death, she never really acknowledged the health risks of radiation exposure.[74]
+she was interred at the cemetery in sceaux, alongside her husband pierre.[47] sixty years later, in 1995, in honour of their achievements, the remains of both were transferred to the panthéon, paris. she became the first woman to be honoured with interment in the panthéon on her own merits.[66] in 2015, two other women were also interred on their own merits.[75]
+because of their levels of radioactive contamination, her papers from the 1890s are considered too dangerous to handle.[76] even her cookbook is highly radioactive.[77] her papers are kept in lead-lined boxes, and those who wish to consult them must wear protective clothing.[77] in her last year, she worked on a book, radioactivity, which was published posthumously in 1935.[70]
+
+legacy
+ statue, maria curie-skłodowska university, lublin, poland
+the physical and societal aspects of the curies' work contributed to shaping the world of the twentieth and twenty-first centuries.[78] cornell university professor l. pearce williams observes:the result of the curies' work was epoch-making. radium's radioactivity was so great that it could not be ignored. it seemed to contradict the principle of the conservation of energy and therefore forced a reconsideration of the foundations of physics. on the experimental level the discovery of radium provided men like ernest rutherford with sources of radioactivity with which they could probe the structure of the atom. as a result of rutherford's experiments with alpha radiation, the nuclear atom was first postulated. in medicine, the radioactivity of radium appeared to offer a means by which cancer could be successfully attacked.[37]
+
+if curie's work helped overturn established ideas in physics and chemistry, it has had an equally profound effect in the societal sphere. to attain her scientific achievements, she had to overcome barriers, in both her native and her adoptive country, that were placed in her way because she was a woman. this aspect of her life and career is highlighted in françoise giroud's marie curie: a life, which emphasizes curie's role as a feminist precursor.[14]
+she was known for her honesty and moderate lifestyle.[22][78] having received a small scholarship in 1893, she returned it in 1897 as soon as she began earning her keep.[11][30] she gave much of her first nobel prize money to friends, family, students, and research associates.[14] in an unusual decision, curie intentionally refrained from patenting the radium-isolation process, so that the scientific community could do research unhindered.[79] she insisted that monetary gifts and awards be given to the scientific institutions she was affiliated with rather than to her.[78] she and her husband often refused awards and medals.[22] albert einstein reportedly remarked that she was probably the only person who could not be corrupted by fame.[14]
+
+awards, honours, and tributes
+ tomb of pierre and marie curie, panthéon, paris
+as one of the most famous women scientists to date, marie curie has become an icon in the scientific world and has received tributes from across the globe, even in the realm of pop culture.[80] in a 2009 poll carried out by new scientist, she was voted the "most inspirational woman in science". curie received 25.1 per cent of all votes cast, nearly twice as many as second-place rosalind franklin (14.2 per cent).[81][82]
+poland and france declared 2011 the year of marie curie, and the united nations declared that this would be the international year of chemistry.[83] an artistic installation celebrating "madame curie" filled the jacobs gallery at san diego's museum of contemporary art.[84] on 7 november, google celebrated the anniversary of her birth with a special google doodle.[85] on 10 december, the new york academy of sciences celebrated the centenary of marie curie's second nobel prize in the presence of princess madeleine of sweden.[86]
+marie curie was the first woman to win a nobel prize, the first person to win two nobel prizes, the only woman to win in two fields, and the only person to win in multiple sciences.[87] awards that she received include:
+
+nobel prize in physics (1903, with her husband pierre curie and henri becquerel)[22]
+davy medal (1903, with pierre)[62][88]
+matteucci medal (1904, with pierre)[88]
+actonian prize (1907)[89]
+elliott cresson medal (1909)[90]
+nobel prize in chemistry (1911)[14]
+franklin medal of the american philosophical society (1921)[91]
+marie curie's 1898 publication with her husband and their collaborator gustave bémont[92] for their discovery of radium and polonium was honored by a citation for chemical breakthrough award from the division of history of chemistry of the american chemical society presented to the espci paris (ecole supérieure de physique et de chimie industrielles de la ville de paris) in 2015.[93][94]
+in 1995, she became the first woman to be entombed on her own merits in the panthéon, paris.[66] the curie (symbol ci), a unit of radioactivity, is named in honour of her and pierre curie (although the commission which agreed on the name never clearly stated whether the standard was named after pierre, marie or both of them).[95] the element with atomic number 96 was named curium.[96] three radioactive minerals are also named after the curies: curite, sklodowskite, and cuprosklodowskite.[97] she received numerous honorary degrees from universities across the world.[60] the marie skłodowska-curie actions fellowship program of the european union for young scientists wishing to work in a foreign country is named after her.[98] in poland, she had received honorary doctorates from the lwów polytechnic (1912),[99]poznań university (1922), kraków's jagiellonian university (1924), and the warsaw polytechnic (1926).[83] in 1921, in the u.s., she was awarded membership in the iota sigma pi women scientists' society.[100]
+her name is included on the monument to the x-ray and radium martyrs of all nations, erected in hamburg, germany in 1936.[101]
+numerous locations around the world are named after her. in 2007, a metro station in paris was renamed to honour both of the curies.[97] polish nuclear research reactor maria is named after her.[102] the 7000 curie asteroid is also named after her.[97] a klm mcdonnell douglas md-11 (registration ph-kcc) is named in her honour.[103]
+several institutions bear her name, starting with the two curie institutes: the maria skłodowska–curie institute of oncology, in warsaw and the institut curie in paris. she is the patron of maria curie-skłodowska university, in lublin, founded in 1944; and of pierre and marie curie university (paris vi), france's pre-eminent science university. in britain, marie curie cancer care was organized in 1948 to care for the terminally ill.[104]
+two museums are devoted to marie curie.  in 1967, the maria skłodowska-curie museum was established in warsaw's "new town", at her birthplace on ulica freta (freta street).[14] her paris laboratory is preserved as the musée curie, open since 1992.[105]
+several works of art bear her likeness. in 1935, michalina mościcka, wife of polish president ignacy mościcki, unveiled a statue of marie curie before warsaw's radium institute. during the 1944 second world war warsaw uprising against the nazi german occupation, the monument was damaged by gunfire; after the war it was decided to leave the bullet marks on the statue and its pedestal.[14] in 1955 jozef mazur created a stained glass panel of her, the maria skłodowska-curie medallion, featured in the university at buffalo polish room.[106]
+a number of biographies are devoted to her. in 1938 her daughter, ève curie, published madame curie. in 1987 françoise giroud wrote marie curie: a life. in 2005 barbara goldsmith wrote obsessive genius: the inner world of marie curie.[83] in 2011 lauren redniss published radioactive: marie and pierre curie, a tale of love and fallout.[107]
+greer garson and walter pidgeon starred in the 1943 u.s. oscar-nominated film, madame curie, based on her life.[68] more recently, in 1997, a french film about pierre and marie curie was released, les palmes de m. schutz. it was adapted from a play of the same name. in the film, marie curie was played by isabelle huppert.[108]
+curie is the subject of the play false assumptions by lawrence aronovitch, in which the ghosts of three other women scientists observe events in her life.[109] curie has also been portrayed by susan marie frontczak in her play manya: the living history of marie curie, a one-woman show performed in 30 us states and nine countries, by 2014.[110]
+curie's likeness also has appeared on banknotes, stamps and coins around the world.[97] she was featured on the polish late-1980s 20,000-złoty banknote[111] as well as on the last french 500-franc note, before the franc was replaced by the euro.[112] curie themed postage stamps from mali, the republic of togo, zambia, and the republic of guinea actually show a picture of susan marie frontczak portraying curie in a 2001 picture by paul schroeder.[110]
+on the first centenary of marie curie's second nobel prize in 2011, an allegorical mural was painted on the façade of her warsaw birthplace. it depicts an infant maria skłodowska holding a test tube from which emanate the elements that she would discover as an adult: polonium and radium. also in 2011, a new warsaw bridge over the vistula was named in her honor.[113]
+
+see also
+
+charlotte hoffman kellogg, friend
+eusapia palladino:  spiritualist medium whose paris séances were attended by pierre and marie curie.
+genius, a television series depicting einstein's life
+list of female nobel laureates
+list of multiple discoveries
+list of poles
+maria skłodowska-curie museum, warsaw, poland
+marie curie gargoyle (1988), university of oregon
+poles
+timeline of women in science
+treatise on radioactivity
+marie "blanche" wittmann, who worked for marie curie.
+women in chemistry
+
+notes
+
+
+^ polish: [ˈmarʲa salɔˈmɛa skwɔˈdɔfska]
+
+^ poland had been partitioned in the 18th century among russia, prussia and austria, and it was maria skłodowska curie's hope that naming the element after her native country would bring world attention to poland's lack of independence as a sovereign state. polonium may have been the first chemical element named to highlight a political question.[9]
+
+^ sources vary concerning the field of her second degree. tadeusz estreicher, in the 1938 polski słownik biograficzny entry, writes that, while many sources state she earned a degree in mathematics, this is incorrect, and that her second degree was in chemistry.[11]
+
+
+references
+
+
+^ "marie curie – biography". nobelprize.org. 4 july 1934. retrieved 1 august 2012..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ "espci paris : prestige". www.espci.fr. retrieved 26 september 2017.
+
+^ jones, daniel (2011).  roach, peter; setter, jane; esling, john, eds. cambridge english pronouncing dictionary (18th ed.). cambridge university press. isbn 978-0-521-15253-2.
+
+^ "the discovery of radioactivity". berkeley lab. the term radioactivity was actually coined by marie curie […].
+
+^ "marie curie and the radioactivity, the 1903 nobel prize in physics". nobelprize.org. marie called this radiation radioactivity—"radio" means radiation.
+
+^ see her signature, "m. skłodowska curie", in the infobox.
+
+^ her 1911 nobel prize in chemistry was granted to "marie sklodowska curie" file:marie skłodowska-curie's nobel prize in chemistry 1911.jpg.
+
+^ a b goldsmith, barbara (2005). obsessive genius: the inner world of marie curie. w. w. norton & company. p. 149. isbn 978-0-393-05137-7. retrieved 15 march 2016.
+
+^ kabzińska, krystyna (1998). "chemiczne i polskie aspekty odkrycia polonu i radu" [chemical and polish aspects of polonium and radium discovery]. przemysł chemiczny (the chemical industry) (in polish). 77: 104–107.
+
+^ "the genius of marie curie: the woman who lit up the world" on youtube (a 2013 bbc documentary).
+
+^ a b c d e f g h i j k l m n o p q r s t u estreicher, tadeusz (1938). "curie, maria ze skłodowskich". polski słownik biograficzny, vol. 4 (in polish). p. 111.
+
+^ a b c d e f g h i "marie curie – polish girlhood (1867–1891) part 1". american institute of physics. retrieved 7 november 2011.
+
+^ nelson, craig (2014). the age of radiance: the epic rise and dramatic fall of the atomic era. simon & schuster. p. 18. isbn 978-1-4516-6045-6.
+
+^ a b c d e f g h i j k l m n o wojciech a. wierzewski (21 june 2008). "mazowieckie korzenie marii" [maria's mazowsze roots]. gwiazda polarna. 100 (13): 16–17. archived from the original on 21 march 2009. retrieved 10 september 2012.
+
+^ robert william reid (1974). marie curie. new american library. p. 12. isbn 978-0-00-211539-1. retrieved 15 march 2016.
+
+^ miłosz, czesław (1983). the history of polish literature. university of california press. p. 291. isbn 978-0-520-04477-7. undoubtedly the most important novelist of the period was bolesław prus...
+
+^ barker, dan (2011). the good atheist: living a purpose-filled life without god. ulysses press. p. 171. isbn 978-1-56975-846-5.
+
+^ a b robert william reid (1974). marie curie. new american library. p. 6. isbn 978-0-00-211539-1. retrieved 15 march 2016. unusually at such an early age, she became what t.h. huxley had just invented a word for: agnostic.
+
+^ a b c d e f g h i "marie curie – polish girlhood (1867–1891) part 2". american institute of physics. retrieved 7 november 2011.
+
+^ robert william reid (1974). marie curie. new american library. p. 24. isbn 978-0-00-211539-1. retrieved 15 march 2016.
+
+^ robert william reid (1974). marie curie. new american library. pp. 23–23. isbn 978-0-00-211539-1. retrieved 15 march 2016.
+
+^ a b c d e f g h i j k l m n o p q r s t estreicher, tadeusz (1938). "curie, maria ze skłodowskich". polski słownik biograficzny, vol. 4 (in polish). p. 112.
+
+^ robert william reid (1974). marie curie. new american library. p. 32. isbn 978-0-00-211539-1. retrieved 15 march 2016.
+
+^ a b c d e f g h i j k l "marie curie – student in paris (1891–1897) part 1". american institute of physics. retrieved 7 november 2011.
+
+^ l. pearce williams (1986). "curie, pierre and marie". encyclopedia americana, vol. 8. danbury, connecticut: grolier, inc. p. 331.
+
+^ les actus dn. "marie curie". retrieved 24 may 2013.
+
+^ a b c d e f g h "marie curie  –  research breakthroughs (1807–1904)part 1". american institute of physics. retrieved 7 november 2011.
+
+^ robert william reid (1974). marie curie. new american library. pp. 61–63. isbn 978-0-00-211539-1. retrieved 15 march 2016.
+
+^ a b c d e f g h i j k "marie curie  –  research breakthroughs (1807–1904)part 2". american institute of physics. retrieved 7 november 2011.
+
+^ a b "marie curie – student in paris (1891–1897) part 2". american institute of physics. retrieved 7 november 2011.
+
+^ robert william reid (1974). marie curie. new american library. pp. 63–64. isbn 978-0-00-211539-1. retrieved 15 march 2016.
+
+^ robert william reid (1974). marie curie. new american library. p. 64. isbn 978-0-00-211539-1. retrieved 15 march 2016.
+
+^ robert william reid (1974). marie curie. new american library. pp. 64–65. isbn 978-0-00-211539-1. retrieved 15 march 2016.
+
+^ a b c robert william reid (1974). marie curie. new american library. p. 65. isbn 978-0-00-211539-1. retrieved 15 march 2016.
+
+^ "the discovery of radioactivity". lawrence berkeley national laboratory. 9 august 2000. retrieved 2 august 2012.
+
+^ l. pearce williams (1986). "curie, pierre and marie". encyclopedia americana, vol. 8. danbury, connecticut: grolier, inc. pp. 331–332.
+
+^ a b l. pearce williams (1986). "curie, pierre and marie". encyclopedia americana, vol. 8. danbury, connecticut: grolier, inc. p. 332.
+
+^ "marie sklodowska curie", encyclopedia of world biography, 2nd ed., vol. 4, detroit, gale, 2004, pp. 339–41. gale virtual reference library. web. 3 june 2013.
+
+^ a b c d "marie curie  –  research breakthroughs (1807–1904) part 3". american institute of physics. retrieved 7 november 2011.
+
+^ a b quinn, susan (1996). marie curie: a life. da capo press. pp. 176, 203. isbn 978-0-201-88794-5.
+
+^ mould, r. f. (1998). "the discovery of radium in 1898 by maria sklodowska-curie (1867–1934) and pierre curie (1859–1906) with commentary on their life and times" (pdf). the british journal of radiology. 71 (852): 1229–54. doi:10.1259/bjr.71.852.10318996. pmid 10318996. retrieved 31 july 2008.
+
+^ a b "marie curie  –  recognition and disappointment (1903–1905) part 1". american institute of physics. retrieved 7 november 2011.
+
+^ a b c d e f "marie curie  – recognition and disappointment (1903–1905) part 2". american institute of physics. retrieved 7 november 2011.
+
+^ "prof. curie killed in a paris street" (pdf). the new york times. 20 april 1906. retrieved 8 february 2011.
+
+^ a b "marie curie  –  tragedy and adjustment (1906–1910) part 1". american institute of physics. retrieved 7 november 2011.
+
+^ a b c "marie curie  –  tragedy and adjustment (1906–1910) part 2". american institute of physics. retrieved 7 november 2011.
+
+^ a b c d e f g h i j k l m n o estreicher, tadeusz (1938). "curie, maria ze skłodowskich". polski słownik biograficzny, vol. 4 (in polish). p. 113.
+
+^ a b c d e "marie curie  – scandal and recovery (1910–1913) part 1". american institute of physics. retrieved 7 november 2011.
+
+^ goldsmith, barbara (2005). obsessive genius: the inner world of marie curie. w. w. norton & company. pp. 170–71. isbn 978-0-393-05137-7. retrieved 15 march 2016.
+
+^ robert william reid (1974). marie curie. new american library. pp. 44, 90. isbn 978-0-00-211539-1. retrieved 15 march 2016.
+
+^ goldsmith, barbara (2005). obsessive genius: the inner world of marie curie. w. w. norton & company. pp. 165–76. isbn 978-0-393-05137-7. retrieved 15 march 2016.
+
+^ a b c d "marie curie  –  scandal and recovery (1910–1913) part 2". american institute of physics. retrieved 7 november 2011.
+
+^ "marie curie-biographical". nobel prize.org. 2014. retrieved 16 march 2018.
+
+^ a b c d e f "marie curie  – war duty (1914–1919) part 1". american institute of physics. retrieved 7 november 2011.
+
+^ a b coppes-zantinga, a. r. and coppes, m. j. (1998), marie curie's contributions to radiology during world war i. med. pediatr. oncol., 31: 541–543. doi:10.1002/(sici)1096-911x(199812)31:6<541::aid-mpo19>3.0.co;2-0
+
+^ a b c d e f "marie curie  – war duty (1914–1919) part 2". american institute of physics. retrieved 7 november 2011.
+
+^ śladkowski, wiesław (1980). emigracja polska we francji 1871–1918 (in polish). wydawnictwo lubelskie. p. 274. isbn 978-83-222-0147-3. retrieved 15 march 2016.
+
+^ ann m. lewicki (2002). "marie sklodowska curie in america, 1921". radiology. 223 (2): 299–303. doi:10.1148/radiol.2232011319. pmid 11997527. retrieved 7 november 2011.
+
+^ julie des jardins (october 2011). "madame curie's passion". smithsonian magazine. retrieved 11 september 2012.
+
+^ a b c d e "marie curie – the radium institute (1919–1934) part 1". american institute of physics. retrieved 7 november 2011.
+
+^ pasachoff, naomi (1996). marie curie:and the science of radioactivity: and the science of radioactivity. oxford university press. p. 93. isbn 978-0-19-509214-1.
+
+^ a b zwoliński, zbigniew. "science in poland – maria sklodowska-curie". uniwersytet im. adama mickiewicza w poznaniu. archived from the original on 11 september 2012. retrieved 27 august 2012.
+
+^ a b "marie curie – the radium institute (1919–1934) part 2". american institute of physics. retrieved 7 november 2011.
+
+^ "chemistry international – newsmagazine for iupac". international union of pure and applied chemistry. 5 january 2011. retrieved 7 november 2011.
+
+^ grandjean, martin (2017). "analisi e visualizzazioni delle reti in storia. l'esempio della cooperazione intellettuale della società delle nazioni". memoria e ricerca (2): 371–393. doi:10.14647/87204. see also: french version (pdf) and english summary.
+
+^ a b c "marie curie enshrined in pantheon". new york times. 21 april 1995. retrieved 2 august 2012.
+
+^ grandjean, martin (2018). les réseaux de la coopération intellectuelle. la société des nations comme actrice des échanges scientifiques et culturels dans l'entre-deux-guerres [the networks of intellectual cooperation. the league of nations as an actor of the scientific and cultural exchanges in the inter-war period] (in french). lausanne: université de lausanne. (i.e. pp. 303-305)
+
+^ a b "marie curie and her legend". american institute of physics. retrieved 7 november 2011.
+
+^ norman e. holden (2004). "atomic weights and the international committee: a historical review". chemistry international.
+
+^ a b c "marie curie – the radium institute (1919–1934) part 3". american institute of physics. retrieved 7 november 2011.
+
+^ rollyson, carl (2004). marie curie: honesty in science. iuniverse. p. x. isbn 978-0-595-34059-0.
+
+^ james shipman; jerry d. wilson; aaron todd (2012). an introduction to physical science. cengage learning. p. 263. isbn 978-1-133-10409-4.
+
+^ blom, philipp (2008). "1903: a strange luminescence". the vertigo years: europe, 1900–1914. basic books. p. 76. isbn 978-0-465-01116-2. the glowing tubes looked like faint, fairy lights.
+
+^ denise grady (6 october 1998), a glow in the dark, and a lesson in scientific peril the new york times; accessed 21 december 2016.
+
+^ angelique chrisafis (27 may 2015), france president françois hollande adds resistance heroines to panthéon the guardian; accessed 21 december 2016.
+
+^ estes, adam clark. "marie curie's century-old radioactive notebook still requires lead box".
+
+^ a b bryson, bill (2012). a short history of nearly everything. random house digital, inc. p. 74. isbn 978-0-385-67450-8.
+
+^ a b c estreicher, tadeusz (1938). "curie, maria ze skłodowskich". polski słownik biograficzny, vol. 4 (in polish). p. 114.
+
+^ robert william reid (1974). marie curie. new american library. p. 265. isbn 978-0-00-211539-1. retrieved 15 march 2016.
+
+^ borzendowski, janice (2009). sterling biographies: marie curie: mother of modern physics. sterling publishing company, inc. p. 36. isbn 978-1-4027-5318-3.
+
+^ "most inspirational woman scientist revealed". newscientist.com. 2 july 2009. retrieved 27 april 2011.
+
+^ "marie curie voted greatest female scientist". the daily telegraph. london. 2 july 2009. retrieved 10 april 2010. marie curie, the nobel prize-winning nuclear physicist has been voted the greatest woman scientist of all time.
+
+^ a b c "2011 – the year of marie skłodowska-curie". cosmopolitanreview.com. 3 july 2011. archived from the original on 14 august 2011. retrieved 27 august 2012.
+
+^ chute, james (5 march 2011). "video artist steinkamp's flowery 'madame curie' is challenging, and stunning". signonsandiego.com. retrieved 14 april 2011.
+
+^ "marie curie's 144th birthday anniversary". doodletoday.com. 7 november 2011. retrieved 9 november 2011.
+
+^ "princess madeleine attends celebrations to mark anniversary of marie curie's second nobel prize". sveriges kungahus. retrieved 23 february 2012.
+
+^ "nobel prize facts". nobelprize.org. 22 april 2011. archived from the original on 1 september 2012. retrieved 7 september 2012.
+
+^ a b eve curie; vincent sheean (1999). madame curie: a biography. turtleback books. p. 389. isbn 978-0-613-18127-3.
+
+^ "scientific notes and news". science. 25 (647): 839–840. 1907. bibcode:1907sci....25..839.. doi:10.1126/science.25.647.839. issn 0036-8075.
+
+^ "franklin laureate database". the franklin institute awards. the franklin institute. archived from the original on 12 december 2012. retrieved 11 september 2012.
+
+^ "minutes". proc. am. philos. soc. 60 (4): xxii. 1921. jstor 984523.
+
+^ curie, m.p.; curie, mme .p; bémont, m.g. (26 december 1898). "sur une nouvelle substance fortement redio-active, contenue dans la pechblende". comptes rendus de l'académie des sciences (in french). paris. 127: 1215–1217.
+
+^ "2015 awardees". american chemical society, division of the history of chemistry. university of illinois at urbana-champaign school of chemical sciences. 2015. retrieved 1 july 2016.
+
+^ "citation for chemical breakthrough award" (pdf). american chemical society, division of the history of chemistry. university of illinois at urbana-champaign school of chemical sciences. 2015. retrieved 1 july 2016.
+
+^ paul w. frame (october–november 1996). "how the curie came to be". oak ridge associated universities. retrieved 30 april 2008.
+
+^ "curium". chemistry in its element. royal society of chemistry. retrieved 27 august 2012.
+
+^ a b c d borzendowski, janice (2009). sterling biographies: marie curie: mother of modern physics. sterling publishing company, inc. p. 37. isbn 978-1-4027-5318-3.
+
+^ "marie curie actions" (pdf). european commission. 2012. p. 5. archived from the original (pdf) on 4 june 2013. retrieved 10 september 2012.
+
+^ "coventry professor's honorary degree takes him in footsteps of marie curie". birmingham press. 31 july 2012. retrieved 6 may 2017.
+
+^ "professional awards". iota stigma pi: national honor society for women in chemistry. retrieved 16 december 2014.
+
+^ "museum of modern imaging". retrieved 27 november 2016.
+
+^ "iea – reaktor maria". institute of atomic energy, poland. archived from the original on 19 march 2012. retrieved 27 august 2012.
+
+^ "picture of the mcdonnell douglas md-11 aircraft". airliners.net. retrieved 27 april 2011.
+
+^ charity commission. marie curie (charity), registered charity no. 207994.
+
+^ curie, institut (17 december 2010). "curie museum | institut curie". curie.fr. archived from the original on 6 september 2012. retrieved 27 august 2012.
+
+^ "marie curie medallion returns to ub polish collection by way of ebay". news center, university of buffalo. 11 september 2007. retrieved 27 august 2012.
+
+^ "radioactive: marie and pierre curie, a tale of love and fallout". cosmopolitanreview.com. 3 july 2011. archived from the original on 14 august 2011. retrieved 27 august 2012.
+
+^ "les-palmes-de-m-schutz (1997)". movies. new york times. 5 june 2012. retrieved 27 august 2012.
+
+^ mixing science with theatre – ottawa sun, march 2013
+
+^ a b main, douglas (7 march 2014). "this famous image of marie curie isn't marie curie". popular science www.popsci.com. retrieved 15 november 2014.
+
+^ council of scientific & industrial research (india) (1997). science reporter. council of scientific & industrial research. p. 117. retrieved 15 march 2016.
+
+^ letcher, piers (2003). eccentric france. bradt travel guides. p. 59. isbn 978-1-84162-068-8.
+
+^ "most marii skłodowskiej-curie, polska » vistal gdynia". www.vistal.pl. archived from the original on 29 march 2016. retrieved 2017-01-26.
+
+
+further reading
+nonfiction
+eva hemmungs wirtén (2015). making marie curie: intellectual property and celebrity culture in an age of information. university of chicago press. isbn 978-0-226-23584-4. retrieved 15 march 2016.
+kaczorowska, teresa (2011). córka mazowieckich równin, czyli, maria skłodowska-curie z mazowsza [daughter of the mazovian plains:  maria skłodowska–curie of mazowsze] (in polish). związek literatów polskich, oddz. w ciechanowie. isbn 978-83-89408-36-5. retrieved 15 march 2016.
+pasachoff, naomi (1996). marie curie and the science of radioactivity. oxford university press. isbn 978-0-19-509214-1.
+curie, eve (2001). madame curie: a biography. da capo press. isbn 978-0-306-81038-1.
+curie, marie (1921). the discovery of radium . poughkeepsie: vassar college.
+quinn, susan (1996). marie curie: a life. da capo press. isbn 978-0-201-88794-5.
+giroud, françoise (1986). marie curie, a life. holmes & meier. isbn 978-0-8419-0977-9., translated by lydia davis
+redniss, lauren (2010). radioactive: marie & pierre curie: a tale of love and fallout. harpercollins. isbn 978-0-06-135132-7.
+opfell, olga s. (1978). the lady laureates : women who have won the nobel prize. metuchen, n.j.& london: scarecrow press. pp. 147–164. isbn 978-0-8108-1161-4.
+fiction
+olov enquist, per (2006). the book about blanche and marie. new york: overlook. isbn 978-1-58567-668-2. a 2004 novel by per olov enquist featuring maria skłodowska-curie, neurologist jean-martin charcot, and his salpêtrière patient "blanche" (marie "blanche" wittmann). the english translation was published in 2006.
+external links
+
+
+
+wikimedia commons has media related to:
+ marie curie  (category)
+
+
+
+wikiquote has quotations related to: marie curie
+
+
+
+wikisource has original works written by or about:marie curie
+out of the shadows – a study of women physicists
+the official web page of maria curie skłodowska university in lublin, poland in english.
+detailed biography at science in poland website; with quotes, photographs, links etc.
+european marie curie fellowships
+marie curie fellowship association
+works by marie curie at project gutenberg
+works by or about marie curie at internet archive
+works by marie curie at librivox (public domain audiobooks) 
+marie sklodowska curie: her life as a media compendium
+marie and pierre curie and the discovery of polonium and radium chronology from nobelprize.org
+annotated bibliography of marie curie from the alsos digital library
+obituary, new york times, 5 july 1934 "mme. curie is dead; martyr to science"
+some places and memories related to marie curie
+marie curie on the 500 french franc and 20000 old polish zloty banknotes.
+marie curie on imdb  – animated biography of marie curie on dvd from an animated series of world and american history – animated hero classics distributed by nest learning.
+marie curie – more than meets the eye on imdb  – live action portrayal of marie curie on dvd from the inventors series produced by devine entertainment.
+marie curie on imdb  – portrayal of marie curie in a television mini series produced by the bbc
+"marie curie and the study of radioactivity" at american institute of physics website. (site also has a short version for kids entitled "her story in brief!".)
+"marie curie walking tour of paris". hypatia. retrieved 7 november 2011.
+works by marie curie at gallica
+streets and schools worldwide named after her.
+location of her grave on openstreetmap.
+newspaper clippings about  marie curie in the 20th century press archives of the german national library of economics (zbw)
+vtelaureates of the nobel prize in chemistry1901–1925
+1901 jacobus van 't hoff
+1902 emil fischer
+1903 svante arrhenius
+1904 william ramsay
+1905 adolf von baeyer
+1906 henri moissan
+1907 eduard buchner
+1908 ernest rutherford
+1909 wilhelm ostwald
+1910 otto wallach
+1911 marie curie
+1912 victor grignard / paul sabatier
+1913 alfred werner
+1914 theodore richards
+1915 richard willstätter
+1916
+1917
+1918 fritz haber
+1919
+1920 walther nernst
+1921 frederick soddy
+1922 francis aston
+1923 fritz pregl
+1924
+1925 richard zsigmondy
+1926–1950
+1926 theodor svedberg
+1927 heinrich wieland
+1928 adolf windaus
+1929 arthur harden / hans von euler-chelpin
+1930 hans fischer
+1931 carl bosch / friedrich bergius
+1932 irving langmuir
+1933
+1934 harold urey
+1935 frédéric joliot-curie / irène joliot-curie
+1936 peter debye
+1937 norman haworth / paul karrer
+1938 richard kuhn
+1939 adolf butenandt / leopold ružička
+1940
+1941
+1942
+1943 george de hevesy
+1944 otto hahn
+1945 artturi virtanen
+1946 james b. sumner / john northrop / wendell meredith stanley
+1947 robert robinson
+1948 arne tiselius
+1949 william giauque
+1950 otto diels / kurt alder
+1951–1975
+1951 edwin mcmillan / glenn t. seaborg
+1952 archer martin / richard synge
+1953 hermann staudinger
+1954 linus pauling
+1955 vincent du vigneaud
+1956 cyril hinshelwood / nikolay semyonov
+1957 alexander todd
+1958 frederick sanger
+1959 jaroslav heyrovský
+1960 willard libby
+1961 melvin calvin
+1962 max perutz / john kendrew
+1963 karl ziegler / giulio natta
+1964 dorothy hodgkin
+1965 robert woodward
+1966 robert s. mulliken
+1967 manfred eigen / ronald norrish / george porter
+1968 lars onsager
+1969 derek barton / odd hassel
+1970 luis federico leloir
+1971 gerhard herzberg
+1972 christian b. anfinsen / stanford moore / william stein
+1973 ernst otto fischer / geoffrey wilkinson
+1974 paul flory
+1975 john cornforth / vladimir prelog
+1976–2000
+1976 william lipscomb
+1977 ilya prigogine
+1978 peter d. mitchell
+1979 herbert c. brown / georg wittig
+1980 paul berg / walter gilbert / frederick sanger
+1981 kenichi fukui / roald hoffmann
+1982 aaron klug
+1983 henry taube
+1984 robert merrifield
+1985 herbert a. hauptman / jerome karle
+1986 dudley r. herschbach / yuan t. lee / john polanyi
+1987 donald j. cram / jean-marie lehn / charles j. pedersen
+1988 johann deisenhofer / robert huber / hartmut michel
+1989 sidney altman / thomas cech
+1990 elias corey
+1991 richard r. ernst
+1992 rudolph a. marcus
+1993 kary mullis / michael smith
+1994 george olah
+1995 paul j. crutzen / mario j. molina / f. sherwood rowland
+1996 robert curl / harold kroto / richard smalley
+1997 paul d. boyer / john e. walker / jens christian skou
+1998 walter kohn / john pople
+1999 ahmed zewail
+2000 alan j. heeger / alan macdiarmid / hideki shirakawa
+2001–present
+2001 william knowles / ryoji noyori / k. barry sharpless
+2002 john b. fenn / koichi tanaka / kurt wüthrich
+2003 peter agre / roderick mackinnon
+2004 aaron ciechanover / avram hershko / irwin rose
+2005 robert h. grubbs / richard r. schrock / yves chauvin
+2006 roger d. kornberg
+2007 gerhard ertl
+2008 osamu shimomura / martin chalfie / roger y. tsien
+2009 venkatraman ramakrishnan / thomas a. steitz / ada e. yonath
+2010 richard f. heck / akira suzuki / ei-ichi negishi
+2011 dan shechtman
+2012 robert lefkowitz / brian kobilka
+2013 martin karplus / michael levitt / arieh warshel
+2014 eric betzig / stefan hell / william e. moerner
+2015 tomas lindahl / paul l. modrich / aziz sancar
+2016 jean-pierre sauvage / fraser stoddart / ben feringa
+2017 jacques dubochet / joachim frank / richard henderson
+2018 frances arnold / greg winter / george smith
+
+vtelaureates of the nobel prize in physics1901–1925
+1901 röntgen
+1902 lorentz / zeeman
+1903 becquerel / p. curie / m. curie
+1904 rayleigh
+1905 lenard
+1906 j. j. thomson
+1907 michelson
+1908 lippmann
+1909 marconi / braun
+1910 van der waals
+1911 wien
+1912 dalén
+1913 kamerlingh onnes
+1914 laue
+1915 w. l. bragg / w. h. bragg
+1916
+1917 barkla
+1918 planck
+1919 stark
+1920 guillaume
+1921 einstein
+1922 n. bohr
+1923 millikan
+1924 m. siegbahn
+1925 franck / hertz
+1926–1950
+1926 perrin
+1927 compton / c. wilson
+1928 o. richardson
+1929 de broglie
+1930 raman
+1931
+1932 heisenberg
+1933 schrödinger / dirac
+1934
+1935 chadwick
+1936 hess / c. d. anderson
+1937 davisson / g. p. thomson
+1938 fermi
+1939 lawrence
+1940
+1941
+1942
+1943 stern
+1944 rabi
+1945 pauli
+1946 bridgman
+1947 appleton
+1948 blackett
+1949 yukawa
+1950 powell
+1951–1975
+1951 cockcroft / walton
+1952 bloch / purcell
+1953 zernike
+1954 born / bothe
+1955 lamb / kusch
+1956 shockley / bardeen / brattain
+1957 c. n. yang / t. d. lee
+1958 cherenkov / frank / tamm
+1959 segrè / chamberlain
+1960 glaser
+1961 hofstadter / mössbauer
+1962 landau
+1963 wigner / goeppert mayer / jensen
+1964 townes / basov / prokhorov
+1965 tomonaga / schwinger / feynman
+1966 kastler
+1967 bethe
+1968 alvarez
+1969 gell-mann
+1970 alfvén / néel
+1971 gabor
+1972 bardeen / cooper / schrieffer
+1973 esaki / giaever / josephson
+1974 ryle / hewish
+1975 a. bohr / mottelson / rainwater
+1976–2000
+1976 richter / ting
+1977 p. w. anderson / mott / van vleck
+1978 kapitsa / penzias / r. wilson
+1979 glashow / salam / weinberg
+1980 cronin / fitch
+1981 bloembergen / schawlow / k. siegbahn
+1982 k. wilson
+1983 chandrasekhar / fowler
+1984 rubbia / van der meer
+1985 von klitzing
+1986 ruska / binnig / rohrer
+1987 bednorz / müller
+1988 lederman / schwartz / steinberger
+1989 ramsey / dehmelt / paul
+1990 friedman / kendall / r. taylor
+1991 de gennes
+1992 charpak
+1993 hulse / j. taylor
+1994 brockhouse / shull
+1995 perl / reines
+1996 d. lee / osheroff / r. richardson
+1997 chu / cohen-tannoudji / phillips
+1998 laughlin / störmer / tsui
+1999 't hooft / veltman
+2000 alferov / kroemer / kilby
+2001–present
+2001 cornell / ketterle / wieman
+2002 davis / koshiba / giacconi
+2003 abrikosov / ginzburg / leggett
+2004 gross / politzer / wilczek
+2005 glauber / hall / hänsch
+2006 mather / smoot
+2007 fert / grünberg
+2008 nambu / kobayashi / maskawa
+2009 kao / boyle / smith
+2010 geim / novoselov
+2011 perlmutter / riess / schmidt
+2012 wineland / haroche
+2013 englert / higgs
+2014 akasaki / amano / nakamura
+2015 kajita / mcdonald
+2016 thouless / haldane / kosterlitz
+2017 weiss / barish / thorne
+2018 ashkin / mourou / strickland
+
+vtescientists whose names are used as unitssi base units
+andré-marie ampère
+william thomson, 1st baron kelvin
+si derived units
+henri becquerel
+anders celsius
+charles-augustin de coulomb
+michael faraday
+louis harold gray
+joseph henry
+heinrich hertz
+james prescott joule
+isaac newton
+georg ohm
+blaise pascal
+werner von siemens
+rolf maximilian sievert
+nikola tesla
+alessandro volta
+james watt
+wilhelm eduard weber
+non si units
+anders jonas ångström
+alexander graham bell
+marie curie
+pierre curie
+john dalton
+peter debye
+loránd eötvös
+daniel gabriel fahrenheit
+galileo galilei
+johann carl friedrich gauss
+william gilbert
+heinrich kayser
+johann heinrich lambert
+samuel pierpont langley
+heinrich mache
+james clerk maxwell
+john napier
+hans christian ørsted
+jean léonard marie poiseuille
+william john macquorn rankine
+rené antoine ferchault de réaumur
+wilhelm röntgen
+sir george stokes, 1st baronet
+john strutt, 3rd baron rayleigh
+joseph john thomson
+evangelista torricelli
+scientists whose names are used as si units · scientists whose names are used as non si units · scientists whose names are used in physical constants · scientists whose names are used in chemical element names
+vtepeople whose names are used in chemical element names
+vasili samarsky-bykhovets
+johan gadolin
+amerigo vespucci
+marie curie
+pierre curie
+george berkeley
+albert einstein
+enrico fermi
+dmitri mendeleev
+alfred nobel
+ernest lawrence
+ernest rutherford
+glenn t. seaborg
+niels bohr
+lise meitner
+nicolaus copernicus
+georgy flyorov
+robert livermore
+yuri oganessian
+scientists whose names are used as si units · non si units · physical constants
+authority control 
+bibsys: 90528061
+bne: xx899975
+bnf: cb121447141 (data)
+cinii: da03311404
+gnd: 118523023
+isni: 0000 0003 6864 4542
+lccn: n80155913
+lnb: 000072141
+mgp: 177944
+nara: 10568903
+ndl: 00437030
+nkc: jn20000601235
+nla: 35032691
+iccu: it\iccu\viav\099896
+selibr: 182625
+snac: w6qv3kx7
+sudoc: 029924960
+viaf: 76353174
+ worldcat identities (via viaf): 76353174
+
+
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=marie_curie&oldid=882659126"					
+categories: marie curie1867 births1934 deaths19th-century chemists19th-century french scientists19th-century physicists19th-century polish scientists19th-century women scientists20th-century chemists20th-century french scientists20th-century physicists20th-century polish scientists20th-century women scientistsexperimental physicistsfrench chemistsfrench physicistsfrench women chemistsfrench women physicistsfrench nobel laureatespolish chemistspolish physicistspolish women chemistspolish women physicistspolish nobel laureatesnobel laureates in physicsnobel laureates in chemistrynobel laureates with multiple nobel awardsnuclear chemistsradioactivitydiscoverers of chemical elementsformer roman catholicspolish agnosticspolish atheistsgovernessespeople from warsawpeople from warsaw governoratecongress poland emigrants to francefrench people of polish descentnaturalized citizens of francecurie familywomen inventorspolish inventorsfrench inventorswomen nobel laureateslégion d'honneur refusalsuniversity of paris alumniuniversity of paris facultymembers of the lwów scientific societycorresponding members of the russian academy of sciences (1917–25)corresponding members of the st petersburg academy of scienceshonorary members of the ussr academy of sciencescorresponding members of the ussr academy of sciencesdeaths from anemiadisease-related deaths in franceburials at the panthéon, parisvictims of radiological poisoninginventors killed by own inventionintellectual cooperationhidden categories: cs1 polish-language sources (pl)cs1: julian–gregorian uncertaintycs1 french-language sources (fr)wikipedia indefinitely semi-protected pagesuse dmy dates from march 2016use british english from august 2012biography with signatureinfobox person using alma materarticles with hcardsarticles with project gutenberg linksarticles with internet archive linksarticles with librivox linkswikipedia articles with bibsys identifierswikipedia articles with bne identifierswikipedia articles with bnf identifierswikipedia articles with cinii identifierswikipedia articles with gnd identifierswikipedia articles with isni identifierswikipedia articles with lccn identifierswikipedia articles with lnb identifierswikipedia articles with mgp identifierswikipedia articles with nara identifierswikipedia articles with ndl identifierswikipedia articles with nkc identifierswikipedia articles with nla identifierswikipedia articles with sbn identifierswikipedia articles with selibr identifierswikipedia articles with snac-id identifierswikipedia articles with sudoc identifierswikipedia articles with viaf identifierswikipedia articles with worldcat-viaf identifiersac with 18 elementsgood articles 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readview sourceview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commonswikiquotewikisource 
+
+
+
+languages
+
+
+afrikaansalemannischአማርኛالعربيةaragonésarmãneashtiঅসমীয়াasturianuavañe'ẽaymar aruazərbaycancaتۆرکجهবাংলাbân-lâm-gúbasa banyumasanбашҡортсабеларускаябеларуская (тарашкевіца)‎भोजपुरीbislamaбългарскиboarischbosanskibrezhonegбуряадcatalàчӑвашлаčeštinacymraegdanskdeutschडोटेलीeestiελληνικάespañolesperantoestremeñueuskaraفارسیfiji hindiføroysktfrançaisfryskgaeilgegàidhliggalego贛語한국어հայերենहिन्दीhrvatskiidoilokanobahasa indonesiainterlinguaíslenskaitalianoעבריתbasa jawakabɩyɛಕನ್ನಡkapampanganქართულიkaszëbscziқазақшаkiswahilikreyòl ayisyenkurdîкыргызчаladinolatinalatviešulëtzebuergeschlietuviųligurelimburgslivvinkarjalala .lojban.lumbaartmagyarमैथिलीмакедонскиmalagasyമലയാളംmaltiमराठीმარგალურიمصرىمازِرونیbahasa melayuмонголမြန်မာဘာသာnāhuatlnederlandsnedersaksiesनेपालीनेपाल भाषा日本語нохчийнnordfriisknorsknorsk nynorskoccitanଓଡ଼ିଆoromoooʻzbekcha/ўзбекчаਪੰਜਾਬੀپنجابیپښتوpatoisភាសាខ្មែរpicardpiemontèisplattdüütschpolskiportuguêsqaraqalpaqshaqırımtatarcaromânăruna simiрусиньскыйрусскийсаха тылаᱥᱟᱱᱛᱟᱲᱤसंस्कृतम्scotsshqipsicilianuසිංහලsimple englishسنڌيslovenčinaslovenščinaکوردیсрпски / srpskisrpskohrvatski / српскохрватскиbasa sundasuomisvenskatagalogதமிழ்татарча/tatarçaతెలుగుไทยತುಳುtürkçeукраїнськаاردوtiếng việtvolapük文言winaray吴语ייִדישyorùbá粵語zazakizeêuwsžemaitėška中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 10 february 2019, at 15:54 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"1.924","walltime":"2.194","ppvisitednodes":{"value":12718,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":354752,"limit":2097152},"templateargumentsize":{"value":18372,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":29,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":378354,"limit":5000000},"entityaccesscount":{"value":5,"limit":400},"timingprofile":["100.00% 1782.749      1 -total"," 43.16%  769.488      2 template:reflist"," 16.87%  300.671     54 template:cite_web"," 13.76%  245.340      1 template:infobox_scientist"," 13.12%  233.828     49 template:cite_book"," 13.09%  233.331      1 template:infobox_person"," 11.89%  212.045      2 template:infobox","  6.75%  120.414      5 template:br_separated_entries","  5.30%   94.445      1 template:birth_date","  4.85%   86.485      4 template:navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.912","limit":"10.000"},"limitreport-memusage":{"value":10831392,"limit":52428800}},"cachereport":{"origin":"mw1328","timestamp":"20190219122024","ttl":86400,"transientcontent":true}}});mw.config.set({"wgbackendresponsetime":128,"wghostname":"mw1256"});});
+
+

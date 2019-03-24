@@ -1,0 +1,435 @@
+
+
+
+
+journalist - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"journalist","wgtitle":"journalist","wgcurrevisionid":883741845,"wgrevisionid":883741845,"wgarticleid":50100,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["use dmy dates from august 2014","commons category link is on wikidata","wikipedia articles with gnd identifiers","wikipedia articles with lccn identifiers","wikipedia articles with nara identifiers","wikipedia articles with ndl identifiers","journalists","media occupations","journalism occupations","journalism","broadcasting occupations","television terminology"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"journalist","wgrelevantarticleid":50100,"wgrequestid":"xgkpcapaad0aaeaszeaaaaba","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q1930187","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","mediawiki.page.gallery","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+journalist 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+for other uses, see journalist (disambiguation).
+"reporter" redirects here. for other uses, see reporter (disambiguation).
+
+
+ a television reporter speaking into a microphone in front of a camera, 2005
+a journalist is a person who collects, writes, or distributes news or other current information to the public. a journalist's work is called journalism. a journalist can work with general issues or specialize in certain issues. however, most journalists tend to specialize, and by cooperating with other journalists, produce journals that span many topics.[1] for example, a sports journalist covers news within the world of sports, but this journalist may be a part of a newspaper that covers many different topics.
+
+contents
+
+1 roles
+2 journalistic freedom
+3 journalist and source relationship
+4 the worst year on record for journalist
+5 gallery
+6 see also
+7 references
+8 bibliography
+9 external links
+
+
+roles[edit]
+a reporter is a type of journalist who researches, writes, and reports on information in order to present in sources, conduct interviews, engage in research, and make reports. the information-gathering part of a journalist's job is sometimes called reporting, in contrast to the production part of the job such as writing articles. reporters may split their time between working in a newsroom and going out to witness events or interviewing people. reporters may be assigned a specific beat or area of coverage.
+depending on the context, the term journalist may include various types of editors, editorial writers, columnists, and visual journalists, such as photojournalists (journalists who use the medium of photography).
+journalism has developed a variety of ethics and standards.  while objectivity and a lack of bias are of primary concern and importance, more liberal types of journalism, such as advocacy journalism and activism, intentionally adopt a non-objective viewpoint.  this has become more prevalent with the advent of social media and blogs, as well as other platforms that are used to manipulate or sway social and political opinions and policies.  these platforms often project extreme bias, as "sources" are not always held accountable or considered necessary in order to produce a written, televised, or otherwise "published" end product.
+
+matthew c. nisbet, who has written on science communication,[2] has defined a "knowledge journalist" as a public intellectual who, like walter lippmann, david brooks, fareed zakaria, naomi klein, michael pollan, thomas friedman, and andrew revkin, sees their role as researching complicated issues of fact or science which most laymen would not have the time or access to information to research themselves, then communicating an accurate and understandable version to the public as a teacher and policy advisor.in his best-known books, public opinion (1922) and the phantom public (1925), lippmann argued that most individuals lacked the capacity, time, and motivation to follow and analyze news of the many complex policy questions that troubled society. nor did they often directly experience most social problems, or have direct access to expert insights. these limitations were made worse by a news media that tended to over-simplify issues and to reinforce stereotypes, partisan viewpoints, and prejudices. as a consequence, lippmann believed that the public needed journalists like himself who could serve as expert analysts, guiding “citizens to a deeper understanding of what was really important.”[3]
+in 2018, the united states department of labor's occupational outlook handbook reported that employment for the category, "reporters, correspondents and broadcast news analysts," will decline 9 percent between 2016 and 2026.[4]
+
+journalistic freedom[edit]
+journalists sometimes expose themselves to danger, particularly when reporting in areas of armed conflict or in states that do not respect the freedom of the press. organizations such as the committee to protect journalists and reporters without borders publish reports on press freedom and advocate for journalistic freedom. as of november 2011, the committee to protect journalists reports that 887 journalists have been killed worldwide since 1992 by murder (71%), crossfire or combat (17%), or on dangerous assignment (11%). the "ten deadliest countries" for journalists since 1992 have been iraq (230 deaths), philippines (109), russia (77), colombia (76), mexico (69), algeria (61), pakistan (59), india (49), somalia (45), brazil (31) and sri lanka (30).[5]
+the committee to protect journalists also reports that as of december 1, 2010, 145 journalists were jailed worldwide for journalistic activities. current numbers are even higher. the ten countries with the largest number of currently-imprisoned journalists are turkey (95),[6] china (34), iran (34), eritrea (17), burma (13), uzbekistan (six), vietnam (five), cuba (four), ethiopia (four), and sudan (three).[7]
+apart from the physical harm, journalists are harmed psychologically. this applies especially to war reporters, but their editorial offices at home often do not know how to deal appropriately with the reporters they expose to danger. hence, a systematic and sustainable way of psychological support for traumatized journalists is strongly needed. however, only little and fragmented support programs exist so far.[8]
+the newseum in washington, d.c. is home to the journalists memorial, which lists the names of over 2,100 journalists from around the world who were killed in the line of duty.
+
+journalist and source relationship[edit]
+the relationship between a professional journalist and a source can be rather complex, a source can actually impact the direction of the article written by the journalist. the article 'a compromised fourth estate' uses herbert gans' metaphor to capture their relationship. he uses a dance metaphor 'the tango' to illustrate the co-operative nature of their interactions "it takes two to tango". herbert suggests that the source often leads but journalists commonly object to this notion for two reasons:
+
+it signals source supremacy in news making.
+it offends journalists’ professional culture, which emphasizes independence and editorial autonomy.
+this dance metaphor helps showcase consensus within the relationship but the article fully describe the common relation between the two "a relationship with sources that is too cozy is potentially compromising of journalists’ integrity and risks becoming collusive. journalists have typically favored a more robust, conflict model, based on a crucial assumption that if the media are to function as watchdogs of powerful economic and political interests, journalists must establish their independence of sources or risk the fourth estate being driven by the fifth estate of public relations".[9]
+
+the worst year on record for journalist[edit]
+ jamal khashoggi, killed inside saudi arabia's consulate in istanbul on oct 2, 2018
+according to reporters without borders' annual report, the year 2018 was the worst year on record for deadly violence and abuse toward journalists; there was a 15 per cent increase in such killings since 2017.[10][11]
+ruben pat was gunned down outside a mexican beach bar. yaser murtaja was shot by an israeli army sniper. bulgarian viktoria marinova was beaten, raped and strangled. a car bomb killed malta's daphne caruana galizia. jamal khashoggi was killed inside saudi arabia's consulate in istanbul on oct 2.[12]
+
+gallery[edit]
+
+
+
+
+a program director sets the task for tv journalists, 1998.
+
+
+
+
+
+
+a reporter for radio azadi interviews a citizen in helmand province, afghanistan, 2009.
+
+
+
+
+
+
+journalist interviews a cosplayer, 2012.
+
+
+
+
+
+
+a reporter interviewing boris johnson when he was mayor of london, 2014
+
+
+
+
+
+
+official tastes the water of a new well in front of journalists in mogadishu, somalia, 2014.
+
+
+
+
+see also[edit]
+
+
+journalism portal
+
+
+24-hour news cycle
+broadcast journalism
+electronic field production (efp)
+electronic news-gathering (eng)
+list of itv journalists and newsreaders
+list of journalists
+local news
+news broadcasting
+news presenter
+news program
+newsroom
+outside broadcasting
+student newspaper
+war correspondent
+
+references[edit]
+
+^ diderot, denis. "journalist". the encyclopedia of diderot & d'alembert: collaborative translations project. retrieved 1 april 2015..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ publications, environment magazine - heldref. "environment magazine - communicating climate change: why frames matter for public engagement". www.environmentmagazine.org.
+
+^ matthew c. nisbet (march 2013). "nature's prophet: bill mckibben as journalist, public intellectual and activist" (pdf). discussion paper series #d-78. joan shorenstein center on the press, politics and public policy, school of communication and the center for social media american university. p. 7. retrieved march 8, 2013.
+
+^ talton, jon (2018-01-31). "occupational outlook: where the big bucks are — and aren't". the seattle times. retrieved 2018-02-01.
+
+^ "887 journalists killed since 1992." committee to protect journalists. retrieved 28 august 2012.
+
+^ "number of jailed journalists nearly doubles in turkey". los angeles times. 5 april 2012. retrieved 6 april 2012.
+
+^ iran, china drive prison tally to 14-year high. "iran, china drive prison tally to 14-year high (december 8, 2010). committee to protect journalists. retrieved november 18, 2011". cpj.org. retrieved 16 april 2013.
+
+^ "petra tabeling: in crisis areas, journalists are at risk in physical and psychological terms".
+
+^ lewis, justin; williams, andrew; franklin, bob (6 february 2008). "a compromised fourth estate". journalism studies. 9: 1–20. doi:10.1080/14616700701767974.
+
+^ langford, eleanor (17 december 2018). "2018 was worst year for violence and abuse against journalists, report says". telegraph.co.uk. the telegraph. retrieved 7 january 2019.
+
+^ "worldwide round-up of journalists killed, detained, held hostage, or missing in 2018" (pdf). rsf.org. reporters without borders. 1 december 2018. retrieved 7 january 2019.
+
+^ hjelmgaard, kim (18 december 2018). "'unscrupulous politicians' blamed for worst year on record for journalist killings". usa today. usa today. retrieved 7 january 2019.
+
+
+bibliography[edit]
+fowler, nathaniel clark. (1913). the handbook of journalism: all about newspaper work.--facts and information of vital moment to the journalist and to all who would enter this calling. new york: sully and kleinteich.
+huffman, james l. (2003). a yankee in meiji japan: the crusading journalist. lanham, maryland: rowman & littlefield. isbn 978-0-7425-2621-1
+randall, david. (2000). the universal journalist. sterling virginia: pluto press. isbn 978-0-7453-1641-3; oclc 43481682
+stone, ejijah melville. (1921) fifty years a journalist. new york: doubleday, page and company. oclc 1520155
+woods, donald. (1981). asking for trouble: autobiography of a banned journalist. new york: atheneum. isbn 978-0-689-11159-4; oclc 6864121
+external links[edit]
+
+
+
+look up journalist in wiktionary, the free dictionary.
+ media related to journalists at wikimedia commons
+
+society of professional journalists
+vtejournalismroles
+journalist
+reporter
+editor
+columnist
+copy editor
+meteorologist
+news presenter
+photographer
+political commentator
+blogger
+profession
+news
+news writing style
+ethics
+objectivity
+values
+attribution
+defamation
+editorial independence
+journalism school
+areas
+arts
+business
+data-driven
+entertainment
+environment
+fashion
+global
+medicine
+politics
+science
+sports
+technical
+trade
+traffic
+video games
+weather
+world
+genres
+access
+advocacy
+analytic
+blogging
+broadcast
+churnalism
+citizen
+civic
+collaborative
+community
+data
+database
+embedded
+gonzo
+immersion
+interpretive
+investigative
+literary
+muckraking
+narrative
+new journalism
+non-profit journalism
+online
+opinion
+peace
+photojournalism
+scientific
+visual
+watchdog
+social impact
+fake news
+fourth estate
+freedom of the press
+hostile media effect
+infotainment
+media bias
+public relations
+yellow journalism
+news media
+newspapers
+magazines
+tv and radio
+internet
+news agencies
+alternative media
+list of journalism articles
+vtejournalism rolesediting
+editor
+copy editor
+contributing editor
+assignment editor
+public editor
+duty editor
+political editor
+managing editor
+editor-at-large
+editor-in-chief
+editorial board
+commissioning editor
+staff
+journalists (reporters)
+columnist
+blogger
+meteorologist
+news presenter
+pundit / commentator
+fixer
+stringer
+correspondent
+fact checker
+food critic
+gossip columnist
+news analyst
+staff writer
+photographer
+
+authority control 
+gnd: 4028781-6
+lccn: sh85070788
+nara: 10638985
+ndl: 00574980
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=journalist&oldid=883741845"					
+categories: journalistsmedia occupationsjournalism occupationsjournalismbroadcasting occupationstelevision terminologyhidden categories: use dmy dates from august 2014commons category link is on wikidatawikipedia articles with gnd identifierswikipedia articles with lccn identifierswikipedia articles with nara identifierswikipedia articles with ndl identifiers 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commonswikinews 
+
+
+
+languages
+
+
+afrikaansalemannischالعربيةasturianuazərbaycancaবাংলাбеларускаябеларуская (тарашкевіца)‎българскиབོད་ཡིགbosanskicatalàчӑвашлаčeštinadanskdeutscheestiελληνικάespañolesperantoeuskaraفارسیfrançaisfryskfurlangaeilgegalego한국어հայերենहिन्दीhrvatskibahasa indonesiaitalianoעבריתbasa jawaಕನ್ನಡქართულიқазақшаkreyòl ayisyenкыргызчаلۊری شومالیlatviešulietuviųlumbaartмакедонскиmalagasyമലയാളംbahasa melayuмонголnederlands日本語нохчийнnorsknorsk nynorskoccitanолык марийਪੰਜਾਬੀپنجابیپښتوភាសាខ្មែរpolskiportuguêsromânăрусиньскыйрусскийsarduscotsshqipsicilianusimple englishسنڌيslovenčinasoomaaligaکوردیсрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskatagalogதமிழ்ไทยтоҷикӣtürkçeукраїнськаاردوvènetotiếng việtייִדיש粵語中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 17 february 2019, at 09:28 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.432","walltime":"0.609","ppvisitednodes":{"value":1648,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":54307,"limit":2097152},"templateargumentsize":{"value":1850,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":46826,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  518.628      1 -total"," 18.95%   98.255      5 template:cite_web"," 12.71%   65.916      3 template:isbn"," 12.12%   62.835      1 template:commonscatinline","  7.66%   39.701      1 template:authority_control","  6.46%   33.485      1 template:other_uses","  6.06%   31.423      1 template:cite_journal","  5.72%   29.661      4 template:catalog_lookup_link","  5.39%   27.964      5 template:cite_news","  4.54%   23.562      1 template:use_dmy_dates"]},"scribunto":{"limitreport-timeusage":{"value":"0.213","limit":"10.000"},"limitreport-memusage":{"value":5499894,"limit":52428800}},"cachereport":{"origin":"mw1341","timestamp":"20190217092802","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":131,"wghostname":"mw1266"});});
+
+

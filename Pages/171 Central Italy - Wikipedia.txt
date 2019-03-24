@@ -1,0 +1,479 @@
+
+
+
+
+central italy - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"central_italy","wgtitle":"central italy","wgcurrevisionid":853580140,"wgrevisionid":853580140,"wgarticleid":2155348,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["articles containing italian-language text","articles to be expanded from august 2018","all articles to be expanded","articles needing translation from italian wikipedia","coordinates on wikidata","geography of italy","nuts 1 statistical regions of the european union"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"central_italy","wgrelevantarticleid":2155348,"wgrequestid":"xgc@oapamewaalfo8zgaaabk","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfexpandallsectionsuseroption":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgcoordinates":{"lat":42.3097,"lon":13.2494},"wgwikibaseitemid":"q1127320","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","jquery.makecollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makecollapsible","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+central italy 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+for the eu constituency, see central italy (european parliament constituency).
+
+central italy
+
+
+
+
+
+regional statistics
+
+
+composition
+
+ lazio marche tuscany umbria
+
+
+area - total
+
+58,052 km2 (22,414 sq mi)
+
+
+population - total
+
+12,067,524[1] (2016 est.)
+
+
+gdp
+
+€343.7 billion (2008)[2]
+
+
+central italy (italian: italia centrale or just centro) is one of the five official statistical regions of italy used by the national institute of statistics (istat), a first level nuts region and a european parliament constituency.
+
+contents
+
+1 regions
+2 politics
+3 see also
+4 references
+
+
+regions[edit]
+central italy encompasses four of the country's 20 regions:
+
+lazio
+marche
+tuscany
+umbria
+
+the southernmost and easternmost parts of lazio (sora, cassino, gaeta, cittaducale, formia, and amatrice districts) are often included in southern italy (mezzogiorno) for cultural and historical reasons, since they were once part of the kingdom of the two sicilies and southern italian dialects are spoken.
+as a geographical region, however, central italy may also sometimes include the regions of abruzzo and molise,[3][4][5] which are usually part of southern italy for cultural and historical reasons.
+
+politics[edit]
+marche, tuscany and umbria form, along with emilia-romagna to the immediate north, what is traditionally the most left-wing region in italy.
+lazio, particularly outside of rome, is more politically conservative, a trait which it shares with southern italy.
+
+see also[edit]
+italian nuts level 1 regions:
+northwest italy
+northeast italy
+south italy
+insular italy
+northern italy
+southern italy
+references[edit]
+
+
+^ "statistiche demografiche istat". www.demo.istat.it..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ "eurostat - tables, graphs and maps interface (tgm) table". epp.eurostat.ec.europa.eu.
+
+^ source: touring club italiano (tci), "atlante stradale d'italia". 1999–2000 tci atlas. isbn 88-365-1115-5 (northern italy volume) – isbn 88-365-1116-3 (central italy volume) – isbn 88-365-1117-1 (southern italy volume)
+
+^ source: de agostini, "atlante geografico metodico". isbn 88-415-6753-8
+
+^ source: enciclopedia italiana "treccani"
+
+
+this article may be expanded with text translated from the corresponding article in italian.  (august 2018) click [show] for important translation instructions.
+view a machine-translated version of the italian article.
+machine translation like deepl or google translate  is a useful starting point for translations, but translators must revise errors as necessary and confirm that the translation is accurate, rather than simply copy-pasting machine-translated text into the english wikipedia.
+do not translate text that appears unreliable or low-quality. if possible, verify the text with references provided in the foreign-language article.
+you must provide copyright attribution in the edit summary accompanying your translation by providing an interlanguage link to the source of your translation. a model attribution edit summary (using german): content in this edit is translated from the existing german wikipedia article at [[:de:exact name of german article]]; see its history for attribution.
+you should also add the template {{translated|it|italia central}} to the talk page.
+for more guidance, see wikipedia:translation.
+vteitaly articleshistorychronology
+prehistory
+italic peoples
+ancient peoples of italy
+pre-nuragic sardinia
+nuragic peoples
+etruscan civilization
+nuragic civilization
+phoenician/carthaginian colonies
+magna graecia
+ancient rome
+kingdom
+republic
+empire
+middle ages
+italy under odoacer
+ostrogoths
+byzantium
+lombards
+the holy roman empire
+the sardinian judicates
+arabs
+normans
+guelphs and ghibellines
+the italian city-states
+the maritime republics
+renaissance
+italian wars
+early modern period
+unification
+revolutions of 1820
+revolutions of 1830
+revolutions of 1848
+sicilian revolution of 1848
+first war of independence
+crimean war
+second war of independence
+expedition of the thousand
+third war of independence
+capture of rome
+monarchy and the world wars
+kingdom of italy
+colonial empire
+world war i
+fascist italy
+world war ii
+resistance
+civil war
+republic
+economic boom
+years of lead
+years of mud
+mani pulite
+by topic
+citizenship
+currency
+economy
+fashion
+flags
+genetic
+historic states
+military
+music
+postal
+railways
+geography
+peninsula
+northern
+northwest
+northeast
+central
+southern
+south
+insular
+climate
+fauna
+flora
+mountains
+prealps
+alps
+apennines
+volcanology
+volcanoes
+beaches
+canals
+caves
+earthquakes
+islands
+lakes
+national parks
+rivers
+valleys
+politics
+constitution
+elections
+referendums
+foreign relations
+missions
+judiciary
+law enforcement
+military
+parliament
+chamber of deputies
+senate
+political parties
+president
+prime minister
+council of ministers
+regions
+provinces
+metropolitan cities
+comune
+municipalities
+cities
+economy
+economic history
+milan
+naples
+rome
+turin
+regions by gdp
+automotive industry
+banking
+central bank
+companies
+energy
+government debt
+science and technology
+stock exchange
+taxation
+telecommunications
+internet
+tourism
+trade unions
+transportation
+welfare
+society
+abortion
+adoption
+billionaires
+capital punishment
+corruption
+crime
+demographics
+education
+secondary
+higher
+universities
+emigration
+fathers' rights movement
+feminism
+gambling
+health
+healthcare
+immigration
+lgbt rights
+nobility
+prostitution
+racism
+religion
+smoking
+social class
+terrorism
+women
+culture
+duecento
+trecento
+quattrocento
+cinquecento
+seicento
+settecento
+architecture
+art
+castles
+cinema
+cuisine
+beer
+wine
+cultural icons
+decorations
+design
+fashion
+festivals
+folklore
+italian language
+regional italian
+italian literature
+italophilia
+italophobia
+languages
+media
+newspapers
+radio
+tv
+monuments
+music
+classical
+folk
+opera
+popular
+mythology
+national symbols
+anthem
+emblem
+flag
+regions
+national monument
+personification
+people
+philosophy
+public holidays
+festa della repubblica
+sculpture
+sport
+traditions
+world heritage sites
+
+ italy portal
+ category
+ commons
+ news
+quotes
+travel
+ wikiproject
+
+coordinates: 42°18′35″n 13°14′58″e﻿ / ﻿42.3097°n 13.2494°e﻿ / 42.3097; 13.2494
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=central_italy&oldid=853580140"					
+categories: geography of italynuts 1 statistical regions of the european unionhidden categories: articles containing italian-language textarticles to be expanded from august 2018all articles to be expandedarticles needing translation from italian wikipediacoordinates on wikidata 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikivoyage 
+
+
+
+languages
+
+
+العربيةasturianuбеларускаябългарскиcatalàdanskdeutschespañolfrançais한국어hrvatskibahasa indonesiaitalianokiswahililatinaмакедонскиnederlands日本語românăрусскийsardusimple englishsrpskohrvatski / српскохрватскиbasa sundatürkçeукраїнськаvènetotiếng việt中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 5 august 2018, at 19:25 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.600","walltime":"0.782","ppvisitednodes":{"value":2493,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":114314,"limit":2097152},"templateargumentsize":{"value":24562,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":19,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":14770,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  662.185      1 -total"," 25.80%  170.851      1 template:reflist"," 21.37%  141.508      1 template:lang-it"," 19.31%  127.900      1 template:italy_topics"," 19.28%  127.698      6 template:navbox"," 18.55%  122.841      1 template:country_topics"," 13.07%   86.576      2 template:cite_web"," 10.33%   68.434      4 template:isbn","  8.78%   58.145      1 template:expand_italian","  7.83%   51.881      1 template:about"]},"scribunto":{"limitreport-timeusage":{"value":"0.313","limit":"10.000"},"limitreport-memusage":{"value":14353564,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1266","timestamp":"20190210230317","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":88,"wghostname":"mw1241"});});
+
+

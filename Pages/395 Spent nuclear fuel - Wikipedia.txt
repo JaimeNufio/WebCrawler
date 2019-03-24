@@ -1,0 +1,649 @@
+
+
+
+
+spent nuclear fuel - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"spent_nuclear_fuel","wgtitle":"spent nuclear fuel","wgcurrevisionid":881374801,"wgrevisionid":881374801,"wgarticleid":4094572,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["cs1 maint: archived copy as title","nuclear fuels","nuclear reprocessing","radioactive waste"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"spent_nuclear_fuel","wgrelevantarticleid":4094572,"wgrequestid":"xgr7kapaicmaaj6@asqaaadr","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q2623868","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+spent nuclear fuel 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+ spent fuel pool at a nuclear power plant
+spent nuclear fuel, occasionally called used nuclear fuel, is nuclear fuel that has been irradiated in a nuclear reactor (usually at a nuclear power plant). it is no longer useful in sustaining a nuclear reaction in an ordinary thermal reactor and depending on its point along the nuclear fuel cycle, it may have considerably different isotopic constituents.
+
+contents
+
+1 nature of spent fuel
+
+1.1 nanomaterial properties
+1.2 fission products
+
+1.2.1 table of chemical data
+
+
+1.3 plutonium
+1.4 uranium
+1.5 minor actinides
+
+
+2 spent fuel decay heat
+3 fuel composition and long term radioactivity
+4 spent fuel corrosion
+
+4.1 noble metal nanoparticles and hydrogen
+
+
+5 disposal
+6 risks
+7 see also
+8 references
+
+
+nature of spent fuel[edit]
+see large, john h: radioactive decay characteristics of irradiated nuclear fuels, january 2006.[1]
+
+nanomaterial properties[edit]
+in the oxide fuel, intense temperature gradients exist which cause fission products to migrate. the zirconium tends to move to the centre of the fuel pellet where the temperature is highest, while the lower-boiling fission products move to the edge of the pellet. the pellet is likely to contain lots of small bubble-like pores which form during use; the fission xenon migrates to these voids. some of this xenon will then decay to form caesium, hence many of these bubbles contain a large concentration of 137cs.
+in the case of mixed oxide (mox) fuel, the xenon tends to diffuse out of the plutonium-rich areas of the fuel, and it is then trapped in the surrounding uranium dioxide. the neodymium tends to not be mobile.
+also metallic particles of an alloy of mo-tc-ru-pd tend to form in the fuel. other solids form at the boundary between the uranium dioxide grains, but the majority of the fission products remain in the uranium dioxide as solid solutions. a paper describing a method of making a non-radioactive "uranium active" simulation of spent oxide fuel exists.[2]
+
+fission products[edit]
+3% of the mass consists of fission products of 235u and 239pu (also indirect products in the decay chain); these are considered radioactive waste or may be separated further for various industrial and medical uses. the fission products include every element from zinc through to the lanthanides; much of the fission yield is concentrated in two peaks, one in the second transition row (zr, mo, tc, ru, rh, pd, ag) and the other later in the periodic table (i, xe, cs, ba, la, ce, nd). many of the fission products are either non-radioactive or only short-lived radioisotopes. but a considerable number are medium to long-lived radioisotopes such as 90sr, 137cs, 99tc and 129i. research has been conducted by several different countries into segregating the rare isotopes in fission waste including the "fission platinoids" (ru, rh, pd) and silver (ag) as a way of offsetting the cost of reprocessing; however, this is not currently being done commercially.
+the fission products can modify the thermal properties of the uranium dioxide; the lanthanide oxides tend to lower the thermal conductivity of the fuel, while the metallic nanoparticles slightly increase the thermal conductivity of the fuel.[3]
+
+table of chemical data[edit]
+
+the chemical forms of fission products in uranium dioxide[4]
+
+
+element
+gas
+metal
+oxide
+solid solution
+
+
+br kr
+
+yes
+-
+-
+-
+
+
+rb
+
+yes
+-
+yes
+-
+
+
+sr
+
+-
+-
+yes
+yes
+
+
+y
+
+-
+-
+-
+yes
+
+
+zr
+
+-
+-
+yes
+yes
+
+
+nb
+
+-
+-
+yes
+-
+
+
+mo
+
+-
+yes
+yes
+-
+
+
+tc ru rh pd ag cd in sb
+
+-
+yes
+-
+-
+
+
+te
+
+yes
+yes
+yes
+yes
+
+
+i xe
+
+yes
+-
+-
+-
+
+
+cs
+
+yes
+-
+yes
+-
+
+
+ba
+
+-
+-
+yes
+yes
+
+
+la ce pr nd pm sm eu
+
+-
+-
+-
+yes
+
+plutonium[edit]
+ spent nuclear fuel stored underwater and uncapped at the hanford site in washington, usa
+about 1% of the mass is 239pu and 240pu resulting from conversion of 238u, which may be considered either as a useful byproduct, or as dangerous and inconvenient waste. one of the main concerns regarding nuclear proliferation is to prevent this plutonium from being used by states, other than those already established as nuclear weapons states, to produce nuclear weapons. if the reactor has been used normally, the plutonium is reactor-grade, not weapons-grade: it contains more than 19% 240pu and less than 80% 239pu, which makes it not ideal for making bombs. if the irradiation period has been short then the plutonium is weapons-grade (more than 80%, up to 93%).
+
+uranium[edit]
+96% of the mass is the remaining uranium: most of the original 238u and a little 235u. usually 235u would be less than 0.83% of the mass along with 0.4% 236u.
+reprocessed uranium will contain 236u, which is not found in nature; this is one isotope which can be used as a fingerprint for spent reactor fuel.
+if using a thorium fuel to produce fissile u-233, the snf (spent nuclear fuel) will have u-233, with a half-life of 159,200 years (unless this uranium is removed from the spent fuel by a chemical process). the presence of u-233 will affect the long-term radioactive decay of the spent fuel. if compared with mox fuel, the activity around one million years in the cycles with thorium will be higher due to the presence of the not fully decayed u-233.
+for natural uranium fuel:
+fissile component starts at 0.71% 235u concentration in natural uranium. at discharge, total fissile component is still 0.50% (0.23% 235u, 0.27% fissile 239pu, 241pu) fuel is discharged not because fissile material is fully used-up, but because the neutron-absorbing fission products have built up and the fuel becomes significantly less able to sustain a nuclear reaction.
+some natural uranium fuels use chemically active cladding, such as magnox, and need to be reprocessed because long-term storage and disposal is difficult.[5]
+
+minor actinides[edit]
+traces of the minor actinides are present in spent reactor fuel. these are actinides other than uranium and plutonium and include neptunium, americium and curium. the amount formed depends greatly upon the nature of the fuel used and the conditions under which it was used. for instance, the use of mox fuel (239pu in a 238u matrix) is likely to lead to the production of more 241am and heavier nuclides than a uranium/thorium based fuel (233u in a 232th matrix).
+for highly enriched fuels used in marine reactors and research reactors, the isotope inventory will vary based on in-core fuel management and reactor operating conditions.
+
+spent fuel decay heat[edit]
+ decay heat as fraction of full power for a reactor scramed from full power at time 0, using two different correlations
+main article: decay heat
+when a nuclear reactor has been shut down and the nuclear fission chain reaction has ceased, a significant amount of heat will still be produced in the fuel due to the beta decay of fission products. for this reason, at the moment of reactor shutdown, decay heat will be about 7% of the previous core power if the reactor has had a long and steady power history. about 1 hour after shutdown, the decay heat will be about 1.5% of the previous core power. after a day, the decay heat falls to 0.4%, and after a week it will be 0.2%. the decay heat production rate will continue to slowly decrease over time.
+spent fuel that has been removed from a reactor is ordinarily stored in a water-filled spent fuel pool for a year or more (in some sites 10 to 20 years) in order to cool it and provide shielding from its radioactivity. practical spent fuel pool designs generally do not rely on passive cooling but rather require that the water be actively pumped through heat exchangers.
+
+fuel composition and long term radioactivity[edit]
+main article: long-lived fission product
+ activity of u-233 for three fuel types. in the case of mox, the u-233 increases for the first 650 thousand years as it is produced by decay of np-237 which was created in the reactor by absorption of neutrons by u-235.
+ total activity for three fuel types. in region 1 we have radiation from short-lived nuclides, and in region 2 from sr-90 and cs-137. on the far right we see the decay of np-237 and u-233.
+the use of different fuels in nuclear reactors results in different snf composition, with varying activity curves.
+long-lived radioactive waste from the back end of the fuel cycle is especially relevant when designing a complete waste management plan for snf. when looking at long-term radioactive decay, the actinides in the snf have a significant influence due to their characteristically long half-lives. depending on what a nuclear reactor is fueled with, the actinide composition in the snf will be different.
+an example of this effect is the use of nuclear fuels with thorium. th-232 is a fertile material that can undergo a neutron capture reaction and two beta minus decays, resulting in the production of fissile u-233. its radioactive decay will strongly influence the long-term activity curve of the snf around a million years. a comparison of the activity associated to u-233 for three different snf types can be seen in the figure on the top right. the burnt fuels are thorium with reactor-grade plutonium (rgpu), thorium with weapons-grade plutonium (wgpu) and mixed oxide fuel (mox, no thorium). for rgpu and wgpu, the initial amount of u-233 and its decay around a million years can be seen. this has an effect in the total activity curve of the three fuel types. the initial absence of u-233 and its daughter products in the mox fuel results in a lower activity in region 3 of the figure on the bottom right, whereas for rgpu and wgpu the curve is maintained higher due to the presence of u-233 that has not fully decayed. nuclear reprocessing can remove the actinides from the spent fuel so they can be used or destroyed (see long-lived fission product#actinides).
+
+spent fuel corrosion[edit]
+noble metal nanoparticles and hydrogen[edit]
+according to the work of corrosion electrochemist david w. shoesmith,[6][7] the nanoparticles of mo-tc-ru-pd have a strong effect on the corrosion of uranium dioxide fuel. for instance his work suggests that when hydrogen (h2) concentration is high (due to the anaerobic corrosion of the steel waste can), the oxidation of hydrogen at the nanoparticles will exert a protective effect on the uranium dioxide. this effect can be thought of as an example of protection by a sacrificial anode, where instead of a metal anode reacting and dissolving it is the hydrogen gas which is consumed.
+
+disposal[edit]
+see also: list of nuclear waste treatment technologies
+nuclear reprocessing can separate spent fuel into various combinations of reprocessed uranium, plutonium, minor actinides, fission products, remnants of zirconium or steel cladding, activation products, and the reagents or solidifiers introduced in the reprocessing itself. in this case the volume that needs to be disposed of is greatly reduced.
+alternatively, the intact spent nuclear fuel (snf) can be disposed of as radioactive waste.
+the united states has planned disposal in deep geological formations, such as the yucca mountain nuclear waste repository, where it has to be shielded and packaged to prevent its migration to humans' immediate environment for thousands of years.[1] however, on march 5, 2009, energy secretary steven chu told a senate hearing that "the yucca mountain site no longer was viewed as an option for storing reactor waste."[8] the morris operation is currently the only de facto high-level radioactive waste storage site in the united states.
+geological disposal has been approved in finland, using the kbs-3 process.[9]
+
+risks[edit]
+see also: spent fuel pool
+there is debate over whether spent fuel stored in a pool is susceptible to incidents such as earthquakes[10] or terrorist attacks[11] which could potentially result in a release of radiation.[12]
+in the rare occurrence of a fuel failure during normal operation, the primary coolant can enter the element. visual techniques are normally used for the postirradiation inspection of fuel bundles.[13]
+since the september 11 attacks the nuclear regulatory commission has instituted a series of rules mandating that all fuel pools be impervious to natural disaster and terrorist attack. as a result, used fuel pools are encased in a steel liner and thick concrete, and are regularly inspected to ensure resilience to earthquakes, tornadoes, hurricanes, and seiches.[14][15]
+
+see also[edit]
+nuclear power
+spent nuclear fuel shipping cask
+nuclear meltdown
+references[edit]
+
+
+^ a b [1] testimony of robert meyers principal deputy assistant administrator for the office of air and radiation u.s. environmental protection agency before the subcommittee on energy and air quality committee on energy and commerce u. s. house of representatives, july 15, 2008
+
+^ "microstructural features of simfuel - simulated high-burnup uo2-based nuclear fuel", p.g. lucuta, r.a. verrall, hj. matzke and b.j. palmer, journal of nuclear materials, 1991, 178, 48–60.
+
+^ dong-joo kim, jae-ho yang, jong-hun kim, young-woo rhee, ki-won kang, keon-sik kim and kun-woo song, thermochimica acta, 2007, 455, 123–128.
+
+^ "solution of fission products in uo2" (pdf). retrieved 2008-05-18..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ "rwmac's advice to ministers on the radioactive waste implications of reprocessing". radioactive waste management advisory committee (rwmac). 3 november 2002. archived from the original on 29 august 2008. retrieved 2008-05-18.
+
+^ "david w. shoesmith". university of western ontario. retrieved 2008-05-18.
+
+^ "electrochemistry and corrosion studies at western". shoesmith research group, university of western ontario. retrieved 2008-05-18.
+
+^ hebert, h. josef. "nuclear waste won't be going to nevada's yucca mountain, obama official says". chicago tribune. archived from the original on 2011-03-24.
+
+^ ialenti, vincent. "death & succession among finland's nuclear waste experts". physics today, 70, 10, 48 (2017).
+
+^ christian parenti, "fukushima's spent fuel rods pose grave danger" the nation march 15, 2011 http://www.thenation.com/article/159234/fukushimas-spent-fuel-rods-pose-grave-danger
+
+^ "are nuclear spent fuel pools secure?" council on foreign relations june 7, 2003 "archived copy". archived from the original on 2011-04-12. retrieved 2011-04-05.cs1 maint: archived copy as title (link)
+
+^ mark benjamin, "how safe is nuclear-fuel storage in the u.s.?" time magazine march 23, 2011 http://www.time.com/time/nation/article/0,8599,2060880,00.html
+
+^ huang, w. h. (dec 2012). "laboratory tests of an ultrasonic inspection technique to identify defective candu fuel elements". nuclear technologies. retrieved 20 may 2015.
+
+^ https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/storage-spent-fuel-fs.html
+
+^ http://www.nei.org/resourcesandstats/documentlibrary/nuclearwastedisposal/factsheet/used-fuel-pools-at-nuclear-power-plants/
+
+
+vtenuclear technologyscience
+chemistry
+engineering
+physics
+atomic nucleus
+fission
+fusion
+radiation
+ionizing
+braking
+fuel
+tritium
+deuterium
+helium-3
+fertile material
+fissile material
+isotope separation
+nuclear material
+uranium
+enriched
+depleted
+plutonium
+thorium
+neutron
+activation
+capture
+poison
+cross section
+generator
+radiation
+reflector
+temperature
+thermal
+fast
+fusion
+power
+by country
+power plant
+economics
+multi-mission radioisotope thermoelectric generator
+accidents and incidents
+policy
+fusion
+radioisotope thermoelectric (rtg)
+propulsion
+rocket
+safety and security
+medicineimaging
+radball
+scintigraphy
+single-photon emission (spect)
+positron-emission tomography (pet)
+therapy
+fast-neutron
+neutron capture therapy of cancer
+targeted alpha-particle
+proton-beam
+tomotherapy
+brachytherapy
+radiation therapy
+radiosurgery
+radiopharmacology
+weaponstopics
+arms race
+delivery
+design
+disarmament
+ethics
+explosion
+effects
+history
+proliferation
+testing
+high-altitude
+underground
+warfare
+yield
+tnte
+lists
+estimated death tolls from attacks
+states with nuclear weapons
+tests
+united states
+wmd treaties
+weapon-free zones
+weapons
+wasteproducts
+actinide
+reprocessed uranium
+reactor-grade plutonium
+minor actinide
+activation
+fission
+llfp
+actinide chemistry
+disposal
+fuel cycle
+high-level (hlw)
+low-level (llw)
+repository
+reprocessing
+spent fuel
+pool
+cask
+transmutation
+debate
+nuclear power
+nuclear weapons
+blue ribbon commission on america's nuclear future
+anti-nuclear movement
+uranium mining
+nuclear power phase-out
+nuclear reactorsfissionmoderatorlight water
+aqueous homogeneous
+boiling
+bwr
+abwr
+esbwr
+kerena
+pressurized
+ap1000
+apr-1400
+apr+
+apwr
+atmea1
+cap1400
+cpr-1000
+epr
+hpr-1000
+acpr1000
+acp1000
+vver
+many others
+supercritical (scwr)
+natural fission
+heavy waterd2o
+pressurized
+candu
+candu 6
+candu 9
+ec6
+afcr
+acr-1000
+ahwr
+cvtr
+iphwr-x
+phwr kwu
+mzfr
+r3
+r4 marviken
+h2o
+hwlwr
+atr
+hw blwr 250
+steam-generating (sghwr)
+organic
+wr-1
+co2
+hwgcr
+el-4
+ks 150
+kkn
+graphite .mw-parser-output .nobold{font-weight:normal}by coolantwaterh2o
+am-1
+amb-x
+egp-6
+rbmk
+gasco2
+uranium naturel graphite gaz (ungg)
+magnox
+advanced gas-cooled (agr)
+he
+gtmhr
+mhr-t
+uhtrex
+vhtr (htgr)
+pbr (pbmr)
+avr
+htr-10
+htr-pm
+thtr-300
+pmr
+molten-saltfluorides
+fuji msr
+liquid-fluoride thorium reactor (lftr)
+molten-salt reactor experiment (msre)
+integral molten salt reactor (imsr)
+thorcon
+none(fast-neutron)
+breeder (fbr)
+integral (ifr)
+liquid-metal-cooled (lmfr)
+small sealed transportable autonomous (sstar)
+traveling-wave (twr)
+energy multiplier module (em2)
+reduced-moderation (rmwr)
+fast breeder test reactor (fbtr)
+dual fluid reactor (dfr)
+generation iv
+sodium (sfr)
+bn-350
+bn-600
+bn-800
+bn-1200
+cfr-600
+phénix
+superphénix
+pfbr
+cefr
+pfr
+prism
+lead (lfr)
+helium gas (gfr)
+others
+organically moderated and cooled reactor
+arbus
+piqua
+aircraft reactor experiment
+
+fusionby confinementmagnetic
+field-reversed configuration
+levitated dipole
+reversed field pinch
+spheromak
+stellarator
+tokamak
+inertial
+bubble (acoustic)
+fusor
+electrostatic
+laser-driven
+magnetized-target
+z-pinch
+other
+dense plasma focus
+migma
+muon-catalyzed
+polywell
+pyroelectric
+
+ category
+portal
+ commons
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=spent_nuclear_fuel&oldid=881374801"					
+categories: nuclear fuelsnuclear reprocessingradioactive wastehidden categories: cs1 maint: archived copy as title 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+languages
+
+
+العربيةespañolفارسی한국어日本語românăрусскийукраїнськаtiếng việt中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 2 february 2019, at 04:03 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.332","walltime":"0.421","ppvisitednodes":{"value":1296,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":159019,"limit":2097152},"templateargumentsize":{"value":1234,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":27740,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  278.551      1 -total"," 50.23%  139.926      1 template:reflist"," 34.63%   96.463      1 template:nuclear_technology"," 34.55%   96.238      5 template:cite_web"," 33.07%   92.104      1 template:navbox_with_collapsible_groups"," 27.80%   77.451     12 template:navbox"," 14.47%   40.297      1 template:nuclear_fission_reactors","  9.59%   26.702      2 template:main","  4.27%   11.883      3 template:icon","  3.98%   11.074      2 template:cite_news"]},"scribunto":{"limitreport-timeusage":{"value":"0.131","limit":"10.000"},"limitreport-memusage":{"value":3378465,"limit":52428800}},"cachereport":{"origin":"mw1262","timestamp":"20190203022127","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"spent nuclear fuel","url":"https:\/\/en.wikipedia.org\/wiki\/spent_nuclear_fuel","sameas":"http:\/\/www.wikidata.org\/entity\/q2623868","mainentity":"http:\/\/www.wikidata.org\/entity\/q2623868","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2006-02-16t17:11:43z","datemodified":"2019-02-02t04:03:20z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/56\/fuel_pool.jpg","headline":"nuclear fuel that has been irradiated in a nuclear reactor (usually at a nuclear power plant)"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":95,"wghostname":"mw1333"});});
+
+

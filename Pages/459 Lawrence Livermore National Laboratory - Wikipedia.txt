@@ -1,0 +1,831 @@
+
+
+
+
+lawrence livermore national laboratory - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"lawrence_livermore_national_laboratory","wgtitle":"lawrence livermore national laboratory","wgcurrevisionid":883395875,"wgrevisionid":883395875,"wgarticleid":39039,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["webarchive template wayback links","pages using web citations with no url","all articles with dead external links","articles with dead external links from march 2018","articles with permanently dead external links","pages with citations lacking titles","pages with citations having bare urls","use mdy dates from november 2013","coordinates on wikidata","wikipedia articles with bnf identifiers","wikipedia articles with gnd identifiers","wikipedia articles with isni identifiers","wikipedia articles with lccn identifiers","wikipedia articles with nkc identifiers","wikipedia articles with nla identifiers","wikipedia articles with sudoc identifiers","wikipedia articles with viaf identifiers","wikipedia articles with worldcat-viaf identifiers","lawrence livermore national laboratory","laboratories in california","united states department of energy national laboratories","federally funded research and development centers","livermore, california","livermore valley","research institutes in the san francisco bay area","nuclear research institutes","nuclear weapons infrastructure of the united states","supercomputer sites","university of california","buildings and structures in alameda county, california","1952 establishments in california","superfund sites in california","battelle memorial institute","hsa foundation members","ernest lawrence","military in the san francisco bay area","military research of the united states","plasma physics facilities"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"lawrence_livermore_national_laboratory","wgrelevantarticleid":39039,"wgrequestid":"xgexiapaicsaad7k2yoaaaal","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgcoordinates":{"lat":37.69,"lon":-121.71},"wgwikibaseitemid":"q519826","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+lawrence livermore national laboratory 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+
+
+lawrence livermore national laboratorymotto"science and technologyon a mission."established1952 by the university of california; 67 years agoresearch typenuclear and basic sciencebudget$1.5 billiondirectorwilliam h. goldsteinstaff5,800locationlivermore, california, u.s.37°41′n 121°43′w﻿ / ﻿37.69°n 121.71°w﻿ / 37.69; -121.71coordinates: 37°41′n 121°43′w﻿ / ﻿37.69°n 121.71°w﻿ / 37.69; -121.71campus1 square mile (2.6 km2)operating agencylawrence livermorenational security, llcwebsitewww.llnl.govwww.llnsllc.commaplocation in california
+lawrence livermore national laboratory (llnl) is a federal research facility in livermore, california, united states, founded by the university of california, berkeley in 1952. a federally funded research and development center (ffrdc), it is primarily funded by the u.s. department of energy (doe) and managed and operated by lawrence livermore national security, llc (llns), a partnership of the university of california, bechtel, bwx technologies, aecom, and battelle memorial institute in affiliation with the texas a&m university system.  in 2012, the laboratory had the synthetic chemical element livermorium named after it.
+
+contents
+
+1 overview
+2 history
+
+2.1 origins
+2.2 renaming
+
+
+3 major projects
+
+3.1 nuclear weapons
+3.2 plutonium research
+3.3 global security program
+3.4 other programs
+
+
+4 key accomplishments
+5 key facilities
+6 largest computers
+7 livermore valley open campus (lvoc)
+8 sponsors
+9 budget
+10 directors
+11 organization
+12 corporate management
+13 public protests
+14 see also
+15 footnotes
+16 references
+17 external links and sources
+
+
+overview[edit]
+ aerial view of lawrence livermore national laboratory
+llnl is self-described as "a premier research and development institution for science and technology applied to national security."[1] its principal responsibility is ensuring the safety, security and reliability of the nation's nuclear weapons through the application of advanced science, engineering and technology. the laboratory also applies its special expertise and multidisciplinary capabilities to preventing the proliferation and use of weapons of mass destruction, bolstering homeland security and solving other nationally important problems, including energy and environmental security, basic science and economic competitiveness.
+the laboratory is located on a one-square-mile (2.6 km2) site at the eastern edge of livermore. it also operates a 7,000 acres (28 km2) remote experimental test site, called site 300, situated about 15 miles (24 km) southeast of the main lab site. llnl has an annual budget of about $1.5 billion and a staff of roughly 5,800 employees.
+
+history[edit]
+origins[edit]
+llnl was established in 1952 as the university of california radiation laboratory at livermore, an offshoot of the existing uc radiation laboratory at berkeley.  it was intended to spur innovation and provide competition to the nuclear weapon design laboratory at los alamos in new mexico, home of the manhattan project that developed the first atomic weapons. edward teller and ernest lawrence,[2] director of the radiation laboratory at berkeley, are regarded as the co-founders of the livermore facility.
+the new laboratory was sited at a former naval air station of world war ii.  it  was already home to several uc radiation laboratory projects that were too large for its location in the berkeley hills above the uc campus, including one of the first experiments in the magnetic approach to confined thermonuclear reactions (i.e. fusion). about half an hour southeast of berkeley, the livermore site provided much greater security for classified projects than an urban university campus.
+lawrence tapped 32-year-old herbert york, a former graduate student of his, to run livermore. under york, the lab had four main programs: project sherwood (the magnetic-fusion program), project whitney (the weapons-design program), diagnostic weapon experiments (both for the los alamos and livermore laboratories), and a basic physics program. york and the new lab embraced the lawrence "big science" approach, tackling challenging projects with physicists, chemists, engineers, and computational scientists working together in multidisciplinary teams. lawrence died in august 1958 and shortly after, the university's board of regents named both laboratories for him, as the lawrence radiation laboratory.
+historically, the berkeley and livermore laboratories have had very close relationships on research projects, business operations, and staff. the livermore lab was established initially as a branch of the berkeley laboratory. the livermore lab was not officially severed administratively from the berkeley lab until 1971. to this day, in official planning documents and records, lawrence berkeley national laboratory is designated as site 100, lawrence livermore national lab as site 200, and llnl's remote test location as site 300.[3]
+
+renaming[edit]
+the laboratory was renamed lawrence livermore laboratory (lll) in 1971. on october 1, 2007 llns assumed management of llnl from the university of california, which had exclusively managed and operated the laboratory since its inception 55 years before. the laboratory was honored in 2012 by having the synthetic chemical element livermorium named after it. the llns takeover of the laboratory has been controversial.  in may 2013, an alameda county jury awarded over $2.7 million to five former laboratory employees who were among 430 employees llns laid off during 2008.[4]  the jury found that llns breached a contractual obligation to terminate the employees only for "reasonable cause."[5]  the five plaintiffs also have pending age discrimination claims against llns, which will be heard by a different jury in a separate trial.[6]  there are 125 co-plaintiffs awaiting trial on similar claims against llns.[7]  the may 2008 layoff was the first layoff at the laboratory in nearly 40 years.[6]
+on march 14, 2011, the city of livermore officially expanded the city's boundaries to annex llnl and move it within the city limits. the unanimous vote by the livermore city council expanded livermore's southeastern boundaries to cover 15 land parcels covering 1,057 acres (4.28 km2) that comprise the llnl site. the site was formerly an unincorporated area of alameda county. the llnl campus continues to be owned by the federal government.
+
+major projects[edit]
+nuclear weapons[edit]
+from its inception, livermore focused on new weapon design concepts; as a result, its first three nuclear tests were unsuccessful. the lab persevered and its subsequent designs proved increasingly successful. in 1957, the livermore lab was selected to develop the warhead for the navy's polaris missile. this warhead required numerous innovations to fit a nuclear warhead into the relatively small confines of the missile nosecone.[8]
+during the cold war, many livermore-designed warheads entered service. these were used in missiles ranging in size from the lance surface-to-surface tactical missile to the megaton-class spartan antiballistic missile. over the years, llnl designed the following warheads: w27 (regulus cruise missile; 1955; joint with los alamos), w38 (atlas/titan icbm; 1959), b41 (b52 bomb; 1957), w45 (little john/terrier missiles; 1956), w47 (polaris slbm; 1957), w48 (155-mm howitzer; 1957), w55 (submarine rocket; 1959), w56 (minuteman icbm; 1960), w58 (polaris slbm; 1960), w62 (minuteman icbm; 1964), w68 (poseidon slbm; 1966), w70 (lance missile; 1969), w71 (spartan missile; 1968), w79 (8-in. artillery gun; 1975), w82 (155-mm howitzer; 1978), b83 (modern strategic bomb; 1979), and w87 (peacekeeper/mx icbm; 1982). the w87 and the b83 are the only llnl designs still in the u.s. nuclear stockpile.[9][10][11]
+with the collapse of the soviet union in 1991 and the end of the cold war, the united states began a moratorium on nuclear testing and development of new nuclear weapon designs. to sustain existing warheads for the indefinite future, a science-based stockpile stewardship program (ssp) was defined that emphasized the development and application of greatly improved technical capabilities to assess the safety, security, and reliability of existing nuclear warheads without the use of nuclear testing. confidence in the performance of weapons, without nuclear testing, is maintained through an ongoing process of stockpile surveillance, assessment and certification, and refurbishment or weapon replacement.
+with no new designs of nuclear weapons, the warheads in the u.s. stockpile must continue to function far past their original expected lifetimes. as components and materials age, problems can arise. stockpile life extension programs can extend system lifetimes, but they also can introduce performance uncertainties and require maintenance of outdated technologies and materials. because there is concern that it will become increasingly difficult to maintain high confidence in the current warheads for the long term, the department of energy/national nuclear security administration initiated the reliable replacement warhead (rrw) program. rrw designs could reduce uncertainties, ease maintenance demands, and enhance safety and security. in march 2007, the llnl design was chosen for the reliable replacement warhead.[12] since that time, congress has not allocated funding for any further development of the rrw.
+
+plutonium research[edit]
+llnl conducts research into the properties and behavior of plutonium to learn how plutonium performs as it ages and how it behaves under high pressure (e.g., with the impact of high explosives). plutonium has seven temperature-dependent solid allotropes. each possesses a different density and crystal structure. alloys of plutonium are even more complex; multiple phases can be present in a sample at any given time. experiments are being conducted at llnl and elsewhere to measure the structural, electrical and chemical properties of plutonium and its alloys and to determine how these materials change over time. such measurements will enable scientists to better model and predict plutonium's long-term behavior in the aging stockpile.[13]
+the lab's plutonium research is conducted in a specially designed facility called the superblock, with emphasis on safety and security. work with highly enriched uranium is also conducted here. in march 2008, the national nuclear security administration (nnsa) presented its preferred alternative for the transformation of the nation's nuclear weapons complex. under this plan, llnl would be a center of excellence for nuclear design and engineering, a center of excellence for high explosive research and development, and a science magnet in high-energy-density (i.e., laser) physics. in addition, most of its special nuclear material would be removed and consolidated at a more central, yet-to-be-named site.[14]
+on september 30, 2009, the nnsa announced that about two thirds of the special nuclear material (e.g., plutonium) at llnl requiring the highest level of security protection had been removed from llnl. the move was part of nnsa's efforts initiated in october 2006 to consolidate special nuclear material at five sites by 2012, with significantly reduced square footage at those sites by 2017. the federally mandated project intends to improve security and reduce security costs, and is part of nnsa's overall effort to transform the cold war era "nuclear weapons" enterprise into a 21st-century "nuclear security" enterprise. the original date to remove all high-security nuclear material from llnl, based on equipment capability and capacity, was 2014. nnsa and llnl developed a timeline to remove this material as early as possible, accelerating the target completion date to 2012.[15]
+
+global security program[edit]
+the lab's work in global security aims to reduce and mitigate the dangers posed by the spread or use of weapons of mass destruction and by threats to energy and environmental security. livermore has been working on global security and homeland security for decades, predating both the collapse of the soviet union in 1991 and the september 11, 2001, terrorist attacks. llnl staff have been heavily involved in the cooperative nonproliferation programs with russia to secure at-risk weapons materials and assist former weapons workers in developing peaceful applications and self-sustaining job opportunities for their expertise and technologies.[16][17] in the mid-1990s, lab scientists began efforts to devise improved biodetection capabilities, leading to miniaturized and autonomous instruments that can detect biothreat agents in a few minutes instead of the days to weeks previously required for dna analysis.[18][19]
+today, livermore researchers address a spectrum of threats – radiological/nuclear, chemical, biological, explosives, and cyber. they combine physical and life sciences, engineering, computations, and analysis to develop technologies that solve real-world problems. activities are grouped into five programs:
+
+nonproliferation. preventing the spread of materials, technology and expertise related to weapons of mass destruction (wmd) and detecting wmd proliferation activities worldwide.[20]
+domestic security: anticipating, innovating and delivering technological solutions to prevent and mitigate devastating high-leverage attacks on u.s. soil.[21][22][23][24]
+defense: developing and demonstrating new concepts and capabilities to help the department of defense prevent and deter harm to the nation, its citizens and its military forces.[25][26]
+intelligence: working at the intersection of science, technology and analysis to provide insight into the threats to national security posed by foreign entities.[27]
+energy and environmental security: furnishing scientific understanding and technological expertise to devise energy and environmental solutions at global, regional and local scales.[28][29]
+other programs[edit]
+llnl supports capabilities in a broad range of scientific and technical disciplines, applying current capabilities to existing programs and developing new science and technologies to meet future national needs.
+
+the llnl chemistry, materials, and life science research focuses on chemical engineering, nuclear chemistry, materials science, and biology and bio-nanotechnology.
+physics thrust areas include condensed matter and high-pressure physics, optical science and high energy density physics, medical physics and biophysics, and nuclear, particle and accelerator physics.
+in the area of energy and environmental science, livermore's emphasis is on carbon and climate, energy, water and the environment, and the national nuclear waste repository.
+the llnl engineering activities include micro- and nanotechnology, lasers and optics, biotechnology, precision engineering, nondestructive characterization, modeling and simulation, systems and decision science, and sensors, imaging and communications.
+the llnl is very strong in computer science, with thrust areas in computing applications and research, integrated computing and communications systems, and cyber security.
+lawrence livermore national laboratory has worked out several energy technologies in the field of coal gasification, shale oil extraction, geothermal energy, advanced battery research, solar energy, and fusion energy. main oil shale processing technologies worked out by the lawrence livermore national laboratory are llnl hrs (hot-recycled-solid), llnl rise (in situ extraction technology) and llnl radiofrequency technologies.[30]
+
+key accomplishments[edit]
+over its 60-year history, lawrence livermore has made many scientific and technological achievements, including:[31]
+
+critical contributions to the u.s. nuclear deterrence effort through the design of nuclear weapons to meet military requirements and, since the mid-1990s, through the stockpile stewardship program, by which the safety and reliability of the enduring stockpile is ensured without underground nuclear testing.
+design, construction, and operation of a series of ever larger, more powerful, and more capable laser systems, culminating in the 192-beam national ignition facility (nif), completed in 2009.
+advances in particle accelerator and fusion technology, including magnetic fusion, free-electron lasers, accelerator mass spectrometry, and inertial confinement fusion.
+breakthroughs in high-performance computing, including the development of novel concepts for massively parallel computing and the design and application of computers that can carry out hundreds of trillions of operations per second.
+development of technologies and systems for detecting nuclear, radiological, chemical, biological, and explosive threats to prevent and mitigate wmd proliferation and terrorism.
+development of extreme ultraviolet lithography (euvl) for fabricating next-generation computer chips.
+first-ever detection of massive compact halo objects (machos), a suspected but previously undetected component of dark matter.
+advances in genomics, biotechnology, and biodetection, including major contributions to the complete sequencing of the human genome though the joint genome institute and the development of rapid pcr (polymerase chain reaction) technology that lies at the heart of today's most advanced dna detection instruments.
+development and operation of the national atmospheric release advisory center (narac), which provides real-time, multi-scale (global, regional, local, urban) modeling of hazardous materials released into the atmosphere.
+development of highest resolution global climate models and contributions to the international panel on climate change which, together with former vice president al gore, was awarded the 2007 nobel peace prize.
+co-discoverers of new superheavy elements 113, 114, 115, 116, 117, and 118.
+invention of new healthcare technologies, including a microelectrode array for construction of an artificial retina, a miniature glucose sensor for the treatment of diabetes, and a compact proton therapy system for radiation therapy.
+on july 17, 2009 llnl announced that the laboratory had received eight r&d 100 awards – more than it had ever received in the annual competition. the previous llnl record of seven awards was reached five times – in 1987, 1988, 1997, 1998 and 2006.
+also known as the "oscars of invention", the awards are given each year for the development of cutting-edge scientific and engineering technologies with commercial potential. the awards raise llnl's total number of awards since 1978 to 129.
+on october 12, 2016, llnl released the results of computerized modeling of mars' moon phobos, finding that it has a connection with keeping the earth safe from asteroids.[32]
+
+key facilities[edit]
+biosecurity and nanoscience laboratory. researchers apply advances in nanoscience to develop novel technologies for the detection, identification, and characterization of harmful biological pathogens (viruses, spores, and bacteria) and chemical toxins.
+center for accelerator mass spectrometry: llnl's center for accelerator mass spectrometry (cams) develops and applies a wide range of isotopic  and ion-beam analytical tools used in basic research and technology development, addressing a spectrum of scientific needs important to the laboratory, the university community, and the nation. cams is the world's most versatile and productive accelerator mass spectrometry facility, performing more than 25,000 ams measurement operations per year.
+high explosives applications facility and energetic materials center: at heaf, teams of scientists, engineers, and technicians address nearly all aspects of high explosives: research, development and testing, material characterization, and performance and safety tests. heaf activities support the laboratory's energetic materials center, a national resource for research and development of explosives, pyrotechnics, and propellants.
+national atmospheric release advisory center: narac is a national support and resource center for planning, real-time assessment, emergency response, and detailed studies of incidents involving a wide variety of hazards, including nuclear, radiological, chemical, biological, and natural atmospheric emissions.
+national ignition facility: this 192-beam, stadium-size laser system will be used to compress fusion targets to conditions required for thermonuclear burn. experiments at nif will study physical processes at conditions that exist only in the interior of stars and in exploding nuclear weapons (see national ignition facility and photon science).
+superblock: this unique high-security facility houses modern equipment for research and engineering testing of nuclear materials and is the place where plutonium expertise is developed, nurtured, and applied. research on highly enriched uranium also is performed here.
+livermore computing complex: llnl's livermore computing complex houses some of the world's most powerful computers, including the 20 petaflop sequoia, the 5-petaflop vulcan system; jade and quartz systems at 3 petaflops each; the 970-teraflop zin system; 431-teraflop cab system; and additional large multi-core, multi-socket linux clusters with various processor types. the newest machine, sierra[33], occupied the no. 3 position on the top500 list[34] in june 2018. the complex has nearly 10,000 square feet of machine floor space, supporting both classified and unclassified national security programs.
+titan laser: titan is a combined nanosecond-long pulse and ultrashort-pulse (subpicosecond) laser, with hundreds of joules of energy in each beam. this petawatt-class laser is used for a range of high-energy density physics experiments, including the science of fast ignition for inertial confinement fusion energy.
+largest computers[edit]
+throughout its history, llnl has been a leader in computers and scientific computing. even before the livermore lab opened its doors, e.o. lawrence and edward teller recognized the importance of computing and the potential of computational simulation. their purchase of one of the first univac computers set the precedent for llnl's history of acquiring and exploiting the fastest and most capable supercomputers in the world. a succession of increasingly powerful and fast computers have been used at the lab over the years. llnl researchers use supercomputers to answer questions about subjects such as materials science simulations, global warming, and reactions to natural disasters.
+llnl has a long history of developing computing software and systems. initially, there was no commercially available software, and computer manufacturers considered it the customer's responsibility to develop their own. users of the early computers had to write not only the codes to solve their technical problems, but also the routines to run the machines themselves. today, llnl computer scientists focus on creating the highly complex physics models, visualization codes, and other unique applications tailored to specific research requirements. a great deal of software also has been written by llnl personnel to optimize the operation and management of the computer systems, including operating system extensions such as chaos (linux clustering) and resource management packages such as slurm.[35] llnl also initiated and continues leading the development of zfs on linux, the official port of zfs to the linux operating system.[36][37]
+
+livermore valley open campus (lvoc)[edit]
+in august 2009 a joint venture was announced between sandia national laboratories/california campus and llnl to create an open, unclassified research and development space called the livermore valley open campus (lvoc). the motivation for the lvoc stems from current and future national security challenges that require increased coupling to the private sector to understand threats and deploy solutions in areas such as high performance computing, energy and environmental security, cyber security, economic security, and non-proliferation.
+the lvoc is modeled after research and development campuses found at major industrial research parks and other u.s. department of energy laboratories with campus-like security, a set of business and operating rules devised to enhance and accelerate international scientific collaboration and partnerships with u.s. government agencies, industry and academia. ultimately, the lvoc will consist of an approximately 110-acre parcel along the eastern edge of the livermore laboratory and sandia sites, and will house additional conference space, collaboration facilities and a visitor's center to support educational and research activities.
+objectives of lvoc
+
+enhance the two laboratories' national security missions by substantially increasing engagement with the private sector and academic community.
+stay at the forefront of the science, technology and engineering fields.
+ensure a quality future workforce by expanding opportunities for open engagement of the broader scientific community.
+sponsors[edit]
+llnl's  principal sponsor is the department of energy/national nuclear security administration (doe/nnsa) office of defense programs, which supports its stockpile stewardship and advanced scientific computing programs. funding to support llnl's global security and homeland security work comes from the doe/nnsa office of defense nuclear nonproliferation as well as the department of homeland security. llnl also receives funding from doe's office of science, office of civilian radioactive waste management, and office of nuclear energy. in addition, llnl conducts work-for-others research and development for various defense department sponsors, other federal agencies, including nasa, nuclear regulatory commission (nrc), national institutes of health, and environmental protection agency, a number of california state agencies, and private industry.
+
+budget[edit]
+for fiscal year 2009 llnl spent $1.497 billion[38] on research and laboratory operations activities:
+research/science budget:
+
+national ignition facility - $301.1 million
+nuclear weapon deterrent (safety/security/reliability) - $227.2 million
+advance simulation and computing - $221.9 million
+nonproliferation - $152.2 million
+department of defense - $125.9 million
+basic and applied science - $86.6 million
+homeland security - $83.9 million
+energy - $22.4 million
+site management/operations budget:
+
+safeguards/security - $126.5 million
+facility operations - $118.2 million
+environmental restoration - $27.3 million
+directors[edit]
+the llnl director is appointed by the board of governors of lawrence livermore national security, llc (llns) and reports to the board. the laboratory director also serves as the president of llns. over the course of its history, the following scientists have served as llnl director:
+
+1952–1958   herbert york
+1958–1960   edward teller
+1960–1961   harold brown
+1961–1965   john s. foster, jr.
+1965–1971   michael m. may
+1971–1988   roger e. batzel
+1988–1994   john h. nuckolls
+1994–2002   c. bruce tarter
+2002–2006   michael r. anastasio
+2006–2011   george h. miller[39]
+2011–2013   penrose c. albright[40]
+2013–2014   bret knapp, acting director [41]
+2014–present william h. goldstein[42]
+organization[edit]
+the llnl director is supported by a senior executive team consisting of the deputy director, the deputy director for science and technology, principal associate directors, and other senior executives who manage areas/functions directly reporting to the laboratory director.
+the directors office is organized into these functional areas/offices:
+
+chief information office
+contractor assurance and continuous improvement
+environment, safety and health
+government and external relations
+independent audit and oversight
+office of general counsel
+prime contract management office
+quality assurance office
+security organization
+llns, llc parent oversight office
+the laboratory is organized into four principal directorates, each headed by a principal associate director:
+
+global security
+weapons and complex integration
+national ignition facility and photon science
+operations and business
+business
+facilities & infrastructure
+institutional facilities management
+integrated safety management system project office
+nuclear operations
+planning and financial management
+staff relations
+strategic human resources management
+three other directorates are each headed by an associate director who reports to the llnl director:
+
+computation
+engineering
+physical & life sciences
+corporate management[edit]
+the llnl director reports to the lawrence livermore national security, llc (llns) board of governors, a group of key scientific, academic, national security and business leaders from the llns partner companies that jointly own and control llns. the llns board of governors has a total of 16 positions, with six of these governors constituting an executive committee. all decisions of the board are made by the governors on the executive committee. the other governors are advisory to the executive committee and do not have voting rights.
+the university of california is entitled to appoint three governors to the executive committee, including the chair. bechtel is also entitled to appoint three governors to the executive committee, including the vice chair. one of the bechtel governors must be a representative of babcock & wilcox (b&w) or the washington division of urs corporation (urs), who is nominated jointly by b&w and urs each year, and who must be approved and appointed by bechtel. the executive committee has a seventh governor who is appointed by battelle; they are non-voting and advisory to the executive committee. the remaining board positions are known as independent governors (also referred to as outside governors), and are selected from among individuals, preferably of national stature, and can not be employees or officers of the partner companies.
+the university of california-appointed chair has tie-breaking authority over most decisions of the executive committee. the board of governors is the ultimate governing body of llns and is charged with overseeing the affairs of llns in its operations and management of llnl.
+llns managers and employees who work at llnl, up to and including the president/laboratory director, are generally referred to as laboratory employees. all laboratory employees report directly or indirectly to the llns president. while most of the work performed by llnl is funded by the federal government, laboratory employees are paid by llns which is responsible for all aspects of their employment including providing health care benefits and retirement programs.
+within the board of governors, authority resides in the executive committee to exercise all rights, powers, and authorities of llns, excepting only certain decisions that are reserved to the parent companies. the llns executive committee is free to appoint officers or other managers of llns and llnl, and may delegate its authorities as it deems appropriate to such officers, employees, or other representatives of llns/llnl. the executive committee may also retain auditors, attorneys, or other professionals as necessary. for the most part the executive committee has appointed senior managers at llnl as the primary officers of llns. as a practical matter most operational decisions are delegated to the president of llns, who is also the laboratory director.  the positions of president/laboratory director and deputy laboratory director are filled by joint action of the chair and vice chair of the executive committee, with the university of california nominating the president/laboratory director and bechtel nominating the deputy laboratory director.[43]
+the current llns chairman is norman j. pattiz, founder and chairman of westwood one, america's largest radio network, who also currently serves on the board of regents of the university of california. the vice chairman is j. scott ogilvie, president of bechtel systems & infrastructure, inc., who also serves on the board of directors of bechtel group, inc. (bgi) and on the bgi audit committee.[44]
+
+public protests[edit]
+the livermore action group organized many mass protests, from 1981 to 1984, against nuclear weapons which were being produced by the lawrence livermore national laboratory. peace activists ken nightingale and eldred schneider were involved.[45] on june 22, 1982, more than 1,300 anti-nuclear protesters were arrested in a nonviolent demonstration.[46] more recently, there has been an annual protest against nuclear weapons research at lawrence livermore. in august 2003, 1,000 people protested at livermore labs against "new-generation nuclear warheads".[47] in the 2007 protest, 64 people were arrested.[48]  more than 80 people were arrested in march 2008 while protesting at the gates.[49]
+
+see also[edit]
+
+
+san francisco bay area portal
+center for the advancement of science in space—operates the us national laboratory on the iss
+dielectric wall accelerator
+top 100 us federal contractors
+list of articles associated with nuclear issues in california
+footnotes[edit]
+
+
+^ "missions & programs". lawrence livermore national laboratory. february 13, 2008. retrieved march 19, 2008..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ http://education.llnl.gov/archives/ archived october 10, 2012, at the wayback machine multimedia timeline of eo lawrence
+
+^ "science and technology review (september 1998)". "a short history of the laboratory at livermore".
+
+^ jeff garberson (may 16, 2013). "$2.7 million awarded to former lab employees". the independent. missing or empty |url= (help)
+
+^ max taves (may 10, 2013). "laid off lab workers awarded $2.8 million". the recorder. missing or empty |url= (help)
+
+^ a b bob egelko (may 13, 2013). "livermore lab jury awards $2.7 million". sf chronicle. missing or empty |url= (help)
+
+^ todd jacobson (may 17, 2013). "five former livermore workers receive $2.7 million in layoff case". nuclear weapons & materials monitor. missing or empty |url= (help)
+
+^ "global security" (april 27, 2005). "weapons of mass destruction: miniaturization". retrieved june 3, 2008.
+
+^ james n. gibson (october 14, 2006). "complete list of all u.s. nuclear weapons". the nuclear weapon archive. retrieved march 19, 2008.
+
+^ "u.s. nuclear weapon enduring stockpile". the nuclear weapon archive. august 31, 2007. retrieved march 19, 2008.
+
+^ "nuclear weapons stockpile stewardship". lawrence livermore national laboratory. february 13, 2008. retrieved march 19, 2008.
+
+^ scott lindlaw (march 2, 2007). "bush administration picks lawrence livermore warhead design". the san francisco chronicle. archived from the original on march 12, 2007. retrieved march 19, 2008.
+
+^ "plutonium up close...way close". lawrence livermore national laboratory. retrieved may 20, 2008.
+
+^ "lawrence livermore national laboratory fact sheet for nnsa complex transformation– preferred alternative" (pdf). lawrence livermore national laboratory. archived from the original (pdf) on august 20, 2008. retrieved may 20, 2008.
+
+^ nnsa press release, september 30, 2009, nnsa ships additional special nuclear material from lawrence livermore national laboratory as part of deinventory project[permanent dead link]
+
+^ "science and technology review, lawrence livermore national laboratory" (november 2007). "scientists without borders".
+
+^ science and technology review, lawrence livermore national laboratory (december 2007). "out of harm's way".
+
+^ science and technology review, lawrence livermore national laboratory (november 2007). "characterizing virulent pathogens".
+
+^ science and technology review, lawrence livermore national laboratory (september 2007). "assessing the threat of bioterrorism".
+
+^ science and technology review, lawrence livermore national laboratory (august 2008). "antineutrino detectors improve reactor safeguards".
+
+^ science and technology review, lawrence livermore national laboratory (january 2007). "identifying the source of stolen nuclear materials".
+
+^ science and technology review, lawrence livermore national laboratory (october 2007). "mobile mapping for radioactive materials".
+
+^ science and technology review, lawrence livermore national laboratory (march 2007). "on the leading edge of atmospheric predictions".
+
+^ science and technology review, lawrence livermore national laboratory (may 2006). "protecting our nation's livestock".
+
+^ science and technology review, lawrence livermore national laboratory. "simulating warfare is no video game".
+
+^ science and technology review, lawrence livermore national laboratory. "leveraging science and technology in the national interest".
+
+^ science and technology review, lawrence livermore national laboratory (july 2002). "knowing the enemy, anticipating the threat".
+
+^ science and technology review, lawrence livermore national laboratory (june 2007). "setting a world driving record with hydrogen".
+
+^ science and technology review, lawrence livermore national laboratory (march 2007). "climate and agriculture: change begets change".
+
+^ 
+burnham, alan k.; mcconaghy, james r. (october 16, 2006). comparison of the acceptability of various oil shale processes (pdf). 26th oil shale symposium. golden, colorado: lawrence livermore national laboratory. pp. 2, 17. ucrl-conf-226717. retrieved may 27, 2007.
+
+^ "lawrence livermore national laboratory". lawrence livermore national laboratory. retrieved may 20, 2008.
+
+^ verger, rob (october 12, 2016). "scientists study 'death star' to save earth". retrieved december 21, 2016.
+
+^  https://en.wikipedia.org/wiki/sierra_(supercomputer). missing or empty |title= (help)
+
+^ "top 500: the list".
+
+^ "linux at livermore". lawrence livermore national laboratory. retrieved february 28, 2007.
+
+^ toponce, aaron. "aaron toponce : install zfs on debian gnu/linux". pthree.org. retrieved 20 december 2018.
+
+^ "zfs on linux". zfsonlinux.org. lawrence livermore national laboratory. retrieved 20 december 2018.
+
+^ "llnl: a tradition of excellence continues". retrieved december 21, 2016.
+
+^ "george miller to retire as laboratory director". april 12, 2011. retrieved december 21, 2016.
+
+^ uc newsroom - livermore lab director named archived november 5, 2011, at the wayback machine
+
+^ "lanl's knapp to take over as livermore acting director - lamonitor.com". retrieved december 21, 2016.
+
+^ "william h. goldstein named director of llnl". march 27, 2014. retrieved december 21, 2016.
+
+^ an introductory guide to uc’s ties to lans llc and llns llc and their management of the weapons labs at los alamos and livermore, prepared by the uc academic council and university counsel archived may 29, 2010, at the wayback machine
+
+^ "lawrence livermore national security, llc". retrieved december 21, 2016.
+
+^ barbara epstein.  political protest and cultural revolution: nonviolent direct action in the 1970s and 1980s university of california press, 1993. pp. 125-133.
+
+^ "1,300 arrested in california antinuclear protest". the new york times. june 22, 1982. retrieved december 21, 2016.
+
+^ diana walsh (11 august 2003). "nuclear protest blooms again at lab: 1,000 in livermore demonstrate against new buster bomb". san francisco chronicle. retrieved 23 june 2015.
+
+^ police arrest 64 at california anti-nuclear protest reuters, april 6, 2007.
+
+^ "scores arrested during protest at livermore lab". oakland tribune. march 22, 2008. archived from the original on may 12, 2013.
+
+
+references[edit]
+nuclear rites: a weapons laboratory at the end of the cold war, by hugh gusterson, university of california press, berkeley, 1996 (isbn 0-520-21373-4)
+the stockpile stewardship and management program: maintaining confidence in the safety and reliability of the enduring u.s. nuclear weapon stockpile u.s. department of energy, office of defense programs. may 1995.
+preparing for the 21st century: 40 years of excellence. lawrence livermore national laboratory. report ucrl-ar-108618. 1992.
+external links and sources[edit]
+
+
+
+wikimedia commons has media related to lawrence livermore national laboratory.
+lawrence livermore national laboratory (official website)
+lawrence livermore national security, a limited liability corporation (official website)
+"history of the laboratory". llnl. july 14, 2002. archived from the original on october 12, 2006.
+serving the nation for fifty years: 1952 - 2002 lawrence livermore national laboratory [llnl], fifty years of accomplishments (pdf) (report). llnl. 2002. ucrl-ar-148833.
+llnl industrial partnerships and commercialization (ipac) (official website)
+university of california office of laboratory management (official website)
+society of professionals, scientists and engineers (union representing uc scientists and engineers at llnl)
+university of california llnl retiree group (legal defense fund for uc retirees from llnl)
+annotated bibliography for livermore from the alsos digital library for nuclear issues
+vtelawrence livermore national laboratoryfacilities
+mirror fusion test facility
+national atmospheric release advisory center
+national energy research scientific computing center
+national ignition facility
+supercomputers
+asc purple
+asci blue pacific
+asci white
+peloton
+sierra
+products
+argus laser
+cyclops laser
+gist
+llnl rise process
+long path laser
+lx-14
+micropower impulse radar
+nova
+novette laser
+reliable replacement warhead
+rose
+scald
+shiva laser
+silo
+slapper detonator
+w47
+w70
+w71
+yorick
+people
+ernest lawrence
+edward teller
+related
+blue gene
+inertial confinement fusion
+laser inertial fusion energy
+stockpile stewardship
+sustained spheromak physics experiment
+z-division
+
+vteagencies under the united states department of energy
+headquarters: james v. forrestal building
+rick perry, secretary of energy
+dan brouillette, deputy secretary of energy
+deputy secretary of energy
+office of intelligence and counterintelligence
+energy information administration
+arpa-e
+under secretary of energyfor energy and environment
+office of electricity delivery and energy reliability
+office of energy efficiency and renewable energy
+under secretary of energy for nuclear security
+national nuclear security administration
+under secretary of energy for science
+office of science
+osti
+assistant secretary of energy for nuclear energyoffice of nuclear energypower marketing administration
+bonneville power administration
+southeastern power administration
+southwestern power administration
+western area power administration
+national laboratory system
+ames
+argonne
+nbl
+cnm
+aps
+atlas
+emc
+berkeley
+als
+mf
+ncem
+nerscc
+esn
+jgi
+brookhaven
+ags
+cfn
+nsls
+nsls ii
+rhic
+fermilab
+tev
+idaho
+resl
+jlab
+livermore
+narac
+nif
+los alamos
+darhtf
+netl
+albany
+nrel
+oak ridge
+sns
+cnms
+hfir
+nccs
+pacific northwest
+emsl
+pppl
+nstx
+tftr
+srnl
+sandia
+z
+slac
+ssrl
+energy department facilities and reservations
+fernald nlo
+hanford
+k-25
+kansas city plant
+nevada test site
+area 19
+area 20
+nhhor
+pantex
+rocky flats
+ssfl
+etec
+sre
+srs
+spr
+wipp
+y-12
+yucca mountain
+independent agency
+federal energy regulatory commission
+
+vteuniversity of californiacampuses
+berkeley
+davis
+irvine
+los angeles
+merced
+riverside
+san diego
+san francisco
+santa barbara
+santa cruz
+hospitals
+uc davis medical center
+uc irvine medical center
+ronald reagan ucla medical center
+ucla medical center, santa monica
+uc san diego medical center, hillcrest
+uc san diego jacobs medical center
+ucsf medical center
+benioff children's hospital
+ucsf betty irene moore women’s hospital
+ucsf bakar cancer hospital
+langley porter psychiatric institute
+research
+lawrence berkeley national laboratory
+lawrence livermore national laboratory (20%)
+lick observatory
+los alamos national laboratory (25%)
+natural reserve system
+w. m. keck observatory (50%)
+media
+california digital library
+uc press
+uctv
+uc libraries
+governance
+regents
+student regent
+uc student association
+police
+
+vteanti-nuclear movement in the united statesgeneral
+anti-nuclear groups in the us
+california movement
+great peace march
+nuclear history of the united states
+nuclear power in the us
+canceled nuclear reactors in the us
+nuclear weapons and the us
+protests in the us
+anti-nuclear advocates in the us
+organizationsand  groups
+abalone alliance
+alliance for nuclear responsibility
+clamshell alliance
+committee for nuclear responsibility
+corporate accountability international
+critical mass energy project
+friends of the earth
+greenpeace usa
+institute for energy and environmental research
+mothers for peace
+musicians united for safe energy
+nevada desert experience
+nuclear control institute
+nuclear information and resource service
+physicians for social responsibility
+plowshares movement
+public citizen
+shad alliance
+sierra club
+three mile island alert
+women strike for peace
+people
+daniel berrigan
+william j. bichsel
+bruce g. blair
+larry bogart
+helen caldicott
+barry commoner
+norman cousins
+frances crowe
+carrie barefoot dickerson
+paul m. doty
+bernard t. feld
+randall forsberg
+john gofman
+paul gunter
+john hall
+jackie hudson
+sam lovejoy
+amory lovins
+bernard lown
+arjun makhijani
+gregory minor
+hermann joseph muller
+ralph nader
+graham nash
+linus pauling
+eugene rabinowitch
+phil radford
+bonnie raitt
+carl sagan
+martin sheen
+karen silkwood
+thomas
+louis vitale
+harvey wasserman
+victor weisskopf
+main  protestsites
+black fox
+bodega bay
+diablo canyon
+indian point
+lawrence livermore
+montague
+naval base kitsap
+nevada test site
+rancho seco
+rocky flats
+san onofre
+seabrook
+shoreham
+three mile island
+trojan
+vermont yankee
+white house peace vigil
+y-12 weapons plant
+yankee rowe
+books
+carbon-free and nuclear-free
+conservation fallout: nuclear protest at diablo canyon
+contesting the future of nuclear power
+critical masses: opposition to nuclear power in california, 1958–1978
+the cult of the atom
+the doomsday machine (book)
+fallout: an american nuclear tragedy
+killing our own
+licensed to kill? the nuclear regulatory commission and the shoreham power plant
+making a real killing: rocky flats and the nuclear west
+nuclear implosions: the rise and fall of the washington public power supply system
+nuclear politics in america
+we almost lost detroit
+films
+atomic ed and the black hole
+the china syndrome
+countdown to zero
+dark circle
+nuclear tipping point
+silkwood
+
+vtelivermore, californialandmarks
+cresta blanca winery
+wente vineyards
+concannon vineyard
+economy
+livermore valley ava
+lawrence livermore national laboratory
+sandia national laboratories
+national ignition facility
+the wine group
+activant
+education
+las positas college
+livermore valley joint usd
+granada high
+livermore high
+livermore valley charter preparatory
+hertz foundation
+transportation
+interstate 580 (california)
+livermore municipal airport
+wheels bus system
+altamont corridor express
+other
+robert livermore
+bill owens
+mocho subbasin
+livermore rodeo
+centennial light
+brushy peak regional preserve
+valley concert chorale
+
+authority control 
+bnf: cb14588609x (data)
+gnd: 131902-4
+isni: 0000 0001 2160 9702
+lccn: n81036582
+nkc: ko2010589309
+nla: 36526275
+sudoc: 077311558
+viaf: 132530755
+ worldcat identities (via viaf): 132530755
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=lawrence_livermore_national_laboratory&oldid=883395875"					
+categories: lawrence livermore national laboratorylaboratories in californiaunited states department of energy national laboratoriesfederally funded research and development centerslivermore, californialivermore valleyresearch institutes in the san francisco bay areanuclear research institutesnuclear weapons infrastructure of the united statessupercomputer sitesuniversity of californiabuildings and structures in alameda county, california1952 establishments in californiasuperfund sites in californiabattelle memorial institutehsa foundation membersernest lawrencemilitary in the san francisco bay areamilitary research of the united statesplasma physics facilitieshidden categories: webarchive template wayback linkspages using web citations with no urlall articles with dead external linksarticles with dead external links from march 2018articles with permanently dead external linkspages with citations lacking titlespages with citations having bare urlsuse mdy dates from november 2013coordinates on wikidatawikipedia articles with bnf identifierswikipedia articles with gnd identifierswikipedia articles with isni identifierswikipedia articles with lccn identifierswikipedia articles with nkc identifierswikipedia articles with nla identifierswikipedia articles with sudoc identifierswikipedia articles with viaf identifierswikipedia articles with worldcat-viaf identifiers 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+العربيةবাংলাdanskdeutschελληνικάespañolفارسیfrançais한국어bahasa indonesiaitaliano日本語norsknorsk nynorskpolskiportuguêsromânăрусскийsvenskatürkçeукраїнська中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 15 february 2019, at 04:37 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.824","walltime":"1.063","ppvisitednodes":{"value":3334,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":186804,"limit":2097152},"templateargumentsize":{"value":8858,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":12,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":132133,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  846.191      1 -total"," 49.94%  422.547      1 template:reflist"," 33.79%  285.937     40 template:cite_web"," 20.14%  170.445      1 template:infobox_laboratory"," 18.55%  156.950      1 template:infobox","  7.77%   65.748      1 template:br_separated_entries","  5.98%   50.584      1 template:authority_control","  5.90%   49.960      1 template:ifempty","  5.35%   45.302      1 template:dead_link","  4.89%   41.398      1 template:fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.426","limit":"10.000"},"limitreport-memusage":{"value":9488756,"limit":52428800}},"cachereport":{"origin":"mw1322","timestamp":"20190216045433","ttl":86400,"transientcontent":true}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"lawrence livermore national laboratory","url":"https:\/\/en.wikipedia.org\/wiki\/lawrence_livermore_national_laboratory","sameas":"http:\/\/www.wikidata.org\/entity\/q519826","mainentity":"http:\/\/www.wikidata.org\/entity\/q519826","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2002-02-25t15:51:15z","datemodified":"2019-02-15t04:37:29z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f9\/usa_california_location_map.svg","headline":"federal research institute in livermore, california, united states"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":1203,"wghostname":"mw1322"});});
+
+

@@ -1,0 +1,2198 @@
+
+
+
+
+list of cities in italy - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"list_of_cities_in_italy","wgtitle":"list of cities in italy","wgcurrevisionid":881815940,"wgrevisionid":881815940,"wgarticleid":10138926,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["pages with maps","lists of cities in italy","lists of cities by country","lists of cities by population"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"list_of_cities_in_italy","wgrelevantarticleid":10138926,"wgrequestid":"xgwynqpaiceaabk5jkqaaaaa","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgkartographerlivedata":{"_134fd09cc8061c0a9a5051f5413685f5c66e183e":[{"type":"externaldata","service":"geoshape","url":"https://maps.wikimedia.org/geoshape?getgeojson=1\u0026query=++select+%3fid+%3fpopulation+++%28+%27%23c12838%27+as+%3ffill%29++++%28concat%28%27population%3a+%27%2c+str%28%3fpopulation%29%29+as+%3fdescription%29+++%28concat%28%27%5b%5b%27%2c+substr%28str%28%3flink%29%2c31%2c500%29%2c++%27%7c%27%2c+%3fstatelabel%2c+%27%5d%5d%27%29+as+%3ftitle%29+where+%7b+++++%7b%3fid+wdt%3ap31+wd%3aq1710033.%7d++++union+++%7b%3fid+wdt%3ap31+wd%3aq16110.+%7d+++optional+%7b+%3fid+wdt%3ap1082+%3fpopulation.+%7d+++service+wikibase%3alabel+%7b+++++bd%3aserviceparam+wikibase%3alanguage+%27en%27+.+++++%3fid+rdfs%3alabel+%3fstatelabel+.+++%7d+++%3flink+schema%3aabout+%3fid.+++%3flink+schema%3aispartof+%3chttps%3a%2f%2fen.wikipedia.org%2f%3e+.+%7d+group+by+%3fid+%3flink+%3fstatelabel+%3fpopulation++"}]},"wgwikibaseitemid":"q102310","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.kartographer.style":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","ext.kartographer.staticframe","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+list of cities in italy 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+the following is a list of italian comuni (municipalities) with a population over 50,000.[1] the table below  contains the cities populations as of december 31, 2017,[2] as estimated by the italian italian national institute of statistics[3], and the cities census population from the 2011 italian census.
+
+
+ an enlargeable basic map of italy
+contents
+
+1 cities
+2 gallery
+3 see also
+4 references
+
+
+cities[edit]
+
+
+rank
+
+city
+
+2011 census
+
+2017 estimate
+
+change
+
+region
+
+
+1
+rome
+2,617,175
+
+2,872,800
+
++9.77%
+ lazio
+
+
+2
+milan
+1,242,123
+
+1,366,180
+
++9.99%
+ lombardy
+
+
+3
+naples
+962,003
+
+966,144
+
++0.43%
+ campania
+
+
+4
+turin
+872,367
+
+882,523
+
++1.16%
+ piedmont
+
+
+5
+palermo
+657,651
+
+668,405
+
++1.64%
+ sicily
+
+
+6
+genoa
+586,180
+
+580,097
+
+−1.04%
+ liguria
+
+
+7
+bologna
+371,337
+
+389,261
+
++4.83%
+ emilia-romagna
+
+
+8
+florence
+358,079
+
+380,948
+
++6.39%
+ tuscany
+
+
+9
+bari
+315,933
+
+323,370
+
++2.35%
+ apulia
+
+
+10
+catania
+293,902
+
+311,620
+
++6.03%
+ sicily
+
+
+11
+venice
+261,362
+
+261,321
+
+−0.02%
+ veneto
+
+
+12
+verona
+260,172
+
+257,275
+
+−1.11%
+ veneto
+
+
+13
+messina
+243,262
+
+234,293
+
+−3.69%
+ sicily
+
+
+14
+padua
+206,192
+
+210,440
+
++2.06%
+ veneto
+
+
+15
+trieste
+202,123
+
+204,338
+
++1.10%
+ friuli-venezia giulia
+
+
+16
+taranto
+200,154
+
+198,283
+
+−0.93%
+ apulia
+
+
+17
+brescia
+189,902
+
+196,745
+
++3.60%
+ lombardy
+
+
+18
+parma
+175,895
+
+195,687
+
++11.25%
+ emilia-romagna
+
+
+19
+prato
+185,456
+
+193,325
+
++4.24%
+ tuscany
+
+
+20
+modena
+179,149
+
+185,273
+
++3.42%
+ emilia-romagna
+
+
+21
+reggio calabria
+180,817
+
+181,447
+
++0.35%
+ calabria
+
+
+22
+reggio emilia
+162,082
+
+171,944
+
++6.08%
+ emilia-romagna
+
+
+23
+perugia
+162,449
+
+165,683
+
++1.99%
+ umbria
+
+
+24
+ravenna
+153,740
+
+159,115
+
++3.50%
+ emilia-romagna
+
+
+25
+livorno
+157,052
+
+158,371
+
++0.84%
+ tuscany
+
+
+26
+cagliari
+149,576
+
+154,106
+
++3.03%
+ sardinia
+
+
+27
+foggia
+152,747
+
+151,372
+
+−0.90%
+ apulia
+
+
+28
+rimini
+143,321
+
+149,403
+
++4.24%
+ emilia-romagna
+
+
+29
+salerno
+139,019
+
+133,970
+
+−3.63%
+ campania
+
+
+30
+ferrara
+135,369
+
+132,278
+
+−2.28%
+ emilia-romagna
+
+
+31
+sassari
+130,658
+
+126,769
+
+−2.98%
+ sardinia
+
+
+32
+latina
+119,804
+
+126,470
+
++5.56%
+ lazio
+
+
+33
+giugliano in campania
+117,963
+
+124,361
+
++5.42%
+ campania
+
+
+34
+monza
+122,712
+
+123,598
+
++0.72%
+ lombardy
+
+
+35
+syracuse
+123,850
+
+121,605
+
+−1.81%
+ sicily
+
+
+36
+bergamo
+119,551
+
+120,923
+
++1.15%
+ lombardy
+
+
+37
+pescara
+123,077
+
+119,217
+
+−3.14%
+ abruzzo
+
+
+38
+trento
+116,298
+
+117,997
+
++1.46%
+ trentino-alto adige/südtirol
+
+
+39
+forlì
+118,167
+
+117,863
+
+−0.26%
+ emilia-romagna
+
+
+40
+vicenza
+115,927
+
+111,620
+
+−3.72%
+ veneto
+
+
+41
+terni
+113,324
+
+111,189
+
+−1.88%
+ umbria
+
+
+42
+bolzano
+104,029
+
+107,317
+
++3.16%
+ trentino-alto adige/südtirol
+
+
+43
+novara
+105,024
+
+104,183
+
+−0.80%
+ piedmont
+
+
+44
+piacenza
+103,206
+
+103,082
+
+−0.12%
+ emilia-romagna
+
+
+45
+ancona
+102,997
+
+100,924
+
+−2.01%
+ marche
+
+
+46
+andria
+100,086
+
+99,857
+
+−0.23%
+ apulia
+
+
+47
+udine
+99,627
+
+99,518
+
+−0.11%
+ friuli-venezia giulia
+
+
+48
+arezzo
+100,212
+
+99,419
+
+−0.79%
+ tuscany
+
+
+49
+cesena
+97,056
+
+96,760
+
+−0.30%
+ emilia-romagna
+
+
+50
+lecce
+95,520
+
+95,441
+
+−0.08%
+ apulia
+
+
+51
+pesaro
+95,011
+
+94,958
+
+−0.06%
+ marche
+
+
+52
+barletta
+94,459
+
+94,477
+
++0.02%
+ apulia
+
+
+53
+alessandria
+94,974
+
+93,980
+
+−1.05%
+ piedmont
+
+
+54
+la spezia
+95,378
+
+93,311
+
+−2.17%
+ liguria
+
+
+55
+pistoia
+90,288
+
+90,195
+
+−0.10%
+ tuscany
+
+
+56
+pisa
+88,217
+
+90,118
+
++2.15%
+ tuscany
+
+
+57
+catanzaro
+93,124
+
+89,718
+
+−3.66%
+ calabria
+
+
+58
+guidonia montecelio
+83,736
+
+89,288
+
++6.63%
+ lazio
+
+
+59
+lucca
+84,939
+
+89,243
+
++5.07%
+ tuscany
+
+
+60
+brindisi
+89,780
+
+87,141
+
+−2.94%
+ apulia
+
+
+61
+torre del greco
+87,197
+
+85,332
+
+−2.14%
+ campania
+
+
+62
+treviso
+82,807
+
+84,954
+
++2.59%
+ veneto
+
+
+63
+busto arsizio
+81,760
+
+83,405
+
++2.01%
+ lombardy
+
+
+64
+como
+85,263
+
+83,320
+
+−2.28%
+ lombardy
+
+
+65
+marsala
+82,774
+
+82,802
+
++0.03%
+ sicily
+
+
+66
+grosseto
+81,928
+
+82,036
+
++0.13%
+ tuscany
+
+
+67
+sesto san giovanni
+81,130
+
+81,773
+
++0.79%
+ lombardy
+
+
+68
+pozzuoli
+83,459
+
+81,141
+
+−2.78%
+ campania
+
+
+69
+varese
+81,579
+
+80,544
+
+−1.27%
+ lombardy
+
+
+70
+fiumicino
+70,985
+
+79,630
+
++12.18%
+ lazio
+
+
+71
+casoria
+79,562
+
+77,087
+
+−3.11%
+ campania
+
+
+72
+asti
+76,534
+
+76,211
+
+−0.42%
+ piedmont
+
+
+73
+cinisello balsamo
+75,150
+
+75,723
+
++0.76%
+ lombardy
+
+
+74
+caserta
+78,693
+
+75,561
+
+−3.98%
+ campania
+
+
+75
+gela
+77,360
+
+74,858
+
+−3.23%
+ sicily
+
+
+76
+aprilia
+70,349
+
+74,190
+
++5.46%
+ lazio
+
+
+77
+ragusa
+73,743
+
+73,638
+
+−0.14%
+ sicily
+
+
+78
+pavia
+71,142
+
+72,773
+
++2.29%
+ lombardy
+
+
+79
+cremona
+72,147
+
+72,077
+
+−0.10%
+ lombardy
+
+
+80
+carpi
+69,021
+
+71,148
+
++3.08%
+ emilia-romagna
+
+
+81
+quartu sant'elena
+71,779
+
+70,879
+
+−1.25%
+ sardinia
+
+
+82
+lamezia terme
+71,286
+
+70,834
+
+−0.63%
+ calabria
+
+
+83
+altamura
+70,023
+
+70,514
+
++0.70%
+ apulia
+
+
+84
+imola
+69,116
+
+69,936
+
++1.19%
+ emilia-romagna
+
+
+85
+l’aquila
+72,511
+
+69,439
+
+−4.24%
+ abruzzo
+
+
+86
+massa
+70,973
+
+69,037
+
+−2.73%
+ tuscany
+
+
+87
+trapani
+70,622
+
+67,923
+
+−3.82%
+ sicily
+
+
+88
+viterbo
+63,597
+
+67,798
+
++6.61%
+ lazio
+
+
+89
+cosenza
+70,068
+
+67,239
+
+−4.04%
+ calabria
+
+
+90
+potenza
+68,297
+
+67,211
+
+−1.59%
+ basilicata
+
+
+91
+castellammare di stabia
+64,506
+
+65,922
+
++2.20%
+ campania
+
+
+92
+afragola
+63,981
+
+64,817
+
++1.31%
+ campania
+
+
+93
+vittoria
+63,332
+
+64,212
+
++1.39%
+ sicily
+
+
+94
+crotone
+61,798
+
+63,941
+
++3.47%
+ calabria
+
+
+95
+pomezia
+61,106
+
+63,641
+
++4.15%
+ lazio
+
+
+96
+vigevano
+63,700
+
+63,153
+
+−0.86%
+ lombardy
+
+
+97
+carrara
+65,573
+
+62,537
+
+−4.63%
+ tuscany
+
+
+98
+caltanissetta
+60,267
+
+62,317
+
++3.40%
+ sicily
+
+
+99
+viareggio
+64,503
+
+62,079
+
+−3.76%
+ tuscany
+
+
+100
+fano
+64,100
+
+60,978
+
+−4.87%
+ marche
+
+
+101
+savona
+62,553
+
+60,632
+
+−3.07%
+ liguria
+
+
+102
+matera
+60,818
+
+60,403
+
+−0.68%
+ basilicata
+
+
+103
+olbia
+56,066
+
+60,261
+
++7.48%
+ sardinia
+
+
+104
+legnano
+59,147
+
+60,177
+
++1.74%
+ lombardy
+
+
+105
+acerra
+56,177
+
+59,910
+
++6.65%
+ campania
+
+
+106
+marano di napoli
+59,472
+
+59,862
+
++0.66%
+ campania
+
+
+107
+benevento
+62,035
+
+59,789
+
+−3.62%
+ campania
+
+
+108
+molfetta
+60,159
+
+59,470
+
+−1.15%
+ apulia
+
+
+109
+agrigento
+59,175
+
+59,329
+
++0.26%
+ sicily
+
+
+110
+faenza
+58,150
+
+58,797
+
++1.11%
+ emilia-romagna
+
+
+111
+cerignola
+59,103
+
+58,540
+
+−0.95%
+ apulia
+
+
+112
+moncalieri
+58,320
+
+57,234
+
+−1.86%
+ piedmont
+
+
+113
+foligno
+58,162
+
+56,999
+
+−2.00%
+ umbria
+
+
+114
+manfredonia
+57,455
+
+56,906
+
+−0.96%
+ apulia
+
+
+115
+tivoli
+56,531
+
+56,542
+
++0.02%
+ lazio
+
+
+116
+cuneo
+55,714
+
+56,281
+
++1.02%
+ piedmont
+
+
+117
+trani
+53,940
+
+56,031
+
++3.88%
+ apulia
+
+
+118
+bisceglie
+54,847
+
+55,385
+
++0.98%
+ apulia
+
+
+119
+bitonto
+56,462
+
+55,127
+
+−2.36%
+ apulia
+
+
+120
+bagheria
+56,336
+
+55,047
+
+−2.29%
+ sicily
+
+
+121
+anzio
+55,413
+
+54,710
+
+−1.27%
+ lazio
+
+
+122
+portici
+53,981
+
+54,577
+
++1.10%
+ campania
+
+
+123
+modica
+55,196
+
+54,530
+
+−1.21%
+ sicily
+
+
+124
+sanremo
+56,962
+
+54,529
+
+−4.27%
+ liguria
+
+
+125
+avellino
+56,339
+
+54,353
+
+−3.53%
+ campania
+
+
+126
+teramo
+54,957
+
+54,338
+
+−1.13%
+ abruzzo
+
+
+127
+montesilvano
+51,565
+
+54,194
+
++5.10%
+ abruzzo
+
+
+128
+siena
+54,543
+
+53,901
+
+−1.18%
+ tuscany
+
+
+129
+gallarate
+51,751
+
+53,425
+
++3.23%
+ lombardy
+
+
+130
+velletri
+53,544
+
+53,188
+
+−0.66%
+ lazio
+
+
+131
+cava de' tirreni
+53,520
+
+53,130
+
+−0.73%
+ campania
+
+
+132
+san severo
+55,321
+
+53,015
+
+−4.17%
+ apulia
+
+
+133
+aversa
+51,631
+
+52,794
+
++2.25%
+ campania
+
+
+134
+ercolano
+54,779
+
+52,763
+
+−3.68%
+ campania
+
+
+135
+civitavecchia
+52,294
+
+52,671
+
++0.72%
+ lazio
+
+
+136
+acireale
+53,122
+
+52,269
+
+−1.61%
+ sicily
+
+
+137
+mazara del vallo
+51,492
+
+51,488
+
+−0.01%
+ sicily
+
+
+138
+rovigo
+52,793
+
+51,149
+
+−3.11%
+ veneto
+
+
+139
+pordenone
+51,723
+
+51,127
+
+−1.15%
+ friuli-venezia giulia
+
+
+140
+battipaglia
+51,133
+
+51,005
+
+−0.25%
+ campania
+
+
+141
+rho
+50,686
+
+50,904
+
++0.43%
+ lombardy
+
+
+142
+chieti
+54,305
+
+50,770
+
+−6.51%
+ abruzzo
+
+
+143
+scafati
+50,794
+
+50,686
+
+−0.21%
+ campania
+
+
+144
+scandicci
+50,309
+
+50,645
+
++0.67%
+ tuscany
+
+
+gallery[edit]
+.mw-parser-output .mod-gallery{display:table}.mw-parser-output .mod-gallery-default{background:transparent;margin-top:0.5em}.mw-parser-output .mod-gallery-center{margin-left:auto;margin-right:auto}.mw-parser-output .mod-gallery-left{float:left}.mw-parser-output .mod-gallery-right{float:right}.mw-parser-output .mod-gallery-none{float:none}.mw-parser-output .mod-gallery-collapsible{width:100%}.mw-parser-output .mod-gallery .title{display:table-row}.mw-parser-output .mod-gallery .title>div{display:table-cell;text-align:center;font-weight:bold}.mw-parser-output .mod-gallery .main{display:table-row}.mw-parser-output .mod-gallery .main>div{display:table-cell}.mw-parser-output .mod-gallery .caption{display:table-row;vertical-align:top}.mw-parser-output .mod-gallery .caption>div{display:table-cell;display:block;font-size:94%;padding:0}.mw-parser-output .mod-gallery .footer{display:table-row}.mw-parser-output .mod-gallery .footer>div{display:table-cell;text-align:right;font-size:80%;line-height:1em}.mw-parser-output .mod-gallery .gallerybox .thumb img{background:none}.mw-parser-output .mod-gallery .bordered-images img{border:solid #eee 1px}.mw-parser-output .mod-gallery .whitebg img{background:#fff!important}.mw-parser-output .mod-gallery .gallerybox div{background:#fff!important}the 20 most populous cities of italy
+
+
+
+1.  rome, lazio
+
+
+
+
+
+
+2.  milan, lombardy
+
+
+
+
+
+
+3.  naples, campania
+
+
+
+
+
+
+4.  turin, piedmont
+
+
+
+
+
+
+5.  palermo, sicily
+
+
+
+
+
+
+6.  genoa, liguria
+
+
+
+
+
+
+7.  bologna, emilia-romagna
+
+
+
+
+
+
+8.  florence, tuscany
+
+
+
+
+
+
+9.  bari, apulia
+
+
+
+
+
+
+10.  catania, sicily
+
+
+
+
+
+
+11.  venice, veneto
+
+
+
+
+
+
+12.  verona, veneto
+
+
+
+
+
+
+13.  messina, sicily
+
+
+
+
+
+
+14.  padua, veneto
+
+
+
+
+
+
+15.  trieste, friuli-venezia giulia
+
+
+
+
+
+
+16.  taranto, apulia
+
+
+
+
+
+
+17.  brescia, lombardy
+
+
+
+
+
+
+18.  parma, emilia-romagna
+
+
+
+
+
+
+19.  prato, tuscany
+
+
+
+
+
+
+20.  modena, emilia-romagna
+
+
+
+
+see also[edit]
+metropolitan cities of italy
+list of metropolitan areas of italy
+references[edit]
+
+
+^ "statistiche demografiche istat". demo.istat.it. archived from the original on 22 march 2012. retrieved 29 april 2018..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ "demographic balance for the year 2017 and living population from on 31st december". demo.istat.it. retrieved 13 june 2018.
+
+^ "istat.it english". www.istat.it. archived from the original on 22 march 2018. retrieved 29 april 2018.
+
+vtecities in italy by population1,000,000+
+rome
+milan
+500,000+
+naples
+turin
+palermo
+genoa
+200,000+
+bari
+bologna
+catania
+florence
+messina
+padua
+trieste
+venice
+verona
+100,000+
+ancona
+andria
+arezzo
+bergamo
+bolzano
+brescia
+cagliari
+ferrara
+foggia
+forlì
+giugliano
+latina
+livorno
+modena
+monza
+novara
+parma
+perugia
+pescara
+piacenza
+prato
+ravenna
+reggio calabria
+reggio emilia
+rimini
+salerno
+sassari
+syracuse
+taranto
+terni
+trento
+udine
+vicenza
+
+vteitaly articleshistorychronology
+prehistory
+italic peoples
+ancient peoples of italy
+pre-nuragic sardinia
+nuragic peoples
+etruscan civilization
+nuragic civilization
+phoenician/carthaginian colonies
+magna graecia
+ancient rome
+kingdom
+republic
+empire
+middle ages
+italy under odoacer
+ostrogoths
+byzantium
+lombards
+the holy roman empire
+the sardinian judicates
+arabs
+normans
+guelphs and ghibellines
+the italian city-states
+the maritime republics
+renaissance
+italian wars
+early modern period
+unification
+revolutions of 1820
+revolutions of 1830
+revolutions of 1848
+sicilian revolution of 1848
+first war of independence
+crimean war
+second war of independence
+expedition of the thousand
+third war of independence
+capture of rome
+monarchy and the world wars
+kingdom of italy
+colonial empire
+world war i
+fascist italy
+world war ii
+resistance
+civil war
+republic
+economic boom
+years of lead
+years of mud
+mani pulite
+by topic
+citizenship
+currency
+economy
+fashion
+flags
+genetic
+historic states
+military
+music
+postal
+railways
+geography
+peninsula
+northern
+northwest
+northeast
+central
+southern
+south
+insular
+climate
+fauna
+flora
+mountains
+prealps
+alps
+apennines
+volcanology
+volcanoes
+beaches
+canals
+caves
+earthquakes
+islands
+lakes
+national parks
+rivers
+valleys
+politics
+constitution
+elections
+referendums
+foreign relations
+missions
+judiciary
+law enforcement
+military
+parliament
+chamber of deputies
+senate
+political parties
+president
+prime minister
+council of ministers
+regions
+provinces
+metropolitan cities
+comune
+municipalities
+cities
+economy
+economic history
+milan
+naples
+rome
+turin
+regions by gdp
+automotive industry
+banking
+central bank
+companies
+energy
+government debt
+science and technology
+stock exchange
+taxation
+telecommunications
+internet
+tourism
+trade unions
+transportation
+welfare
+society
+abortion
+adoption
+billionaires
+capital punishment
+corruption
+crime
+demographics
+education
+secondary
+higher
+universities
+emigration
+fathers' rights movement
+feminism
+gambling
+health
+healthcare
+immigration
+lgbt rights
+nobility
+prostitution
+racism
+religion
+smoking
+social class
+terrorism
+women
+culture
+duecento
+trecento
+quattrocento
+cinquecento
+seicento
+settecento
+architecture
+art
+castles
+cinema
+cuisine
+beer
+wine
+cultural icons
+decorations
+design
+fashion
+festivals
+folklore
+italian language
+regional italian
+italian literature
+italophilia
+italophobia
+languages
+media
+newspapers
+radio
+tv
+monuments
+music
+classical
+folk
+opera
+popular
+mythology
+national symbols
+anthem
+emblem
+flag
+regions
+national monument
+personification
+people
+philosophy
+public holidays
+festa della repubblica
+sculpture
+sport
+traditions
+world heritage sites
+
+ italy portal
+ category
+ commons
+ news
+quotes
+travel
+ wikiproject
+
+vtelist of cities in europe sovereign states
+albania
+andorra
+armenia
+austria
+azerbaijan
+belarus
+belgium
+bosnia and herzegovina
+bulgaria
+croatia
+cyprus
+czech republic
+denmark
+estonia
+finland
+france
+georgia
+germany
+greece
+hungary
+iceland
+ireland
+
+italy
+kazakhstan
+latvia
+liechtenstein
+lithuania
+luxembourg
+macedonia
+malta
+moldova
+monaco
+montenegro
+netherlands
+norway
+poland
+portugal
+romania
+russia
+san marino
+serbia
+slovakia
+slovenia
+spain
+sweden
+switzerland
+turkey
+ukraine
+united kingdom
+states with limitedrecognition
+abkhazia
+artsakh
+kosovo
+northern cyprus
+south ossetia
+transnistria
+dependencies andother entities
+gibraltar
+
+vtelist of towns in europe sovereign states
+albania
+andorra
+armenia
+austria
+azerbaijan
+belarus
+belgium
+bosnia and herzegovina
+bulgaria
+croatia
+cyprus
+czech republic
+denmark
+estonia
+finland
+france
+georgia
+germany
+greece
+hungary
+iceland
+ireland
+
+italy
+kazakhstan
+latvia
+liechtenstein
+lithuania
+luxembourg
+macedonia
+malta
+moldova
+monaco
+montenegro
+netherlands
+norway
+poland
+portugal
+romania
+russia
+san marino
+serbia
+slovakia
+slovenia
+spain
+sweden
+switzerland
+turkey
+ukraine
+united kingdom
+states with limitedrecognition
+abkhazia
+artsakh
+kosovo
+northern cyprus
+south ossetia
+transnistria
+dependencies andother entities
+åland
+faroe islands
+gibraltar
+guernsey
+isle of man
+jersey
+svalbard
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=list_of_cities_in_italy&oldid=881815940"					
+categories: lists of cities in italylists of cities by countrylists of cities by populationhidden categories: pages with maps 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+العربيةaragonésazərbaycancaتۆرکجهবাংলাбеларускаябеларуская (тарашкевіца)‎българскиboarischbosanskibrezhonegcatalàčeštinadeutschελληνικάespañolesperantoeuskaraفارسیfrançais한국어հայերենहिन्दीhrvatskibahasa indonesiaitalianokapampanganქართულიқазақшаkiswahililatinalatviešuлезгиlietuviųmagyarмакедонскиमराठीმარგალურიnederlands日本語norsknorsk nynorskpolskiportuguêsromânăрусскийscotssicilianusimple englishslovenčinaslovenščinaکوردیсрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskatagalogtürkçeукраїнськаاردوtiếng việt中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 5 february 2019, at 00:10 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"1.160","walltime":"1.404","ppvisitednodes":{"value":25448,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":266714,"limit":2097152},"templateargumentsize":{"value":45303,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":29,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":27181,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  959.866      1 -total"," 37.69%  361.768      9 template:navbox"," 25.31%  242.928      2 template:europe_topic"," 20.50%  196.766     67 template:iso2country"," 18.64%  178.908    144 template:change"," 14.19%  136.243      1 template:gallery"," 13.35%  128.173    144 template:flag"," 12.29%  117.927      1 template:italy_topics"," 11.37%  109.120      1 template:country_topics"," 10.74%  103.100      1 template:list_of_cities_in_europe"]},"scribunto":{"limitreport-timeusage":{"value":"0.375","limit":"10.000"},"limitreport-memusage":{"value":4943010,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1264","timestamp":"20190219144838","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"list of cities in italy","url":"https:\/\/en.wikipedia.org\/wiki\/list_of_cities_in_italy","sameas":"http:\/\/www.wikidata.org\/entity\/q102310","mainentity":"http:\/\/www.wikidata.org\/entity\/q102310","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2007-03-19t10:25:57z","datemodified":"2019-02-05t00:10:24z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/25\/italy-cia_wfb_map.png","headline":"wikimedia list article"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":148,"wghostname":"mw1331"});});
+
+

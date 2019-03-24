@@ -1,0 +1,1234 @@
+
+
+
+
+alps - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"alps","wgtitle":"alps","wgcurrevisionid":884045556,"wgrevisionid":884045556,"wgarticleid":981,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["pages containing links to subscription-only content","cs1 german-language sources (de)","cs1 maint: unrecognized language","cs1 french-language sources (fr)","cs1 italian-language sources (it)","cs1: long volume value","webarchive template wayback links","use mdy dates from june 2018","use british english oxford spelling from september 2016","articles containing french-language text","articles containing german-language text","articles containing italian-language text","articles containing slovene-language text","coordinates on wikidata","articles containing romansh-language text","all articles with unsourced statements","articles with unsourced statements from january 2017","wikipedia articles incorporating a citation from the 1911 encyclopaedia britannica with wikisource reference","wikipedia articles incorporating text from the 1911 encyclopædia britannica","wikipedia articles with gnd identifiers","wikipedia articles with lccn identifiers","wikipedia articles with nara identifiers","wikipedia articles with ndl identifiers","wikipedia articles with viaf identifiers","wikipedia articles with worldcat-viaf identifiers","alps","mountain ranges of europe","mountains of europe","ecology of the alps","geography of central europe","geography of western europe","mountain ranges of austria","mountain ranges of france","mountain ranges of germany","mountain ranges of italy","mountain ranges of liechtenstein","mountain ranges of monaco","mountain ranges of slovenia","mountain ranges of switzerland","physiographic provinces"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"alps","wgrelevantarticleid":981,"wgrequestid":"xgumnqpamfsaaccogouaaack","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgcoordinates":{"lat":46.5,"lon":9.3166666666667},"wgwikibaseitemid":"q1286","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+alps 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+
+
+"alpe" redirects here. for the german river, see alpe (river). for ‌other uses, see alps (disambiguation).
+alpsmont blanc, the highest mountain in the alps, view from the savoy sidehighest pointpeakmont blancelevation4,808.73 m (15,776.7 ft) [1]coordinates45°49′58″n 06°51′54″e﻿ / ﻿45.83278°n 6.86500°e﻿ / 45.83278; 6.86500 dimensionslength1,200 km (750 mi)width250 km (160 mi)area200,000 km2 (77,000 sq mi)namingnative name
+french: les alpes
+german: alpen
+italian: alpi
+slovene: alpe
+geographyrelief of the alps. see also map with international borders marked.
+countries
+list
+austriafrancegermanyitalyliechtensteinmonacosloveniaswitzerland
+range coordinates46°30′n 09°19′e﻿ / ﻿46.500°n 9.317°e﻿ / 46.500; 9.317coordinates: 46°30′n 09°19′e﻿ / ﻿46.500°n 9.317°e﻿ / 46.500; 9.317geologyorogenyalpine orogenyage of rocktertiarytype of rockbündner schist, flysch and molasse
+ the dolomites (italy) are a unesco world heritage site.
+the alps (/ælps/;  french: alpes [alp]; german: alpen [ˈalpn̩]; italian: alpi [ˈalpi]; romansh: alps; slovene: alpe [ˈáːlpɛ]) are the highest and most extensive mountain range system that lies entirely in europe,[2][note 1] separating southern from central and western europe and stretching approximately 1,200 kilometres (750 mi) across eight alpine countries (from west to east): france, switzerland, italy, monaco, liechtenstein, austria, germany, and slovenia.[3] the mountains were formed over tens of millions of years as the african and eurasian tectonic plates collided. extreme shortening  caused by the event resulted in marine sedimentary rocks rising by thrusting and folding into high mountain peaks such as mont blanc and the matterhorn. mont blanc spans the french–italian border, and at 4,810 m (15,781 ft) is the highest mountain in the alps. the alpine region area contains about a hundred peaks higher than 4,000 metres (13,000 ft).
+the altitude and size of the range affects the climate in europe; in the mountains precipitation levels vary greatly and climatic conditions consist of distinct zones. wildlife such as ibex live in the higher peaks to elevations of 3,400 m (11,155 ft), and plants such as edelweiss grow in rocky areas in lower elevations as well as in higher elevations. evidence of human habitation in the alps goes back to the palaeolithic era. a mummified man, determined to be 5,000 years old, was discovered on a glacier at the austrian–italian border in 1991.
+by the 6th century bc, the celtic la tène culture was well established. hannibal famously crossed the alps with a herd of elephants, and the romans had settlements in the region. in 1800, napoleon crossed one of the mountain passes with an army of 40,000. the 18th and 19th centuries saw an influx of naturalists, writers, and artists, in particular, the romantics, followed by the golden age of alpinism as mountaineers began to ascend the peaks.
+the alpine region has a strong cultural identity. the traditional culture of farming, cheesemaking, and woodworking still exists in alpine villages, although the tourist industry began to grow early in the 20th century and expanded greatly after world war ii to become the dominant industry by the end of the century. the winter olympic games have been hosted in the swiss, french, italian, austrian and german alps. at present, the region is home to 14 million people and has 120 million annual visitors.[4]
+
+contents
+
+1 etymology and toponymy
+2 geography
+3 passes
+4 geology and orogeny
+5 "four-thousanders" and ascents
+6 minerals
+7 glaciers
+8 rivers and lakes
+9 climate
+10 ecology
+
+10.1 flora
+10.2 fauna
+
+
+11 history
+
+11.1 prehistory to christianity
+11.2 christianity, feudalism, and napoleonic wars
+11.3 exploration
+11.4 the romantics
+11.5 the nazis
+
+
+12 largest cities
+13 alpine people and culture
+14 tourism
+15 avalanche/snow-slide
+16 transportation
+17 references
+
+17.1 notes
+17.2 references
+17.3 works cited
+
+
+18 external links
+
+
+etymology and toponymy[edit]
+see also: albion § etymology
+ an "alp" refers to a high mountain pasture, often with a structure, such as this one on the south side of the alps, where cows are taken for grazing.
+the english word alps derives from the latin alpes (through french). maurus servius honoratus, an ancient commentator of virgil, says in his commentary (a. x 13) that all high mountains are called alpes by celts. the term may be common to italo-celtic, because the celtic languages have terms for high mountains derived from alp.
+this may be consistent with the theory that in greek alpes is a name of non-indo-european origin (which is common for prominent mountains and mountain ranges in the mediterranean region). according to the oxford english dictionary, the latin alpes might possibly derive from a pre-indo-european word *alb "hill"; "albania" is a related derivation. albania, a name not native to the region known as the country of albania, has been used as a name for a number of mountainous areas across europe. in roman times, "albania" was a name for the eastern caucasus, while in the english languages "albania" (or "albany") was occasionally used as a name for scotland,[5] although it is more likely derived from the latin albus[6], the color white.
+the latin word alpes could possibly come from the adjective albus[7] (“white”).
+in modern languages the term alp, alm, albe or alpe refers to a grazing pastures in the alpine regions below the glaciers, not the peaks.[8] an alp refers to a high mountain pasture where cows are taken to be grazed during the summer months and where hay barns can be found, and the term "the alps", referring to the mountains, is a misnomer.[9][10] the term for the mountain peaks varies by nation and language: words such as horn, kogel, kopf, gipfel, spitze, stock, and berg are used in german speaking regions; mont, pic, tête, pointe, dent, roche, and aiguille in french speaking regions; and monte, picco, corno, punta, pizzo, or cima in italian speaking regions.[11]
+
+geography[edit]
+main article: geography of the alps
+ the alps extend in an arc from france in the south and west to slovenia in the east, and from monaco in the south to germany in the north.
+the alps are a crescent shaped geographic feature of central europe that ranges in a 800 km (500 mi) arc from east to west and is 200 km (120 mi) in width. the mean height of the mountain peaks is 2.5 km (1.6 mi).[12] the range stretches from the mediterranean sea north above the po basin, extending through france from grenoble, and stretching eastward through mid and southern switzerland. the range continues onward toward vienna, austria, and east to the adriatic sea and slovenia.[13][14][15] to the south it dips into northern italy and to the north extends to the southern border of bavaria in germany.[15] in areas like chiasso, switzerland, and allgäu, bavaria, the demarcation between the mountain range and the flatlands are clear; in other places such as geneva, the demarcation is less clear. the countries with the greatest alpine territory are switzerland, france (21.4%), austria (28.7% of the total area) and italy (27.2%).
+the highest portion of the range is divided by the glacial trough of the rhône valley, from mont blanc to the matterhorn and monte rosa on the southern side, and the bernese alps on the northern. the peaks in the easterly portion of the range, in austria and slovenia, are smaller than those in the central and western portions.[15]
+
+ aerial view of a typical intra alpine valley (maurienne, france)
+the variances in nomenclature in the region spanned by the alps makes classification of the mountains and subregions difficult, but a general classification is that of the eastern alps and western alps with the divide between the two occurring in eastern switzerland according to geologist stefan schmid,[8] near the splügen pass.
+the highest peaks of the western alps and eastern alps, respectively, are mont blanc, at 4,810 m (15,780 ft)[16] and piz bernina at 4,049 metres (13,284 ft). the second-highest major peaks are monte rosa at 4,634 m (15,200 ft) and ortler[17] at 3,905 m (12,810 ft), respectively
+series of lower mountain ranges run parallel to the main chain of the alps, including the french prealps in france and the jura mountains in switzerland and france. the secondary chain of the alps follows the watershed from the mediterranean sea to the wienerwald, passing over many of the highest and most well-known peaks in the alps. from the colle di cadibona to col de tende it runs westwards, before turning to the northwest and then, near the colle della maddalena, to the north. upon reaching the swiss border, the line of the main chain heads approximately east-northeast, a heading it follows until its end near vienna.[18]
+
+passes[edit]
+ teufelsbrücke (devil's bridge) on the route to the gotthard pass; the currently used bridge from 1958 over the first drivable bridge from 1830
+see also: principal passes of the alps
+the alps have been crossed for war and commerce, and by pilgrims, students and tourists. crossing routes by road, train or foot are known as passes, and usually consist of depressions in the mountains in which a valley leads from the plains and hilly pre-mountainous zones.[19] in the medieval period hospices were established by religious orders at the summits of many of the main passes.[10] the most important passes are the col de l'iseran (the highest), the brenner pass, the mont-cenis, the great st. bernard pass, the col de tende, the gotthard pass, the semmering pass, the simplon pass, and the stelvio pass.[20]
+crossing the italian-austrian border, the brenner pass separates the ötztal alps and zillertal alps and has been in use as a trading route since the 14th century. the lowest of the alpine passes at 985 m (3,232 ft), the semmering crosses from lower austria to styria; since the 12th century when a hospice was built there, it has seen continuous use. a railroad with a tunnel 1.6 kilometres (1 mi) long was built along the route of the pass in the mid-19th century. with a summit of 2,469 m (8,100 ft), the great st. bernard pass is one of the highest in the alps, crossing the italian-swiss border east of the pennine alps along the flanks of mont blanc. the pass was used by napoleon bonaparte to cross 40,000 troops in 1800.
+
+ the col du mont-cenis (2,081 metres (6,827 ft)) at the centre left of the picture gives access to a large alpine lake, and further away to the italian peninsula 12 kilometres (7.5 mi) beyond the pass.
+the mont cenis pass has been a major commercial and military road between western europe and italy. the pass was crossed by many troops on their way to the italian peninsula. from constantine i, pepin the short and charlemagne to henry iv, napoléon and more recently the german gebirgsjägers during world war ii.
+now the pass has been supplanted by the fréjus highway tunnel (opened 1980) and rail tunnel (opened 1871).
+the saint gotthard pass crosses from central switzerland to ticino; in 1882 the 15-kilometre-long (9.3 mi) saint gotthard railway tunnel was opened connecting lucerne in switzerland, with milan in italy. 98 years later followed gotthard road tunnel (16.9 km or 10.5 mi long) connecting the a2 motorway in göschenen on the german-swiss side with airolo on the italian-swiss side, exactly like the railway tunnel. on june 1, 2016 the world's longest railway tunnel, the gotthard base tunnel was opened, which connects erstfeld in canton of uri with bodio in canton of ticino by two single tubes of 57.1 kilometres (35.5 mi).[21] it is the first tunnel, which traverses the alps on a flat route.[22] from december 11, 2016 it is part of the regular railway timetable and be used hourly as standard way to ride between basel/lucerne/zurich and bellinzona/lugano/milano.[23]
+the highest pass in the alps is the col de l'iseran in savoy (france) at 2,770 m (9,088 ft), followed by the stelvio pass in northern italy at 2,756 m (9,042 ft); the road was built in the 1820s.[20]
+
+geology and orogeny[edit]
+main articles: alpine orogeny and geology of the alps
+important geological concepts were established as naturalists began studying the rock formations of the alps in the 18th century. in the mid-19th century the now defunct theory of geosynclines was used to explain the presence of "folded" mountain chains but by the mid-20th century the theory of plate tectonics became widely accepted.[24]
+
+ the geologic folding seen at the arpanaz waterfall, shown here in a mid-18th-century drawing, was noted by 18th-century geologists.[25]
+the formation of the alps (the alpine orogeny) was an episodic process that began about 300 million years ago.[26]  in the paleozoic era the pangaean supercontinent consisted of a single tectonic plate; it broke into separate plates during the mesozoic era and the tethys sea developed between laurasia and gondwana during the jurassic period.[24]  the tethys was later squeezed between colliding plates causing the formation of mountain ranges called the alpide belt, from gibraltar through the himalayas to indonesia—a process that began at the end of the mesozoic and continues into the present. the formation of the alps was a segment of this orogenic process,[24] caused by the collision between the african and the eurasian plates[27] that began in the late cretaceous period.[28]
+under extreme compressive stresses and pressure, marine sedimentary rocks were uplifted, creating characteristic recumbent folds, or nappes, and thrust faults.[29]  as the rising peaks underwent erosion, a layer of marine flysch sediments was deposited in the foreland basin, and the sediments became involved in younger nappes (folds) as the orogeny progressed. coarse sediments from the continual uplift and erosion were later deposited in foreland areas as molasse.[27] the molasse regions in switzerland and bavaria were well-developed and saw further upthrusting of flysch.[30]
+
+ the crystalline basement of the mont blanc massif
+the alpine orogeny occurred in ongoing cycles through to the paleogene causing differences in nappe structures, with a late-stage orogeny causing the development of the jura mountains.[31] a series of tectonic events in the triassic, jurassic and cretaceous periods caused different paleogeographic regions.[31] the alps are subdivided by different lithology (rock composition) and nappe structure according to the orogenic events that affected them.[8] the geological subdivision differentiates the western, eastern alps and southern alps: the helveticum in the north, the penninicum and austroalpine system in the centre and, south of the periadriatic seam, the southern alpine system.[32]
+
+ compressed metamorphosed tethyan sediments and their oceanic basement are sandwiched between the tip of the matterhorn (italian-swiss border), which consists of gneisses originally part of the african plate, and the base of the peak, which is part of the eurasian plate.[25]
+according to geologist stefan schmid, because the western alps underwent a metamorphic event in the cenozoic era while the austroalpine peaks underwent an event in the cretaceous period, the two areas show distinct differences in nappe formations.[31] flysch deposits in the southern alps of lombardy probably occurred in the cretaceous or later.[31]
+peaks in france, italy and switzerland lie in the "houillière zone", which consists of basement with sediments from the mesozoic era.[32] high "massifs" with external sedimentary cover are more common in the western alps and were affected by neogene period thin-skinned thrusting whereas the eastern alps have comparatively few high peaked massifs.[30] similarly the peaks in eastern switzerland extending to western austria (helvetic nappes) consist of thin-skinned sedimentary folding that detached from former basement rock.[33]
+in simple terms the structure of the alps consists of layers of rock of european, african and oceanic (tethyan) origin.[34] the bottom nappe structure is of continental european origin, above which are stacked marine sediment nappes, topped off by nappes derived from the african plate.[35] the matterhorn is an example of the ongoing orogeny and shows evidence of great folding. the tip of the mountain consists of gneisses from the african plate; the base of the peak, below the glaciated area, consists of european basement rock. the sequence of tethyan marine sediments and their oceanic basement is sandwiched between rock derived from the african and european plates.[25]
+
+ haute maurienne (ambin and vanoise massifs) and its exposed crystalline basement made of high-pressure subduction rocks such as blueschist and metaquartzite (picture taken at 2,400 metres or 7,900 feet)
+the core regions of the alpine orogenic belt have been folded and fractured in such a manner that erosion created the characteristic steep vertical peaks of the swiss alps that rise seemingly straight out of the foreland areas.[28] peaks such as mont blanc, the matterhorn, and high peaks in the pennine alps, the briançonnais, and hohe tauern consist of layers of rock from the various orogenies including exposures of basement rock.[36]
+due to the ever present geologic instability, earthquakes continue in the alps to this day.[37] typically, the largest earthquakes in the alps have been between magnitude 6 and 7 on the richter scale.[38]
+
+"four-thousanders" and ascents[edit]
+see also: list of alpine four-thousanders
+the union internationale des associations d'alpinisme (uiaa) has defined a list of 82 "official" alpine summits that reach at least 4,000 m (13,123 ft).[39] the list includes not only mountains, but also subpeaks with little prominence that are considered important mountaineering objectives. below are listed the 22 "four-thousanders" with at least 500 m (1,640 ft) of prominence.
+while mont blanc was first climbed in 1786, most of the alpine four-thousanders were climbed during the second half of the 19th century; the ascent of the matterhorn in 1865 marked the end of the golden age of alpinism. karl blodig (1859–1956) was among the first to successfully climb all the major 4,000 m peaks. he completed his series of ascents in 1911.[40]
+the first british mont blanc ascent was in 1788; the first female ascent in 1819. by the mid-1850s swiss mountaineers had ascended most of the peaks and were eagerly sought as mountain guides. edward whymper reached the top of the matterhorn in 1865 (after seven attempts), and in 1938 the last of the six great north faces of the alps was climbed with the first ascent of the eiger nordwand (north face of the eiger).[41]
+
+
+the 22 alpine four-thousanders with at least 500 metres of topographic prominence[42]
+
+
+name
+
+height
+
+range
+
+name
+
+height
+
+range
+
+
+mont blanc
+
+4,810 m (15,781 ft)
+
+graian alps
+
+dent d'hérens
+
+4,171 m (13,684 ft)
+
+pennine alps
+
+
+monte rosa
+
+4,634 m (15,203 ft)
+
+pennine alps
+
+jungfrau
+
+4,158 m (13,642 ft)
+
+bernese alps
+
+
+dom
+
+4,545 m (14,911 ft)
+
+pennine alps
+
+aiguille verte
+
+4,122 m (13,524 ft)
+
+graian alps
+
+
+weisshorn
+
+4,506 m (14,783 ft)
+
+pennine alps
+
+mönch
+
+4,107 m (13,474 ft)
+
+bernese alps
+
+
+matterhorn
+
+4,478 m (14,692 ft)
+
+pennine alps
+
+barre des écrins
+
+4,102 m (13,458 ft)
+
+dauphiné alps
+
+
+dent blanche
+
+4,357 m (14,295 ft)
+
+pennine alps
+
+schreckhorn
+
+4,078 m (13,379 ft)
+
+bernese alps
+
+
+grand combin
+
+4,314 m (14,154 ft)
+
+pennine alps
+
+ober gabelhorn
+
+4,063 m (13,330 ft)
+
+pennine alps
+
+
+finsteraarhorn
+
+4,273 m (14,019 ft)
+
+bernese alps
+
+gran paradiso
+
+4,061 m (13,323 ft)
+
+graian alps
+
+
+grandes jorasses
+
+4,208 m (13,806 ft)
+
+graian alps
+
+piz bernina
+
+4,049 m (13,284 ft)
+
+bernina range
+
+
+rimpfischhorn
+
+4,199 m (13,776 ft)
+
+pennine alps
+
+weissmies
+
+4,017 m (13,179 ft)
+
+pennine alps
+
+
+aletschhorn
+
+4,193 m (13,757 ft)
+
+bernese alps
+
+lagginhorn
+
+4,010 m (13,156 ft)
+
+pennine alps
+
+
+ a view from the männlichen of the eiger, mönch and jungfrau (left to right)
+
+minerals[edit]
+the alps are a source of minerals that have been mined for thousands of years. in the 8th to 6th centuries bc during the hallstatt culture, celtic tribes mined copper; later the romans mined gold for coins in the bad gastein area. erzberg in styria furnishes high-quality iron ore for the steel industry. crystals are found throughout much of the alpine region such as cinnabar, amethyst, and quartz. the cinnabar deposits in slovenia are a notable source of cinnabar pigments.[43]
+alpine crystals have been studied and collected for hundreds of years, and began to be classified in the 18th century. leonhard euler studied the shapes of crystals, and by the 19th century crystal hunting was common in alpine regions. david friedrich wiser amassed a collection of 8000 crystals that he studied and documented. in the 20th century robert parker wrote a well-known work about the rock crystals of the swiss alps; at the same period a commission was established to control and standardize the naming of alpine minerals.[44]
+
+glaciers[edit]
+see also: list of glaciers in switzerland
+ this illustration of the glacier systems of the alps by alexander keith johnston was first published 1848 in the physical atlas.
+in the miocene epoch the mountains underwent severe erosion because of glaciation,[28] which was noted in the mid-19th century by naturalist louis agassiz who presented a paper proclaiming the alps were covered in ice at various intervals—a theory he formed when studying rocks near his neuchâtel home which he believed originated to the west in the bernese oberland. because of his work he came to be known as the "father of the ice-age concept" although other naturalists before him put forth similar ideas.[45]
+
+ louis agassiz's studies of the unteraar glacier in the 1840s showed that it moved at 100 m (328 ft) per year.[45]
+agassiz studied glacier movement in the 1840s at the unteraar glacier where he found the glacier moved 100 m (328 ft) per year, more rapidly in the middle than at the edges. his work was continued by other scientists and now a permanent laboratory exists inside a glacier under the jungfraujoch, devoted exclusively to the study of alpine glaciers.[45]
+glaciers pick up rocks and sediment with them as they flow. this causes erosion and the formation of valleys over time. the inn valley is an example of a valley carved by glaciers during the ice ages with a typical terraced structure caused by erosion. eroded rocks from the most recent ice age lie at the bottom of the valley while the top of the valley consists of erosion from earlier ice ages.[45] glacial valleys have characteristically steep walls (reliefs); valleys with lower reliefs and talus slopes are remnants of glacial troughs or previously infilled valleys.[46] moraines, piles of rock picked up during the movement of the glacier, accumulate at edges, centre and the terminus of glaciers.[45]
+
+ inside a glacier at the top of the train station at the jungfraujoch
+alpine glaciers can be straight rivers of ice, long sweeping rivers, spread in a fan-like shape (piedmont glaciers), and curtains of ice that hang from vertical slopes of the mountain peaks.  the stress of the movement causes the ice to break and crack loudly, perhaps explaining why the mountains were believed to be home to dragons in the medieval period. the cracking creates unpredictable and dangerous crevasses, often invisible under new snowfall, which cause the greatest danger to mountaineers.[47]
+glaciers end in ice caves (the rhône glacier), by trailing into a lake or river, or by shedding snowmelt on a meadow. sometimes a piece of glacier will detach or break resulting in flooding, property damage and loss of life.[47]
+high levels of precipitation cause the glaciers to descend to permafrost levels in some areas whereas in other, more arid regions, glaciers remain above about the 3,500 m (11,483 ft) level.[48] the 1,817 square kilometres (702 sq mi) of the alps covered by glaciers in 1876 had shrunk to 1,342 km2 (518 sq mi) by 1973, resulting in decreased river run-off levels.[49] forty percent of the glaciation in austria has disappeared since 1850, and 30% of that in switzerland.[50]
+
+rivers and lakes[edit]
+ the st. bartholomew's chapel on the königssee in bavaria is a popular tourist destination.[51]
+the alps provide lowland europe with drinking water, irrigation, and hydroelectric power.[52]  although the area is only about 11 percent of the surface area of europe, the alps provide up to 90 percent of water to lowland europe, particularly to arid areas and during the summer months. cities such as milan depend on 80 percent of water from alpine runoff.[13][53][54] water from the rivers is used in over 500 hydroelectricity power plants, generating as much as 2900 gwh of electricity.[4]
+major european rivers flow from switzerland, such as the rhine, the rhône, the inn, the ticino and the po, all of which have headwaters in the alps and flow into neighbouring countries, finally emptying into the north sea, the mediterranean sea, the adriatic sea and the black sea. other rivers such as the danube have major tributaries flowing into them that originate in the alps.[13] the rhône is second to the nile as a freshwater source to the mediterranean sea; the river begins as glacial meltwater, flows into lake geneva, and from there to france where one of its uses is to cool nuclear power plants.[55] the rhine originates in a 30-square-kilometre (12 sq mi) area in switzerland and represents almost 60 percent of water exported from the country.[55]  tributary valleys, some of which are complicated, channel water to the main valleys which can experience flooding during the snow melt season when rapid runoff causes debris torrents and swollen rivers.[56]
+the rivers form lakes, such as lake geneva, a crescent shaped lake crossing the swiss border with lausanne on the swiss side and the town of evian-les-bains on the french side. in germany, the medieval st. bartholomew's chapel was built on the south side of the königssee, accessible only by boat or by climbing over the abutting peaks.[57]
+
+ the sun setting over the italian alps in the monte baldo region, over lake garda
+additionally, the alps have led to the creation of large lakes in  italy. for instance, the sarca, the primary inflow of lake garda, originates in the italian alps.[58]
+scientists have been studying the impact of climate change and water use. for example, each year more water is diverted from rivers for snowmaking in the ski resorts, the effect of which is yet unknown. furthermore, the decrease of glaciated areas combined with a succession of winters with lower-than-expected precipitation may have a future impact on the rivers in the alps as well as an effect on the water availability to the lowlands.[53][59]
+
+climate[edit]
+main articles: climate of the alps and high alps
+the alps are a classic example of what happens when a temperate area at lower altitude gives way to higher-elevation terrain. elevations around the world that have cold climates similar to those of the polar regions have been called alpine. a rise from sea level into the upper regions of the atmosphere causes the temperature to decrease (see adiabatic lapse rate). the effect of mountain chains on prevailing winds is to carry warm air belonging to the lower region into an upper zone, where it expands in volume at the cost of a proportionate loss of temperature, often accompanied by precipitation in the form of snow or rain.[60] the height of the alps is sufficient to divide the weather patterns in europe into a wet north and a dry south because moisture is sucked from the air as it flows over the high peaks.[61]
+
+ the aletsch glacier with pine trees growing on the hillside (2007; the surface is 180 m (590 ft) lower than 150 years ago)
+the severe weather in the alps has been studied since the 18th century; particularly the weather patterns such as the seasonal foehn wind. numerous weather stations were placed in the mountains early in the early 20th century, providing continuous data for climatologists.[12] some of the valleys are quite arid such as the aosta valley in italy, the maurienne in france, the valais in switzerland, and northern tyrol.[12]
+the areas that are not arid and receive high precipitation experience periodic flooding from rapid snowmelt and runoff.[56]  the mean precipitation in the alps ranges from a low of 2,600 mm (100 in) per year to 3,600 mm (140 in) per year, with the higher levels occurring at high altitudes. at altitudes between 1,000 and 3,000 m (3,300 and 9,800 ft), snowfall begins in november and accumulates through to april or may when the melt begins. snow lines vary from 2,400 to 3,000 m (7,900 to 9,800 ft), above which the snow is permanent and the temperatures hover around the freezing point even during july and august. high-water levels in streams and rivers peak in june and july when the snow is still melting at the higher altitudes.[62]
+the alps are split into five climatic zones, each with different vegetation. the climate, plant life and animal life vary among the different sections or zones of the mountains. the lowest zone is the colline zone, which exists between 500 and 1,000 m (1,600 and 3,300 ft), depending on the location. the montane zone extends from 800 to 1,700 m (2,600 to 5,600 ft), followed by the sub-alpine zone from 1,600 to 2,400 m (5,200 to 7,900 ft). the alpine zone, extending from tree line to snow line, is followed by the glacial zone, which covers the glaciated areas of the mountain. climatic conditions show variances within the same zones; for example, weather conditions at the head of a mountain valley, extending directly from the peaks, are colder and more severe than those at the mouth of a valley which tend to be less severe and receive less snowfall.[63]
+various models of climate change have been projected into the 22nd century for the alps, with an expectation that a trend toward increased temperatures will have an effect on snowfall, snowpack, glaciation, and river runoff.[64] significant changes, of both natural and anthropogenic origins, have already been diagnosed from observations.[65][66][67]
+
+ecology[edit]
+flora[edit]
+main article: flora of the alps
+ stemless gentian (gentiana acaulis)
+thirteen thousand species of plants have been identified in the alpine regions.[4] alpine plants are grouped by habitat and soil type which can be limestone or non-calcareous. the habitats range from meadows, bogs, woodland (deciduous and coniferous) areas to soil-less scree and moraines, and rock faces and ridges.[9] a natural vegetation limit with altitude is given by the presence of the chief deciduous trees—oak, beech, ash and sycamore maple. these do not reach exactly to the same elevation, nor are they often found growing together; but their upper limit corresponds accurately enough to the change from a temperate to a colder climate that is further proved by a change in the presence of wild herbaceous vegetation.[68] this limit usually lies about 1,200 m (3,900 ft) above the sea on the north side of the alps, but on the southern slopes it often rises to 1,500 m (4,900 ft), sometimes even to 1,700 m (5,600 ft).[69]
+above the forestry, there is often a band of short pine trees (pinus mugo), which is in turn superseded by alpenrosen, dwarf shrubs, typically rhododendron ferrugineum (on acid soils) or rhododendron hirsutum (on alkaline soils).[70]  although the alpenrose prefers acidic soil, the plants are found throughout the region.[9] above the tree line is the area defined as "alpine" where in the alpine meadow plants are found that have adapted well to harsh conditions of cold temperatures, aridity, and high altitudes. the alpine area fluctuates greatly because of regional fluctuations in tree lines.[71]
+
+ edelweiss (leontopodium alpinum)
+alpine plants such as the alpine gentian grow in abundance in areas such as the meadows above the lauterbrunnental. gentians are named after the illyrian king gentius, and 40 species of the early-spring blooming flower grow in the alps, in a range of 1,500 to 2,400 m (4,900 to 7,900 ft).[72] writing about the gentians in switzerland d. h. lawrence described them as "darkening the day-time, torch-like with the smoking blueness of pluto's gloom."[73]  gentians tend to "appear" repeatedly as the spring blooming takes place at progressively later dates, moving from the lower altitude to the higher altitude meadows where the snow melts much later than in the valleys. on the highest rocky ledges the spring flowers bloom in the summer.[9]
+at these higher altitudes, the plants tend to form isolated cushions. in the alps, several species of flowering plants have been recorded above 4,000 m (13,000 ft), including ranunculus glacialis, androsace alpina and saxifraga biflora. eritrichium nanum, commonly known as the king of the alps, is the most elusive of the alpine flowers, growing on rocky ridges at 2,600 to 3,750 m (8,530 to 12,300 ft).[74] perhaps the best known of the alpine plants is edelweiss which grows in rocky areas and can be found at altitudes as low as 1,200 m (3,900 ft) and as high as 3,400 m (11,200 ft).[9] the plants that grow at the highest altitudes have adapted to conditions by specialization such as growing in rock screes that give protection from winds.[75]
+the extreme and stressful climatic conditions give way to the growth of plant species with secondary metabolites important for medicinal purposes. origanum vulgare, prunella vulgaris, solanum nigrum and urtica dioica are some of the more useful medicinal species found in the alps.[76]
+
+ preserved internal alpine forest and meadow, vanoise national park
+human interference has nearly exterminated the trees in many areas, and, except for the beech forests of the austrian alps, forests of deciduous trees are rarely found after the extreme deforestation between the 17th and 19th centuries.[77] the vegetation has changed since the second half of the 20th century, as the high alpine meadows cease to be harvested for hay or used for grazing which eventually might result in a regrowth of forest. in some areas the modern practice of building ski runs by mechanical means has destroyed the underlying tundra from which the plant life cannot recover during the non-skiing months, whereas areas that still practice a natural piste type of ski slope building preserve the fragile underlayers.[75]
+
+fauna[edit]
+the alps are a habitat for 30,000 species of wildlife, ranging from the tiniest snow fleas to brown bears, many of which have made adaptations to the harsh cold conditions and high altitudes to the point that some only survive in specific micro-climates either directly above or below the snow line.[4][78]
+
+ young alpine ibex.  when fully grown the horns of this male will be about one metre wide.
+the largest mammal to live in the highest altitudes are the alpine ibex, which have been sighted as high as 3,000 m (9,800 ft). the ibex live in caves and descend to eat the succulent alpine grasses.[79] classified as antelopes,[9] chamois are smaller than ibex and found throughout the alps, living above the tree line and are common in the entire alpine range.[80] areas of the eastern alps are still home to brown bears. in switzerland the canton of bern was named for the bears but the last bear is recorded as having been killed in 1792 above kleine scheidegg by three hunters from grindelwald.[81]
+many rodents such as voles live underground. marmots live almost exclusively above the tree line as high as 2,700 m (8,900 ft). they hibernate in large groups to provide warmth,[82] and can be found in all areas of the alps, in large colonies they build beneath the alpine pastures.[9] golden eagles and bearded vultures are the largest birds to be found in the alps; they nest high on rocky ledges and can be found at altitudes of 2,400 m (7,900 ft). the most common bird is the alpine chough which can be found scavenging at climber's huts or at the jungfraujoch, a high altitude tourist destination.[83]
+
+ the alpine apollo butterfly has adapted to alpine conditions.
+reptiles such as adders and vipers live up to the snow line; because they cannot bear the cold temperatures they hibernate underground and soak up the warmth on rocky ledges.[84]  the high-altitude alpine salamanders have adapted to living above the snow line by giving birth to fully developed young rather than laying eggs. brown trout can be found in the streams up to the snow line.[84] molluscs such as the wood snail live up the snow line. popularly gathered as food, the snails are now protected.[85]
+a number of species of moths live in the alps, some of which are believed to have evolved in the same habitat up to 120 million years ago, long before the alps were created. blue moths can commonly be seen drinking from the snow melt; some species of blue moths fly as high as 1,800 m (5,900 ft).[86] the butterflies tend to be large, such as those from the swallowtail parnassius family, with a habitat that ranges to 1,800 m (5,900 ft). twelve species of beetles have habitats up to the snow line; the most beautiful and formerly collected for its colours but now protected is rosalia alpina.[87] spiders, such as the large wolf spider, live above the snow line and can be seen as high as 400 m (1,300 ft). scorpions can be found in the italian alps.[85]
+some of the species of moths and insects show evidence of having been indigenous to the area from as long ago as the alpine orogeny. in emosson in valais, switzerland, dinosaur tracks were found in the 1970s, dating probably from the triassic period.[88]
+
+history[edit]
+main article: history of the alps
+prehistory to christianity[edit]
+ pre-historic petroglyphs from valcamonica, italy
+about 10,000 years ago, when the ice melted after the last glacial period, late palaeolithic communities were established along the lake shores and in cave systems. evidence of human habitation has been found in caves near vercors, close to grenoble; in austria the mondsee culture shows evidence of houses built on piles to keep them dry. standing stones have been found in alpine areas of france and italy. the rock drawings in valcamonica are more than 5000 years old; more than 200,000 drawings and etchings have been identified at the site.[89]
+in 1991 a mummy of a neolithic body, known as ötzi the iceman, was discovered by hikers on the similaun glacier. his clothing and gear indicate that he lived in an alpine farming community, while the location and manner of his death – an arrowhead was discovered in his shoulder – suggests he was travelling from one place to another.[90] analysis of the mitochondrial dna of ötzi, has shown that he belongs to the k1 subclade which cannot be categorized into any of the three modern branches of that subclade. the new subclade has provisionally been named k1ö for ötzi.[91]
+celtic tribes settled in switzerland between 1500 and 1000 bc. the raetians lived in the eastern regions, while the west was occupied by the helvetii and the allobrogi settled in the rhône valley and in savoy. among the many substances celtic tribes mined was salt in areas such as salzburg in austria where evidence of the hallstatt culture was found by a mine manager in the 19th century.[89] by the 6th century bc the la tène culture was well established in the region,[92] and became known for high quality decorated weapons and jewellery.[93] the celts were the most widespread of the mountain tribes—they had warriors that were strong, tall and fair skinned, and skilled with iron weapons, which gave them an advantage in warfare.[94]
+during the second punic war in 218 bc, the carthaginian general hannibal probably crossed the alps with an army numbering 38,000 infantry, 8,000 cavalry, and 37 war elephants. this was one of the most celebrated achievements of any military force in ancient warfare,[95] although no evidence exists of the actual crossing or the place of crossing. the romans, however, had built roads along the mountain passes, which continued to be used through the medieval period to cross the mountains and roman road markers can still be found on the mountain passes.[96]
+
+ château de chillon, an early medieval castle on the north shore of lake geneva, is shown here against the backdrop of the dents du midi.
+the roman expansion brought the defeat of the allobrogi in 121 bc and during the gallic wars in 58 bc julius caesar overcame the helvetii. the rhaetians continued to resist but were eventually conquered when the romans turned northward to the danube valley in austria and defeated the brigantes.[97] the romans built settlements in the alps; towns such as aosta (named for augustus) in italy, martigny and lausanne in switzerland, and partenkirchen in bavaria show remains of roman baths, villas, arenas and temples.[98] much of the alpine region was gradually settled by germanic tribes, (lombards, alemanni, bavarii, and franks) from the 6th to the 13th centuries mixing with the local celtic tribes.[99]
+
+christianity, feudalism, and napoleonic wars[edit]
+christianity was established in the region by the romans, and saw the establishment of monasteries and churches in the high regions. the frankish expansion of the carolingian empire and the bavarian expansion in the eastern alps introduced feudalism and the building of castles to support the growing number of dukedoms and kingdoms. castello del buonconsiglio in trento, italy, still has intricate frescoes, excellent examples of gothic art, in a tower room. in switzerland, château de chillon is preserved as an example of medieval architecture.[100]
+much of the medieval period was a time of power struggles between competing dynasties such as the house of savoy, the visconti in northern italy and the house of habsburg in austria and slovenia.[101] in 1291 to protect themselves from incursions by the habsburgs, four cantons in the middle of switzerland drew up a charter that is considered to be a declaration of independence from neighbouring kingdoms. after a series of battles fought in the 13th, 14th and 15th centuries, more cantons joined the confederacy and by the 16th century switzerland was well-established as a separate state.[102]
+
+ russian troops under suvorov crossing the alps in 1799
+during the napoleonic wars in the late 18th century and early 19th century, napoleon annexed territory formerly controlled by the habsburgs and savoys. in 1798 he established the helvetic republic in switzerland; two years later he led an army across the st. bernard pass and conquered almost all of the alpine regions.[103]
+
+ built from 1300 to 1500 metres high on a rock of quartzite and surrounded by deep cliffs, the forts de l'esseillon prevented any invasion.
+after the fall of napoléon, many alpine countries developed heavy protections to prevent any new invasion. thus, savoy built a series of fortifications in the maurienne valley in order to protect the major alpine passes, such as the col du mont-cenis that was even crossed by charlemagne and his father to defeat the lombards. the later indeed became very popular after the construction of a paved road ordered by napoléon bonaparte.
+the barrière de l'esseillon is a serie of forts with heavy batteries, built on a cliff with a perfect view on the valley, a gorge on one side and steep mountains on the other side.
+in the 19th century, the monasteries built in the high alps during the medieval period to shelter travellers and as places of pilgrimage, became tourist destinations. the benedictines had built monasteries in lucerne, switzerland, and oberammergau; the cistercians in the tyrol and at lake constance; and the augustinians had abbeys in the savoy and one in the centre of interlaken, switzerland.[104] the great st bernard hospice, built in the 9th or 10th centuries, at the summit of the great saint bernard pass was shelter for travellers and place for pilgrims since its inception; by the 19th century it became a tourist attraction with notable visitors such as author charles dickens and mountaineer edward whymper.[105]
+
+exploration[edit]
+main article: exploration of the high alps
+ the first ascent of the matterhorn (1865), lithograph by gustave doré
+radiocarbon-dated charcoal placed around 50,000 years ago was found in the drachloch (dragon's hole) cave above the village of vattis in the canton of st. gallen, proving that the high peaks were visited by prehistoric people. seven bear skulls from the cave may have been buried by the same prehistoric people.[106] the peaks, however, were mostly ignored except for a few notable examples, and long left to the exclusive attention of the people of the adjoining valleys.[107][108] the mountain peaks were seen as terrifying, the abode of dragons and demons, to the point that people blindfolded themselves to cross the alpine passes.[109] the glaciers remained a mystery and many still believed the highest areas to be inhabited by dragons.[110]
+charles vii of france ordered his chamberlain to climb mont aiguille in 1356. the knight reached the summit of rocciamelone where he left a bronze triptych of three crosses, a feat which he conducted with the use of ladders to traverse the ice.[111] in 1492 antoine de ville climbed mont aiguille, without reaching the summit, an experience he described as "horrifying and terrifying."[108] leonardo da vinci was fascinated by variations of light in the higher altitudes, and climbed a mountain—scholars are uncertain which one; some believe it may have been monte rosa. from his description of a "blue like that of a gentian" sky it is thought that he reached a significantly high altitude.[112] in the 18th century four chamonix men almost made the summit of mont blanc but were overcome by altitude sickness and snowblindness.[113]
+conrad gessner was the first naturalist to ascend the mountains in the 16th century, to study them, writing that in the mountains he found the "theatre of the lord".[114] by the 19th century more naturalists began to arrive to explore, study and conquer the high peaks.[115]  two men who first explored the regions of ice and snow were horace-bénédict de saussure (1740–1799) in the pennine alps,[116] and the benedictine monk of disentis placidus a spescha (1752–1833).[115] born in geneva, saussure was enamoured with the mountains from an early age; he left a law career to become a naturalist and spent many years trekking through the bernese oberland, the savoy, the piedmont and valais, studying the glaciers and the geology, as he became an early proponent of the theory of rock upheaval.[117] saussure, in 1787, was a member of the third ascent of mont blanc—today the summits of all the peaks have been climbed.[41]
+
+the romantics[edit]
+ wanderer above the sea of fog, caspar david friedrich (1818)
+albrecht von haller's poem die alpen (1732) described the mountains as an area of mythical purity.[118] jean-jacques rousseau was another writer who presented the alps as a place of allure and beauty, in his novel julie, or the new heloise (1761), later the first wave of romantics such as goethe and turner came to admire the scenery;[citation needed] wordsworth visited the area in 1790, writing of his experiences in the prelude (1799). schiller later wrote the play william tell (1804), which tells the  story  the legendary swiss marksman william tell as part of the greater swiss struggle for independence from the habsburg empire in the early 14th century. at the end of the napoleonic wars, the alpine countries began to see an influx of poets, artists, and musicians,[119] as visitors came to experience the sublime effects of monumental nature.[120]
+in 1816 byron, percy bysshe shelley and his wife mary shelley visited geneva and all three were inspired by the scenery in their writings.[119] during these visits shelley wrote the poem "mont blanc", byron wrote "the prisoner of chillon" and the dramatic poem manfred, and mary shelley, who found the scenery overwhelming, conceived the idea for the novel frankenstein in her villa on the shores of lake geneva in the midst of a thunderstorm. when coleridge travelled to chamonix, he declaimed, in defiance of shelley, who had signed himself "atheos" in the guestbook of the hotel de londres near montenvers,[121] "who would be, who could be an atheist in this valley of wonders".[122]
+by the mid-19th century scientists began to arrive en masse to study the geology and ecology of the region.[123]
+
+the nazis[edit]
+ the nazis hid looted art in salt mines at altaussee, such as the early netherlandish ghent altarpiece which sustained significant damage.
+austrian-born adolf hitler had a lifelong romantic fascination with the alps and by the 1930s established a home at berghof, in the obersalzberg region outside of berchtesgaden. his first visit to the area was in 1923 and he maintained a strong tie there until the end of his life. at the end of world war ii the us army occupied obersalzberg, to prevent hitler from retreating with the wehrmacht into the mountains.[124]
+by 1940 many of the alpine countries were under the control of the axis powers. austria underwent a political coup that made it part of the third reich; france had been invaded and italy was a fascist regime. switzerland and liechtenstein were the only countries to avoid axis takeover.[125] the swiss confederation mobilized its troops—the country follows the doctrine of "armed neutrality" with all males required to have military training—a number that general eisenhower estimated to be about 850,000. the swiss commanders wired the infrastructure leading into the country with explosives, and threatened to destroy bridges, railway tunnels and roads across passes in the event of a nazi invasion; and if there was an invasion the swiss army would then have retreated to the heart of the mountain peaks, where conditions were harsher, and a military invasion would involve difficult and protracted battles.[126]
+german ski troops were trained for the war, and battles were waged in mountainous areas such as the battle at riva ridge in italy, where the american 10th mountain division encountered heavy resistance in february 1945.[127] at the end of the war, a substantial amount of nazi plunder was found stored in austria, where hitler had hoped to retreat as the war drew to a close. the salt mines surrounding the altaussee area, where american troops found 75 kilograms (165 lb) of gold coins stored in a single mine, were used to store looted art, jewels, and currency; vast quantities of looted art were found and returned to the owners.[128]
+
+
+largest cities[edit]
+the largest city within the alps is the city of grenoble in france. other larger and important cities within the alps with over 100,000 inhabitants are in tyrol with bolzano (italy), trento (italy) and innsbruck (austria). larger cities outside the alps are milan, verona, turin (italy), munich (germany), vienna, salzburg (austria), zurich, geneva (switzerland) and lyon (france).
+cities with over 100,000 inhabitants in the alps are:
+
+
+
+rank
+municipality
+inhabitants
+country
+region
+
+
+1
+ grenoble
+162,780
+france
+ auvergne-rhône-alpes
+
+
+2
+ innsbruck
+132,236
+austria
+ tyrol
+
+
+3
+ trento
+117,417
+italy
+ trentino-south tyrol
+
+
+4
+ bolzano/bozen
+106,951
+italy
+ trentino-south tyrol
+
+alpine people and culture[edit]
+further information: transhumance in the alps and swiss folklore
+the population of the region is 14 million spread across eight countries.[4] on the rim of the mountains, on the plateaus and the plains the economy consists of manufacturing and service jobs whereas in the higher altitudes and in the mountains farming is still essential to the economy.[129] farming and forestry continue to be mainstays of alpine culture, industries that provide for export to the cities and maintain the mountain ecology.[130]
+
+ hallstatt is known for its production of salt, dating back to prehistoric times.
+much of the alpine culture is unchanged since the medieval period when skills that guaranteed survival in the mountain valleys and in the highest villages became mainstays, leading to strong traditions of carpentry, woodcarving, baking and pastry-making, and cheesemaking.[131]
+farming had been a traditional occupation for centuries, although it became less dominant in the 20th century with the advent of tourism. grazing and pasture land are limited because of the steep and rocky topography of the alps. in mid-june cows are moved to the highest pastures close to the snowline, where they are watched by herdsmen who stay in the high altitudes often living in stone huts or wooden barns during the summers.[131] villagers celebrate the day the cows are herded up to the pastures and again when they return in mid-september. the almabtrieb, alpabzug, alpabfahrt, désalpes («coming down from the alps») is celebrated by decorating the cows with garlands and enormous cowbells while the farmers dress in traditional costumes.[131]
+
+ in the summers the cows are brought up to the high mountain meadows for grazing. small summer villages such as this one shown in this photograph taken in savoie are used.
+cheesemaking is an ancient tradition in most alpine countries. a wheel of cheese from the emmental in switzerland can weigh up to 45 kg (100 lb), and the beaufort in savoy can weigh up to 70 kg (150 lb). owners of the cows traditionally receive from the cheesemakers a portion in relation to the proportion of the cows' milk from the summer months in the high alps. haymaking is an important farming activity in mountain villages which has become somewhat mechanized in recent years, although the slopes are so steep that usually scythes are necessary to cut the grass. hay is normally brought in twice a year, often also on festival days.[131] alpine festivals vary from country to country and often include the display of local costumes such as dirndl and trachten, the playing of alpenhorns, wrestling matches, some pagan traditions such as walpurgis night and, in many areas, carnival is celebrated before lent.[132]
+in the high villages people live in homes built according to medieval designs that withstand cold winters. the kitchen is separated from the living area (called the stube, the area of the home heated by a stove), and second-floor bedrooms benefit from rising heat. the typical swiss chalet originated in the bernese oberland. chalets often face south or downhill, and are built of solid wood, with a steeply gabled roof to allow accumulated snow to slide off easily. stairs leading to upper levels are sometimes built on the outside, and balconies are sometimes enclosed.[131][133]
+
+ herding sheep in austria
+food is passed from the kitchen to the stube, where the dining room table is placed. some meals are communal, such as fondue, where a pot is set in the middle of the table for each person to dip into. other meals are still served in a traditional manner on carved wooden plates. furniture has been traditionally elaborately carved and in many alpine countries carpentry skills are passed from generation to generation.
+
+ alpine chalet being built in haute-maurienne (savoy), the use of thick pieces of orthogneiss (4–7 cm) is in accordance with the strict architural regulations in the region bordering the national parks of vanoise-grand paradis.
+roofs are traditionally constructed from alpine rocks such as pieces of schist, gneiss or slate.[134] such chalets are typically found in the higher parts of the valleys, as in the maurienne valley in savoy, where the amount of snow during the cold months is important. the inclination of the roof cannot exceed 40%, allowing the snow to stay on top, thereby functioning as insulation from the cold.[135] in the lower areas where the forests are widespread, wooden tiles are traditionally used. commonly made of norway spruce, they are called "tavaillon".
+the alpine regions are multicultural and linguistically diverse. dialects are common, and vary from valley to valley and region to region. in the slavic alps alone 19 dialects have been identified. some of the french dialects spoken in the french, swiss and italian alps of aosta valley derive from arpitan, while the southern part of the western range is related to old provençal; the german dialects derive from germanic tribal languages.[136] romansh, spoken by two percent of the population in southeast switzerland, is an ancient rhaeto-romanic language derived from latin, remnants of ancient celtic languages and perhaps etruscan.[136]
+
+tourism[edit]
+further information: tourism in austria, tourism in france, tourism in italy, tourism in slovenia, and tourism in switzerland
+ the ski resort in speikboden, south tyrol, italy
+the alps are one of the more popular tourist destinations in the world with many resorts such oberstdorf, in bavaria, saalbach in austria, davos in switzerland, chamonix in france, and cortina d'ampezzo in italy recording more than a million annual visitors. with over 120 million visitors a year, tourism is integral to the alpine economy with much it coming from winter sports, although summer visitors are also an important component.[137]
+the tourism industry began in the early 19th century when foreigners visited the alps, travelled to the bases of the mountains to enjoy the scenery, and stayed at the spa-resorts. large hotels were built during the belle époque; cog-railways, built early in the 20th century, brought tourists to ever higher elevations, with the jungfraubahn terminating at the jungfraujoch, well above the eternal snow-line, after going through a tunnel in eiger. during this period winter sports were slowly introduced: in 1882 the first figure skating championship was held in st. moritz, and downhill skiing became a popular sport with english visitors early in the 20th century,[137] as the first ski-lift was installed in 1908 above grindelwald.[138]
+
+ karl schranz running the lauberhorn in 1966
+in the first half of the 20th century the olympic winter games were held three times in alpine venues: the 1924 winter olympics in chamonix, france; the 1928 winter olympics in st. moritz, switzerland; and the 1936 winter olympics in garmisch-partenkirchen, germany. during world war ii the winter games were cancelled but after that time the winter games have been held in st. moritz (1948), cortina d'ampezzo (1956), innsbruck, austria (1964 and 1976), grenoble, france, (1968), albertville, france, (1992), and torino (2006).[139]  in 1930 the lauberhorn rennen (lauberhorn race), was run for the first time on the lauberhorn above wengen;[140] the equally demanding hahnenkamm was first run in the same year in kitzbühl, austria.[141] both races continue to be held each january on successive weekends. the lauberhorn is the more strenuous downhill race at 4.5 km (2.8 mi) and poses danger to racers who reach 130 km/h (81 mph) within seconds of leaving the start gate.[142]
+during the post-world war i period ski-lifts were built in swiss and austrian towns to accommodate winter visitors, but summer tourism continued to be important; by the mid-20th century the popularity of downhill skiing increased greatly as it became more accessible and in the 1970s several new villages were built in france devoted almost exclusively to skiing, such as les menuires. until this point austria and switzerland had been the traditional and more popular destinations for winter sports, but by the end of the 20th century and into the early 21st century, france, italy and the tyrol began to see increases in winter visitors.[137] from 1980 to the present, ski-lifts have been modernized and snow-making machines installed at many resorts, leading to concerns regarding the loss of traditional alpine culture and questions regarding sustainable development as the winter ski industry continues to develop quickly and the number of summer tourists decline.[137]
+
+avalanche/snow-slide[edit]
+17th century french-italian border avalanche, 19th century zermatt avalanche
+in the 17th century about 2500 people were killed by an avalanche in a village on the french-italian border; in the 19th century 120 homes in a village near zermatt were destroyed by an avalanche.[143]
+
+13 december 1916 marmolada-mountain-avalanche
+1950–1951 winter-of-terror avalanches
+9 february 1999 montroc avalanche
+21 february 1999 evolène avalanche
+july 2014 mont-blanc avalanche
+13 january 2016 les-deux-alpes avalanche
+18 january 2016 valfréjus avalanche
+transportation[edit]
+ zentralbahn interregio train following the lake brienz shoreline, near niederried in switzerland
+the region is serviced by 4,200 km (2,600 mi) of roads used by six million vehicles.[4] train travel is well established in the alps, with, for instance 120 km (75 mi) of track for every 1,000 km2 (390 sq mi) in a country such as switzerland.[144] most of europe's highest railways are located there. in 2007 the new 34.57-kilometre-long (21.48 mi) lötschberg base tunnel was opened, which circumvents the 100 years older lötschberg tunnel. with the opening of the 57.1-kilometre-long (35.5 mi) gotthard base tunnel on june 1, 2016 it bypasses the gotthard tunnel built in the 19th century and realizes the first flat route through the alps.[145]
+some high mountain villages are car free either because of inaccessibility or by choice. wengen, and zermatt (in switzerland) are accessible only by cable car or cog-rail trains. avoriaz (in france), is car free, with other alpine villages considering becoming car free zones or limiting the number of cars for reasons of sustainability of the fragile alpine terrain.[146]
+the lower regions and larger towns of the alps are well-served by motorways and main roads, but higher mountain passes and byroads, which are amongst the highest in europe, can be treacherous even in summer due to steep slopes. many passes are closed in winter. a number of airports around the alps (and some within), as well as long-distance rail links from all neighbouring countries, afford large numbers of travellers easy access.[4]
+
+
+references[edit]
+notes[edit]
+
+
+^ the caucasus mountains are higher, and the urals longer, but both lie partly in asia.
+
+
+references[edit]
+
+
+^ "le mont-blanc passe de 4.810 mètres à 4.808,7 mètres"..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ "alps". the hutchinson unabridged encyclopedia with atlas and weather guide. abington, united kingdom: helicon. 2014. (subscription required (help)).
+
+^ "alpine convention". alpine conferences. retrieved august 3, 2012
+
+^ a b c d e f g chatré, baptiste, et al. (2010), 8
+
+^ "online etymology dictionary". etymonline.com. may 14, 1955. retrieved april 18, 2012.
+
+^ https://www.etymonline.com/word/alp
+
+^ https://www.etymonline.com/word/alp
+
+^ a b c schmid et al. (2004), 93
+
+^ a b c d e f g reynolds, (2012), 43–45
+
+^ a b fleming (2000), 4
+
+^ shoumatoff (2001), 117–119
+
+^ a b c ceben (1998), 22–24
+
+^ a b c chatré, baptiste, et al. (2010), 9
+
+^ fleming (2000), 1
+
+^ a b c beattie (2006), xii–xiii
+
+^ shoumtoff (2001), 23
+
+^ excluding the piz zupò and piz roseg located in the bernina range, close to piz bernina.
+
+^ "alps | definition, map, & facts". encyclopedia britannica. retrieved 2019-02-04.
+
+^ knox 1911, p. 740.
+
+^ a b encyclopædia britannica. encyclopedia online academic edition. encyclopædia britannica. retrieved august 6, 2012
+
+^ "wer hat die grösste röhre?" [who has the longest tube?]. tages-anzeiger (graphical animation) (in german). zurich. april 14, 2016. retrieved may 11, 2016.
+
+^ "was die tunnelbauer im gotthard antrafen". tages-anzeiger (graphical animation) (in german). zurich. april 1, 2016. retrieved may 11, 2016.
+
+^ "official timetable" (in english, german, french, italian, and rumantsch). bern: swiss federal office for transport.cs1 maint: unrecognized language (link)
+
+^ a b c graciansky (2011), 1–2
+
+^ a b c graciansky (2011), 5
+
+^ shoumatoff (2001), 35
+
+^ a b gerrard, (1990), 9
+
+^ a b c gerrard, (1990), 16
+
+^ earth (2008), 142
+
+^ a b schmid (2004), 102
+
+^ a b c d schmid (2004), 97
+
+^ a b schmid, 99
+
+^ schmid (2004), 103
+
+^ graciansky (2011), 29
+
+^ graciansky (2011), 31
+
+^ beattie (2006), 6–8
+
+^ http://www.seismo.ethz.ch/en/knowledge/earthquake-country-switzerland/earthquakes-and-the-alps/
+
+^ http://www.seismo.ethz.ch/static/100j/snapshot05/sn05_gal3_en.html
+
+^ "the 4000ers of the alps: official uiaa list" (pdf). uiaa-bulletin (145). march 1994. archived from the original (pdf) on march 7, 2010.
+
+^ michael huxley, the geographical magazine: volume 59, geographical press, 1987
+
+^ a b shoumatoff (2001), 197–200
+
+^ "4000 m peaks of the alps". bielefeldt.de. july 6, 2010. retrieved august 9, 2012.
+
+^ shoumatoff (2001), 49–53
+
+^ roth, 10–17
+
+^ a b c d e shoumatoff (2001), 63–68
+
+^ gerrard, (1990), 132
+
+^ a b shoumatoff (2001), 71–72
+
+^ gerrard, (1990), 78
+
+^ gerrard, (1990), 108
+
+^ ceben (1998), 38
+
+^ shoumatoff (2001), 31
+
+^ chatré, baptiste, et al. (2010), 5
+
+^ a b benniston et al. (2011), 1
+
+^ price, martin. mountains: globally important eco-systems. university of oxford
+
+^ a b benniston et al. (2011), 3
+
+^ a b ceben (1998), 31
+
+^ shoumatoff (2001), 24, 31
+
+^ "lake garda". encyclopedia brittanica. retrieved 27 august 2018.
+
+^ chatré, baptiste, et al. (2010), 13
+
+^ knox 1911, p. 737.
+
+^ fleming (2000), 3
+
+^ ceben (1998), 34–36
+
+^ viazzo (1980), 17
+
+^ benniston (2011), 3–4
+
+^ huss, matthias; hock, regine; bauder, andreas; funk, martin (may 1, 2010). "100-year mass changes in the swiss alps linked to the atlantic multidecadal oscillation". geophysical research letters. 37 (10): l10501. bibcode:2010georl..3710501h. doi:10.1029/2010gl042616. issn 1944-8007.
+
+^ zampieri, matteo; scoccimarro, enrico; gualdi, silvio (january 1, 2013). "atlantic influence on spring snowfall over the alps in the past 150 years". environmental research letters. 8 (3): 034026. bibcode:2013erl.....8c4026z. doi:10.1088/1748-9326/8/3/034026. issn 1748-9326.
+
+^ zampieri, matteo; scoccimarro, enrico; gualdi, silvio; navarra, antonio (january 15, 2015). "observed shift towards earlier spring discharge in the main alpine rivers". science of the total environment. towards a better understanding of the links between stressors, hazard assessment and ecosystem services under water scarcity. 503–504: 222–232. bibcode:2015scten.503..222z. doi:10.1016/j.scitotenv.2014.06.036. hdl:2122/9055. pmid 25005239.
+
+^ knox 1911, p. 738.
+
+^ shoumatoff (2001), 75
+
+^ beattie (2006), 17
+
+^ körner (2003), 9
+
+^ shoumatoff (2001), 85
+
+^ qtd in beattie (2006), 17
+
+^ shoumatoff (2001), 87
+
+^ a b sharp (2002), 14
+
+^ kala, c.p. and ratajc, p. 2012."high altitude biodiversity of the alps and the himalayas: ethnobotany, plant distribution and conservation perspective". biodiversity and conservation, 21 (4): 1115–1126.
+
+^ gerrard (1990), 225
+
+^ shoumatoff (2001), 90, 96, 101
+
+^ shoumatoff (2001), 104
+
+^ rupicapra rupicapra [linnaeus, 1758] [1]
+
+^ shoumatoff (2001), 101
+
+^ shoumatoff (2001), 102–103
+
+^ shoumatoff (2001), 97–98
+
+^ a b shoumatoff (2001), 96
+
+^ a b shoumatoff (2001), 88–89
+
+^ shoumatoff (2001), 93
+
+^ shoumatoff (2001), 91
+
+^ reynolds (2012), 75
+
+^ a b beattie, (2006), 25
+
+^ beattie, (2006), 21
+
+^ luca ermini et al., "complete mitochondrial genome sequence of the tyrolean iceman," current biology, vol. 18, no. 21 (30 october 2008), pp. 1687–1693.
+
+^ fleming (2000), 2
+
+^ shoumatoff (2001), 131
+
+^ shoumatoff (2001), 110
+
+^ lancel, serge, (1999), 71
+
+^ prevas (2001), 68–69
+
+^ beattie, (2006), 27
+
+^ beattie, (2006), 28–31
+
+^ beattie, (2006), 31, 34
+
+^ beattie, (2006), 32, 34, 37, 43
+
+^ beattie, (2006), 41, 46, 48
+
+^ beattie, (2006), 56, 66
+
+^ shoumatoff (2001), 182–183
+
+^ beattie, (2006), 69–70
+
+^ beattie, (2006), 73, 75–76
+
+^ shoumatoff (2001), 108
+
+^ knox 1911, p. 748.
+
+^ a b shoumatoff (2001), 188–191
+
+^ fleming (2000), 6
+
+^ fleming (2000), 12
+
+^ fleming (2000), 5
+
+^ qtd in shoumatoff (2001), 193
+
+^ shoumatoff (2001), 192–194
+
+^ fleming (2000), 8
+
+^ a b fleming (2000), vii
+
+^ fleming (2000), 27
+
+^ fleming (2000), 12–13, 30, 27
+
+^ beattie, (2006), 121–123
+
+^ a b fleming (2000), 83
+
+^ beattie, (2006), 125–126
+
+^ geoffrey hartman, "gods, ghosts, and shelley's 'atheos'", literature and theology, volume 24, issue 1, pp. 4–18
+
+^ beattie, (2006), 127–133
+
+^ beattie, (2006), 139
+
+^ mitchell (2007), 7–10
+
+^ halbrook (1998), 1
+
+^ halbrook (2006), 1–3
+
+^ feuer (2006), viii
+
+^ mitchell (2007), 10, 151
+
+^ chartes et. el. (2010), 14
+
+^ chartes et. el. (2010), 5
+
+^ a b c d e shoumataff (2001), 123–126
+
+^ shoumataff (2001), 129, 135
+
+^ shoumataff (2001), 134
+
+^ shoumataff (2001), 131, 134
+
+^ cahier d'architecture haute maurienne/vanoise
+
+^ a b shoumataff (2001), 114–166
+
+^ a b c d bartaletti, fabrizio."what role do the alps play within world tourism?". commission internationale pour la protection des alpes. cirpa.org. retrieved august 9, 2012
+
+^ beattie (2006), 198
+
+^ "21 past olympic games". olympic.org. retrieved august 13, 2012
+
+^ lauberhorn history. retrieved august 14, 2012.
+
+^ "hahenkamm races kitzbuhel" archived february 19, 2011, at the wayback machine. hkr.com. retrieved august 13, 2012
+
+^ lauberhorn downhill. retrieved august 14, 2012.
+
+^ fleming (2000), 89–90
+
+^ "rail". archived may 27, 2013, at the wayback machine swissworld.org. retrieved august 20, 2012
+
+^ "welcome to the alptransit portal". bern: swiss federal archives sfa.
+
+^ hudson (2000), 107
+
+
+works cited[edit]
+.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}
+allaby, michael et al. the encyclopedia of earth. (2008). berkeley: university of california press. isbn 978-0-520-25471-8
+beattie, andrew. (2006). the alps: a cultural history. new york: oxford university press. isbn 978-0-19-530955-3
+benniston, martin, et al. (2011). "impact of climatic change on water and natural hazards in the alps". environmental science and policy. volume 30. 1–9
+cebon, peter, et al. (1998).  views from the alps: regional perspectives on climate change. cambridge ma: mit press. isbn 978-0-262-03252-0
+chatré, baptiste, et al. (2010). the alps: people and pressures in the mountains, the facts at a glance. permanent secretariat of the alpine convention (alpconv.org). retrieved august 4, 2012. isbn 978-88-905158-2-8
+de graciansky, pierre-charles et al. (2011). the western alps, from rift to passive margin to orogenic belt. amsterdam: elsevier. isbn 978-0-444-53724-9
+feuer, a.b. (2006). packs on!: memoirs of the 10th mountain division in world war ii. mechanicsburg, pennsylvania: stackpole books. isbn 978-0-8117-3289-5
+fleming, fergus. (2000). killing dragons: the conquest of the alps. new york: grove. isbn 978-0-8021-3867-5
+gerrard, aj. (1990) mountain environments: an examination of the physical geography of mountains. boston: mit press. isbn 978-0-262-07128-4
+halbrook, stephen p. (1998). target switzerland: swiss armed neutrality in world war ii. rockville center, ny: sarpedon. isbn 978-1-885119-53-7
+halbrook, stephen p. (2006). the swiss and the nazis: how the alpine republic survived in the shadow of the third reich. havertown, pa: casemate. isbn 978-1-932033-42-7
+hudson, simon. (2000). snow business: a study of the international ski industry. new york: cengage isbn 978-0-304-70471-2
+ this article incorporates text from a publication now in the public domain: knox, howard vincent (1911). "alps" .  in chisholm, hugh. encyclopædia britannica. 1 (11th ed.). cambridge university press. pp. 737–754.
+körner, christian. (2003).  alpine plant life. new york: springer verlag. isbn 978-3-540-00347-2
+lancel, serge. (1999). hannibal. oxford: blackwell. isbn 978-0-631-21848-7
+mitchell, arthur h. (2007).  hitler's mountain. jefferson, nc: mcfarland. isbn 978-0-7864-2458-0
+prevas, john. (2001). hannibal crosses the alps: the invasion of italy and the punic wars. cambridge, ma: da capo press. isbn 978-0-306-81070-1
+reynolds, kev. (2012) the swiss alps. cicerone press. isbn 978-1-85284-465-3
+roth, philipe. (2007). minerals first discovered in switzerland. lausanne, ch: museum of geology. isbn 978-3-9807561-8-1
+schmid, stefan m. (2004). "regional tectonics: from the rhine graben to the po plain, a summary of the tectonic evolution of the alps and their forelands". basel: geologisch-paläontologisches institut
+sharp, hilary. (2002). trekking and climbing in the western alps. london: new holland. isbn 978-0-8117-2954-3
+schmid, stefan m.et al. (2004). "tectonic map and overall architecture of the alpine orogen". eclogae geologicae helvetiae. volume 97. 93–117
+shoumatoff, nicholas and nina. (2001). the alps: europe's mountain heart. ann arbor, mi: university of michigan press. isbn 978-0-472-11111-4
+viazzo, pier paolo. (1980).  upland communities: environment, population and social structure in the alps since the sixteenth century. cambridge: cambridge university press. isbn 978-0-521-30663-8
+
+external links[edit]
+
+alpsat wikipedia's sister projects
+
+
+definitions from wiktionary
+media from wikimedia commons
+news from wikinews
+quotations from wikiquote
+texts from wikisource
+textbooks from wikibooks
+travel guide from wikivoyage
+resources from wikiversity
+
+
+
+17, 2005 satellite photo of the alps, taken on august 31, 2005 by modis aboard terra
+official website of the alpine space programme this eu co-funded programme co-finances transnational projects in the alpine region
+vtemountain ranges of france
+alps
+armorican massif
+ardennes
+corsica
+jura mountains
+massif central
+morvan
+pyrenees
+vosges
+
+vteitaly articleshistorychronology
+prehistory
+italic peoples
+ancient peoples of italy
+pre-nuragic sardinia
+nuragic peoples
+etruscan civilization
+nuragic civilization
+phoenician/carthaginian colonies
+magna graecia
+ancient rome
+kingdom
+republic
+empire
+middle ages
+italy under odoacer
+ostrogoths
+byzantium
+lombards
+the holy roman empire
+the sardinian judicates
+arabs
+normans
+guelphs and ghibellines
+the italian city-states
+the maritime republics
+renaissance
+italian wars
+early modern period
+unification
+revolutions of 1820
+revolutions of 1830
+revolutions of 1848
+sicilian revolution of 1848
+first war of independence
+crimean war
+second war of independence
+expedition of the thousand
+third war of independence
+capture of rome
+monarchy and the world wars
+kingdom of italy
+colonial empire
+world war i
+fascist italy
+world war ii
+resistance
+civil war
+republic
+economic boom
+years of lead
+years of mud
+mani pulite
+by topic
+citizenship
+currency
+economy
+fashion
+flags
+genetic
+historic states
+military
+music
+postal
+railways
+geography
+peninsula
+northern
+northwest
+northeast
+central
+southern
+south
+insular
+climate
+fauna
+flora
+mountains
+prealps
+alps
+apennines
+volcanology
+volcanoes
+beaches
+canals
+caves
+earthquakes
+islands
+lakes
+national parks
+rivers
+valleys
+politics
+constitution
+elections
+referendums
+foreign relations
+missions
+judiciary
+law enforcement
+military
+parliament
+chamber of deputies
+senate
+political parties
+president
+prime minister
+council of ministers
+regions
+provinces
+metropolitan cities
+comune
+municipalities
+cities
+economy
+economic history
+milan
+naples
+rome
+turin
+regions by gdp
+automotive industry
+banking
+central bank
+companies
+energy
+government debt
+science and technology
+stock exchange
+taxation
+telecommunications
+internet
+tourism
+trade unions
+transportation
+welfare
+society
+abortion
+adoption
+billionaires
+capital punishment
+corruption
+crime
+demographics
+education
+secondary
+higher
+universities
+emigration
+fathers' rights movement
+feminism
+gambling
+health
+healthcare
+immigration
+lgbt rights
+nobility
+prostitution
+racism
+religion
+smoking
+social class
+terrorism
+women
+culture
+duecento
+trecento
+quattrocento
+cinquecento
+seicento
+settecento
+architecture
+art
+castles
+cinema
+cuisine
+beer
+wine
+cultural icons
+decorations
+design
+fashion
+festivals
+folklore
+italian language
+regional italian
+italian literature
+italophilia
+italophobia
+languages
+media
+newspapers
+radio
+tv
+monuments
+music
+classical
+folk
+opera
+popular
+mythology
+national symbols
+anthem
+emblem
+flag
+regions
+national monument
+personification
+people
+philosophy
+public holidays
+festa della repubblica
+sculpture
+sport
+traditions
+world heritage sites
+
+ italy portal
+ category
+ commons
+ news
+quotes
+travel
+ wikiproject
+
+authority control 
+gnd: 4001328-5
+lccn: sh85003839
+nara: 10045350
+ndl: 01078176
+viaf: 315124935
+ worldcat identities (via viaf): 315124935
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=alps&oldid=884045556"					
+categories: alpsmountain ranges of europemountains of europeecology of the alpsgeography of central europegeography of western europemountain ranges of austriamountain ranges of francemountain ranges of germanymountain ranges of italymountain ranges of liechtensteinmountain ranges of monacomountain ranges of sloveniamountain ranges of switzerlandphysiographic provinceshidden categories: pages containing links to subscription-only contentcs1 german-language sources (de)cs1 maint: unrecognized languagecs1 french-language sources (fr)cs1 italian-language sources (it)cs1: long volume valuewebarchive template wayback linksuse mdy dates from june 2018use british english oxford spelling from september 2016articles containing french-language textarticles containing german-language textarticles containing italian-language textarticles containing slovene-language textcoordinates on wikidataarticles containing romansh-language textall articles with unsourced statementsarticles with unsourced statements from january 2017wikipedia articles incorporating a citation from the 1911 encyclopaedia britannica with wikisource referencewikipedia articles incorporating text from the 1911 encyclopædia britannicawikipedia articles with gnd identifierswikipedia articles with lccn identifierswikipedia articles with nara identifierswikipedia articles with ndl identifierswikipedia articles with viaf identifierswikipedia articles with worldcat-viaf identifiers 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commonswikivoyage 
+
+
+
+languages
+
+
+afrikaansalemannischአማርኛængliscالعربيةaragonésarpetanঅসমীয়াasturianuavañe'ẽazərbaycancaتۆرکجهবাংলাbân-lâm-gúбашҡортсабеларускаябеларуская (тарашкевіца)‎भोजपुरीбългарскиboarischbosanskibrezhonegбуряадcatalàčeštinacymraegdanskdeutschdolnoserbskieestiελληνικάemiliàn e rumagnòlespañolesperantoeuskaraفارسیfiji hindiføroysktfrançaisfryskfurlangaeilgegalego贛語ગુજરાતી客家語/hak-kâ-ngî한국어hawaiʻiհայերենहिन्दीhornjoserbscehrvatskiidoilokanobahasa indonesiainterlinguainterlingueíslenskaitalianoעבריתbasa jawakabɩyɛಕನ್ನಡкъарачай-малкъарქართულიқазақшаkernowekkiswahilikurdîкыргызчаລາວlatinalatviešulëtzebuergeschlietuviųligurelimburgslingálalingua franca novalumbaartmagyarмакедонскиമലയാളംमराठीმარგალურიمصرىbahasa melayumirandésмонголမြန်မာဘာသာnederlandsनेपालीनेपाल भाषा日本語napulitanoнохчийнnordfriisknorsknorsk nynorsknouormandoccitanолык марийoʻzbekcha/ўзбекчаਪੰਜਾਬੀپنجابیpatoispicardpiemontèisplattdüütschpolskiportuguêsqaraqalpaqsharomânărumantschruna simiрусиньскыйрусскийсаха тылаscotsseelterskshqipsicilianusimple englishslovenčinaslovenščinaکوردیсрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskatagalogதமிழ்tarandíneтатарча/tatarçaతెలుగుไทยтоҷикӣtürkçetürkmençeукраїнськаاردوئۇيغۇرچە / uyghurchevènetovepsän kel’tiếng việtvõrowinaray吴语ייִדיש粵語žemaitėška中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 19 february 2019, at 04:53 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"1.608","walltime":"1.941","ppvisitednodes":{"value":11951,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":216465,"limit":2097152},"templateargumentsize":{"value":45592,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":30,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":133215,"limit":5000000},"entityaccesscount":{"value":5,"limit":400},"timingprofile":["100.00% 1467.636      1 -total"," 29.96%  439.702      1 template:infobox_mountain_range"," 27.18%  398.857      1 template:infobox"," 19.04%  279.491      2 template:reflist"," 13.22%  194.076     90 template:convert"," 11.99%  175.985      1 template:plainlist"," 11.13%  163.282      2 template:lang-fr","  8.35%  122.583     20 template:isbn","  7.60%  111.537      7 template:navbox","  6.83%  100.218      1 template:italy_topics"]},"scribunto":{"limitreport-timeusage":{"value":"0.696","limit":"10.000"},"limitreport-memusage":{"value":25555230,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1344","timestamp":"20190219045250","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":130,"wghostname":"mw1256"});});
+
+

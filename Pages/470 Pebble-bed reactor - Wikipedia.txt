@@ -1,0 +1,508 @@
+
+
+
+
+pebble-bed reactor - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"pebble-bed_reactor","wgtitle":"pebble-bed reactor","wgcurrevisionid":880649678,"wgrevisionid":880649678,"wgarticleid":143354,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["webarchive template wayback links","articles needing additional references from september 2013","all articles needing additional references","all articles with unsourced statements","articles with unsourced statements from january 2019","articles with unsourced statements from february 2009","articles with unsourced statements from may 2008","articles with unsourced statements from october 2015","pebble bed reactors","nuclear power reactor types"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"pebble-bed_reactor","wgrelevantarticleid":143354,"wgrequestid":"xggz4apaaeuaaj4ffmiaaadb","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgredirectedfrom":"pebble_bed_reactor","wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wginternalredirecttargeturl":"/wiki/pebble-bed_reactor","wgwikibaseitemid":"q1622414","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+pebble-bed reactor 
+from wikipedia, the free encyclopedia   (redirected from pebble bed reactor)
+ jump to navigation
+jump to search
+this article needs additional citations for verification. please help improve this article by adding citations to reliable sources. unsourced material may be challenged and removed.find sources: "pebble-bed reactor" – news · newspapers · books · scholar · jstor (september 2013) (learn how and when to remove this template message)
+ sketch of a pebble-bed reactor.
+ graphite pebble for reactor
+the pebble-bed reactor (pbr) is a design for a graphite-moderated, gas-cooled nuclear reactor. it is a type of very-high-temperature reactor (vhtr), one of the six classes of nuclear reactors in the generation iv initiative. the basic design of pebble-bed reactors features spherical fuel elements called pebbles. these tennis ball-sized pebbles are made of pyrolytic graphite (which acts as the moderator), and they contain thousands of micro-fuel particles called triso particles. these triso fuel particles consist of a fissile material (such as 235u) surrounded by a coated ceramic layer of silicon carbide for structural integrity and fission product containment. in the pbr, thousands of pebbles are amassed to create a reactor core, and are cooled by a gas, such as helium, nitrogen or carbon dioxide, that does not react chemically with the fuel elements.
+this type of reactor is claimed to be passively safe;[1] that is, it removes the need for redundant, active safety systems. because the reactor is designed to handle high temperatures, it can cool by natural circulation and still survive in accident scenarios, which may raise the temperature of the reactor to 1,600 °c. because of its design, its high temperatures allow higher thermal efficiencies than possible in traditional nuclear power plants (up to 50%) and has the additional feature that the gases do not dissolve contaminants or absorb neutrons as water does, so the core has less in the way of radioactive fluids.
+the concept was first suggested by farrington daniels in the 1940s, said to have been inspired by the innovative design of the benghazi burner by british desert troops in wwii, but commercial development did not take place until the 1960s in the german avr reactor by rudolf schulten.[2] this system was plagued with problems and political and economic decisions were made to abandon the technology.[3] the avr design was licensed to south africa as the pbmr and china as the htr-10, the latter currently the only such design in operation. in various forms, other designs are under development by mit, university of california at berkeley, general atomics (u.s.), the dutch company romawa b.v., adams atomic engines, idaho national laboratory, and x-energy.
+
+contents
+
+1 pebble-bed design
+2 safety features
+
+2.1 containment
+2.2 production of fuel
+
+
+3 criticisms of the reactor design
+
+3.1 combustible graphite
+3.2 containment building
+3.3 waste handling
+3.4 1986 accident
+3.5 2008 report
+
+
+4 history
+
+4.1 germany
+
+4.1.1 avr
+4.1.2 thorium high-temperature reactor
+
+
+
+
+5 different designs
+
+5.1 china
+5.2 south africa
+5.3 adams atomic engines
+5.4 x-energy
+
+
+6 see also
+7 references
+8 external links
+
+
+pebble-bed design[edit]
+a pebble-bed power plant combines a gas-cooled core[4] and a novel packaging of the fuel that dramatically reduces complexity while improving safety.[5]
+the uranium, thorium or plutonium nuclear fuels are in the form of a ceramic (usually oxides or carbides) contained within spherical pebbles a little smaller than the size of a tennis ball and made of pyrolytic graphite, which acts as the primary neutron moderator. the pebble design is relatively simple, with each sphere consisting of the nuclear fuel, fission product barrier, and moderator (which in a traditional water reactor would all be different parts). simply piling enough pebbles together in a critical geometry will allow for criticality.
+the pebbles are held in a vessel, and an inert gas (such as helium, nitrogen or carbon dioxide) circulates through the spaces between the fuel pebbles to carry heat away from the reactor. pebble-bed reactors need fire-prevention features to keep the graphite of the pebbles from burning in the presence of air if the reactor wall is breached, although the flammability of the pebbles is disputed. ideally, the heated gas is run directly through a turbine. however, if the gas from the primary coolant can be made radioactive by the neutrons in the reactor, or a fuel defect could still contaminate the power production equipment, it may be brought instead to a heat exchanger where it heats another gas or produces steam. the exhaust of the turbine is quite warm and may be used to warm buildings or chemical plants, or even run another heat engine.
+much of the cost of a conventional, water-cooled nuclear power plant is due to cooling system complexity. these are part of the safety of the overall design, and thus require extensive safety systems and redundant backups. a water-cooled reactor is generally dwarfed by the cooling systems attached to it. additional issues are that the core irradiates the water with neutrons causing the water and impurities dissolved in it to become radioactive and that the high-pressure piping in the primary side becomes embrittled and requires continual inspection and eventual replacement.
+in contrast, a pebble-bed reactor is gas-cooled, sometimes at low pressures. the spaces between the pebbles form the "piping" in the core. since there is no piping in the core and the coolant contains no hydrogen, embrittlement is not a failure concern. the preferred gas, helium, does not easily absorb neutrons or impurities. therefore, compared to water, it is both more efficient and less likely to become radioactive.
+
+safety features[edit]
+pebble-bed reactors have an advantage over conventional light-water reactors in operating at higher temperatures. a technical advantage is that some designs are throttled by temperature, not by control rods. the reactor can be simpler because it does not need to operate well at the varying neutron profiles caused by partially withdrawn control rods.
+pebble-bed reactors are also capable of using fuel pebbles made from different fuels in the same basic design of reactor (though perhaps not at the same time). proponents claim that some kinds of pebble-bed reactors should be able to use thorium, plutonium and natural unenriched uranium, as well as the customary enriched uranium. there is a project in progress to develop pebbles and reactors that use mox fuel, that mixes uranium with plutonium from either reprocessed fuel rods or decommissioned nuclear weapons.
+in most stationary pebble-bed reactor designs, fuel replacement is continuous. instead of shutting down for weeks to replace fuel rods, pebbles are placed in a bin-shaped reactor. a pebble is recycled from the bottom to the top about ten times over a few years, and tested each time it is removed. when it is expended, it is removed to the nuclear-waste area, and a new pebble inserted.
+when the nuclear fuel increases in temperature, the rapid motion of the atoms in the fuel causes an effect known as doppler broadening.  the fuel then sees a wider range of relative neutron speeds. uranium-238, which forms the bulk of the uranium in the reactor, is much more likely to absorb fast or epithermal neutrons at higher temperatures.  this reduces the number of neutrons available to cause fission, and reduces the power of the reactor. doppler broadening therefore creates a negative feedback: as fuel temperature increases, reactor power decreases. all reactors have reactivity feedback mechanisms, but the pebble-bed reactor is designed so that this effect is very strong. also, it is automatic and does not depend on any kind of machinery or moving parts. if the rate of fission increases, temperature will increase and doppler broadening will occur, decreasing the rate of fission. this negative feedback creates passive control of the reaction process.
+because of this, and because the pebble-bed reactor is designed for higher temperatures, the reactor will passively reduce to a safe power-level in an accident scenario. this is the main passive safety feature of the pebble-bed reactor, and it distinguishes the pebble-bed design (as well as most other very-high-temperature reactors) from conventional light-water reactors, which require active safety controls.
+the reactor is cooled by an inert, fireproof gas, so it cannot have a steam explosion as a light-water reactor can. the coolant has no phase transitions—it starts as a gas and remains a gas. similarly, the moderator is solid carbon; it does not act as a coolant, move, or have phase transitions (i.e., between liquid and gas) as the light water in conventional reactors does. convection of the gas driven by the heat of the pebbles ensures that the pebbles are passively cooled[citation needed]. 
+a pebble-bed reactor thus can have all of its supporting machinery fail, and the reactor will not crack, melt, explode or spew hazardous wastes.  it simply goes up to a designed "idle" temperature, and stays there.  in that state, the reactor vessel radiates heat, but the vessel and fuel spheres remain intact and undamaged.  the machinery can be repaired or the fuel can be removed.  these safety features were tested (and filmed) with the german avr reactor.[6]  all the control rods were removed, and the coolant flow was halted.  afterward, the fuel balls were sampled and examined for damage - there was none.
+pbrs are intentionally operated above the 250 °c annealing temperature of graphite, so that wigner energy is not accumulated.  this solves a problem discovered in an infamous accident, the windscale fire.  one of the reactors at the windscale site in england (not a pbr) caught fire because of the release of energy stored as crystalline dislocations (wigner energy) in the graphite.  the dislocations are caused by neutron passage through the graphite. windscale had a program of regular annealing in place to release accumulated wigner energy, but since the effect was not anticipated during the construction of the reactor, and since the reactor was cooled by ordinary air in an open cycle, the process could not be reliably controlled, and led to a fire. the second generation of uk gas-cooled reactors, the agrs, also operate above the annealing temperature of graphite.
+berkeley professor richard a. muller has called pebble-bed reactors "in every way ... safer than the present nuclear reactors".[7]
+
+containment[edit]
+most pebble-bed reactor designs contain many reinforcing levels of containment to prevent contact between the radioactive materials and the biosphere:
+
+most reactor systems are enclosed in a containment building designed to resist aircraft crashes and earthquakes.
+the reactor itself is usually in a two-meter-thick-walled room with doors that can be closed, and cooling plenums that can be filled from any water source.
+the reactor vessel is usually sealed.
+each pebble, within the vessel, is a 60 millimetres (2.4 in) hollow sphere of pyrolytic graphite.
+a wrapping of fireproof silicon carbide
+low density porous pyrolytic carbon, high density nonporous pyrolytic carbon
+the fission fuel is in the form of metal oxides or carbides
+pyrolytic graphite is the main structural material in these pebbles.  it sublimes at 4000 °c, more than twice the design temperature of most reactors.  it slows neutrons very effectively, is strong, inexpensive, and has a long history of use in reactors and other very high temperature applications. for example, pyrolytic graphite is also used, unreinforced, to construct missile reentry nose-cones and large solid rocket nozzles.[8]  its strength and hardness come from anisotropic crystals of carbon.
+pyrolytic carbon can burn in air when the reaction is catalyzed by a hydroxyl radical (e.g., from water).[citation needed]  infamous examples include the accidents at windscale and chernobyl—both graphite-moderated reactors. however, all pebble-bed reactors are cooled by inert gases to prevent fire.  all pebble designs also have at least one layer of silicon carbide that serves as a fire break as well as a seal.
+
+production of fuel[edit]
+all kernels are precipitated from a sol-gel, then washed, dried and calcined. u.s. kernels use uranium carbide, while german (avr) kernels use uranium dioxide. german-produced fuel-pebbles release about three orders of magnitude (1000 times) less radioactive gas than the u.s. equivalents, due to these different construction methods.[9][10]
+
+criticisms of the reactor design[edit]
+combustible graphite[edit]
+the most common criticism of pebble-bed reactors is that encasing the fuel in combustible graphite poses a hazard. when the graphite burns, fuel material could be carried away in smoke from the fire. since burning graphite requires oxygen, the fuel kernels are coated with a layer of silicon carbide, and the reaction vessel is purged of oxygen. while silicon carbide is strong in abrasion and compression applications, it does not have the same strength against expansion and shear forces. some fission products such as xenon-133 have a limited absorbance in carbon, and some fuel kernels could accumulate enough gas to rupture the silicon carbide layer.[citation needed] even a cracked pebble will not burn without oxygen, but the fuel pebble may not be rotated out and inspected for months, leaving a window of vulnerability.
+
+containment building[edit]
+some designs for pebble-bed reactors lack a containment building, potentially making such reactors more vulnerable to outside attack and allowing radioactive material to spread in the case of an explosion. however, the current emphasis on reactor safety means that any new design will likely have a strong reinforced concrete containment structure.[11] also, any explosion would most likely be caused by an external factor, as the design does not suffer from the steam explosion-vulnerability of some water-cooled reactors.
+
+waste handling[edit]
+since the fuel is contained in graphite pebbles, the volume of radioactive waste is much greater, but contains about the same radioactivity when measured in becquerels per kilowatt-hour. the waste tends to be less hazardous and simpler to handle.[citation needed] current us legislation requires all waste to be safely contained, therefore pebble-bed reactors would increase existing storage problems. defects in the production of pebbles may also cause problems. the radioactive waste must either be safely stored for many human generations, typically in a deep geological repository, reprocessed, transmuted in a different type of reactor, or disposed of by some other alternative method yet to be devised. the graphite pebbles are more difficult to reprocess due to their construction,[citation needed] which is not true of the fuel from other types of reactors.
+
+1986 accident[edit]
+in west germany, in 1986, an accident involved a jammed pebble that was damaged by the reactor operators when they were attempting to dislodge it from a feeder tube (see thtr-300 section). this accident released radiation into the surrounding area, and probably was one reason for the shutdown of the research program by the west german government.
+
+2008 report[edit]
+in 2008, a report[12][13] about safety aspects of the avr reactor in germany and some general features of pebble-bed reactors have drawn attention. the claims are under contention.[14] main points of discussion are
+
+no possibility to place standard measurement equipment in the pebble-bed core, i.e. pebble bed = black box
+contamination of the cooling circuit with metallic fission products (sr-90, cs-137) due to the insufficient retention capabilities of fuel pebbles for metallic fission products. even modern fuel elements do not sufficiently retain strontium and caesium.
+improper temperatures in the core (more than 200 °c above calculated values)
+necessity of a pressure retaining containment
+unresolved problems with dust formation by pebble friction (dust acts as a mobile fission product carrier, if fission products escape the fuel particles)
+rainer moormann, author of the report, requests for safety reasons a limitation of average hot helium temperatures to 800 °c minus the uncertainty of the core temperatures (which is at present at about 200 °c).
+the pebble-bed reactor has an advantage over traditional reactors in that the gases do not dissolve contaminants or absorb neutrons as water does, so the core has less in the way of radioactive fluids. however, as mentioned above, the pebbles generate graphite particulates that can blow through the coolant loop carrying fission products, if fission products escape the triso particles.
+
+history[edit]
+the first suggestion for this type of reactor came in 1947 from prof. dr. farrington daniels at oak ridge, who also created the name "pebble-bed reactor".[15] the concept of a very simple, very safe reactor, with a commoditized nuclear fuel was developed by professor dr. rudolf schulten in the 1950s. the crucial breakthrough was the idea of combining fuel, structure, containment, and neutron moderator in a small, strong sphere.  the concept was enabled by the realization that engineered forms of silicon carbide and pyrolytic carbon were quite strong, even at temperatures as high as 2000 °c (3600 °f). the natural geometry of close-packed spheres then provides the ducting (the spaces between the spheres) and spacing for the reactor core. to make the safety simple, the core has a low power density, about 1/30 the power density of a light water reactor.
+
+germany[edit]
+avr[edit]
+main article: avr reactor
+ avr in germany.a 15 mwe demonstration reactor, arbeitsgemeinschaft versuchsreaktor (avr translates to experimental reactor consortium), was built at the jülich research centre in jülich, west germany.  the goal was to gain operational experience with a high-temperature gas-cooled reactor.  the unit's first criticality was on august 26, 1966.  the facility ran successfully for 21 years, and was decommissioned on december 1, 1988, in the wake of the chernobyl disaster and operational problems. during removal of the fuel elements it became obvious that the neutron reflector under the pebble-bed core had cracked during operation. some hundred fuel elements remained stuck in the crack. during this examination it became also obvious that the avr is the most heavily beta-contaminated (strontium-90) nuclear installation worldwide and that this contamination is present in the worst form, as dust.[16]  in 1978, the avr suffered from a water/steam ingress accident of 30 metric tons, which led to contamination of soil and groundwater by strontium-90 and by tritium. the leak in the steam generator, leading to this accident, was probably caused by too high core temperatures (see criticism section). a re-examination of this accident was announced by the local government in july, 2010.
+the avr was originally designed to breed uranium-233 from thorium-232. thorium-232 is over 100 times as abundant in the earth's crust as uranium-235 (making up about 0.72% of natural uranium), and an effective thorium breeder reactor is therefore considered valuable technology.  however, the fuel design of the avr contained the fuel so well that the transmuted fuels were uneconomic to extract—it was cheaper to simply use natural uranium isotopes.
+the avr used helium coolant. helium has a low neutron cross-section. since few neutrons are absorbed, the coolant remains less radioactive.  in fact, it is practical to route the primary coolant directly to power generation turbines.  even though the power generation used primary coolant, it is reported that the avr exposed its personnel to less than 1/5 as much radiation as a typical light water reactor.
+the localized fuel temperature instabilities mentioned above in the criticism section resulted in a heavy contamination of the whole vessel by cs-137 and sr-90. some contamination was also found in soil/groundwater under the reactor, as the german government confirmed in january, 2010. thus the reactor vessel was filled with light concrete in order to fix the radioactive dust and in 2012 the reactor vessel of 2100 metric tons will be airlifted to an intermediate storage. there exists currently no dismantling method for the avr vessel, but it is planned to develop some procedure during the next 60 years and to start with vessel dismantling at the end of the century. in the meantime, after transport of the avr vessel into the intermediate storage, the reactor buildings will be dismantled and soil and groundwater will be decontaminated. avr dismantling costs will exceed its construction costs by far. in august 2010, the german government published a new cost estimate for avr dismantling, however without consideration of the vessel dismantling: an amount of 600 million € ( $750 million) is now expected (200 million € more than in an estimate of 2006), which corresponds to 0.4 € ($0.55) per kwh of electricity generated by the avr. consideration of the unresolved problem of vessel dismantling is supposed to increase the total dismantling costs to more than 1 bn €. construction costs of avr were 115 million deutschmark (1966), corresponding to a 2010 value of 180 million €. a separate containment was erected for dismantling purposes, as seen in the avr-picture.
+
+thorium high-temperature reactor[edit]
+main article: thtr-300
+in general, thorium does not have quite enough neutrons to achieve a self-sustaining nuclear reaction.  small amounts of neutron rich material such as uranium 235, or so called nuclear "waste," would be specially processed together with thorium to supply the extra needed level of neutrons.  such nuclear "waste" from atomic weapons decommissioning and atomic power plants has long been stockpiled in the u.s. specifically with the intention of recycling it some day to generate safer and cheap electricity in "thorium" powered atomic power plants; thus reducing the stockpile of nuclear "waste," while taking advantage of vast deposits of thorium throughout the earth's outer crust. the traveling wave reactor endorsed by terrapower, is perhaps the easiest to understand type of thorium reactor.
+following the experience with avr,  a full scale power station (the thorium high-temperature reactor or thtr-300 rated at 300 mw) was constructed, dedicated to using thorium as the fuel. thtr-300 suffered a number of technical difficulties, and owing to these and political events in germany, was closed after only four years of operation. one cause for the closing was an accident on 4 may 1986 with a limited release of the radioactive inventory into the environment. although the radiological impact of this accident remained small, it is of major relevance for pbr history. the release of radioactive dust was caused by a human error during a blockage of pebbles in a pipe. trying to restart the pebbles' movement by increasing gas flow led to stirring up of dust, always present in pbrs, which was then released, radioactive and unfiltered, into the environment due to an erroneously open valve.
+in spite of the limited amount of radioactivity released (0.1 gbq 60co, 137cs, 233pa), a commission of inquiry was appointed. the radioactivity in the vicinity of the thtr-300 was finally found to result 25% from chernobyl and 75% from thtr-300. the handling of this minor accident severely damaged the credibility of the german pebble-bed community, and they lost a lot of support in germany.[17]
+the overly complex design of the reactor, which is contrary to the general concept of self moderated thorium reactors designed in the u.s., also suffered from the unplanned high destruction rate of pebbles during the test series at the start up, and the resulting higher contamination of the containment structure. pebble debris and graphite dust blocked some of the coolant channels in the bottom reflector, as was discovered during fuel removal some years after final shut-down. a failure of insulation required frequent reactor shut-downs for inspection, because the insulation could not be repaired. further metallic components in the hot gas duct failed in september 1988, probably due to thermal fatigue induced by unexpected hot gas currents.[18] this failure led to a long-term shut-down for inspections. in august, 1989, the thtr company almost went bankrupt, but was financially rescued by the government. because of the unexpected high costs of thtr operation, and this accident, there was no longer any interest in thtr reactors.  the government decided to terminate the thtr operation at the end of september, 1989.  this particular reactor was built, despite strong criticism at the design phase.  most of those design critiques by german physicists, and by american physicists at the national laboratory level, went ignored until it was shut down.  nearly every problem encountered by the thtr 300 reactor was predicted by the physicists that criticized it as "overly complex."[citation needed]
+
+different designs[edit]
+china[edit]
+china has licensed the german technology and has developed a pebble-bed reactor for power generation.[19] the 10 megawatt prototype is called the htr-10. it is a conventional helium-cooled, helium-turbine design. the chinese are, as of 2015, building a 250 mw demonstration pebble-bed reactor: htr-pm.
+
+south africa[edit]
+main article: pebble bed modular reactor
+in june 2004, it was announced that a new pbmr would be built at koeberg, south africa by eskom, the government-owned electrical utility.[20] there is opposition to the pbmr from groups such as koeberg alert and earthlife africa, the latter of which has sued eskom to stop development of the project.[21] in september 2009 the demonstration power plant was postponed indefinitely.[22] in february 2010 the south african government stopped funding of the pbmr because of a lack of customers and investors. pbmr ltd started retrenchment procedures and stated the company intends to reduce staff by 75%.[23]
+on the september 17, 2010 the south african minister of public enterprises announced the closure of the pbmr.[24] the pbmr testing facility will likely be decommissioned and placed in a "care and maintenance mode" to protect the ip and the assets.
+
+adams atomic engines[edit]
+aae went out of business in december 2010.[25]  their basic design was self-contained so it could be adapted to extreme environments such as space, polar and underwater environments.  their design was for a nitrogen coolant passing directly though a conventional low-pressure gas turbine,[26] and due to the rapid ability of the turbine to change speeds, it can be used in applications where instead of the turbine's output being converted to electricity, the turbine itself could directly drive a mechanical device, for instance, a propeller aboard a ship.
+like all high temperature designs, the aae engine would have been inherently safe, as the engine naturally shuts down due to doppler broadening, stopping heat generation if the fuel in the engine gets too hot in the event of a loss of coolant or a loss of coolant flow.
+
+x-energy[edit]
+in january 2016 x-energy was awarded a five-year $53m u.s. department of energy advanced reactor concept cooperative agreement award to advance elements of their reactor development.[27] 
+the xe-100 reactor will generate 200mwt and approximately 76mwe. the standard xe-100 "four-pack" plant generates approximately 300mwe and will fit on as few as 13 acres. all of the components for the xe-100 will be road-transportable, and will be installed, rather than constructed, at the project site to streamline construction.
+
+see also[edit]
+
+
+nuclear technology portal
+gas turbine modular helium reactor
+generation iv reactor
+next generation nuclear plant
+nuclear fuel
+nuclear safety
+rainer moormann
+very high temperature reactor
+references[edit]
+
+
+^ kadak, a.c. (2005). "a future for nuclear energy: pebble bed reactors, int. j. critical infrastructures, vol. 1, no. 4, pp.330–345" (pdf)..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ association of german engineers (vdi), the society for energy technologies (publ.) (1990). avr - experimental high-temperature reactor, 21 years of successful operation for a future energy technology. association of german engineers (vdi), the society for energy technologies. pp. 9–23. isbn 3-18-401015-5.
+
+^ ngnp point design – results of the initial neutronics and thermal-hydraulic assessments during fy-03 pg 20
+
+^ pebble bed modular reactor - what is pbmr? archived 2015-05-03 at the wayback machine
+
+^ how the pbmr fueling system works archived march 9, 2008, at the wayback machine
+
+^ [1] archived june 13, 2006, at the wayback machine
+
+^ richard a. muller (2008). physics for future presidents. norton press. p. 170. isbn 978-0-393-33711-2.
+
+^ "fabrication of pyrolytic graphite rocket nozzle components". retrieved 2009-10-06.
+
+^ key differences in the fabrication of us and german triso-coated particle fuel, and their implications on fuel performance free, accessed 4/10/2008
+
+^ 
+d. a. petti; j. buongiorno; j. t. maki; r. r. hobbins; g. k. miller (2003). "key differences in the fabrication, irradiation and high temperature accident testing of us and german triso-coated particle fuel, and their implications on fuel performance". nuclear engineering and design. 222 (2–3): 281–297. doi:10.1016/s0029-5493(03)00033-5.
+
+^ nrc: speech - 027 - "regulatory perspectives on the deployment of high temperature gas-cooled reactors in electric and non-electric energy sectors" archived may 3, 2015, at the wayback machine
+
+^ rainer moormann (2008). "a safety re-evaluation of the avr pebble bed reactor operation and its consequences for future htr concepts". forschungszentrum jülich, zentralbibliothek, verlag. berichte des forschungszentrums jülich juel-4275. retrieved 2009-04-02.
+
+^ rainer moormann (1 april 2009). "pbr safety revisited". nuclear engineering international. archived from the original on 30 may 2012. retrieved 2009-04-02.
+
+^ albert koster (29 may 2009). "pebble bed reactor - safety in perspective". nuclear engineering international. archived from the original on 26 june 2010.
+
+^ "ornl review vol. 36, no. 1, 2003 - nuclear power and research reactors". ornl.gov. archived from the original on 2013-07-01. retrieved 2013-09-05.
+
+^ e. wahlen, j. wahl, p. pohl (avr gmbh): status of the avr decommissioning project with special regard to the inspection of the core cavity for residual fuel. wm’00 conference, february 27 - march 2, 2000, tucson, az http://www.wmsym.org/archives/2000/pdf/36/36-5.pdf
+
+^ der spiegel (german news magazine), no. 24 (1986) p. 28–30
+
+^ r. baeumer, thtr-300 erfahrungen mit einer fortschrittlichen technologie, atomwirtschaft, may 1989, p. 226.
+
+^ "china leading world in next generation of nuclear plants". south china morning post. 2004-10-05. retrieved 2006-10-18.
+
+^ "south africa: energy and environmental issues". eia country analysis briefs. energy information administration. archived from the original on 2007-02-04. retrieved 2015-12-15.
+
+^ "earthlife africa sues for public power giant's nuclear plans". environment news service. 2005-07-04. retrieved 2006-10-18.
+
+^ "world nuclear news 11 september 2009". world-nuclear-news.org. 2009-09-11. retrieved 2013-09-05.
+
+^ pebble bed modular reactor company is contemplating restructuring measures archived june 7, 2012, at the wayback machine
+
+^ linda ensor (2010-09-17). "hogan ends pebble bed reactor project | archive | bdlive". businessday.co.za. retrieved 2013-09-05.
+
+^ "company formerly known as adams atomic engines". atomicengines.com. 2011-06-29. retrieved 2013-09-05.
+
+^ 
+us 5309492, adams, rodney m., "control for a closed cycle gas turbine system", published 1994-05-03, issued 1993. expired on 2006-05-03 due to failure to pay maintenance fees.[2] 
+
+^ "x-energy". x-energy.
+
+
+external links[edit]
+iaea htgr knowledge base
+avr, experimental high-temperature reactor : 21 years of successful operation for a future energy technology isbn 3-18-401015-5
+high temperature reactor 2006 conference, sandton, south africa
+mit page on modular pebble bed reactor
+research on innovative reactors in jülich
+differences in american and german triso-coated fuels
+idaho national laboratory - united states
+conceptual design of a very high temperature pebble-bed reactor 2003
+ngnp point design - results of the initial neutronics and thermal-hydraulic assessments during fy-03, rev. 1, september 2003
+next generation nuclear plant (ngnp) project – preliminary assessment of two possible designs, march 21 – 25, 2004
+the next generation nuclear plant – insights gained from the ineel point design studies, august 25 – september 3, 2004
+computation of dancoff factors for fuel elements incorporating randomly packed triso particles, january 2005
+south africa
+coalition against nuclear energy south africa
+eskom
+pbmr (pty.) ltd.
+pebble bed modular reactor - pbmr - home
+atomic energy in south africa
+earthlife africa: nuclear energy costs the earth campaign
+steve thomas (2005), "the economic impact of the proposed demonstration plant for the pebble bed modular reactor design", psiru, university of greenwich, uk
+npr (april 17, 2006) npr: south africa invests in nuclear power
+vtetypes of nuclear fission reactormoderatorlight water
+aqueous homogeneous
+boiling
+bwr
+abwr
+esbwr
+kerena
+pressurized
+ap1000
+apr-1400
+apr+
+apwr
+atmea1
+cap1400
+cpr-1000
+epr
+hpr-1000
+acpr1000
+acp1000
+vver
+many others
+supercritical (scwr)
+natural fission
+heavy waterd2o
+pressurized
+candu
+candu 6
+candu 9
+ec6
+afcr
+acr-1000
+ahwr
+cvtr
+iphwr-x
+phwr kwu
+mzfr
+r3
+r4 marviken
+h2o
+hwlwr
+atr
+hw blwr 250
+steam-generating (sghwr)
+organic
+wr-1
+co2
+hwgcr
+el-4
+ks 150
+kkn
+graphite .mw-parser-output .nobold{font-weight:normal}by coolantwaterh2o
+am-1
+amb-x
+egp-6
+rbmk
+gasco2
+uranium naturel graphite gaz (ungg)
+magnox
+advanced gas-cooled (agr)
+he
+gtmhr
+mhr-t
+uhtrex
+vhtr (htgr)
+pbr (pbmr)
+avr
+htr-10
+htr-pm
+thtr-300
+pmr
+molten-saltfluorides
+fuji msr
+liquid-fluoride thorium reactor (lftr)
+molten-salt reactor experiment (msre)
+integral molten salt reactor (imsr)
+thorcon
+none(fast-neutron)
+breeder (fbr)
+integral (ifr)
+liquid-metal-cooled (lmfr)
+small sealed transportable autonomous (sstar)
+traveling-wave (twr)
+energy multiplier module (em2)
+reduced-moderation (rmwr)
+fast breeder test reactor (fbtr)
+dual fluid reactor (dfr)
+generation iv
+sodium (sfr)
+bn-350
+bn-600
+bn-800
+bn-1200
+cfr-600
+phénix
+superphénix
+pfbr
+cefr
+pfr
+prism
+lead (lfr)
+helium gas (gfr)
+others
+organically moderated and cooled reactor
+arbus
+piqua
+aircraft reactor experiment
+
+ nuclear fusion reactors
+ list of nuclear reactors
+ nuclear technology
+ nuclear accidents
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=pebble-bed_reactor&oldid=880649678"					
+categories: pebble bed reactorsnuclear power reactor typeshidden categories: webarchive template wayback linksarticles needing additional references from september 2013all articles needing additional referencesall articles with unsourced statementsarticles with unsourced statements from january 2019articles with unsourced statements from february 2009articles with unsourced statements from may 2008articles with unsourced statements from october 2015 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+languages
+
+
+deutschespañolfrançais한국어italianonederlandsportuguêsslovenščinasuomisvenskaไทย中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 28 january 2019, at 16:40 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.644","walltime":"0.797","ppvisitednodes":{"value":2655,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":106855,"limit":2097152},"templateargumentsize":{"value":5295,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":56295,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  635.417      1 -total"," 43.99%  279.501      1 template:reflist"," 17.98%  114.260      8 template:cite_web"," 13.21%   83.965      1 template:refimprove"," 12.27%   77.948      7 template:navbox"," 11.01%   69.957      6 template:fix"," 10.29%   65.357      1 template:ambox","  9.94%   63.134      1 template:nuclear_fission_reactors","  8.62%   54.782      2 template:cite_journal","  8.05%   51.155      5 template:citation_needed"]},"scribunto":{"limitreport-timeusage":{"value":"0.315","limit":"10.000"},"limitreport-memusage":{"value":9831259,"limit":52428800}},"cachereport":{"origin":"mw1268","timestamp":"20190215035422","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"pebble-bed reactor","url":"https:\/\/en.wikipedia.org\/wiki\/pebble-bed_reactor","sameas":"http:\/\/www.wikidata.org\/entity\/q1622414","mainentity":"http:\/\/www.wikidata.org\/entity\/q1622414","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2002-11-02t20:35:43z","datemodified":"2019-01-28t16:40:12z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/0f\/pebble_bed_reactor_scheme_%28english%29.svg","headline":"graphite-moderated, gas-cooled nuclear reactor"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":142,"wghostname":"mw1274"});});
+
+

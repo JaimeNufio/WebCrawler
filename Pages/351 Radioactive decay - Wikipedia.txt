@@ -1,0 +1,2743 @@
+
+
+
+
+radioactive decay - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"radioactive_decay","wgtitle":"radioactive decay","wgcurrevisionid":882837047,"wgrevisionid":882837047,"wgarticleid":197767,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["cs1: julian–gregorian uncertainty","webarchive template wayback links","articles with short description","use british english from may 2014","use dmy dates from may 2014","wikipedia articles with style issues from december 2016","all articles with style issues","all articles with unsourced statements","articles with unsourced statements from october 2014","articles that may contain original research from october 2014","all articles that may contain original research","commons category link is on wikidata","wikipedia articles incorporating citation to the nsrw","wikipedia articles incorporating citation to the nsrw with an wstitle parameter","wikipedia articles with gnd identifiers","wikipedia articles with nara identifiers","wikipedia articles with ndl identifiers","radioactivity","exponentials","poisson point processes"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"radioactive_decay","wgrelevantarticleid":197767,"wgrequestid":"xgk5ngpamfcaafwsbosaaacb","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgredirectedfrom":"radioactivity","wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wginternalredirecttargeturl":"/wiki/radioactive_decay","wgwikibaseitemid":"q11448","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","ext.math.scripts","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+radioactive decay 
+from wikipedia, the free encyclopedia   (redirected from radioactivity)
+ jump to navigation
+jump to search
+for particle decay in a more general context, see particle decay. for more information on hazards of various kinds of radiation from decay, see ionizing radiation.
+"radioactive" and "radioactivity" redirect here. for other uses, see radioactive (disambiguation) and radioactivity (disambiguation).
+process by which an unstable atom emits radiation
+
+
+nuclear physics
+nucleus  · nucleons (p, n)  · nuclear matter  · nuclear force  · nuclear structure  · nuclear reaction
+
+models of the nucleusliquid drop · nuclear shell model · interacting boson model · ab initio
+
+nuclides' classificationisotopes – equal zisobars – equal aisotones – equal nisodiaphers – equal n − z     isomers – equal all the abovemirror nuclei – z ↔ n
+stable · magic · even/odd · halo
+
+nuclear stabilitybinding energy · p–n ratio · drip line · island of stability · valley of stability
+
+radioactive decayalpha α · beta β (2β, β+) · k/l capture · isomeric (gamma γ · internal conversion) · spontaneous fission · cluster decay · neutron emission · proton emissiondecay energy · decay chain · decay product · radiogenic nuclide
+
+nuclear fissionspontaneous · products (pair breaking) · photofission
+
+capturing processeselectron · neutron (s · r) · proton (p · rp)
+
+high energy processesspallation (by cosmic ray) · photodisintegration
+
+nucleosynthesis and nuclear astrophysicsnuclear fusionprocesses: stellar · big bang · supernovanuclides: primordial · cosmogenic · artificial
+
+high energy nuclear physicsquark–gluon plasma  · rhic  · lhc
+
+scientistsalvarez · becquerel · bethe · a.bohr · n.bohr · chadwick · cockcroft · ir.curie · fr.curie · pi.curie · skłodowska-curie · davisson · fermi · hahn · jensen · lawrence · mayer · meitner · oliphant · oppenheimer · proca · purcell · rabi · rutherford · soddy · strassmann · szilárd · teller · thomson · walton · wigner
+vte
+ alpha decay is one type of radioactive decay, in which an atomic nucleus emits an alpha particle, and thereby transforms (or "decays") into an atom with a mass number decreased by 4 and atomic number decreased by 2.
+radioactive decay (also known as nuclear decay, radioactivity or nuclear radiation) is the process by which an unstable atomic nucleus loses energy (in terms of mass in its rest frame) by emitting radiation, such as an alpha particle, beta particle with neutrino or only a neutrino in the case of electron capture, or a gamma ray or electron in the case of internal conversion. a material containing such unstable nuclei is considered radioactive. certain highly excited short-lived nuclear states can decay through neutron emission, or more rarely, proton emission.
+radioactive decay is a stochastic (i.e. random) process at the level of single atoms. according to quantum theory, it is impossible to predict when a particular atom will decay,[1][2][3] regardless of how long the atom has existed. however, for a collection of atoms, the collection's expected decay rate is characterized in terms of their measured decay constants or half-lives. this is the basis of radiometric dating. the half-lives of radioactive atoms have no known upper limit, spanning a time range of over 55 orders of magnitude, from nearly instantaneous to far longer than the age of the universe.
+a radioactive nucleus with zero spin can have no defined orientation, and hence emits the total momentum of its decay products isotropically (all directions and without bias). if there are multiple particles produced during a single decay, as in beta decay, their relative angular distribution, or spin directions may not be isotropic. decay products from a nucleus with spin may be distributed non-isotropically with respect to that spin direction, either because of an external influence such as an electromagnetic field, or because the nucleus was produced in a dynamic process that constrained the direction of its spin. such a parent process could be a previous decay, or a nuclear reaction.[4][5][6][note 1]
+the decaying nucleus is called the parent radionuclide (or parent radioisotope[note 2]), and the process produces at least one daughter nuclide. except for gamma decay or internal conversion from a nuclear excited state, the decay is a nuclear transmutation resulting in a daughter containing a different number of protons or neutrons (or both). when the number of protons changes, an atom of a different chemical element is created.
+the first decay processes to be discovered were alpha decay, beta decay, and gamma decay. alpha decay occurs when the nucleus ejects an alpha particle (helium nucleus). this is the most common process of emitting nucleons, but highly excited nuclei can eject single nucleons, or in the case of cluster decay, specific light nuclei of other elements. beta decay occurs in two ways:
+(i) beta-minus decay, when the nucleus emits an electron and an antineutrino in a process that changes a neutron to a proton, or
+(ii) beta-plus decay, when the nucleus emits a positron and a neutrino in a process that changes a proton to a neutron.
+highly excited neutron-rich nuclei, formed as the product of other types of decay, occasionally lose energy by way of neutron emission, resulting in a change from one isotope to another of the same element. the nucleus may capture an orbiting electron, causing a proton to convert into a neutron in a process called electron capture. all of these processes result in a well-defined nuclear transmutation.
+by contrast, there are radioactive decay processes that do not result in a nuclear transmutation. the energy of an excited nucleus may be emitted as a gamma ray in a process called gamma decay, or that energy may be lost when the nucleus interacts with an orbital electron causing its ejection from the atom, in a process called internal conversion.
+another type of radioactive decay results in products that vary, appearing as two or more "fragments" of the original nucleus with a range of possible masses. this decay, called spontaneous fission, happens when a large unstable nucleus spontaneously splits into two (or occasionally three) smaller daughter nuclei, and generally leads to the emission of gamma rays, neutrons, or other particles from those products.
+for a summary table showing the number of stable and radioactive nuclides in each category, see radionuclide. there are 28 naturally occurring chemical elements on earth that are radioactive, consisting of 33 radionuclides (5 elements have 2 different radionuclides) that date before the time of formation of the solar system. these 33 are known as primordial nuclides. well-known examples are uranium and thorium, but also included are naturally occurring long-lived radioisotopes, such as potassium-40. another 50 or so shorter-lived radionuclides, such as radium and radon, found on earth, are the products of decay chains that began with the primordial nuclides, or are the product of ongoing cosmogenic processes, such as the production of carbon-14 from nitrogen-14 in the atmosphere by cosmic rays. radionuclides may also be produced artificially in particle accelerators or nuclear reactors, resulting in 650 of these with half-lives of over an hour, and several thousand more with even shorter half-lives. (see list of nuclides for a list of these sorted by half-life.)
+
+contents
+
+1 history of discovery
+2 early health dangers
+
+2.1 x-rays
+2.2 radioactive substances
+2.3 radiation protection
+
+
+3 units of radioactivity
+4 types of decay
+5 radioactive decay rates
+6 mathematics of radioactive decay
+
+6.1 universal law of radioactive decay
+
+6.1.1 one-decay process
+6.1.2 chain-decay processes
+6.1.3 alternative decay modes
+
+
+6.2 corollaries of the decay laws
+6.3 decay timing: definitions and relations
+
+6.3.1 time constant and mean-life
+6.3.2 half-life
+
+
+6.4 example
+
+
+7 changing decay rates
+
+7.1 gsi anomaly
+
+
+8 theoretical basis of decay phenomena
+9 occurrence and applications
+
+9.1 szilard–chalmers effect
+
+
+10 origins of radioactive nuclides
+11 decay chains and multiple modes
+12 associated hazard warning signs
+13 see also
+14 notes
+15 references
+
+15.1 inline
+15.2 general
+
+
+16 external links
+
+
+history of discovery[edit]
+ pierre and marie curie in their paris laboratory, before 1907
+radioactivity was discovered in 1896 by the french scientist henri becquerel, while working with phosphorescent materials.[7] these materials glow in the dark after exposure to light, and he suspected that the glow produced in cathode ray tubes by x-rays might be associated with phosphorescence. he wrapped a photographic plate in black paper and placed various phosphorescent salts on it. all results were negative until he used uranium salts. the uranium salts caused a blackening of the plate in spite of the plate being wrapped in black paper. these radiations were given the name "becquerel rays".
+it soon became clear that the blackening of the plate had nothing to do with phosphorescence, as the blackening was also produced by non-phosphorescent salts of uranium and by metallic uranium. it became clear from these experiments that there was a form of invisible radiation that could pass through paper and was causing the plate to react as if exposed to light.
+at first, it seemed as though the new radiation was similar to the then recently discovered x-rays. further research by becquerel, ernest rutherford, paul villard, pierre curie, marie curie, and others showed that this form of radioactivity was significantly more complicated. rutherford was the first to realize that all such elements decay in accordance with the same mathematical exponential formula. rutherford and his student frederick soddy were the first to realize that many decay processes resulted in the transmutation of one element to another. subsequently, the radioactive displacement law of fajans and soddy was formulated to describe the products of alpha and beta decay.[8][9]
+the early researchers also discovered that many other chemical elements, besides uranium, have radioactive isotopes. a systematic search for the total radioactivity in uranium ores also guided pierre and marie curie to isolate two new elements: polonium and radium. except for the radioactivity of radium, the chemical similarity of radium to barium made these two elements difficult to distinguish.
+marie and pierre curie’s study of radioactivity is an important factor in science and medicine. after their research on becquerel's rays led them to the discovery of both radium and polonium, they coined the term "radioactivity".[10] their research on the penetrating rays in uranium and the discovery of radium launched an era of using radium for the treatment of cancer. their exploration of radium could be seen as the first peaceful use of nuclear energy and the start of modern nuclear medicine.[10]
+
+early health dangers[edit]
+main article: ionizing radiation
+ taking an x-ray image with early crookes tube apparatus in 1896. the crookes tube is visible in the centre. the standing man is viewing his hand with a fluoroscope screen; this was a common way of setting up the tube. no precautions against radiation exposure are being taken; its hazards were not known at the time.
+the dangers of ionizing radiation due to radioactivity and x-rays were not immediately recognized.
+
+x-rays[edit]
+the discovery of x‑rays by wilhelm röntgen in 1895 led to widespread experimentation by scientists, physicians, and inventors. many people began recounting stories of burns, hair loss and worse in technical journals as early as 1896. in february of that year, professor daniel and dr. dudley of vanderbilt university performed an experiment involving x-raying dudley's head that resulted in his hair loss. a report by dr. h.d. hawks, of his suffering severe hand and chest burns in an x-ray demonstration, was the first of many other reports in electrical review.[11]
+other experimenters, including elihu thomson and nikola tesla, also reported burns. thomson deliberately exposed a finger to an x-ray tube over a period of time and suffered pain, swelling, and blistering.[12] other effects, including ultraviolet rays and ozone, were sometimes blamed for the damage,[13] and many physicians still claimed that there were no effects from x-ray exposure at all.[12]
+despite this, there were some early systematic hazard investigations, and as early as 1902 william herbert rollins wrote almost despairingly that his warnings about the dangers involved in the careless use of x-rays were not being heeded, either by industry or by his colleagues. by this time, rollins had proved that x-rays could kill experimental animals, could cause a pregnant guinea pig to abort, and that they could kill a fetus.[14] he also stressed that "animals vary in susceptibility to the external action of x-light" and warned that these differences be considered when patients were treated by means of x-rays.
+
+radioactive substances[edit]
+ radioactivity is characteristic of elements with large atomic number. elements with at least one stable isotope are shown in light blue. green shows elements whose most stable isotope has a half-life measured in millions of years. yellow and orange are progressively less stable, with half-lives in thousands or hundreds of years, down toward one day. red and purple show highly and extremely radioactive elements where the most stable isotopes exhibit half-lives measured on the order of one day and much less.
+however, the biological effects of radiation due to radioactive substances were less easy to gauge. this gave the opportunity for many physicians and corporations to market radioactive substances as patent medicines. examples were radium enema treatments, and radium-containing waters to be drunk as tonics. marie curie protested against this sort of treatment, warning that the effects of radiation on the human body were not well understood. curie later died from aplastic anaemia, likely caused by exposure to ionizing radiation. by the 1930s, after a number of cases of bone necrosis and death of radium treatment enthusiasts, radium-containing medicinal products had been largely removed from the market (radioactive quackery).
+
+radiation protection[edit]
+main article: radiation protection
+see also: sievert and ionizing radiation
+only a year after röntgen's discovery of x rays, the american engineer wolfram fuchs (1896) gave what is probably the first protection advice, but it was not until 1925 that the first international congress of radiology (icr) was held and considered establishing international protection standards. the effects of radiation on genes, including the effect of cancer risk, were recognized much later. in 1927, hermann joseph muller published research showing genetic effects and, in 1946, was awarded the nobel prize in physiology or medicine for his findings.
+the second icr was held in stockholm in 1928 and proposed the adoption of the rontgen unit, and the 'international x-ray and radium protection committee' (ixrpc) was formed. rolf sievert was named chairman, but a driving force was george kaye of the british national physical laboratory. the committee met in 1931, 1934 and 1937.
+after world war ii, the increased range and quantity of radioactive substances being handled as a result of military and civil nuclear programmes led to large groups of occupational workers and the public being potentially exposed to harmful levels of ionising radiation. this was considered at the first post-war icr convened in london in 1950, when the present international commission on radiological protection (icrp) was born.[15]
+since then the icrp has developed the present international system of radiation protection, covering all aspects of radiation hazard.
+
+units of radioactivity[edit]
+ graphic showing relationships between radioactivity and detected ionizing radiation
+the international system of units (si) unit of radioactive activity is the becquerel (bq), named in honor of the scientist henri becquerel. one bq is defined as one transformation (or decay or disintegration) per second.
+an older unit of radioactivity is the curie, ci, which was originally defined as "the quantity or mass of radium emanation in equilibrium with one gram of radium (element)".[16] today, the curie is defined as 7010370000000000000♠3.7×1010 disintegrations per second, so that 1 curie (ci) = 7010370000000000000♠3.7×1010 bq.
+for radiological protection purposes, although the united states nuclear regulatory commission permits the use of the unit curie alongside si units,[17] the european union european units of measurement directives required that its use for "public health ... purposes" be phased out by 31 december 1985.[18]
+the effects of ionizing radiation are often measured in units of gray for mechanical or sievert for damage to tissue.
+
+types of decay[edit]
+ alpha particles may be completely stopped by a sheet of paper, beta particles by aluminium shielding. gamma rays can only be reduced by much more substantial mass, such as a very thick layer of lead.
+main articles: nuclear drip line, gamma decay, internal conversion, electron capture, alpha decay, nuclear fission, neutron emission, and cluster emission
+early researchers found that an electric or magnetic field could split radioactive emissions into three types of beams. the rays were given the names alpha, beta, and gamma, in increasing order of their ability to penetrate matter. alpha decay is observed only in heavier elements of atomic number 52 (tellurium) and greater, with the exception of beryllium-8 which decays to two alpha particles. the other two types of decay are produced by all of the elements. lead, atomic number 82, is the heaviest element to have any isotopes stable (to the limit of measurement) to radioactive decay. radioactive decay is seen in all isotopes of all elements of atomic number 83 (bismuth) or greater. bismuth-209, however, is only very slightly radioactive, with a half-life greater than the age of the universe; radioisotopes with extremely long half-lives are considered effectively stable for practical purposes.
+
+ transition diagram for decay modes of a radionuclide, with neutron number n and atomic number z (shown are α, β±, p+, and n0 emissions, ec denotes electron capture).
+ types of radioactive decay related to n and z numbers
+in analysing the nature of the decay products, it was obvious from the direction of the electromagnetic forces applied to the radiations by external magnetic and electric fields that alpha particles carried a positive charge, beta particles carried a negative charge, and gamma rays were neutral. from the magnitude of deflection, it was clear that alpha particles were much more massive than beta particles. passing alpha particles through a very thin glass window and trapping them in a discharge tube allowed researchers to study the emission spectrum of the captured particles, and ultimately proved that alpha particles are helium nuclei. other experiments showed beta radiation, resulting from decay and cathode rays, were high-speed electrons. likewise, gamma radiation and x-rays were found to be high-energy electromagnetic radiation.
+the relationship between the types of decays also began to be examined: for example, gamma decay was almost always found to be associated with other types of decay, and occurred at about the same time, or afterwards. gamma decay as a separate phenomenon, with its own half-life (now termed isomeric transition), was found in natural radioactivity to be a result of the gamma decay of excited metastable nuclear isomers, which were in turn created from other types of decay.
+although alpha, beta, and gamma radiations were most commonly found, other types of emission were eventually discovered. shortly after the discovery of the positron in cosmic ray products, it was realized that the same process that operates in classical beta decay can also produce positrons (positron emission), along with neutrinos (classical beta decay produces antineutrinos). in a more common analogous process, called electron capture, some proton-rich nuclides were found to capture their own atomic electrons instead of emitting positrons, and subsequently these nuclides emit only a neutrino and a gamma ray from the excited nucleus (and often also auger electrons and characteristic x-rays, as a result of the re-ordering of electrons to fill the place of the missing captured electron). these types of decay involve the nuclear capture of electrons or emission of electrons or positrons, and thus acts to move a nucleus toward the ratio of neutrons to protons that has the least energy for a given total number of nucleons. this consequently produces a more stable (lower energy) nucleus.
+(a theoretical process of positron capture, analogous to electron capture, is possible in antimatter atoms, but has not been observed, as complex antimatter atoms beyond antihelium are not experimentally available.[19] such a decay would require antimatter atoms at least as complex as beryllium-7, which is the lightest known isotope of normal matter to undergo decay by electron capture.)
+shortly after the discovery of the neutron in 1932, enrico fermi realized that certain rare beta-decay reactions immediately yield neutrons as a decay particle (neutron emission). isolated proton emission was eventually observed in some elements. it was also found that some heavy elements may undergo spontaneous fission into products that vary in composition. in a phenomenon called cluster decay, specific combinations of neutrons and protons other than alpha particles (helium nuclei) were found to be spontaneously emitted from atoms.
+other types of radioactive decay were found to emit previously-seen particles, but via different mechanisms. an example is internal conversion, which results in an initial electron emission, and then often further characteristic x-rays and auger electrons emissions, although the internal conversion process involves neither beta nor gamma decay. a neutrino is not emitted, and none of the electron(s) and photon(s) emitted originate in the nucleus, even though the energy to emit all of them does originate there. internal conversion decay, like isomeric transition gamma decay and neutron emission, involves the release of energy by an excited nuclide, without the transmutation of one element into another.
+rare events that involve a combination of two beta-decay type events happening simultaneously are known (see below). any decay process that does not violate the conservation of energy or momentum laws (and perhaps other particle conservation laws) is permitted to happen, although not all have been detected. an interesting example discussed in a final section, is bound state beta decay of rhenium-187. in this process, beta electron-decay of the parent nuclide is not accompanied by beta electron emission, because the beta particle has been captured into the k-shell of the emitting atom. an antineutrino is emitted, as in all negative beta decays.
+radionuclides can undergo a number of different reactions. these are summarized in the following table. a nucleus with mass number a and atomic number z is represented as (a, z). the column "daughter nucleus" indicates the difference between the new nucleus and the original nucleus. thus, (a − 1, z) means that the mass number is one less than before, but the atomic number is the same as before.
+if energy circumstances are favorable, a given radionuclide may undergo many competing types of decay, with some atoms decaying by one route, and others decaying by another. an example is copper-64, which has 29 protons, and 35 neutrons, which decays with a half-life of about 12.7 hours. this isotope has one unpaired proton and one unpaired neutron, so either the proton or the neutron can decay to the opposite particle. this particular nuclide (though not all nuclides in this situation) is almost equally likely to decay through positron emission (18%), or through electron capture (43%), as it does through electron emission (39%). the excited energy states resulting from these decays which fail to end in a ground energy state, also produce later internal conversion and gamma decay in almost 0.5% of the time.
+more common in heavy nuclides is competition between alpha and beta decay. the daughter nuclides will then normally decay through beta or alpha, respectively, to end up in the same place.
+
+
+
+
+mode of decay
+participating particles
+daughter nucleus
+
+
+decays with emission of nucleons:
+
+
+alpha decay
+an alpha particle (a = 4, z = 2) emitted from nucleus
+(a − 4, z − 2)
+
+
+proton emission
+a proton ejected from nucleus
+(a − 1, z − 1)
+
+
+neutron emission
+a neutron ejected from nucleus
+(a − 1, z)
+
+
+double proton emission
+two protons ejected from nucleus simultaneously
+(a − 2, z − 2)
+
+
+spontaneous fission
+nucleus disintegrates into two or more smaller nuclei and other particles
+—
+
+
+cluster decay
+nucleus emits a specific type of smaller nucleus (a1, z1) which is larger than an alpha particle
+(a − a1, z − z1) + (a1, z1)
+
+
+different modes of beta decay:
+
+
+β− decay
+a nucleus emits an electron and an electron antineutrino
+(a, z + 1)
+
+
+positron emission (β+ decay)
+a nucleus emits a positron and an electron neutrino
+(a, z − 1)
+
+
+electron capture
+a nucleus captures an orbiting electron and emits a neutrino; the daughter nucleus is left in an excited unstable state
+(a, z − 1)
+
+
+bound state beta decay
+a free neutron or nucleus beta decays to electron and antineutrino, but the electron is not emitted, as it is captured into an empty k-shell; the daughter nucleus is left in an excited and unstable state. this process is a minority of free neutron decays (0.0004%) due to the low energy of hydrogen ionization, and is suppressed except in ionized atoms that have k-shell vacancies.
+(a, z + 1)
+
+
+double beta decay
+a nucleus emits two electrons and two antineutrinos
+(a, z + 2)
+
+
+double electron capture
+a nucleus absorbs two orbital electrons and emits two neutrinos – the daughter nucleus is left in an excited and unstable state
+(a, z − 2)
+
+
+electron capture with positron emission
+a nucleus absorbs one orbital electron, emits one positron and two neutrinos
+(a, z − 2)
+
+
+double positron emission
+a nucleus emits two positrons and two neutrinos
+(a, z − 2)
+
+
+transitions between states of the same nucleus:
+
+
+isomeric transition
+excited nucleus releases a high-energy photon (gamma ray)
+(a, z)
+
+
+internal conversion
+excited nucleus transfers energy to an orbital electron, which is subsequently ejected from the atom
+(a, z)
+
+radioactive decay results in a reduction of summed rest mass, once the released energy (the disintegration energy) has escaped in some way. although decay energy is sometimes defined as associated with the difference between the mass of the parent nuclide products and the mass of the decay products, this is true only of rest mass measurements, where some energy has been removed from the product system. this is true because the decay energy must always carry mass with it, wherever it appears (see mass in special relativity) according to the formula e = mc2. the decay energy is initially released as the energy of emitted photons plus the kinetic energy of massive emitted particles (that is, particles that have rest mass). if these particles come to thermal equilibrium with their surroundings and photons are absorbed, then the decay energy is transformed to thermal energy, which retains its mass.
+decay energy therefore remains associated with a certain measure of mass of the decay system, called invariant mass, which does not change during the decay, even though the energy of decay is distributed among decay particles. the energy of photons, the kinetic energy of emitted particles, and, later, the thermal energy of the surrounding matter, all contribute to the invariant mass of the system. thus, while the sum of the rest masses of the particles is not conserved in radioactive decay, the system mass and system invariant mass (and also the system total energy) is conserved throughout any decay process. this is a restatement of the equivalent laws of conservation of energy and conservation of mass.
+
+radioactive decay rates[edit]
+the decay rate, or activity, of a radioactive substance is characterized by:
+constant quantities:
+
+the half-life—t1/2, is the time taken for the activity of a given amount of a radioactive substance to decay to half of its initial value; see list of nuclides.
+the decay constant— λ, "lambda" the reciprocal of the mean lifetime, sometimes referred to as simply decay rate.
+the mean lifetime— τ, "tau" the average lifetime (1/e life) of a radioactive particle before decay.
+although these are constants, they are associated with the statistical behavior of populations of atoms. in consequence, predictions using these constants are less accurate for minuscule samples of atoms.
+in principle a half-life, a third-life, or even a (1/√2)-life, can be used in exactly the same way as half-life; but the mean life and half-life t1/2 have been adopted as standard times associated with exponential decay.
+time-variable quantities:
+
+total activity— a, is the number of decays per unit time of a radioactive sample.
+number of particles—n, is the total number of particles in the sample.
+specific activity—sa, number of decays per unit time per amount of substance of the sample at time set to zero (t = 0). "amount of substance" can be the mass, volume or moles of the initial sample.
+these are related as follows:
+
+
+
+
+
+
+t
+
+1
+
+/
+
+2
+
+
+=
+
+
+
+ln
+⁡
+(
+2
+)
+
+λ
+
+
+=
+τ
+ln
+⁡
+(
+2
+)
+
+
+{\displaystyle t_{1/2}={\frac {\ln(2)}{\lambda }}=\tau \ln(2)}
+
+
+
+
+
+
+a
+=
+−
+
+
+
+
+d
+
+n
+
+
+
+d
+
+t
+
+
+
+=
+λ
+n
+
+
+{\displaystyle a=-{\frac {\mathrm {d} n}{\mathrm {d} t}}=\lambda n}
+
+
+
+
+
+
+
+s
+
+a
+
+
+
+a
+
+0
+
+
+=
+−
+
+
+
+
+d
+
+n
+
+
+
+d
+
+t
+
+
+
+
+
+
+|
+
+
+
+t
+=
+0
+
+
+=
+λ
+
+n
+
+0
+
+
+
+
+{\displaystyle s_{a}a_{0}=-{\frac {\mathrm {d} n}{\mathrm {d} t}}{\bigg |}_{t=0}=\lambda n_{0}}
+
+
+where n0 is the initial amount of active substance — substance that has the same percentage of unstable particles as when the substance was formed.
+
+mathematics of radioactive decay[edit]
+this article reads like a textbook and may require cleanup. please help to improve this article to make it neutral in tone and meet wikipedia's quality standards.  (december 2016)
+for the mathematical details of exponential decay in general context, see exponential decay.
+for related derivations with some further details, see half-life.
+for the analogous mathematics in 1st order chemical reactions, see consecutive reactions.
+universal law of radioactive decay[edit]
+radioactivity is one very frequently given example of exponential decay. the law describes the statistical behaviour of a large number of nuclides, rather than individual atoms. in the following formalism, the number of nuclides or the nuclide population n, is of course a discrete variable (a natural number)—but for any physical sample n is so large that it can be treated as a continuous variable. differential calculus is used to model the behaviour of nuclear decay.
+the mathematics of radioactive decay depend on a key assumption that a nucleus of a radionuclide has no "memory" or way of translating its history into its present behavior. a nucleus does not "age" with the passage of time. thus, the probability of its breaking down does not increase with time, but stays constant no matter how long the nucleus has existed. this constant probability may vary greatly between different types of nuclei, leading to the many different observed decay rates. however, whatever the probability is, it does not change. this is in marked contrast to complex objects which do show aging, such as automobiles and humans. these systems do have a chance of breakdown per unit of time, that increases from the moment they begin their existence.
+
+one-decay process[edit]
+consider the case of a nuclide a that decays into another b by some process a → b (emission of other particles, like electron neutrinos νe and electrons e− as in beta decay, are irrelevant in what follows). the decay of an unstable nucleus is entirely random in time so it is impossible to predict when a particular atom will decay. however, it is equally likely to decay at any instant in time. therefore, given a sample of a particular radioisotope, the number of decay events −dn expected to occur in a small interval of time dt is proportional to the number of atoms present n, that is[20]
+
+
+
+
+
+−
+
+
+
+
+d
+
+n
+
+
+
+d
+
+t
+
+
+
+∝
+n
+.
+
+
+{\displaystyle -{\frac {\mathrm {d} n}{\mathrm {d} t}}\propto n.}
+
+
+particular radionuclides decay at different rates, so each has its own decay constant λ. the expected decay −dn/n is proportional to an increment of time, dt:
+
+
+
+
+
+
+
+
+−
+
+
+
+
+d
+
+n
+
+n
+
+
+=
+λ
+
+d
+
+t
+
+
+{\displaystyle -{\frac {\mathrm {d} n}{n}}=\lambda \mathrm {d} t}
+
+
+
+
+the negative sign indicates that n decreases as time increases, as the decay events follow one after another. the solution to this first-order differential equation is the function:
+
+
+
+
+
+n
+(
+t
+)
+=
+
+n
+
+0
+
+
+
+
+e
+
+−
+
+λ
+
+t
+
+
+
+
+{\displaystyle n(t)=n_{0}\,e^{-{\lambda }t}}
+
+
+where n0 is the value of n at time t = 0, with the decay constant expressed as λ[20]
+we have for all time t:
+
+
+
+
+
+
+n
+
+a
+
+
++
+
+n
+
+b
+
+
+=
+
+n
+
+
+t
+o
+t
+a
+l
+
+
+
+=
+
+n
+
+a
+0
+
+
+,
+
+
+{\displaystyle n_{a}+n_{b}=n_{\mathrm {total} }=n_{a0},}
+
+
+where ntotal is the constant number of particles throughout the decay process, which is equal to the initial number of a nuclides since this is the initial substance.
+if the number of non-decayed a nuclei is:
+
+
+
+
+
+
+n
+
+a
+
+
+=
+
+n
+
+a
+0
+
+
+
+e
+
+−
+
+λ
+
+t
+
+
+
+
+
+
+{\displaystyle n_{a}=n_{a0}e^{-{\lambda }t}\,\!}
+
+
+then the number of nuclei of b, i.e. the number of decayed a nuclei, is
+
+
+
+
+
+
+n
+
+b
+
+
+=
+
+n
+
+a
+0
+
+
+−
+
+n
+
+a
+
+
+=
+
+n
+
+a
+0
+
+
+−
+
+n
+
+a
+0
+
+
+
+e
+
+−
+
+λ
+
+t
+
+
+=
+
+n
+
+a
+0
+
+
+
+(
+
+1
+−
+
+e
+
+−
+
+λ
+
+t
+
+
+
+)
+
+.
+
+
+{\displaystyle n_{b}=n_{a0}-n_{a}=n_{a0}-n_{a0}e^{-{\lambda }t}=n_{a0}\left(1-e^{-{\lambda }t}\right).}
+
+
+the number of decays observed over a given interval obeys poisson statistics. if the average number of decays is <n>, the probability of a given number of decays n is[20]
+
+
+
+
+
+p
+(
+n
+)
+=
+
+
+
+⟨
+n
+
+⟩
+
+n
+
+
+exp
+⁡
+(
+−
+⟨
+n
+⟩
+)
+
+
+n
+!
+
+
+
+.
+
+
+{\displaystyle p(n)={\frac {\langle n\rangle ^{n}\exp(-\langle n\rangle )}{n!}}.}
+
+
+chain-decay processes[edit]
+chain of two decays
+now consider the case of a chain of two decays: one nuclide a decaying into another b by one process, then b decaying into another c by a second process, i.e. a → b → c. the previous equation cannot be applied to the decay chain, but can be generalized as follows. since a decays into b, then b decays into c, the activity of a adds to the total number of b nuclides in the present sample, before those b nuclides decay and reduce the number of nuclides leading to the later sample. in other words, the number of second generation nuclei b increases as a result of the first generation nuclei decay of a, and decreases as a result of its own decay into the third generation nuclei c.[21] the sum of these two terms gives the law for a decay chain for two nuclides:
+
+
+
+
+
+
+
+
+
+d
+
+
+n
+
+b
+
+
+
+
+
+d
+
+t
+
+
+
+=
+−
+
+λ
+
+b
+
+
+
+n
+
+b
+
+
++
+
+λ
+
+a
+
+
+
+n
+
+a
+
+
+.
+
+
+{\displaystyle {\frac {\mathrm {d} n_{b}}{\mathrm {d} t}}=-\lambda _{b}n_{b}+\lambda _{a}n_{a}.}
+
+
+the rate of change of nb, that is dnb/dt, is related to the changes in the amounts of a and b, nb can increase as b is produced from a and decrease as b produces c.
+re-writing using the previous results:
+
+
+
+
+
+
+
+
+
+
+
+
+d
+
+
+n
+
+b
+
+
+
+
+
+d
+
+t
+
+
+
+=
+−
+
+λ
+
+b
+
+
+
+n
+
+b
+
+
++
+
+λ
+
+a
+
+
+
+n
+
+a
+0
+
+
+
+e
+
+−
+
+λ
+
+a
+
+
+t
+
+
+
+
+{\displaystyle {\frac {\mathrm {d} n_{b}}{\mathrm {d} t}}=-\lambda _{b}n_{b}+\lambda _{a}n_{a0}e^{-\lambda _{a}t}}
+
+
+
+
+the subscripts simply refer to the respective nuclides, i.e. na is the number of nuclides of type a, na0 is the initial number of nuclides of type a, λa is the decay constant for a - and similarly for nuclide b. solving this equation for nb gives:
+
+
+
+
+
+
+n
+
+b
+
+
+=
+
+
+
+
+n
+
+a
+0
+
+
+
+λ
+
+a
+
+
+
+
+
+λ
+
+b
+
+
+−
+
+λ
+
+a
+
+
+
+
+
+
+(
+
+
+e
+
+−
+
+λ
+
+a
+
+
+t
+
+
+−
+
+e
+
+−
+
+λ
+
+b
+
+
+t
+
+
+
+)
+
+.
+
+
+{\displaystyle n_{b}={\frac {n_{a0}\lambda _{a}}{\lambda _{b}-\lambda _{a}}}\left(e^{-\lambda _{a}t}-e^{-\lambda _{b}t}\right).}
+
+
+in the case where b is a stable nuclide (λb = 0), this equation reduces to the previous solution:
+
+
+
+
+
+
+lim
+
+
+λ
+
+b
+
+
+→
+0
+
+
+
+[
+
+
+
+
+
+n
+
+a
+0
+
+
+
+λ
+
+a
+
+
+
+
+
+λ
+
+b
+
+
+−
+
+λ
+
+a
+
+
+
+
+
+
+(
+
+
+e
+
+−
+
+λ
+
+a
+
+
+t
+
+
+−
+
+e
+
+−
+
+λ
+
+b
+
+
+t
+
+
+
+)
+
+
+]
+
+=
+
+
+
+
+n
+
+a
+0
+
+
+
+λ
+
+a
+
+
+
+
+0
+−
+
+λ
+
+a
+
+
+
+
+
+
+(
+
+
+e
+
+−
+
+λ
+
+a
+
+
+t
+
+
+−
+1
+
+)
+
+=
+
+n
+
+a
+0
+
+
+
+(
+
+1
+−
+
+e
+
+−
+
+λ
+
+a
+
+
+t
+
+
+
+)
+
+,
+
+
+{\displaystyle \lim _{\lambda _{b}\rightarrow 0}\left[{\frac {n_{a0}\lambda _{a}}{\lambda _{b}-\lambda _{a}}}\left(e^{-\lambda _{a}t}-e^{-\lambda _{b}t}\right)\right]={\frac {n_{a0}\lambda _{a}}{0-\lambda _{a}}}\left(e^{-\lambda _{a}t}-1\right)=n_{a0}\left(1-e^{-\lambda _{a}t}\right),}
+
+
+as shown above for one decay. the solution can be found by the integration factor method, where the integrating factor is eλbt. this case is perhaps the most useful, since it can derive both the one-decay equation (above) and the equation for multi-decay chains (below) more directly.
+chain of any number of decays
+for the general case of any number of consecutive decays in a decay chain, i.e. a1 → a2 ··· → ai ··· → ad, where d is the number of decays and i is a dummy index (i = 1, 2, 3, ...d), each nuclide population can be found in terms of the previous population. in this case n2 = 0, n3 = 0,..., nd = 0. using the above result in a recursive form:
+
+
+
+
+
+
+
+
+
+d
+
+
+n
+
+j
+
+
+
+
+
+d
+
+t
+
+
+
+=
+−
+
+λ
+
+j
+
+
+
+n
+
+j
+
+
++
+
+λ
+
+j
+−
+1
+
+
+
+n
+
+(
+j
+−
+1
+)
+0
+
+
+
+e
+
+−
+
+λ
+
+j
+−
+1
+
+
+t
+
+
+.
+
+
+{\displaystyle {\frac {\mathrm {d} n_{j}}{\mathrm {d} t}}=-\lambda _{j}n_{j}+\lambda _{j-1}n_{(j-1)0}e^{-\lambda _{j-1}t}.}
+
+
+the general solution to the recursive problem is given by bateman's equations:[22]
+
+
+
+bateman's equations
+
+
+
+
+
+n
+
+d
+
+
+=
+
+
+
+
+n
+
+1
+
+
+(
+0
+)
+
+
+λ
+
+d
+
+
+
+
+
+∑
+
+i
+=
+1
+
+
+d
+
+
+
+λ
+
+i
+
+
+
+c
+
+i
+
+
+
+e
+
+−
+
+λ
+
+i
+
+
+t
+
+
+
+
+{\displaystyle n_{d}={\frac {n_{1}(0)}{\lambda _{d}}}\sum _{i=1}^{d}\lambda _{i}c_{i}e^{-\lambda _{i}t}}
+
+
+
+
+
+
+
+c
+
+i
+
+
+=
+
+∏
+
+j
+=
+1
+,
+i
+≠
+j
+
+
+d
+
+
+
+
+
+λ
+
+j
+
+
+
+
+λ
+
+j
+
+
+−
+
+λ
+
+i
+
+
+
+
+
+
+
+{\displaystyle c_{i}=\prod _{j=1,i\neq j}^{d}{\frac {\lambda _{j}}{\lambda _{j}-\lambda _{i}}}}
+
+
+
+
+alternative decay modes[edit]
+in all of the above examples, the initial nuclide decays into just one product.[23] consider the case of one initial nuclide that can decay into either of two products, that is a → b and a → c in parallel. for example, in a sample of potassium-40, 89.3% of the nuclei decay to calcium-40 and 10.7% to argon-40. we have for all time t:
+
+
+
+
+
+n
+=
+
+n
+
+a
+
+
++
+
+n
+
+b
+
+
++
+
+n
+
+c
+
+
+
+
+{\displaystyle n=n_{a}+n_{b}+n_{c}}
+
+
+which is constant, since the total number of nuclides remains constant. differentiating with respect to time:
+
+
+
+
+
+
+
+
+
+
+
+
+
+d
+
+
+n
+
+a
+
+
+
+
+
+d
+
+t
+
+
+
+
+
+
+=
+−
+
+(
+
+
+
+
+
+d
+
+
+n
+
+b
+
+
+
+
+
+d
+
+t
+
+
+
++
+
+
+
+
+d
+
+
+n
+
+c
+
+
+
+
+
+d
+
+t
+
+
+
+
+)
+
+
+
+
+
+−
+λ
+
+n
+
+a
+
+
+
+
+
+=
+−
+
+n
+
+a
+
+
+
+(
+
+
+λ
+
+b
+
+
++
+
+λ
+
+c
+
+
+
+)
+
+
+
+
+
+
+
+{\displaystyle {\begin{aligned}{\frac {\mathrm {d} n_{a}}{\mathrm {d} t}}&=-\left({\frac {\mathrm {d} n_{b}}{\mathrm {d} t}}+{\frac {\mathrm {d} n_{c}}{\mathrm {d} t}}\right)\\-\lambda n_{a}&=-n_{a}\left(\lambda _{b}+\lambda _{c}\right)\\\end{aligned}}}
+
+
+defining the total decay constant λ in terms of the sum of partial decay constants λb and λc:
+
+
+
+
+
+λ
+=
+
+λ
+
+b
+
+
++
+
+λ
+
+c
+
+
+.
+
+
+{\displaystyle \lambda =\lambda _{b}+\lambda _{c}.}
+
+
+notice that
+
+
+
+
+
+
+
+
+
+d
+
+
+n
+
+a
+
+
+
+
+
+d
+
+t
+
+
+
+<
+0
+,
+
+
+
+
+d
+
+
+n
+
+b
+
+
+
+
+
+d
+
+t
+
+
+
+>
+0
+,
+
+
+
+
+d
+
+
+n
+
+c
+
+
+
+
+
+d
+
+t
+
+
+
+>
+0.
+
+
+{\displaystyle {\frac {\mathrm {d} n_{a}}{\mathrm {d} t}}<0,{\frac {\mathrm {d} n_{b}}{\mathrm {d} t}}>0,{\frac {\mathrm {d} n_{c}}{\mathrm {d} t}}>0.}
+
+
+solving this equation for na:
+
+
+
+
+
+
+n
+
+a
+
+
+=
+
+n
+
+a
+0
+
+
+
+e
+
+−
+λ
+t
+
+
+.
+
+
+{\displaystyle n_{a}=n_{a0}e^{-\lambda t}.}
+
+
+where na0 is the initial number of nuclide a. when measuring the production of one nuclide, one can only observe the total decay constant λ. the decay constants λb and λc determine the probability for the decay to result in products b or c as follows:
+
+
+
+
+
+
+n
+
+b
+
+
+=
+
+
+
+λ
+
+b
+
+
+λ
+
+
+
+n
+
+a
+0
+
+
+
+(
+
+1
+−
+
+e
+
+−
+λ
+t
+
+
+
+)
+
+,
+
+
+{\displaystyle n_{b}={\frac {\lambda _{b}}{\lambda }}n_{a0}\left(1-e^{-\lambda t}\right),}
+
+
+
+
+
+
+
+n
+
+c
+
+
+=
+
+
+
+λ
+
+c
+
+
+λ
+
+
+
+n
+
+a
+0
+
+
+
+(
+
+1
+−
+
+e
+
+−
+λ
+t
+
+
+
+)
+
+.
+
+
+{\displaystyle n_{c}={\frac {\lambda _{c}}{\lambda }}n_{a0}\left(1-e^{-\lambda t}\right).}
+
+
+because the fraction λb/λ of nuclei decay into b while the fraction λc/λ of nuclei decay into c.
+
+corollaries of the decay laws[edit]
+the above equations can also be written using quantities related to the number of nuclide particles n in a sample;
+
+the activity: a = λn.
+the amount of substance: n = n/l.
+the mass: m = arn = arn/l.
+where l = 7023602200000000000♠6.022×1023 is avogadro's constant, ar is the relative atomic mass number, and the amount of the substance is in moles.
+
+decay timing: definitions and relations[edit]
+time constant and mean-life[edit]
+for the one-decay solution a → b:
+
+
+
+
+
+n
+=
+
+n
+
+0
+
+
+
+
+e
+
+−
+
+λ
+
+t
+
+
+=
+
+n
+
+0
+
+
+
+
+e
+
+−
+t
+
+/
+
+τ
+
+
+,
+
+
+
+
+{\displaystyle n=n_{0}\,e^{-{\lambda }t}=n_{0}\,e^{-t/\tau },\,\!}
+
+
+the equation indicates that the decay constant λ has units of t−1, and can thus also be represented as 1/τ, where τ is a characteristic time of the process called the time constant.
+in a radioactive decay process, this time constant is also the mean lifetime for decaying atoms. each atom "lives" for a finite amount of time before it decays, and it may be shown that this mean lifetime is the arithmetic mean of all the atoms' lifetimes, and that it is τ, which again is related to the decay constant as follows:
+
+
+
+
+
+τ
+=
+
+
+1
+λ
+
+
+.
+
+
+{\displaystyle \tau ={\frac {1}{\lambda }}.}
+
+
+this form is also true for two-decay processes simultaneously a → b + c, inserting the equivalent values of decay constants (as given above)
+
+
+
+
+
+λ
+=
+
+λ
+
+b
+
+
++
+
+λ
+
+c
+
+
+
+
+
+{\displaystyle \lambda =\lambda _{b}+\lambda _{c}\,}
+
+
+into the decay solution leads to:
+
+
+
+
+
+
+
+1
+τ
+
+
+=
+λ
+=
+
+λ
+
+b
+
+
++
+
+λ
+
+c
+
+
+=
+
+
+1
+
+τ
+
+b
+
+
+
+
++
+
+
+1
+
+τ
+
+c
+
+
+
+
+
+
+
+{\displaystyle {\frac {1}{\tau }}=\lambda =\lambda _{b}+\lambda _{c}={\frac {1}{\tau _{b}}}+{\frac {1}{\tau _{c}}}\,}
+
+
+ simulation of many identical atoms undergoing radioactive decay, starting with either 4 atoms (left) or 400 (right). the number at the top indicates how many half-lives have elapsed.
+half-life[edit]
+a more commonly used parameter is the half-life. given a sample of a particular radionuclide, the half-life is the time taken for half the radionuclide's atoms to decay. for the case of one-decay nuclear reactions:
+
+
+
+
+
+n
+=
+
+n
+
+0
+
+
+
+
+e
+
+−
+
+λ
+
+t
+
+
+=
+
+n
+
+0
+
+
+
+
+e
+
+−
+t
+
+/
+
+τ
+
+
+,
+
+
+
+
+{\displaystyle n=n_{0}\,e^{-{\lambda }t}=n_{0}\,e^{-t/\tau },\,\!}
+
+
+the half-life is related to the decay constant as follows: set n = n0/2 and t = t1/2 to obtain
+
+
+
+
+
+
+t
+
+1
+
+/
+
+2
+
+
+=
+
+
+
+ln
+⁡
+2
+
+λ
+
+
+=
+τ
+ln
+⁡
+2.
+
+
+{\displaystyle t_{1/2}={\frac {\ln 2}{\lambda }}=\tau \ln 2.}
+
+
+this relationship between the half-life and the decay constant shows that highly radioactive substances are quickly spent, while those that radiate weakly endure longer. half-lives of known radionuclides vary widely, from more than 1019 years, such as for the very nearly stable nuclide 209bi, to 10−23 seconds for highly unstable ones.
+the factor of ln(2) in the above relations results from the fact that the concept of "half-life" is merely a way of selecting a different base other than the natural base e for the lifetime expression. the time constant τ is the e -1 -life, the time until only 1/e remains, about 36.8%, rather than the 50% in the half-life of a radionuclide. thus, τ is longer than t1/2. the following equation can be shown to be valid:
+
+
+
+
+
+n
+(
+t
+)
+=
+
+n
+
+0
+
+
+
+
+e
+
+−
+t
+
+/
+
+τ
+
+
+=
+
+n
+
+0
+
+
+
+
+2
+
+−
+t
+
+/
+
+
+t
+
+1
+
+/
+
+2
+
+
+
+
+.
+
+
+
+
+{\displaystyle n(t)=n_{0}\,e^{-t/\tau }=n_{0}\,2^{-t/t_{1/2}}.\,\!}
+
+
+since radioactive decay is exponential with a constant probability, each process could as easily be described with a different constant time period that (for example) gave its "(1/3)-life" (how long until only 1/3 is left) or "(1/10)-life" (a time period until only 10% is left), and so on. thus, the choice of τ and t1/2 for marker-times, are only for convenience, and from convention. they reflect a fundamental principle only in so much as they show that the same proportion of a given radioactive substance will decay, during any time-period that one chooses.
+mathematically, the nth life for the above situation would be found in the same way as above—by setting n = n0/n, t = t1/n and substituting into the decay solution to obtain
+
+
+
+
+
+
+t
+
+1
+
+/
+
+n
+
+
+=
+
+
+
+ln
+⁡
+n
+
+λ
+
+
+=
+τ
+ln
+⁡
+n
+.
+
+
+{\displaystyle t_{1/n}={\frac {\ln n}{\lambda }}=\tau \ln n.}
+
+
+example[edit]
+a sample of 14c has a half-life of 5,730 years and a decay rate of 14 disintegration per minute (dpm) per gram of natural carbon.
+if an artifact is found to have radioactivity of 4 dpm per gram of its present c, we can find the approximate age of the object using the above equation:
+
+
+
+
+
+n
+=
+
+n
+
+0
+
+
+
+
+e
+
+−
+t
+
+/
+
+τ
+
+
+,
+
+
+{\displaystyle n=n_{0}\,e^{-t/\tau },}
+
+
+where: 
+
+
+
+
+
+n
+
+n
+
+0
+
+
+
+
+=
+4
+
+/
+
+14
+≈
+0.286
+,
+
+
+{\displaystyle {\frac {n}{n_{0}}}=4/14\approx 0.286,}
+
+
+
+
+
+
+
+τ
+=
+
+
+
+t
+
+1
+
+/
+
+2
+
+
+
+ln
+⁡
+2
+
+
+
+≈
+8267
+
+
+{\displaystyle \tau ={\frac {t_{1/2}}{\ln 2}}\approx 8267}
+
+ years,
+
+
+
+
+t
+=
+−
+τ
+
+ln
+⁡
+
+
+n
+
+n
+
+0
+
+
+
+
+≈
+10356
+
+
+{\displaystyle t=-\tau \,\ln {\frac {n}{n_{0}}}\approx 10356}
+
+ years.
+changing decay rates[edit]
+the radioactive decay modes of electron capture and internal conversion are known to be slightly sensitive to chemical and environmental effects that change the electronic structure of the atom, which in turn affects the presence of 1s and 2s electrons that participate in the decay process. a small number of mostly light nuclides are affected. for example, chemical bonds can affect the rate of electron capture to a small degree (in general, less than 1%) depending on the proximity of electrons to the nucleus. in 7be, a difference of 0.9% has been observed between half-lives in metallic and insulating environments.[24] this relatively large effect is because beryllium is a small atom whose valence electrons are in 2s atomic orbitals, which are subject to electron capture in 7be because (like all s atomic orbitals in all atoms) they naturally penetrate into the nucleus.
+in 1992, jung et al. of the darmstadt heavy-ion research group observed an accelerated β− decay of 163dy66+. although neutral 163dy is a stable isotope, the fully ionized 163dy66+ undergoes β− decay into the k and l shells to 163ho66+ with a half-life of 47 days.[25]
+rhenium-187 is another spectacular example. 187re normally beta decays to 187os with a half-life of 41.6 × 109 years,[26] but studies using fully ionised 187re atoms (bare nuclei) have found that this can decrease to only 33 years. this is attributed to "bound-state β− decay" of the fully ionised atom – the electron is emitted into the "k-shell" (1s atomic orbital), which cannot occur for neutral atoms in which all low-lying bound states are occupied.[27]
+
+ example of diurnal and seasonal variations in gamma ray detector response.
+a number of experiments have found that decay rates of other modes of artificial and naturally occurring radioisotopes are, to a high degree of precision, unaffected by external conditions such as temperature, pressure, the chemical environment, and electric, magnetic, or gravitational fields.[28] comparison of laboratory experiments over the last century, studies of the oklo natural nuclear reactor (which exemplified the effects of thermal neutrons on nuclear decay), and astrophysical observations of the luminosity decays of distant supernovae (which occurred far away so the light has taken a great deal of time to reach us), for example, strongly indicate that unperturbed decay rates have been constant (at least to within the limitations of small experimental errors) as a function of time as well.[citation needed]
+recent results suggest the possibility that decay rates might have a weak dependence on environmental factors. it has been suggested that measurements of decay rates of silicon-32, manganese-54, and radium-226 exhibit small seasonal variations (of the order of 0.1%).[29][30][31]  however, such measurements are highly susceptible to systematic errors, and a subsequent paper[32] has found no evidence for such correlations in seven other isotopes (22na, 44ti, 108ag, 121sn, 133ba, 241am, 238pu), and sets upper limits on the size of any such effects. the decay of radon-222 was once reported to exhibit large 4% peak-to-peak seasonal variations (see plot),[33]  which were proposed to be related to either solar flare activity or the distance from the sun, but detailed analysis of the experiment's design flaws, along with comparisons to other, much more stringent and systematically controlled, experiments refute this claim.[34]
+
+gsi anomaly[edit]
+main article: gsi anomaly
+an unexpected series of experimental results for the rate of decay of heavy highly charged radioactive ions circulating in a storage ring has provoked theoretical activity in an effort to find a convincing explanation. the rates of weak decay of two radioactive species with half lives of about 40 s and 200 s are found to have a significant oscillatory modulation, with a period of about 7 s.[35]
+the observed phenomenon is known as the gsi anomaly, as the storage ring is a facility at the gsi helmholtz centre for heavy ion research in darmstadt, germany.  as the decay process produces an electron neutrino, some of the proposed explanations for the observed rate oscillation invoke neutrino properties. initial ideas related to flavour oscillation met with skepticism.[36]  a more recent proposal involves mass differences between neutrino mass eigenstates.[37]
+
+theoretical basis of decay phenomena[edit]
+this section  possibly contains original research. please improve it by verifying the claims made and adding inline citations. statements consisting only of original research should be removed. (october 2014) (learn how and when to remove this template message)
+the neutrons and protons that constitute nuclei, as well as other particles that approach close enough to them, are governed by several interactions. the strong nuclear force, not observed at the familiar macroscopic scale, is the most powerful force over subatomic distances. the electrostatic force is almost always significant, and, in the case of beta decay, the weak nuclear force is also involved.
+the combined effects of these forces produces a number of different phenomena in which energy may be released by rearrangement of particles in the nucleus, or else the change of one type of particle into others. these rearrangements and transformations may be hindered energetically, so that they do not occur immediately. in certain cases, random quantum vacuum fluctuations are theorized to promote relaxation to a lower energy state (the "decay") in a phenomenon known as quantum tunneling. radioactive decay half-life of nuclides has been measured over timescales of 55 orders of magnitude, from 2.3 × 10−23 seconds (for hydrogen-7) to 6.9 × 1031 seconds (for tellurium-128).[38] the limits of these timescales are set by the sensitivity of instrumentation only, and there are no known natural limits to how brief or long a decay half-life for radioactive decay of a radionuclide may be.
+the decay process, like all hindered energy transformations, may be analogized by a snowfield on a mountain. while friction between the ice crystals may be supporting the snow's weight, the system is inherently unstable with regard to a state of lower potential energy. a disturbance would thus facilitate the path to a state of greater entropy; the system will move towards the ground state, producing heat, and the total energy will be distributable over a larger number of quantum states thus resulting in an avalanche. the total energy does not change in this process, but, because of the second law of thermodynamics, avalanches have only been observed in one direction and that is toward the "ground state" — the state with the largest number of ways in which the available energy could be distributed.
+such a collapse (a gamma-ray decay event) requires a specific activation energy. for a snow avalanche, this energy comes as a disturbance from outside the system, although such disturbances can be arbitrarily small. in the case of an excited atomic nucleus decaying by gamma radiation in a spontaneous emission of electromagnetic radiation, the arbitrarily small disturbance comes from quantum vacuum fluctuations.[39]
+a radioactive nucleus (or any excited system in quantum mechanics) is unstable, and can, thus, spontaneously stabilize to a less-excited system. the resulting transformation alters the structure of the nucleus and results in the emission of either a photon or a high-velocity particle that has mass (such as an electron, alpha particle, or other type).[citation needed]
+
+occurrence and applications[edit]
+according to the big bang theory, stable isotopes of the lightest five elements (h, he, and traces of li, be, and b) were produced very shortly after the emergence of the universe, in a process called big bang nucleosynthesis. these lightest stable nuclides (including deuterium) survive to today, but any radioactive isotopes of the light elements produced in the big bang (such as tritium) have long since decayed. isotopes of elements heavier than boron were not produced at all in the big bang, and these first five elements do not have any long-lived radioisotopes. thus, all radioactive nuclei are, therefore, relatively young with respect to the birth of the universe, having formed later in various other types of nucleosynthesis in stars (in particular, supernovae), and also during ongoing interactions between stable isotopes and energetic particles. for example, carbon-14, a radioactive nuclide with a half-life of only 5,730 years, is constantly produced in earth's upper atmosphere due to interactions between cosmic rays and nitrogen.
+nuclides that are produced by radioactive decay are called radiogenic nuclides, whether they themselves are stable or not. there exist stable radiogenic nuclides that were formed from short-lived extinct radionuclides in the early solar system.[40][41] the extra presence of these stable radiogenic nuclides (such as xe-129 from primordial i-129) against the background of primordial stable nuclides can be inferred by various means.
+radioactive decay has been put to use in the technique of radioisotopic labeling, which is used to track the passage of a chemical substance through a complex system (such as a living organism). a sample of the substance is synthesized with a high concentration of unstable atoms. the presence of the substance in one or another part of the system is determined by detecting the locations of decay events.
+on the premise that radioactive decay is truly random (rather than merely chaotic), it has been used in hardware random-number generators. because the process is not thought to vary significantly in mechanism over time, it is also a valuable tool in estimating the absolute ages of certain materials. for geological materials, the radioisotopes and some of their decay products become trapped when a rock solidifies, and can then later be used (subject to many well-known qualifications) to estimate the date of the solidification. these include checking the results of several simultaneous processes and their products against each other, within the same sample. in a similar fashion, and also subject to qualification, the rate of formation of carbon-14 in various eras, the date of formation of organic matter within a certain period related to the isotope's half-life may be estimated, because the carbon-14 becomes trapped when the organic matter grows and incorporates the new carbon-14 from the air. thereafter, the amount of carbon-14 in organic matter decreases according to decay processes that may also be independently cross-checked by other means (such as checking the carbon-14 in individual tree rings, for example).
+
+szilard–chalmers effect[edit]
+the szilard–chalmers effect is defined as the breaking of a chemical bond between an atom and the molecule that the atom is part of, as a result of a nuclear reaction of the atom. the effect can be used to separate isotopes by chemical means. the discovery of this effect is due to leó szilárd and thomas a. chalmers.[42]
+
+origins of radioactive nuclides[edit]
+main article: nucleosynthesis
+radioactive primordial nuclides found in the earth are residues from ancient supernova explosions that occurred before the formation of the solar system. they are the fraction of radionuclides that survived from that time, through the formation of the primordial solar nebula, through planet accretion, and up to the present time. the naturally occurring short-lived radiogenic radionuclides found in today's rocks, are the daughters of those radioactive primordial nuclides. another minor source of naturally occurring radioactive nuclides are cosmogenic nuclides, that are formed by cosmic ray bombardment of material in the earth's atmosphere or crust. the decay of the radionuclides in rocks of the earth's mantle and crust contribute significantly to earth's internal heat budget.
+
+decay chains and multiple modes[edit]
+see also: valley of stability
+the daughter nuclide of a decay event may also be unstable (radioactive). in this case, it too will decay, producing radiation. the resulting second daughter nuclide may also be radioactive. this can lead to a sequence of several decay events called a decay chain (see this article for specific details of important natural decay chains). eventually, a stable nuclide is produced. any decay daughters that are the result of an alpha decay will also result in helium atoms being created.
+
+ gamma-ray energy spectrum of uranium ore (inset). gamma-rays are emitted by decaying nuclides, and the gamma-ray energy can be used to characterize the decay (which nuclide is decaying to which). here, using the gamma-ray spectrum, several nuclides that are typical of the decay chain of 238u have been identified: 226ra, 214pb, 214bi.
+an example is the natural decay chain of 238u:
+
+uranium-238 decays, through alpha-emission, with a half-life of 4.5 billion years to thorium-234
+which decays, through beta-emission, with a half-life of 24 days to protactinium-234
+which decays, through beta-emission, with a half-life of 1.2 minutes to uranium-234
+which decays, through alpha-emission, with a half-life of 240 thousand years to thorium-230
+which decays, through alpha-emission, with a half-life of 77 thousand years to radium-226
+which decays, through alpha-emission, with a half-life of 1.6 thousand years to radon-222
+which decays, through alpha-emission, with a half-life of 3.8 days to polonium-218
+which decays, through alpha-emission, with a half-life of 3.1 minutes to lead-214
+which decays, through beta-emission, with a half-life of 27 minutes to bismuth-214
+which decays, through beta-emission, with a half-life of 20 minutes to polonium-214
+which decays, through alpha-emission, with a half-life of 160 microseconds to lead-210
+which decays, through beta-emission, with a half-life of 22 years to bismuth-210
+which decays, through beta-emission, with a half-life of 5 days to polonium-210
+which decays, through alpha-emission, with a half-life of 140 days to lead-206, which is a stable nuclide.
+some radionuclides may have several different paths of decay. for example, approximately 36% of bismuth-212 decays, through alpha-emission, to thallium-208 while approximately 64% of bismuth-212 decays, through beta-emission, to polonium-212. both thallium-208 and polonium-212 are radioactive daughter products of bismuth-212, and both decay directly to stable lead-208.
+
+associated hazard warning signs[edit]
+
+
+
+
+the trefoil symbol used to indicate ionising radiation.
+
+
+
+
+
+
+2007 iso radioactivity danger symbol intended for iaea category 1, 2 and 3 sources defined as dangerous sources capable of death or serious injury.[43]
+
+
+
+
+
+
+the dangerous goods transport classification sign for radioactive materials
+
+
+
+
+see also[edit]
+
+
+nuclear technology portal
+physics portal
+
+
+
+wikimedia commons has media related to radioactive decay by mode.
+
+actinides in the environment
+background radiation
+chernobyl disaster
+crimes involving radioactive substances
+decay chain
+decay correct
+fallout shelter
+geiger counter
+half-life
+induced radioactivity
+lists of nuclear disasters and radioactive incidents
+multiplicative calculus
+national council on radiation protection and measurements
+nuclear engineering
+nuclear medicine
+nuclear pharmacy
+nuclear physics
+nuclear power
+particle decay
+poisson process
+radiation
+radiation therapy
+radioactive contamination
+radioactivity in biology
+radiometric dating
+radionuclide a.k.a. "radio-isotope"
+secular equilibrium
+transient equilibrium
+
+notes[edit]
+
+
+^ see wu experiment among other counterexamples when the decaying atom is influenced by external factors.
+
+^ radionuclide is the more correct term, but radioisotope is also used. the difference between isotope and nuclide is explained at isotope#isotope vs. nuclide.
+
+
+references[edit]
+inline[edit]
+
+
+^ stabin, michael g. (2007). "3". radiation protection and dosimetry: an introduction to health physics. springer. doi:10.1007/978-0-387-49983-3. isbn 978-0-387-49982-6..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ best, lara; rodrigues, george; velker, vikram (2013). "1.3". radiation oncology primer and review. demos medical publishing. isbn 978-1-62070-004-4.
+
+^ loveland, w.; morrissey, d.; seaborg, g.t. (2006). modern nuclear chemistry. wiley-interscience. p. 57. bibcode:2005mnc..book.....l. isbn 978-0-471-11532-8.
+
+^ litherland, a.e.; ferguson, a.j. (1961). "gamma-ray angular correlations from aligned nuclei produced by nuclear reactions". canadian journal of physics. 39 (6): 788–824. bibcode:1961cajph..39..788l. doi:10.1139/p61-089. issn 0008-4204.
+
+^ "3. nuclear and atomic spectroscopy". spectroscopy. methods in experimental physics. 13. 1976. pp. 115–346. bibcode:1976mexp...13..115.. doi:10.1016/s0076-695x(08)60643-2. isbn 9780124759138.
+
+^ martin, b.r. (31 august 2011). nuclear and particle physics: an introduction (2nd ed.). john wiley & sons. p. 240. isbn 978-1-1199-6511-4.
+
+^ mould, richard f. (1995). a century of x-rays and radioactivity in medicine : with emphasis on photographic records of the early years (reprint. with minor corr ed.). bristol: inst. of physics publ. p. 12. isbn 978-0-7503-0224-1.
+
+^ kasimir fajans, "radioactive transformations and the periodic system of the elements". berichte der deutschen chemischen gesellschaft, nr. 46, 1913, pp. 422–439
+
+^ frederick soddy, "the radio elements and the periodic law", chem. news, nr. 107, 1913, pp. 97–99
+
+^ a b l'annunziata, michael f. (2007). radioactivity: introduction and history. amsterdam, netherlands: elsevier science. p. 2. isbn 9780080548883.
+
+^ sansare, k.; khanna, v.; karjodkar, f. (2011). "early victims of x-rays: a tribute and current perception". dentomaxillofacial radiology. 40 (2): 123–125. doi:10.1259/dmfr/73488299. issn 0250-832x. pmc 3520298. pmid 21239576.
+
+^ a b ronald l. kathern and paul l. ziemer, he first fifty years of radiation protection, physics.isu.edu
+
+^ hrabak, m.; padovan, r.s.; kralik, m.; ozretic, d.; potocki, k. (july 2008). "nikola tesla and the discovery of x-rays". radiographics. 28 (4): 1189–92. doi:10.1148/rg.284075206. pmid 18635636.
+
+^ geoff meggitt (2008), taming the rays - a history of radiation and protection., lulu.com, isbn 978-1-4092-4667-1
+
+^ clarke, r.h.; j. valentin (2009). "the history of icrp and the evolution of its policies" (pdf). annals of the icrp. icrp publication 109. 39 (1): 75–110. doi:10.1016/j.icrp.2009.07.009. retrieved 12 may 2012.
+
+^ rutherford, ernest (6 october 1910). "radium standards and nomenclature". nature. 84 (2136): 430–431. bibcode:1910natur..84..430r. doi:10.1038/084430a0.
+
+^ 10 cfr 20.1005. us nuclear regulatory commission. 2009.
+
+^ the council of the european communities (1979-12-21). "council directive 80/181/eec of 20 december 1979 on the approximation of the laws of the member states relating to unit of measurement and on the repeal of directive 71/354/eec". retrieved 19 may 2012.
+
+^ radioactive decay
+
+^ a b c patel, s.b. (2000). nuclear physics: an introduction. new delhi: new age international. pp. 62–72. isbn 978-81-224-0125-7.
+
+^ introductory nuclear physics, k.s. krane, 1988, john wiley & sons inc, isbn 978-0-471-80553-3
+
+^ cetnar, jerzy (may 2006). "general solution of bateman equations for nuclear transmutations". annals of nuclear energy. 33 (7): 640–645. doi:10.1016/j.anucene.2006.02.004.
+
+^ k.s. krane (1988). introductory nuclear physics. john wiley & sons inc. p. 164. isbn 978-0-471-80553-3.
+
+^ wang, b.;  et al. (2006). "change of the 7be electron capture half-life in metallic environments". the european physical journal a. 28 (3): 375–377. bibcode:2006epja...28..375w. doi:10.1140/epja/i2006-10068-x. issn 1434-6001.
+
+^ jung, m.;  et al. (1992). "first observation of bound-state β− decay". physical review letters. 69 (15): 2164–2167. bibcode:1992phrvl..69.2164j. doi:10.1103/physrevlett.69.2164. issn 0031-9007. pmid 10046415.
+
+^ smoliar, m.i.; walker, r.j.; morgan, j.w. (1996). "re-os ages of group iia, iiia, iva, and ivb iron meteorites". science. 271 (5252): 1099–1102. bibcode:1996sci...271.1099s. doi:10.1126/science.271.5252.1099.
+
+^ bosch, f.;  et al. (1996). "observation of bound-state β– decay of fully ionized 187re:187re-187os cosmochronometry". physical review letters. 77 (26): 5190–5193. bibcode:1996phrvl..77.5190b. doi:10.1103/physrevlett.77.5190. pmid 10062738.
+
+^ emery, g.t. (1972). "perturbation of nuclear decay rates". annual review of nuclear science. 22: 165–202. bibcode:1972arnps..22..165e. doi:10.1146/annurev.ns.22.120172.001121.
+
+^ "the mystery of varying nuclear decay". physics world. 2 october 2008.
+
+^ jenkins, jere h.; fischbach, ephraim (2009). "perturbation of nuclear decay rates during the solar flare of 13 december 2006". astroparticle physics. 31 (6): 407–411. arxiv:0808.3156. bibcode:2009aph....31..407j. doi:10.1016/j.astropartphys.2009.04.005.
+
+^ jenkins, j.h.; fischbach, ephraim; buncher, john b.; gruenwald, john t.; krause, dennis e.; mattes, joshua j. (2009). "evidence of correlations between nuclear decay rates and earth–sun distance". astroparticle physics. 32 (1): 42–46. arxiv:0808.3283. bibcode:2009aph....32...42j. doi:10.1016/j.astropartphys.2009.05.004.
+
+^ norman, e.b.; browne, edgardo; shugart, howard a.; joshi, tenzing h.; firestone, richard b. (2009). "evidence against correlations between nuclear decay rates and earth–sun distance" (pdf). astroparticle physics. 31 (2): 135–137. arxiv:0810.3265. bibcode:2009aph....31..135n. doi:10.1016/j.astropartphys.2008.12.004.
+
+^ sturrock, p.a.; steinitz, g.; fischbach, e.; javorsek, d.; jenkins, j.h. (2012). "analysis of gamma radiation from a radon source: indications of a solar influence". astroparticle physics. 36 (1): 18–25. arxiv:1205.0205. bibcode:2012aph....36...18s. doi:10.1016/j.astropartphys.2012.04.009. issn 0927-6505.
+
+^ pommé, s.; lutter, g.; marouli, m.; kossert, k.; nähle, o. (2018-01-01). "on the claim of modulations in radon decay and their association with solar rotation". astroparticle physics. 97: 38–45. bibcode:2018aph....97...38p. doi:10.1016/j.astropartphys.2017.10.011. issn 0927-6505.
+
+^ kienle p, bosch f, bühler p, faestermanna t, litvinov yu.a., winckler n,  et al. (2013). "high-resolution measurement of the time-modulated orbital electron capture and of the β+ decay of hydrogen-like 142pm60+ ions". physics letters b. 726 (4–5): 638–645. bibcode:2013phlb..726..638k. doi:10.1016/j.physletb.2013.09.033. issn 0370-2693.
+
+^ giunti, carlo (2009). "the gsi time anomaly: facts and fiction". nuclear physics b: proceedings supplements. 188: 43–45. arxiv:0812.1887. bibcode:2009nuphs.188...43g. doi:10.1016/j.nuclphysbps.2009.02.009. issn 0920-5632.
+
+^ gal, avraham (2016). "neutrino signals in electron-capture storage-ring experiments". symmetry. 8 (6): 49. doi:10.3390/sym8060049. issn 2073-8994.
+
+^ nubase evaluation of nuclear and decay properties archived 20 july 2011 at the wayback machine
+
+^ discussion of the quantum underpinnings of spontaneous emission, as first postulated by dirac in 1927
+
+^ clayton, donald d. (1983). principles of stellar evolution and nucleosynthesis (2nd ed.). university of chicago press. p. 75. isbn 978-0-226-10953-4.
+
+^ bolt, b.a.; packard, r.e.; price, p.b. (2007). "john h. reynolds, physics: berkeley". the university of california, berkeley. retrieved 2007-10-01.
+
+^ szilard, leó; chalmers, thomas a. (1934). "chemical separation of the radioactive element from its bombarded isotope in the fermi effect". nature. 134 (3386): 462. bibcode:1934natur.134..462s. doi:10.1038/134462b0.
+
+^ iaea news release feb 2007
+
+
+general[edit]
+"radioactivity", encyclopædia britannica. 2006. encyclopædia britannica online. december 18, 2006
+radio-activity by ernest rutherford phd, encyclopædia britannica eleventh edition
+external links[edit]
+
+
+
+the wikibook historical geology has a page on the topic of: radioactive decay
+
+
+
+look up radioactivity in wiktionary, the free dictionary.
+the lund/lbnl nuclear data search – contains tabulated information on radioactive decay types and energies.
+nomenclature of nuclear chemistry
+specific activity and related topics.
+the live chart of nuclides – iaea
+interactive chart of nuclides
+health physics society public education website
+ beach, chandler b., ed. (1914). "becquerel rays" . the new student's reference work . chicago: f. e. compton and co.
+annotated bibliography for radioactivity from the alsos digital library for nuclear issues
+stochastic java applet on the decay of radioactive atoms by wolfgang bauer
+stochastic flash simulation on the decay of radioactive atoms by david m. harrison
+"henri becquerel: the discovery of radioactivity", becquerel's 1896 articles online and analyzed on bibnum [click 'à télécharger' for english version].
+"radioactive change", rutherford & soddy article (1903), online and analyzed on bibnum [click 'à télécharger' for english version].
+vteradiation (physics and health)main articlesnon-ionizing radiation
+acoustic radiation force
+infrared
+light
+starlight
+sunlight
+microwave
+radio waves
+ultraviolet
+ionizing radiation
+soft radiation
+hard radiation
+radioactive decay
+cluster decay
+background radiation
+alpha particle
+beta particle
+gamma ray
+cosmic ray
+neutron radiation
+nuclear fission
+nuclear fusion
+nuclear reactors
+nuclear weapons
+particle accelerators
+radioactive materials
+x-ray
+
+earth's energy budget
+electromagnetic radiation
+synchrotron radiation
+thermal radiation
+black-body radiation
+particle radiation
+gravitational radiation
+cosmic background radiation
+cherenkov radiation
+askaryan radiation
+bremsstrahlung
+unruh radiation
+dark radiation
+radiation and health
+radiation syndrome
+acute
+chronic
+health physics
+dosimetry
+electromagnetic radiation and health
+laser safety
+lasers and aviation safety
+medical radiography
+mobile phone radiation and health
+radiation protection
+radiation therapy
+radioactivity in the life sciences
+radioactive contamination
+radiobiology
+biological dose units and quantities
+wireless electronic devices and health
+radiation heat-transfer
+related articles
+half-life
+nuclear physics
+radioactive source
+radiation hardening
+list of civilian radiation accidents
+1996 costa rica accident
+1987 goiânia accident
+1984 moroccan accident
+1990 zaragoza accident
+see also: the categories radiation effects, radioactivity, radiobiology, and radiation protection.
+authority control 
+gnd: 4048198-0
+nara: 10640985
+ndl: 00563520
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=radioactive_decay&oldid=882837047"					
+categories: radioactivityexponentialspoisson point processeshidden categories: cs1: julian–gregorian uncertaintywebarchive template wayback linksarticles with short descriptionuse british english from may 2014use dmy dates from may 2014wikipedia articles with style issues from december 2016all articles with style issuesall articles with unsourced statementsarticles with unsourced statements from october 2014articles that may contain original research from october 2014all articles that may contain original researchcommons category link is on wikidatawikipedia articles incorporating citation to the nsrwwikipedia articles incorporating citation to the nsrw with an wstitle parameterwikipedia articles with gnd identifierswikipedia articles with nara identifierswikipedia articles with ndl identifiers 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commonswikiversity 
+
+
+
+languages
+
+
+afrikaansalemannischالعربيةaragonésasturianuazərbaycancaবাংলাbân-lâm-gúбашҡортсабеларускаябеларуская (тарашкевіца)‎भोजपुरीбългарскиboarischbosanskicatalàčeštinacymraegdanskdeutscheestiελληνικάespañolesperantoestremeñueuskaraفارسیfrançaisfryskgaeilgegalego한국어հայերենहिन्दीhrvatskibahasa indonesiainterlinguaíslenskaitalianoעבריתಕನ್ನಡқазақшаkiswahilikreyòl ayisyenкыргызчаlatinalatviešulietuviųlimburgsmagyarмакедонскиമലയാളംbahasa melayuмонголမြန်မာဘာသာnederlands日本語nordfriisknorsknorsk nynorskoccitanଓଡ଼ିଆoʻzbekcha/ўзбекчаਪੰਜਾਬੀپنجابیplattdüütschpolskiportuguêsromânărumantschruna simiрусскийscotsshqipසිංහලslovenčinaslovenščinaکوردیсрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskaதமிழ்తెలుగుไทยtürkçeукраїнськаاردوtiếng việtwalon文言winaray吴语ייִדישyorùbá粵語中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 11 february 2019, at 17:11 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"1.028","walltime":"1.345","ppvisitednodes":{"value":6265,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":170165,"limit":2097152},"templateargumentsize":{"value":5272,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":17,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":127050,"limit":5000000},"entityaccesscount":{"value":6,"limit":400},"timingprofile":["100.00%  933.762      1 -total"," 45.39%  423.825      2 template:reflist"," 19.39%  181.032     20 template:cite_journal"," 13.46%  125.641     11 template:cite_book","  6.92%   64.643      1 template:commons_category","  4.84%   45.168      2 template:citation_needed","  4.43%   41.397      3 template:val","  4.40%   41.113      2 template:fix","  3.98%   37.134      1 template:about","  3.38%   31.606      1 template:isbn"]},"scribunto":{"limitreport-timeusage":{"value":"0.456","limit":"10.000"},"limitreport-memusage":{"value":12898689,"limit":52428800}},"cachereport":{"origin":"mw1328","timestamp":"20190216070827","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"radioactive decay","url":"https:\/\/en.wikipedia.org\/wiki\/radioactive_decay","sameas":"http:\/\/www.wikidata.org\/entity\/q11448","mainentity":"http:\/\/www.wikidata.org\/entity\/q11448","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2003-03-17t18:18:26z","datemodified":"2019-02-11t17:11:49z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/4b\/nuclearreaction.svg","headline":"process by which an unstable atom emits radiation"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":196,"wghostname":"mw1252"});});
+
+

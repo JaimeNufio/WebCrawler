@@ -1,0 +1,436 @@
+
+
+
+
+reykjavík summit - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"reykjavík_summit","wgtitle":"reykjavík summit","wgcurrevisionid":883285383,"wgrevisionid":883285383,"wgarticleid":2124971,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["use dmy dates from september 2014","commons category link is on wikidata","commons category link is on wikidata using p373","coordinates on wikidata","cold war treaties","foreign relations of the soviet union","history of the foreign relations of the united states","soviet union–united states diplomatic conferences","diplomatic conferences in iceland","1986 in iceland","1986 conferences","1986 in international relations","1986 in politics","1980s in reykjavík","october 1986 events in europe","events in reykjavík"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"reykjavík_summit","wgrelevantarticleid":2124971,"wgrequestid":"xgycuqpamfaaajcex2kaaaaq","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgcoordinates":{"lat":64.146388888889,"lon":-21.906666666667},"wgwikibaseitemid":"q1036702","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+reykjavík summit 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+
+
+ the former british consulate, called höfði, was the site of the reykjavík summit in 1986.
+the reykjavík summit was a summit meeting between u.s. president ronald reagan and general secretary of the communist party of the soviet union mikhail gorbachev, held in reykjavík, iceland, on 11–12 october 1986.[1] the talks collapsed at the last minute, but the progress that had been achieved eventually resulted in the 1987 intermediate-range nuclear forces treaty between the united states and the soviet union.
+
+contents
+
+1 negotiations
+2 result
+3 key statements related to the summit
+4 see also
+5 notes
+6 references
+7 external links
+
+
+negotiations[edit]
+ reagan and gorbachev in höfði
+in 1986, gorbachev had proposed banning all ballistic missiles, but reagan wanted to continue research on the strategic defense initiative (sdi), which involved the militarization of outer space. yet soviet suspicion of sdi continued, and u.s.–soviet relations were strained.[2]
+at reykjavík, reagan sought to include discussion of human rights, emigration of soviet jews and dissidents, and the soviet invasion of afghanistan. gorbachev sought to limit the talks solely to arms control. the soviets acceded to the "double-zero" proposal for eliminating inf weapons from europe, as initially proposed by president reagan in november 1981 (inf denoting "intermediate-range nuclear forces" as distinct from icbms, or intercontinental ballistic missiles). the soviets also proposed to eliminate 50% of all strategic arms, including icbms, and agreed not to include british or french weapons in the count.  all this was proposed in exchange for an american pledge not to implement strategic defences for the next ten years, in accordance with salt i.[3]
+the americans countered with a proposal to eliminate all ballistic missiles within ten years, but required the right to deploy strategic defences against remaining threats afterwards.  gorbachev then suggested eliminating all nuclear weapons within a decade.
+gorbachev, however, citing a desire to strengthen the anti-ballistic missile treaty (abm treaty), added the condition that any sdi research be confined to laboratories for the ten-year period in question. reagan argued that his proposed sdi research was allowed by any reasonable interpretation of the abm treaty, and that he could not forget the pledge he made to americans to investigate whether sdi was viable.  he also promised to share sdi technology, a promise which gorbachev said he doubted would be fulfilled, as the americans would not even share oil-drilling technology.
+some, including reagan staffer jack f. matlock jr., attribute reagan’s refusal to compromise on sdi testing to a mistaken belief that the proposed restrictions would be detrimental to the program, whereas in reality, matlock contends, they would have had little effect on research that was still in its very early stages.[4]
+the talks finally stalled, president reagan asking if general secretary gorbachev would "turn down a historic opportunity because of a single word", referring to his insistence on laboratory testing.  gorbachev asserted that it was a matter of principle, and the summit concluded.
+
+result[edit]
+despite getting unexpectedly close to the potential elimination of all nuclear weapons, the meeting adjourned with no agreement; however, both sides discovered the extent of the concessions the other side was willing to make.[3] human rights became a subject of productive discussion for the first time. an agreement by gorbachev to on-site inspections, a continuing american demand which had not been achieved in the partial test ban treaty of 1963 or the abm and salt i pacts of 1972, constituted a significant step forward.[5]
+despite its apparent failure, participants and observers have referred to the summit as an enormous breakthrough which eventually facilitated the inf treaty (intermediate-range nuclear forces treaty), signed at the washington summit on 8 december 1987.
+in february 2019, the american president donald trump said he will withdrawn usa from the inf nuclear treaty. according to the rems of the treaty, this will come into effect in august 2019. [6] [7]
+
+key statements related to the summit[edit]
+
+
+
+
+№
+
+name of the document
+
+united nations documents symbol (general assembly)
+
+united nations documents symbol (security council)
+
+
+1
+
+radio address to the nation delivered by the president of the united states of america, ronald reagan, on the meeting with soviet general secretary gorbachev in reykjavik, iceland, on 04 october 1986
+
+no data
+
+no data
+
+
+2
+
+remarks by the president of the united states of america, ronald reagan, to american military personnel and their families in keflavik, iceland, on 12 october 1986
+
+no data
+
+no data
+
+
+3
+
+press conference given by the general secretary of the central committee of the communist party of the soviet union, mikhail gorbachev, in reykjavík on 12 october 1986
+
+a/41/709
+
+s/18401
+
+
+4
+
+speech delivered by the president of the united states of america, ronald reagan, to the american people on 13 october 1986
+
+a/41/807
+
+s/18451
+
+
+5
+
+speech given by the general secretary of the central committee of the communist party of the soviet union, mikhail gorbachev, on soviet television on 14 october 1986
+
+a/41/714
+
+s/18403
+
+
+6
+
+remarks and a question-and-answer session by the president of the united states of america, ronald reagan, with broadcast journalists on the meetings in iceland with soviet general secretary gorbachev on 14 october 1986
+
+no data
+
+no data
+
+
+7
+
+remarks by the president of the united states of america, ronald reagan, at a meeting with officials of the state department and the u.s. arms control and disarmament agency on the meetings in iceland with soviet general secretary gorbachev on 14 october 1986
+
+no data
+
+no data
+
+
+8
+
+speech given by the general secretary of the central committee of the communist party of the soviet union, mikhail gorbachev, on soviet television on 22 october 1986
+
+a/41/759
+
+s/18422
+
+see also[edit]
+iceland in the cold war
+list of soviet union–united states summits
+nuclear disarmament
+notes[edit]
+
+
+^ "the reykjavik summit". the reagan vision. retrieved 15 september 2014..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ william e. pemberton, exit with honor: the life and presidency of ronald reagan (1998) pp 193-95.
+
+^ a b james mann, the rebellion of ronald reagan: a history of the end of the cold war (new york: penguin group, 2009), 45.
+
+^ jack f. matlock jr., reagan and gorbachev: how the cold war ended (new york: random house, 2004).
+
+^ garthoff, raymond l. the great transition: american-soviet relations and the end of the cold war. washington, dc: brookings institution, 1994. pp 252-99.
+
+^ https://www.theguardian.com/world/2019/feb/01/inf-donald-trump-confirms-us-withdrawal-nuclear-treaty
+
+^ https://www.theguardian.com/world/2018/oct/20/trump-us-nuclear-arms-treaty-russia
+
+
+references[edit]
+gaddis, john lewis. the united states and the end of the cold war : implications, reconsiderations, provocations (new york: oxford university press, 1992), 128–129.
+garthoff, raymond l. the great transition: american-soviet relations and the end of the cold war (brookings institution, 1994). pp 252-99.
+graebner, norman a., richard dean burns, and joseph m. siracusa. reagan, bush, gorbachev : revisiting the end of the cold war (westport, connecticut: praeger security international, 2008), 93–95.
+matlock jr., jack f. reagan and gorbachev: how the cold war ended (new york: random house, 2004).
+mccauley, martin. russia, america, and the cold war, 1949–1991 (new york: longman, 1998), 69.
+powaski, ronald e.  the cold war: the united states and the soviet union, 1917–1991 (new york: oxford university press, 1998), 254–255.
+external links[edit]
+future of arms control after the iceland summit from the dean peter krogh foreign affairs digital archives
+a conversation with richard perle from the dean peter krogh foreign affairs digital archives
+these previously secret documents from the u.s and soviet archives were added to the national security archive of george washington university in october 2006.
+reykjavík summit: the legacy and a lesson for the future.  by dr. nikolai sokov at the james martin center for nonproliferation studies.  december 2007.
+
+
+
+wikimedia commons has media related to höfði.
+vteronald reagan
+40th president of the united states (1981–1989)
+33rd governor of california (1967–1975)
+life andpolitics
+birthplace
+pitney store
+boyhood home
+rancho del cielo
+filmography
+presidential library
+death and state funeral
+political positions
+governship of california
+reagan era
+presidency
+first inauguration
+second inauguration
+domestic policy
+economic policy
+economic recovery tax act of 1981
+tax reform act of 1986
+assassination attempt
+strategic defense initiative
+foreign policy
+reagan doctrine
+cold war
+1st term
+2nd term
+1985 geneva summit
+1986 reykjavík summit
+inf treaty
+1987 washington summit
+1988 moscow summit
+invasion of grenada
+iran–contra affair
+international trips
+the grace commission
+cabinet
+federal judicial appointments
+supreme court
+controversies
+administration scandals
+"we begin bombing in five minutes"
+speeches
+ronald reagan speaks out against socialized medicine
+"a time for choosing"
+reagan's neshoba county fair "states' rights" speech
+first inaugural address
+second inaugural address
+"ash heap of history"
+"evil empire"
+"tear down this wall!"
+state of the union
+1982
+1983
+1984
+1985
+1986
+1987
+1988
+books
+where's the rest of me? (1965 autobiography with richard g. hubler)
+an american life (1990 autobiography with robert lindsey)
+the reagan diaries (2007, edited by douglas brinkley)
+elections
+california gubernatorial election (1966
+1970)
+republican presidential primaries (1968
+1976
+1980
+1984)
+republican national convention (1968
+1976
+1980
+1984)
+ronald reagan 1980 presidential campaign
+"there you go again"
+"make america great again"
+united states presidential election (1976
+1980
+1984)
+"morning in america"
+"bear in the woods"
+popularculture
+in fiction
+in music
+u.s. postage stamps
+the day reagan was shot (2001 film)
+the reagans (2003 film)
+reagan (2011 documentary)
+the butler (2013 film)
+killing reagan (2016 film)
+"what would reagan do?"
+memorials
+ronald reagan statue, u.s. capitol
+uss ronald reagan (cvn-76)
+namesakes and memorials
+family
+jack reagan (father)
+nelle wilson reagan (mother)
+neil reagan (brother)
+jane wyman (first wife)
+nancy reagan (second wife)
+maureen reagan (daughter)
+michael reagan (adopted son)
+patti davis (daughter)
+ron reagan (son)
+rex (dog)
+
+← jimmy carter
+george h. w. bush →
+ book
+ category
+
+coordinates: 64°08′47″n 21°54′24″w﻿ / ﻿64.14639°n 21.90667°w﻿ / 64.14639; -21.90667
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=reykjavík_summit&oldid=883285383"					
+categories: cold war treatiesforeign relations of the soviet unionhistory of the foreign relations of the united statessoviet union–united states diplomatic conferencesdiplomatic conferences in iceland1986 in iceland1986 conferences1986 in international relations1986 in politics1980s in reykjavíkoctober 1986 events in europeevents in reykjavíkhidden categories: use dmy dates from september 2014commons category link is on wikidatacommons category link is on wikidata using p373coordinates on wikidata 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+danskdeutschespañolfrançais한국어bahasa indonesiaíslenskaitalianoportuguêsрусскийscotssimple englishукраїнська 
+edit links 
+
+
+
+
+
+ this page was last edited on 14 february 2019, at 13:19 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.348","walltime":"0.456","ppvisitednodes":{"value":576,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":34585,"limit":2097152},"templateargumentsize":{"value":563,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":5304,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  359.706      1 -total"," 36.51%  131.314      1 template:reflist"," 33.00%  118.687      1 template:commonscat"," 29.98%  107.847      1 template:cite_web"," 11.02%   39.629      1 template:ronald_reagan"," 10.02%   36.056      1 template:use_dmy_dates","  9.58%   34.469      1 template:navbox","  6.60%   23.752      1 template:coord","  6.08%   21.875      1 template:commons","  5.13%   18.445      1 template:sister_project"]},"scribunto":{"limitreport-timeusage":{"value":"0.163","limit":"10.000"},"limitreport-memusage":{"value":3547108,"limit":52428800}},"cachereport":{"origin":"mw1245","timestamp":"20190215000721","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":563,"wghostname":"mw1245"});});
+
+

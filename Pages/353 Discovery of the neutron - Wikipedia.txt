@@ -1,0 +1,509 @@
+
+
+
+
+discovery of the neutron - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"discovery_of_the_neutron","wgtitle":"discovery of the neutron","wgcurrevisionid":881120550,"wgrevisionid":881120550,"wgarticleid":46190717,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["cs1: long volume value","cs1 german-language sources (de)","cs1 french-language sources (fr)","good articles","neutron"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"discovery_of_the_neutron","wgrelevantarticleid":46190717,"wgrequestid":"xgatewpaicmaadfi1bmaaaaj","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfexpandallsectionsuseroption":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q19720529","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+discovery of the neutron 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+
+
+ james chadwick at the 1933 solvay conference.  chadwick had discovered the neutron the year before while working at cavendish laboratory.
+the discovery of the neutron and its properties was central to the extraordinary developments in atomic physics that occurred in the first half of the 20th century. early in the century, ernest rutherford developed a crude model for the atom,[1]:188 [2] based on the gold foil experiment of hans geiger and ernest marsden. in this model, atoms had their mass and positive electric charge concentrated in a very small nucleus.[3] by 1920 chemical isotopes had been discovered, the atomic masses had been determined to be integer multiples of the mass of the hydrogen atom,[4] and the atomic number had been identified as the charge on the nucleus.[5]:§1.1.2 throughout the 1920s, the nucleus was viewed as composed of combinations of protons and electrons, the two elementary particles known at the time, but that model presented several experimental and theoretical contradictions.[1]:298
+the essential nature of the atomic nucleus was established with the discovery of the neutron by james chadwick in 1932[6] and the determination that it was a new elementary particle, distinct from the proton.[7][8]:55
+the uncharged neutron was immediately exploited as a new means to probe nuclear structure, leading to such discoveries as the creation of new radioactive elements by neutron irradiation (1934) and the fission of uranium atoms by neutrons (1938).[9]  the discovery of fission led to the creation of both nuclear power and weapons by the end of world war ii.  both the proton and neutron were presumed to be elementary particles until the 1960s when they were determined to be composite particles built from quarks.[10]
+
+contents
+
+1 gold foil experiment
+2 discovery of isotopes
+3 atomic number and moseley's law
+4 rutherford atom
+5 problems of the nuclear electrons hypothesis
+6 discovery of the neutron
+7 proton–neutron model of the nucleus
+8 the nature of the neutron
+9 neutron physics in the 1930s
+10 after 1939
+11 videos
+12 references
+13 further reading
+
+
+gold foil experiment[edit]
+see also: atomic theory and plum pudding model
+ a schematic of the nucleus of an atom indicating β− radiation, the emission of a fast electron from the nucleus (the accompanying antineutrino is omitted). in the rutherford model for the nucleus, red spheres were protons with positive charge and blue spheres were protons tightly bound to an electron with no net charge.the inset shows beta decay of a free neutron as it is understood today; an electron and antineutrino are created in this process.
+at the start of the 20th century, the vigorous debate as to the existence of atoms had not yet been resolved. philosophers such as ernst mach and wilhelm ostwald denied that atoms were real, viewing them as a convenient mathematical construct, while scientists such as arnold sommerfeld and ludwig boltzmann saw that physical theories required the existence of atoms.[9]:§1 radioactivity had been recently discovered in uranium and thorium. ernest rutherford had separated radioactivity into three types: alpha, beta, and gamma rays, depending on their ability to penetrate, or travel into, ordinary objects or gases.[11] these radiations were soon identified with known particles: alpha rays were shown to be helium ions by rutherford and thomas royds in 1907;[12] beta rays were shown to be electrons by henri becquerel in 1900; and gamma rays were shown to be electromagnetic radiation, that is, a form of light, in 1914.[1]:62 these radiations had also been identified as emanating from atoms, hence they provided clues as to processes occurring within atoms.  conversely, the radiations were also recognized as tools that could be exploited in scattering experiments to probe the interior of atoms.
+at the university of manchester between 1908 and 1913, rutherford directed hans geiger and ernest marsden in a series of experiments to determine what happens when alpha particles scatter from metal foil. now called the rutherford gold foil experiment, or the geiger–marsden experiment, these measurements made the extraordinary discovery that alpha particles would occasionally scatter to high angle when passing through a thin gold foil. the scattering indicated that the alpha particles were reflecting from a small, but dense, component of atoms. based on these measurements, by 1911 it was apparent to rutherford that the atom consisted of a small massive nucleus with positive charge surrounded by a much larger cloud of negatively charged electrons.[2] the concentrated atomic mass was required to provide the observed reflection of the alpha particles, and rutherford developed a mathematical model that accounted for the scattering.[2]
+the rutherford model was very influential, motivating the bohr model for electrons orbiting the nucleus in 1913[13] and eventually leading to quantum mechanics by the mid-1920s.
+
+discovery of isotopes[edit]
+concurrent with the work of rutherford, geiger, and marsden, the radiochemist frederick soddy at the university of glasgow was studying radioactive decay chains of uranium. soddy had been a student of rutherford. soddy's study indicated about 40 different radioactive elements, referred to as radioelements, between uranium and lead, although the periodic table only allowed for 11 elements.[14] by 1913 soddy had determined that several of these elements had identical chemical properties but different atomic weights. he called these chemically similar elements isotopes.[15][16] for his study of radioactivity and the discovery of isotopes, soddy was awarded the 1921 nobel prize in chemistry.[17]
+
+ replica of aston's third mass spectrometer
+building from work by j. j. thomson on the deflection of positively charged atoms by electric and magnetic fields, francis aston built the first mass spectrograph at the cavendish laboratory in 1919.[4] his aim was to try to separate the two isotopes of neon, which he was able to easily do. aston discovered that the masses of all the particles are whole numbers, called the whole number rule, that is, the masses of all the isotopes are whole number multiples of the mass of the hydrogen atom.[18] aston arbitrarily computed his masses relative to oxygen-16, which he took to have a mass of exactly 16. (today the atomic mass unit (amu) is relative to carbon-12.[19]) ironically, the one exception to this rule was hydrogen itself, which had a mass value of 1.008. the excess mass was small, but well outside experimental uncertainty. aston and others quickly realized that the discrepancy is due to the binding energy of atoms, that is, the mass of a number of hydrogen atoms bound into a single atom must be less than the sum of the masses of the separate hydrogen atoms. additional work determined the nuclide binding energies. aston's work on isotopes garnered him the 1922 nobel prize in chemistry for the discovery of isotopes in a large number of non-radioactive elements, and for his enunciation of the whole-number rule.
+[20] noting aston's recent discovery of nuclear binding energy, in 1920 arthur eddington suggested that stars may obtain their energy by fusing hydrogen (protons) into helium and that the heavier elements may form in stars.[21][22]
+
+atomic number and moseley's law[edit]
+main article: moseley's law
+rutherford and others had noted the disparity between the mass of an atom, computed in atomic mass units, and the approximate charge required on the nucleus for the rutherford model to work. the required charge of the atomic nucleus was usually about half its atomic mass.  in 1911 antonius van den broek made the then bold suggestion that the required charge, denoted z, was not half of the atomic weight for elements, but instead was exactly equal to the element's atomic number, or place in the periodic table.[1]:5 at that time the positions of the elements in the table were not known to have any physical significance, except as a way to order the elements in particular sequences with similar chemical properties.
+at the university of manchester in 1913 henry moseley discussed the new bohr model of the atom with the visiting bohr.[23]  the model accounted for the electromagnetic emission spectrum from the hydrogen atom, and moseley wondered if the electromagnetic emission spectra of heavier elements such as cobalt and nickel would follow their ordering by weight, or by their position in the periodic table. in 1913-1914 moseley tested the question experimentally by using x-ray diffraction techniques.  he found that the most intense short-wavelength line in the x-ray spectrum of a particular element, known as the k-alpha line, was related to the element's position in the periodic table, that is, its atomic number, z. indeed, moseley introduced  this nomenclature.[5]:§1.1.2  moseley found that the frequencies of the radiation were related in a simple way to the atomic number of the elements for a large number of elements.[24]
+within a year it was noted that the equation for the relation, now called moseley's law, could be explained in terms of the 1913 bohr model, with reasonable extra assumptions about atomic structure in other elements. moseley's result, by bohr's later account, not only established atomic number as a measurable experimental quantity, but gave it a physical meaning as the positive charge on the atomic nucleus. the elements could be ordered in the periodic system in order of atomic number, rather than atomic weight. the result tied together the organization of the periodic table, the bohr model for the atom, and rutherford's model for alpha scattering from nuclei. it was cited by rutherford, bohr, and others as a critical advance in understanding the nature of the atomic nucleus.[25]
+further research in atomic physics was interrupted by the outbreak of world war i. moseley was killed in 1915 at the battle of gallipoli,[26] while rutherford's student james chadwick was interned in germany for the duration of the war, 1914-1918.[27]  in berlin, lise meitner and otto hahn's work on determining the radioactive decay chains of radium and uranium by precise chemical separation was interrupted.[9]:§4 meitner spent much of the war working as a radiologist and medical x-ray technician near the austrian front, while hahn, a chemist, worked on research in poison gas warfare.
+
+rutherford atom[edit]
+ ernest rutherford
+see also: discovery of the proton
+in 1920 rutherford gave a bakerian lecture at the royal society entitled the "nuclear constitution of atoms", a summary of what was then known about the nucleus of the atom.[28][8]:23 by 1920, the existence of electrons within the atomic nucleus was widely assumed.  it was assumed the nucleus consisted of hydrogen nuclei in number equal to the atomic mass.  but since each hydrogen had charge +1, the nucleus required a smaller number of "internal electrons" each of charge -1 to give the nucleus its correct total charge. the mass of protons is about 1800 times greater than that of electrons, so the mass of the electrons is incidental in this computation.  such a model was consistent with the scattering of alpha particles from heavy nuclei, as well as the charge and mass of the many isotopes that had been identified.  there were other motivations for the proton–electron model. as noted by rutherford at the time, "we have strong reason for believing that the nuclei of atoms contain electrons as well as positively charged bodies...",[28] namely, it was known that beta radiation was electrons emitted from the nucleus.[8]:21
+in that lecture, rutherford conjectured the existence of new particles.  the alpha particle was known to be very stable, and it was assumed to retain its identity within the nucleus.  the alpha particle was presumed to consist of four protons and two closely bound electrons to give it +2 charge and mass 4.  in a 1919 paper,[29] rutherford had reported the apparent discovery of a new doubly charged particle of mass 3, denoted the x++, interpreted to consist of three protons and a closely bound electron.  this result suggested to rutherford the likely existence of two new particles, one of two protons with a closely bound electron, and another of one proton and a closely bound electron.  the x++ particle was later determined to have mass 4 and to be just a low-energy alpha particle.[8]:25 nevertheless, rutherford had conjectured[28] the existence of the neutron, a neutral particle of mass 1, and the deuteron, a +1 charge particle of mass 2.  the latter is the nucleus of deuterium, discovered in 1931 by harold urey.[30] the mass of the hypothetical neutral particle would be little different from that of the proton. rutherford determined that such a zero-charge particle would be difficult to detect by available techniques.
+by 1921 rutherford had named the uncharged particle the neutron,[31] while about that same time the word proton was adopted for the hydrogen nucleus.[32]  neutron was apparently constructed from the latin root for neutral and the greek ending -on (by imitation of electron and proton).[33][34] references to the word neutron in connection with the atom can be found in the literature as early as 1899, however.[35]
+rutherford and chadwick immediately began an experimental program to search for the neutron at the cavendish laboratory in cambridge.[31][8]:27  the experiments continued throughout the 1920s without success.[6]
+rutherford's conjecture was not widely accepted.  in his 1931 textbook on the constitution of atomic nuclei and radioactivity, george gamow, then at the institute for theoretical physics in copenhagen, did not mention the neutron.[36]  at the time of their 1932 measurements in paris that would lead to the discovery of the neutron, irène joliot-curie and frédéric joliot were unaware of the conjecture.[37]
+
+problems of the nuclear electrons hypothesis[edit]
+throughout the 1920s, physicists assumed that the atomic nucleus was composed of protons and "nuclear electrons".[8]:29–32[38][39] under this hypothesis, the nitrogen-14 (14n) nucleus would be composed of 14 protons and 7 electrons, so that it would have a net charge of +7 elementary charge units and a mass of 14 atomic mass units. the nucleus was also orbited by another 7 electrons, termed "external electrons" by rutherford,[28] to complete the 14n atom. obvious problems with the hypothesis became apparent, however.
+ralph kronig pointed out in 1926 that the observed hyperfine structure of atomic spectra was inconsistent with the proton–electron hypothesis. this structure is caused by the influence of the nucleus on the dynamics of orbiting electrons. the magnetic moments of supposed "nuclear electrons" should produce hyperfine spectral line splittings similar to the zeeman effect, but no such effects were observed.[40][8]:34  it appeared as if the magnetic moment of the electron disappeared when it was within the nucleus.
+observations of the energy levels of molecules by franco rasetti in 1929 were inconsistent with the nuclear spin expected from proton–electron hypothesis.[8]:35[41] molecular raman spectroscopy of dinitrogen (14n2) showed that transitions originating from even-numbered rotational levels are more intense than those from odd levels, hence the even levels are more populated.[1] according to quantum mechanics and the pauli exclusion principle, the spin of the 14n nucleus is therefore an integer multiple of ħ (the reduced planck constant).[42][43] yet both protons and electrons carry an intrinsic spin of ½ ħ, and there is no way to arrange an odd number (14 protons + 7 electrons = 21) of spins ±½ ħ to give a spin that is an integer multiple of ħ.
+the klein paradox,[44] discovered by oskar klein in 1928, presented further quantum mechanical objections to the notion of an electron confined within a nucleus.[40] derived from the dirac equation, this clear and precise paradox showed that a high-energy electron approaching a potential barrier has a high probability of passing through the barrier. apparently, an electron could not be confined within a nucleus by any potential well. the meaning of this paradox was intensely debated at the time.[40]
+by about 1930 it was generally recognized that it was difficult to reconcile the proton–electron model for nuclei with the heisenberg uncertainty relation of quantum mechanics.[40][1]:299 this relation, δx⋅δp ≥ ½ħ, implies that an electron confined to a region the size of an atomic nucleus has an expected kinetic energy of 10–100 mev.[1][45][46] this energy is larger than the observed energy of beta particles emitted from the nucleus.[1] the expected electron energy is also larger than the binding energy of nucleons, which aston and others had shown to be less than 9 mev per nucleon.[47]
+while all these considerations did not "prove" an electron could not exist in the nucleus, they were challenging for physicists to interpret. in his 1931 textbook, gamow summarized all these contradictions.  adding to the confusion in interpretation, the continuous energy distribution of beta decay electrons seemed to indicate that energy was not conserved by this "nuclear electrons" process.  indeed, bohr, gamow, heisenberg and others considered the possibility that the laws of quantum mechanics were not applicable inside the nucleus.[8]:40[36] such considerations were apparently reasonable, inasmuch as the laws of quantum mechanics had so recently overturned the laws of classical mechanics.  the contradictions were mysterious and troublesome,[38] until it was realized that there are no electrons in the nucleus.
+
+discovery of the neutron[edit]
+in 1930, walther bothe and herbert becker in giessen, germany found that if the energetic alpha particles emitted from polonium fell on certain light elements, specifically beryllium (94be), boron (115b), or lithium (73li), an unusually penetrating radiation was produced. beryllium produced the most intense radiation.  polonium is highly radioactive, producing energetic alpha radiation, and it was commonly used for scattering experiments at the time.[36]:99–110 alpha radiation can be influenced by an electric field, because it is composed of charged particles.  the observed penetrating radiation was not influenced by an electric field, however, so it was thought to be gamma radiation. the radiation was more penetrating than any gamma rays known, and the details of experimental results were difficult to interpret.[48][49][36]
+
+ a schematic diagram of the experiment used to discover the neutron in 1932. at left, a polonium source was used to irradiate beryllium with alpha particles, which induced an uncharged radiation. when this radiation struck paraffin wax, protons were ejected. the protons were observed using a small ionization chamber. adapted from chadwick (1932).[6]
+two years later irène joliot-curie and frédéric joliot in paris showed that if this unknown radiation fell on paraffin wax, or any other hydrogen-containing compound, it ejected protons of very high energy (5 mev).[50] this observation was not in itself inconsistent with the assumed gamma ray nature of the new radiation, but that interpretation (compton scattering) had a logical problem.  from energy and momentum considerations, a gamma ray would have to have impossibly high energy (50 mev) to scatter a massive proton.[5]:§1.3.1 in rome, the young physicist ettore majorana declared that the manner in which the new radiation interacted with
+protons required a new neutral particle.[51]
+on hearing of the paris results, neither rutherford nor james chadwick at the cavendish laboratory believed the gamma ray hypothesis.[52] assisted by norman feather,[53] chadwick quickly performed a series of experiments showing that the gamma ray hypothesis was untenable. the previous year, chadwick, j.e.r. constable, and e.c. pollard had already conducted experiments on disintegrating light elements using alpha radiation from polonium.[54] they had also developed more accurate and efficient methods for detecting, counting, and recording the ejected protons. chadwick repeated the creation of the radiation using beryllium and aimed the radiation at paraffin following the paris experiment. paraffin wax is a hydrocarbon high in hydrogen content, hence offers a target dense with protons; since neutrons and protons have almost equal mass, protons scatter energetically from neutrons. chadwick measured the range of these protons, and also measured how the new radiation impacted the atoms of various gases.[55] he found that the new radiation consisted of not gamma rays, but uncharged particles with about the same mass as the proton. these particles were neutrons.[56][6][57][15] chadwick won the nobel prize in physics for this discovery in 1935.[58]
+the year 1932 was later referred to as the "annus mirabilis" for nuclear physics in the cavendish laboratory,[55] with discoveries of the neutron, artificial nuclear disintegration by the cockcroft–walton particle accelerator, and the positron.
+
+proton–neutron model of the nucleus[edit]
+ models depicting the nucleus and electron energy levels in hydrogen, helium, lithium, and neon atoms. in reality, the diameter of the nucleus is about 100,000 times smaller than the diameter of the atom.
+given the problems of the proton–electron model,[38][39] it was quickly accepted that the atomic nucleus is composed of protons and neutrons, although the precise nature of the neutron was initially unclear. within months after the discovery of the neutron, werner heisenberg[59][60][61][15] and dmitri ivanenko[62] had proposed proton–neutron models for the nucleus.[63] heisenberg's landmark papers approached the description of protons and neutrons in the nucleus through quantum mechanics. while heisenberg's theory for protons and neutrons in the nucleus was a "major step toward understanding the nucleus as a quantum mechanical system,"[64] he still assumed the presence of nuclear electrons. in particular, heisenberg assumed the neutron was a proton–electron composite, for which there is no quantum mechanical explanation. heisenberg had no explanation for how lightweight electrons could be bound within the nucleus. heisenberg introduced the first theory of nuclear exchange forces that bind the nucleons. he considered protons and neutrons to be different quantum states of the same particle, i.e., nucleons distinguished by the value of their nuclear isospin quantum numbers.
+the proton–neutron model explained the puzzle of dinitrogen. when 14n was proposed to consist of 3 pairs each of protons and neutrons, with an additional unpaired neutron and proton each contributing a spin of ​1⁄2 ħ in the same direction for a total spin of 1 ħ, the model became viable.[65][66][67] soon, neutrons were used to naturally explain spin differences in many different nuclides in the same way.
+if the proton–neutron model for the nucleus resolved many issues, it highlighted the problem of explaining the origins of beta radiation. no existing theory could account for how electrons, or positrons,[68] could emanate from the nucleus. in 1934, enrico fermi published his classic paper describing the process of beta decay, in which the neutron decays to a proton by creating an electron and a (as yet undiscovered) neutrino.[69] the paper employed the analogy that photons, or electromagnetic radiation, were similarly created and destroyed in atomic processes. ivanenko had suggested a similar analogy in 1932.[65][70] fermi's theory requires the neutron to be a spin-½ particle. the theory preserved the principle of conservation of energy, which had been thrown into question by the continuous energy distribution of beta particles. the basic theory for beta decay proposed by fermi was the first to show how particles could be created and destroyed. it established a general, basic theory for the interaction of particles by weak or strong forces.[69] while this influential paper has stood the test of time, the ideas within it were so new that when it was first submitted to the journal nature in 1933 it was rejected as being too speculative.[64]
+
+the nature of the neutron[edit]
+ seventh solvay conference, 1933.
+the question of whether the neutron was a composite particle of a proton and an electron persisted for a few years after its discovery.[71][72] in 1932 harrie massey explored a model for a composite neutron to account for its great penetrating power through matter and its electrical neutrality,[73] for example. the issue was a legacy of the prevailing view from the 1920s that the only elementary particles were the proton and electron. the nature of the neutron was a primary topic of discussion at the 7th solvay conference held in october 1933, attended by heisenberg, niels bohr, lise meitner, ernest lawrence, fermi, chadwick, and others.[64][74] as posed by chadwick in his bakerian lecture in 1933, the primary question was the mass of the neutron relative to the proton. if the neutron's mass was less than the combined masses of a proton and an electron (7000100780000000000♠1.0078 u), then the neutron could be a proton-electron composite because of the mass defect from the binding energy. if greater than the combined masses, then the neutron was elementary like the proton.[57] the question was challenging to answer because the electron's mass is only 0.05% of the proton's, hence exceptionally precise measurements were required.
+the difficulty of making the measurement is illustrated by the wide-ranging values for the mass of the neutron obtained from 1932-1934. the accepted value today is 7000100865999999999♠1.00866 u. in chadwick's 1932 paper reporting on the discovery, he estimated the mass of the neutron to be between 7000100499999999999♠1.005 u and 7000100800000000000♠1.008 u.[52] by bombarding boron with alpha particles, frédéric and irène joliot-curie obtained a high value of 7000101200000000000♠1.012 u, while ernest lawrence's team at the university of california measured the small value 7000100060000000000♠1.0006 u using their new cyclotron.[75]
+in 1935 chadwick and his doctoral student maurice goldhaber resolved the issue by reporting the first accurate measurement of the mass of the neutron. they used the 2.6 mev gamma rays of thallium-208 (208tl) (then known as thorium c") to photodisintegrate the deuteron[76]
+
+
+
+21d 
++ 
+γ 
+→ 
+11h 
++ 
+n
+
+in this reaction, the resulting proton and neutron have about equal kinetic energy, since their masses are about equal.  the kinetic energy of the resulting proton could be measured (0.24 mev), and therefore the deuteron's binding energy could be determined (2.6 mev - 2(0.24 mev) = 2.1 mev, or 6997230000000000000♠0.0023 u). the neutron's mass could then be determined by the simple mass balance
+
+
+
+md 
++ 
+b.e. 
+= 
+mp 
++ 
+mn
+
+where md,p,n refer to the deuteron, proton, or neutron mass, and "b.e." is the binding energy. the masses of the deuteron and proton were known; chadwick and goldhaber used values 2.0142 u and 1.0081 u, respectively.  they found that the neutron's mass was slightly greater than the mass of the proton 7000100840000000000♠1.0084 u or 7000100899999999999♠1.0090 u, depending on the precise value used for the deuteron mass.[7] the mass of the neutron was too large to be a proton-electron composite, and the neutron was therefore identified as an elementary particle.[52]  ironically, in support of fermi's theory, chadwick and goldhaber predicted that a free neutron would be able to decay into a proton, electron, and neutrino (beta decay).
+
+neutron physics in the 1930s[edit]
+see also: neutron magnetic moment, enrico fermi, lise meitner, and otto hahn
+soon after the discovery of the neutron, indirect evidence suggested the neutron had an unexpected non-zero value for its magnetic moment. attempts to measure the neutron's magnetic moment originated with the discovery by otto stern in 1933 in hamburg that the proton had an anomalously large magnetic moment.[77][78] by 1934 groups led by stern, now in pittsburgh, and i. i. rabi in new york had independently deduced that the magnetic moment of the neutron was negative and unexpectedly large by measuring the magnetic moments of the proton and deuteron.[72][79][80][81][82] values for the magnetic moment of the neutron were also determined by robert bacher[83] (1933) at ann arbor and i.y. tamm and s.a. altshuler[72][84] (1934) in the soviet union from studies of the hyperfine structure of atomic spectra. by the late 1930s accurate values for the magnetic moment of the neutron had been deduced by the rabi group using measurements employing newly developed nuclear magnetic resonance techniques.[82] the large value for the proton's magnetic moment and the inferred negative value for the neutron's magnetic moment were unexpected and raised many questions.[72]
+
+ fermi and his students (the via panisperna boys) in the courtyard of rome university's physics institute in via panisperna, about 1934. from left to right: oscar d'agostino, emilio segrè, edoardo amaldi, franco rasetti and fermi
+the discovery of the neutron immediately gave scientists a new tool for probing the properties of atomic nuclei. alpha particles had been used over the previous decades in scattering experiments, but such particles, which are helium nuclei, have +2 charge. this charge makes it difficult for alpha particles to overcome the coulomb repulsive force and interact directly with the nuclei of atoms. since neutrons have no electric charge, they do not have to overcome this force to interact with nuclei. almost coincident with its discovery, neutrons were used by norman feather, chadwick's colleague and protege, in scattering experiments with nitrogen.[85] feather was able to show that neutrons interacting with nitrogen nuclei scattered to protons or induced nitrogen to disintegrate to form boron with the emission of an alpha particle. feather was therefore the first to show that neutrons produce nuclear disintegrations.
+in rome, enrico fermi bombarded heavier elements with neutrons and found the products to be radioactive. by 1934 fermi had used neutrons to induce radioactivity in 22 different elements, many of these elements of high atomic number. noticing that other experiments with neutrons at his laboratory seemed to work better on a wooden table than a marble table, fermi suspected that the protons of the wood were slowing the neutrons and so increasing the chance for the neutron to interact with nuclei. fermi therefore passed neutrons through paraffin wax to slow them and found that the radioactivity of bombarded elements increased by a hundredfold. the cross section for interaction with nuclei is much larger for slow neutrons than for fast neutrons. in 1938 fermi received the nobel prize in physics "for his demonstrations of the existence of new radioactive elements produced by neutron irradiation, and for his related discovery of nuclear reactions brought about by slow neutrons".[86][87]
+
+ lise meitner and otto hahn in their laboratory in 1913.[9]
+ nuclear fission caused by absorption of a neutron by uranium-235. the heavy nuclide fragments into lighter components and additional neutrons.
+in berlin, the collaboration of lise meitner and otto hahn, together with their assistant fritz strassmann, furthered the research begun by fermi and his team when they bombarded uranium with neutrons. between 1934 and 1938, hahn, meitner, and strassmann found a great number of radioactive transmutation products from these experiments, all of which they regarded as transuranic.[88] transuranic nuclides are those that have an atomic number greater than uranium (92), formed by neutron absorption; such nuclides are not naturally occurring. in july 1938, meitner was forced to escape antisemitic persecution in nazi germany after the anschluss, and she was able to secure a new position in sweden. the decisive experiment on 16–17 december 1938 (using a chemical process called "radium–barium–mesothorium fractionation") produced puzzling results: what they had understood to be three isotopes of radium were instead consistently behaving as barium.[9] radium (atomic number 88) and barium (atomic number 56) are in the same chemical group.  by january 1939 hahn had concluded that what they had thought were transuranic nuclides were instead much lighter nuclides, such as barium, lanthanum, cerium and light platinoids. meitner and her nephew otto frisch immediately and correctly interpreted these observations as resulting from nuclear fission, a term coined by frisch.[89] hahn and his collaborators had detected the splitting of uranium nuclei, made unstable by neutron absorption, into lighter elements. meitner and frisch also showed that the fission of each uranium atom would release about 200 mev of energy. the discovery of fission electrified the global community of atomic physicists and the public.[9]  in their second publication on nuclear fission, hahn and strassmann predicted the existence and liberation of additional neutrons during the fission process.[90] frédéric joliot and his team proved this phenomenon to be a chain reaction in march 1939. in 1945 hahn received the 1944 nobel prize in chemistry "for his discovery of the fission of heavy atomic nuclei."[91][92]
+
+after 1939[edit]
+ the trinity test of the manhattan project in 1945 was the first atomic bomb.
+see also: chicago pile-1 and timeline of particle discoveries
+the discovery of nuclear fission at the end of 1938 marked a shift in the centers of nuclear research from europe to the united states. large numbers of scientists were migrating to the united states to escape the troubles and antisemitism in europe and the looming war[93]:407–410 (see jewish scientists and the manhattan project). the new centers of nuclear research were the universities in the united states, particularly columbia university in new york and the university of chicago where enrico fermi had relocated,[94][95] and a secret research facility at los alamos, new mexico, established in 1942, the new home of the manhattan project.[96] this wartime project was focussed on the construction of nuclear weapons, exploiting the enormous energy released by the fission of uranium or plutonium through neutron-based chain reactions.
+the discoveries of the neutron and positron in 1932 were the start of the discoveries of many new particles.  muons were discovered in 1936.  pions and kaons were discovered in 1947, while lambda particles were discovered in 1950.  throughout the 1950s and 1960s, a large number of particles called hadrons were discovered.  a classification scheme for organizing all these particles, proposed independently by murray gell-mann[97] and
+george zweig[98][99] in 1964, became known as the quark model. by this model, particles such as the proton and neutron were not elementary, but composed of various configurations of a small number of other truly elementary particles called partons or quarks. the quark model received experimental verification beginning in the late 1960s and finally provided an explanation for the neutron's anomalous magnetic moment.[100][10]
+
+
+videos[edit]
+ernest rutherford summarizes the state of nuclear physics in 1935. (7 min., nobelprize.org)
+hans bethe discusses chadwick and goldhaber's work on deuteron disintegration. (2 min., web of stories)
+references[edit]
+
+
+^ a b c d e f g h pais, abraham (1986). inward bound. oxford: oxford university press. isbn 978-0198519973..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ a b c rutherford, e. (1911). "the scattering of α and β particles by matter and the structure of the atom". philosophical magazine. series 6 (21): 669–688. doi:10.1080/14786440508637080. retrieved 15 november 2017.
+
+^ longair, m.s. (2003). theoretical concepts in physics: an alternative view of theoretical reasoning in physics. cambridge university press. pp. 377–378. isbn 978-0-521-52878-8.
+
+^ a b squires, gordon (1998). "francis aston and the mass spectrograph". dalton transactions. 0 (23): 3893–3900. doi:10.1039/a804629h. retrieved 6 december 2007.
+
+^ a b c byrne, j. neutrons, nuclei, and matter, dover publications, mineola, new york, 2011, isbn 0486482383
+
+^ a b c d chadwick, james (1932). "existence of a neutron". proceedings of the royal society a. 136 (830): 692–708. bibcode:1932rspsa.136..692c. doi:10.1098/rspa.1932.0112.
+
+^ a b chadwick, j.; goldhaber, m. (1935). "a nuclear photoelectric effect". proceedings of the royal society a. 151 (873): 479–493. bibcode:1935rspsa.151..479c. doi:10.1098/rspa.1935.0162.
+
+^ a b c d e f g h i stuewer, roger h. (1983). "the nuclear electron hypothesis".  in shea, william r. otto hahn and the rise of nuclear physics. dordrecht, holland: d. riedel publishing company. pp. 19–67. isbn 978-90-277-1584-5.
+
+^ a b c d e f rife, patricia (1999). lise meitner and the dawn of the nuclear age. basel, switzerland: birkhäuser. isbn 978-0-8176-3732-3.
+
+^ a b perkins, donald h. (1982), introduction to high energy physics, addison wesley, reading, massachusetts, pp. 201–202, isbn 978-0-201-05757-7
+
+^ rutherford distinguished and named α and β rays on page 116 of: rutherford, e. (1899) "uranium radiation and the electrical conduction produced by it," philosophical magazine, series 5, vol. 47, no. 284, 109–163. rutherford named γ rays on page 177 of: rutherford, e. (1903) "the magnetic and electric deviation of the easily absorbed rays from radium," philosophical magazine, series 6, vol. 5, no. 26, 177–187.
+
+^ rutherford, e.; royds, t. (1908) "spectrum of the radium emanation," philosophical magazine, series 6, vol. 16, 313–317.
+
+^ bohr, n. (1913). "on the constitution of atoms and molecules, part i" (pdf). philosophical magazine. 26 (151): 1–24. doi:10.1080/14786441308634955.
+
+^ choppin, g.; liljenzin, j.o.; rydberg, j. (1995). radiochemistry and nuclear chemistry. (2nd ed.) oxford: butterworth-heinemann, pp. 3–5, isbn 9781483293462
+
+^ a b c ley, willy (october 1966). "the delayed discovery". for your information. galaxy science fiction. pp. 116–127.
+
+^ others had also suggested the possibility of isotopes; for example:
+strömholm, d. and svedberg, t. (1909) "untersuchungen über die chemie der radioactiven grundstoffe ii." (investigations into the chemistry of the radioactive elements, part 2), zeitschrift für anorganischen chemie, 63: 197–206; see especially page 206.
+cameron, alexander thomas (1910). radiochemistry. london, england: j. m. dent & sons, p. 141. (cameron also anticipated the displacement law.)
+
+^ "the nobel prize in chemistry 1921: frederick soddy – biographical". nobelprize.org. retrieved 16 march 2014.
+
+^ hevesy, g. (1948). "francis william aston. 1877–1945". obituary notices of fellows of the royal society. 5 (16): 634–650. doi:10.1098/rsbm.1948.0002. jstor 768761.
+
+^ "atomic weights and the international committee — a historical review". 26 january 2004.
+
+^ "the nobel prize in chemistry 1922: francis w. aston – biographical". nobelprize.org. retrieved 18 november 2017.
+
+^ eddington, a. s. (1920). "the internal constitution of the stars". the observatory. 43: 341. bibcode:1920obs....43..341e.
+
+^ eddington, a. s. (1920). "the internal constitution of the stars". nature. 106 (2653): 14. bibcode:1920natur.106...14e. doi:10.1038/106014a0.
+
+^ heilbron, j. l., h.g.j. moseley: the life and letters of an english physicist, 1887-1915, university of california press, 1974, isbn 0520023757
+
+^ moseley, henry g. j. (1913). "the high frequency spectra of the elements". philosophical magazine. 26 (156): 1024–1034. doi:10.1080/14786441308635052.
+
+^ "oral history interview: niels bohr, session i". american institute of physics, niels bohr library and archives. 31 october 1962. retrieved 25 october 2017.
+
+^ reynosa, peter (7 january 2016). "an ode to henry moseley". huffington post. retrieved 16 november 2017.
+
+^ "this month in physics history: may 1932: chadwick reports the discovery of the neutron". aps news. 16 (5). 2007. retrieved 16 november 2017.
+
+^ a b c d rutherford, e. (1920). "bakerian lecture: nuclear constitution of atoms" (pdf). proceedings of the royal society a. 97 (686): 374–400. bibcode:1920rspsa..97..374r. doi:10.1098/rspa.1920.0040.
+
+^ rutherford, e. (1919). "collision of α particles with light atoms". philosophical magazine. 37: 571.
+
+^ urey, h.; brickwedde, f.; murphy, g. (1932). "a hydrogen isotope of mass 2". physical review. 39 (1): 164–165. bibcode:1932phrv...39..164u. doi:10.1103/physrev.39.164.
+
+^ a b glasson, j.l. (1921). "attempts to detect the presence of neutrons in a discharge tube". philosophical magazine. 42 (250): 596. doi:10.1080/14786442108633801.
+
+^ rutherford reported acceptance by the british association of the word proton for the hydrogen nucleus in a footnote to masson, o. (1921). "xxiv. the constitution of atoms". philosophical magazine. series 6. 41 (242): 281–285. doi:10.1080/14786442108636219.
+
+^ pauli, w. (1985). "das jahr 1932 die entdeckung des neutrons". wolfgang pauli wissenschaftlicher briefwechsel mit bohr, einstein, heisenberg u.a. sources in the history of mathematics and physical sciences. 6. p. 105. doi:10.1007/978-3-540-78801-0_3. isbn 978-3-540-13609-5.
+
+^ hendry, john, ed. (1984-01-01), cambridge physics in the thirties, bristol: adam hilger ltd (published 1984), isbn 978-0852747612
+
+^ feather, n. (1960). "a history of neutrons and nuclei. part 1". contemporary physics. 1 (3): 191–203. bibcode:1960conph...1..191f. doi:10.1080/00107516008202611.
+
+^ a b c d gamow g. (1931) constitution of atomic nuclei and radiation, oxford: clarendon press
+
+^ crowther, j.g. (1971). "rutherford the great". new scientist and science journal. 51 (3): 464–466. retrieved 27 september 2017.
+
+^ a b c brown, laurie m. (1978). "the idea of the neutrino". physics today. 31 (9): 23. bibcode:1978pht....31i..23b. doi:10.1063/1.2995181.
+
+^ a b friedlander, g.; kennedy, j.w.; miller, j.m. (1964) nuclear and radiochemistry (2nd edition), wiley, pp. 22–23 and 38–39
+
+^ a b c d stuewer, roger h. (1985). "niels bohr and nuclear physics".  in french, a. p.; kennedy, p. j. niels bohr: a centenary volume. harvard university press. pp. 197–220. isbn 978-0674624160.
+
+^ interview with franco rasetti judith r. goodstein, caltech oral history project (1982)
+
+^ atkins, p.w.; j. de paula, p.w. (2006) "atkins' physical chemistry" (8th edition), w.h. freeman, p. 451
+
+^ herzberg, g. (1950) spectra of diatomic molecules (2nd edition), van nostrand reinhold, pp. 133–140
+
+^ klein, o. (1929). "die reflexion von elektronen an einem potentialsprung nach der relativistischen dynamik von dirac". zeitschrift für physik. 53 (3–4): 157. bibcode:1929zphy...53..157k. doi:10.1007/bf01339716.
+
+^ shultis, j. kenneth; faw, richard e. (2007-11-01), fundamentals of nuclear science and engineering, crc, 2nd edition (published 2007), isbn 978-1420051360
+
+^ in a nucleus of diameter r in the order of 10 fm, the uncertainty principle would require an electron to have a momentum p of the order of h/r. such a momentum implies that the electron has a (relativistic) kinetic energy of 10–100 mev.
+
+^ aston, f. w. (1927). "bakerian lecture - a new mass-spectrograph and the whole number rule". proceedings of the royal society a. 115 (772): 487–514. bibcode:1927rspsa.115..487a. doi:10.1098/rspa.1927.0106.
+
+^ bothe, w.; becker, h. (1930). "künstliche erregung von kern-γ-strahlen" [artificial excitation of nuclear γ-radiation]. zeitschrift für physik (in german). 66 (5–6): 289. bibcode:1930zphy...66..289b. doi:10.1007/bf01390908.
+
+^ becker, h.; bothe, w. (1932). "die in bor und beryllium erregten γ-strahlen" [γ-rays excited in boron and beryllium]. zeitschrift für physik (in german). 76 (7–8): 421. bibcode:1932zphy...76..421b. doi:10.1007/bf01336726.
+
+^ joliot-curie, irène; joliot, frédéric (1932). "émission de protons de grande vitesse par les substances hydrogénées sous l'influence des rayons γ très pénétrants" [emission of high-speed protons by hydrogenated substances under the influence of very penetrating γ-rays]. comptes rendus des séances de l'académie des sciences (in french). 194: 273.
+
+^ zichichi, a., ettore majorana: genius and mystery, cern courier, 25 july 2006, access date: 16 november 2017.
+
+^ a b c brown, a. (1997). the neutron and the bomb: a biography of sir james chadwick. oxford university press. isbn 9780198539926.
+
+^ "oral history interview: norman feather, session i". american institute of physics, niels bohr library and archives. 25 february 1971. retrieved 16 november 2017.
+
+^ chadwick, j.; constable, j.e.r.; pollard, e.c. (1931). "artificial disintegration by α-particles". proceedings of the royal society a. 130 (814): 463–489. bibcode:1931rspsa.130..463c. doi:10.1098/rspa.1931.0017. retrieved 14 november 2017.
+
+^ a b "atop the physics wave: rutherford back in cambridge, 1919–1937". rutherford's nuclear world. american institute of physics. 2011–2014. retrieved 19 august 2014.
+
+^ chadwick, james (1932). "possible existence of a neutron". nature. 129 (3252): 312. bibcode:1932natur.129q.312c. doi:10.1038/129312a0.
+
+^ a b chadwick, j. (1933). "bakerian lecture.–the neutron". proceedings of the royal society a. 142 (846): 1–25. bibcode:1933rspsa.142....1c. doi:10.1098/rspa.1933.0152.
+
+^ "the nobel prize in physics 1935: james chadwick – biographical". nobel foundation. retrieved 18 november 2017.
+
+^ heisenberg, w. (1932). "über den bau der atomkerne. i". zeitschrift für physik. 77 (1–2): 1–11. bibcode:1932zphy...77....1h. doi:10.1007/bf01342433.
+
+^ heisenberg, w. (1932). "über den bau der atomkerne. ii". zeitschrift für physik. 78 (3–4): 156–164. bibcode:1932zphy...78..156h. doi:10.1007/bf01337585.
+
+^ heisenberg, w. (1933). "über den bau der atomkerne. iii". zeitschrift für physik. 80 (9–10): 587–596. bibcode:1933zphy...80..587h. doi:10.1007/bf01335696.
+
+^ iwanenko, d.d., the neutron hypothesis, nature 129 (1932) 798.
+
+^ miller a. i. early quantum electrodynamics: a sourcebook, cambridge university press, cambridge, 1995, isbn 0521568919, pp. 84–88.
+
+^ a b c brown, l.m.; rechenberg, h. (1996). the origin of the concept of nuclear forces. bristol and philadelphia: institute of physics publishing. isbn 978-0750303736.
+
+^ a b iwanenko, d. (1932). "sur la constitution des noyaux atomiques". comptes rendus de l'académie des sciences de paris. 195: 439–441.
+
+^ bacher, r.f.; condon, e.u. (1932). "the spin of the neutron". physical review. 41 (5): 683–685. bibcode:1932phrv...41..683g. doi:10.1103/physrev.41.683.
+
+^ whaling, w. (2009). "robert f. bacher 1905–2004" (pdf). biographical memoirs of the national academy of sciences. archived (pdf) from the original on 2014-05-31.
+
+^ bethe, h.; peierls, r. (1934). "the neutrino". nature. 133 (3362): 532–533. bibcode:1934natur.133..532b. doi:10.1038/133532a0.
+
+^ a b wilson, fred l. (1968). "fermi's theory of beta decay". am. j. phys. 36 (12): 1150–1160. bibcode:1968amjph..36.1150w. doi:10.1119/1.1974382.
+
+^ iwanenko, d. (1932). "neutronen und kernelektronen". physikalische zeitschrift der sowjetunion. 1: 820–822.
+
+^ kurie, f.n.d. (1933). "the collisions of neutrons with protons". physical review. 44 (6): 463. bibcode:1933phrv...44..463k. doi:10.1103/physrev.44.463.
+
+^ a b c d breit, g.; rabi, i.i. (1934). "on the interpretation of present values of nuclear moments". physical review. 46 (3): 230. bibcode:1934phrv...46..230b. doi:10.1103/physrev.46.230.
+
+^ massey, h.s.w. (1932). "the passage of neutrons through matter". proceedings of the royal society a. 138 (835): 460–469. bibcode:1932rspsa.138..460m. doi:10.1098/rspa.1932.0195.
+
+^ sime, r.l. (1996). lise meitner: a life in physics. university of california press. isbn 978-0520089068.
+
+^ seidel, r.w. (1989). lawrence and his laboratory: a history of the lawrence berkeley laboratory. university of california press. isbn 9780520064263.
+
+^ chadwick, j.; goldhaber, m. (1934). "a nuclear photo-effect: disintegration of the diplon by gamma rays". nature. 134 (3381): 237–238. bibcode:1934natur.134..237c. doi:10.1038/134237a0.
+
+^ frisch, r.; stern, o. (1933). "über die magnetische ablenkung von wasserstoffmolekülen und das magnetische moment des protons. i / magnetic deviation of hydrogen molecules and the magnetic moment of the proton. i." zeitschrift für physik. 84 (1–2): 4–16. bibcode:1933zphy...85....4f. doi:10.1007/bf01330773.
+
+^ esterman, i.; stern, o. (1933). "über die magnetische ablenkung von wasserstoffmolekülen und das magnetische moment des protons. ii / magnetic deviation of hydrogen molecules and the magnetic moment of the proton. i." zeitschrift für physik. 85 (1–2): 17–24. bibcode:1933zphy...85...17e. doi:10.1007/bf01330774.
+
+^ esterman, i.; stern, o. (1934). "magnetic moment of the deuton". physical review. 45 (10): 761(a109). bibcode:1934phrv...45..739s. doi:10.1103/physrev.45.739.
+
+^ rabi, i.i.; kellogg, j.m.; zacharias, j.r. (1934). "the magnetic moment of the proton". physical review. 46 (3): 157. bibcode:1934phrv...46..157r. doi:10.1103/physrev.46.157.
+
+^ rabi, i.i.; kellogg, j.m.; zacharias, j.r. (1934). "the magnetic moment of the deuton". physical review. 46 (3): 163. bibcode:1934phrv...46..163r. doi:10.1103/physrev.46.163.
+
+^ a b rigden, john s. (2000). rabi, scientist and citizen. harvard university press. isbn 9780674004351.
+
+^ bacher, r.f. (1933). "note on the magnetic moment of the nitrogen nucleus" (pdf). physical review. 43 (12): 1001. bibcode:1933phrv...43.1001b. doi:10.1103/physrev.43.1001.
+
+^ tamm, i.y.; altshuler, s.a. (1934). "magnetic moment of the neutron". doklady akademii nauk sssr. 8: 455. retrieved 30 january 2015.
+
+^ feather, n. (1 june 1932). "the collisions of neutrons with nitrogen nuclei" (pdf). proceedings of the royal society a. 136 (830): 709–727. bibcode:1932rspsa.136..709f. doi:10.1098/rspa.1932.0113.
+
+^ "the nobel prize in physics 1938: enrico fermi – biographical". nobelprize.org. retrieved 18 november 2017.
+
+^ cooper, dan (1999). enrico fermi: and the revolutions in modern physics. new york: oxford university press. isbn 978-0-19-511762-2. oclc 39508200.
+
+^ hahn, o. (1958). "the discovery of fission". scientific american. 198 (2): 76. bibcode:1958sciam.198b..76h. doi:10.1038/scientificamerican0258-76.
+
+^ meitner, l.; frisch, o. r. (1939). "disintegration of uranium by neutrons: a new type of nuclear reaction". nature. 143 (3615): 239. bibcode:1939natur.143..239m. doi:10.1038/143239a0.
+
+^ hahn, o.; strassmann, f. (10 february 1939). "proof of the formation of active isotopes of barium from uranium and thorium irradiated with neutrons; proof of the existence of more active fragments produced by uranium fission". die naturwissenschaften. 27 (6): 89–95. bibcode:1939nw.....27...89h. doi:10.1007/bf01488988.
+
+^ "the nobel prize in chemistry 1944: otto hahn – biographical". nobelprize.org. retrieved 18 november 2017.
+
+^ bernstein, jeremy (2001). hitler's uranium club: the secret recordings at farm hall. new york: copernicus. p. 281. isbn 978-0-387-95089-1.
+
+^ isaacson, walter (2007). einstein: his life and universe. simon & schuster. isbn 978-0743264747.
+
+^ "about enrico fermi". the university of chicago library:  digital activities and collections. guide to the enrico fermi collection, special collections research center, university of chicago library. retrieved 24 november 2017.
+
+^ "fermi at columbia: the manhattan project and the first nuclear pile". columbia university department of physics. retrieved 24 november 2017.
+
+^ rhodes, richard (1986). the making of the atomic bomb. new york: simon & schuster. isbn 978-0-671-44133-3.
+
+^ 
+gell-mann, m. (1964). "a schematic model of baryons and mesons". physics letters. 8 (3): 214–215. bibcode:1964phl.....8..214g. doi:10.1016/s0031-9163(64)92001-3.
+
+^ 
+zweig, g. (1964). "an su(3) model for strong interaction symmetry and its breaking" (pdf). cern report no.8182/th.401.
+
+^ 
+zweig, g. (1964). "an su(3) model for strong interaction symmetry and its breaking: ii" (pdf). cern report no.8419/th.412.
+
+^ gell, y.; lichtenberg, d. b. (1969). "quark model and the magnetic moments of proton and neutron". il nuovo cimento a. series 10. 61 (1): 27–40. bibcode:1969ncima..61...27g. doi:10.1007/bf02760010.
+
+
+further reading[edit]
+annotated bibliography for neutrons from the alsos digital library for nuclear issues
+abraham pais, inward bound, oxford: oxford university press, 1986. isbn 0198519974.
+herwig schopper, weak interactions and nuclear beta decay, publisher, north-holland pub. co., 1966. oclc 644015779
+ruth lewin sime, lise meitner: a life in physics, berkeley, university of california press, 1996. isbn 0520208609.
+roger h. stuewer, "the nuclear electron hypothesis". in otto hahn and the rise of nuclear physics, william r. shea, ed. dordrecht, holland: d. riedel publishing company. pp. 19–67, 1983. isbn 90-277-1584-x.
+sin-itiro tomonaga, the story of spin, the university of chicago press, 1997. isbn 9780226807942
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=discovery_of_the_neutron&oldid=881120550"					
+categories: neutronhidden categories: cs1: long volume valuecs1 german-language sources (de)cs1 french-language sources (fr)good articles 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+languages
+
+
+čeština 
+edit links 
+
+
+
+
+
+ this page was last edited on 31 january 2019, at 15:58 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"1.336","walltime":"1.496","ppvisitednodes":{"value":7666,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":205671,"limit":2097152},"templateargumentsize":{"value":4404,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":296126,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00% 1272.402      1 -total"," 67.37%  857.211      1 template:reflist"," 33.36%  424.426     54 template:cite_journal"," 12.49%  158.860     15 template:cite_book","  6.32%   80.411      9 template:val","  5.98%   76.065      8 template:isbn","  5.22%   66.437     12 template:cite_web","  4.81%   61.210      1 template:good_article","  4.76%   60.601      8 template:physics_particle","  4.75%   60.407     10 template:main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.731","limit":"10.000"},"limitreport-memusage":{"value":8947566,"limit":52428800}},"cachereport":{"origin":"mw1333","timestamp":"20190210120517","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"discovery of the neutron","url":"https:\/\/en.wikipedia.org\/wiki\/discovery_of_the_neutron","sameas":"http:\/\/www.wikidata.org\/entity\/q19720529","mainentity":"http:\/\/www.wikidata.org\/entity\/q19720529","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2015-03-21t22:20:05z","datemodified":"2019-01-31t15:58:10z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/77\/chadwick_solvay1933.jpg"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":1638,"wghostname":"mw1333"});});
+
+

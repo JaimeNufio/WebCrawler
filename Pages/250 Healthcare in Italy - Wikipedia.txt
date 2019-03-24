@@ -1,0 +1,516 @@
+
+
+
+
+healthcare in italy - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"healthcare_in_italy","wgtitle":"healthcare in italy","wgcurrevisionid":880086965,"wgrevisionid":880086965,"wgarticleid":21247709,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["cs1 italian-language sources (it)","all articles with unsourced statements","articles with unsourced statements from february 2010","health in italy","healthcare by country"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"healthcare_in_italy","wgrelevantarticleid":21247709,"wgrequestid":"xgwc6gpaiciaae7rxvkaaaay","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q48739390","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+healthcare in italy 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+ an italian national health service card.
+for a general article on health in italy, see health in italy
+healthcare spending in italy accounted for 9.2% of gdp in 2012 (about $3,200 per capita) of which about 77% is public,[1] slightly lower than the average of 9.3% in
+oecd countries.[2] in 2000 italy's healthcare system was regarded, by world health organization's ranking, as the 2nd best in the world after france,[3] and according to the cia world factbook, italy has the world's 14th highest life expectancy.[4] the life expectancy at birth in italy was 82.3 years in 2012, which is over two years above the oecd average.[2]
+
+contents
+
+1 history
+2 national health service
+3 performance
+4 emergency medicine
+5 see also
+6 references
+7 external links
+
+
+history[edit]
+after world war ii, italy (re-)established its social security system including a social health insurance administered by sickness funds. in the 1970s the social health insurance faced several equity problems as coverage differed between the sickness funds and around 7% of the population remained uninsured. moreover, sickness funds went practically bankrupt by the mid-1970s. due to growing public dissatisfaction with the existing healthcare system, italian policymakers instituted structural reform. in 1978, the government established the ssn (servizio sanitario nazionale) — the italian version of a national health service — including universal coverage and tax funding.[5]
+
+national health service[edit]
+ san raffaele hospital in milan.
+healthcare is provided to all citizens and residents by a mixed public-private system. the public part is the national health service, servizio sanitario nazionale (ssn), which is organized under the ministry of health and is administered on a regional basis.
+family doctors are entirely paid by the ssn, must offer visiting time at least five days a week and have a limit of 1500 patients. patients can choose and change their gp, subjected to availability.
+prescription drugs can be acquired only if prescribed by a doctor. if prescribed by the family doctor, they are generally subsidized, requiring only a copay that depends on the medicine type and on the patient income (in many regions all the prescribed drugs are free for the poor). over-the-counter drugs are paid out-of-pocket. both prescription and over-the-counter drugs can only be sold in specialized shops (farmacia).  in a sample of 13 developed countries, italy was sixth in its population weighted usage of medication in 14 classes in 2009 and fifth in 2013. the drugs studied were selected on the basis that the conditions treated had a high incidence, prevalence and/or mortality, caused significant long-term morbidity and incurred high levels of expenditure and significant developments in prevention or treatment had been made in the last 10 years. the study noted considerable difficulties in cross-border comparison of medication use.[6]
+visits by specialist doctors or diagnostic tests are provided by the public hospitals or by conventional private ones, and if prescribed by the family doctor require only a copay (of the order of $40 for a visit without any diagnostic test) and are free for the poor. waiting times are usually up to a few months in the big public facilities and up to a few weeks in the small conventional private facilities, though the referring doctor can shorten the waiting times of the more urgent cases by prioritising them.[7] patients, however, can opt for the "free market" option, provided by both public and private hospitals, which is paid completely out-of-pocket and has generally much shorter[citation needed] waiting times.
+
+ total health spending as a percentage of gdp in italy compared with other developed nations in the period 2005-2008.
+performance[edit]
+surgeries and hospitalization provided by public hospitals or by conventioned private ones are completely free of charge for everyone, regardless of their income. for planned surgery waiting times can be up to many months, especially in the big cities.
+the italian national outcomes programme permits measurement of variation in the quality and outcomes of care by region, which is very considerable.  so, for example, the proportion of patients receiving coronary angioplasty within 48 hours of a heart attack varies from  about 15% in some regions, such as marche, molise and basilicata to nearly 50% in the northern regions valle d’aosta and liguria.  measured at local health authority level the levels varied between 5% and more than 60%. this geographic variability was the greatest of any of the 11 countries studied by the oecd.  there is evidence of patient movement, generally from south to north, probably driven, at least in part, by a search for better quality. [8]
+
+emergency medicine[edit]
+main article: emergency medical services in italy
+the emergency medical services in italy currently consist primarily of a combination of volunteers and private companies providing ambulance service, supplemented by physicians and nurses who perform all advanced life support procedures. the emergency telephone number for emergency medical service in italy is 112. emergency medical service is always free of charge. first aid is provided by all the public hospitals: for urgent cases it is completely free of charge for everyone (even for the undocumented), while a copay (about $35) is sometimes asked for non-urgent cases.
+
+see also[edit]
+health in italy
+timeline of healthcare in italy
+emergency medical services in italy
+associazione volontari italiani sangue
+references[edit]
+
+
+^ "world health organization - italy". who. 2010..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ a b "oecd health data 2014 how does italy compare" (pdf). oecd. 2014. archived from the original (pdf) on 2015-09-24.
+
+^ "the world health organization's ranking of the world's health systems". photius.com. retrieved 2015-09-07.
+
+^ "country comparison: life expectancy at birth". the world factbook. central intelligence agency. 2015. retrieved 21 december 2015.
+
+^ frisina doetter, lorraine and götze, ralf (2011) "the changing role of the state in the italian healthcare system", transtate working papers no. 150
+
+^ office of health economics. "international comparison of medicines usage: quantitative analysis" (pdf). association of the british pharmaceutical industry. retrieved 2 july 2015.
+
+^ "classi di priorità e tempi d'attesa" [priority classes and waiting times]. regione piemonte: sanita (in italian). retrieved 15 february 2016.
+
+^ "outcomes in ehci 2015" (pdf). health consumer powerhouse. 26 january 2016. retrieved 27 january 2016.
+
+
+external links[edit]
+italy - information by world health organization
+ministry of health in italy
+oecd reviews of health care quality: italy 2014: raising standards. oecd publishing. 2014. doi:10.1787/9789264225428-en. isbn 978-92-64-22541-1. retrieved december 19, 2015.
+vteitaly articleshistorychronology
+prehistory
+italic peoples
+ancient peoples of italy
+pre-nuragic sardinia
+nuragic peoples
+etruscan civilization
+nuragic civilization
+phoenician/carthaginian colonies
+magna graecia
+ancient rome
+kingdom
+republic
+empire
+middle ages
+italy under odoacer
+ostrogoths
+byzantium
+lombards
+the holy roman empire
+the sardinian judicates
+arabs
+normans
+guelphs and ghibellines
+the italian city-states
+the maritime republics
+renaissance
+italian wars
+early modern period
+unification
+revolutions of 1820
+revolutions of 1830
+revolutions of 1848
+sicilian revolution of 1848
+first war of independence
+crimean war
+second war of independence
+expedition of the thousand
+third war of independence
+capture of rome
+monarchy and the world wars
+kingdom of italy
+colonial empire
+world war i
+fascist italy
+world war ii
+resistance
+civil war
+republic
+economic boom
+years of lead
+years of mud
+mani pulite
+by topic
+citizenship
+currency
+economy
+fashion
+flags
+genetic
+historic states
+military
+music
+postal
+railways
+geography
+peninsula
+northern
+northwest
+northeast
+central
+southern
+south
+insular
+climate
+fauna
+flora
+mountains
+prealps
+alps
+apennines
+volcanology
+volcanoes
+beaches
+canals
+caves
+earthquakes
+islands
+lakes
+national parks
+rivers
+valleys
+politics
+constitution
+elections
+referendums
+foreign relations
+missions
+judiciary
+law enforcement
+military
+parliament
+chamber of deputies
+senate
+political parties
+president
+prime minister
+council of ministers
+regions
+provinces
+metropolitan cities
+comune
+municipalities
+cities
+economy
+economic history
+milan
+naples
+rome
+turin
+regions by gdp
+automotive industry
+banking
+central bank
+companies
+energy
+government debt
+science and technology
+stock exchange
+taxation
+telecommunications
+internet
+tourism
+trade unions
+transportation
+welfare
+society
+abortion
+adoption
+billionaires
+capital punishment
+corruption
+crime
+demographics
+education
+secondary
+higher
+universities
+emigration
+fathers' rights movement
+feminism
+gambling
+health
+healthcare
+immigration
+lgbt rights
+nobility
+prostitution
+racism
+religion
+smoking
+social class
+terrorism
+women
+culture
+duecento
+trecento
+quattrocento
+cinquecento
+seicento
+settecento
+architecture
+art
+castles
+cinema
+cuisine
+beer
+wine
+cultural icons
+decorations
+design
+fashion
+festivals
+folklore
+italian language
+regional italian
+italian literature
+italophilia
+italophobia
+languages
+media
+newspapers
+radio
+tv
+monuments
+music
+classical
+folk
+opera
+popular
+mythology
+national symbols
+anthem
+emblem
+flag
+regions
+national monument
+personification
+people
+philosophy
+public holidays
+festa della repubblica
+sculpture
+sport
+traditions
+world heritage sites
+
+ italy portal
+ category
+ commons
+ news
+quotes
+travel
+ wikiproject
+
+vtehealth in europe sovereign states
+albania
+andorra
+armenia
+austria
+azerbaijan
+belarus
+belgium
+bosnia and herzegovina
+bulgaria
+croatia
+cyprus
+czech republic
+denmark
+estonia
+finland
+france
+georgia
+germany
+greece
+hungary
+iceland
+ireland
+
+italy
+kazakhstan
+latvia
+liechtenstein
+lithuania
+luxembourg
+macedonia
+malta
+moldova
+monaco
+montenegro
+netherlands
+norway
+poland
+portugal
+romania
+russia
+san marino
+serbia
+slovakia
+slovenia
+spain
+sweden
+switzerland
+turkey
+ukraine
+united kingdom
+states with limitedrecognition
+abkhazia
+artsakh
+kosovo
+northern cyprus
+south ossetia
+transnistria
+dependencies andother entities
+åland
+faroe islands
+gibraltar
+guernsey
+isle of man
+jersey
+svalbard
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=healthcare_in_italy&oldid=880086965"					
+categories: health in italyhealthcare by countryhidden categories: cs1 italian-language sources (it)all articles with unsourced statementsarticles with unsourced statements from february 2010 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+languages
+
+
+
+add links 
+
+
+
+
+
+ this page was last edited on 25 january 2019, at 07:24 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.536","walltime":"0.646","ppvisitednodes":{"value":12074,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":125641,"limit":2097152},"templateargumentsize":{"value":26004,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":25,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":23000,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  500.118      1 -total"," 53.75%  268.829      7 template:navbox"," 37.56%  187.832      1 template:europe_topic"," 30.25%  151.298     49 template:iso2country"," 21.11%  105.588      1 template:reflist"," 19.98%   99.912      1 template:italy_topics"," 19.37%   96.853      1 template:country_topics"," 16.20%   81.007      6 template:cite_web"," 12.65%   63.261      1 template:citation_needed","  9.79%   48.976     49 template:iso2country/data"]},"scribunto":{"limitreport-timeusage":{"value":"0.184","limit":"10.000"},"limitreport-memusage":{"value":5991911,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1332","timestamp":"20190219151243","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":740,"wghostname":"mw1332"});});
+
+

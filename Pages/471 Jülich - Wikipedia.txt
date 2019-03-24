@@ -1,0 +1,516 @@
+
+
+
+
+jülich - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"jülich","wgtitle":"jülich","wgcurrevisionid":870258647,"wgrevisionid":870258647,"wgarticleid":816078,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["cs1 german-language sources (de)","articles with short description","coordinates on wikidata","articles containing dutch-language text","articles containing french-language text","interlanguage link template link number","commons category link from wikidata","wikipedia articles with gnd identifiers","wikipedia articles with lccn identifiers","wikipedia articles with musicbrainz area identifiers","wikipedia articles with viaf identifiers","wikipedia articles with worldcat-viaf identifiers","pages with maps","towns in north rhine-westphalia","düren (district)","rhine province"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"jülich","wgrelevantarticleid":816078,"wgrequestid":"xgecigpamesaaiabpeyaaaap","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgredirectedfrom":"julich","wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wginternalredirecttargeturl":"/wiki/j%c3%bclich","wgkartographerlivedata":{"_a3acee245b6e1d8becfcdebd970576e444673fdb":[{"type":"externaldata","service":"geoshape","url":"https://maps.wikimedia.org/geoshape?getgeojson=1\u0026ids=q16045","properties":{"stroke-width":3,"stroke":"#ff0000","title":"jülich"}},{"type":"externaldata","service":"geoline","url":"https://maps.wikimedia.org/geoline?getgeojson=1\u0026ids=q16045","properties":{"stroke-width":5,"stroke":"#ff0000","title":"jülich"}},{"type":"externaldata","service":"geoshape","url":"https://maps.wikimedia.org/geoshape?getgeojson=1\u0026ids=q16045","properties":{"stroke-width":3,"stroke":"#ff0000","title":"jülich"}},{"type":"externaldata","service":"geoline","url":"https://maps.wikimedia.org/geoline?getgeojson=1\u0026ids=q16045","properties":{"stroke-width":5,"stroke":"#ff0000","title":"jülich"}}]},"wgcoordinates":{"lat":50.922222222222,"lon":6.3583333333333},"wgwikibaseitemid":"q16045","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.kartographer.style":"ready","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","jquery.makecollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["mediawiki.action.view.redirect","ext.kartographer.staticframe","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makecollapsible","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+jülich 
+from wikipedia, the free encyclopedia   (redirected from julich)
+ jump to navigation
+jump to search
+place in north rhine-westphalia, germanyjülich 
+coat of armslocation of jülich
+jülich show map of germanyjülich show map of north rhine-westphaliacoordinates: 50°55′20″n 06°21′30″e﻿ / ﻿50.92222°n 6.35833°e﻿ / 50.92222; 6.35833coordinates: 50°55′20″n 06°21′30″e﻿ / ﻿50.92222°n 6.35833°e﻿ / 50.92222; 6.35833countrygermanystatenorth rhine-westphaliaadmin. regionkölndistrictdüren  government • mayoraxel fuchsarea • total90.4 km2 (34.9 sq mi)elevation83 m (272 ft)population (2016-12-31)[1] • total32,454 • density360/km2 (930/sq mi)time zonecet/cest (utc+1/+2)postal codes52428dialling codes02461vehicle registrationdn/jülwebsitewww.juelich.de
+jülich (german pronunciation: [ˈjyːlɪç]; in old spellings also known as guelich or gülich, dutch: gulik, french: juliers) is a town in the district of düren, in the federal state of north rhine-westphalia, germany.  as a border region between the competing powers in the lower rhine and meuse areas, the town and the duchy of jülich played a historic role from the middle ages up to the 17th century.
+
+contents
+
+1 geography
+2 boroughs
+3 history
+4 gallery
+5 population history
+6 town twinnings
+7 transportation
+8 culture and landmarks
+
+8.1 museums
+8.2 buildings
+8.3 shortwave broadcasting facility
+8.4 miscellaneous
+8.5 sports
+
+
+9 people
+
+9.1 citizens
+9.2 associated with the town
+
+
+10 literature
+11 references
+12 external links
+
+
+geography[edit]
+jülich stands in the rur valley on the banks of the river rur. the town is bordered by the town of linnich in the north, the municipality of titz in the northeast, the municipality of niederzier in the southeast, the municipality of inden in the south, and by the municipality of aldenhoven in the west. its maximum size is 13.3 km from east to west and 10.9 km from north to south. 
+the highest point in jülich is in bourheim, 110 m above sea level (excepting sophienhöhe, an extensive artificial mountain made up of overburden from a nearby open-pit lignite mine, the tagebau hambach). the lowest point, 70 m above sea level, lies in the borough of barmen.
+
+boroughs[edit]
+the town of jülich comprises 16 boroughs:
+
+town centre
+altenburg
+barmen
+bourheim
+broich
+daubenrath
+güsten
+kirchberg
+koslar
+lich-steinstraß
+mersch
+merzenhausen
+pattern
+selgersdorf
+stetternich
+welldorf (including serrest)
+history[edit]
+.mw-parser-output .quotebox{background-color:#f9f9f9;border:1px solid #aaa;box-sizing:border-box;padding:10px;font-size:88%}.mw-parser-output .quotebox.floatleft{margin:0.5em 1.4em 0.8em 0}.mw-parser-output .quotebox.floatright{margin:0.5em 0 0.8em 1.4em}.mw-parser-output .quotebox.centered{margin:0.5em auto 0.8em auto}.mw-parser-output .quotebox.floatleft p,.mw-parser-output .quotebox.floatright p{font-style:inherit}.mw-parser-output .quotebox-title{background-color:#f9f9f9;text-align:center;font-size:larger;font-weight:bold}.mw-parser-output .quotebox-quote.quoted:before{font-family:"times new roman",serif;font-weight:bold;font-size:large;color:gray;content:" “ ";vertical-align:-45%;line-height:0}.mw-parser-output .quotebox-quote.quoted:after{font-family:"times new roman",serif;font-weight:bold;font-size:large;color:gray;content:" ” ";line-height:0}.mw-parser-output .quotebox .left-aligned{text-align:left}.mw-parser-output .quotebox .right-aligned{text-align:right}.mw-parser-output .quotebox .center-aligned{text-align:center}.mw-parser-output .quotebox cite{display:block;font-style:normal}@media screen and (max-width:360px){.mw-parser-output .quotebox{min-width:100%;margin:0 0 0.8em!important;float:none!important}}
+historical affiliations
+
+ roman empire 1st century–5th century
+franks 5th century
+francia 481–843
+middle francia 843–855
+lotharingia 855–959
+ duchy of lower lorraine 959–ca. 1003
+ county of jülich ca. 1003–1356
+ duchy of jülich 1356–1423
+ duchy of jülich-berg 1423–1794, part of:
+    united duchies of jülich-cleves-berg 1521–1614
+    palatinate-neuburg 1614–1685
+    electoral palatinate 1685–1794, part of:
+       electorate of bavaria 1777–1794
+ french republic 1794–1804
+ french empire 1804–1814
+ kingdom of prussia 1815–1871
+ german empire 1871–1918
+ weimar republic 1918–1933
+ nazi germany 1933–1945
+ allied-occupied germany 1945–1949
+ west germany 1949–1990
+ germany 1990–present
+
+
+
+ the duchies of cleves, berg, jülich and the county of mark in 1477
+jülich is first mentioned in roman times as juliacum along an important road through the rur valley. fortified during the late roman period, it was taken over by the franks and grew to be the centre of a county which became the nucleus of a regional power. the counts and dukes of jülich extended their influence during the middle ages and granted jülich city status in 1234 (count wilhelm iv). during battles with the archbishop of cologne, jülich was destroyed in 1239 and again in 1278.
+in 1416, the city was granted fiscal independence by duke rainald of jülich-geldern. following a fire in 1547, the city was rebuilt as an ideal city in the renaissance style under the direction of the architect alessandro pasqualini. the citadel of jülich was later visited by the french military engineer sébastien le prestre de vauban and was rated exemplary.
+after the ducal family line was extinguished in 1609, the duchy of jülich was divided in the war of the jülich succession; as part of that war, the fortress at jülich was occupied by emperor rudolph's forces.  the siege by dutch, brandenburg and palatine forces led to the surrender and withdrawal of imperial troops.  
+
+ the surrender of jülich at the end of the 1621–22 siege, by jusepe leonardo (1635).
+jülich was occupied by the dutch republic until 1621-22 when the spanish took the fortress after a five months of siege. control of the city later fell to palatinate-neuburg, then the electorate of the palatinate (1685) and bavaria (1777).
+
+ maximum extent of the french fortification of juliers
+from 1794 to 1814, jülich was part of france under the name of juliers. the french added the napoleonic bridge head to the fortifications. in 1815, jülich became a prussian fortification and district town. the town was subsequently administered within the prussian province of jülich-cleves-berg (1815) and then the rhine province (1822). the fortification was razed in 1860.
+on 16 november 1944 (world war ii), 97% of jülich was destroyed during allied bombing, since it was considered one of the main obstacles to the occupation of the rhineland, although the city fortifications, the bridge head and the citadel had long fallen into disuse. the ruined city was subject to heavy fighting for several months until the allies eventually managed to cross the rur on 23 february 1945. newsreel footage exists of supreme commander eisenhower at the southern entrance to the citadel.[2]
+jülich became part of the new state of north rhine-westphalia after the war. from 1949 to 1956, the town centre was rebuilt along the plans of the renaissance town.
+in 1998, the state garden fair took place in jülich. this made the extensive restoration of the bridge head fortifications and the establishment of a large leisure park, the bridge head park, possible.
+today, jülich is mainly known for forschungszentrum jülich (established in 1956) and the satellite campus of the fachhochschule aachen (established in 1970). the town's landmark is the witch tower, a city gate and remnant of the medieval city fortifications. the most impressive remnants from the past are, however, both the napoleonic bridgehead and the citadel.
+
+
+gallery[edit]
+
+
+
+
+jülich, church
+
+
+
+
+
+
+entrance of the citadel
+
+
+
+
+population history[edit]
+ population growth of jülich since 1800
+
+
+population history
+
+
+year
+
+population
+
+ 
+
+year
+
+population
+
+ 
+
+year
+
+population
+
+
+300
+
+1.500
+
+ 
+
+1860
+
+3.119
+
+ 
+
+12/31 1960
+
+14.339
+
+
+1533
+
+1.300
+
+ 
+
+1900
+
+4.964
+
+ 
+
+12/31 1970
+
+20.778
+
+
+1647
+
+1.300
+
+ 
+
+1920
+
+7.688
+
+ 
+
+12/31 1980
+
+30.433
+
+
+1735
+
+1.520
+
+ 
+
+1931
+
+10.051
+
+ 
+
+12/31 1990
+
+31.149
+
+
+1795
+
+2.025
+
+ 
+
+1939
+
+12.000
+
+ 
+
+12/31 2000
+
+33.434
+
+
+1802
+
+2.429
+
+ 
+
+12/31 1951
+
+10.182
+
+ 
+
+12/31 2004
+
+34.01
+
+town twinnings[edit]
+since 1964, jülich is twinned with the french town of haubourdin in the nord département and since 2017 with taicang.
+
+transportation[edit]
+bab 4 (düren / jülich interchange)
+bab 44
+(jülich ost (east)/ mersch interchange)
+(jülich west (west)/ koslar interchange)
+rurtalbahn, literally the rur valley railway (linnich - jülich - düren - heimbach)
+culture and landmarks[edit]
+museums[edit]
+historical town museum[3]
+buildings[edit]
+ hexenturm jülich [de], the town's landmark
+particularly notable:
+
+the witchtower (hexenturm)
+the citadel
+the napoleonic bridgehead
+the church of st. mariä himmelfahrt
+the aachener tor (lit. aachen gate)
+aerial towers of shortwave broadcasting facility
+shortwave broadcasting facility[edit]
+in 1956 the wdr broadcaster established the first short wave transmitter near the borough mersch. in the subsequent years this site was expanded. on september 1, 1961 this site was handed over to the german federal post for establishing the german foreign broadcasting service, "deutsche welle". in the course of time 10 transmitters of 100 kilowatts were installed, whereby as transmitting antennas enormous dipole arrays between free standing steel framework towers were installed. later these transmitters were rented to the predominant part to non-german broadcasting organisations. in the 90's on the area of the shortwave transmission facility also a transmitting plant for medium wave was installed, using a long wire antenna which is spun at a tower on the transmitter site. it was intended to be used for transmission of the programme of radio viva on 702 khz, but it never went into regular service for this broadcaster. from december 6, 2004 to may 2006, the medium-wave transmitter was used to broadcast the programme of the german commercial broadcaster "truckradio" on 702 khz. in 2006 the shortwave-facilities were sold to the british entrepreneur robert edmiston and his christian vision-organization. however, on october 24, 2009 the site was shut down and antennas and transmitters have been dismantled by now.
+
+miscellaneous[edit]
+the reliquaries of christina von stommeln.
+
+sports[edit]
+jülich-based sports teams are ttc jülich (table tennis, which competes in the bundesliga, the domestic premiere league) and the sc jülich 1910, an amateur football (soccer) club that won the german national amateur championships in 1969, 1970 and 1971.
+
+people[edit]
+alessandro pasqualini
+bobby julich - american cycling star has traced his family ancestry back to jülich.
+the gulicks of america all trace their ancestry through hendrick gulick (aka van gulick) born: 1625  in julich (duchy of jülich), north rhine-westphalia, germany.  he married: 1646 in  amsterdam, netherlands and died: 1653 at gravesend, brooklyn, kings county, new york.
+in the netherlands, the name van gulik is quite common, e.g. the much translated author robert van gulik. but one also finds variants like: van gulick, van de(r) gulik (cf david van der gulik), guliks, gulickx, gulikers, and jülicher.
+nikolaus von maillot de la treille, the bavarian war minister was born in jülich.
+citizens[edit]
+johann wilhelm schirmer (1807–1863), landscape artist
+antonius fischer, (1840–1912), archbishop and cardinal
+dürbeck & dohmen, composer duo, rené dohmen (born 1966) and joachim dürbeck (born 1967)
+axel fuchs [de], (born 1967), mayor of jülich
+paul heller, (born 1971) saxophon-player
+leipertz, robert, (born 1993) football player
+nesselrath, heinz-günther, (born 1957) philologist
+nickel, goswin, (1582–1664) 10. general of the jesuits
+associated with the town[edit]
+grünberg, peter (born 1939), physicist, nobel prize 2007
+literature[edit]
+guido von büren (hrsg.): jülich stadt - territorium - geschichte]', kleve 2000, .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}isbn 3-933969-10-7
+ulrich coenen: von juliacum bis jülich. die baugeschichte der stadt und ihrer vororte von der antike bis zu gegenwart, 2. aufl., aachen 1989. isbn 3-925714-17-0
+ulrich coenen: stadt jülich = rheinische kunststätten, heft 368, neuss 1991. isbn 3-88094-696-5
+conrad doose/siegfried peters: renaissancefestung jülich, 1998, isbn 3-87227-058-3
+ulrich eckardt/wolfgang hommel/werner katscher: flug über jülich, 2003, isbn 3-87227-076-1
+wolfgang hommel: stadtführer jülich, 1998, isbn 3-87227-065-6
+wolfgang hommel: jülich im aufbruch - landesgartenschau und stadtentwicklungsprogramm jülich '98, 1998, isbn 3-87227-098-2
+dr. erwin fuchs/wolfgang hommel: die jülicher und ihre wurzeln, 1997, isbn 3-87227-063-x
+eva behrens-hommel: sagen und überlieferungen des jülicher landes, 1996, isbn 3-87227-061-3
+eva behrens-hommel:  mundartsammlung des jülicher landes, 1997, isbn 3-87227-062-1
+hartwig neumann: stadt und festung jülich auf bildlichen darstellungen, bonn 1991. isbn 3-7637-5863-1
+gabriele spelthahn: an der synagoge - jülich und der holocaust, 1997, isbn 3-930808-08-0
+references[edit]
+
+^  "amtliche bevölkerungszahlen" (in german). landesbetrieb information und technik nrw. retrieved 2018-02-24. 
+
+^ the roer offensive; a nazi city dies; bataan prisoners 1945/3/15
+
+^ "museum zitadelle jülich". www.juelich.de.
+
+
+external links[edit]
+ media related to jülich at wikimedia commons
+
+official website
+the research centre
+university of applied sciences aachen/jülich
+the culture and leisure centre
+the former state garden fair
+nice webcam with a view of the witch tower
+edicts of jülich, cleves, berg, grand duchy berg, 1475-1815 (coll. scotti) online
+settlement of dortmund between brandenburg and palatinate-neuburg and the conflict of succession in jülich, in full text
+vtetowns and municipalities in düren (district)
+aldenhoven
+düren
+heimbach
+hürtgenwald
+inden
+jülich
+kreuzau
+langerwehe
+linnich
+merzenich
+nideggen
+niederzier
+nörvenich
+titz
+vettweiß
+
+authority control 
+gnd: 4028835-3
+lccn: n81072909
+musicbrainz: 8790782a-5784-498b-aa31-98305e23d265
+viaf: 141903287
+ worldcat identities (via viaf): 141903287
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=jülich&oldid=870258647"					
+categories: towns in north rhine-westphaliadüren (district)rhine provincehidden categories: cs1 german-language sources (de)articles with short descriptioncoordinates on wikidataarticles containing dutch-language textarticles containing french-language textinterlanguage link template link numbercommons category link from wikidatawikipedia articles with gnd identifierswikipedia articles with lccn identifierswikipedia articles with musicbrainz area identifierswikipedia articles with viaf identifierswikipedia articles with worldcat-viaf identifierspages with maps 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+العربيةتۆرکجهбългарскиcebuanodanskdeutscheestiespañolesperantoeuskaraفارسیfrançaishrvatskibahasa indonesiaitalianoқазақшакыргызчаlatinalietuviųlimburgsmagyarbahasa melayunederlandsoʻzbekcha/ўзбекчаpolskiportuguêsromânăрусскийślůnskiсрпски / srpskisrpskohrvatski / српскохрватскиsvenskatürkçeукраїнськаvolapükwalonwinaray中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 23 november 2018, at 15:26 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"1.252","walltime":"1.521","ppvisitednodes":{"value":8788,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":88173,"limit":2097152},"templateargumentsize":{"value":26752,"limit":2097152},"expansiondepth":{"value":26,"limit":40},"expensivefunctioncount":{"value":11,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":44074,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1365.254      1 -total"," 60.19%  821.785      1 template:infobox_german_location"," 58.64%  800.526      1 template:infobox_settlement"," 50.25%  686.071      1 template:infobox"," 13.65%  186.342      7 template:population_germany"," 10.69%  145.930      1 template:lang-nl","  9.86%  134.572      7 template:metadata_population_de-nw","  8.70%  118.763      2 template:cite_web","  7.90%  107.832      1 template:quote_box","  7.44%  101.540     12 template:isbn"]},"scribunto":{"limitreport-timeusage":{"value":"0.671","limit":"10.000"},"limitreport-memusage":{"value":16820444,"limit":52428800}},"cachereport":{"origin":"mw1240","timestamp":"20190216051412","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":1669,"wghostname":"mw1240"});});
+
+

@@ -1,0 +1,227 @@
+
+
+
+
+payload - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"payload","wgtitle":"payload","wgcurrevisionid":878645262,"wgrevisionid":878645262,"wgarticleid":41495,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["articles needing more detailed references","all articles with unsourced statements","articles with unsourced statements from february 2015","aerospace engineering","air freight"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"payload","wgrelevantarticleid":41495,"wgrequestid":"xguq3wpaic0aabqkpzsaaaak","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgredirectedfrom":"payload_(air_and_space_craft)","wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wginternalredirecttargeturl":"/wiki/payload","wgwikibaseitemid":"q7641034","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+payload 
+from wikipedia, the free encyclopedia   (redirected from payload (air and space craft))
+ jump to navigation
+jump to search
+for other uses, see payload (disambiguation).
+payload is the carrying capacity of an aircraft or launch vehicle, usually measured in terms of weight. depending on the nature of the flight or mission, the payload of a vehicle may include cargo, passengers, flight crew, munitions, scientific instruments or experiments, or other equipment. extra fuel, when optionally carried, is also considered part of the payload. in a commercial context (i.e., an airline or air freight carrier), payload may refer only to revenue-generating cargo or paying passengers.[1]
+for a rocket, the payload can be a satellite, space probe, or spacecraft carrying humans, animals, or cargo. for a ballistic missile, the payload is one or more warheads and related systems; the total weight of these systems is referred to as the throw-weight.
+the fraction of payload to the total liftoff weight of the air or spacecraft is known as the "payload fraction". when the weight of the payload and fuel are considered together, it is known as the "useful load fraction". in spacecraft, "mass fraction" is normally used, which is the ratio of payload to everything else, including the rocket structure.[2]
+
+contents
+
+1 relationship of range and payload
+2 examples
+3 structural capacity
+4 payload constraints
+5 see also
+6 references
+7 external links
+
+
+relationship of range and payload[edit]
+ 
+there is a natural trade-off between the payload and the range of an aircraft. a payload range diagram (also known as the "elbow chart") illustrates the trade-off.
+the top horizontal line represents the maximum payload. it is limited structurally by maximum zero-fuel weight (mzfw) of the aircraft. maximum payload is the difference between maximum zero-fuel weight and operational empty weight (oew). moving left-to-right along the line shows the constant maximum payload as the range increases. more fuel needs to be added for more range.
+the vertical line represents the range at which the combined weight of the aircraft, maximum payload and needed fuel reaches the maximum take-off weight (mtow) of the aircraft. if the range is increased beyond that point, payload has to be sacrificed for fuel.
+the maximum take-off weight is limited by a combination of the maximum net power of the engines and the lift/drag ratio of the wings. the diagonal line after the range-at-maximum-payload point shows how reducing the payload allows increasing the fuel (and range) when taking off with the maximum take-off weight.
+the second kink in the curve represents the point at which the maximum fuel capacity is reached. flying further than that point means that the payload has to be reduced further, for an even lesser increase in range. the absolute range is thus the range at which an aircraft can fly with maximum possible fuel without carrying any payload.
+
+examples[edit]
+examples of payload capacity:
+
+antonov an-225 mriya: 250,000 kg
+saturn v:
+payload to low earth orbit 118,000 kg
+payload to lunar orbit 47,000 kg
+space shuttle:
+payload to low earth orbit 24,400 kg (53,700 lb)
+payload to geostationary transfer orbit 3,810 kg (8,390 lb)
+trident (missile): 2800 kg[specify][citation needed]
+automated transfer vehicle
+payload:[3] 7,667 kg 8 racks with 2 x 0.314 m3 and 2 x 0.414 m3
+envelope: each 1.146 m3 in front of 4 of these 8 racks
+cargo mass: dry cargo: 1,500 - 5,500 kg
+water: 0 – 840 kg
+gas (nitrogen, oxygen, air, 2 gases/flight): 0 – 100 kg
+iss refueling propellant: 0 – 860 kg (306 kg of fuel, 554 kg of oxidizer)
+iss re-boost and attitude control propellant: 0 - 4,700 kg
+total cargo upload capacity: 7,667 kg
+structural capacity[edit]
+for aircraft, the weight of fuel in wing tanks does not contribute as significantly to the bending moment of the wing as does weight in the fuselage. so even when the airplane has been loaded with its maximum payload that the wings can support, it can still carry a significant amount of fuel.
+
+payload constraints[edit]
+launch and transport system differ not only on the payload that can be carried but also in the stresses and other factors placed on the payload.  the payload must not only be lifted to its target, it must also arrive safely, whether elsewhere on the surface of the earth or a specific orbit.  to ensure this the payload, such as a warhead or satellite, is designed to withstand certain amounts of various types of "punishment" on the way to its destination.  most rocket payloads are fitted within a payload fairing to protect them against dynamic pressure of high-velocity travel through the atmosphere, and to improve the overall aerodynamics of the launch vehicle. most aircraft payloads are carried within the fuselage for similar reasons.  outsize cargo may require a fuselage with unusual proportions, such as the super guppy.
+the various constraints placed on the launch system can be roughly categorized into those that cause physical damage to the payload and those that can damage its electronic or chemical makeup. examples of physical damage include extreme accelerations over short time scales caused by atmospheric buffeting or oscillations, extreme accelerations over longer time scales caused by rocket thrust and gravity, and sudden changes in the magnitude or direction of the acceleration caused by how quick engines are throttled and shut down, etc. electrical, chemical, or biological payloads can be damage by extreme temperatures (hot or cold), rapid changes in temperature or pressure, contact with fast moving air streams causing ionization, and radiation exposure from cosmic rays, the van allen belt, or solar wind.
+
+see also[edit]
+heavy-lift launch vehicle
+medium-lift launch vehicle
+tsiolkovsky rocket equation
+references[edit]
+
+
+^ "payload - define payload at dictionary.com". dictionary.com. archived from the original on 2013-12-12..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ launius, roger d. jenkins, dennis r. 2002. to reach the high frontier: a history of u.s. launch vehicles. univ. pr. of kentucky. isbn 978-0-8131-2245-8
+
+^ http://esamultimedia.esa.int/docs/atv/fs003_12_atv_updated_launch_2008.pdf european space agency
+
+
+external links[edit]
+shannon ackert (april 2013). "aircraft payload-range analysis for financiers" (pdf). aircraft monitor.
+"using the payload/range and takeoff field length charts in the airplane characteristics for airport planning documents" (pdf). boeing commercial airplanes. feb 12, 2014.
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=payload&oldid=878645262"					
+categories: aerospace engineeringair freighthidden categories: articles needing more detailed referencesall articles with unsourced statementsarticles with unsourced statements from february 2015 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+languages
+
+
+asturianuбългарскиcatalàdeutschespañolesperantoفارسیfrançaisgalego한국어bahasa indonesiaitalianoעבריתlatviešulëtzebuergeschnederlands日本語norskportuguêsрусскийsuomisvenskatürkçeукраїнська 
+edit links 
+
+
+
+
+
+ this page was last edited on 16 january 2019, at 02:51 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.176","walltime":"0.261","ppvisitednodes":{"value":637,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":9547,"limit":2097152},"templateargumentsize":{"value":1301,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":9519,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  234.572      1 -total"," 49.05%  115.067      1 template:reflist"," 30.69%   71.989      3 template:cite_web"," 26.89%   63.075      2 template:fix"," 26.55%   62.289      1 template:specify"," 16.88%   39.593      1 template:isbn"," 14.65%   34.359      3 template:category_handler"," 14.24%   33.408      1 template:other_uses"," 12.41%   29.121      3 template:delink","  5.95%   13.968      1 template:catalog_lookup_link"]},"scribunto":{"limitreport-timeusage":{"value":"0.092","limit":"10.000"},"limitreport-memusage":{"value":2437118,"limit":52428800}},"cachereport":{"origin":"mw1329","timestamp":"20190209082320","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":113,"wghostname":"mw1324"});});
+
+

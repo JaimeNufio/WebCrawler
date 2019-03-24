@@ -1,0 +1,1563 @@
+
+
+
+
+global warming - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"global_warming","wgtitle":"global warming","wgcurrevisionid":884014985,"wgrevisionid":884014985,"wgarticleid":5042951,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["webarchive template wayback links","cs1: julian–gregorian uncertainty","pages containing links to subscription-only content","cs1 maint: multiple names: authors list","webarchive template other archives","wikipedia indefinitely semi-protected pages","articles with short description","use dmy dates from may 2018","featured articles","use british english oxford spelling from september 2016","articles containing potentially dated statements from november 2010","all articles containing potentially dated statements","articles containing potentially dated statements from 2013","wikipedia articles with bnf identifiers","wikipedia articles with gnd identifiers","wikipedia articles with ndl identifiers","global warming","climate change","climate history","economic problems","climate forcing agents","future problems","social issues"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"global_warming","wgrelevantarticleid":5042951,"wgrequestid":"xgvubapaaemaagrtvkcaaaaw","wgcspnonce":false,"wgisprobablyeditable":false,"wgrelevantpageisprobablyeditable":false,"wgrestrictionedit":["autoconfirmed"],"wgrestrictionmove":["sysop"],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q7942","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","mw.mediawikiplayer.loader","mw.popupmediatransform","mw.tmhgalleryhook.js","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+global warming 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+this page is about the current warming of the earth's climate system. "climate change" can also refer to climate trends at any point in earth's history. for other uses see global warming (disambiguation).
+
+
+rise in the average temperature of the earth's climate system and its related effects
+
+
+
+ global mean surface-temperature change from 1880 to 2018, relative to the 1951–1980 mean. the 1951–1980 mean is 14.19 °c (57.54 °f).[1] the black line is the global annual mean, and the red line is the five-year local regression line. the blue uncertainty bars show a 95% confidence interval.
+ average global temperatures from 2014 to 2018 compared to a baseline average from 1951 to 1980, according to nasa’s goddard institute for space studies.
+global warming is a long-term rise in the average temperature of the earth's climate system, an aspect of climate change shown by temperature measurements and by multiple effects of the warming.[2][3] the term commonly refers to the mainly human-caused observed warming since pre-industrial times and its projected continuation,[4] though there were also much earlier periods of global warming.[5] in the modern context the terms global warming and climate change are commonly used interchangeably,[6] but climate change includes both global warming and its effects, such as changes to precipitation and impacts that differ by region.[7][8] many of the observed warming changes since the 1950s are unprecedented in the instrumental temperature record, and in historical and paleoclimate proxy records of climate change over thousands to millions of years.[2]
+in 2013, the intergovernmental panel on climate change (ipcc) fifth assessment report concluded, "it is extremely likely that human influence has been the dominant cause of the observed warming since the mid-20th century."[9] the largest human influence has been the emission of greenhouse gases such as carbon dioxide, methane, and nitrous oxide. in view of the dominant role of human activity in causing it, the phenomenon is sometimes called "anthropogenic global warming" or "anthropogenic climate change". climate model projections summarized in the report indicated that during the 21st century, the global surface temperature is likely to rise a further 0.3 to 1.7 °c (0.5 to 3.1 °f) to  2.6 to 4.8 °c (4.7 to 8.6 °f) depending on the rate of greenhouse gas emissions.[10] these findings have been recognized by the national science academies of the major industrialized nations[11][a] and are not disputed by any scientific body of national or international standing.[13][14]
+future climate change effects are expected to include rising sea levels, ocean acidification, regional changes in precipitation, and expansion of deserts in the subtropics.[15][16][17] future surface temperature increases are expected to be greater over land than over the oceans, and greatest in the arctic, with the continuing retreat of glaciers, permafrost, and sea ice. predicted regional precipitation effects include more frequent extreme weather events such as heat waves, droughts, wildfires, heavy rainfall with floods, and heavy snowfall.[18] effects directly significant to humans are predicted to include the threat to food security from decreasing crop yields, and the abandonment of populated areas due to rising sea levels.[19][20] environmental impacts appear likely to include the extinction or relocation of ecosystems as they adapt to climate change, with coral reefs,[21] mountain ecosystems, and arctic ecosystems most immediately threatened.[22] because the climate system has a large "inertia" and greenhouse gases will remain in the atmosphere for a long time, climatic changes and their effects will continue to become more pronounced for many centuries even if further increases to greenhouse gases stop.[23]
+possible societal responses to global warming include mitigation by emissions reduction, adaptation to its effects, building systems resilient to its effects, and possible future climate engineering. most countries are parties to the united nations framework convention on climate change (unfccc),[24] whose ultimate objective is to prevent dangerous anthropogenic climate change.[25] parties to the unfccc have agreed that deep cuts in emissions are required[26] and that global warming should be limited to well below 2.0 °c (3.6 °f) compared to pre-industrial levels,[b] with efforts made to limit warming to 1.5 °c (2.7 °f).[28] some scientists call into question climate adaptation feasibility, with higher emissions scenarios,[29] or the two degree temperature target.[30]
+public reactions to global warming and concern about its effects are also increasing. a global 2015 pew research center report showed that a median of 54% of all respondents asked consider it "a very serious problem". significant regional differences exist, with americans and chinese (whose economies are responsible for the greatest annual co2 emissions) among the least concerned.[31]
+
+contents
+
+1 observed temperature changes
+
+1.1 regional trends and short-term fluctuations
+1.2 warmest years vs. overall trend
+
+
+2 initial causes of temperature changes (external forcings)
+
+2.1 greenhouse gases
+2.2 aerosols and soot
+2.3 solar activity
+2.4 variations in earth's orbit
+
+
+3 climate change feedback
+4 climate models
+5 effects
+
+5.1 biosphere
+5.2 environmental
+5.3 social systems
+5.4 regional
+
+
+6 responses
+
+6.1 mitigation
+6.2 adaptation
+6.3 climate engineering
+
+
+7 society and culture
+
+7.1 political discussion
+7.2 scientific discussion
+7.3 public opinion and disputes
+
+
+8 history
+
+8.1 terminology
+
+
+9 see also
+10 notes
+11 citations
+12 references
+13 external links
+
+13.1 research
+13.2 educational
+
+
+
+
+observed temperature changes
+main article: instrumental temperature record
+ annual (thin lines) and five-year lowess smooth (thick lines) for the temperature anomalies averaged over the earth's land area (red line) and sea surface temperature anomalies (blue line) averaged over the part of the ocean that is free of ice at all times (open ocean).
+ two millennia of mean surface temperatures according to different reconstructions from climate proxies, each smoothed on a decadal scale, with the instrumental temperature record overlaid in black.
+multiple independently produced datasets confirm that between 1880 and 2012, the global average (land and ocean) surface temperature increased by 0.85 [0.65 to 1.06] °c.[32] from 1906 to 2005, earth's average surface temperature rose by 7002273890000000000♠0.74±0.18 °c. the rate of warming almost doubled in the last half of that period (7002273279999999999♠0.13±0.03 °c per decade, against 7002273219999999999♠0.07±0.02 °c per decade).[33] although the popular press often reports the increase of the average near-surface atmospheric temperature as the measure of global warming, most of the additional energy stored in the climate system since 1970 has accumulated in the oceans. the rest has melted ice and warmed the continents and the atmosphere.[34][c]
+since 1979, the average temperature of the lower troposphere has increased between 0.12 and 0.135 °c (0.216 and 0.243 °f) per decade, satellite temperature measurements confirm.[35][36] climate proxies show the temperature to have been relatively stable over the one or two thousand years before 1850, with regionally varying fluctuations such as the medieval warm period and the little ice age.[37]
+the warming evident in the instrumental temperature record is consistent with a wide range of observations, as documented by many independent scientific groups.[38] examples include sea level rise,[39] widespread melting of snow and land ice,[40] increased heat content of the oceans,[38] increased humidity,[38] and the earlier timing of spring events,[41] e.g., the flowering of plants.[42] the probability that these changes could have occurred by chance is virtually zero.[38]
+
+regional trends and short-term fluctuations
+see also: regional effects of global warming and cold blob (north atlantic)
+global warming refers to global averages. it is not uniform around the world: effects can vary by region.[43] since 1979, global average land temperatures have increased about twice as fast as global average ocean temperatures (7002273399999999999♠0.25 °c per decade against 7002273279999999999♠0.13 °c per decade).[44] ocean temperatures increase more slowly than land temperatures because of the larger heat capacity of the oceans and because oceans lose more heat by evaporation.[45] since the beginning of industrialisation in the 18th century, the temperature difference between the hemispheres has increased due to melting of sea ice and snow in the north, and because there is more land in the northern hemisphere.[46] in the past 100 years, average arctic temperatures have increased at almost twice the rate of the rest of the world.[47] this has been referred to as arctic amplification.
+although more greenhouse gases are emitted in the northern than in the southern hemisphere, this does not contribute to the difference in warming because the major greenhouse gases persist long enough to diffuse within and between the two hemispheres.[48]
+there are different ways in which a climate can be forced to change, but because the climate system has large thermal inertia, it can take centuries – or even longer – for the climate to fully adjust. one climate commitment study concluded that if greenhouse gases were stabilized at year 2000 levels, surface temperatures would still increase by about 0.5 °c,[49] and another found that if they were stabilized at 2005 levels, surface warming could exceed a whole degree celsius. some of this surface warming would be driven by past natural forcings which have not yet reached equilibrium in the climate system. one study using a highly simplified climate model indicates these past natural forcings may account for as much as 64% of the committed 2050 surface warming, and their influence will fade with time compared to the human contribution.[50]
+global temperature is subject to short-term fluctuations that overlay long-term trends, and can temporarily mask or magnify them.[51][52] the relative stability in surface temperature from 2002 to 2009, which has since been dubbed the global warming hiatus by the media and some scientists,[53] may be an example of such an episode.[54][55] 2015 updates to account for differing methods of ocean surface temperature measurements show a positive trend over the recent decade.[56][57]
+
+warmest years vs. overall trend
+sixteen of the seventeen warmest years on record have occurred since 2000.[58] while record-breaking years attract considerable public interest, individual years are less significant than the overall trend. some climatologists have criticized the attention that the popular press gives to "warmest year" statistics. in particular, ocean oscillations such as the el niño–southern oscillation (enso) can cause temperatures of a given year to be abnormally warm or cold for reasons unrelated to the overall trend of climate change. gavin schmidt stated: "the long-term trends or the expected sequence of records are far more important than whether any single year is a record or not."[59]
+
+initial causes of temperature changes (external forcings)
+ greenhouse effect schematic showing energy flows between space, the atmosphere, and earth's surface. energy exchanges are expressed in watts per square meter (w/m2).
+ co2 concentrations over the last 400,000 years.
+main article: attribution of recent climate change
+by itself, the climate system may generate random changes in global temperatures for years to decades at a time, but long-term changes emanate only from so-called external forcings.[60][61][62] these forcings are "external" to the climate system, but not necessarily external to earth.[63] examples of external forcings include changes in the composition of the atmosphere (e.g., increased concentrations of greenhouse gases), solar luminosity, volcanic eruptions, and variations in earth's orbit around the sun.[64]
+
+greenhouse gases
+ annual greenhouse gas emissions attributed to different sectors as of the year 2010. emissions are given as a percentage share of total emissions, measured in carbon dioxide-equivalents, using global warming potentials from the ipcc fifth assessment report.
+ global carbon dioxide emissions by country in 2015
+main articles: greenhouse gas, greenhouse effect, radiative forcing, carbon dioxide in earth's atmosphere, and earth's energy budget
+the greenhouse effect is the process by which absorption and emission of infrared radiation by gases in a planet's atmosphere warm its lower atmosphere and surface. it was proposed by joseph fourier in 1824, discovered in 1860 by john tyndall,[65] was first investigated quantitatively by svante arrhenius in 1896,[66] and the hypothesis was reported in the popular press as early as 1912.[67][68] the scientific description of global warming was further developed in the 1930s through the 1960s by guy stewart callendar.[69][70]
+on earth, an atmosphere containing naturally occurring amounts of greenhouse gases causes air temperature near the surface to be warmer by about 33 °c (59 °f) than it would be in their absence.[71][d] without the earth's atmosphere, the earth's average temperature would be well below the freezing temperature of water.[72] the major greenhouse gases are water vapour, which causes about 36–70% of the greenhouse effect; carbon dioxide (co2), which causes 9–26%; methane (ch4), which causes 4–9%; and ozone (o3), which causes 3–7%.[73][74][75]
+human activity since the industrial revolution has increased the amount of greenhouse gases in the atmosphere, leading to increased radiative forcing from co2, methane, tropospheric ozone, cfcs, and nitrous oxide. according to work published in 2007, the concentrations of co2 and methane had increased by 36% and 148% respectively since 1750.[76] these levels are much higher than at any time during the last 800,000 years, the period for which reliable data has been extracted from ice cores.[77][78][79][80] less direct geological evidence indicates that co2 values higher than this were last seen about 20 million years ago.[81]
+fossil fuel burning has produced about three-quarters of the increase in co2 from human activity over the past 20 years. the rest of this increase is caused mostly by changes in land-use, particularly deforestation.[82] another significant non-fuel source of anthropogenic co2 emissions is the calcination of limestone for clinker production, a chemical process which releases co2.[83] there are efforts to develop types of cement that produce less co2 but it is feared not enough is being done.[84] estimates of global co2 emissions in 2011 from fossil fuel combustion, including cement production and gas flaring, was 34.8 billion tonnes (9.5 ± 0.5 pgc), an increase of 54% above emissions in 1990. coal burning was responsible for 43% of the total emissions, oil 34%, gas 18%, cement 4.9% and gas flaring 0.7%.[85]
+in may 2013, it was reported that readings for co2 taken at the world's primary benchmark site in mauna loa surpassed 400 ppm. according to professor brian hoskins, this is likely the first time co2 levels have been this high for about 4.5 million years.[86][87] monthly global co2 concentrations exceeded 400 ppm in march 2015, probably for the first time in several million years.[88] on 12 november 2015, nasa scientists reported that human-made carbon dioxide continues to increase above levels not seen in hundreds of thousands of years; currently, about half of the carbon dioxide released from the burning of fossil fuels is not absorbed by vegetation and the oceans, and remains in the atmosphere.[89]
+over the last three decades of the twentieth century, gross domestic product per capita and population growth were the main drivers of increases in greenhouse gas emissions.[90] co2 emissions are continuing to rise due to the burning of fossil fuels and land-use change.[91][92]:71 emissions can be attributed to different regions. attributions of emissions due to land-use change are subject to considerable uncertainty.[93][94]:289
+emissions scenarios, estimates of changes in future emission levels of greenhouse gases, have been projected that depend upon uncertain economic, sociological, technological, and natural developments.[95] in most scenarios, emissions continue to rise over the century, while in a few, emissions are reduced.[96][97] fossil fuel reserves are abundant, and will not limit carbon emissions in the 21st century.[98] emission scenarios, combined with modelling of the carbon cycle, have been used to produce estimates of how atmospheric concentrations of greenhouse gases might change in the future. using the six ipcc sres "marker" scenarios, models suggest that by the year 2100, the atmospheric concentration of co2 could range between 541 and 970 ppm.[99]
+
+aerosols and soot
+ ship tracks can be seen as lines in these clouds over the atlantic ocean on the east coast of the united states, an example of the twomey effect.
+global dimming, a gradual reduction in the amount of sunlight reaching the earth's surface, was observed from 1961 until 1990.[100] solid and liquid particles known as aerosols, produced by volcanoes and human-made pollutants, are thought to be the main cause of this dimming. they exert a cooling effect by reflecting incoming sunlight, with nasa estimating that between 1850 and 2010 aerosols limited global warming by 1 degree celsius.[101] aerosol removal by precipitation gives tropospheric aerosols an atmospheric lifetime of only about a week, while stratospheric aerosols can remain for a few years.[102] global aerosols have been declining since 1990, removing some of the masking of global warming that aerosols had been providing.[103][104][105]
+in addition to their direct effect by scattering and absorbing solar radiation, aerosols have indirect effects on the earth's radiation budget. sulfate aerosols act as cloud condensation nuclei and thus lead to clouds that have more and smaller cloud droplets. these clouds reflect solar radiation more efficiently than clouds with fewer and larger droplets, a phenomenon known as the twomey effect.[106] this effect also causes droplets to be of more uniform size, which reduces growth of raindrops and makes the cloud more reflective to incoming sunlight, known as the albrecht effect.[107] indirect effects are most noticeable in marine stratiform clouds, and have very little radiative effect on convective clouds. indirect effects of aerosols represent the largest uncertainty in radiative forcing.[108]
+while aerosols typically limit global warming by reflecting sunlight, black carbon in soot can also increase global warming when deposited on snow and ice. not only does it increase the absorption of sunlight, it also directly exacerbates melting and sea level rise.[109][110] limiting new black carbon deposits in the arctic could reduce global warming by 0.2 degrees celsius by 2050.[111]. when soot is suspended in the atmosphere it directly absorbs solar radiation, heating the atmosphere and cooling the surface. in isolated areas with high soot production, such as rural india, as much as 50% of surface warming due to greenhouse gases may be masked by atmospheric brown clouds.[112][113] the influences of atmospheric particles, including black carbon, are most pronounced in the tropics and sub-tropics, particularly in asia, while the effects of greenhouse gases are dominant in the extratropics and southern hemisphere.[114]
+
+ contribution of natural factors and human activities to radiative forcing of climate change.[115] radiative forcing values are for the year 2005, relative to the pre-industrial era (1750).[115] the contribution of solar irradiance to radiative forcing is 5% of the value of the combined radiative forcing due to increases in the atmospheric concentrations of carbon dioxide, methane and nitrous oxide.[116]
+solar activity
+main article: solar activity and climate
+since 1978, solar irradiance has been measured by satellites.[117] climate models have been used to examine the role of the sun in recent climate change.[118] models are unable to reproduce the rapid warming observed in recent decades when only taking into account variations in solar output and volcanic activity.[119][120]
+another line of evidence for the warming not being attributable to the sun is the differing temperature changes at different levels in the earth's atmosphere.[121] according to basic physical principles, the greenhouse effect produces warming of the lower atmosphere (the troposphere), but cooling of the upper atmosphere (the stratosphere).[122][123] if solar variations were responsible for the observed warming, warming of both the troposphere and the stratosphere would be expected, but that has not been the case.[124]
+while variations in solar activity have not produced recent global warming, variations in solar output over geologic time (millions to billions of years ago) are believed to have caused major changes in the earth's climate.[125]
+
+variations in earth's orbit
+main article: milankovitch cycles
+the tilt of the earth's axis and the shape of its orbit around the sun vary slowly over tens of thousands of years. this changes climate by changing the seasonal and latitudinal distribution of incoming solar energy at the earth's surface.[126] by reviewing ice cores and seafloor sediments, it has been found that periodic glacial and interglacial periods over last few million years have been been driven by this process.[127]
+during the last few thousand years, this phenomenon contributed to a slow cooling trend at high latitudes of the northern hemisphere during summer, a trend that was reversed by greenhouse-gas-induced warming during the 20th century.[128][129][130][131] orbital cycles favorable for glaciation are not expected within the next 50,000 years.[132][133]
+
+climate change feedback
+main articles: climate change feedback, climate sensitivity, and arctic amplification
+ the dark ocean surface reflects only 6 percent of incoming solar radiation, whereas sea ice reflects 50 to 70 percent.[134]
+a range of feedbacks govern the response of the system to changes in forcings. positive feedbacks increase the response of the climate system to an initial forcing, while negative feedbacks reduce it.[135]
+there are a range of feedbacks in the climate system, including water vapour, changes in ice–albedo (snow and ice cover affect how much the earth's surface absorbs or reflects incoming sunlight), clouds, and changes in the earth's carbon cycle (e.g., the release of carbon from soil).[136] the main negative feedback is via radiative cooling to space as infrared radiation,[137] which increases strongly with increasing temperature.[138]
+feedbacks are an important factor in determining the sensitivity of the climate system to increased atmospheric greenhouse gas concentrations. other factors being equal, a higher climate sensitivity means that more warming will occur for a given increase in greenhouse gas forcing.[139] uncertainty over the effect of feedbacks is a major reason why different climate models project different magnitudes of warming for a given forcing scenario. more research is needed to understand the role of clouds[135] and carbon cycle feedbacks in climate projections.[140]
+an observation-based study on future climate change, on the soil carbon feedback, conducted since 1991 in harvard, suggests the pending release of about 190 petagrams of soil carbon, the equivalent of the past two decades of greenhouse gas emissions from fossil fuel burning, up through the year 2100 from the top 1-meter of earth's soils, due to changes in microbial communities under elevated temperatures.[141][142] climate models do not account for this possible feedback mechanism. another study conducted by harvard researchers suggests that increased water vapor injected into the stratosphere, due to rising temperatures, increases ozone depletion, subsequently raising the odds of skin cancer and damaging crops.[143]
+arctic temperatures have increased at almost twice the rate of the rest of the world.[144] this appears to arise both from an intensification of poleward heat transport and more directly from changes in the local net radiation balance.[145] some examples of feedbacks thought to contribute include the reduction of snow cover and sea ice, changes in atmospheric and ocean circulation, the presence of anthropogenic soot in the arctic environment, increases in cloud cover, and water vapor. according to the 2013 ipcc report, models often tend to underestimate arctic amplification.[146][147] studies have linked the rapidly warming arctic to a vanishing cryosphere, and extreme weather in mid-latitudes.[148][149] and changes in the jet stream.[150]
+a 2018 study tried to identify a planetary threshold for self-reinforcing feedbacks that progress even when man-made emissions are reduced, which could eventually lead to a new hothouse climate state. the authors suggest, based on previous studies, that even a 2 °c (3.6 °f) increase in temperature over pre-industrial levels, which is the upper limit set in the paris agreement, may be enough to trigger such a hothouse earth scenario. co-author johan rockström notes that whether this would occur "is one of the most existential questions in science." study author katherine richardson stresses, "we note that the earth has never in its history had a quasi-stable state that is around 2 °c warmer than the preindustrial and suggest that there is substantial risk that the system, itself, will 'want' to continue warming because of all of these other processes – even if we stop emissions."[30][151][152]
+
+climate models
+ future co2 projections, including all forcing agents' atmospheric co2-equivalent concentrations (in parts-per-million-by-volume (ppmv)) according to four rcps (representative concentration pathways).
+ projected change in annual mean surface air temperature from the late 20th century to the middle 21st century, based on a medium emissions scenario (sres a1b).[153] this scenario assumes that no future policies are adopted to limit greenhouse gas emissions. image credit: noaa gfdl.[154]
+main article: global climate model
+a climate model is a representation of the physical, chemical and biological processes that affect the climate system.[155]
+although researchers attempt to include as many processes as possible, simplifications of the actual climate system are inevitable because of the constraints of available computer power and limitations in knowledge of the climate system. results from models can also vary due to different greenhouse gas inputs and the model's climate sensitivity. for example, the uncertainty in ipcc's 2007 projections is caused by (1) the use of multiple models[156] with differing sensitivity to greenhouse gas concentrations,[157] (2) the use of differing estimates of humanity's future greenhouse gas emissions,[156] (3) any additional emissions from climate feedbacks that were not included in the models ipcc used to prepare its report, i.e., greenhouse gas releases from permafrost.[158]
+the models do not assume the climate will warm due to increasing levels of greenhouse gases. instead the models predict how greenhouse gases will interact with radiative transfer and other physical processes. warming or cooling is thus a result, not an assumption, of the models.[159]
+clouds and their effects are especially difficult to predict. improving the models' representation of clouds is therefore an important topic in current research.[160] another prominent research topic is expanding and improving representations of the carbon cycle.[161][162][163]
+models are also used to help investigate the causes of recent climate change by comparing the observed changes to those that the models project from various natural and human causes. although these models do not unambiguously attribute the warming that occurred from approximately 1910 to 1945 to either natural variation or human effects, they do indicate that the warming since 1970 is dominated by anthropogenic greenhouse gas emissions.[64]
+the physical realism of models is tested by examining their ability to simulate contemporary or past climates.[164] climate models produce a good match to observations of global temperature changes over the last century, but do not simulate all aspects of climate.[165] not all effects of global warming are accurately predicted by the climate models used by the ipcc. observed arctic shrinkage has been faster than that predicted.[166] precipitation increased proportionally to atmospheric humidity, and hence significantly faster than global climate models predict.[167][168] since 1990, sea level has also risen considerably faster than models predicted it would.[169] the 2017 united states published national climate assessment, notes that "climate models may still be underestimating or missing relevant feedback processes".[170]
+
+effects
+main article: effects of global warming
+ historical sea level reconstruction and projections up to 2100 published in january 2017 by the u.s. global change research program for the fourth national climate assessment.[171]
+ map of the earth with a six-meter sea level rise represented in red.
+ sparse records indicate that glaciers have been retreating since the early 1800s. in the 1950s measurements began that allow the monitoring of glacial mass balance, reported to the world glacier monitoring service (wgms) and the national snow and ice data center (nsidc).
+biosphere
+overall, it is expected that climate change will result in the extinction of many species and reduced diversity of ecosystems.[172] rising temperatures have been found to push bees to their physiological limits, and could cause the extinction of bee populations.[173] a 2012 study concluded that continued ocean uptake of co2 affects the brains and central nervous system of certain fish species and this impacts their ability to hear, smell, and evade predators. the study authors note, "we've now established it isn't simply the acidification of the oceans that is causing disruption – as is the case with shellfish and plankton with chalky skeletons – but the actual dissolved co2 itself is damaging the fishes' nervous systems."[174]
+
+environmental
+ as the climate change melts sea ice, the u.s. geological survey projects that two-thirds of polar bears will disappear by 2050.[175][176]
+main articles: physical impacts of climate change and climate change and ecosystems
+the environmental effects of global warming are broad and far reaching. they include the following diverse effects:
+
+arctic sea ice decline, sea level rise, retreat of glaciers: global warming has led to decades of shrinking and thinning in a warm climate that has put the arctic sea ice in a precarious position, it is now vulnerable to atmospheric anomalies.[177] projections of declines in arctic sea ice vary.[178][179] recent projections suggest that arctic summers could be ice-free (defined as ice extent less than 1 million square km) as early as 2025–2030.[180] the sea level rise since 1993 has been estimated to have been on average 2.6 mm and 2.9 mm per year ± 0.4 mm. additionally, sea level rise has accelerated from 1995 to 2015.[181] over the 21st century, the ipcc projects for a high emissions scenario, that global mean sea level could rise by 52–98 cm.[182]
+extreme weather, extreme events, tropical cyclones: data analysis of extreme events from 1960 until 2010 suggests that droughts and heat waves appear simultaneously with increased frequency.[183] extremely wet or dry events within the monsoon period have increased since 1980.[184] projections suggest a probable increase in the frequency and severity of some extreme weather events, such as heat waves.[185]
+ecosystem changes, changes in ocean properties: in terrestrial ecosystems, the earlier timing of spring events, as well as poleward and upward shifts in plant and animal ranges, have been linked with high confidence to recent warming.[186] it is expected that most ecosystems will be affected by higher atmospheric co2 levels, combined with higher global temperatures.[187] expansion of deserts in the subtropics is probably linked to global warming.[17] the physical effect of global warming on oceans include an increase in acidity, and a reduction of oxygen levels (ocean deoxygenation).[188][189] increases in atmospheric co2 concentrations have led to an increase in dissolved co2 and thus ocean acidity, measured by lower ph values.[188] ocean acidification threatens damage to coral reefs, fisheries, protected species, and other natural resources of value to society.[188][190] without substantial actions to reduce the rate of global warming, land based ecosystems are at risk of major ecological shifts, transforming composition and structure.[191]
+long-term effects of global warming, runaway climate change: on the timescale of centuries to millennia, the magnitude of global warming will be determined primarily by anthropogenic co2 emissions.[192] this is due to carbon dioxide's very long lifetime in the atmosphere.[192] long-term effects also include a response from the earth's crust, due to ice melting and deglaciation, in a process called post-glacial rebound, when land masses are no longer depressed by the weight of ice. this could lead to landslides and increased seismic and volcanic activities. tsunamis could be generated by submarine landslides caused by warmer ocean water thawing ocean-floor permafrost or releasing gas hydrates.[193]
+abrupt climate change, cold blob (north atlantic): climate change could result in global, large-scale changes in natural and social systems.[194] examples include ocean acidification caused by increased atmospheric concentrations of carbon dioxide, and the long-term melting of ice sheets, which contributes to sea level rise.[195] some large-scale changes could occur abruptly, i.e., over a short time period, and might also be irreversible. examples of abrupt climate change are the rapid release of methane and carbon dioxide from permafrost, which would lead to amplified global warming. another example is the possibility for the atlantic meridional overturning circulation to slow- or shutdown (see also shutdown of thermohaline circulation).[196][197] this could trigger cooling in the north atlantic, europe, and north america.[198][199] it would particularly affect areas such as the british isles, france and the nordic countries, which are warmed by the north atlantic drift.[200][201]
+social systems
+further information: effects of global warming on humans, effects of global warming on human health, climate change and national security, climate refugee, climate change adaptation, and economics of global warming
+the effects of climate change on human systems, mostly due to warming or shifts in precipitation patterns, or both, have been detected worldwide. the future social impacts of climate change will be uneven across the world.[202] many risks are expected to increase with higher magnitudes of global warming.[203] all regions are at risk of experiencing negative impacts.[204] low-latitude, less developed areas face the greatest risk.[205] a study from 2015 concluded that economic growth (gross domestic product) of poorer countries is much more impaired with projected future climate warming, than previously thought.[206] in small islands and mega deltas, inundation as a result of sea level rise is expected to threaten vital infrastructure and human settlements.[207][208] this could lead to issues of homelessness in countries with low-lying areas such as bangladesh, as well as statelessness for populations in countries such as the maldives and tuvalu.[209]
+examples of impacts of global warming on humans include:
+
+a meta-analysis concluded in 2014 that each degree of temperature rise will increase violence by up to 20%, which includes fist fights, violent crimes, civil unrest, or wars.[210][211][212][213]
+estimates in 2015 based on the ipcc a1b emission scenario from additional greenhouse gases released from permafrost, found associated impact damages to the economy to be us$43 trillion.[214]
+crop production will probably be negatively affected in low latitude countries, while effects at northern latitudes may be positive or negative.[215] global warming of around 4.6 °c relative to pre-industrial levels could pose a large risk to global and regional food security.[216] the impact of climate change on crop productivity for the four major crops was negative for wheat and maize and neutral for soy and rice in the years 1960–2013.[217] while crop production has increased in some mid-latitude regions such as the uk and northeast china, economic losses due to extreme weather events have increased globally.[218] see also climate change and agriculture.
+generally impacts on public health will be more negative than positive.[219][220][221] impacts include: the effects of extreme weather, leading to injury and loss of life;[222] and indirect effects, such as undernutrition brought on by crop failures.[220][221][223] there has been a shift from cold- to heat-related mortality in some regions as a result of warming.[218] temperature rise has been connected to increased numbers of suicides.[224]
+livelihoods of indigenous peoples of the arctic have been altered by climate change, and there is emerging evidence of climate change impacts on livelihoods of indigenous peoples in other regions. regional impacts of climate change are now observable at more locations than before, on all continents and across ocean regions.[218]
+regional
+main article: regional effects of global warming
+the arctic, africa, small islands and asian megadeltas are regions that are likely to be especially affected by future climate change.[225] africa is one of the most vulnerable continents to climate variability and change because of multiple existing stresses and low adaptive capacity.[226] existing stresses include poverty, political conflicts, and ecosystem degradation. by 2050, between 350 million and 600 million people are projected to experience increased water stress due to climate change (see climate change in africa).[226] climate variability and change is projected to severely compromise agricultural production, including access to food, across africa.[226] research projects that regions even may become uninhabitable, due to a high wet-bulb temperature.[227]
+polar bears entering into humans area happen more than past and it's because climate change effect. global warming reduces sea-ice and forcing them to come in land for finding food. 2019 mass invasion of russian polar bears happened in february and polar bears entering into the northeastern novaya zemlya. dozens of polar bear were seen entering homes and public buildings and inhabited areas, so arkhangelsk region authorities declared a state of emergency on saturday.[228][229]
+
+responses
+mitigation
+main article: climate change mitigation
+ the graph on the right shows three "pathways" to meet the unfccc's 2 °c target, labelled "global technology", "decentralized solutions", and "consumption change". each pathway shows how various measures (e.g., improved energy efficiency, increased use of renewable energy) could contribute to emissions reductions. image credit: pbl netherlands environmental assessment agency.[230]
+mitigation of climate change are actions to reduce greenhouse gas emissions, or enhance the capacity of carbon sinks to absorb greenhouse gases from the atmosphere.[231] there is a large potential for future reductions in emissions by a combination of activities, including energy conservation and increased energy efficiency; the use of low-carbon energy technologies, such as renewable energy, nuclear energy, and carbon capture and storage;[232][233] and enhancing carbon sinks through, for example, reforestation and preventing deforestation.[232][233]
+a 2015 report by citibank concluded that transitioning to a low carbon economy would yield positive return on investments.[234]
+near- and long-term trends in the global energy system are inconsistent with limiting global warming at below 1.5 or 2 °c, relative to pre-industrial levels.[235][236] pledges made as part of the cancún agreements are broadly consistent with having a likely chance (66 to 100% probability) of limiting global warming (in the 21st century) at below 3 °c, relative to pre-industrial levels.[236]
+in limiting warming at below 2 °c, more stringent emission reductions in the near-term would allow for less rapid reductions after 2030.[237] many integrated models are unable to meet the 2 °c target if pessimistic assumptions are made about the availability of mitigation technologies.[238]
+using bicycles reduces ghg emissions.[239]
+
+adaptation
+main article: climate change adaptation
+climate change adaptation is another policy response. the adaptation may be planned, either in reaction to or anticipation of global warming, or spontaneous, i.e., without government intervention.[240] planned adaptation is already occurring on a limited basis.[232] the barriers, limits, and costs of future adaptation are not fully understood.[232] environmental organizations and public figures have emphasized changes in the climate and the risks they entail, while promoting adaptation to changes in infrastructural needs and emissions reductions.[241]
+adaptation is especially important in developing countries since those countries are predicted to bear the brunt of the effects of global warming.[242] that is, the capacity and potential for humans to adapt (called adaptive capacity) is unevenly distributed across different regions and populations, and developing countries generally have less capacity to adapt.[243]
+
+climate engineering
+main article: climate engineering
+climate engineering (sometimes called geoengineering or climate intervention) is the deliberate modification of the climate. it has been investigated as a possible response to global warming, e.g. by nasa[244] and the royal society.[245] techniques under research fall generally into the categories solar radiation management and carbon dioxide removal, although various other schemes have been suggested. a study from 2014 investigated the most common climate engineering methods and concluded they are either ineffective or have potentially severe side effects and cannot be stopped without causing rapid climate change.[246]
+
+society and culture
+political discussion
+main article: politics of global warming
+further information: 2011, 2012, 2013, and 2015 sessions of united nations climate change conference
+ article 2 of the un framework convention refers explicitly to "stabilization of greenhouse gas concentrations."[247] to stabilize the atmospheric concentration of co2, emissions worldwide would need to be dramatically reduced from their present level.[248]
+most countries in the world are parties to the united nations framework convention on climate change (unfccc).[249]
+the ultimate objective of the convention is to prevent dangerous human interference of the climate system.[250]
+as stated in the convention, this requires that greenhouse gas concentrations are stabilized in the atmosphere at a level where ecosystems can adapt naturally to climate change, food production is not threatened, and economic development can proceed in a sustainable fashion.[251] the framework convention was agreed on in 1992, but global emissions have risen since then.[252]
+during negotiations, the g77 (a lobbying group in the united nations representing 133 developing countries)[253]:4 pushed for a mandate requiring developed countries to "[take] the lead" in reducing their emissions.[254] this was justified on the basis that the developed countries' emissions had contributed most to the cumulation of greenhouse gases in the atmosphere, per-capita emissions (i.e., emissions per head of population) were still relatively low in developing countries, and the emissions of developing countries would grow to meet their development needs.[94]:290
+this mandate was sustained in the kyoto protocol to the framework convention,[94]:290 which entered into legal effect in 2005.[255] in ratifying the kyoto protocol, most developed countries accepted legally binding commitments to limit their emissions. these first-round commitments expired in 2012.[255]
+united states president george w. bush rejected the treaty on the basis that "it exempts 80% of the world, including major population centres such as china and india, from compliance, and would cause serious harm to the us economy."[253]:5
+at the 15th unfccc conference of the parties, held in 2009 at copenhagen, several unfccc parties produced the copenhagen accord.[256][257] parties associated with the accord (140 countries, as of  november 2010[update])[258]:9 aim to limit the future increase in global mean temperature to below 7002275149999999999♠2 °c.[259] the 16th conference of the parties (cop16) was held at cancún in 2010. it produced an agreement, not a binding treaty, that the parties should take urgent action to reduce greenhouse gas emissions to meet a goal of limiting global warming to 7002275149999999999♠2 °c above pre-industrial temperatures. it also recognized the need to consider strengthening the goal to a global average rise of 7002274649999999999♠1.5 °c.[260]
+
+scientific discussion
+main article: scientific opinion on climate change
+play media presentation video of global warming
+the discussion continues in scientific articles that are peer-reviewed and assessed by scientists who
+work in the relevant fields and participate in the intergovernmental panel on climate change. the scientific consensus as of  2013[update] stated in the ipcc fifth assessment report is that it "is extremely likely that human influence has been the dominant cause of the observed warming since the mid-20th century".[261]
+a 2008 report by the u.s. national academy of sciences stated that most scientists by then agreed that observed warming in recent decades was primarily caused by human activities increasing the amount of greenhouse gases in the atmosphere.[91] in 2005 the royal society stated that while the overwhelming majority of scientists were in agreement on the main points, some individuals and organizations opposed to the consensus on urgent action needed to reduce greenhouse gas emissions had tried to undermine the science and work of the ipcc.[262] national science academies have called on world leaders for policies to cut global emissions.[263]
+in 2018, the ipcc published sr15, which warned that if current rate of greenhouse gas emissions are not mitigated, major crises could occur by 2040 as the planet warms by 2.7 degrees fahrenheit (1.5 degrees celsius). the report said that preventing such crises will require a swift transformation of the global economy that has "no documented historic precedent."[264]
+in the scientific literature, there is a strong consensus that global surface temperatures have increased in recent decades and that the trend is caused mainly by human-induced emissions of greenhouse gases.[265] no scientific body of national or international standing disagrees with this view.[266][267] in november 2017, a second warning to humanity signed by 15,364 scientists from 184 countries stated that "the current trajectory of potentially catastrophic climate change due to rising greenhouse gases from burning fossil fuels, deforestation, and agricultural production – particularly from farming ruminants for meat consumption" is "especially troubling."[268] a july 2017 study published in environmental research letters asserts that the most significant action individuals could make to mitigate their own carbon footprint is to have fewer children, followed by living vehicle free, forgoing air travel and adopting a plant-based diet.[269]
+
+public opinion and disputes
+main articles: climate change denial, global warming controversy, media coverage of climate change, and public opinion on climate change
+ global warming was the cover story in this 2007 issue of ms. magazine
+the global warming controversy refers to a variety of disputes, substantially more pronounced in the popular media than in the scientific literature,[270][271] regarding the nature, causes, and consequences of global warming. the disputed issues include the causes of increased global average air temperature, especially since the mid-20th century, whether this warming trend is unprecedented or within normal climatic variations, whether humankind has contributed significantly to it, and whether the increase is completely or partially an artefact of poor measurements. additional disputes concern estimates of climate sensitivity, predictions of additional warming, and what the consequences of global warming will be.
+in the united states from about 1990 onwards, american conservative think tanks had begun challenging the legitimacy of global warming as a social problem. they challenged the scientific evidence, argued that global warming would have benefits, and asserted that proposed solutions would do more harm than good.[272] some people dispute aspects of climate change science.[262][273] organizations such as the libertarian competitive enterprise institute, conservative commentators, and some companies such as exxonmobil have challenged ipcc climate change scenarios, funded scientists who disagree with the scientific consensus, and provided their own projections of the economic cost of stricter controls.[274][275][276][277] on the other hand, some fossil fuel companies have scaled back their efforts in recent years,[278] or even called for policies to reduce global warming.[279] global oil companies have begun to acknowledge climate change exists and is caused by human activities and the burning of fossil fuels.[280]
+the global warming problem came to international public attention in the late 1980s. polling groups began to track opinions on the subject, at first mainly in the united states.[281] the longest consistent polling, by gallup in the us, found relatively small deviations of 10% or so from 1998 to 2015 in opinion on the seriousness of global warming, but with increasing polarization between those concerned and those unconcerned.[282]
+due to confusing media coverage in the early 1990s, issues such as ozone depletion and climate change were often mixed up, affecting public understanding of these issues.[283] according to a 2010 survey of americans, a majority thought that the ozone layer and spray cans contribute to global warming.[284] although there are a few areas of linkage, the relationship between the two is not strong. reduced stratospheric ozone has had a slight cooling influence on surface temperatures, while increased tropospheric ozone has had a somewhat larger warming effect.[285] however, the cfcs used in spray cans are powerful greenhouse gases, with some estimates attributing cfc emissions during the 1970s to have caused almost half of the global warming for that decade.[286]
+by 2010, with 111 countries surveyed, gallup determined that there had been a substantial decrease since 2007–2008 in the number of americans and europeans who viewed global warming as a serious threat. in the us, just a little over half the population (53%) viewed it as a serious concern for either themselves or their families; this was 10 points below the 2008 poll (63%). latin america had the biggest rise in concern: 73% said global warming was a serious threat to their families.[287] this global poll also found that people were more likely to attribute global warming to human activities than to natural causes, except in the us where nearly half (47%) of the population attributed global warming to natural causes.[288]
+a march–may 2013 survey by pew research center for the people & the press polled 39 countries about global threats. according to 54% of those questioned, global warming featured top of the perceived global threats.[289]
+
+history
+main article: history of climate change science
+the history of climate change science began in the early 19th century when ice ages and other natural changes in paleoclimate were first suspected and the natural greenhouse effect first identified.[66] in the late 19th century, scientists first argued that human emissions of greenhouse gases could change the climate. in the 1960s, the warming effect of carbon dioxide gas became increasingly convincing.[290] by the 1990s, as a result of improving fidelity of computer models and observational work confirming the milankovitch theory of the ice ages, a consensus position formed: greenhouse gases were deeply involved in most climate changes and human caused emissions were bringing discernible global warming. since the 1990s, scientific research on climate change has included multiple disciplines and has expanded.[291] research during this period has been summarized in the assessment reports by the intergovernmental panel on climate change.
+
+terminology
+in the 1950s, research suggested increasing temperatures, and a 1952 newspaper reported "climate change." this phrase next appeared in a november 1957 report in the hammond times which described roger revelle's research into the effects of increasing human-caused co2 emissions on the greenhouse effect, "a large scale global warming, with radical climate changes may result." both phrases were used only occasionally until 1975, when wallace smith broecker published a scientific paper on the topic, "climatic change: are we on the brink of a pronounced global warming?" the phrase began to come into common use, and in 1976 mikhail budyko's statement that "a global warming up has started" was widely reported.[290] other studies, such as a 1971 mit report, referred to the human impact as "inadvertent climate modification", but an influential 1979 national academy of sciences study headed by jule charney followed broecker in using global warming for rising surface temperatures, while describing the wider effects of increased co2 as climate change.[292]
+in 1986 and november 1987, nasa climate scientist james hansen gave testimony to congress on global warming. there were increasing heatwaves and drought problems in the summer of 1988, and when hansen testified in the senate on 23 june he sparked worldwide interest.[291] he said, "global warming has reached a level such that we can ascribe with a high degree of confidence a cause and effect relationship between the greenhouse effect and the observed warming."[293] public attention increased over the summer, and global warming became the dominant popular term, commonly used both by the press and in public discourse.[292]
+in a 2008 nasa article on usage, erik m. conway defined global warming as "the increase in earth's average surface temperature due to rising levels of greenhouse gases", while climate change was "a long-term change in the earth's climate, or of a region on earth". because effects such as changing patterns of rainfall and rising sea levels would probably have more impact than temperatures alone, he considered global climate change a more scientifically accurate term, and like the intergovernmental panel on climate change, the nasa website emphasized this wider context.[292]
+
+see also
+
+
+global warming portal
+science portal
+
+
+
+
+book: global warming
+
+
+anthropocene
+climate change and agriculture
+climate change in the arctic
+environmental impact of the coal industry
+geologic temperature record
+global cooling
+glossary of climate change
+greenhouse gas emissions accounting
+list of countries by carbon dioxide emissions
+holocene extinction
+index of climate change articles
+planetary boundaries, climate change/global warming is one of them
+scientific opinion on climate change
+
+notes
+
+
+^ the 2001 joint statement was signed by the national academies of science of australia, belgium, brazil, canada, the caribbean, the people's republic of china, france, germany, india, indonesia, ireland, italy, malaysia, new zealand, sweden, and the uk.[12] the 2005 statement added japan, russia, and the us. the 2007 statement added mexico and south africa. the network of african science academies and the polish academy of sciences have issued separate statements. professional scientific societies include american astronomical society, american chemical society, american geophysical union, american institute of physics, american meteorological society, american physical society, american quaternary association, australian meteorological and oceanographic society, canadian foundation for climate and atmospheric sciences, canadian meteorological and oceanographic society, european academy of sciences and arts, european geosciences union, european science foundation, geological society of america, geological society of australia, geological society of london-stratigraphy commission, interacademy council, international union of geodesy and geophysics, international union for quaternary research, national association of geoscience teachers, national research council (us), royal meteorological society, and world meteorological organization.
+
+^ earth has already experienced almost 1/2 of the 2.0 °c (3.6 °f) described in the cancún agreement. in the last 100 years, earth's average surface temperature increased by about 0.8 °c (1.4 °f) with about two-thirds of the increase occurring over just the last three decades.[27]
+
+^ scientific journals use "global warming" to describe an increasing global average temperature just at earth's surface, and most of these authorities further limit "global warming" to such increases caused by human activities or increasing greenhouse gases.
+
+^ the greenhouse effect produces an average worldwide temperature increase of about 33 °c (59 °f) compared to black body predictions without the greenhouse effect, not an average surface temperature of 33 °c (91 °f). the average worldwide surface temperature is about 14 °c (57 °f).
+
+
+citations
+
+
+^ http://berkeleyearth.lbl.gov/auto/global/land_and_ocean_summary.txt berkeley earth – land and ocean summary
+
+^ a b stocker, t.f.; qin, d.; plattner, g.-k.; tignor, m.; allen, s.k.; boschung, j.; nauels, a.; xia, y.; bex, v.; midgley, p.m. (2013). "the physical science basis – summary for policymakers" (pdf). ipcc wgi ar5 (report). p. 4. warming of the climate system is unequivocal, and since the 1950s, many of the observed changes are unprecedented over decades to millennia. the atmosphere and ocean have warmed, the amounts of snow and ice have diminished, sea level has risen, and the concentrations of greenhouse gases have increased..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ "myths vs. facts: denial of petitions for reconsideration of the endangerment and cause or contribute findings for greenhouse gases under section 202(a) of the clean air act". u.s. environmental protection agency. retrieved 7 august 2017. the u.s. global change research program, the national academy of sciences, and the intergovernmental panel on climate change (ipcc) have each independently concluded that warming of the climate system in recent decades is "unequivocal". this conclusion is not drawn from any one source of data but is based on multiple lines of evidence, including three worldwide temperature datasets showing nearly identical warming trends as well as numerous other independent indicators of global warming (e.g., rising sea levels, shrinking arctic sea ice).
+
+^ mach, katharine j.; serge, planton; von stechow, christoph (2014). "annex ii glossary" (pdf). ipcc syr ar5 (report). p. 124. global warming refers to the gradual increase, observed or projected, in global surface temperature, as one of the consequences of radiative forcing caused by anthropogenic emissions. {wgiii}
+
+^ masson-delmotte, valérie; schulz, michael (2013). "5: information from paleoclimate archives" (pdf). ipcc wgi ar5 (report). pp. 389, 399–400. the petm [around 55.5–55.3 million years ago] was marked by ... global warming of 4°c to 7°c .....  deglacial global warming occurred in two main steps from 17.5 to 14.5 ka [thousand years ago] and 13.0 to 10.0 ka.
+
+^ shaftel, holly (january 2016). "what's in a name? weather, global warming and climate change". nasa climate change: vital signs of the planet. retrieved 12 october 2018. 'climate change' and 'global warming' are often used interchangeably but have distinct meanings. .... global warming refers to the upward temperature trend across the entire earth since the early 20th century .... climate change refers to a broad range of global phenomena ...[which] include the increased temperature trends described by global warming
+
+^ "what's the difference between global warming and climate change?". noaa climate.gov. 17 june 2015. retrieved 15 october 2018. global warming refers only to the earth’s rising surface temperature, while climate change includes warming and the 'side effects' of warming—like melting glaciers, heavier rainstorms, or more frequent drought. said another way, global warming is one symptom of the much larger problem of human-caused climate change.
+
+^ mach, katharine j.; serge, planton; von stechow, christoph (2014). "annex ii glossary". ipcc syr ar5 (report). p. 120. climate change refers to a change in the state of the climate that can be identified (e.g., by using statistical tests) by changes in the mean and/or the variability of its properties and that persists for an extended period, typically decades or longer. climate change may be due to natural internal processes or external forcings such as modulations of the solar cycles, volcanic eruptions and persistent anthropogenic changes in the composition of the atmosphere or in land use. .... {wgi, ii, iii}
+
+^ "ipcc, climate change 2013: the physical science basis – summary for policymakers (ar5 wg1)" (pdf). intergovernmental panel on climate change. p. 17. it is extremely likely that human influence has been the dominant cause of the observed warming since the mid-20th century.
+
+^ "ipcc, climate change 2013: the physical science basis -technical summary" (pdf). intergovernmental panel on climate change. pp. 89–90.
+
+^ "joint science academies' statement" (pdf). retrieved 6 january 2014.
+
+^ kirby, alex (17 may 2001). "science academies back kyoto". bbc news. retrieved 27 july 2011.
+
+^ "scientific consensus: earth's climate is warming". climate change: vital signs of the planet. nasa. archived from the original on 28 june 2018. retrieved 7 august 2017.
+
+^ "list of organizations". the governor's office of planning & research, state of california. archived from the original on 7 august 2017. retrieved 7 august 2017.
+
+^ field, christopher b.; barros, vicente r.; mach, katharine j.; mastrandrea, michael d.;  et al. "ipcc, climate change 2014: impacts, adaptation, and vulnerability – technical summary" (pdf). intergovernmental panel on climate change. pp. 44–46.
+
+^ solomon et al., technical summary, section ts.5.3: regional-scale projections, in ipcc ar4 wg1 2007.
+
+^ a b zeng, ning; yoon, jinho (1 september 2009). "expansion of the world's deserts due to vegetation-albedo feedback under global warming". geophysical research letters. 36 (17): l17401. bibcode:2009georl..3617401z. doi:10.1029/2009gl039699. issn 1944-8007.
+
+^ on snowfall:
+christopher joyce (15 february 2010). "get this: warming planet can mean more snow". npr.
+"global warming means more snowstorms: scientists". 1 march 2011.
+"does record snowfall disprove global warming?". 9 july 2010. retrieved 14 december 2014.
+
+^ battisti, david s.; naylor, rosamond l. (9 january 2009). "historical warnings of future food insecurity with unprecedented seasonal heat". science. 323 (5911): 240–44. doi:10.1126/science.1164363. issn 0036-8075. pmid 19131626.
+
+^ us nrc 2012, p. 26
+
+^ knowlton, nancy (2001-05-08). "the future of coral reefs". proceedings of the national academy of sciences. 98 (10): 5419–5425. doi:10.1073/pnas.091092998. issn 0027-8424. pmc 33228. pmid 11344288.
+
+^ epa (19 january 2017). "climate impacts on ecosystems".
+
+^ clark, peter u. (8 february 2016). "consequences of twenty-first-century policy for multi-millennial climate and sea-level change" (pdf). nature climate change. 6 (4): 360–69. bibcode:2016natcc...6..360c. doi:10.1038/nclimate2923.
+
+^ "status of ratification of the convention". unfccc secretariat: bonn, germany: united nations framework convention on climate change. 2011.. most countries in the world are parties to the united nations framework convention on climate change (unfccc), which has adopted the 7002275149999999999♠2 °c limit. as of 25 november 2011, there are 195 parties (194 states and 1 regional economic integration organization (the european union)) to the unfccc.
+
+^ "first steps to a safer future: introducing the united nations framework convention on climate change". united nations framework convention on climate change. archived from the original on 8 january 2014. retrieved 7 august 2017. preventing "dangerous" human interference with the climate system is the ultimate aim of the unfccc.
+
+^ "conference of the parties – sixteenth session: decision 1/cp.16: the cancun agreements: outcome of the work of the ad hoc working group on long-term cooperative action under the convention (english): paragraph 4" (pdf). unfccc secretariat: bonn, germany: united nations framework convention on climate change. 2011: 3. "(...) deep cuts in global greenhouse gas emissions are required according to science, and as documented in the fourth assessment report of the intergovernmental panel on climate change, with a view to reducing global greenhouse gas emissions so as to hold the increase in global average temperature below 7002275149999999999♠2 °c above preindustrial levels"
+
+^ america's climate choices. washington, dc: the national academies press. 2011. p. 15. isbn 978-0-309-14585-5. the average temperature of the earth's surface increased by about 1.4 °f (0.8 °c) over the past 100 years, with about 1.0 °f (0.6 °c) of this warming occurring over just the past three decades.
+
+^ 
+sutter, john d.; berlinger, joshua (12 december 2015). "final draft of climate deal formally accepted in paris". cnn. retrieved 12 december 2015.
+vaughan, a. (12 december 2015). "paris climate deal: key points at a glance". the guardian. london and manchester. archived from the original on 13 december 2015. retrieved 12 december 2015.. archived.
+
+^ james hansen; makiko sato; gary russell; pushker kharecha (september 2013). "climate sensitivity, sea level and atmospheric carbon dioxide". royal society publishing. 371 (2001): 20120294. arxiv:1211.4846. bibcode:2013rspta.37120294h. doi:10.1098/rsta.2012.0294. pmc 3785813.
+
+^ a b steffen;  et al. (2018). "trajectories of the earth system in the anthropocene". pnas. doi:10.1073/pnas.1810141115.
+
+^ stokes, bruce; wike, richard; carle, jill (5 november 2015). "global concern about climate change, broad support for limiting emissions". pew research center's global attitudes project. retrieved 7 august 2017.
+
+^ "climate change 2013: the physical science basis, ipcc fifth assessment report (wgi ar5)" (pdf). wgi ar5. ipcc ar5. 2013. p. 5.
+
+^ "climate change 2007: working group i: the physical science basis". ipcc ar4. 2007.
+
+^ rhein, m.; rintoul, s.r. (2013). "3: observations: ocean" (pdf). ipcc wgi ar5 (report). p. 257. ocean warming dominates the global energy change inventory. warming of the ocean accounts for about 93% of the increase in the earth's energy inventory between 1971 and 2010 (high confidence), with warming of the upper (0 to 700 m) ocean accounting for about 64% of the total. melting ice (including arctic sea ice, ice sheets and glaciers) and warming of the continents and atmosphere account for the remainder of the change in energy.
+
+^ "uah v6.0 tlt data" (trend data at bottom of file). national space science and technology center. retrieved 3 february 2017.
+
+^ "upper air temperature: decadal trends". remote sensing systems. retrieved 3 february 2017.
+
+^ jansen et al., ch. 6, palaeoclimate, section 6.6.1.1: what do reconstructions based on palaeoclimatic proxies show?, pp. 466–78 archived 24 may 2010 at the wayback machine, in ipcc ar4 wg1 2007.
+
+^ a b c d kennedy, j.j.;  et al. (2010). "how do we know the world has warmed? in: 2. global climate, in: state of the climate in 2009". bulletin of the american meteorological society. 91 (7): 26.
+
+^ kennedy, c. (10 july 2012). "climatewatch magazine >> state of the climate: 2011 global sea level". noaa climate services portal. archived from the original on 12 may 2013. retrieved 1 october 2012.
+
+^ "summary for policymakers". direct observations of recent climate change., in ipcc ar4 wg1 2007
+
+^ "summary for policymakers". b. current knowledge about observed impacts of climate change on the natural and human environment., in ipcc ar4 wg2 2007
+
+^ rosenzweig, c.;  et al. "ch 1: assessment of observed changes and responses in natural and managed systems". sec 1.3.5.1 changes in phenology., in ipcc ar4 wg2 2007, p. 99
+
+^ leavenworth, stuart (15 february 2018). "snow-covered beaches? chilly iguanas? they are part of a mysterious 'hole' in global warming". mcclatchy washington bureau.
+
+^ trenberth et al., chap 3, observations: atmospheric surface and climate change, executive summary, p. 237, in ipcc ar4 wg1 2007.
+
+^ sutton, rowan t.; dong, buwen; gregory, jonathan m. (16 january 2007). "land/sea warming ratio in response to climate change: ipcc ar4 model results and comparison with observations". geophysical research letters. 34 (2): l02701. bibcode:2007georl..3402701s. doi:10.1029/2006gl028164. retrieved 19 september 2007.
+
+^ feulner, georg; rahmstorf, stefan; levermann, anders; volkwardt, silvia (march 2013). "on the origin of the surface air temperature difference between the hemispheres in earth's present-day climate". journal of climate. 26: 130325101629005. bibcode:2013jcli...26.7136f. doi:10.1175/jcli-d-12-00636.1. retrieved 25 april 2013.
+
+^ ts.3.1.2 spatial distribution of changes in temperature, circulation and related variables – ar4 wgi technical summary
+
+^ ehhalt et al., chapter 4: atmospheric chemistry and greenhouse gases, archived 23 january 2012 at the wayback machine section 4.2.3.1: carbon monoxide (co) and hydrogen (h2), archived 9 april 2012 at the wayback machine p. 256, archived 17 january 2012 at the wayback machine in ipcc tar wg1 2001.
+
+^ meehl, gerald a.; washington, warren m.; collins, william d.; arblaster, julie m.; hu, aixue; buja, lawrence e.; strand, warren g.; teng, haiyan (18 march 2005). "how much more global warming and sea level rise?" (pdf). science. 307 (5716): 1769–72. bibcode:2005sci...307.1769m. doi:10.1126/science.1106663. pmid 15774757. retrieved 11 february 2007.
+
+^ wigley, t. m. l.;  et al. (2005). "the climate change commitment" (pdf). school of ocean and earth science and technology, university of hawaii at manoa. bibcode:2005sci...307.1766w. doi:10.1126/science.1103934. even if atmospheric composition were fixed today, global mean temperature and sea level rise would continue due to oceanic thermal inertia. these constant-composition (cc) commitments and their uncertainties are quantified. constant-emissions (ce) commitments are also considered. the cc warming commitment could exceed 1c. the ce warming commitment is 2 to 6c by the year 2400." (...) "a breakdown of the natural and anthropogenic components of the cc commitment, together with uncertainties arising from ocean mixing (kz) uncertainties, is given in table s1. past natural forcing (inclusion of which is the default case here) has a marked effect. the natural forcing component is surprisingly large, 64% of the total commitment in 2050, reducing to 52% by 2400.
+
+^ florian sévellec; sybren s. drijfhout (2018). "a novel probabilistic forecast system predicting anomalously warm 2018–2022 reinforcing the long-term global warming trend". nature communications. doi:10.1038/s41467-018-05442-8.
+
+^ "the next five years will be 'anomalously warm,' scientists predict". the washington post. 2018.
+
+^ england, matthew h.; mcgregor, shayne; spence, paul; meehl, gerald a.; timmermann, axel; cai, wenju; sen gupta, alex; mcphaden, michael j.; purich, ariaan; santoso, agus (9 february 2014). "recent intensification of wind-driven circulation in the pacific and the ongoing warming hiatus" (pdf). nature climate change. 4: 222–27. bibcode:2014natcc...4..222e. doi:10.1038/nclimate2106.
+
+^ knight, j.; kenney, j.j.; folland, c.; harris, g.; jones, g.s.; palmer, m.; parker, d.; scaife, a.; stott, p. (august 2009). "do global temperature trends over the last decade falsify climate predictions? [in "state of the climate in 2008"]" (pdf). bulletin of the american meteorological society. 90 (8): s75–79. retrieved 13 august 2011.
+
+^ global temperature slowdown – not an end to climate change. uk met office. archived from the original on 9 december 2010. retrieved 20 march 2011.
+
+^ schmidt, gavin (4 june 2015). "noaa temperature record updates and the 'hiatus'". realclimate.
+
+^ "science publishes new noaa analysis: data show no recent slowdown in global warming". noaa. 4 june 2015. archived from the original on 27 march 2018.
+
+^ mooney, chris (18 january 2017). "u.s. scientists officially declare 2016 the hottest year on record. that makes three in a row". the washington post.
+
+^ schmidt, gavin (22 january 2015). "thoughts on 2014 and ongoing temperature trends". realclimate. retrieved 4 september 2015.
+
+^ group (28 november 2004). "forcings (filed under: glossary)". realclimate.
+
+^ "science brief 1: the causes of global climate change" (pdf). arlington, virginia: pew center on global climate change / center for climate and energy solutions. september 2006: 2. archived from the original (pdf) on 25 october 2012.
+
+^ brown, patrick t.; li, wenhong; jiang, jonathan h.; su, hui (7 december 2015). "unforced surface air temperature variability and its contrasting relationship with the anomalous toa energy flux at local and global spatial scales". journal of climate. 29 (3): 925–40. bibcode:2016jcli...29..925b. doi:10.1175/jcli-d-15-0384.1. issn 0894-8755.
+
+^ us nrc 2012, p. 9
+
+^ a b hegerl et al., chapter 9: understanding and attributing climate change, section 9.4.1.5: the influence of other anthropogenic and natural forcings, in ipcc ar4 wg1 2007, pp. 690–691. "recent estimates indicate a relatively small combined effect of natural forcings on the global mean temperature evolution of the second half of the 20th century, with a small net cooling from the combined effects of solar and volcanic forcings." p. 690
+
+^ tyndall, john (1 january 1861). "on the absorption and radiation of heat by gases and vapours, and on the physical connection of radiation, absorption, and conduction". philosophical magazine. 4. 22: 169–94, 273–85. retrieved 8 may 2013.
+
+^ a b weart, spencer (2008). "the carbon dioxide greenhouse effect". the discovery of global warming. american institute of physics. retrieved 21 april 2009.
+
+^ molina, francis (march 1912). "remarkable weather of 1911: the effect of combustion of coal on climate -- what scientists predict for the future". popular mechanics. pp. 339–342. retrieved 13 oct 2018.
+
+^ "coal consumption affecting climate". the braidwood dispatch and mining journal (new south wales). 17 july 1912. p. 4. retrieved 13 oct 2018.
+
+^ callendar, g.s. (april 1938). "the artificial production of carbon dioxide and its influence on temperature". quarterly journal of the royal meteorological society. 64 (275): 223–40. bibcode:1938qjrms..64..223c. doi:10.1002/qj.49706427503.
+
+^ the callendar effect: the life and work of guy stewart callendar (1898–1964) amer meteor soc., boston. isbn 978-1-878220-76-9
+
+^ le treut;  et al. "chapter 1: historical overview of climate change science". faq 1.1., p. 97, in ipcc ar4 wg1 2007: "to emit 240 w m–2, a surface would have to have a temperature of around −19 °c. this is much colder than the conditions that actually exist at the earth's surface (the global mean surface temperature is about 14 °c). instead, the necessary −19 °c is found at an altitude about 5 km above the surface."
+
+^ blue, jessica. "what is the natural greenhouse effect?". national geographic. archived from the original on 15 april 2016. retrieved 1 january 2015.
+
+^ kiehl, j.t.; trenberth, kevin e. (1997). "earth's annual global mean energy budget" (pdf). bulletin of the american meteorological society. 78 (2): 197–208. bibcode:1997bams...78..197k. doi:10.1175/1520-0477(1997)078<0197:eagmeb>2.0.co;2. issn 1520-0477. archived from the original (pdf) on 24 june 2008. retrieved 21 april 2009.
+
+^ schmidt, gavin (6 april 2005). "water vapour: feedback or forcing?". realclimate. retrieved 21 april 2009.
+
+^ russell, randy (16 may 2007). "the greenhouse effect & greenhouse gases". university corporation for atmospheric research windows to the universe. retrieved 27 december 2009.
+
+^ epa (2007). "recent climate change: atmosphere changes". united states environmental protection agency climate change science program. archived from the original on 10 may 2009. retrieved 21 april 2009.
+
+^ spahni, renato; jérôme chappellaz; thomas f. stocker; laetitia loulergue; gregor hausammann; kenji kawamura; jacqueline flückiger; jakob schwander; dominique raynaud; valérie masson-delmotte; jean jouzel (november 2005). "atmospheric methane and nitrous oxide of the late pleistocene from antarctic ice cores". science. 310 (5752): 1317–21. bibcode:2005sci...310.1317s. doi:10.1126/science.1120132. pmid 16311333.
+
+^ siegenthaler, urs;  et al. (november 2005). "stable carbon cycle–climate relationship during the late pleistocene" (pdf). science. 310 (5752): 1313–17. bibcode:2005sci...310.1313s. doi:10.1126/science.1120130. pmid 16311332. retrieved 25 august 2010.
+
+^ petit, j. r.;  et al. (3 june 1999). "climate and atmospheric history of the past 420,000 years from the vostok ice core, antarctica" (pdf). nature. 399 (6735): 429–36. bibcode:1999natur.399..429p. doi:10.1038/20859. archived (pdf) from the original on 17 november 2017. retrieved 27 december 2009.
+
+^ lüthi, dieter; le floch, martine; bereiter, bernhard; blunier, thomas; barnola, jean-marc; siegenthaler, urs; raynaud, dominique; jouzel, jean; fischer, hubertus; kawamura, kenji; stocker, thomas f. (15 may 2008). "high-resolution carbon dioxide concentration record 650,000–800,000 years before present". nature. 453 (7193): 379–382. bibcode:2008natur.453..379l. doi:10.1038/nature06949. pmid 18480821.
+
+^ pearson, paul nicholas; palmer, martin r. (17 august 2000). "atmospheric carbon dioxide concentrations over the past 60 million years". nature. 406 (6797): 695–99. doi:10.1038/35021000. pmid 10963587.
+
+^ ipcc, summary for policymakers archived 7 march 2016 at the wayback machine, concentrations of atmospheric greenhouse gases ... archived 18 january 2004 at the wayback machine, p. 7, in ipcc tar wg1 2001.
+
+^ ipcc (2007) ar4. climate change 2007: working group iii: mitigation of climate change, section 7.4.5.1. https://archive.ipcc.ch/publications_and_data/ar4/wg3/en/ch7s7-4-5.html
+
+^ [1] 'bbc
+
+^ le quéré, c.; andres, r.j.; boden, t.; conway, t.; houghton, r.a.; house, j.i.; marland, g.; peters, g.p.; van der werf, g.; ahlström, a.; andrew, r.m.; bopp, l.; canadell, j.g.; ciais, p.; doney, s.c.; enright, c.; friedlingstein, p.; huntingford, c.; jain, a.k.; jourdain, c.; kato, e.; keeling, r.f.; klein goldewijk, k.; levis, s.; levy, p.; lomas, m.; poulter, b.; raupach, m.r.; schwinger, j.; sitch, s.; stocker, b.d.; viovy, n.; zaehle, s.; zeng, n. (2 december 2012). "the global carbon budget 1959–2011". earth system science data discussions. 5 (2): 1107–1157. bibcode:2012essdd...5.1107l. doi:10.5194/essdd-5-1107-2012.
+
+^ amos, jonathan (10 may 2013). "carbon dioxide passes symbolic mark". bbc. retrieved 27 may 2013.
+
+^ clark, pilita (10 may 2013). "co2 at highest level for millions of years". financial times. retrieved 27 may 2013. (subscription required (help)).
+
+^ schiermeier, quirin (7 july 2015). "climate scientists discuss future of their field". nature.
+
+^ buis, alan; ramsayer, kate; rasmussen, carol (12 november 2015). "a breathing planet, off balance". nasa. retrieved 13 november 2015.
+
+^ rogner, h.-h., et al., chap. 1, introduction, section 1.3.1.2: intensities, in ipcc ar4 wg3 2007.
+
+^ a b nrc (2008). "understanding and responding to climate change" (pdf). board on atmospheric sciences and climate, us national academy of sciences. p. 2. archived (pdf) from the original on 11 october 2017. retrieved 9 november 2010.
+
+^ world development report 2010: development and climate change. the international bank for reconstruction and development / the world bank, 1818 h street nw, washington, dc. 2010. doi:10.1596/978-0-8213-7987-5. isbn 978-0-8213-7987-5. archived from the original on 5 march 2010. retrieved 6 april 2010.
+
+^ banuri et al., chapter 3: equity and social considerations, section 3.3.3: patterns of greenhouse gas emissions, and box 3.1, pp. 92–93 in ipcc sar wg3 1996.
+
+^ a b c liverman, diana m. (april 2009). "conventions of climate change: constructions of danger and the dispossession of the atmosphere" (pdf). journal of historical geography. 35 (2): 279–96. doi:10.1016/j.jhg.2008.08.008. retrieved 10 may 2011.
+
+^ fisher et al., chapter 3: issues related to mitigation in the long-term context, section 3.1: emissions scenarios: issues related to mitigation in the long term context in ipcc ar4 wg3 2007.
+
+^ morita, chapter 2: greenhouse gas emission mitigation scenarios and implications, section 2.5.1.4: emissions and other results of the sres scenarios, in ipcc tar wg3 2001.
+
+^ rogner et al., ch. 1: introduction, figure 1.7, in ipcc ar4 wg3 2007.
+
+^ ipcc, summary for policymakers, introduction, paragraph 6, in ipcc tar wg3 2001.
+
+^ prentence et al., chapter 3: the carbon cycle and atmospheric carbon dioxide executive summary archived 7 december 2009 at the wayback machine, in ipcc tar wg1 2001.
+
+^ solomon, s.; d. qin; m. manning; z. chen; m. marquis; k.b. averyt; m. tignor; h.l. miller, eds. (2007). "3.4.4.2 surface radiation". climate change 2007: working group i: the physical science basis. isbn 978-0-521-88009-1.
+
+^ dr. amber jenkins (7 december 2009). "just 5 questions: aerosols". nasa/jet propulsion laboratory. retrieved 15 february 2019. using climate models, we estimate that aerosols have masked about 50 percent of the warming that would otherwise have been caused by greenhouse gases trapping heat near the surface of the earth. without the presence of these aerosols in the air, our models suggest that the planet would be about 1 °c (1.8 °f) hotter.
+
+^ ramanathan, v.; carmichael, g. (2008). "global and regional climate changes due to black carbon" (pdf). nature geoscience. 1 (4): 221–27. bibcode:2008natge...1..221r. doi:10.1038/ngeo156.
+
+^ wild, m;  et al. (2005). "from dimming to brightening: decadal changes in solar radiation at earth's surface". science. 308 (2005–05–06): 847–850. bibcode:2005sci...308..847w. doi:10.1126/science.1103215. pmid 15879214.
+
+^ wild, m., a. ohmura, and k. makowski (2007). "impact of global dimming and brightening on global warming". geophysical research letters. 34 (4): l04702. bibcode:2007georl..3404702w. doi:10.1029/2006gl028031.cs1 maint: multiple names: authors list (link)
+
+^ pinker; zhang, b; dutton, eg;  et al. (2005). "do satellites detect trends in surface solar radiation?". science. 308 (6 may 2005): 850–854. bibcode:2005sci...308..850p. doi:10.1126/science.1103159. pmid 15879215.
+
+^ twomey, s. (1 july 1977). "the influence of pollution on the shortwave albedo of clouds". j. atmos. sci. 34 (7): 1149–52. bibcode:1977jats...34.1149t. doi:10.1175/1520-0469(1977)034<1149:tiopot>2.0.co;2. issn 1520-0469.
+
+^ albrecht, bruce a. (15 september 1989). "aerosols, cloud microphysics, and fractional cloudiness". science. 245 (4923): 1227–39. bibcode:1989sci...245.1227a. doi:10.1126/science.245.4923.1227. pmid 17747885.
+
+^ ipcc, "aerosols, their direct and indirect effects", pp. 291–92 in ipcc tar wg1 2001.
+
+^ ramanathan, v.; carmichael, g. (2008). "global and regional climate changes due to black carbon" (pdf). nature geoscience. 1 (4): 221–27. bibcode:2008natge...1..221r. doi:10.1038/ngeo156.
+
+^ sea blind
+
+^ m. sand, t. k. berntsen, k. von salzen, m. g. flanner, j. langner & d. g. victor (30 november 2015). "response of arctic temperature to changes in emissions of short-lived climate forcers". nature.cs1 maint: multiple names: authors list (link)
+
+^ ramanathan, v.;  et al. (2008). "report summary" (pdf). atmospheric brown clouds: regional assessment report with focus on asia. united nations environment programme. archived from the original (pdf) on 18 july 2011.
+
+^ ramanathan, v.; chung, c.; kim, d.; bettge, t.; buja, l.; kiehl, j.t.; washington, w.m.; fu, q.; sikka, d.r.; wild, m. (2005). "atmospheric brown clouds: impacts on south asian climate and hydrological cycle" (full free text). proceedings of the national academy of sciences. 102 (15): 5326–33. bibcode:2005pnas..102.5326r. doi:10.1073/pnas.0500656102. pmc 552786. pmid 15749818.
+
+^ ramanathan, v.;  et al. (2008). "part iii: global and future implications" (pdf). atmospheric brown clouds: regional assessment report with focus on asia. united nations environment programme. archived from the original (pdf) on 18 july 2011.
+
+^ a b ipcc, summary for policymakers, human and natural drivers of climate change, figure spm.2, in ipcc ar4 wg1 2007.
+
+^ "3.2.2 solar irradiance". volume 3: attribution of observed climate change. endangerment and cause or contribute findings for greenhouse gases under section 202(a) of the clean air act. epa's response to public comments. us environmental protection agency. 2009. archived from the original on 16 june 2011. retrieved 23 june 2011.
+
+^ 
+us nrc 2008, p. 6
+
+^ hegerl, et al., chapter 9: understanding and attributing climate change, frequently asked question 9.2: can the warming of the 20th century be explained by natural variability?, in ipcc ar4 wg1 2007.
+
+^ schmidt, gavin a.;  et al. (march 2014). "reconciling warming trends". nature geoscience. 7 (3): 158–160. bibcode:2014natge...7..158s. doi:10.1038/ngeo2105.
+
+^ fyfe, john c.;  et al. (march 2016). "making sense of the early-2000s warming slowdown" (pdf). nature climate change. 6 (3): 224–228. bibcode:2016natcc...6..224f. doi:10.1038/nclimate2938.
+
+^ simmon, r.; d. herring (november 2009). "notes for slide number 7, titled "satellite evidence also suggests greenhouse gas warming", in presentation, "human contributions to global climate change"". u.s. national oceanic and atmospheric administration's climate services. archived from the original on 3 july 2011. retrieved 23 june 2011.
+
+^ hegerl et al., chapter 9: understanding and attributing climate change, frequently asked question 9.2: can the warming of the 20th century be explained by natural variability?, in ipcc ar4 wg1 2007. 
+
+^ randel, william j.; shine, keith p.; austin, john;  et al. (2009). "an update of observed stratospheric temperature trends". journal of geophysical research. 114 (d2): d02107. bibcode:2009jgrd..11402107r. doi:10.1029/2008jd010421.
+
+^ usgcrp 2009, p. 20
+
+^ hegerl, et al., chapter 9: understanding and attributing climate change, executive summary, in ipcc ar4 wg1 2007.
+
+^ r.s. bradley; k.r. briffa; j. cole; m.k. hughes; t.j. osborn (2003). "the climate of the last millennium".  in k.d. alverson; r.s. bradley; t.f. pederson. paleoclimate, global change and the future (pdf). springer. pp. 105–41. isbn 3-540-42402-4.
+
+^ "arctic warming overtakes 2,000 years of natural cooling". brown university. 26 january 2017. retrieved 16 february 2019.
+
+^ kaufman, d.s.; schneider, d.p.; mckay, n.p.; ammann, c.m.; bradley, r.s.; briffa, k.r.; miller, g.h.; otto-bliesner, b.l.; overpeck, j.t.; vinther, b.m.; abbott, m.; axford, m.; bird, y.; birks, b.; bjune, h.j.b.; briner, a.e.; cook, j.; chipman, t.; francus, m.; gajewski, p.; geirsdottir, k.; hu, a.; kutchko, f.s.; lamoureux, b.; loso, s.; macdonald, m.; peros, g.; porinchu, m.; schiff, d.; seppa, c.; seppa, h.; arctic lakes 2k project members (2009). "recent warming reverses long-term arctic cooling" (pdf). science. 325 (5945): 1236–39. bibcode:2009sci...325.1236k. doi:10.1126/science.1173983. pmid 19729653.
+
+^ "arctic warming overtakes 2,000 years of natural cooling". ucar. 3 september 2009. archived from the original on 27 april 2011. retrieved 8 june 2011.
+
+^ bello, david (4 september 2009). "global warming reverses long-term arctic cooling". scientific american. retrieved 8 june 2011.
+
+^ mann, michael e.; zhang, zhihua; hughes, malcolm k.; bradley, raymond s.; miller, sonya k.; rutherford, scott; ni, fenbiao (9 september 2008). "proxy-based reconstructions of hemispheric and global surface temperature variations over the past two millennia". proceedings of the national academy of sciences. 105 (36): 13252–57. bibcode:2008pnas..10513252m. doi:10.1073/pnas.0805721105. pmc 2527990. pmid 18765811.
+
+^ berger, andré; loutre, marie-france (23 august 2002). "climate: an exceptionally long interglacial ahead?" (pdf). science. 297 (5585): 1287–88. doi:10.1126/science.1076120. pmid 12193773.
+
+^ masson-delmotte v. m.;  et al. (2013). "information from paleoclimate archives" (pdf).  in stocker, t.f.;  et al. climate change 2013: the physical science basis. contribution of working group i to the fifth assessment report of the intergovernmental panel on climate change. cambridge university press. pp. 383–464. isbn 978-1-107-66182-0.
+
+^ "thermodynamics: albedo". nsidc.
+
+^ a b jackson, r.; a. jenkins (17 november 2012). "vital signs of the planet: global climate change and global warming: uncertainties". earth science communications team at nasa's jet propulsion laboratory / california institute of technology.
+
+^  riebeek, h. (16 june 2011). "the carbon cycle: feature articles: effects of changing the carbon cycle". earth observatory, part of the eos project science office located at nasa goddard space flight center.
+
+^ us national research council (2003). "ch. 1 introduction". understanding climate change feedbacks. washington, dc: national academies press. p. 19.
+
+^ lindsey, r. (14 january 2009). "earth's energy budget, in: climate and earth's energy budget: feature articles". earth observatory, part of the eos project science office, located at nasa goddard space flight center: 4.
+
+^  us national research council (2006). "ch. 1 introduction to technical chapters". surface temperature reconstructions for the last 2,000 years. washington, dc: national academies press. pp. 26–27.
+
+^ ams council (20 august 2012). "2012 american meteorological society (ams) information statement on climate change". boston, ma.
+
+^ mooney, chris (5 october 2017). "one of the oldest climate change experiments has led to a troubling conclusion". the washington post.
+
+^ melillo, j.m.; frey, s.d.; deangelis, k.m.; werner, w.j.; bernard, m.j.; bowles, f.p.; pold, g.; knorr, m.a.; grandy, a.s. (6 october 2017). "long-term pattern and magnitude of soil carbon feedback to the climate system in a warming world". science. bibcode:2017sci...358..101m. doi:10.1126/science.aan2874.
+
+^ "concerns about climate change, health". harvard university. 2012.
+
+^ ts.3.1.2 spatial distribution of changes in temperature, circulation and related variables – ar4 wgi technical summary
+
+^ alexeev v. a., langen p. l., bates j. r. (2005). "polar amplification of surface warming on an aquaplanet in "ghost forcing" experiments without sea ice feedbacks" (pdf). climate dynamics. 24 (7–8): 655–666. bibcode:2005cldy...24..655a. doi:10.1007/s00382-005-0018-3.cs1 maint: multiple names: authors list (link)
+
+^ "ipcc ar5 – near-term climate change: projections and predictability (chapter 11 / page 983 )" (pdf). 2013.
+
+^ "arctic amplification". nasa. 2013.
+
+^ francis jennifer a (2012). "evidence linking arctic amplification to extreme weather in mid-latitudes". geophysical research letters. 39. bibcode:2012georl..39.6801f. doi:10.1029/2012gl051000.
+
+^ vladimir petoukhov & vladimir a. semenov (november 2010). "a link between reduced barents-kara sea ice and cold winter extremes over northern continents". journal of geophysical research: atmospheres. 115 (21). bibcode:2010jgrd..11521111p. doi:10.1029/2009jd013568.
+
+^ francis, j. a.; vavrus, s. j. (2012). "evidence linking arctic amplification to extreme weather in mid-latitudes". geophysical research letters. 39 (6). bibcode:2012georl..39.6801f. doi:10.1029/2012gl051000.
+
+^ watts, jonathan (2018-08-07). "domino-effect of climate events could push earth into a 'hothouse' state". the guardian. retrieved 2018-08-08.
+
+^ sheridan, kerry (2018-08-06). "earth risks tipping into 'hothouse' state: study". phys.org. retrieved 2018-08-08.
+
+^ 
+"patterns of greenhouse warming" (pdf). gfdl climate modeling research highlights. princeton, new jersey: the national oceanic and atmospheric administration (noaa) geophysical fluid dynamics laboratory (gfdl). 1 (6). january 2007., revision 2 february 2007, 8:50.08 am.
+
+^ 
+"noaa gfdl climate research highlights image gallery: patterns of greenhouse warming". noaa geophysical fluid dynamics laboratory (gfdl). 9 october 2012.
+
+^ ipcc, glossary a–d: "climate model", in ipcc ar4 syr 2007.
+
+^ a b 
+meehl, g. a.;  et al. "ch 10: global climate projections". sec 10.5.4.6 synthesis of projected global temperature at year 2100]., in ipcc ar4 wg1 2007
+
+^ 
+karl, tr;  et al., eds. (2009). "global climate change". global climate change impacts in the united states. cambridge university press. isbn 978-0-521-14407-0. archived from the original on 15 september 2012.
+
+^ schaefer, kevin; zhang, tingjun; bruhwiler, lori; barrett, andrew p. (24 january 2011). "amount and timing of permafrost carbon release in response to climate warming". tellus series b. 63 (2): 165–80. bibcode:2011tellb..63..165s. doi:10.1111/j.1600-0889.2011.00527.x.
+
+^ hansen, james (2000). "climatic change: understanding global warming".  in lanza, robert. one world: the health & survival of the human species in the 21st century. health press (new mexico). pp. 173–90. isbn 0-929173-33-3. (limited preview)
+
+^ stocker et al., chapter 7: physical climate processes and feedbacks, section 7.2.2: cloud processes and feedbacks, in ipcc tar wg1 2001.
+
+^ torn, margaret; harte, john (26 may 2006). "missing feedbacks, asymmetric uncertainties, and the underestimation of future warming" (pdf). geophysical research letters. 33 (10): l10703. bibcode:2006georl..3310703t. doi:10.1029/2005gl025540. retrieved 4 march 2007.
+
+^ harte, john; saleska, scott; shih, tiffany (30 october 2006). "shifts in plant dominance control carbon-cycle responses to experimental warming and widespread drought". environmental research letters. 1 (1): 014001. bibcode:2006erl.....1a4001h. doi:10.1088/1748-9326/1/1/014001. retrieved 2 may 2007.
+
+^ scheffer, marten; brovkin, victor; cox, peter (26 may 2006). "positive feedback between global warming and atmospheric co2 concentration inferred from past climate change" (pdf). geophysical research letters. 33 (10): l10702. bibcode:2006georl..3310702s. doi:10.1029/2005gl025044. retrieved 4 may 2007.
+
+^ randall et al., chapter 8, climate models and their evaluation, sec. faq 8.1 in ipcc ar4 wg1 2007.
+
+^ ipcc, technical summary, p. 54, in ipcc tar wg1 2001.
+
+^ stroeve, j.;  et al. (2007). "arctic sea ice decline: faster than forecast". geophysical research letters. 34 (9): l09501. bibcode:2007georl..3409501s. doi:10.1029/2007gl029703.
+
+^ wentz, f. j.;  et al. (2007). "how much more rain will global warming bring?". science. 317 (5835): 233–35. bibcode:2007sci...317..233w. doi:10.1126/science.1140746. pmid 17540863.
+
+^ liepert, beate g.; previdi, michael (2009). "do models and observations disagree on the rainfall response to global warming?". journal of climate. 22 (11): 3156–66. bibcode:2009jcli...22.3156l. doi:10.1175/2008jcli2472.1. recently analyzed satellite-derived global precipitation datasets from 1987 to 2006 indicate an increase in global-mean precipitation of 1.1%–1.4% decade−1. this trend corresponds to a hydrological sensitivity (hs) of 7% k−1 of global warming, which is close to the clausius–clapeyron (cc) rate expected from the increase in saturation water vapor pressure with temperature. analysis of two available global ocean evaporation datasets confirms this observed intensification of the atmospheric water cycle. the observed hydrological sensitivity over the past 20-yr period is higher by a factor of 5 than the average hs of 1.4% k−1 simulated in state-of-the-art coupled atmosphere–ocean climate models for the twentieth and twenty-first centuries.
+
+^ rahmstorf, stefan; cazenave, anny; church, john a.; hansen, james e.; keeling, ralph f.; parker, david e.; somerville, richard c. j. (4 may 2007). "recent climate observations compared to projections" (pdf). science. 316 (5825): 709. bibcode:2007sci...316..709r. doi:10.1126/science.1136843. pmid 17272686.
+
+^ "chapter 15: potential surprises: compound extremes and tipping elements". us national climate assessment. 2017.
+
+^ january 2017 analysis from noaa: global and regional sea level rise scenarios for the united states
+
+^ schneider et al., chapter 19: assessing key vulnerabilities and the risk from climate change, section 19.3.4: ecosystems and biodiversity, in ipcc ar4 wg2 2007.
+
+^ "climate change linked to potential population decline in bees". sciencedaily. 2018.
+
+^ "carbon dioxide is 'driving fish crazy'". sciencedaily. 2012.
+
+^ "global warming and polar bears - national wildlife federation". retrieved 16 october 2017. as climate change melts sea ice, the u.s. geological survey projects that two thirds of polar bears will disappear by 2050.
+
+^ amstrup, s. c.; marcot, b. g.; douglas, d. c. (2013). "a bayesian network modeling approach to forecasting the 21st century worldwide status of polar bears" (pdf). arctic sea ice decline: observations, projections, mechanisms, and implications. geophysical monograph series 180. pp. 213–268). doi:10.1029/180gm14.
+
+^ zhang, jinlun (11 june 2008). "what drove the dramatic arctic sea ice retreat during summer 2007?". geophysical research letters. 35: 1–5. bibcode:2008georl..3511505z. doi:10.1029/2008gl034005.
+
+^ 
+meehl, g.a.;  et al. "ch 10: global climate projections". sec 10.3.3.1 changes in sea ice cover., in ipcc ar4 wg1 2007, p. 770
+
+^ wang, m.; overland, j. e. (2009). "a sea ice free summer arctic within 30 years?". geophys. res. lett. 36 (7). bibcode:2009georl..36.7502w. doi:10.1029/2009gl037820. retrieved 2 may 2011.
+
+^ 
+"arctic sea ice 2012". exeter, uk: met office.
+
+^ watson, christopher s.; white, neil j.; church, john a.; king, matt a.; burgette, reed j.; legresy, benoit (11 may 2015). "unabated global mean sea-level rise over the satellite altimeter era" (pdf). nature climate change. 5: 565–68. bibcode:2015natcc...5..565w. doi:10.1038/nclimate2635.
+
+^ churchs, john; clark, peter. "chapter 13: sea level change – final draft underlying scientific-technical assessment" (pdf). ipcc working group i. retrieved 21 january 2015.
+
+^ bell, brian (31 august 2015). "uci study finds dramatic increase in concurrent droughts, heat waves". university of california, irvine.
+
+^ ogburn, stephanie paige (29 april 2014). "indian monsoons are becoming more extreme". scientific american.
+
+^ "d. future climate extremes, impacts, and disaster losses, in: summary for policymakers". managing the risks of extreme events and disasters to advance climate change adaptation., in ipcc srex 2012, pp. 9–13
+
+^ ipcc, synthesis report summary for policymakers, section 1: observed changes in climate and their effects, in ipcc ar4 syr 2007.
+
+^ fischlin, et al., chapter 4: ecosystems, their properties, goods and services,
+executive summary, p. 213, in ipcc ar4 wg2 2007. executive summary not present in on-line text; see pdf.
+
+^ a b c ocean acidification, in: ch. 2. our changing climate, in ncadac 2013, pp. 69–70
+
+^ deutsch;  et al. (2011). "climate-forced variability of ocean hypoxia" (pdf). science. 333: 336–39. bibcode:2011sci...333..336d. doi:10.1126/science.1202422. pmid 21659566.
+
+^ * unep 2010
+5. ocean acidification, in good & others 2010, pp. 73–81
+iap 2009
+
+^ sarah kaplan (2018). "climate change could render many of earth's ecosystems unrecognizable". the washington post.
+
+^ a b 
+summary, pp. 14–19, in national research council 2011
+faq 12.3, in: chapter 12: long-term climate change: projections, commitments and irreversibility, in ipcc ar5 wg1 2013, pp. 88–89 (pp. 90–91 of pdf chapter)
+
+^ bill mcguire (2010). "climate forcing of geological and geomorphological hazards". philosophical transactions of the royal society a. royal society. 368: 2311–15. bibcode:2010rspta.368.2311m. doi:10.1098/rsta.2010.0077.
+
+^ 
+smith, j. b.;  et al. "ch. 19. vulnerability to climate change and reasons for concern: a synthesis". sec 19.6. extreme and irreversible effects., in ipcc tar wg2 2001
+
+^ smith, joel b.; schneider, stephen h.; oppenheimer, michael; yohe, gary w.; hare, william; mastrandrea, michael d.; patwardhan, anand; burton, ian; corfee-morlot, jan; magadza, chris h. d.; füssel, hans-martin; pittock, a. barrie; rahman, atiq; suarez, avelino; van ypersele, jean-pascal (17 march 2009). "assessing dangerous climate change through an update of the intergovernmental panel on climate change (ipcc) 'reasons for concern'". proceedings of the national academy of sciences. 106 (11): 4133–37. bibcode:2009pnas..106.4133s. doi:10.1073/pnas.0812355106. pmc 2648893. pmid 19251662.
+
+^ 
+clark, p. u.;  et al. (december 2008). "executive summary". abrupt climate change. a report by the u.s. climate change science program and the subcommittee on global change research. reston, virginia: u.s. geological survey., pp. 1–7. report website archived 4 may 2013 at the wayback machine
+
+^ "siberian permafrost thaw warning sparked by cave data". bbc. 22 february 2013. retrieved 24 february 2013.
+
+^ "shutdown of circulation pattern could be disastrous, researchers say". sciencedaily. 20 december 2004. archived from the original on 2005-01-13.
+
+^ link, peter michael; tol, richard s.j. (september 2004). "possible economic impacts of a shutdown of the thermohaline circulation: an application of fund" (pdf). portuguese economic journal (pdf). 3 (2): 99–114. doi:10.1007/s10258-004-0033-z.
+
+^ "weather facts: north atlantic drift (gulf stream)". weather online uk.
+
+^ bischof, barbie; mariano, arthur j.; ryan, edward h. (2003). "ocean surface currents: the north atlantic drift current". rosenstiel school of marine and atmospheric science, university of miami.
+
+^ faq 7 and 8, in: volume-wide frequently asked questions (faqs) (archived 8 july 2014), pp. 2–3, in ipcc ar5 wg2 a 2014
+
+^ oppenheimer, m., et al., section 19.6.3: updating reasons for concern, in: chapter 19: emergent risks and key vulnerabilities (archived 8 july 2014), pp. 39–46, in ipcc ar5 wg2 a 2014
+
+^ field, c., et al., b-3: regional risks and potential for adaptation, in: technical summary (archived 8 july 2014), pp. 27–30, in ipcc ar5 wg2 a 2014
+
+^ oppenheimer, m., et al., section 19.6.3: updating reasons for concern, in: chapter 19: emergent risks and key vulnerabilities (archived 8 july 2014), pp. 42–43, in ipcc ar5 wg2 a 2014
+
+^ nuccitelli, dana (26 january 2015). "climate change could impact the poor much more than previously thought". the guardian.
+
+^ ipcc ar4 syr 2007. 3.3.3 especially affected systems, sectors and regions. synthesis report.
+
+^ mimura, n.;  et al. (2007). "executive summary".  in parry, m.l.;  et al. chapter 16: small islands. climate change 2007: impacts, adaptation and vulnerability: contribution of working group ii to the fourth assessment report of the intergovernmental panel on climate change (ipcc). cambridge university press (cup): cambridge: print version: cup. this version: ipcc website. isbn 0-521-88010-6. retrieved 15 september 2011.
+
+^ park, susin (may 2011). "climate change and the risk of statelessness: the situation of low-lying island states" (pdf). united nations high commissioner for refugees. archived from the original (pdf) on 2013-05-02. retrieved 13 april 2012.
+
+^ mooney, chris (22 october 2014). "there's a surprisingly strong link between climate change and violence". the washington post.
+
+^ "crime, weather, and climate change". journal of environmental economics and management. 67 (3): 274–302. 2014-05-01. doi:10.1016/j.jeem.2013.11.008. issn 0095-0696.
+
+^ marshall, burke,; m, hsiang, solomon; edward, miguel, (2014-10-16). "climate and conflict". nber.
+
+^ "climate change will cause rape and murder and assault and robbery and larceny and make people steal your car | national review". national review. 2014-02-27. retrieved 2018-11-17.
+
+^ hope, chris; schaefer, kevin (21 september 2015). "economic impacts of carbon dioxide and methane released from thawing permafrost" (pdf). nature. 6: 56–59. bibcode:2016natcc...6...56h. doi:10.1038/nclimate2807.
+
+^ porter, j.r., et al., executive summary, in: chapter 7: food security and food production systems (archived 8 july 2014), p. 3, in ipcc ar5 wg2 a 2014
+
+^ reference temperature period converted from late-20th century to pre-industrial times (approximated in the source as 1850–1900).* assessment box spm-1 (p. 14) and b-2. sectoral risks and potential for adaptation: food security and food production systems (p. 18), in: summary for policymakers (archived 8 july 2014), in ipcc ar5 wg2 a 2014
+
+^ r. porter, john; xie, liyong (2014). fifth assessment report (ar5), wgii, climate change 2014: impacts, adaptation, and vulnerability, chapter 7: food security and food production systems (pdf). intergovermental pannel on climate change. pp. 491–492. retrieved 29 july 2018.
+
+^ a b c cramer, wolfgang, et al., executive summary, in: chapter 18: detection and attribution of observed impacts (archived 8 july 2014), pp. 3–4, in ipcc ar5 wg2 a 2014
+
+^ smith, k.r., et al., faq 11.2, in: chapter 11: human health: impacts, adaptation, and co-benefits (archived 8 july 2014), p. 37, in ipcc ar5 wg2 a 2014
+
+^ a b costello, anthony; abbas, mustafa; allen, adriana; ball, sarah; bell, sarah; bellamy, richard; friel, sharon; groce, nora; johnson, anne; kett, maria; lee, maria; levy, caren; maslin, mark; mccoy, david; mcguire, bill; montgomery, hugh; napier, david; pagel, christina; patel, jinesh; de oliveira, jose antonio puppim; redclift, nanneke; rees, hannah; rogger, daniel; scott, joanne; stephenson, judith; twigg, john; wolff, jonathan; patterson, craig (may 2009). "managing the health effects of climate change". the lancet. 373 (9676): 1693–733. doi:10.1016/s0140-6736(09)60935-1.
+
+^ a b watts, nick; adger, w neil; agnolucci, paolo; blackstock, jason; byass, peter; cai, wenjia; chaytor, sarah; colbourn, tim; collins, mat; cooper, adam; cox, peter m; depledge, joanna; drummond, paul; ekins, paul; galaz, victor; grace, delia; graham, hilary; grubb, michael; haines, andy; hamilton, ian; hunter, alasdair; jiang, xujia; li, moxuan; kelman, ilan; liang, lu; lott, melissa; lowe, robert; luo, yong; mace, georgina; maslin, mark; nilsson, maria; oreszczyn, tadj; pye, steve; quinn, tara; svensdotter, my; venevsky, sergey; warner, koko; xu, bing; yang, jun; yin, yongyuan; yu, chaoqing; zhang, qiang; gong, peng; montgomery, hugh; costello, anthony (november 2015). "health and climate change: policy responses to protect public health". the lancet. 386 (10006): 1861–914. doi:10.1016/s0140-6736(15)60854-6. pmid 26111439. retrieved 4 january 2016.
+
+^ smith, k.r., et al., section 11.4: direct impacts of climate and weather on health, in: chapter 11: human health: impacts, adaptation, and co-benefits (archived 8 july 2014), pp. 10–13, in ipcc ar5 wg2 a 2014
+
+^ smith, k.r., et al., section 11.6.1. nutrition, in: chapter 11: human health: impacts, adaptation, and co-benefits (archived 8 july 2014), pp. 10–13, in ipcc ar5 wg2 a 2014
+
+^ "global warming risk: rising temperatures from climate change linked to rise in suicides". usa today. 2018.
+
+^ 
+core writing team;  et al., eds. (2007d). "3.3.3 especially affected systems, sectors and regions". synthesis report. climate change 2007: synthesis report. a contribution of working groups i, ii, and iii to the fourth assessment report of the integovernmental panel on climate change (ipcc). geneva, switzerland: intergovernmental panel on climate change. retrieved 15 september 2011.
+
+^ a b c 
+ this article incorporates public domain material from the us environmental protection agency document: international impacts & adaptation: climate change: us epa, us environmental protection agency (us epa), 14 june 2012
+
+^ steven c. sherwood; matthew huber (2010), "an adaptability limit to climate change due to heat stress", pnas, doi:10.1073/pnas.0913352107
+
+^ abellan matamoros, cristina (13 february 2019). "watch: polar bear in russian archipelago peeks inside a house". euronews.com. euronews. retrieved 14 february 2019.
+
+^ stambaugh, alex (12 february 2019). "polar bear invasion: parents scared to send children to school in remote russian archipelago". edition.cnn.com. cnn. retrieved 15 february 2019.
+
+^ 
+pbl netherlands environment agency (15 june 2012). "figure 6.14, in: chapter 6: the energy and climate challenge".  in van vuuren, d.; m. kok. roads from rio+20 (pdf). isbn 978-90-78645-98-6., p. 177, report no: 500062001. report website.
+
+^ mitigation, in usgcrp 2015
+
+^ a b c d ipcc, synthesis report summary for policymakers, section 4: adaptation and mitigation options, in ipcc ar4 syr 2007.
+
+^ a b edenhofer, o., et al., table ts.3, in: technical summary (archived 30 december 2014), in: ipcc ar5 wg3 2014, p. 68
+
+^ nuccitelli, dana (31 august 2015). "citi report: slowing global warming would save tens of trillions of dollars". the guardian.
+
+^ clarke, leon, et al., executive summary, in: chapter 6: assessing transformation pathways (archived 30 december 2014), in: ipcc ar5 wg3 2014, p. 418
+
+^ a b spm4.1: long-term mitigation pathways, in: summary for policymakers (archived 27 december 2014), in: ipcc ar5 wg3 2014, pp. 10–13
+
+^ edenhofer, o., et al., ts.3.1.2: short- and long-term requirements of mitigation pathways, in: technical summary (archived 30 december 2014), in: ipcc ar5 wg3 2014, pp. 55–56
+
+^ edenhofer, o., et al., ts.3.1.3: costs, investments and burden sharing, in: technical summary (archived 30 december 2014), in: ipcc ar5 wg3 2014, p. 58
+
+^ "global cyclists say no to carbon – opt for cdm", the world bank, 27 october 2015
+
+^ smit et al., chapter 18: adaptation to climate change in the context of sustainable development and equity, section 18.2.3: adaptation types and forms, in ipcc tar wg2 2001.
+
+^ "new report provides authoritative assessment of national, regional impacts of global climate change" (press release). u.s. global change research program. 16 june 2009. retrieved 14 january 2016.
+
+^ cole, daniel a. "climate change, adaptation, and development", 26 ucla j. envtl. l. & pol'y 1, 3 (2008)
+
+^ schneider, s.h.; semenov, s.; patwardhan, a.; burton, i.; magadza, c.h.d.; oppenheimer, m.; pittock, a.b.; rahman, a.; smith, j.b.; suarez, a.; yamin, f. (2007).  parry, m.l.; canziani, o.f.; palutikof, j.p.; van der linden, p.j.; hanson, c.e., eds. executive summary. in (book chapter): chapter 19: assessing key vulnerabilities and the risk from climate change. in: climate change 2007: impacts, adaptation and vulnerability. contribution of working group ii to the fourth assessment report of the intergovernmental panel on climate change. print version: cambridge university press, cambridge, uk. this version: ipcc website. isbn 978-0-521-88010-7. archived from the original on 2 may 2010. retrieved 2010-04-06.
+
+^ lane, lee; caldeira, ken; chatfield, robert; langhoff, stephanie (april 2007). "workshop on managing solar radiation" (pdf). nasa. archived from the original (pdf) on 31 may 2009. retrieved 23 may 2009.
+
+^ "stop emitting co2 or geoengineering could be our only hope" (press release). the royal society. 28 august 2009. archived from the original on 24 june 2011. retrieved 14 june 2011.
+
+^ keller, david p.; feng, ellias y.; oschlies, andreas (january 2014). "potential climate engineering effectiveness and side effects during a high carbon dioxide-emission scenario". nature communications. 5: 3304. bibcode:2014natco...5e3304k. doi:10.1038/ncomms4304. pmc 3948393. pmid 24569320. retrieved 31 march 2014. we find that even when applied continuously and at scales as large as currently deemed possible, all methods are, individually, either relatively ineffective with limited (<8%) warming reductions, or they have potentially severe side effects and cannot be stopped without causing rapid climate change.
+
+^ quoted in ipcc sar syr 1996, "synthesis of scientific-technical information relevant to interpreting article 2 of the un framework convention on climate change", paragraph 4.1, p. 8 (pdf p. 18.) 
+
+^ morgan, m. granger; dowlatabadi, hadi; henrion, max; keith, david; lempert, robert; mcbride, sandra; small, mitchell; wilbanks, thomas (2009). "non-technical summary: box nt.1 summary of climate change basics". synthesis and assessment product 5.2: best practice approaches for characterizing, communicating, and incorporating scientific uncertainty in decisionmaking. a report by the u.s. climate change science program and the subcommittee on global change research (pdf). washington, d.c.: national oceanic and atmospheric administration. p. 11. retrieved 1 june 2011.
+
+^ 
+"essential background". united nations framework convention on climate change. n.d. retrieved 18 may 2010.
+
+^ 
+"full text of the convention, article 2". united nations framework convention on climate change. n.d. archived from the original on 28 october 2005. retrieved 18 may 2010.
+
+^ rogner et al., chapter 1: introduction, executive summary, in ipcc ar4 wg3 2007.
+
+^ raupach, michael r.; marland, gregg; ciais, philippe; le quéré, corinne; canadell, josep g.; klepper, gernot; field, christopher b. (12 june 2007). "global and regional drivers of accelerating co2 emissions" (free full text). proceedings of the national academy of sciences. 104 (24): 10288–93. bibcode:2007pnas..10410288r. doi:10.1073/pnas.0700609104. issn 0027-8424. pmc 1876160. pmid 17519334.
+
+^ a b dessai, suraje (december 2001). "the climate regime from the hague to marrakech: saving or sinking the kyoto protocol?" (pdf). tyndall centre working paper 12. tyndall centre. archived from the original (pdf) on 10 june 2012. retrieved 5 may 2010.
+
+^ grubb, m. (july–september 2003). "the economics of the kyoto protocol" (pdf). world economics. 4 (3): 144–45. retrieved 25 march 2010.
+
+^ a b 
+"kyoto protocol". united nations framework convention on climate change. n.d. retrieved 21 may 2011.
+
+^ 
+müller, benito (february 2010). copenhagen 2009: failure or final wake-up call for our leaders? ev 49 (pdf). oxford institute for energy studies. p. i. isbn 978-1-907555-04-6. archived (pdf) from the original on 10 july 2017. retrieved 18 may 2010.
+
+^ 
+rudd, kevin (25 may 2015). "paris can't be another copenhagen". the new york times. archived from the original on 3 february 2018. retrieved 26 may 2015.
+
+^ 
+"technical summary". the emissions gap report: are the copenhagen accord pledges sufficient to limit global warming to 7002275149999999999♠2 °c or 7002274649999999999♠1.5 °c? a preliminary assessment (advance copy) (pdf). united nations environment programme. november 2010. archived from the original (pdf) on 27 february 2017. retrieved 11 may 2011. this publication is also available in e-book format archived 25 november 2010 at the library of congress web archives
+
+^ 
+"decision 2/cp. 15 copenhagen accord. in: report of the conference of the parties on its fifteenth session, held in copenhagen from 7 to 19 december 2009. addendum. part two: action taken by the conference of the parties at its fifteenth session" (pdf). united nations framework convention on climate change. 30 march 2010. p. 5. retrieved 17 may 2010.
+
+^ "outcome of the work of the ad hoc working group on long-term cooperative action under the convention" (pdf). presidencia de la república, méxico. 11 december 2010. p. 2. retrieved 12 january 2011.
+
+^ "summary for policymakers". detection and attribution of climate change. ipcc. «it is extremely likely that human influence has been the dominant cause of the observed warming since the mid-20th century» (page 15) and «in this summary for policymakers, the following terms have been used to indicate the assessed likelihood of an outcome or a result: (...) extremely likely: 95–100%» (page 2)., in ipcc ar5 wg1 2013.
+
+^ a b 
+royal society (13 april 2005). "letter from the royal society: a guide to facts and fictions about climate change: misleading arguments: many scientists do not think that climate change is a problem. some scientists have signed petitions stating that climate change is not a problem. ... there are some individuals and organisations, some of which are funded by the us oil industry, that seek to undermine the science of climate change and the work of the ipcc. they appear motivated in their arguments by opposition to the united nations framework convention on climate change and the kyoto protocol, which seek urgent action to tackle climate change through a reduction in greenhouse gas emissions.". economic affairs – written evidence. the economics of climate change, the second report of the 2005–2006 session, produced by the uk parliament house of lords economics affairs select committee. uk parliament. retrieved 9 july 2011. this document is also available in pdf format
+
+^ academia brasileira de ciéncias (brazil); royal society of canada; chinese academy of sciences; académie des sciences (france); deutsche akademie der naturforscher leopoldina (germany); indian national science academy; accademia nazionale dei lincei (italy); science council of japan, academia mexicana de ciencias; russian academy of sciences; academy of science of south africa; royal society (united kingdom); national academy of sciences (united states of america) (may 2009). "g8+5 academies' joint statement: climate change and the transformation of energy technologies for a low carbon future" (pdf). the national academies of sciences, engineering, and medicine. retrieved 5 may 2010.
+
+^ davenport, carol (october 7, 2018). "major climate report describes a strong risk of crisis as early as 2040". the new york times. retrieved october 10, 2018.
+
+^ cook, john;  et al. (13 april 2016). "consensus on consensus: a synthesis of consensus estimates on human-caused global warming". environmental research letters. 11 (4): 048002. bibcode:2016erl....11d8002c. doi:10.1088/1748-9326/11/4/048002. retrieved 21 july 2016.
+
+^ dimento, joseph f. c.; doughman, pamela m. (2007). climate change: what it means for us, our children, and our grandchildren. the mit press. p. 68. isbn 978-0-262-54193-0.
+
+^ brigham-grette, julie;  et al. (september 2006). "petroleum geologists' award to novelist crichton is inappropriate" (pdf). eos. 87 (36): 364. bibcode:2006eostr..87..364b. doi:10.1029/2006eo360008. retrieved 23 january 2007. the aapg stands alone among scientific societies in its denial of human-induced effects on global warming.
+
+^ ripple, william j.; wolf, christopher; newsome, thomas m.; galetti, mauro; alamgir, mohammed; crist, eileen; mahmoud, mahmoud i.; laurance, william f. (13 november 2017). "world scientists' warning to humanity: a second notice". bioscience. doi:10.1093/biosci/bix125.
+
+^ perkins, sid (11 july 2017). "the best way to reduce your carbon footprint is one the government isn't telling you about". science. retrieved 29 november 2017.
+
+^ boykoff, maxwell t.; boykoff, jules m. (july 2004). "balance as bias: global warming and the us prestige press" (pdf). global environmental change part a. 14 (2): 125–36. doi:10.1016/j.gloenvcha.2003.10.001.
+
+^ oreskes, naomi; conway, erik (2010-05-25). merchants of doubt: how a handful of scientists obscured the truth on issues from tobacco smoke to global warming (first ed.). bloomsbury press. isbn 978-1-59691-610-4.
+
+^ mccright, aaron m.; dunlap, riley e. (november 2000). "challenging global warming as a social problem: an analysis of the conservative movement's counter-claims" (pdf). social problems. 47 (4): 499–522. jstor 3097132.
+
+^ weart, s. (july 2009). "the public and climate change (cont. – since 1980). section: after 1988". american institute of physics. retrieved 5 may 2010.
+sepp (n.d.). "frequently asked questions about climate change". science & environmental policy project (sepp). archived from the original on 11 may 2008. retrieved 5 may 2010.
+
+^ begley, sharon (13 august 2007). "the truth about denial". newsweek. retrieved 13 august 2007.
+
+^ adams, david (20 september 2006). "royal society tells exxon: stop funding climate change denial". the guardian. london. retrieved 9 august 2007.
+
+^ "exxon cuts ties to global warming skeptics". msnbc. 12 january 2007. archived from the original on 18 june 2007. retrieved 2 may 2007.
+
+^ sandell, clayton (3 january 2007). "report: big money confusing public on global warming". abc. retrieved 27 april 2007.
+
+^ "greenpeace: exxon still funding climate skeptics". usa today. reuters. 18 may 2007. retrieved 21 january 2010.
+
+^ "global warming resolutions at u.s. oil companies bring policy commitments from leaders, and record high votes at laggards" (press release). ceres. 13 may 2004. retrieved 4 march 2010.
+
+^ "oil company positions on the reality and risk of climate change". environmental studies, university of oshkosh – wisconsin. retrieved 27 march 2016.
+
+^ weart, s. (february 2015). "the public and climate change (cont. – since 1980). section: after 1988". american institute of physics. retrieved 18 august 2015.
+
+^ "environment". gallup. 2015. retrieved 18 august 2015.
+
+^ peter newell (december 14, 2006). climate for change: non-state actors and the global politics of the greenhouse. agricultural and forest meteorology. 109. cambridge university press. p. 80. bibcode:2001agfm..109...75b. doi:10.1016/s0168-1923(01)00246-5. isbn 978-0-521-02123-4. retrieved july 30, 2018.
+
+^ "yale researcher anthony leiserowitz on studying, communicating with american public". yale climate connections. 2010.
+
+^ shindell, drew; faluvegi, greg; lacis, andrew; hansen, james; ruedy, reto; aguilar, elliot (28 april 2006). "role of tropospheric ozone increases in 20th-century climate change" (pdf). journal of geophysical research. 111 (d8): d08302. bibcode:2006jgrd..11108302s. doi:10.1029/2005jd006348.
+
+^ "losing earth: the decade we almost stopped climate change, chapter 2 you scientists win 1985". the new york times. 1 august 2018.
+
+^ pugliese, anita (20 april 2011). "fewer americans, europeans view global warming as a threat". gallup. retrieved 22 april 2011.
+
+^  ray, julie; anita pugliese (22 april 2011). "worldwide, blame for climate change falls on humans". gallup.com. retrieved 3 may 2011. people nearly everywhere, including majorities in developed asia and latin america, are more likely to attribute global warming to human activities rather than natural causes. the u.s. is the exception, with nearly half (47%) – and the largest percentage in the world – attributing global warming to natural causes.
+
+^ "climate change and financial instability seen as top global threats". pew research center for the people & the press. 24 june 2013.
+
+^ a b weart, spencer r. (february 2014). "the discovery of global warming; the public and climate change: suspicions of a human-caused greenhouse (1956–1969)". american institute of physics. retrieved 12 may 2015., and footnote 27
+
+^ a b weart, spencer r. (february 2014). "the discovery of global warming; the public and climate change: the summer of 1988". american institute of physics. retrieved 12 may 2015.
+
+^ a b c erik conway. "what's in a name? global warming vs. climate change", nasa, 5 december 2008
+
+^ u.s. senate, committee on energy and natural resources, "greenhouse effect and global climate change, part 2" 100th cong., 1st sess., 23 june 1988, p. 44.
+
+
+references
+.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}
+good, p.;  et al. (2010), an updated review of developments in climate science research since ipcc ar4. a report by the avoid consortium (pdf), london, uk: committee on climate change, p. 14. report website.
+iap (june 2009), interacademy panel (iap) member academies statement on ocean acidification, secretariat: twas (the academy of sciences for the developing world), trieste, italy.
+iea (2009). world energy outlook 2009 (pdf). paris, france: international energy agency (iea). isbn 978-92-64-06130-9.
+ipcc ar4 syr (2007).  core writing team; pachauri, r.k; reisinger, a., eds. climate change 2007: synthesis report. contribution of working groups i, ii and iii to the fourth assessment report of the intergovernmental panel on climate change. ipcc. isbn 92-9169-122-4.
+ipcc ar4 wg1 (2007).  solomon, s.; qin, d.; manning, m.; chen, z.; marquis, m.; averyt, k.b.; tignor, m.; miller, h.l., eds. climate change 2007: the physical science basis. contribution of working group i to the fourth assessment report of the intergovernmental panel on climate change. cambridge university press. isbn 978-0-521-88009-1. (pb: 978-0-521-70596-7)
+ipcc ar4 wg2 (2007).  parry, m.l.; canziani, o.f.; palutikof, j.p.; van der linden, p.j.; hanson, c.e., eds. climate change 2007: impacts, adaptation and vulnerability. contribution of working group ii to the fourth assessment report of the intergovernmental panel on climate change. cambridge university press. isbn 978-0-521-88010-7. (pb: 978-0-521-70597-4)
+ipcc ar4 wg3 (2007).  metz, b.; davidson, o.r.; bosch, p.r.; dave, r.; meyer, l.a., eds. climate change 2007: mitigation of climate change. contribution of working group iii to the fourth assessment report of the intergovernmental panel on climate change. cambridge university press. isbn 978-0-521-88011-4. (pb: 978-0-521-70598-1)
+ipcc ar5 wg1 (2013),  stocker, t.f.;  et al., eds., climate change 2013: the physical science basis. working group 1 (wg1) contribution to the intergovernmental panel on climate change (ipcc) 5th assessment report (ar5), cambridge university press. climate change 2013 working group 1 website.
+ipcc ar5 wg2 a (2014),  field, c.b.;  et al., eds., climate change 2014: impacts, adaptation, and vulnerability. part a: global and sectoral aspects (gsa). contribution of working group ii (wg2) to the fifth assessment report (ar5) of the intergovernmental panel on climate change (ipcc), cambridge university press, archived from the original on 16 april 2014. archived
+ipcc ar5 wg3 (2014),  edenhofer, o.;  et al., eds., climate change 2014: mitigation of climate change. contribution of working group iii (wg3) to the fifth assessment report (ar5) of the intergovernmental panel on climate change (ipcc), cambridge university press, archived from the original on 27 november 2014. also available at mitigation2014.org.
+ipcc sar syr (1996). "climate change 1995: a report of the intergovernmental panel on climate change". second assessment report of the intergovernmental panel on climate change. ipcc. pdf. the "full report", consisting of "the ipcc second assessment synthesis of scientific-technical information relevant to interpreting article 2 of the un framework convention on climate change" and the summaries for policymakers of the three working groups.
+ipcc sar wg3 (1996).  bruce, j.p.; lee, h.; haites, e.f., eds. climate change 1995: economic and social dimensions of climate change. contribution of working group iii to the second assessment report of the intergovernmental panel on climate change. cambridge university press. isbn 0-521-56051-9. (pb: 0-521-56854-4) pdf.
+ipcc srex (2012).  field, c.b.;  et al., eds. "managing the risks of extreme events and disasters to advance climate change adaptation (srex)". cambridge university press. archived from the original on 19 december 2012.. summary for policymakers summary for policymakers.
+ipcc tar wg1 (2001).  houghton, j.t.; ding, y.; griggs, d.j.; noguer, m.; van der linden, p.j.; dai, x.; maskell, k.; johnson, c.a., eds. climate change 2001: the scientific basis. contribution of working group i to the third assessment report of the intergovernmental panel on climate change. cambridge university press. isbn 0-521-80767-0. archived from the original on 30 march 2016. (pb: 0-521-01495-6)
+ipcc tar wg2 (2001).  mccarthy, j. j.; canziani, o. f.; leary, n. a.; dokken, d. j.; white, k. s., eds. climate change 2001: impacts, adaptation and vulnerability. contribution of working group ii to the third assessment report of the intergovernmental panel on climate change. cambridge university press. isbn 0-521-80768-9. archived from the original on 14 may 2016. (pb: 0-521-01500-6)
+ipcc tar wg3 (2001).  metz, b.; davidson, o.; swart, r.; pan, j., eds. climate change 2001: mitigation. contribution of working group iii to the third assessment report of the intergovernmental panel on climate change. cambridge university press. isbn 0-521-80769-7. archived from the original on 27 february 2017. (pb: 0-521-01502-2)
+ this article incorporates public domain material from the us global change research program (usgcrp) document: ncadac (11 january 2013), federal advisory committee draft climate assessment. a report by the national climate assessment development advisory committee (ncadac), washington, dc
+usgcrp (2015), glossary, washington, dc: u.s. global change research program (usgcrp), retrieved 20 january 2014. archived url.
+national research council (2011), climate stabilization targets: emissions, concentrations, and impacts over decades to millennia, washington, dc: national academies press, archived from the original on 27 march 2014
+national research council (2010). america's climate choices: panel on advancing the science of climate change;. washington, dc: the national academies press. isbn 0-309-14588-0. archived from the original on 29 may 2014.
+parris, a.;  et al. (6 december 2012), global sea level rise scenarios for the us national climate assessment. noaa tech memo oar cpo-1 (pdf), noaa climate program office. report website.
+unep (2010), unep emerging issues: environmental consequences of ocean acidification: a threat to food security (pdf), nairobi, kenya: united nations environment programme (unep), archived from the original (pdf) on 7 april 2015. report summary.
+ this article incorporates public domain material from the us global change research program (usgcrp) document: usgcrp (2009).  karl, t.r.; melillo. j.; peterson, t.; hassol, s.j., eds. global climate change impacts in the united states. cambridge university press. isbn 978-0-521-14407-0.. public-domain status of this report can be found on p. 4 of pdf
+us nrc (2008). "understanding and responding to climate change: highlights of national academies reports, 2008 edition, produced by the us national research council (us nrc)". washington, dc: national academy of sciences.
+us nrc (2012). "climate change: evidence, impacts, and choices". us national research council (us nrc). also available as pdf
+zeebe, r.e. (may 2012), "history of seawater carbonate chemistry, atmospheric co2, and ocean acidification" (pdf), annual review of earth and planetary sciences, 40, pp. 141–65, bibcode:2012areps..40..141z, doi:10.1146/annurev-earth-042711-105521.
+
+external links
+
+global warmingat wikipedia's sister projects
+
+
+definitions from wiktionary
+media from wikimedia commons
+news from wikinews
+quotations from wikiquote
+texts from wikisource
+textbooks from wikibooks
+resources from wikiversity
+
+
+
+
+
+
+wikiversity hosts a testbank of quizzes to assess students' understanding of this article
+library resources about  global warming 
+resources in your library
+resources in other libraries
+
+research
+nasa goddard institute for space studies – global change research
+noaa state of the climate report – u.s. and global monthly state of the climate reports
+climate change at the national academies – repository for reports
+met office: climate guide – uk national weather service
+educational global climate modelling (edgcm) – research-quality climate change simulator
+educational
+climate science special report united states 2017
+nasa: climate change: how do we know?
+global climate change: nasa's eyes on the earth – nasa, jpl, caltech
+global climate change indicators – noaa
+noaa climate services – noaa
+skeptical science: getting skeptical about global warming skepticism
+understanding climate change – frequently asked questions – ucar
+global carbon dioxide circulation (nasa; 13 december 2016)
+the world bank – climate change – a 4 degree warmer world – we must and can avoid it
+climate change tutorial by prof. myles allen (oxford), march 2018: parts 1, 2, 3, 4, 5 (45 min. total); background & slide deck
+experts discuss recent heat waves and atmospheric changes (july 2018)
+authority control 
+bnf: cb12156561p (data)
+gnd: 4344515-9
+ndl: 00923848
+
+vteglobal warming and climate changetemperatures
+brightness temperature
+effective temperature
+geologic record
+hiatus
+historical climatology
+instrumental record
+paleoclimatology
+paleotempestology
+proxy data
+record of the past 1,000 years
+satellite measurements
+causesanthropogenic(caused by human activity)
+attribution of recent climate change
+aviation
+biofuel
+black carbon
+carbon dioxide
+deforestation
+earth's energy budget
+earth's radiation balance
+ecocide
+fossil fuel
+global dimming
+global warming potential
+greenhouse effect
+(infrared window)
+greenhouse gases
+(halocarbons)
+land use, land-use change, and forestry
+radiative forcing
+tropospheric ozone
+urban heat island
+natural
+albedo
+bond events
+climate oscillations
+climate sensitivity
+cloud forcing
+cosmic rays
+feedbacks
+glaciation
+global cooling
+milankovitch cycles
+ocean variability
+amo
+enso
+iod
+pdo
+orbital forcing
+solar variation
+volcanism
+models
+global climate model
+history
+history of climate change science
+atmospheric thermodynamics
+svante arrhenius
+james hansen
+charles david keeling
+opinion and climate changegeneral
+environmental ethics
+media coverage of climate change
+public opinion on climate change
+(popular culture)
+scientific opinion on climate change
+scientists who disagree with the mainstream assessment
+climate change denial
+global warming conspiracy theory
+by country & region
+africa
+arctic
+argentina
+australia
+bangladesh
+belgium
+canada
+china
+europe
+european union
+finland
+grenada
+japan
+luxembourg
+new zealand
+norway
+russia
+scotland
+south korea
+sweden
+tuvalu
+united kingdom
+united states
+politics
+clean power plan
+climate change denial
+(manufactured controversy)
+intergovernmental panel on climate change (ipcc)
+march for science
+people's climate march
+united nations framework convention on climate change (unfccc / fccc)
+global climate regime
+potential effects and issuesgeneral
+abrupt climate change
+anoxic event
+arctic dipole anomaly
+arctic haze
+arctic methane emissions
+climate change and agriculture
+climate change and ecosystems
+climate change and gender
+climate change and poverty
+drought
+economics of global warming
+effects on plant biodiversity
+effects on health
+effects on humans
+effects on marine mammals
+environmental migrant
+extinction risk from global warming
+fisheries and climate change
+forest dieback
+industry and society
+iris hypothesis
+megadrought
+ocean acidification
+ozone depletion
+physical impacts
+polar stratospheric cloud
+regime shift
+retreat of glaciers since 1850
+runaway climate change
+sea level rise
+season creep
+shutdown of thermohaline circulation
+by country
+australia
+south asia
+india
+nepal
+united states
+mitigationkyoto protocol
+clean development mechanism
+joint implementation
+bali road map
+2009 united nations climate change conference
+governmental
+european climate change programme
+g8 climate change roundtable
+united kingdom climate change programme
+paris agreement
+united states withdrawal
+regional climate change initiatives in the united states
+list of climate change initiatives
+emissions reduction
+carbon credit
+carbon-neutral fuel
+carbon offset
+carbon tax
+emissions trading
+fossil fuel phase-out
+carbon-free energy
+carbon capture and storage
+efficient energy use
+low-carbon economy
+nuclear power
+renewable energy
+personal
+individual action on climate change
+simple living
+other
+carbon dioxide removal
+carbon sink
+climate action
+climate action plan
+climate change mitigation scenarios
+climate engineering
+individual and political action on climate change
+reducing emissions from deforestation and forest degradation
+reforestation
+urban reforestation
+proposed adaptationsstrategies
+damming glacial lakes
+desalination
+drought tolerance
+irrigation investment
+rainwater storage
+sustainable development
+weather modification
+programmes
+avoiding dangerous climate change
+land allocation decision support system
+
+ glossary
+ index
+ climate change
+ global warming
+ portal
+
+vtesimple livingpractices
+barter
+cord-cutting
+diy ethic
+downshifting
+dry toilet
+forest gardening
+freeganism
+frugality
+gift economy
+intentional community
+local currency
+low-impact development
+minimalism
+no frills
+off-the-grid
+permaculture
+self-sufficiency
+subsistence agriculture
+sustainable living
+sustainable sanitation
+veganism
+vegetarianism
+voluntary childlessness
+war tax resistance
+wwoof
+religious and spiritual
+asceticism
+aparigraha
+cynicism
+detachment
+distributism
+jesus movement
+mendicant
+mindfulness
+monasticism
+new monasticism
+plain dress
+plain people
+quakers
+rastafari
+temperance
+testimony of simplicity
+tolstoyan movement
+secular movements
+back-to-the-land
+car-free
+compassionate living
+environmental
+hippie
+slow
+small house
+transition town
+open source ecology
+notable writers
+wendell berry
+ernest callenbach
+g. k. chesterton
+duane elgin
+mahatma gandhi
+richard gregg
+tom hodgkinson
+harlan hubbard
+satish kumar
+helen nearing
+scott nearing
+peace pilgrim
+nick rosen
+dugald semple
+e. f. schumacher
+george skene keith
+henry david thoreau
+leo tolstoy
+valluvar
+modern-day adherents
+mark boyle
+jim merkel
+peace pilgrim
+suelo
+thomas
+media
+"anekdote zur senkung der arbeitsmoral"
+escape from affluenza
+the good life
+the moon and the sledgehammer
+mother earth news
+the power of half
+small is beautiful
+walden
+related topics
+affluenza
+agrarianism
+amateurism
+anarcho-primitivism
+anti-consumerism
+appropriate technology
+bohemianism
+consumerism
+deep ecology
+degrowth
+ecological footprint
+food miles
+front porch republic
+green anarchism
+the good life
+global warming
+hedonophobia
+intentional living
+itinerant
+low-technology
+nonviolence
+peak oil
+sustainability
+work–life balance
+
+ portal
+
+vtehuman impact on the environmentgeneral
+environmental issues
+list of issues
+human impact
+impact assessment
+planetary boundaries
+causes
+agriculture
+fishing
+irrigation
+meat production
+cocoa production
+palm oil
+energy industry
+biofuels
+biodiesel
+coal
+electricity generation
+nuclear power
+oil shale
+petroleum
+reservoirs
+wind power
+genetic pollution
+industrialisation
+land use
+manufacturing
+cleaning agents
+concrete
+plastics
+nanotechnology
+paint
+paper
+pesticides
+pharmaceuticals and personal care
+mining
+overdrafting
+overfishing
+overgrazing
+overexploitation
+overpopulation
+particulates
+pollution
+quarrying
+reservoirs
+tourism
+transport
+aviation
+roads
+shipping
+urbanization
+urban sprawl
+war
+effects
+biodiversity threats
+biodiversity loss
+climate change
+global warming
+runaway climate change
+coral reefs
+deforestation
+defaunation
+desertification
+ecocide
+erosion
+environmental degradation
+freshwater cycle
+habitat destruction
+holocene extinction
+nitrogen cycle
+land degradation
+land surface effects on climate
+loss of green belts
+phosphorus cycle
+ocean acidification
+ozone depletion
+resource depletion
+water degradation
+water scarcity
+mitigation
+birth control
+cleaner production
+climate change mitigation
+climate engineering
+community resilience
+decoupling
+ecological engineering
+environmental engineering
+environmental mitigation
+industrial ecology
+mitigation banking
+organic farming
+reforestation
+urban
+restoration ecology
+sustainable consumption
+waste minimization
+
+  commons
+  category
+by country
+assessment
+mitigation
+
+
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=global_warming&oldid=884014985"					
+categories: global warmingclimate changeclimate historyeconomic problemsclimate forcing agentsfuture problemssocial issueshidden categories: webarchive template wayback linkscs1: julian–gregorian uncertaintypages containing links to subscription-only contentcs1 maint: multiple names: authors listwebarchive template other archiveswikipedia indefinitely semi-protected pagesarticles with short descriptionuse dmy dates from may 2018featured articlesuse british english oxford spelling from september 2016articles containing potentially dated statements from november 2010all articles containing potentially dated statementsarticles containing potentially dated statements from 2013wikipedia articles with bnf identifierswikipedia articles with gnd identifierswikipedia articles with ndl identifiers 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readview sourceview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commonswikiquote 
+
+
+
+languages
+
+
+afrikaansalemannischአማርኛængliscالعربيةaragonésঅসমীয়াasturianuazərbaycancaবাংলাbân-lâm-gúбашҡортсабеларускаябеларуская (тарашкевіца)‎भोजपुरीбългарскиboarischbosanskibrezhonegбуряадcatalàcebuanočeštinacymraegdanskdeutscheestiελληνικάespañolesperantoeuskaraفارسیfiji hindiføroysktfrançaisfurlangaeilgegàidhliggalegoગુજરાતી한국어հայերենहिन्दीhrvatskiidoilokanobahasa indonesiainterlinguaíslenskaitalianoעבריתbasa jawaಕನ್ನಡkapampanganქართულიқазақшаkiswahilikreyòl ayisyenкыргызчаlatinalatviešulëtzebuergeschлезгиlietuviųlimburgslingua franca novalugandalumbaartmagyarмакедонскиmalagasyമലയാളംमराठीمصرىbahasa melayuмонголမြန်မာဘာသာnederlandsनेपालीनेपाल भाषा日本語nordfriisknorsknorsk nynorskoccitanଓଡ଼ିଆoromooਪੰਜਾਬੀپنجابیpatoispolskiportuguêsromânărumantschрусиньскыйрусскийсаха тылаscotsseelterskshqipsicilianuසිංහලsimple englishسنڌيslovenčinaslovenščinaکوردیсрпски / srpskisrpskohrvatski / српскохрватскиbasa sundasuomisvenskatagalogதமிழ்татарча/tatarçaతెలుగుไทยтоҷикӣtürkçeукраїнськаاردوvepsän kel’tiếng việtvõrowalon文言winaray吴语ייִדיש粵語zazakižemaitėška中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 19 february 2019, at 00:27 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"3.008","walltime":"3.358","ppvisitednodes":{"value":18263,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":732865,"limit":2097152},"templateargumentsize":{"value":14633,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":18,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":885240,"limit":5000000},"entityaccesscount":{"value":7,"limit":400},"timingprofile":["100.00% 2762.633      1 -total"," 67.47% 1864.032      2 template:reflist"," 24.12%  666.397     91 template:cite_journal"," 10.27%  283.607     63 template:cite_web","  8.71%  240.708     45 template:cite_book","  5.92%  163.541     39 template:cite_news","  3.68%  101.673      5 template:cite_report","  2.72%   75.273     65 template:harvnb","  2.45%   67.735      1 template:global_warming","  2.39%   65.952      8 template:isbn"]},"scribunto":{"limitreport-timeusage":{"value":"1.709","limit":"10.000"},"limitreport-memusage":{"value":12377481,"limit":52428800}},"cachereport":{"origin":"mw1333","timestamp":"20190219095612","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":127,"wghostname":"mw1272"});});
+
+

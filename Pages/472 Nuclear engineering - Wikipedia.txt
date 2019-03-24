@@ -1,0 +1,738 @@
+
+
+
+
+nuclear engineering - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"nuclear_engineering","wgtitle":"nuclear engineering","wgcurrevisionid":869555040,"wgrevisionid":869555040,"wgarticleid":37207,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["articles lacking in-text citations from october 2016","all articles lacking in-text citations","all articles with unsourced statements","articles with unsourced statements from december 2017","wikipedia articles with bne identifiers","wikipedia articles with bnf identifiers","wikipedia articles with lccn identifiers","wikipedia articles with nara identifiers","wikipedia articles with ndl identifiers","engineering disciplines","nuclear technology"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"nuclear_engineering","wgrelevantarticleid":37207,"wgrequestid":"xgwu5gpaiciaacubqeoaaact","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgredirectedfrom":"nuclear_engineer","wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wginternalredirecttargeturl":"/wiki/nuclear_engineering","wgwikibaseitemid":"q83504","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+nuclear engineering 
+from wikipedia, the free encyclopedia   (redirected from nuclear engineer)
+ jump to navigation
+jump to search
+this article includes a list of references, related reading or external links, but its sources remain unclear because it lacks inline citations. please help to improve this article by introducing more precise citations. (october 2016) (learn how and when to remove this template message)
+nuclear engineering is the branch of engineering concerned with the application of breaking down  atomic nuclei (fission) or of combining atomic nuclei (fusion),  or with the application of other sub-atomic processes based on the principles of nuclear physics. in the sub-field of nuclear fission, it particularly includes the design, interaction, and maintenance of systems and components like nuclear reactors, nuclear power plants, or nuclear weapons. the field also includes the study of medical and other applications of radiation, particularly ionizing radiation, nuclear safety, heat/thermodynamics transport, nuclear fuel, or other related technology (e.g., radioactive waste disposal) and the problems of nuclear proliferation.
+
+contents
+
+1 professional areas
+
+1.1 nuclear medicine and medical physics
+1.2 nuclear materials
+1.3 radiation protection and measurement
+
+
+2 nuclear engineering organizations
+3 see also
+4 references
+5 further reading
+6 external links
+
+
+professional areas[edit]
+the united states currently generates about 18% of its electricity from nuclear power plants. nuclear engineers in this field generally work, directly or indirectly, in the nuclear power industry or for national laboratories. current research in the industry is directed at producing economical and proliferation-resistant reactor designs with passive safety features. some government (national) labs provide research in the same areas as private industry and in other areas such as nuclear fuels and nuclear fuel cycles, advanced reactor designs, and nuclear weapon design and maintenance. a principal pipeline/source of trained personnel (both military and civilian) for us reactor facilities is the us navy nuclear power program, including its nuclear power school in south carolina. employment in nuclear engineering is predicted to grow about nine percent to year 2022 as needed to replace retiring nuclear engineers, provide maintenance and updating of safety systems in power plants, and to advance the applications of nuclear medicine.[1]
+
+
+
+
+
+nuclear powerplant 
+
+
+
+
+
+
+b-61 thermonuclear weapon
+
+
+
+
+nuclear medicine and medical physics[edit]
+medical physics is an important field of nuclear medicine; its sub-fields include nuclear medicine, radiation therapy, health physics, and diagnostic imaging.[2] highly specialized and intricately operating equipment, including  x-ray machines, mri and pet scanners and many other devices provide most of modern medicine's diagnostic capability—along with disclosing subtle treatment options. 
+
+
+
+x-ray image of a male skull
+
+
+
+
+
+
+magnetic resonance imaging (mri) scan of a human head
+
+
+
+
+
+
+pet scan taken with an ecat exact hr+pet scanner
+
+
+
+
+nuclear materials[edit]
+nuclear materials research focuses on two main subject areas, nuclear fuels and irradiation-induced modification of nuclear materials. improvement of nuclear fuels is crucial for obtaining increased efficiency from nuclear reactors. irradiation effects studies have many purposes, including studying structural changes to reactor components and studying nano-modification of metals using ion-beams or particle accelerators.
+
+
+
+
+
+uranium ore, the principal raw material of nuclear fuel
+
+
+
+
+
+
+nuclear fuel pellets
+
+
+
+
+
+
+a focused ion beam
+
+
+
+
+radiation protection and measurement[edit]
+radiation measurement is fundamental to the science and practice of radiation protection, sometimes known as radiological protection, which is the protection of people and the environment from the harmful effects of uncontrolled radiation.[citation needed]
+nuclear engineers and radiological scientists are interested in developing more advanced ionizing radiation measurement and detection systems, and using these advances to improve imaging technologies; these areas include detector design, fabrication and analysis, measurements of fundamental atomic and nuclear parameters, and radiation imaging systems, among others.
+
+
+
+
+
+a modern geiger counter
+
+
+
+
+
+
+a neutron detector
+
+
+
+
+
+
+scintillation detector next to uraninite
+
+
+
+
+
+
+hand-held large area alpha scintillation probe under calibration
+
+
+
+
+
+
+hand-held integral ion chamber survey meter in use
+
+
+
+
+nuclear engineering organizations[edit]
+american nuclear society
+nuclear institute (uk)
+international atomic energy agency
+see also[edit]
+
+atomic physics
+atomic engineering
+earthquake engineering
+list of nuclear reactors
+normal accidents
+nuclear fuel
+nuclear material
+nuclear physics
+nuclear power
+nuclear reactor technology
+nuclear renaissance
+thermal hydraulics
+nuclear criticality safety
+project gnome
+safety engineering
+waste isolation pilot plant
+lists of nuclear disasters and radioactive incidents
+list of books about nuclear issues
+three mile island: a nuclear crisis in historical perspective
+black swan theory
+megaprojects and risk
+northeast blackout of 2003
+brittle power
+fukushima nuclear disaster
+international nuclear event scale
+
+references[edit]
+
+
+^ "nuclear engineers – job outlook" in occupational outlook handbook, 2014–15. bureau of labor statistics, u.s. department of labor
+
+^ medical physicist. american association of physicists in medicine
+
+
+further reading[edit]
+gowing, margaret. britain and atomic energy, 1939–1945 (1964).
+gowing, margaret, and lorna arnold. independence and deterrence: britain and atomic energy, vol. i: policy making, 1945–52; vol. ii: policy execution, 1945–52 (london, 1974)
+johnston, sean f. "creating a canadian profession: the nuclear engineer, 1940–68," canadian journal of history, winter 2009, vol. 44 issue 3, pp 435–466
+johnston, sean f. "implanting a discipline: the academic trajectory of nuclear engineering in the usa and uk," minerva, 47 (2009), pp. 51–73
+ash, milton, "nuclear reactor kinetics", mcgraw-hill, (1965)
+external links[edit]
+
+
+
+wikibooks has more on the topic of: nuclear engineering
+nuclear safety info resources
+science and technology of nuclear installation open-access journal
+nuclear engineering international magazine
+nuclear science and engineering technical journal
+electric generation from commercial nuclear power
+hacettepe university department of nuclear engineering
+vteengineeringcivil
+architectural
+construction
+environmental
+earthquake
+geotechnical
+hydraulic
+mining
+structural
+transportation
+mechanical
+acoustical
+aerospace
+automotive
+marine
+railway
+thermal
+electrical
+computer
+control
+electromechanics
+electronics
+microwaves
+power
+radio frequency
+telecommunications
+chemical
+biochemical
+biological
+molecular
+petroleum
+process
+reaction
+thermodynamics
+transport phenomena
+interdisciplinary
+audio
+biomedical
+ceramics
+engineering mathematics
+engineering mechanics
+engineering physics
+engineering science
+fire
+industrial
+information
+materials science
+mechatronics
+metallurgy
+military
+nanotechnology
+nuclear
+optical
+photonics
+privacy
+robotics
+security
+systems
+glossaries
+engineering
+aerospace engineering
+civil engineering
+electrical and electronics engineering
+mechanical engineering
+structural engineering
+
+list of engineering branches
+ category:engineering
+  engineering portal
+
+vtenuclear technologyscience
+chemistry
+engineering
+physics
+atomic nucleus
+fission
+fusion
+radiation
+ionizing
+braking
+fuel
+tritium
+deuterium
+helium-3
+fertile material
+fissile material
+isotope separation
+nuclear material
+uranium
+enriched
+depleted
+plutonium
+thorium
+neutron
+activation
+capture
+poison
+cross section
+generator
+radiation
+reflector
+temperature
+thermal
+fast
+fusion
+power
+by country
+power plant
+economics
+multi-mission radioisotope thermoelectric generator
+accidents and incidents
+policy
+fusion
+radioisotope thermoelectric (rtg)
+propulsion
+rocket
+safety and security
+medicineimaging
+radball
+scintigraphy
+single-photon emission (spect)
+positron-emission tomography (pet)
+therapy
+fast-neutron
+neutron capture therapy of cancer
+targeted alpha-particle
+proton-beam
+tomotherapy
+brachytherapy
+radiation therapy
+radiosurgery
+radiopharmacology
+weaponstopics
+arms race
+delivery
+design
+disarmament
+ethics
+explosion
+effects
+history
+proliferation
+testing
+high-altitude
+underground
+warfare
+yield
+tnte
+lists
+estimated death tolls from attacks
+states with nuclear weapons
+tests
+united states
+wmd treaties
+weapon-free zones
+weapons
+wasteproducts
+actinide
+reprocessed uranium
+reactor-grade plutonium
+minor actinide
+activation
+fission
+llfp
+actinide chemistry
+disposal
+fuel cycle
+high-level (hlw)
+low-level (llw)
+repository
+reprocessing
+spent fuel
+pool
+cask
+transmutation
+debate
+nuclear power
+nuclear weapons
+blue ribbon commission on america's nuclear future
+anti-nuclear movement
+uranium mining
+nuclear power phase-out
+nuclear reactorsfissionmoderatorlight water
+aqueous homogeneous
+boiling
+bwr
+abwr
+esbwr
+kerena
+pressurized
+ap1000
+apr-1400
+apr+
+apwr
+atmea1
+cap1400
+cpr-1000
+epr
+hpr-1000
+acpr1000
+acp1000
+vver
+many others
+supercritical (scwr)
+natural fission
+heavy waterd2o
+pressurized
+candu
+candu 6
+candu 9
+ec6
+afcr
+acr-1000
+ahwr
+cvtr
+iphwr-x
+phwr kwu
+mzfr
+r3
+r4 marviken
+h2o
+hwlwr
+atr
+hw blwr 250
+steam-generating (sghwr)
+organic
+wr-1
+co2
+hwgcr
+el-4
+ks 150
+kkn
+graphite .mw-parser-output .nobold{font-weight:normal}by coolantwaterh2o
+am-1
+amb-x
+egp-6
+rbmk
+gasco2
+uranium naturel graphite gaz (ungg)
+magnox
+advanced gas-cooled (agr)
+he
+gtmhr
+mhr-t
+uhtrex
+vhtr (htgr)
+pbr (pbmr)
+avr
+htr-10
+htr-pm
+thtr-300
+pmr
+molten-saltfluorides
+fuji msr
+liquid-fluoride thorium reactor (lftr)
+molten-salt reactor experiment (msre)
+integral molten salt reactor (imsr)
+thorcon
+none(fast-neutron)
+breeder (fbr)
+integral (ifr)
+liquid-metal-cooled (lmfr)
+small sealed transportable autonomous (sstar)
+traveling-wave (twr)
+energy multiplier module (em2)
+reduced-moderation (rmwr)
+fast breeder test reactor (fbtr)
+dual fluid reactor (dfr)
+generation iv
+sodium (sfr)
+bn-350
+bn-600
+bn-800
+bn-1200
+cfr-600
+phénix
+superphénix
+pfbr
+cefr
+pfr
+prism
+lead (lfr)
+helium gas (gfr)
+others
+organically moderated and cooled reactor
+arbus
+piqua
+aircraft reactor experiment
+
+fusionby confinementmagnetic
+field-reversed configuration
+levitated dipole
+reversed field pinch
+spheromak
+stellarator
+tokamak
+inertial
+bubble (acoustic)
+fusor
+electrostatic
+laser-driven
+magnetized-target
+z-pinch
+other
+dense plasma focus
+migma
+muon-catalyzed
+polywell
+pyroelectric
+
+ category
+portal
+ commons
+
+vtelists of nuclear disasters and radioactive incidentsmain  accident  lists
+vulnerability of nuclear plants to attack
+chernobyl-related articles
+crimes involving radioactive substances
+criticality accidents and incidents
+nuclear meltdown accidents
+list of milestone nuclear explosions
+military nuclear accidents
+nuclear and radiation accidents and incidents
+nuclear and radiation accidents by death toll
+nuclear weapons tests
+sunken nuclear submarines
+lists bycountry
+cancelled nuclear reactors in the united states
+inquiries into uranium mining in australia
+nuclear and radiation fatalities by country
+nuclear power accidents by country
+nuclear reactors by country
+nuclear test sites
+nuclear weapons tests of the soviet union
+nuclear weapons tests of the united states
+individual  accidents  and sites
+2011 fukushima daiichi nuclear disaster
+2001 instituto oncológico nacional#accident
+1996 san juan de dios radiotherapy accident
+1990 clinic of zaragoza radiotherapy accident
+1987 goiânia accident
+1986 chernobyl disaster and effects of the chernobyl disaster
+1979 three mile island accident and three mile island accident health effects
+1969 lucens reactor
+1962  thor missile launch failures at johnston atoll under operation fishbowl
+1962 cuban missile crisis
+1961 k-19 nuclear accident
+1961 sl-1 nuclear meltdown
+1957 kyshtym disaster
+1957 windscale fire
+1957 operation plumbbob
+1954 totskoye nuclear exercise
+bikini atoll
+hanford site
+rocky flats plant
+1945 atomic bombings of hiroshima and nagasaki
+related  topics
+books about nuclear issues
+films about nuclear issues
+anti-war movement
+bikini atoll
+bulletin of the atomic scientists
+france and weapons of mass destruction
+history of the anti-nuclear movement
+international day against nuclear tests
+nuclear close calls
+nuclear-free future award
+nuclear-free zone
+nuclear power debate
+nuclear power phase-out
+nuclear weapons debate
+peace activists
+peace movement
+peace camp
+russell–einstein manifesto
+smiling sun
+ category
+authority control 
+bne: xx526467
+bnf: cb11975767q (data)
+lccn: sh85092968
+nara: 10641717
+ndl: 00562380
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=nuclear_engineering&oldid=869555040"					
+categories: engineering disciplinesnuclear technologyhidden categories: articles lacking in-text citations from october 2016all articles lacking in-text citationsall articles with unsourced statementsarticles with unsourced statements from december 2017wikipedia articles with bne identifierswikipedia articles with bnf identifierswikipedia articles with lccn identifierswikipedia articles with nara identifierswikipedia articles with ndl identifiers 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+العربيةasturianuবাংলাбългарскиcatalàespañolفارسی한국어հայերենहिन्दीbahasa indonesiaitalianoעבריתbahasa melayu日本語portuguêsрусскийsimple englishtagalogதமிழ்türkçetürkmençeукраїнськаtiếng việtwinaray中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 19 november 2018, at 09:50 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.380","walltime":"0.541","ppvisitednodes":{"value":1448,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":192812,"limit":2097152},"templateargumentsize":{"value":2038,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":11782,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  367.199      1 -total"," 36.66%  134.629     14 template:navbox"," 23.12%   84.903      1 template:nuclear_technology"," 22.04%   80.931      1 template:navbox_with_collapsible_groups"," 20.06%   73.659      1 template:nofootnotes"," 13.16%   48.311      1 template:nuclear_fission_reactors"," 12.82%   47.075      1 template:ambox"," 12.35%   45.342      1 template:authority_control"," 12.26%   45.037      1 template:engineering_fields"," 10.70%   39.283      1 template:fact"]},"scribunto":{"limitreport-timeusage":{"value":"0.114","limit":"10.000"},"limitreport-memusage":{"value":3708087,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1248","timestamp":"20190213225140","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"nuclear engineering","url":"https:\/\/en.wikipedia.org\/wiki\/nuclear_engineering","sameas":"http:\/\/www.wikidata.org\/entity\/q83504","mainentity":"http:\/\/www.wikidata.org\/entity\/q83504","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2002-02-01t12:24:24z","datemodified":"2018-11-19t09:50:06z","headline":"applied science"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":121,"wghostname":"mw1332"});});
+
+

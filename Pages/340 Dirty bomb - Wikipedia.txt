@@ -1,0 +1,568 @@
+
+
+
+
+dirty bomb - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"dirty_bomb","wgtitle":"dirty bomb","wgcurrevisionid":872962906,"wgrevisionid":872962906,"wgarticleid":55982,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["cs1 maint: archived copy as title","all articles with dead external links","articles with dead external links from december 2016","articles with permanently dead external links","articles with dead external links from may 2016","webarchive template wayback links","cs1: long volume value","bombs","nuclear weapons","nuclear terrorism","radiological weapons"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"dirty_bomb","wgrelevantarticleid":55982,"wgrequestid":"xgamkwpaic4aakelqnkaaabu","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfexpandallsectionsuseroption":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q867805","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+dirty bomb 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+for other uses, see dirty bomb (disambiguation).
+not to be confused with salted bomb.
+terrorism
+definitions
+
+history
+incidents
+
+by ideology
+
+anarchist
+communist
+conservative
+left-wing
+narcotics-driven
+nationalist
+right-wing
+
+
+religious
+
+buddhist
+christian (mormon)
+hindu
+islamic
+jewish
+sikh
+
+
+special-interest / single-issue
+anti-abortion
+
+environmental
+
+
+related topics
+
+ethnic violence
+militia movement
+resistance movement
+
+
+
+structure
+financing
+fronting
+training camp
+death squad
+clandestine cell system
+leaderless resistance
+
+
+methodstactics
+agro-terrorism
+aircraft hijacking (list)
+animal-borne bomb attacks
+beheading
+bioterrorism
+car bombing (list)
+cyberterrorism
+dirty bomb
+dry run
+explosive
+hostage-taking
+improvised explosive device (ied)
+vbied
+vehicle-ramming
+spree shooting
+individual terror
+insurgency
+kidnapping
+letter bomb
+lone wolf
+mass shooting
+nuclear
+paper terrorism
+piracy
+propaganda of the deed
+proxy bomb
+school shooting
+stabbing
+suicide attack (list)
+rockets and mortars
+
+
+terrorist groups
+designated terrorist groups
+charities accused of ties to terrorism
+
+adherents
+violent non-state actors
+
+state terrorism
+
+kazakhstan
+soviet union
+sri lanka
+united states
+uzbekistan
+
+
+state-sponsored terrorism
+
+iran
+israel
+pakistan
+qatar
+russia (soviet union)
+saudi arabia
+syria
+united arab emirates
+united states
+
+
+
+response to terrorism
+counter-terrorism
+international conventions
+anti-terrorism legislation
+terrorism insurance
+vte
+a dirty bomb or radiological dispersal device (rdd) is a speculative radiological weapon that combines radioactive material with conventional explosives. the purpose of the weapon is to contaminate the area around the dispersal agent/conventional explosion with radioactive material, serving primarily as an area denial device against civilians. it is, however, not to be confused with a nuclear explosion, such as a fission bomb, which by releasing nuclear energy produces blast effects far in excess of what is achievable by the use of conventional explosives.
+though an rdd would be designed to disperse radioactive material over a large area, a bomb that uses conventional explosives and produces a blast wave would be far more lethal to people than the hazard posed by radioactive material that may be mixed with the explosive.[1] at levels created from probable sources, not enough radiation would be present to cause severe illness or death. a test explosion and subsequent calculations done by the united states department of energy found that assuming nothing is done to clean up the affected area and everyone stays in the affected area for one year, the radiation exposure would be "fairly high" but not fatal.[2][3] recent analysis of the nuclear fallout from the chernobyl disaster confirms this, showing that the effect on many people in the surrounding area, although not those in proximity, was almost negligible.[4]
+since a dirty bomb is unlikely to cause many deaths by radiation exposure, many do not consider this to be a weapon of mass destruction.[2] its purpose would presumably be to create psychological, not physical, harm through ignorance, mass panic, and terror. for this reason dirty bombs are sometimes called "weapons of mass disruption". additionally, containment and decontamination of thousands of victims, as well as decontamination of the affected area might require considerable time and expense, rendering areas partly unusable and causing economic damage.
+
+contents
+
+1 dirty bombs and terrorism
+
+1.1 effect of a dirty bomb explosion
+1.2 accidents with radioactives
+1.3 public perception of risks
+1.4 constructing and obtaining material for a dirty bomb
+1.5 possibility of terrorist groups using dirty bombs
+
+
+2 dirty bomb tests
+3 detection and prevention
+4 personal safety
+5 other uses of the term
+6 in popular culture
+7 see also
+8 references
+
+8.1 notes
+8.2 works cited
+
+
+9 external links
+
+
+dirty bombs and terrorism[edit]
+further information: nuclear terrorism
+since the 9/11 attacks the fear of terrorist groups using dirty bombs has increased immensely, which has been frequently reported in the media.[5] the meaning of terrorism used here, is described by the u.s. department of defense's definition, which is "the calculated use of unlawful violence or threat of unlawful violence to inculcate fear; intended to coerce or to intimidate governments or societies in the pursuit of goals that are generally political, religious, or ideological objectives".[6]
+there have only ever been two cases of caesium-containing bombs, and neither was detonated. both involved chechnya. the first attempt of radiological terror was carried out in november 1995 by a group of chechen separatists, who buried a caesium-137 source wrapped in explosives at the izmaylovsky park in moscow. a chechen rebel leader alerted the media, the bomb was never activated, and the incident amounted to a mere publicity stunt.[7]
+in december 1998, a second attempt was announced by the chechen security service, who discovered a container filled with radioactive materials attached to an explosive mine. the bomb was hidden near a railway line in the suburban area argun, ten miles east of the chechen capital of grozny. the same chechen separatist group was suspected to be involved.[8]
+despite the increased fear of a dirty bombing attack, it is hard to assess whether the actual risk of such an event has increased significantly.[9] the following discussions on implications, effects and probability of an attack, as well as indications of terror groups planning such, are based mainly on statistics, qualified guessing and a few comparable scenarios.
+
+effect of a dirty bomb explosion[edit]
+when dealing with the implications of a dirty bomb attack, there are two main areas to be addressed: (i) the civilian impact, not only dealing with immediate casualties and long term health issues, but also the psychological effect and then (ii) the economic impact. with no prior event of a dirty bomb detonation, it is considered difficult to predict the impact. several analyses have predicted that rdds will neither sicken nor kill many people.[10]
+
+accidents with radioactives[edit]
+the effects of uncontrolled radioactive contamination have been reported several times.
+
+see also: lists of nuclear disasters and radioactive incidents
+one example is the radiological accident occurring in goiânia, brazil, between september 1987 and march 1988: two metal scavengers broke into an abandoned radiotherapy clinic and removed a teletherapy source capsule containing powdered caesium-137 with an activity of 50 tbq. they brought it back to the home of one of the men to take it apart and sell as scrap metal. later that day both men were showing acute signs of radiation illness with vomiting and one of the men had a swollen hand and diarrhea. a few days later one of the men punctured the 1 mm thick window of the capsule, allowing the caesium chloride powder to leak out and when realizing the powder glowed blue in the dark, brought it back home to his family and friends to show it off. after 2 weeks of spread by contact contamination causing an increasing number of adverse health effects, the correct diagnosis of acute radiation sickness was made at a hospital and proper precautions could be put into procedure. by this time 249 people were contaminated, 151 exhibited both external and internal contamination of which 20 people were seriously ill and 5 people died.[11]
+the goiânia incident to some extent predicts the contamination pattern if it is not immediately realized that the explosion spread radioactive material, but also how fatal even very small amounts of ingested radioactive powder can be.[12] this raises worries of terrorists using powdered alpha emitting material, that if ingested can pose a serious health risk,[13] as in the case of deceased former k.g.b. spy alexander litvinenko, who either ate, drank or inhaled polonium-210. "smoky bombs" based on alpha emitters might easily be just as dangerous as beta or gamma emitting dirty bombs.[14]
+
+main article: goiânia accident
+public perception of risks[edit]
+for the majority involved in an rdd incident, the radiation health risks (i.e. increased probability of developing cancer later in life due to radiation exposure) are comparatively small, comparable to the health risk from smoking five packages of cigarettes on a daily basis.[15] the fear of radiation is not always logical. although the exposure might be minimal, many people find radiation exposure especially frightening because it is something they cannot see or feel, and it therefore becomes an unknown source of danger. dealing with public fear may prove the greatest challenge in case of an rdd event.[16] policy, science and media may inform the public about the real danger and thus reduce the possible psychological and economic effects.
+statements from the u.s. government after 9/11 may have contributed unnecessarily to the public fear of a dirty bomb. when united states attorney general john ashcroft on june 10, 2002, announced the arrest of josé padilla, allegedly plotting to detonate such a weapon, he said:
+
+.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}[a] radioactive "dirty bomb" (...) spreads radioactive material that is highly toxic to humans and can cause mass death and injury.— attorney general john ashcroft[12]
+
+this public fear of radiation also plays a big role in why the costs of an rdd impact on a major metropolitan area (such as lower manhattan) might be equal to or even larger than that of the 9/11 attacks.[12] assuming the radiation levels are not too high and the area does not need to be abandoned such as the town of pripyat near the chernobyl reactor,[17] an expensive and time consuming cleanup procedure will begin. this will mainly consist of tearing down highly contaminated buildings, digging up contaminated soil and quickly applying sticky substances to remaining surfaces so that radioactive particles adhere before radioactivity penetrates the building materials.[18] these procedures are the current state of the art for radioactive contamination cleanup, but some experts say that a complete cleanup of external surfaces in an urban area to current decontamination limits may not be technically feasible.[12] loss of working hours will be vast during cleanup, but even after the radiation levels reduce to an acceptable level, there might be residual public fear of the site including possible unwillingness to conduct business as usual in the area. tourist traffic is likely never to resume.[12]
+there is also a psychological warfare element to radioactive substances.  visceral fear is not widely aroused by the daily emissions from coal burning, for example, even though a national academy of sciences study found this causes 10,000 premature deaths a year in the us population of 317,413,000. medical errors leading to death in u.s. hospitals are estimated to be between 44,000 and 98,000. it is "only nuclear radiation that bears a huge psychological burden — for it carries a unique historical legacy".[19]
+
+constructing and obtaining material for a dirty bomb[edit]
+in order for a terrorist organization to construct and detonate a dirty bomb, it must acquire radioactive material. possible rdd material could come from the millions of radioactive sources used worldwide in the industry, for medical purposes and in academic applications mainly for research.[20] of these sources, only nine reactor produced isotopes stand out as being suitable for radiological terror: americium-241, californium-252, caesium-137, cobalt-60, iridium-192, plutonium-238, polonium-210, radium-226 and strontium-90,[9] and even from these it is possible that radium-226 and polonium-210 do not pose a significant threat.[21] of these sources the u.s. nuclear regulatory commission has estimated that within the u.s., approximately one source is lost, abandoned or stolen every day of the year. within the european union the annual estimate is 70.[22] there exist thousands of such "orphan" sources scattered throughout the world, but of those reported lost, no more than an estimated 20 percent can be classified as a potential high security concern if used in a rdd.[21] especially russia is believed to house thousands of orphan sources, which were lost following the collapse of the soviet union. a large but unknown number of these sources probably belong to the high security risk category. noteworthy are the  beta emitting strontium-90 sources used as radioisotope thermoelectric generators for beacons in lighthouses in remote areas of russia.[23] in december 2001, three georgian woodcutters stumbled over such a power generator and dragged it back to their camp site to use it as a heat source. within hours they suffered from acute radiation sickness and sought hospital treatment. the international atomic energy agency (iaea) later stated that it contained approximately 40 kilocuries (1.5 pbq) of strontium,[24] equivalent to the amount of radioactivity released immediately after the chernobyl accident (though the total radioactivity release from chernobyl was 2500 times greater at around 100 mci (3,700 pbq)[25]).
+although a terrorist organization might obtain radioactive material through the "black market",[26] and there has been a steady increase in illicit trafficking of radioactive sources from 1996 to 2004, these recorded trafficking incidents mainly refer to rediscovered orphan sources without any sign of criminal activity,[9] and it has been argued that there is no conclusive evidence for such a market.[27] in addition to the hurdles of obtaining usable radioactive material, there are several conflicting requirements regarding the properties of the material the terrorists need to take into consideration: first, the source should be "sufficiently" radioactive to create direct radiological damage at the explosion or at least to perform societal damage or disruption. second, the source should be transportable with enough shielding to protect the carrier, but not so much that it will be too heavy to maneuver. third, the source should be sufficiently dispersible to effectively contaminate the area around the explosion.[28]
+an example of a worst-case scenario is a terror organization possessing a source of very highly radioactive material, e.g. a strontium-90 thermal generator, with the ability to create an incident comparable to the chernobyl accident. although the detonation of a dirty bomb using such a source might seem terrifying, it would be hard to assemble the bomb and transport it without severe radiation damage and possible death of the perpetrators involved. shielding the source effectively would make it almost impossible to transport and a lot less effective if detonated.
+due to the three constraints of making a dirty bomb, rdds might still be defined as "high-tech" weapons and this is probably why they have not been used up to now.[28]
+
+possibility of terrorist groups using dirty bombs[edit]
+the present assessment of the possibility of terrorists using a dirty bomb is based on cases involving isis.  this is because the attempts by this group to acquire a dirty bomb coming to light in all forms of media, in part due to the attention this group received for their involvement in the london bridge attack.
+on 8 may 2002, josé padilla (a.k.a. abdulla al-muhajir) was arrested on suspicion that he was an al-qaeda terrorist planning to detonate a dirty bomb in the u.s. this suspicion was raised by information obtained from an arrested top al-qaeda official in u.s. custody, abu zubaydah, who under interrogation revealed that the organization was close to constructing a dirty bomb. although padilla had not obtained radioactive material or explosives at the time of arrest, law enforcement authorities uncovered evidence that he was on reconnaissance for usable radioactive material and possible locations for detonation.[29] it has been doubted whether josé padilla was preparing such an attack, and it has been claimed that the arrest was highly politically motivated, given the pre-9/11 security lapses by the cia and fbi.[30]
+later, these charges against josé padilla were dropped. although there was no hard evidence for al-qaeda possessing a dirty bomb, there is a broad agreement that al-qaeda poses a potential dirty bomb attack threat[31] because they need to overcome the alleged image that the u.s. and its allies are winning the war against terror.[5] a further concern is the argument, that "if suicide bombers are prepared to die flying airplanes into building, it is also conceivable that they are prepared to forfeit their lives building dirty bombs".[32] if this would be the case, both the cost and complexity of any protective systems needed to allow the perpetrator to survive long enough to both build the bomb and carry out the attack, would be significantly reduced.[12]
+several other captives were alleged to have played a role in this plot.[33]
+guantanamo captive binyam mohammed has alleged he was subjected to extraordinary rendition, and that his confession of a role in the plot was coerced through torture.[34][35]
+he sought access through the american and united kingdom legal systems to provide evidence he was tortured.[36][37]
+guantanamo military commission prosecutors continue to maintain the plot was real, and charged binyam for his alleged role in 2008. however they dropped this charge in october 2008, but maintain they could prove the charge and were only dropping the charge to expedite proceedings.
+us district court judge emmet g. sullivan insisted that the administration still had to hand over the evidence that justified the dirty bomb charge, and admonished united states department of justice lawyers that dropping the charge "raises serious questions in this court's mind about whether those allegations were ever true."
+in 2006, dhiren barot from north london pleaded guilty of conspiring to murder innocent people within the united kingdom and united states using a radioactive dirty bomb. he planned to target underground car parks within the uk and buildings in the u.s. such as the international monetary fund, world bank buildings in washington d.c., the new york stock exchange, citigroup buildings and the prudential financial buildings in newark, new jersey. he also faces 12 other charges including, conspiracy to commit public nuisance, seven charges of making a record of information for terrorist purposes and four charges of possessing a record of information for terrorist purposes. experts say if the plot to use the dirty bomb was carried out "it would have been unlikely to cause deaths, but was designed to affect about 500 people."[38]
+in january 2009, a leaked fbi report described the results of a search of the maine home of james g. cummings, a white supremacist who had been shot and killed by his wife. investigators found four one-gallon containers of 35 percent hydrogen peroxide, uranium, thorium, lithium metal, aluminum powder, beryllium, boron, black iron oxide and magnesium as well as literature on how to build dirty bombs and information about cesium-137, strontium-90 and cobalt-60, radioactive materials.[39] officials confirmed the veracity of the report but stated that the public was never at risk.[40]
+in april 2009, the security service of ukraine announced the arrest of a legislator and two businessmen from the ternopil oblast. seized in the undercover sting operation was 3.7 kilograms of what was claimed by the suspects during the sale as plutonium-239, used mostly in nuclear reactors and nuclear weapons, but was determined by experts to be probably americium, a "widely used" radioactive material which is commonly used in amounts of less than 1 milligram in smoke detectors, but can also be used in a dirty bomb. the suspects reportedly wanted us$ 10 million for the material, which the security service determined was produced in russia during the era of the soviet union and smuggled into ukraine through a neighboring country.[41][42]
+in july 2014, isis militants seized 88 pounds (40 kg) of uranium compounds from mosul university. the material was unenriched and so could not be used to build a conventional fission bomb, but a dirty bomb is a theoretical possibility. however, uranium's relatively low radioactivity makes it a poor candidate for use in a dirty bomb.[43][44]
+little is known about civil preparedness to respond to a dirty bomb attack. the boston marathon appeared to many to be a situation with high potential for use of a dirty bomb as a terrorist weapon.[45] however, the bombing attack that occurred on april 15, 2013 did not involve use of dirty bombs. any radiological testing or inspections that may have occurred following the attack were either conducted sub rosa or not at all. also, there was no official dirty bomb "all clear" issued by the obama administration. massachusetts general hospital had, apparently under their own disaster plan, issued instructions to their emergency room to be prepared for incoming radiation poisoning cases.[46]
+terrorist organizations may also capitalize on the fear of radiation to create weapons of mass disruption rather than weapons of mass destruction. a fearful public response may in itself accomplish the goals of a terrorist organization to gain publicity or destabilize society.[47] even simply stealing radioactive materials may trigger a panic reaction from the general public. similarly, a small-scale release of radioactive materials or a threat of such a release may be considered sufficient for a terror attack.[47] particular concern is directed towards the medical sector and healthcare sites which are "intrinsically more vulnerable than conventional licensed nuclear sites".[47] opportunistic attacks may range to even kidnapping patients whose treatment involve radioactive materials. of note is the public reaction to the goiânia accident, in which over 100,000 people admitted themselves to monitoring, while only 49 were admitted to hospitals. other benefits to a terrorist organization of a dirty bomb include economic disruption in the area affected, abandonment of affected assets (such a buildings, subways) due to public concern, and international publicity useful for recruitment.[48]
+
+dirty bomb tests[edit]
+israel carried out a four-year series of tests on nuclear explosives to measure the effects were “hostile forces” ever to use them against israel, israel’s haaretz daily newspaper reported june 8, 2015.[49]
+
+detection and prevention[edit]
+dirty bombs may be prevented by detecting illicit radioactive materials in shipping with tools such as a radiation portal monitor.[50] similarly, unshielded radioactive materials may be detected at checkpoints by geiger counters, gamma-ray detectors, and even customs and border patrol (cbs) pager-sized radiation detectors.[48] hidden materials may also be detected by x-ray inspection and heat emitted may be picked up by infrared detectors. such devices, however, may be circumvented by simply transporting materials across unguarded stretches of coastline or other barren border areas.[48]
+one proposed method for detecting shielded dirty bombs is nanosecond neutron analysis (nna).[51] designed originally for the detection of explosives and hazardous chemicals, nna is also applicable to fissile materials. nna determines what chemicals are present in an investigated device by analyzing emitted γ-emission neutrons and α-particles created from a reaction in the neutron generator. the system records the temporal and spatial displacement of the neutrons and α-particles within separate 3d regions.[51] a prototype dirty-bomb detection device created with nna is demonstrated to be able to detect uranium from behind a 5 cm-thick lead wall.[51] other radioactive material detectors include radiation assessment and identification (raid) and sensor for measurement and analysis of radiation transients, both developed by sandia national laboratories.[52]
+the international atomic energy agency (iaea) recommends certain devices be used in tandem at country borders to prevent transfer of radioactive materials, and thus the building of dirty bombs.[53] they define the four main goals of radiation detection instruments as detection, verification, assessment and localization, and identification as a means to escalate a potential radiological situation. the iaea also defines the following types of instruments:[53]
+
+pocket-type instruments: these instruments provide a low-power, mobile option to detection that allows for security officers to passively scan an area for radioactive materials. these devices should be easily worn, should have an alarm threshold of three times normal radiation levels, and should have a long battery life - over 800 hours.
+handheld instruments: these instruments may be used to detect all types of radiation (including neutron) and may be used to search specific targets flexibly. these instruments should aim for ease of use and speed, ideally weighing less than 2 kg and being able to make measurements in less than a second.
+fixed, installed instruments: these instruments provide a continuous, automatic detection system that can monitor pedestrians and vehicles that pass through. to work effectively pedestrians and vehicles should be led close to the detectors, as performance is directly related to range.
+legislative and regulatory actions can also be used to prevent access to materials needed to create a dirty bomb. examples include the 2006 u.s. dirty bomb bill, the yucca flats proposal, and the nunn-lungar act.[52] similarly, close monitoring and restrictions of radioactive materials may provide security for materials in vulnerable private-sector applications, most notably in the medical sector where such materials are used for treatments.[47] suggestions for increased security include isolation of materials in remote locations and strict limitation of access.
+one way to mitigate a major effect of a radiological weapons may also be to educate the public on the nature of radioactive materials. as one of the major concerns of a dirty bomb is the public panic proper education may prove a viable counter-measure.[48] education on radiation is considered by some to be "the most neglected issue related to radiological terrorism".[47]
+
+personal safety[edit]
+see acute radiation syndrome
+the dirty bomb fact sheet from fema states that the main danger of a dirty bomb comes from the initial blast rather than the radioactive materials[54] to mitigate the risk of radiation exposure, however, fema suggests the following guidelines:
+
+covering the mouth/nose with cloth to reduce risk of breathing in radioactive materials.
+avoiding touching materials touched by the explosion.
+quickly relocating inside to shield from radiation.
+remove and pack up clothes. keep clothes until instructed by authorities how to dispose of them.
+keep radioactive dust outside.
+remove all dust possible by showering with soap and water.
+avoid taking potassium iodide, as it only prevents effects from radioactive iodine and may instead cause a dangerous reaction.
+other uses of the term[edit]
+the term has also been used historically to refer to certain types of nuclear weapons. due to the inefficiency of early nuclear weapons, only a small amount of the nuclear material would be consumed during the explosion. little boy had an efficiency of only 1.4%. fat man, which used a different design and a different fissile material, had an efficiency of 14%. thus, they tended to disperse large amounts of unused fissile material, and the fission products, which are on average much more dangerous, in the form of nuclear fallout. during the 1950s, there was considerable debate over whether "clean" bombs could be produced and these were often contrasted with "dirty" bombs. "clean" bombs were often a stated goal and scientists and administrators said that high-efficiency nuclear weapon design could create explosions which generated almost all of their energy in the form of nuclear fusion, which does not create harmful fission products.
+but the castle bravo accident of 1954, in which a thermonuclear weapon produced a large amount of fallout which was dispersed among human populations, suggested that this was not what was actually being used in modern thermonuclear weapons, which derive around half of their yield from a final fission stage of the fast fissioning of the uranium tamper of the secondary. while some proposed producing "clean" weapons, other theorists noted that one could make a nuclear weapon intentionally "dirty" by "salting" it with a material, which would generate large amounts of long-lasting fallout when irradiated by the weapon core. these are known as salted bombs; a specific subtype often noted is a cobalt bomb.
+
+in popular culture[edit]
+in the 1964 british movie goldfinger, both auric goldfinger and james bond refer to the nuclear device being smuggled into fort knox as "dirty."
+the crime drama television series numb3rs has an episode that revolves around a dirty bomb (season 1, episode 10).
+in a two-part 2011 episode of castle, former us soldiers plot to detonate a dirty bomb in new york city and frame a syrian immigrant for the crime.
+in the 2012 series finale of flashpoint, an officer is poisoned by caesium from a dirty bomb and is administered prussian blue to assist in recovery.
+in the 2013 indian movie vishwaroopam, the plot revolves around a dirty bomb developed by scraping caesium from oncological equipment to trigger a blast in new york city.
+in the 2014 movie, batman: assault on arkham, the joker has a dirty bomb which he plans on detonating in gotham.
+in the january 14, 2016 republican presidential debates, ben carson referenced dirty bombs twice when speaking on us foreign policy.
+in the june 1, 2015 game by splash damage, dirty bomb, the game is played in a dirty bomb fallout area in london.
+in the madam secretary episode "right of the boom", a dirty bomb is detonated at a women's education conference in washington, d.c.
+the american political drama web television series house of cards has an episode that revolves around a dirty bomb (season 5, episode 7).
+in the 2006 movie right at your door multiple dirty bombs are detonated in los angeles.
+in the 2018 video game detroit: become human one of the endings has a character setting off a dirty bomb in southern detroit.
+see also[edit]
+
+lists of nuclear disasters and radioactive incidents
+nuclear warfare
+radiation hormesis
+radiation poisoning
+nuclear weapon design
+depleted uranium
+gammator
+1968 thule air base b-52 crash
+german nuclear energy project
+
+references[edit]
+notes[edit]
+
+
+^ "archived copy". archived from the original on 2011-10-20. retrieved 2014-01-07.cs1 maint: archived copy as title (link).mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ a b "nrc: fact sheet on dirty bombs".
+
+^ "yahoo screen - watch videos online". yahoo screen. 23 march 2015. retrieved 30 march 2015.[permanent dead link]
+
+^ "bbc news - science/nature - chernobyl's 'nuclear nightmares'". retrieved 30 march 2015.
+
+^ a b petroff (2007)
+
+^ "404w dtic maintenanc". archived from the original on 25 march 2012. retrieved 30 march 2015.
+
+^ king (2004); nova, chronology of events
+
+^ edwards (2004); nova, chronology of events
+
+^ a b c frost (2005)
+
+^ reshetin (2005); dingle (2005)
+
+^ king (2004); zimmerman and loeb (2004); sohier and hardeman (2006)
+
+^ a b c d e f zimmerman and loeb (2004)
+
+^ mullen et al. (2002); reshetin (2005)
+
+^ zimmerman (2006)
+
+^ ring (2004)
+
+^ johnson (2003)
+
+^ "the lifeless silence of pripyat", time magazine, june 23, 1986 online article from time magazine
+
+^ vantine and crites (2002); zimmerman and loeb (2004); weiss (2005)
+
+^ andrew c. revkin (march 10, 2012). "nuclear risk and fear, from hiroshima to fukushima". new york times.
+
+^ ferguson et al. (2003); frost (2005)
+
+^ a b ferguson et al. (2003)
+
+^ ferguson et al. (2003); zimmerman and loeb (2004)
+
+^ burgess (2003); van tuyle and mullen (2003); sohier and hardeman (2006)
+
+^ "nova - dirty bomb - chronology of events - pbs". retrieved 30 march 2015.
+
+^ "chernobyl". retrieved 30 march 2015.
+
+^ king (2004); hoffman (2006)
+
+^ belyaninov (1994); frost (2005)
+
+^ a b sohier and hardeman (2006)
+
+^ ferguson et al. (2003); hosenball et al. (2002)
+
+^ burgess (2003); king (2004)
+
+^ king (2004); ferguson et al. (2003)
+
+^ burgess (2003)
+
+^ "judge in guantanamo case questions dirty bomb allegations". the statesman. 2008-10-31. retrieved 2008-11-01.[dead link]
+
+^ 
+peter finn, del quentin wilbur (2008-10-31). "motives of justice lawyers questioned in detainee's case". washington post. retrieved 2008-11-01.
+
+^ 
+william glaberson (2008-10-31). "questioning 'dirty bomb' plot, judge orders u.s. to yield papers on detainee". international herald tribune. retrieved 2008-11-01.
+
+^ 
+debra cassens weiss (2008-10-23). "uk court: us should release documents relating to detainee's torture claim". american bar association journal. retrieved 2008-11-01.
+
+^ 
+robert verkaik (2008-10-31). "cia officers could face trial in britain over torture allegations". london: the independent. retrieved 2008-11-01.
+
+^ "man admits uk-us terror bomb plot". bbc news. 2006-10-12. retrieved 2010-04-01.
+
+^ report: 'dirty bomb' parts found in slain man's home archived 2009-02-14 at the wayback machine, bangor daily news, 10 february 2009
+
+^ officials verify dirty bomb probe results archived 2009-02-13 at the wayback machine, bangor daily news, 11 february 2009
+
+^ "three arrested in ukraine for trying to sell radioactive material". xinhua. 2009-04-25. archived from the original on 2015-09-04. retrieved 2009-04-17.
+
+^ "ukraine arrests 3 in radioactive material sale". ap. 2009-04-14. retrieved 2009-04-17.
+
+^ "iraqi 'terrorist groups' have seized nuclear materials".
+
+^ "isis seizes uranium from lab; experts downplay 'dirty bomb' threat".
+
+^ "terror response study spurs concern". boston.com. retrieved 30 march 2015.
+
+^ "determined response: mgh and the boston marathon bombing". massachusetts general hospital giving. retrieved 30 march 2015.
+
+^ a b c d e samuel., apikyan,; j., diamond, david; greg., kaser, (2006-01-01). countering nuclear and radiological terrorism. springer. isbn 140204920x. oclc 209940539.
+
+^ a b c d medalia, jonathan. terrorist "dirty bombs": a brief primer. congressional research service. pp. 3–6.
+
+^ "israel tested 'dirty bombs' in the negev desert". retrieved 9 june 2015.
+
+^ richards, anne (2013). united states customs and border protection’s radiation portal monitors at seaports. department of homeland security office of inspector general.
+
+^ a b c samuel., apikyan,; j., diamond, david; ralph., way,; organization., north atlantic treaty (2008-01-01). prevention, detection and response to nuclear and radiological threats. springer. isbn 9781402066573. oclc 171556526.
+
+^ a b brown, chad (february 2006). "transcendental terrorism and dirty bombs: radiological weapons threat revisited". occasional paper: center for strategy and technology. no. 54: 24–27.
+
+^ a b atomique., agence internationale de l'énergie (2002-01-01). detection of radioactive materials at borders. iaea. isbn 9201161026. oclc 856404390.
+
+^ "fact sheet: dirty bomb" (pdf). www.fema.gov. june 2007. retrieved april 27, 2017.
+
+
+works cited[edit]
+belyaninov, k. (1994), "nuclear nonsense, black-market bombs, and fissile flim-flam", bulletin of the atomic scientists, 50 (2), pp. 44–50.
+burgess, m. (2003) "pascal’s new wager: the dirty bomb threat heightens", center for defense information.
+dingle, j. (2005), "dirty bombs: real threat?", security, 42 (4), p. 48.
+edwards, r. (2004), "only a matter of time?", new scientist, 182 (2450), pp. 8–9.
+adam curtis's the power of nightmares, part iii – video/transcript at information clearing house
+ferguson, c.d., kazi, t. and perera j. (2003) commercial radioactive sources: surveying the security risks, monterey institute of international studies, center for nonproliferation studies, occasional paper #11, isbn 1-885350-06-6, webpage with pdf file of paper.
+frost, r. m. (2005), nuclear terrorism after 9/11, routledge for the international institute for strategic studies, isbn 0-415-39992-0.
+hoffman, b. (2006), inside terrorism, columbia university press, n.y., isbn 0-231-12698-0.
+hosenball, m., hirsch, m. and moreau, r. (2002) "war on terror: nabbing a "dirty bomb" suspect", newsweek (int. ed.), id: x7835733: 28-33.
+johnson, jr., r.h. (2003), "facing the terror of nuclear terrorism", occupational health & safety, 72 (5), pp. 44–50.
+king, g. (2004), dirty bomb: weapon of mass disruption, chamberlain bros., penguin group, isbn 1-59609-000-6.
+liolios, t.e. (2008) the effects of using cesium-137 teletherapy sources as a radiological weapon (dirty bomb), hellenic arms control center, occasional paper may 2008, [1].
+mullen, e., van tuyle, g. and york, r. (2002) "potential radiological dispersal device (rdd) threats and related technology", transactions of the american nuclear society, 87: 309.
+petroff, d.m. (2003), "responding to 'dirty bombs'", occupational health and safety, 72 (9), pp. 82–87.
+reshetin, v.p. (2005), "estimation of radioactivity levels associated with a 90sr dirty bomb event", atmospheric environment, 39 (25), pp. 4471–4477, doi:10.1016/j.atmosenv.2005.03.047.
+ring, j.p. (2004), "radiation risks and dirty bombs", the radiation safety journal, health physics, 86 (suppl. 1), pp. s42–s47.
+sohier, a. and hardeman, f. (2006) "radiological dispersion devices: are we prepared?", journal of environmental radioactivity, 85: 171-181.
+van tuylen, g.j. and mullen, e. (2003) "large radiological source applications: rdd implications and proposed alternative technologies", global 2003: atoms for prosperity: updating eisenhouwer's global vision for nuclear energy, la-ur-03-6281: 622-631, isbn 0-89448-677-2.
+vantine, h.c. and crites, t.r. (2002) "relevance of nuclear weapons cleanup experience to dirty bomb response", transactions of the american nuclear society, 87: 322-323.
+weiss, p. (2005), "ghost town busters", science news, science news, vol. 168, no. 18, 168 (18), pp. 282–284, doi:10.2307/4016859, jstor 4016859.
+zimmerman, p.d. and loeb, c. (2004) "dirty bombs: the threat revisited", defense horizons, 38: 1-11.
+zimmerman, p.d. (2006), "the smoky bomb threat", new york times, 156 (53798), p. 33.
+external links[edit]
+u.s. nuclear regulatory commission, factsheet on dirty bombs
+al qaeda's nuclear options - crusade media news - https://web.archive.org/web/20070820202226/http://www.crusade-media.com/news1.html
+council on foreign relations, terrorism q&a: dirty bombs
+u.s. dep't of labor occupational safety & health administration, radiological dispersal devices / dirty bombs
+federation of american scientists, dirty bomb threat analysis
+health physics society, factsheet
+health physics society, january 2004 study, dirty bombs could cause devastating economic damage
+cnn, explosion, not radiation, "dirty bomb's" worst fallout
+pbs, nova, dirty bomb [2] this web site was produced for pbs online by wgbh. web site © 1996–2003 wgbh educational foundation
+lost and stolen nuclear materials in the us three mile island alert describes the problem
+the making of the terror myth [3]
+annotated bibliography for dirty bombs from the alsos digital library for nuclear issues
+"dirty bombs": background in brief congressional research service
+"dirty bombs": technical background, attack prevention and response, issues for congress congressional research service
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=dirty_bomb&oldid=872962906"					
+categories: bombsnuclear weaponsnuclear terrorismradiological weaponshidden categories: cs1 maint: archived copy as titleall articles with dead external linksarticles with dead external links from december 2016articles with permanently dead external linksarticles with dead external links from may 2016webarchive template wayback linkscs1: long volume value 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+languages
+
+
+العربيةčeštinadanskespañolesperantoeuskaraفارسیfrançais한국어עבריתlatviešunederlands日本語polskiportuguêsromânăsimple englishslovenčinaslovenščinasrpskohrvatski / српскохрватскиsuomisvenskaукраїнська中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 10 december 2018, at 09:24 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.696","walltime":"0.892","ppvisitednodes":{"value":3219,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":106637,"limit":2097152},"templateargumentsize":{"value":2469,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":119940,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  756.879      1 -total"," 44.54%  337.126      1 template:reflist"," 18.58%  140.612     16 template:cite_web"," 11.08%   83.899     12 template:citation","  8.48%   64.158      1 template:terrorism","  8.13%   61.532      5 template:cite_book","  7.89%   59.688      1 template:sidebar_with_collapsible_lists","  7.14%   54.006      1 template:about","  5.80%   43.911      1 template:quotation","  5.75%   43.506      2 template:isbn"]},"scribunto":{"limitreport-timeusage":{"value":"0.357","limit":"10.000"},"limitreport-memusage":{"value":9168908,"limit":52428800}},"cachereport":{"origin":"mw1331","timestamp":"20190210115516","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":76,"wghostname":"mw1325"});});
+
+

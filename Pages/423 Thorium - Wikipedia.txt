@@ -1,0 +1,1739 @@
+
+
+
+
+thorium - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"thorium","wgtitle":"thorium","wgcurrevisionid":883046854,"wgrevisionid":883046854,"wgarticleid":30044,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["cs1 swedish-language sources (sv)","cs1 norwegian-language sources (no)","cs1 german-language sources (de)","cs1 french-language sources (fr)","cs1: long volume value","cs1 maint: uses authors parameter","featured articles","use british english from october 2016","use dmy dates from april 2016","articles with short description","wikiproject elements pages using engvar","wikipedia articles with bnf identifiers","wikipedia articles with gnd identifiers","wikipedia articles with lccn identifiers","wikipedia articles with ndl identifiers","thorium","actinides","carcinogens","chemical elements","nuclear fuels","nuclear materials"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"thorium","wgrelevantarticleid":30044,"wgrequestid":"xgmplgpaadkaabboiy0aaabe","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q1115","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+thorium 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+
+
+chemical element with atomic number 90thorium,  90ththoriumpronunciation/ˈθɔːriəm/ ​(thohr-ee-əm)appearancesilvery, often with black tarnishstandard atomic weight.mw-parser-output .nobold{font-weight:normal} ar, std(th)7002232037700000000♠232.0377(4)[1]thorium in the periodic table
+
+
+
+
+
+
+
+
+hydrogen
+
+
+
+helium
+
+
+lithium
+
+beryllium
+
+
+
+boron
+
+carbon
+
+nitrogen
+
+oxygen
+
+fluorine
+
+neon
+
+
+sodium
+
+magnesium
+
+
+
+aluminium
+
+silicon
+
+phosphorus
+
+sulfur
+
+chlorine
+
+argon
+
+
+potassium
+
+calcium
+
+scandium
+
+
+
+titanium
+
+vanadium
+
+chromium
+
+manganese
+
+iron
+
+cobalt
+
+nickel
+
+copper
+
+zinc
+
+gallium
+
+germanium
+
+arsenic
+
+selenium
+
+bromine
+
+krypton
+
+
+rubidium
+
+strontium
+
+yttrium
+
+
+
+
+
+zirconium
+
+niobium
+
+molybdenum
+
+technetium
+
+ruthenium
+
+rhodium
+
+palladium
+
+silver
+
+cadmium
+
+indium
+
+tin
+
+antimony
+
+tellurium
+
+iodine
+
+xenon
+
+
+caesium
+
+barium
+
+lanthanum
+
+cerium
+
+praseodymium
+
+neodymium
+
+promethium
+
+samarium
+
+europium
+
+gadolinium
+
+terbium
+
+dysprosium
+
+holmium
+
+erbium
+
+thulium
+
+ytterbium
+
+lutetium
+
+hafnium
+
+tantalum
+
+tungsten
+
+rhenium
+
+osmium
+
+iridium
+
+platinum
+
+gold
+
+mercury (element)
+
+thallium
+
+lead
+
+bismuth
+
+polonium
+
+astatine
+
+radon
+
+
+francium
+
+radium
+
+actinium
+
+thorium
+
+protactinium
+
+uranium
+
+neptunium
+
+plutonium
+
+americium
+
+curium
+
+berkelium
+
+californium
+
+einsteinium
+
+fermium
+
+mendelevium
+
+nobelium
+
+lawrencium
+
+rutherfordium
+
+dubnium
+
+seaborgium
+
+bohrium
+
+hassium
+
+meitnerium
+
+darmstadtium
+
+roentgenium
+
+copernicium
+
+nihonium
+
+flerovium
+
+moscovium
+
+livermorium
+
+tennessine
+
+oganesson
+
+
+
+ce↑th↓(uqq)
+
+
+actinium ← thorium → protactinium
+
+atomic number (z)90groupgroup n/aperiodperiod 7 blockf-block element category  actinideelectron configuration[rn] 6d2 7s2electrons per shell2, 8, 18, 32, 18, 10, 2physical propertiesphase at stpsolidmelting point2023 k ​(1750 °c, ​3182 °f) boiling point5061 k ​(4788 °c, ​8650 °f) density (near r.t.)11.7 g/cm3heat of fusion13.81 kj/mol heat of vaporisation514 kj/mol molar heat capacity26.230 j/(mol·k) vapour pressure
+
+
+p (pa)
+
+1
+
+10
+
+100
+
+1 k
+
+10 k
+
+100 k
+
+
+at t (k)
+
+2633
+
+2907
+
+3248
+
+3683
+
+4259
+
+5055
+
+atomic propertiesoxidation states+1, +2, +3, +4 (a weakly basic oxide)electronegativitypauling scale: 1.3 ionisation energies1st: 587 kj/mol 2nd: 1110 kj/mol 3rd: 1930 kj/mol  atomic radiusempirical: 179.8 pm covalent radius206±6 pm spectral lines of thoriumother propertiesnatural occurrenceprimordialcrystal structure ​face-centred cubic (fcc)speed of sound thin rod2490 m/s (at 20 °c) thermal expansion11.0 µm/(m·k) (at 25 °c) thermal conductivity54.0 w/(m·k) electrical resistivity157 nω·m (at 0 °c) magnetic orderingparamagnetic[2] magnetic susceptibility132.0·10−6 cm3/mol (293 k)[3]young's modulus79 gpa shear modulus31 gpa bulk modulus54 gpa poisson ratio0.27 mohs hardness3.0 vickers hardness295–685 mpa brinell hardness390–1500 mpa cas number7440-29-1 historynamingafter thor, the norse god of thunderdiscoveryjöns jakob berzelius (1829)main isotopes of thorium
+
+
+iso­tope
+
+abun­dance
+
+half-life (t1/2)
+
+decay mode
+
+pro­duct
+
+
+227th
+
+trace
+
+18.68 d
+
+α
+
+223ra
+
+
+228th
+
+trace
+
+1.9116 y
+
+α
+
+224ra
+
+
+229th
+
+trace
+
+7917 y
+
+α
+
+225ra
+
+
+230th
+
+0.02%
+
+75400 y
+
+α
+
+226ra
+
+
+231th
+
+trace
+
+25.5 h
+
+β−
+
+231pa
+
+
+232th
+
+99.98%
+
+1.405×1010 y
+
+α
+
+228ra
+
+
+234th
+
+trace
+
+24.1 d
+
+β−
+
+234pa
+viewtalkedit | references
+thorium is a weakly radioactive metallic chemical element with symbol th and atomic number 90. thorium is silvery and tarnishes black when it is exposed to air, forming thorium dioxide; it is moderately hard, malleable, and has a high melting point. thorium is an electropositive actinide whose chemistry is dominated by the +4 oxidation state; it is quite reactive and can ignite in air when finely divided.
+all known thorium isotopes are unstable. the most stable isotope, 232th, has a half-life of 14.05 billion years, or about the age of the universe; it decays very slowly via alpha decay, starting a decay chain named the thorium series that ends at stable 208pb. in the universe, thorium and uranium are the only two radioactive elements that still occur naturally in large quantities as primordial elements.[a] it is estimated to be over three times as abundant as uranium in the earth's crust, and is chiefly refined from monazite sands as a by-product of extracting rare-earth metals.
+thorium was discovered in 1829 by the norwegian amateur mineralogist morten thrane esmark and identified by the swedish chemist jöns jacob berzelius, who named it after thor, the norse god of thunder. its first applications were developed in the late 19th century. thorium's radioactivity was widely acknowledged during the first decades of the 20th century. in the second half of the century, thorium was replaced in many uses due to concerns about its radioactivity.
+thorium is still being used as an alloying element in tig welding electrodes but is slowly being replaced in the field with different compositions. it was also a material in high-end optics and scientific instrumentation, and as the light source in gas mantles, but these uses have become marginal. it has been suggested as a replacement for uranium as nuclear fuel in nuclear reactors, and several thorium reactors have been built.
+
+contents
+
+1 bulk properties
+2 isotopes
+
+2.1 radiometric dating
+
+
+3 chemistry
+
+3.1 reactivity
+3.2 inorganic compounds
+3.3 coordination compounds
+3.4 organothorium compounds
+
+
+4 occurrence
+
+4.1 formation
+4.2 on earth
+
+
+5 history
+
+5.1 erroneous report
+5.2 discovery
+5.3 initial chemical classification
+5.4 first uses
+5.5 radioactivity
+5.6 further classification
+5.7 phasing out
+5.8 nuclear power
+5.9 nuclear weapons
+
+
+6 production
+
+6.1 concentration
+
+6.1.1 acid digestion
+6.1.2 alkaline digestion
+
+
+6.2 purification
+
+
+7 modern applications
+8 potential use for nuclear energy
+
+8.1 advantages
+8.2 disadvantages
+
+
+9 hazards
+
+9.1 radiological
+9.2 biological
+9.3 chemical
+9.4 exposure routes
+
+
+10 notes
+11 references
+12 bibliography
+13 further reading
+
+
+bulk properties[edit]
+thorium is a moderately soft, paramagnetic, bright silvery radioactive actinide metal. in the periodic table, it lies to the right of actinium, to the left of protactinium, and below cerium. pure thorium is very ductile and, as normal for metals, can be cold-rolled, swaged, and drawn.[4] at room temperature, thorium metal has a face-centred cubic crystal structure; it has two other forms, one at high temperature (over 1360 °c; body-centred cubic) and one at high pressure (around 100 gpa; body-centred tetragonal).[4]
+thorium metal has a bulk modulus (a measure of resistance to compression of a material) of 54 gpa, about the same as tin's (58.2 gpa). aluminium's is 75.2 gpa; copper's 137.8 gpa; and mild steel's is 160–169 gpa.[5] thorium is about as hard as soft steel, so when heated it can be rolled into sheets and pulled into wire.[6]
+thorium is nearly half as dense as uranium and plutonium and is harder than either of them.[6] it becomes superconductive below 1.4 k.[4] thorium's melting point of 1750 °c is above both those of actinium (1227 °c) and protactinium (1568 °c). at the start of period 7, from francium to thorium, the melting points of the elements increase (as in other periods), because the number of delocalised electrons each atom contributes increases from one in francium to four in thorium, leading to greater attraction between these electrons and the metal ions as their charge increases from one to four. after thorium, there is a new downward trend in melting points from thorium to plutonium, where the number of f electrons increases from about 0.4 to about 6: this trend is due to the increasing hybridisation of the 5f and 6d orbitals and the formation of directional bonds resulting in more complex crystal structures and weakened metallic bonding.[6][7] (the f-electron count for thorium is a non-integer due to a 5f–6d overlap.)[7] among the actinides up to californium, which can be studied in at least milligram quantities, thorium has the highest melting and boiling points and second-lowest density; only actinium is lighter.[b] thorium's boiling point of 4788 °c is the fifth-highest among all the elements with known boiling points.[c]
+the properties of thorium vary widely depending on the degree of impurities in the sample. the major impurity is usually thorium dioxide (tho2); even the purest thorium specimens usually contain about a tenth of a percent of the dioxide.[4] experimental measurements of its density give values between 11.5 and 11.66 g/cm3: these are slightly lower than the theoretically expected value of 11.7 g/cm3 calculated from thorium's lattice parameters, perhaps due to microscopic voids forming in the metal when it is cast.[4] these values lie between those of its neighbours actinium (10.1 g/cm3) and protactinium (15.4 g/cm3), part of a trend across the early actinides.[4]
+thorium can form alloys with many other metals. addition of small proportions of thorium improves the mechanical strength of magnesium, and thorium-aluminium alloys have been considered as a way to store thorium in proposed future thorium nuclear reactors. thorium forms eutectic mixtures with chromium and uranium, and it is completely miscible in both solid and liquid states with its lighter congener cerium.[4]
+
+isotopes[edit]
+main article: isotopes of thorium
+all but two elements up to bismuth (element 83) have an isotope that is practically stable for all purposes ("classically stable"), with the exceptions being technetium and promethium (elements 43 and 61). all elements from polonium (element 84) onward are measurably radioactive. 232th is one of the three nuclides beyond bismuth (the other two being 235u and 238u) that have half-lives measured in billions of years; its half-life is 14.05 billion years, about three times the age of the earth, and slightly longer than the age of the universe. four-fifths of the thorium present at earth's formation has survived to the present.[10][11][12] 232th is the only isotope of thorium occurring in quantity in nature.[10] its stability is attributed to its closed nuclear shell with 142 neutrons.[13][14] thorium has a characteristic terrestrial isotopic composition, with atomic weight 232.0377(4). it is one of only three radioactive elements (along with protactinium and uranium) that occur in large enough quantities on earth for a standard atomic weight to be determined.[1]
+thorium nuclei are susceptible to alpha decay because the strong nuclear force cannot overcome the electromagnetic repulsion between their protons.[15] the alpha decay of 232th initiates the 4n decay chain which includes isotopes with a mass number divisible by 4 (hence the name; it is also called the thorium series after its progenitor). this chain of consecutive alpha and beta decays begins with the decay of 232th to 228ra and terminates at 208pb.[10] any sample of thorium or its compounds contains traces of these daughters, which are isotopes of thallium, lead, bismuth, polonium, radon, radium, and actinium.[10] natural thorium samples can be chemically purified to extract useful daughter nuclides, such as 212pb, which is used in nuclear medicine for cancer therapy.[16][17] 227th (alpha emitter with a 18.68 days half-life) can also be used in cancer treatments such as targeted alpha therapies.[18][19][20] 232th also very occasionally undergoes spontaneous fission rather than alpha decay, and has left evidence of doing so in its minerals (as trapped xenon gas formed as a fission product), but the partial half-life of this process is very large at over 1021 years and alpha decay predominates.[21][22]
+
+ the 4n decay chain of 232th, commonly called the "thorium series"
+thirty radioisotopes have been characterised, which range in mass number from 209[23] to 238.[21] after 232th, the most stable of them (with respective half-lives) are 230th (75,380 years), 229th (7,340 years), 228th (1.92 years), 234th (24.10 days), and 227th (18.68 days). all of these isotopes occur in nature as trace radioisotopes due to their presence in the decay chains of 232th, 235u, 238u, and 237np: the last of these is long extinct in nature due to its short half-life (2.14 million years), but is continually produced in minute traces from neutron capture in uranium ores. all of the remaining thorium isotopes have half-lives that are less than thirty days and the majority of these have half-lives that are less than ten minutes.[10]
+in deep seawaters the isotope 230th makes up to 0.04% of natural thorium.[1] this is because its parent 238u is soluble in water, but 230th is insoluble and precipitates into the sediment. uranium ores with low thorium concentrations can be purified to produce gram-sized thorium samples of which over a quarter is the 230th isotope, since 230th is one of the daughters of 238u.[21] the international union of pure and applied chemistry (iupac) reclassified thorium as a binuclidic element in 2013; it had formerly been considered a mononuclidic element.[1]
+thorium has three known nuclear isomers (or metastable states), 216m1th, 216m2th, and 229mth. 229mth has the lowest known excitation energy of any isomer,[24] measured to be 6982121765413012000♠7.6±0.5 ev. this is so low that when it undergoes isomeric transition, the emitted gamma radiation is in the ultraviolet range.[25][26][d]
+different isotopes of thorium are chemically identical, but have slightly differing physical properties: for example, the densities of pure 228th, 229th, 230th, and 232th are respectively expected to be 11.5, 11.6, 11.6, and 11.7 g/cm3.[28] the isotope 229th is expected to be fissionable with a bare critical mass of 2839 kg, although with steel reflectors this value could drop to 994 kg.[28][e] 232th is not fissionable, but it is fertile as it can be converted to fissile 233u by neutron capture and subsequent beta decay.[28][29]
+
+radiometric dating[edit]
+two radiometric dating methods involve thorium isotopes: uranium–thorium dating, based on the decay of 234u to 230th, and ionium–thorium dating, which measures the ratio of 232th to 230th.[f] these rely on the fact that 232th is a primordial radioisotope, but 230th only occurs as an intermediate decay product in the decay chain of 238u.[30] uranium–thorium dating is a relatively short-range process because of the short half-lives of 234u and 230th relative to the age of the earth: it is also accompanied by a sister process involving the alpha decay of 235u into 231th, which very quickly becomes the longer-lived 231pa, and this process is often used to check the results of uranium–thorium dating. uranium–thorium dating is commonly used to determine the age of calcium carbonate materials such as speleothem or coral, because uranium is more soluble in water than thorium and protactinium, which are selectively precipitated into ocean-floor sediments, where their ratios are measured. the scheme has a range of several hundred thousand years.[30][31] ionium–thorium dating is a related process, which exploits the insolubility of thorium (both 232th and 230th) and thus its presence in ocean sediments to date these sediments by measuring the ratio of 232th to 230th.[32][33] both of these dating methods assume that the proportion of 230th to 232th is a constant during the period when the sediment layer was formed, that the sediment did not already contain thorium before contributions from the decay of uranium, and that the thorium cannot migrate within the sediment layer.[32][33]
+
+chemistry[edit]
+main article: compounds of thorium
+a thorium atom has 90 electrons, of which four are valence electrons. three atomic orbitals are theoretically available for the valence electrons to occupy: 5f, 6d, and 7s.[34] despite thorium's position in the f-block of the periodic table, it has an anomalous [rn]6d27s2 electron configuration in the ground state, as the 5f and 6d subshells in the early actinides are very close in energy, even more so than the 4f and 5d subshells of the lanthanides: thorium's 6d subshells are lower in energy than its 5f subshells, because its 5f subshells are not well-shielded by the filled 6s and 6p subshells and are destabilised. this is due to relativistic effects, which become stronger near the bottom of the periodic table, specifically the relativistic spin–orbit interaction. the closeness in energy levels of the 5f, 6d, and 7s energy levels of thorium results in thorium almost always losing all four valence electrons and occurring in its highest possible oxidation state of +4. this is different from its lanthanide congener cerium, in which +4 is also the highest possible state, but +3 plays an important role and is more stable. thorium is much more similar to the transition metals zirconium and hafnium than to cerium in its ionisation energies and redox potentials, and hence also in its chemistry: this transition-metal-like behaviour is the norm in the first half of the actinide series.[35][36]
+
+ thorium dioxide has the fluorite crystal structure.  th4+: __  /  o2−: __
+despite the anomalous electron configuration for gaseous thorium atoms, metallic thorium shows significant 5f involvement. this was first realised in 1995, when it was pointed out that a hypothetical metallic state of thorium that had the [rn]6d27s2 configuration with the 5f orbitals above the fermi level should be hexagonal close packed like the group 4 elements titanium, zirconium, and hafnium, and not face-centred cubic as it actually is. the actual crystal structure can only be explained when the 5f states are invoked, proving that thorium, and not protactinium, acts as the first actinide metallurgically.[7] the 5f character of thorium is also clear in the rare and highly unstable +3 oxidation state, in which thorium exhibits the electron configuration [rn]5f1.[37]
+tetravalent thorium compounds are usually colourless or yellow, like those of silver or lead, as the th4+ ion has no 5f or 6d electrons.[6] thorium chemistry is therefore largely that of an electropositive metal forming a single diamagnetic ion with a stable noble-gas configuration, indicating a similarity between thorium and the main group elements of the s-block.[38][g] thorium and uranium are the most investigated of the radioactive elements because their radioactivity is low enough not to require special handling in the laboratory.[39]
+
+reactivity[edit]
+thorium is a highly reactive and electropositive metal. with a standard reduction potential of −1.90 v for the th4+/th couple, it is somewhat more electropositive than zirconium or aluminium.[40] finely divided thorium metal can exhibit pyrophoricity, spontaneously igniting in air.[4] when heated in air, thorium turnings ignite and burn with a brilliant white light to produce the dioxide. in bulk, the reaction of pure thorium with air is slow, although corrosion may occur after several months; most thorium samples are contaminated with varying degrees of the dioxide, which greatly accelerates corrosion.[4] such samples slowly tarnish, becoming grey and finally black at the surface.[4]
+at standard temperature and pressure, thorium is slowly attacked by water, but does not readily dissolve in most common acids, with the exception of hydrochloric acid, where it dissolves leaving a black insoluble residue of tho(oh,cl)h.[4][41] it dissolves in concentrated nitric acid containing a small quantity of catalytic fluoride or fluorosilicate ions;[4][42] if these are not present, passivation by the nitrate can occur, as with uranium and plutonium.[4][43][44]
+
+ crystal structure of thorium tetrafluorideth4+: __  /  f−: __
+inorganic compounds[edit]
+most binary compounds of thorium with nonmetals may be prepared by heating the elements together.[45] in air, thorium burns to form tho2, which has the fluorite structure.[46] thorium dioxide is a refractory material, with the highest melting point (3390 °c) of any known oxide.[47] it is somewhat hygroscopic and reacts readily with water and many gases;[48] it dissolves easily in concentrated nitric acid in the presence of fluoride.[49] when heated, it emits intense blue light through incandescence; the light becomes white when tho2 is mixed with its lighter homologue cerium dioxide (ceo2, ceria): this is the basis for its previously common application in gas mantles.[48] several binary thorium chalcogenides and oxychalcogenides are also known with sulfur, selenium, and tellurium.[50]
+all four thorium tetrahalides are known, as are some low-valent bromides and iodides:[51] the tetrahalides are all 8-coordinated hygroscopic compounds that dissolve easily in polar solvents such as water.[52] many related polyhalide ions are also known.[51] thorium tetrafluoride has a monoclinic crystal structure like those of zirconium tetrafluoride and hafnium tetrafluoride, where the th4+ ions are coordinated with f− ions in somewhat distorted square antiprisms.[51] the other tetrahalides instead have dodecahedral geometry.[52] lower iodides thi3 (black) and thi2 (gold-coloured) can also be prepared by reducing the tetraiodide with thorium metal: they do not contain th(iii) and th(ii), but instead contain th4+ and could be more clearly formulated as electride compounds.[51] many polynary halides with the alkali metals, barium, thallium, and ammonium are known for thorium fluorides, chlorides, and bromides.[51] for example, when treated with potassium fluoride and hydrofluoric acid, th4+ forms the complex anion thf2−6, which precipitates as an insoluble salt, k2thf6.[42]
+thorium borides, carbides, silicides, and nitrides are refractory materials, like those of uranium and plutonium, and have thus received attention as possible nuclear fuels.[45] all four heavier pnictogens (phosphorus, arsenic, antimony, and bismuth) also form binary thorium compounds. thorium germanides are also known.[53] thorium reacts with hydrogen to form the thorium hydrides thh2 and th4h15, the latter of which is superconducting below 7.5–8 k; at standard temperature and pressure, it conducts electricity like a metal.[54] the hydrides are thermally unstable and readily decompose upon exposure to air or moisture.[55]
+
+ sandwich molecule structure of thorocene
+coordination compounds[edit]
+in an acidic aqueous solution, thorium occurs as the tetrapositive aqua ion [th(h2o)9]4+, which has tricapped trigonal prismatic molecular geometry:[56][57] at ph < 3, the solutions of thorium salts are dominated by this cation.[56] the th4+ ion is the largest of the tetrapositive actinide ions, and depending on the coordination number can have a radius between 0.95 and 1.14 å.[56] it is quite acidic due to its high charge, slightly stronger than sulfurous acid: thus it tends to undergo hydrolysis and polymerisation (though to a lesser extent than fe3+), predominantly to [th2(oh)2]6+ in solutions with ph 3 or below, but in more alkaline solution polymerisation continues until the gelatinous hydroxide th(oh)4 forms and precipitates out (though equilibrium may take weeks to be reached, because the polymerisation usually slows down before the precipitation).[58] as a hard lewis acid, th4+ favours hard ligands with oxygen atoms as donors: complexes with sulfur atoms as donors are less stable and are more prone to hydrolysis.[35]
+high coordination numbers are the rule for thorium due to its large size. thorium nitrate pentahydrate was the first known example of coordination number 11, the oxalate tetrahydrate has coordination number 10, and the borohydride (first prepared in the manhattan project) has coordination number 14.[58] these thorium salts are known for their high solubility in water and polar organic solvents.[6]
+many other inorganic thorium compounds with polyatomic anions are known, such as the perchlorates, sulfates, sulfites, nitrates, carbonates, phosphates, vanadates, molybdates, and chromates, and their hydrated forms.[59] they are important in thorium purification and the disposal of nuclear waste, but most of them have not yet been fully characterised, especially regarding their structural properties.[59] for example, thorium nitrate is produced by reacting thorium hydroxide with nitric acid: it is soluble in water and alcohols and is an important intermediate in the purification of thorium and its compounds.[59] thorium complexes with organic ligands, such as oxalate, citrate, and edta, are much more stable. in natural thorium-containing waters, organic thorium complexes usually occur in concentrations orders of magnitude higher than the inorganic complexes, even when the concentrations of inorganic ligands are much greater than those of organic ligands.[56]
+
+ piano-stool molecule structure of (η8-c8h8)thcl2(thf)2
+organothorium compounds[edit]
+most of the work on organothorium compounds has focused on the cyclopentadienyl complexes and cyclooctatetraenyls. like many of the early and middle actinides (up to americium, and also expected for curium), thorium forms a cyclooctatetraenide complex: the yellow th(c8h8)2, thorocene. it is isotypic with the better-known analogous uranium compound uranocene.[60] it can be prepared by reacting k2c8h8 with thorium tetrachloride in tetrahydrofuran (thf) at the temperature of dry ice, or by reacting thorium tetrafluoride with mgc8h8.[60] it is unstable in air and decomposes in water or at 190 °c.[60] half sandwich compounds are also known, such as (η8-c8h8)thcl2(thf)2, which has a piano-stool structure and is made by reacting thorocene with thorium tetrachloride in tetrahydrofuran.[35]
+the simplest of the cyclopentadienyls are th(c5h5)3 and th(c5h5)4: many derivatives are known. the former (which has two forms, one purple and one green) is a rare example of thorium in the formal +3 oxidation state;[60][61] a formal +2 oxidation state occurs in a derivative.[62] the chloride derivative [th(c5h5)3cl] is prepared by heating thorium tetrachloride with limiting k(c5h5) used (other univalent metal cyclopentadienyls can also be used). the alkyl and aryl derivatives are prepared from the chloride derivative and have been used to study the nature of the th–c sigma bond.[61]
+other organothorium compounds are not well-studied. tetrabenzylthorium, th(ch2c6h5), and tetraallylthorium, th(c3h5)4, are known, but their structures have not been determined. they decompose slowly at room temperature. thorium forms the monocapped trigonal prismatic anion [th(ch3)7]3−, heptamethylthorate, which forms the salt [li(tmeda)]3[thme7] (tmeda= me2nch2ch2nme2). although one methyl group is only attached to the thorium atom (th–c distance 257.1 pm) and the other six connect the lithium and thorium atoms (th–c distances 265.5–276.5 pm), they behave equivalently in solution. tetramethylthorium, th(ch3)4, is not known, but its adducts are stabilised by phosphine ligands.[35]
+
+occurrence[edit]
+main article: occurrence of thorium
+formation[edit]
+232th is a primordial nuclide, having existed in its current form for over ten billion years; it was forged in the cores of dying stars through the r-process and scattered across the galaxy by supernovae and neutron star mergers.[63][64] the letter "r" stands for "rapid neutron capture", and occurs in core-collapse supernovae, where heavy seed nuclei such as 56fe rapidly capture neutrons, running up against the neutron drip line, as neutrons are captured much faster than the resulting nuclides can beta decay back toward stability. neutron capture is the only way for stars to synthesise elements beyond iron because of the increased coulomb barriers that make interactions between charged particles difficult at high atomic numbers and the fact that fusion beyond 56fe is endothermic.[65] because of the abrupt loss of stability past 209bi, the r-process is the only process of stellar nucleosynthesis that can create thorium and uranium; all other processes are too slow and the intermediate nuclei alpha decay before they capture enough neutrons to reach these elements.[63][66][67]
+
+ estimated abundances of the 83 primordial elements in the solar system, plotted on a logarithmic scale. thorium, at atomic number 90, is one of the rarest elements.
+in the universe, thorium is among the rarest of the primordial elements, because it is one of the two elements that can be produced only in the r-process (the other being uranium), and also because it has slowly been decaying away from the moment it formed. the only primordial elements rarer than thorium are thulium, lutetium, tantalum, and rhenium, the odd-numbered elements just before the third peak of r-process abundances around the heavy platinum group metals, as well as uranium.[63][65][h] neutron capture by nuclides beyond a= 209 often results in nuclear fission instead of neutron absorption, reducing the fraction of nuclei that cross the gap of instability past bismuth to become actinides such as thorium.[65] in the distant past the abundances of thorium and uranium were enriched by the decay of plutonium and curium isotopes, and thorium was enriched relative to uranium by the decay of 236u to 232th and the natural depletion of 235u, but these sources have long since decayed and no longer contribute.[68]
+in the earth's crust, thorium is much more abundant: with an abundance of 8.1 parts per million (ppm), it is one of the most abundant of the heavy elements, almost as abundant as lead (13 ppm) and more abundant than tin (2.1 ppm).[69] this is because thorium is likely to form oxide minerals that do not sink into the core; it is classified as a lithophile. common thorium compounds are also poorly soluble in water. thus, even though the earth contains the same abundances of the elements as the solar system as a whole, there is more accessible thorium than heavy platinum group metals in the crust.[70]
+
+ the radiogenic heat from the decay of 232th (violet) is a major contributor to the earth's internal heat budget. of the four major nuclides providing this heat, 232th has grown to provide the most heat as the other ones decayed faster than thorium.[71][72][73][74]
+on earth[edit]
+natural thorium is usually almost pure 232th, which is the longest-lived and most stable isotope of thorium, having a half-life comparable to the age of the universe.[21] its radioactive decay is the largest single contributor to the earth's internal heat; the other major contributors are the shorter-lived primordial radionuclides, which are 238u, 40k, and 235u in descending order of their contribution. (at the time of the earth's formation, 40k and 235u contributed much more by virtue of their short half-lives, but they have decayed more quickly, leaving the contribution from 232th and 238u predominant.)[75] its decay accounts for a gradual decrease of thorium content of the earth: the planet currently has around 85% of the amount present at the formation of the earth.[47] the other natural thorium isotopes are much shorter-lived; of them, only 230th is usually detectable, occurring in secular equilibrium with its parent 238u, and making up at most 0.04% of natural thorium.[21][i]
+thorium only occurs as a minor constituent of most minerals, and was for this reason previously thought to be rare.[77] soil normally contains about 6 ppm of thorium.[78]
+in nature, thorium occurs in the +4 oxidation state, together with uranium(iv), zirconium(iv), hafnium(iv), and cerium(iv), and also with scandium, yttrium, and the trivalent lanthanides which have similar ionic radii.[77] because of thorium's radioactivity, minerals containing it are often metamict (amorphous), their crystal structure having been damaged by the alpha radiation produced by thorium.[79] an extreme example is ekanite, (ca,fe,pb)2(th,u)si8o20, which almost never occurs in nonmetamict form due to the thorium it contains.[80]
+monazite (chiefly phosphates of various rare-earth elements) is the most important commercial source of thorium because it occurs in large deposits worldwide, principally in india, south africa, brazil, australia, and malaysia. it contains around 2.5% thorium on average, although some deposits may contain up to 20%.[77][81] monazite is a chemically unreactive mineral that is found as yellow or brown sand; its low reactivity makes it difficult to extract thorium from it.[77] allanite (chiefly silicates-hydroxides of various metals) can have 0.1–2% thorium and zircon (chiefly zirconium silicate, zrsio4) up to 0.4% thorium.[77]
+thorium dioxide occurs as the rare mineral thorianite. due to its being isotypic with uranium dioxide, these two common actinide dioxides can form solid-state solutions and the name of the mineral changes according to the tho2 content.[77][j] thorite (chiefly thorium silicate, thsio4), also has a high thorium content and is the mineral in which thorium was first discovered.[77] in thorium silicate minerals, the th4+ and sio4−4 ions are often replaced with m3+ (where m= sc, y, or ln) and phosphate (po3−4) ions respectively.[77] because of the great insolubility of thorium dioxide, thorium does not usually spread quickly through the environment when released. the th4+ ion is soluble, especially in acidic soils, and in such conditions the thorium concentration can reach 40 ppm.[47]
+
+history[edit]
+ thor's fight with the giants (1872) by mårten eskil winge; thor, the norse god of thunder, raising his hammer mjölnir in a battle against the giants.[82]
+erroneous report[edit]
+in 1815, the swedish chemist jöns jacob berzelius analysed an unusual sample of gadolinite from a copper mine in falun, central sweden. he noted impregnated traces of a white mineral, which he cautiously assumed to be an earth (oxide in modern chemical nomenclature) of an unknown element. berzelius had already discovered two elements, cerium and selenium, but he had made a public mistake once, announcing a new element, gahnium, that turned out to be zinc oxide.[83] berzelius privately named the putative element "thorium" in 1817[84] and its supposed oxide "thorina" after thor, the norse god of thunder.[85] in 1824, after more deposits of the same mineral in vest-agder, norway, were discovered, he retracted his findings, as the mineral (later named xenotime) proved to be mostly yttrium orthophosphate.[29][83][86][87]
+
+discovery[edit]
+in 1828, morten thrane esmark found a black mineral on løvøya island, telemark county, norway. he was a norwegian priest and amateur mineralogist who studied the minerals in telemark, where he served as vicar. he commonly sent the most interesting specimens, such as this one, to his father, jens esmark, a noted mineralogist and professor of mineralogy and geology at the royal frederick university in christiania (today called oslo).[88] the elder esmark determined that it was not a known mineral and sent a sample to berzelius for examination. berzelius determined that it contained a new element.[29] he published his findings in 1829, having isolated an impure sample by reducing kthf5 with potassium metal.[89][90][91] berzelius reused the name of the previous supposed element discovery[89][92] and named the source mineral thorite.[29]
+
+ jöns jacob berzelius, who first identified thorium as a new element
+berzelius made some initial characterisations of the new metal and its chemical compounds: he correctly determined that the thorium–oxygen mass ratio of thorium oxide was 7.5 (its actual value is close to that, ~7.3), but he assumed the new element was divalent rather than tetravalent, and so calculated that the atomic mass was 7.5 times that of oxygen (120 amu); it is actually 15 times as large.[k] he determined that thorium was a very electropositive metal, ahead of cerium and behind zirconium in electropositivity.[93] metallic thorium was isolated for the first time in 1914 by dutch entrepreneurs dirk lely jr. and lodewijk hamburger.[l]
+
+initial chemical classification[edit]
+in the periodic table published by dmitri mendeleev in 1869, thorium and the rare-earth elements were placed outside the main body of the table, at the end of each vertical period after the alkaline earth metals. this reflected the belief at that time that thorium and the rare-earth metals were divalent. with the later recognition that the rare earths were mostly trivalent and thorium was tetravalent, mendeleev moved cerium and thorium to group iv in 1871, which also contained the modern carbon group (group 14) and titanium group (group 4), because their maximum oxidation state was +4.[96][97] cerium was soon removed from the main body of the table and placed in a separate lanthanide series; thorium was left with group 4 as it had similar properties to its supposed lighter congeners in that group, such as titanium and zirconium.[98][m]
+
+first uses[edit]
+while thorium was discovered in 1828 its first application dates only from 1885, when austrian chemist carl auer von welsbach invented the gas mantle, a portable source of light which produces light from the incandescence of thorium oxide when heated by burning gaseous fuels.[29] many applications were subsequently found for thorium and its compounds, including ceramics, carbon arc lamps, heat-resistant crucibles, and as catalysts for industrial chemical reactions such as the oxidation of ammonia to nitric acid.
+
+ world war ii thorium dioxide gas mantle
+radioactivity[edit]
+thorium was first observed to be radioactive in 1898, by the german chemist gerhard carl schmidt and later that year, independently, by the polish-french physicist marie curie. it was the second element that was found to be radioactive, after the 1896 discovery of radioactivity in uranium by french physicist henri becquerel.[99][100][101] starting from 1899, the british physicist ernest rutherford and the american electrical engineer robert bowie owens studied the radiation from thorium; initial observations showed that it varied significantly. it was determined that these variations came from a short-lived gaseous daughter of thorium, which they found to be a new element. this element is now named radon, the only one of the rare radioelements to be discovered in nature as a daughter of thorium rather than uranium.[102]
+after accounting for the contribution of radon, rutherford, now working with the british physicist frederick soddy, showed how thorium decayed at a fixed rate over time into a series of other elements in work dating from 1900 to 1903. this observation led to the identification of the half-life as one of the outcomes of the alpha particle experiments that led to the disintegration theory of radioactivity.[103] the biological effect of radiation was discovered in 1903.[104] the newly discovered phenomenon of radioactivity excited scientists and the general public alike. in the 1920s, thorium's radioactivity was promoted as a cure for rheumatism, diabetes, and sexual impotence. in 1932, most of these uses were banned in the united states after a federal investigation into the health effects of radioactivity.[105] 10,000 individuals in the united states had been injected thorium during x-ray diagnosis; they were later found to suffer health issues such as leukaemia and abnormal chromosomes.[47] public interest in radioactivity had declined by the end of the 1930s.[105]
+
+ glenn t. seaborg, who settled thorium's location in the f-block
+further classification[edit]
+up to the late 19th century, chemists unanimously agreed that thorium and uranium were analogous to hafnium and tungsten; the existence of the lanthanides in the sixth row was considered to be a one-off fluke. in 1892, british chemist henry bassett postulated a second extra-long periodic table row to accommodate known and undiscovered elements, considering thorium and uranium to be analogous to the lanthanides. in 1913, danish physicist niels bohr published a theoretical model of the atom and its electron orbitals, which soon gathered wide acceptance. the model indicated that the seventh row of the periodic table should also have f-shells filling before the d-shells that were filled in the transition elements, like the sixth row with the lanthanides preceding the 5d transition metals.[96] the existence of a second inner transition series, in the form of the actinides, was not accepted until similarities with the electron structures of the lanthanides had been established;[106] bohr suggested that the filling of the 5f orbitals may be delayed to after uranium.[96]
+it was only with the discovery of the first transuranic elements, which from plutonium onward have dominant +3 and +4 oxidation states like the lanthanides, that it was realised that the actinides were indeed filling f-orbitals rather than d-orbitals, with the transition-metal-like chemistry of the early actinides being the exception and not the rule.[107] in 1945, when american physicist glenn t. seaborg and his team had discovered the transuranic elements americium and curium, he realised that thorium was the second member of the actinide series and was filling an f-block row, instead of being the heavier congener of hafnium filling a fourth d-block row.[98][n]
+
+phasing out[edit]
+in the 1990s, most applications that do not depend on thorium's radioactivity declined quickly due to safety and environmental concerns as suitable safer replacements were found.[29][110] despite its radioactivity, the element has remained in use for applications where no suitable alternatives could be found. a 1981 study by the oak ridge national laboratory in the united states estimated that using a thorium gas mantle every weekend would be safe for a person,[110] but this was not the case for the dose received by people manufacturing the mantles or for the soils around some factory sites.[111] some manufacturers have changed to other materials, such as yttrium.[112] as recently as 2007, some companies continued to manufacture and sell thorium mantles without giving adequate information about their radioactivity, with some even falsely claiming them to be non-radioactive.[110][113]
+
+nuclear power[edit]
+main article: thorium fuel cycle
+ the indian point energy center (buchanan, new york, united states), home of the world's first thorium reactor
+thorium has been used as a power source. the earliest thorium-based reactor was built at the indian point energy center in the united states in 1962.[114] india has one of the largest supplies of thorium in the world and not much uranium, and in the 1950s targeted achieving energy independence with their three-stage nuclear power programme.[115][116] in most countries, uranium was relatively abundant and the progress of thorium-based reactors was slow; in the 20th century, three reactors were built in india and twelve elsewhere.[117] large-scale research was begun in 1996 by the international atomic energy agency to study the use of thorium reactors; a year later, the united states department of energy started their research. alvin radkowsky of tel aviv university in israel was the head designer of shippingport atomic power station in pennsylvania, the first american civilian reactor to breed thorium.[118] he founded a consortium to develop thorium reactors, which included other laboratories: raytheon nuclear inc. and brookhaven national laboratory in the united states, and the kurchatov institute in russia.[119] in the 21st century, thorium's potential for reducing nuclear proliferation and its waste characteristics led to renewed interest in the thorium fuel cycle.[120][121][122]
+
+nuclear weapons[edit]
+during the cold war the united states explored the possibility of using 232th as a source of 233u to be used in a nuclear bomb; they fired a test bomb in 1955.[123] they concluded that a 233u-fired bomb would be a very potent weapon, but it bore few sustainable "technical advantages" over the contemporary uranium–plutonium bombs,[124] especially since 233u is difficult to produce isotopically pure.[123]
+
+production[edit]
+
+
+lower-bound estimates of thorium reserves in thousand tonnes, 2014[123]
+
+
+country
+reserves
+
+
+ india
+846
+
+
+ brazil
+632
+
+
+ australia
+595
+
+
+ united states
+595
+
+
+ egypt
+380
+
+
+ turkey
+374
+
+
+ venezuela
+300
+
+
+ canada
+172
+
+
+ russia
+155
+
+
+ south africa
+148
+
+
+ china
+100
+
+
+ norway
+87
+
+
+ greenland
+86
+
+
+ finland
+60.5
+
+
+ sweden
+50
+
+
+ kazakhstan
+50
+
+
+other countries
+1,725
+
+
+world total
+6,355
+
+
+the low demand makes working mines for extraction of thorium alone not profitable, and it is almost always extracted with the rare earths, which themselves may be by-products of production of other minerals.[125] the current reliance on monazite for production is due to thorium being largely produced as a by-product; other sources such as thorite contain more thorium and could easily be used for production if demand rose.[126] present knowledge of the distribution of thorium resources is poor, as low demand has led to exploration efforts being relatively minor.[127] in 2014, world production of the monazite concentrate, from which thorium would be extracted, was 2,700 tonnes.[128]
+the common production route of thorium constitutes concentration of thorium minerals; extraction of thorium from the concentrate; purification of thorium; and (optionally) conversion to compounds, such as thorium dioxide.[129]
+
+concentration[edit]
+there are two categories of thorium minerals for thorium extraction: primary and secondary. primary deposits occur in acidic granitic magmas and pegmatites. they are concentrated, but of small size. secondary deposits occur at the mouths of rivers in granitic mountain regions. in these deposits, thorium is enriched along with other heavy minerals.[40] initial concentration varies with the type of deposit.[129]
+for the primary deposits, the source pegmatites, which are usually obtained by mining, are divided into small parts and then undergo flotation. alkaline earth metal carbonates may be removed after reaction with hydrogen chloride; then follow thickening, filtration, and calcination. the result is a concentrate with rare-earth content of up to 90%.[129] secondary materials (such as coastal sands) undergo gravity separation. magnetic separation follows, with a series of magnets of increasing strength. monazite obtained by this method can be as pure as 98%.[129]
+industrial production in the 20th century relied on treatment with hot, concentrated sulfuric acid in cast iron vessels, followed by selective precipitation by dilution with water, as on the subsequent steps. this method relied on the specifics of the technique and the concentrate grain size; many alternatives have been proposed, but only one has proven effective economically: alkaline digestion with hot sodium hydroxide solution. this is more expensive than the original method but yields a higher purity of thorium; in particular, it removes phosphates from the concentrate.[129]
+
+acid digestion[edit]
+acid digestion is a two-stage process, involving the use of up to 93% sulfuric acid at 210–230 °c. first, 60% sulfuric acid is added, thickening the reaction mixture as products are formed. then, fuming sulfuric acid is added and the mixture is kept at the same temperature for another five hours to reduce the volume of solution remaining after dilution. the concentration of the sulfuric acid is selected based on reaction rate and viscosity, which both increase with concentration, albeit with viscosity retarding the reaction. increasing the temperature also speeds up the reaction, but temperatures of 300 °c and above must be avoided, because they cause insoluble thorium pyrophosphate to form. since dissolution is very exothermic, the monazite sand cannot be added to the acid too quickly. conversely, at temperatures below 200 °c the reaction does not go fast enough for the process to be practical. to ensure that no precipitates form to block the reactive monazite surface, the mass of acid used must be twice that of the sand, instead of the 60% that would be expected from stoichiometry. the mixture is then cooled to 70 °c and diluted with ten times its volume of cold water, so that any remaining monazite sinks to the bottom while the rare earths and thorium remain in solution. thorium may then be separated by precipitating it as the phosphate at ph 1.3, since the rare earths do not precipitate until ph 2.[129]
+
+alkaline digestion[edit]
+alkaline digestion is carried out in 30–45% sodium hydroxide solution at about 140 °c for about three hours. too high a temperature leads to the formation of poorly soluble thorium oxide and an excess of uranium in the filtrate, and too low a concentration of alkali leads to a very slow reaction. these reaction conditions are rather mild and require monazite sand with a particle size under 45 μm. following filtration, the filter cake includes thorium and the rare earths as their hydroxides, uranium as sodium diuranate, and phosphate as trisodium phosphate. this crystallises trisodium phosphate decahydrate when cooled below 60 °c; uranium impurities in this product increase with the amount of silicon dioxide in the reaction mixture, necessitating recrystallisation before commercial use. the hydroxides are dissolved at 80 °c in 37% hydrochloric acid. filtration of the remaining precipitates followed by addition of 47% sodium hydroxide results in the precipitation of thorium and uranium at about ph 5.8. complete drying of the precipitate must be avoided, as air may oxidise cerium from the +3 to the +4 oxidation state, and the cerium(iv) formed can liberate free chlorine from the hydrochloric acid. the rare earths again precipitate out at higher ph. the precipitates are neutralised by the original sodium hydroxide solution, although most of the phosphate must first be removed to avoid precipitating rare-earth phosphates. solvent extraction may also be used to separate out the thorium and uranium, by dissolving the resultant filter cake in nitric acid. the presence of titanium hydroxide is deleterious as it binds thorium and prevents it from dissolving fully.[129]
+
+purification[edit]
+high thorium concentrations are needed in nuclear applications. in particular, concentrations of atoms with high neutron capture cross-sections must be very low (for example, gadolinium concentrations must be lower than one part per million by weight). previously, repeated dissolution and recrystallisation was used to achieve high purity. today, liquid solvent extraction procedures involving selective complexation of th4+ are used. for example, following alkaline digestion and the removal of phosphate, the resulting nitrato complexes of thorium, uranium, and the rare earths can be separated by extraction with tributyl phosphate in kerosene.[129]
+
+modern applications[edit]
+non-radioactivity-related uses have been in decline since the 1950s[130] due to environmental concerns largely stemming from the radioactivity of thorium and its decay products.[29][110]
+most thorium applications use its dioxide (sometimes called "thoria" in the industry), rather than the metal. this compound has a melting point of 3300 °c (6000 °f), the highest of all known oxides; only a few substances have higher melting points.[47] this helps the compound remain solid in a flame, and it considerably increases the brightness of the flame; this is the main reason thorium is used in gas mantles.[131] all substances emit energy (glow) at high temperatures, but the light emitted by thorium is nearly all in the visible spectrum, hence the brightness of thorium mantles.[132] energy, some of it in the form of visible light, is emitted when thorium is exposed to a source of energy itself, such as a cathode ray, heat or ultraviolet light. this effect is shared by cerium dioxide, which converts ultraviolet light into visible light more efficiently, but thorium dioxide gives a higher flame temperature, emitting less infrared light.[131] thorium in mantles, though still common, has been progressively replaced with yttrium since the late 1990s.[133] according to the 2005 review by the united kingdom's national radiological protection board, "although [thoriated gas mantles] were widely available a few years ago, they are not any more."[134]
+
+ yellowed thorium dioxide lens (left), a similar lens partially de-yellowed with ultraviolet radiation (centre), and lens without yellowing (right)
+during the production of incandescent filaments, recrystallisation of tungsten is signifiantly lowered by adding small amounts of thorium dioxide to the tungsten sintering powder before drawing the filaments.[130] a small addition of thorium to tungsten thermocathodes considerably reduces the work function of electrons; as a result, electrons are emitted at considerably lower temperatures.[29] tungsten forms a one-atom-thick layer on the surface of thorium. the work function from a thorium surface is lowered possibly because of the electric field on the interface between thorium and tungsten formed due to thorium's greater electropositivity.[135] since the 1920s, thoriated tungsten wires have been used in electronic tubes and in the cathodes and anticathodes of x-ray tubes and rectifiers. thanks to the reactivity of thorium with atmospheric oxygen and nitrogen, thorium also marks impurities in the evacuated tubes. the introduction of transistors in the 1950s significantly diminished this use, but not entirely.[130] thorium dioxide is used in gas tungsten arc welding (gtaw) to increase the high-temperature strength of tungsten electrodes and improve arc stability.[29] thorium oxide is being replaced in this use with other oxides, such as those of zirconium, cerium, and lanthanum.[136][137]
+thorium dioxide is found in heat-resistant ceramics, such as high-temperature laboratory crucibles,[29] either as the primary ingredient or as an addition to zirconium dioxide. an alloy of 90% platinum and 10% thorium is an effective catalyst for oxidising ammonia to nitrogen oxides, but this has been replaced by an alloy of 95% platinum and 5% rhodium because of its better mechanical properties and greater durability.[130]
+when added to glass, thorium dioxide helps increase its refractive index and decrease dispersion. such glass finds application in high-quality lenses for cameras and scientific instruments.[41] the radiation from these lenses can darken them and turn them yellow over a period of years and degrade film, but the health risks are minimal.[138] yellowed lenses may be restored to their original colourless state by lengthy exposure to intense ultraviolet radiation. thorium dioxide has since been replaced by rare-earth oxides in this application, as they provide similar effects and are not radioactive.[130]
+thorium tetrafluoride is used as an antireflection material in multilayered optical coatings. it is transparent to electromagnetic waves having wavelengths in the range of 0.35–12 µm, a range that includes near ultraviolet, visible and mid infrared light. its radiation is primarily due to alpha particles, which can be easily stopped by a thin cover layer of another material.[139] replacements for thorium tetrafluoride are being developed as of the 2010s.[140]
+
+potential use for nuclear energy[edit]
+the main nuclear power source in a reactor is the neutron-induced fission of a nuclide; the synthetic fissile[e] nuclei 233u and 239pu can be bred from neutron capture by the naturally occurring quantity nuclides 232th and 238u. 235u occurs naturally and is also fissile.[141][142][o] in the thorium fuel cycle, the fertile isotope 232th is bombarded by slow neutrons, undergoing neutron capture to become 233th, which undergoes two consecutive beta decays to become first 233pa and then the fissile 233u:[29]
+
+23290th + n → 23390th + γ β−→21.8 min 23391pa β−→27.0 days 23392u
+
+transmutations in the thorium fuel cycle
+
+
+
+
+237np
+
+
+
+
+↑
+
+
+
+
+
+
+231u
+
+←
+
+232u
+
+↔
+
+233u
+
+↔
+
+234u
+
+↔
+
+235u
+
+↔
+
+236u
+
+→
+
+237u
+
+
+
+
+↓
+
+↑
+
+↑
+
+↑
+
+
+
+
+
+
+231pa
+
+→
+
+232pa
+
+←
+
+233pa
+
+→
+
+234pa
+
+
+
+
+↑
+
+
+
+↑
+
+
+
+230th
+
+→
+
+231th
+
+←
+
+232th
+
+→
+
+233th
+
+
+(nuclides before a yellow background in italic have half-lives under 30 days;nuclides in bold have half-lives over 1,000,000 years;nuclides in red frames are fissile)
+
+233u is fissile and can be used as a nuclear fuel in the same way as 235u or 239pu. when 233u undergoes nuclear fission, the neutrons emitted can strike further 232th nuclei, continuing the cycle.[29] this parallels the uranium fuel cycle in fast breeder reactors where 238u undergoes neutron capture to become 239u, beta decaying to first 239np and then fissile 239pu.[143]
+
+advantages[edit]
+thorium is more abundant than uranium and can satisfy world energy demands for longer.[144]
+232th absorbs neutrons more readily than 238u, and 233u has a higher probability of fission upon neutron capture (92.0%) than 235u (85.5%) or 239pu (73.5%).[145] it also releases more neutrons upon fission on average.[144] a single neutron capture by 238u produces transuranic waste along with the fissile 239pu, but 232th only produces this waste after five captures, forming 237np. this number of captures does not happen for 98–99% of the 232th nuclei because the intermediate products 233u or 235u undergo fission, and fewer long-lived transuranics are produced. because of this, thorium is a potentially attractive alternative to uranium in mixed oxide fuels to minimise the generation of transuranics and maximise the destruction of plutonium.[146]
+thorium fuels also result in a safer and better-performing reactor core[29] because thorium dioxide has a higher melting point, higher thermal conductivity, and a lower coefficient of thermal expansion and is more stable chemically than the now-common fuel uranium dioxide, which can further oxidise to triuranium octoxide (u3o8).[147]
+
+disadvantages[edit]
+the used fuel is difficult and dangerous to reprocess because many of the daughters of 232th and 233u are strong gamma emitters.[144] all 233u production methods result in impurities of 232u, either from parasitic knock-out (n,2n) reactions on 232th, 233pa, or 233u that result in the loss of a neutron, or from double neutron capture of 230th, an impurity in natural 232th:[148]
+
+23090th + n → 23190th + γ β−→25.5 h 23191pa α→3.28 × 104 y ­ 23191pa + n → 23291pa + γ β−→1.3 d 23292u
+232u by itself is not particularly harmful, but quickly decays to produce the strong gamma emitter 208tl. (232th follows the same decay chain, but its much longer half-life means that the quantities of 208tl produced are negligible.)[149] these impurities of 232u make 233u easy to detect and dangerous to work on, and the impracticality of their separation limits the possibilities of nuclear proliferation using 233u as the fissile material.[148] 233pa has a relatively long half-life of 27 days and a high cross section for neutron capture. thus it is a neutron poison: instead of rapidly decaying to the useful 233u, a significant amount of 233pa converts to 234u and consumes neutrons, degrading the reactor efficiency. to avoid this, 233pa is extracted from the active zone of thorium molten salt reactors during their operation, so that it only decays to 233u.[150]
+the irradiation of 232th with neutrons, followed by its processing, need to be mastered before these advantages can be realised, and this requires more advanced technology than the uranium and plutonium fuel cycle;[29] research continues in this area. others cite the low commercial viability of the thorium fuel cycle:[151][152][153] the international nuclear energy agency predicts that the thorium cycle will never be commercially viable while uranium is available in abundance—a situation which may persist "in the coming decades".[154] the isotopes produced in the thorium fuel cycle are mostly not transuranic, but some of them are still very dangerous, such as 231pa, which has a half-life of 32,760 years and is a major contributor to the long-term radiotoxicity of spent nuclear fuel.[150]
+
+hazards[edit]
+ experiment on the effect of radiation (from an unburned thorium gas mantle) on the germination and growth of timothy-grass seed
+radiological[edit]
+natural thorium decays very slowly compared to many other radioactive materials, and the emitted alpha radiation cannot penetrate human skin. as a result, handling small amounts of thorium, such as those in gas mantles, is considered safe, although the use of such items may pose some risks.[155] exposure to an aerosol of thorium, such as contaminated dust, can lead to increased risk of cancers of the lung, pancreas, and blood, as lungs and other internal organs can be penetrated by alpha radiation.[155] exposure to thorium internally leads to increased risk of liver diseases.[156]
+the decay products of 232th include more dangerous radionuclides such as radium and radon. although relatively little of those products are created as the result of the slow decay of thorium, a proper assessment of the radiological toxicity of 232th must include the contribution of its daughters, some of which are dangerous gamma emitters,[157] and which are built up quickly following the initial decay of 232th due to the absence of long-lived nuclides along the decay chain.[158] as the dangerous daughters of thorium have much lower melting points than thorium dioxide, they are volatilised every time the mantle is heated for use. in the first hour of use large fractions of the thorium daughters 224ra, 228ra, 212pb, and 212bi are released.[159] most of the radiation dose by a normal user arises from inhaling the radium, resulting in a radiation dose of up to 0.2 millisieverts per use, about a third of the dose sustained during a mammogram.[160]
+some nuclear safety agencies make recommendations about the use of thorium mantles and have raised safety concerns regarding their manufacture and disposal; the radiation dose from one mantle is not a serious problem, but that from many mantles gathered together in factories or landfills is.[156]
+
+biological[edit]
+thorium is odourless and tasteless.[161] the chemical toxicity of thorium is low because thorium and its most common compounds (mostly the dioxide) are poorly soluble in water,[162] precipitating out before entering the body as the hydroxide.[163] some thorium compounds are chemically moderately toxic, especially in the presence of strong complex-forming ions such as citrate that carry the thorium into the body in soluble form.[158] if a thorium-containing object has been chewed or sucked, it loses 0.4% of thorium and 90% of its dangerous daughters to the body.[113] three quarters of the thorium that has penetrated the body accumulates in the skeleton. absorption through the skin is possible, but is not a likely means of exposure.[155] thorium's low solubility in water also means that excretion of thorium by the kidneys and faeces is rather slow.[158]
+tests on the thorium uptake of workers involved in monazite processing showed thorium levels above recommended limits in their bodies, but no adverse effects on health were found at those moderately low concentrations. no chemical toxicity has yet been observed in the tracheobronchial tract and the lungs from exposure to thorium.[163] people who work with thorium compounds are at a risk of dermatitis. it can take as much as thirty years after the ingestion of thorium for symptoms to manifest themselves.[47] thorium has no known biological role.[47]
+
+chemical[edit]
+powdered thorium metal is pyrophoric: it ignites spontaneously in air.[4] in 1964, the united states department of the interior listed thorium as "severe" on a table entitled "ignition and explosibility of metal powders". its ignition temperature was given as 270 °c (520 °f) for dust clouds and 280 °c (535 °f) for layers. its minimum explosive concentration was listed as 0.075 oz/cu ft (0.075 kg/m3); the minimum igniting energy for (non-submicron) dust was listed as 5 mj.[164]
+in 1956, the sylvania electric products explosion occurred during reprocessing and burning of thorium sludge in new york city, united states. nine people were injured; one died of complications caused by third-degree burns.[165][166][167]
+
+exposure routes[edit]
+thorium exists in very small quantities everywhere on earth although larger amounts exist in certain parts: the average human contains about 40 micrograms of thorium and typically consumes three micrograms per day.[47] most thorium exposure occurs through dust inhalation; some thorium comes with food and water, but because of its low solubility, this exposure is negligible.[158]
+exposure is raised for people who live near thorium deposits or radioactive waste disposal sites, those who live near or work in uranium, phosphate, or tin processing factories, and for those who work in gas mantle production.[168] thorium is especially common in the tamil nadu coastal areas of india, where residents may be exposed to a naturally occurring radiation dose ten times higher than the worldwide average.[169] it is also common in northern brazilian coastal areas, from south bahia to guarapari, a city with radioactive monazite sand beaches, with radiation levels up to 50 times higher than world average background radiation.[170]
+another possible source of exposure is thorium dust produced at weapons testing ranges, as thorium is used in the guidance systems of some missiles. this has been blamed for a high incidence of birth defects and cancer at salto di quirra on the italian island of sardinia.[171]
+
+notes[edit]
+
+
+^ bismuth is very slightly radioactive, but its half-life (1.9×1019 years) is so long that its decay is negligible even over geological timespans.
+
+^ while einsteinium has been measured to have a lower density, this measurement was done on small, microgram-mass samples, and is likely because of the rapid self-destruction of the crystal structure caused by einsteinium's extreme radioactivity.[8]
+
+^ behind osmium, tantalum, tungsten, and rhenium;[4] higher boiling points are speculated to be found in the 6d transition metals, but they have not been produced in large enough quantities to test this prediction.[9]
+
+^ gamma rays are distinguished by their origin in the nucleus, not their wavelength; hence there is no lower limit to gamma energy derived from radioactive decay.[27]
+
+^ a b a fissionable nuclide is capable of undergoing fission (even with a low probability) after capturing a high-energy neutron. some of these nuclides can be induced to fission with low-energy thermal neutrons with a high probability; they are referred to as fissile. a fertile nuclide is one that could be bombarded with neutrons to produce a fissile nuclide. critical mass is the mass of a ball of a material which could undergo a sustained nuclear chain reaction.
+
+^ the name ionium for 230th is a remnant from a period when different isotopes were not recognised to be the same element and were given different names.
+
+^ unlike the previous similarity between the actinides and the transition metals, the main-group similarity largely ends at thorium before being resumed in the second half of the actinide series, because of the growing contribution of the 5f orbitals to covalent bonding. the only other commonly-encountered actinide, uranium, retains some echoes of main-group behaviour. the chemistry of uranium is more complicated than that of thorium, but the two most common oxidation states of uranium are uranium(vi) and uranium(iv); these are two oxidation units apart, with the higher oxidation state corresponding to formal loss of all valence electrons, which is similar to the behaviour of the heavy main-group elements in the p-block.[38]
+
+^ an even number of either protons or neutrons generally increases nuclear stability of isotopes, compared to isotopes with odd numbers. elements with odd atomic numbers have no more than two stable isotopes; even-numbered elements have multiple stable isotopes, with tin (element 50) having ten.[10]
+
+^ other isotopes may occur alongside 232th, but only in trace quantities. if the source contains no uranium, the only other thorium isotope present would be 228th, which occurs in the decay chain of 232th (the thorium series): the ratio of 228th to 232th would be under 10−10.[21] if uranium is present, tiny traces of several other isotopes will also be present: 231th and 227th from the decay chain of 235u (the actinium series), and slightly larger but still tiny traces of 234th and 230th from the decay chain of 238u (the uranium series).[21] 229th is also been produced in the decay chain of 237np (the neptunium series): all primordial 237np is extinct, but it is still produced as a result of nuclear reactions in uranium ores.[76] 229th is mostly produced as a daughter of artificial 233u made by neutron irradiation of 232th, and is extremely rare in nature.[21]
+
+^ thorianite refers to minerals with 75–100 mol% tho2; uranothorianite, 25–75 mol% tho2; thorian uraninite, 15–25 mol% tho2; uraninite, 0–15 mol% tho2.[77]
+
+^ at the time, the rare-earth elements, among which thorium was found and with which it is closely associated in nature, were thought to be divalent; the rare earths were given atomic weight values two-thirds of their actual ones, and thorium and uranium are given values half of the actual ones.
+
+^ the main difficulty in isolating thorium lies not in its chemical electropositivity, but in the close association of thorium in nature with the rare-earth elements and uranium, which collectively are difficult to separate from each other. swedish chemist lars fredrik nilson, the discoverer of scandium, had previously made an attempt to isolate thorium metal in 1882, but was unsuccessful at achieving a high degree of purity.[94] lely and hamburger obtained 99% pure thorium metal by reducing thorium chloride with sodium metal.[95] a simpler method leading to even higher purity was discovered in 1927 by american engineers john marden and harvey rentschler, involving the reduction of thorium oxide with calcium in presence of calcium chloride.[95]
+
+^ thorium also appears in the 1864 table by british chemist john newlands as the last and heaviest element, as it was initially thought that uranium was a trivalent element with an atomic weight of around 120: this is half of its actual value, since uranium is predominantly hexavalent. it also appears as the heaviest element in the 1864 table by british chemist william odling under titanium, zirconium, and tantalum. it does not appear in the periodic systems published by french geologist alexandre-émile béguyer de chancourtois in 1862, german-american musician gustav hinrichs in 1867, or german chemist julius lothar meyer in 1870, all of which exclude the rare earths and thorium.[96]
+
+^ the filling of the 5f subshell from the beginning of the actinide series was confirmed in 1964 when the next element, rutherfordium, was first synthesised and found to behave like hafnium, as would be expected if the filling of the 5f orbitals had already finished by then.[108] today, thorium's similarities to hafnium are still sometimes acknowledged by calling it a "pseudo group 4 element".[109]
+
+^ the thirteen fissile actinide isotopes with half-lives over a year are 229th, 233u, 235u, 236np, 239pu, 241pu, 242mam, 243cm, 245cm, 247cm, 249cf, 251cf, and 252es. of these, only 235u is naturally occurring, and only 233u and 239pu can be bred from naturally occurring nuclei with a single neutron capture.[142]
+
+
+references[edit]
+
+
+^ a b c d meija, j.;  et al. (2016). "atomic weights of the elements 2013 (iupac technical report)". pure and applied chemistry. 88 (3): 265–291. doi:10.1515/pac-2015-0305..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ lide, d. r., ed. (2005). "magnetic susceptibility of the elements and inorganic compounds". crc handbook of chemistry and physics (pdf) (86th ed.). crc press. pp. 4–135. isbn 978-0-8493-0486-6.
+
+^ weast, r. (1984). crc, handbook of chemistry and physics. chemical rubber company publishing. p. e110. isbn 978-0-8493-0464-4.
+
+^ a b c d e f g h i j k l m n o wickleder, fourest & dorhout 2006, pp. 61–63.
+
+^ gale, w. f.; totemeier, t. c. (2003). smithells metals reference book. butterworth-heinemann. pp. 15–2–15–3. isbn 978-0-08-048096-1.
+
+^ a b c d e tretyakov, yu. d., ed. (2007). non-organic chemistry in three volumes. chemistry of transition elements. 3. academy. isbn 978-5-7695-2533-9.
+
+^ a b c johansson, b.; abuja, r.; eriksson, o.;  et al. (1995). "anomalous fcc crystal structure of thorium metal". physical review letters. 75 (2): 280–283. bibcode:1995phrvl..75..280j. doi:10.1103/physrevlett.75.280. pmid 10059654.
+
+^ haire, r. g.; baybarz, r. d. (1979). "studies of einsteinium metal" (pdf). le journal de physique. 40: c4–101. doi:10.1051/jphyscol:1979431.
+
+^ fricke, burkhard (1975). superheavy elements: a prediction of their chemical and physical properties. recent impact of physics on inorganic chemistry. structure and bonding. 21. pp. 89–144. doi:10.1007/bfb0116498. isbn 978-3-540-07109-9. retrieved 4 october 2013.
+
+^ a b c d e f audi, g.; bersillon, o.; blachot, j.;  et al. (2003). "the nubase evaluation of nuclear and decay properties" (pdf). nuclear physics a. 729 (1): 3–128. bibcode:2003nupha.729....3a. citeseerx 10.1.1.692.8504. doi:10.1016/j.nuclphysa.2003.11.001. archived from the original (pdf) on 24 july 2013.
+
+^ de laeter, j. r.; böhlke, j. k.; de bièvre, p.; hidaka, h.; peiser, h. s.; rosman, k. j. r.; taylor, p. d. p. (2003). "atomic weights of the elements. review 2000 (iupac technical report)" (pdf). pure and applied chemistry. 75 (6): 683–800. doi:10.1351/pac200375060683.
+
+^ international union of pure and applied chemistry (2006). "atomic weights of the elements 2005 (iupac technical report)" (pdf). pure and applied chemistry. 78 (11): 2051–2066. doi:10.1351/pac200678112051. retrieved 27 july 2017.
+
+^ nagy, s. (2009). radiochemistry and nuclear chemistry. 2. eolss publications. p. 374. isbn 978-1-84826-127-3.
+
+^ griffin, h. c. (2010). "natural radioactive decay chains".  in vértes, a.; nagy, s.; klencsár, z.;  et al. handbook of nuclear chemistry. springer science+business media. p. 668. isbn 978-1-4419-0719-6.
+
+^ beiser, a. (2003). "nuclear transformations" (pdf). concepts of modern physics (6 ed.). mcgraw-hill education. pp. 432–434. isbn 978-0-07-244848-1.
+
+^ "areva med launches production of lead-212 at new facility" (press release). areva. 2013. retrieved 1 january 2017.
+
+^ "mineral yearbook 2012" (pdf). united states geological survey. retrieved 30 september 2017.
+
+^ ramdahl, thomas; bonge-hansen, hanne t.; ryan, olav b.; larsen, åsmund; herstad, gunnar; sandberg, marcel; bjerke, roger m.; grant, derek; brevik, ellen m. (2016-09-01). "an efficient chelator for complexation of thorium-227". bioorganic & medicinal chemistry letters. 26 (17): 4318–4321. doi:10.1016/j.bmcl.2016.07.034. issn 0960-894x. pmid 27476138.
+
+^ deblonde, gauthier j.-p.; lohrey, trevor d.; booth, corwin h.; carter, korey p.; parker, bernard f.; larsen, åsmund; smeets, roger; ryan, olav b.; cuthbertson, alan s. (2018-11-19). "solution thermodynamics and kinetics of metal complexation with a hydroxypyridinone chelator designed for thorium-227 targeted alpha therapy". inorganic chemistry. 57 (22): 14337–14346. doi:10.1021/acs.inorgchem.8b02430. issn 0020-1669. pmid 30372069.
+
+^ captain, ilya; deblonde, gauthier j.-p.; rupert, peter b.; an, dahlia d.; illy, marie-claire; rostan, emeline; ralston, corie y.; strong, roland k.; abergel, rebecca j. (2016-11-21). "engineered recognition of tetravalent zirconium and thorium by chelator–protein systems: toward flexible radiotherapy and imaging platforms". inorganic chemistry. 55 (22): 11930–11936. doi:10.1021/acs.inorgchem.6b02041. issn 0020-1669. pmid 27802058.
+
+^ a b c d e f g h wickleder, fourest & dorhout 2006, pp. 53–55.
+
+^ bonetti, r.; chiesa, c.; guglielmetti, a.;  et al. (1995). "first observation of spontaneous fission and search for cluster decay of 232th". physical review c. 51 (5): 2530. bibcode:1995phrvc..51.2530b. doi:10.1103/physrevc.51.2530.
+
+^ ikezoe, h.; ikuta, t.; hamada, s.;  et al. (1996). "alpha decay of a new isotope of 209th". physical review c. 54 (4): 2043–2046. bibcode:1996phrvc..54.2043i. doi:10.1103/physrevc.54.2043.
+
+^ ruchowska, e.; płóciennik, w. a.; żylicz, j.;  et al. (2006). "nuclear structure of 229th". physical review c. 73 (4): 044326. bibcode:2006phrvc..73d4326r. doi:10.1103/physrevc.73.044326.
+
+^ beck, b. r.; becker, j. a.; beiersdorfer, p.;  et al. (2007). "energy splitting in the ground state doublet in the nucleus 229th". physical review letters. 98 (14): 142501. bibcode:2007phrvl..98n2501b. doi:10.1103/physrevlett.98.142501. pmid 17501268.
+
+^ von der wense, l.; seiferle, b.; laatiaoui, m.;  et al. (2016). "direct detection of the 229th nuclear clock transition". nature. 533 (7601): 47–51. arxiv:1710.11398. bibcode:2016natur.533...47v. doi:10.1038/nature17669. pmid 27147026.
+
+^ feynman, r.; leighton, r.; sands, m. (1963). the feynman lectures on physics. 1. addison-wesley. pp. 2–5. isbn 978-0-201-02116-5. retrieved 13 january 2018.
+
+^ a b c "evaluation of nuclear criticality safety data and limits for actinides in transport" (pdf). institut de radioprotection et de sûreté nucléaire. p. 15. archived from the original (pdf) on 10 july 2007. retrieved 20 december 2010.
+
+^ a b c d e f g h i j k l m n wickleder, fourest & dorhout 2006, pp. 52–53.
+
+^ a b "3–6: uranium thorium dating" (pdf). institute for structure and nuclear astrophysics, university of notre dame. retrieved 7 october 2017.
+
+^ davis, o. "uranium-thorium dating". department of geosciences, university of arizona. archived from the original on 28 march 2017. retrieved 7 october 2017.
+
+^ a b rafferty, j. p. (2010), geochronology, dating, and precambrian time: the beginning of the world as we know it, the geologic history of earth, rosen publishing, p. 150, isbn 978-1-61530-125-6
+
+^ a b vértes, a. (2010),  nagy, s.; klencsár, z.; lovas, r. g.;  et al., eds., handbook of nuclear chemistry, 5 (2nd ed.), springer science+business media, p. 800, isbn 978-1-4419-0719-6
+
+^ wickleder, fourest & dorhout 2006, pp. 59–60.
+
+^ a b c d cotton, s. (2006). lanthanide and actinide chemistry. john wiley & sons.
+
+^ martin, w. c.; hagan, l.; reader, j.;  et al. (1974). "ground levels and ionization potentials for lanthanide and actinide atoms and ions" (pdf). j. phys. chem. ref. data. 3 (3): 771–779. bibcode:1974jpcrd...3..771m. doi:10.1063/1.3253147. archived from the original (pdf) on 4 march 2016. retrieved 19 october 2013.
+
+^ cotton, s. (2006). lanthanide and actinide chemistry. john wiley & sons. p. 150.
+
+^ a b king, r. bruce (1995). inorganic chemistry of main group elements. wiley-vch. isbn 978-0-471-18602-1.
+
+^ greenwood & earnshaw 1997, p. 1262.
+
+^ a b stoll 2005, p. 6.
+
+^ a b hammond, c. r. (2004). the elements, in handbook of chemistry and physics (81st ed.). crc press. isbn 978-0-8493-0485-9.
+
+^ a b hyde, e. k. (1960). the radiochemistry of thorium (pdf). national academy of sciences. retrieved 29 september 2017.
+
+^ greenwood & earnshaw 1997, p. 1264.
+
+^ moore, robert lee; goodall, c. a.; hepworth, j. l.; watts, r. a. (may 1957). "nitric acid dissolution of thorium. kinetics of fluoride-catalyzed reaction". industrial & engineering chemistry. 49 (5): 885–887. doi:10.1021/ie50569a035.
+
+^ a b greenwood & earnshaw 1997, p. 1267.
+
+^ yamashita, toshiyuki; nitani, noriko; tsuji, toshihide; inagaki, hironitsu (1997). "thermal expansions of npo2 and some other actinide dioxides". j. nucl. mater. 245 (1): 72–78. bibcode:1997jnum..245...72y. doi:10.1016/s0022-3115(96)00750-7.
+
+^ a b c d e f g h emsley, j. (2011). emsley blocks: an a–z guide to the elements. oxford university press. pp. 544–548. isbn 978-0-19-960563-7.
+
+^ a b wickleder, fourest & dorhout 2006, pp. 70–77.
+
+^ greenwood & earnshaw 1997, p. 1269.
+
+^ wickleder, fourest & dorhout 2006, pp. 95–97.
+
+^ a b c d e wickleder, fourest & dorhout 2006, pp. 78–94.
+
+^ a b greenwood & earnshaw 1997, p. 1271.
+
+^ wickleder, fourest & dorhout 2006, pp. 97–101.
+
+^ wickleder, fourest & dorhout 2006, pp. 64–66.
+
+^ greenwood & earnshaw 1997, p. 127.
+
+^ a b c d wickleder, fourest & dorhout 2006, pp. 117–134.
+
+^ persson, i. (2010). "hydrated metal ions in aqueous solution: how regular are their structures?". pure and applied chemistry. 82 (10): 1901–1917. doi:10.1351/pac-con-09-10-22.
+
+^ a b greenwood & earnshaw 1997, pp. 1275–1277.
+
+^ a b c wickleder, fourest & dorhout 2006, pp. 101–115.
+
+^ a b c d wickleder, fourest & dorhout 2006, pp. 116–117.
+
+^ a b greenwood & earnshaw 1997, pp. 1278–1280.
+
+^ langeslay, ryan r.; fieser, megan e.; ziller, joseph w.; furche, philip; evans, william j. (2015). "synthesis, structure, and reactivity of crystalline molecular complexes of the {[c5h3(sime3)2]3th}1− anion containing thorium in the formal +2 oxidation state". chemical science. 6 (6): 517–521. doi:10.1039/c4sc03033h. pmc 5811171. pmid 29560172. retrieved 16 july 2016.
+
+^ a b c cameron, a. g. w. (1973). "abundance of the elements in the solar system" (pdf). space science reviews. 15 (1): 121–146. bibcode:1973ssrv...15..121c. doi:10.1007/bf00172440. archived from the original (pdf) on 21 october 2011.
+
+^ frebel, anna; beers, timothy c. (2018). "the formation of the heaviest elements". physics today. 71 (1): 30–37. arxiv:1801.01190. bibcode:2018pht....71a..30f. doi:10.1063/pt.3.3815. issn 0031-9228.
+
+^ a b c roederer, i. u.; kratz, k.-l.; frebel, a.;  et al. (2009). "the end of nucleosynthesis: production of lead and thorium in the early galaxy". the astrophysical journal. 698 (2): 1963–1980. arxiv:0904.3105. bibcode:2009apj...698.1963r. doi:10.1088/0004-637x/698/2/1963.
+
+^ burbidge, e. m.; burbidge, g. r.; fowler, w. a.;  et al. (1957). "synthesis of the elements in stars" (pdf). reviews of modern physics. 29 (4): 547. bibcode:1957rvmp...29..547b. doi:10.1103/revmodphys.29.547.
+
+^ clayton, d. d. (1968). principles of stellar evolution and nucleosynthesis. mcgraw-hill education. pp. 577–591. isbn 978-0-226-10953-4.
+
+^ stoll 2005, p. 2.
+
+^ greenwood & earnshaw 1997, p. 1294.
+
+^ albarède, f. (2003). geochemistry: an introduction. cambridge university press. p. 17. isbn 978-0-521-89148-6.
+
+^ trenn, t. j. (1978). "thoruranium (u-236) as the extinct natural parent of thorium: the premature falsification of an essentially correct theory". annals of science. 35 (6): 581–597. doi:10.1080/00033797800200441.
+
+^ diamond, h.; friedman, a. m.; gindler, j. e.;  et al. (1956). "possible existence of cm247 or its daughters in nature". physical review. 105 (2): 679–680. bibcode:1957phrv..105..679d. doi:10.1103/physrev.105.679.
+
+^ rao, m. n.; gopalan, k. (1973). "curium-248 in the early solar system". nature. 245 (5424): 304–307. bibcode:1973natur.245..304r. doi:10.1038/245304a0.
+
+^ rosenblatt, d. b. (1953). "effects of a primeval endowment of u236". physical review. 91 (6): 1474–1475. bibcode:1953phrv...91.1474r. doi:10.1103/physrev.91.1474.
+
+^ gando, a.; gando, y.; ichimura, k.;  et al. (2011). "partial radiogenic heat model for earth revealed by geoneutrino measurements" (pdf). nature geoscience. 4 (9): 647–651. bibcode:2011natge...4..647k. doi:10.1038/ngeo1205.
+
+^ peppard, d. f.; mason, g. w.; gray, p. r.;  et al. (1952). "occurrence of the (4n + 1) series in nature". journal of the american chemical society. 74 (23): 6081–6084. doi:10.1021/ja01143a074.
+
+^ a b c d e f g h i wickleder, fourest & dorhout 2006, pp. 55–56.
+
+^ agency for toxic substances and disease registry (2016). thorium (pdf) (report). retrieved 30 september 2017.
+
+^ woodhead, j. a. (1991). "the metamictization of zircon: radiation dose-dependent structural characteristics" (pdf). american mineralogist. 76: 74–82.
+
+^ szymański, j. t. (1982). "a mineralogical study and crystal-structure determination of nonmetamict ekanite, thca2si8o20" (pdf). canadian mineralogist. 20: 65–75.
+
+^ greenwood & earnshaw 1997, p. 1255.
+
+^ "tor's fight with the giants". google arts & culture. retrieved 26 june 2016.
+
+^ a b fontani, m.; costa, m.; orna, v. (2014). the lost elements: the periodic table's shadow side. oxford university press. p. 73. isbn 978-0-19-938334-4.
+
+^ ryabchikov, d. i.; gol'braikh, e. k. (2013). the analytical chemistry of thorium: international series of monographs on analytical chemistry. elsevier. p. 1. isbn 978-1-4831-5659-0.
+
+^ thomson, t. (1831). a system of chemistry of inorganic bodies. 1. baldwin & cradock and william blackwood. p. 475.
+
+^ berzelius, j. j. (1824). "undersökning af några mineralier. 1. phosphorsyrad ytterjord" [examining some minerals. 1st phosphoric yttria.]. kungliga svenska vetenskapsakademiens handlingar (in swedish). 2: 334–338.
+
+^ "xenotime-(y)". mindat database. retrieved 7 october 2017.
+
+^ selbekk, r. s. (2007). "morten thrane esmark". store norske leksikon (in norwegian). kunnskapsforlaget. retrieved 16 may 2009.
+
+^ a b weeks, m. e. (1932). "the discovery of the elements. xi. some elements isolated with the aid of potassium and sodium: zirconium, titanium, cerium, and thorium". journal of chemical education. 9 (7): 1231. bibcode:1932jched...9.1231w. doi:10.1021/ed009p1231.
+
+^ berzelius, j. j. (1829). "untersuchung eines neues minerals und einer darin erhalten zuvor unbekannten erde" [investigation of a new mineral and of a previously unknown earth contained therein]. annalen der physik und chemie (in german). 16 (7): 385–415. bibcode:1829anp....92..385b. doi:10.1002/andp.18290920702. (modern citation: annalen der physik, vol. 92, no. 7, pp. 385–415).
+
+^ berzelius, j. j. (1829). "undersökning af ett nytt mineral (thorit), som innehåller en förut obekant jord" [investigation of a new mineral (thorite), as contained in a previously unknown earth]. kungliga svenska vetenskaps akademiens handlingar (in swedish): 1–30.
+
+^ schilling, j. (1902). "die eigentlichen thorit-mineralien (thorit und orangit)" [the actual thoritic minerals (thorite and orangite)]. zeitschrift für angewandte chemie (in german). 15 (37): 921–929. doi:10.1002/ange.19020153703.
+
+^ leach, m. r. "the internet database of periodic tables: berzelius' electronegativity table". retrieved 16 july 2016.
+
+^ nilson, l. f. (1882). "über metallisches thorium" [about metallic thorium]. berichte der deutschen chemischen gesellschaft (in german). 15 (2): 2537–2547. doi:10.1002/cber.188201502213.
+
+^ a b meister, g. (1948). production of rarer metals (pdf) (report). united states atomic energy commission. retrieved 22 september 2017.
+
+^ a b c d leach, m. r. "the internet database of periodic tables". retrieved 14 may 2012.
+
+^ jensen, william b. (2003). "the place of zinc, cadmium, and mercury in the periodic table" (pdf). journal of chemical education. 80 (8): 952–961. bibcode:2003jched..80..952j. doi:10.1021/ed080p952. archived from the original (pdf) on 11 june 2010.
+
+^ a b masterton, w. l.; hurley, c. n.; neth, e. j. (2011-01-31). chemistry: principles and reactions (7th ed.). cengage learning. p. 173. isbn 978-1-111-42710-8.
+
+^ curie, m. (1898). "rayons émis par les composés de l'uranium et du thorium" [rays emitted by compounds of uranium and thorium]. comptes rendus (in french). 126: 1101–1103. ol 24166254m.
+
+^ schmidt, g. c. (1898). "über die vom thorium und den thoriumverbindungen ausgehende strahlung" [on the radiation emitted by thorium and thorium compounds]. verhandlungen der physikalischen gesellschaft zu berlin (proceedings of the physical society in berlin) (in german). 17: 14–16.
+
+^ schmidt, g. c. (1898). "über die von den thorverbindungen und einigen anderen substanzen ausgehende strahlung" [on the radiation emitted by thorium compounds and some other substances]. annalen der physik und chemie (in german). 65 (5): 141–151. bibcode:1898anp...301..141s. doi:10.1002/andp.18983010512. (modern citation: annalen der physik, vol. 301, pp. 141–151 (1898)).
+
+^ rutherford, e.; owens, r. b. (1899). "thorium and uranium radiation". trans. r. soc. can. 2: 9–12.: "the radiation from thorium oxide was not constant, but varied in a most capricious manner", whereas "all the compounds of uranium give out a radiation which is remarkably constant."
+
+^ simmons, j. g. (1996). the scientific 100: a ranking of the most influential scientists, past and present. carol. p. 19. isbn 978-0-8065-2139-8.
+
+^ fröman, n. (1996). "marie and pierre curie and the discovery of polonium and radium". nobelprize.org. nobel media ab. retrieved 11 may 2017.
+
+^ a b burns, m. (1987). low-level radioactive waste regulation-science, politics and fear. crc press. pp. 24–25. isbn 978-0-87371-026-8.
+
+^ van spronsen, j. w. (1969). the periodic system of chemical elements. elsevier. pp. 315–316. isbn 978-0-444-40776-4..
+
+^ rhodes, r. (2012). the making of the atomic bomb (25th anniversary ed.). simon & schuster. pp. 221–222, 349. isbn 978-1-4516-7761-4.
+
+^ türler, a.; buklanov, g. v.; eichler, b.;  et al. (1998). "evidence for relativistic effects in the chemistry of element 104". journal of alloys and compounds. 271–273: 287. doi:10.1016/s0925-8388(98)00072-3.
+
+^ kratz, j. v.; nagame, y. (2014). "liquid-phase chemistry of superheavy elements".  in schädel, m.; shaughnessy, d. the chemistry of superheavy elements (2nd ed.). springer-verlag. p. 335. doi:10.1007/978-3-642-37466-1. isbn 978-3-642-37465-4.
+
+^ a b c d furuta, e.; yoshizawa, y.; aburai, t. (2000). "comparisons between radioactive and non-radioactive gas lantern mantles". j. radiol. prot. 20 (4): 423–431. bibcode:2000jrp....20..423f. doi:10.1088/0952-4746/20/4/305. pmid 11140713.
+
+^ new jersey department of health (1996). "health and hazardous waste" (pdf). a practitioner's guide to patients' environmental exposures. 1 (3): 1–8. archived from the original (pdf) on 15 april 2016.
+
+^ toepker, terrence p. (1996). "thorium and yttrium in gas lantern mantles". american journal of physics. 64 (2): 109. bibcode:1996amjph..64..109t. doi:10.1119/1.18463.
+
+^ a b poljanc, k.; steinhauser, g.; sterba, j. h.;  et al. (2007). "beyond low-level activity: on a "non-radioactive" gas mantle". science of the total environment. 374 (1): 36–42. bibcode:2007scten.374...36p. doi:10.1016/j.scitotenv.2006.11.024. pmid 17270253.
+
+^ kazimi, m. (2003). "thorium fuel for nuclear energy". american scientist. archived from the original on 1 january 2017. retrieved 29 september 2017.
+
+^ majumdar, s.; purushotham, d. s. c. (1999). "experience of thorium fuel development in india". thorium fuel utilization: options and trends (pdf) (report). international atomic energy agency. retrieved 7 october 2017.
+
+^ "nuclear power in india". world nuclear association. 2017. retrieved 29 september 2017.
+
+^ "iaea-tecdoc-1450 thorium fuel cycle – potential benefits and challenges" (pdf). international atomic energy agency. 2005. retrieved 23 march 2009.
+
+^ shippingport atomic power station. "historic achievement recognized: shippingport atomic power station, a national engineering historical landmark" (pdf). p. 4. archived from the original (pdf) on 17 july 2015. retrieved 24 june 2006.
+
+^ educational foundation for nuclear science, inc. bulletin of the atomic scientists. pp. 19–20. issn 0096-3402.
+
+^ "iaea-tecdoc-1349 potential of thorium-based fuel cycles to constrain plutonium and to reduce the long-lived waste toxicity" (pdf). international atomic energy agency. 2002. retrieved 24 march 2009.
+
+^ evans, b. (2006). "scientist urges switch to thorium". abc news. archived from the original on 28 march 2010. retrieved 17 september 2011.
+
+^ martin, r. (2009). "uranium is so last century – enter thorium, the new green nuke". wired. retrieved 19 june 2010.
+
+^ a b c "thorium". world nuclear association. 2017. retrieved 21 june 2017.
+
+^ woods, w. k. (1966). "lrl interest in u-233". battelle memorial institute. doi:10.2172/79078.
+
+^ stoll 2005, p. 7.
+
+^ united states geological survey (2012). "thorium" (pdf). retrieved 12 may 2017.
+
+^ jayaram, k. m. v. (1987). an overview of world thorium resources, incentives for further exploration and forecast for thorium requirements in the near future (pdf) (report). department of atomic energy. archived from the original (pdf) on 28 june 2011.
+
+^ thorium. statistics and information (report). united states geological survey. 2017. retrieved 6 january 2018.
+
+^ a b c d e f g h stoll 2005, p. 8.
+
+^ a b c d e stoll 2005, p. 32.
+
+^ a b stoll 2005, p. 31.
+
+^ ivey, h. f. (1974). "candoluminescence and radical-excited luminescence". journal of luminescence. 8 (4): 271–307. bibcode:1974jlum....8..271i. doi:10.1016/0022-2313(74)90001-5.
+
+^ matson, tim (2011). the book of non-electric lighting: the classic guide to the safe use of candles, fuel lamps, lanterns, gaslights & fire-view stoves. countryman press. p. 60. isbn 978-1-58157-829-4.
+
+^ shaw, j.; dunderdale, j.; paynter, r. a. "a review of consumer products containing radioactive substances in the european union" (pdf). nrpb occupational services department.
+
+^ pridham, g. j. (2016). electronic devices and circuits: the commonwealth and international library: electrical engineering division. elsevier. p. 105. isbn 978-1-4831-3979-1.
+
+^ uttrachi, j. (2015). weld like a pro: beginning to advanced techniques. cartech inc. p. 42. isbn 978-1-61325-221-5.
+
+^ jeffus, l. (2016). welding: principles and applications. cengage learning. p. 393. isbn 978-1-305-49469-5.
+
+^ oak ridge associated universities (1999). "thoriated camera lens (ca. 1970s)". retrieved 29 september 2017.
+
+^ rancourt, j. d. (1996). optical thin films: user handbook. spie press. p. 196. isbn 978-0-8194-2285-9.
+
+^ kaiser, n.; pulker, h. k. (2013). optical interference coatings. springer. p. 111. isbn 978-3-540-36386-6.
+
+^ ronen, y. (2006). "a rule for determining fissile isotopes". nuclear science and engineering. 152 (3): 334–335. doi:10.13182/nse06-a2588. issn 0029-5639.
+
+^ a b ronen, y. (2010). "some remarks on the fissile isotopes". annals of nuclear energy. 37 (12): 1783–1784. doi:10.1016/j.anucene.2010.07.006.
+
+^ "plutonium". world nuclear association. 2017. retrieved 29 september 2017.
+
+^ a b c greenwood & earnshaw 1997, p. 1259.
+
+^ "interactive chart of nuclides". brookhaven national laboratory. retrieved 12 august 2013.
+
+^ "thorium test begins". world nuclear news. 2013. retrieved 21 july 2013.
+
+^ "iaea-tecdoc-1450 thorium fuel cycle-potential benefits and challenges" (pdf). international atomic energy agency. 2005. retrieved 23 march 2009.
+
+^ a b langford, r. e. (2004). introduction to weapons of mass destruction: radiological, chemical, and biological. john wiley & sons. p. 85. isbn 978-0-471-46560-7.
+
+^ stoll 2005, p. 30.
+
+^ a b nakajima, ts.; groult, h. (2005). fluorinated materials for energy conversion. elsevier. pp. 562–565. isbn 978-0-08-044472-7.
+
+^ rees, e. (2011). "don't believe the spin on thorium being a greener nuclear option". the guardian. retrieved 29 september 2017.
+
+^ sovacool, b. k.; valentine, s. v. (2012). the national politics of nuclear power: economics, security, and governance. routledge. p. 226. isbn 978-1-136-29437-2.
+
+^ "nuclear energy faqs" (pdf). argonne national laboratory. 2014. retrieved 13 january 2018.
+
+^ findlay, t. (2011). nuclear energy and global governance: ensuring safety, security and non-proliferation. routledge. p. 9. isbn 978-1-136-84993-0.
+
+^ a b c "thorium: radiation protection". united states environmental protection agency. archived from the original on 1 october 2006. retrieved 27 february 2016.
+
+^ a b "radioactivity in lantern mantles". australian radiation protection and nuclear safety agency. archived from the original on 14 october 2007. retrieved 29 september 2017.
+
+^ "natural decay series: uranium, radium, and thorium" (pdf). argonne national laboratory. 2005. archived from the original (pdf) on 17 august 2016. retrieved 30 september 2017.
+
+^ a b c d stoll 2005, p. 35.
+
+^ luetzelschwab, j. w.; googins, s. w. (1984). "radioactivity released from burning gas lantern mantles". health phys. 46 (4): 873–881. doi:10.1097/00004032-198404000-00013. pmid 6706595.
+
+^ huyskens, c. j.; hemelaar, j. t.; kicken, p. j. (1985). "dose estimates for exposure to radioactivity in gas mantles". sci. total environ. 45: 157–164. bibcode:1985scten..45..157h. doi:10.1016/0048-9697(85)90216-5. pmid 4081711.
+
+^ "toxicological profile for thorium" (pdf). agency for toxic substances and disease registry u.s. public health service. 1990. p. 4.
+
+^ merkel, b.; dudel, g.;  et al. (1988). untersuchungen zur radiologischen emission des uran-tailings schneckenstein (pdf) (report) (in german). sächsisches staatsministerium für umwelt und landesentwicklung. archived from the original (pdf) on 8 january 2013.
+
+^ a b stoll 2005, p. 34.
+
+^ jacobson, m.; cooper, a. r.; nagy, j. (1964). explosibility of metal powders (pdf) (report). united states department of the interior. retrieved 29 september 2017.
+
+^ associated press (1956). "nine injured in atomic lab blasts". pittsburgh post-gazette. p. 2. retrieved 29 september 2017.
+
+^ associated press (1956). "no radiation threat seen in a-laboratory blast". st. petersburg times. p. 2. retrieved 29 september 2017.
+
+^ harrington, m. (2003). "sad memories of '56 sylvania explosion". new york newsday. archived from the original on 4 february 2012. retrieved 29 september 2017.
+
+^ "thorium toxfaqs" (pdf). agency for toxic substances and disease registry. retrieved 29 september 2017.
+
+^ "compendium of policy and statutory provisions relating to exploitation of beach sand minerals". department of atomic energy. archived from the original on 4 december 2008. retrieved 19 december 2008.
+
+^ pfeiffer, w. c.; penna-franca, e.; ribeiro, c. c.; nogueira, a. r.; londres, h.; oliveira, a. e. (1981). "measurements of environmental radiation exposure dose rates at selected sites in brazil". an. acad. bras. ciênc. 53 (4): 683–691. pmid 7345962.cs1 maint: uses authors parameter (link)
+
+^ alberici, emma (29 january 2019). "italian military officials' trial ignites suspicions of links between weapon testing and birth defects in sardinia". abc news. australian broadcasting corporation. retrieved 29 january 2019.
+
+
+bibliography[edit]
+greenwood, n. n.; earnshaw, a. (1997). chemistry of the elements (2nd ed.). butterworth-heinemann. isbn 978-0-08-037941-8.
+stoll, w. (2005). "thorium and thorium compounds". ullmann's encyclopedia of industrial chemistry. wiley-vch. doi:10.1002/14356007.a27_001. isbn 978-3-527-31097-5.
+wickleder, m. s.; fourest, b.; dorhout, p. k. (2006). "thorium".  in morss, l. r.; edelstein, n. m.; fuger, j. the chemistry of the actinide and transactinide elements (pdf). 3 (3rd ed.). springer-verlag. pp. 52–160. doi:10.1007/1-4020-3598-5_3. isbn 978-1-4020-3598-2. archived from the original (pdf) on 14 december 2017.
+further reading[edit]
+jordan, b. w.; eggert, r.; dixon, b.;  et al. (2014). "thorium: does crustal abundance lead to economic availability?" (pdf). colorado school of mines. archived from the original (pdf) on 30 june 2017. retrieved 29 september 2017.
+
+
+
+look up thorium in wiktionary, the free dictionary.
+
+
+
+wikimedia commons has media related to thorium.
+vteperiodic table (large cells)
+
+
+
+
+1
+
+2
+
+3
+
+
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+
+1
+
+h
+
+
+
+he
+
+
+2
+
+li
+
+be
+
+
+
+b
+
+c
+
+n
+
+o
+
+f
+
+ne
+
+
+3
+
+na
+
+mg
+
+
+
+al
+
+si
+
+p
+
+s
+
+cl
+
+ar
+
+
+4
+
+k
+
+ca
+
+sc
+
+
+
+ti
+
+v
+
+cr
+
+mn
+
+fe
+
+co
+
+ni
+
+cu
+
+zn
+
+ga
+
+ge
+
+as
+
+se
+
+br
+
+kr
+
+
+5
+
+rb
+
+sr
+
+y
+
+
+
+zr
+
+nb
+
+mo
+
+tc
+
+ru
+
+rh
+
+pd
+
+ag
+
+cd
+
+in
+
+sn
+
+sb
+
+te
+
+i
+
+xe
+
+
+6
+
+cs
+
+ba
+
+la
+
+ce
+
+pr
+
+nd
+
+pm
+
+sm
+
+eu
+
+gd
+
+tb
+
+dy
+
+ho
+
+er
+
+tm
+
+yb
+
+lu
+
+hf
+
+ta
+
+w
+
+re
+
+os
+
+ir
+
+pt
+
+au
+
+hg
+
+tl
+
+pb
+
+bi
+
+po
+
+at
+
+rn
+
+
+7
+
+fr
+
+ra
+
+ac
+
+th
+
+pa
+
+u
+
+np
+
+pu
+
+am
+
+cm
+
+bk
+
+cf
+
+es
+
+fm
+
+md
+
+no
+
+lr
+
+rf
+
+db
+
+sg
+
+bh
+
+hs
+
+mt
+
+ds
+
+rg
+
+cn
+
+nh
+
+fl
+
+mc
+
+lv
+
+ts
+
+og
+
+
+
+
+alkali metal
+
+alkaline earth metal
+
+lan­thanide
+
+actinide
+
+transition metal
+
+post-​transition metal
+
+metalloid
+
+reactive nonmetal
+
+noble gas
+
+unknownchemicalproperties
+
+
+
+vtethorium compoundsth(ii)
+tho
+th(iv)
+tho2
+th(oh)4
+thc
+thcl4
+thf4
+thi4
+thsio4
+th(c2o4)2
+ths2
+th(no3)4
+th(c8h8)2
+
+authority control 
+bnf: cb11977429t (data)
+gnd: 4185331-3
+lccn: sh85134957
+ndl: 00573342
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=thorium&oldid=883046854"					
+categories: thoriumactinidescarcinogenschemical elementsnuclear fuelsnuclear materialshidden categories: cs1 swedish-language sources (sv)cs1 norwegian-language sources (no)cs1 german-language sources (de)cs1 french-language sources (fr)cs1: long volume valuecs1 maint: uses authors parameterfeatured articlesuse british english from october 2016use dmy dates from april 2016articles with short descriptionwikiproject elements pages using engvarwikipedia articles with bnf identifierswikipedia articles with gnd identifierswikipedia articles with lccn identifierswikipedia articles with ndl identifiers 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commonswikiversity 
+
+
+
+languages
+
+
+afrikaansአማርኛالعربيةarmãneashtiasturianuazərbaycancaবাংলাbân-lâm-gúбеларускаябеларуская (тарашкевіца)‎भोजपुरीбългарскиབོད་ཡིགbosanskibrezhonegcatalàчӑвашлаcebuanočeštinacorsucymraegdanskdeutscheestiελληνικάespañolesperantoeuskaraفارسیfiji hindiføroysktfrançaisfurlangaeilgegaelggàidhliggalegoગુજરાતી客家語/hak-kâ-ngîхальмг한국어հայերենहिन्दीhrvatskiidobahasa indonesiainterlinguaíslenskaitalianoעבריתkabɩyɛქართულიқазақшакомиkreyòl ayisyenкыргызчакырык марыlatinalatviešulëtzebuergeschlietuviųligurelimburgslivvinkarjalala .lojban.lumbaartmagyarмакедонскиമലയാളംमराठीbahasa melayumìng-dĕ̤ng-ngṳ̄монголမြန်မာဘာသာnederlandsनेपालीनेपाल भाषा日本語nordfriisknorsknorsk nynorskoccitanଓଡ଼ିଆoʻzbekcha/ўзбекчаपालिپنجابیpiemontèisplattdüütschpolskiportuguêsromânăruna simiрусскийсаха тылаसंस्कृतम्scotsseelterskshqipsicilianuසිංහලsimple englishslovenčinaslovenščinaکوردیсрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskatagalogதமிழ்татарча/tatarçaతెలుగుไทยtürkçeукраїнськаاردوئۇيغۇرچە / uyghurchevepsän kel’tiếng việt文言winaray吴语yorùbá粵語中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 12 february 2019, at 23:25 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"3.468","walltime":"3.896","ppvisitednodes":{"value":40420,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":710538,"limit":2097152},"templateargumentsize":{"value":45911,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":13,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":494169,"limit":5000000},"entityaccesscount":{"value":8,"limit":400},"timingprofile":["100.00% 3261.051      1 -total"," 39.22% 1278.828      2 template:reflist"," 23.10%  753.250      1 template:infobox_thorium"," 22.89%  746.417      1 template:infobox_element"," 20.44%  666.628      1 template:infobox"," 16.87%  550.035     55 template:cite_journal"," 10.62%  346.393      1 template:compact_periodic_table"," 10.24%  333.784      2 template:navbox","  8.66%  282.326    118 template:element_cell-compact","  7.75%  252.574    111 template:sfn"]},"scribunto":{"limitreport-timeusage":{"value":"1.577","limit":"10.000"},"limitreport-memusage":{"value":12021874,"limit":52428800}},"cachereport":{"origin":"mw1253","timestamp":"20190217180412","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":146,"wghostname":"mw1262"});});
+
+

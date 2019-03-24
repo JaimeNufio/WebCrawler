@@ -1,0 +1,663 @@
+
+
+
+
+electric power - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"electric_power","wgtitle":"electric power","wgcurrevisionid":879798229,"wgrevisionid":879798229,"wgarticleid":3270043,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["webarchive template wayback links","articles with short description","articles needing additional references from november 2012","all articles needing additional references","commons category link is locally defined","wikipedia articles with gnd identifiers","wikipedia articles with lccn identifiers","wikipedia articles with nara identifiers","wikipedia articles with ndl identifiers","electric power","electromagnetism"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"electric_power","wgrelevantarticleid":3270043,"wgrequestid":"xgyeagpamfoaaj2fxvcaaadu","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q27137","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","ext.math.scripts","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+electric power 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+rate per unit time electrical energy is transferred by an electric circuit
+ electric power is transmitted on overhead lines like these, and also on underground high-voltage cables.
+electric power is the rate, per unit time, at which electrical energy is transferred by an electric circuit. the si unit of power is the watt, one joule per second.
+electric power is usually produced by electric generators, but can also be supplied by  sources such as electric batteries.   it is usually supplied to businesses and homes (as domestic mains electricity) by the electric power industry through an electric power grid. electric power is usually sold by the kilowatt hour (3.6 mj) which is the product of the  power in kilowatts multiplied by running time in hours.  electric utilities measure power using an electricity meter, which keeps a running total of the electric energy delivered to a customer.
+electrical power provides a low entropy form of energy and can be carried long distances and converted into other forms of energy such as motion, light or heat with high energy efficiency.[1]
+
+contents
+
+1 definition
+2 explanation
+
+2.1 passive sign convention
+2.2 resistive circuits
+2.3 alternating current
+2.4 electromagnetic fields
+
+
+3 generation
+4 electric power industry
+5 use
+6 see also
+7 notes
+8 references
+9 external links
+
+
+definition[edit]
+electric power, like mechanical power, is the rate of doing work, measured in watts, and represented by the letter p. the term wattage is used colloquially to mean "electric power in watts."  the electric power in watts produced by an electric current i consisting of a charge of q coulombs every t seconds passing through an electric potential (voltage) difference of v is
+
+
+
+
+
+p
+=
+
+work done per unit time
+
+=
+
+
+
+v
+q
+
+t
+
+
+=
+v
+i
+
+
+
+{\displaystyle p={\text{work done per unit time}}={\frac {vq}{t}}=vi\,}
+
+
+where
+
+q is electric charge in coulombs
+t is time in seconds
+i is electric current in amperes
+v is electric potential or voltage in volts
+explanation[edit]
+ animation showing electric load
+electric power is transformed to other forms of energy when electric charges move through an electric potential (voltage) difference, which occurs in electrical components in electric circuits.  from the standpoint of electric power, components in an electric circuit can be divided into two categories:  
+
+passive devices or loads:  when electric charges move through a potential difference from a higher to a lower voltage, that is when conventional current (positive charge) moves from the positive (+)  terminal to the negative (−) terminal, work is done by the charges on the device. the potential energy of the charges due to the voltage between the terminals is converted to kinetic energy in the device. these devices are called passive components or loads; they 'consume' electric power from the circuit, converting it to other forms of energy such as mechanical work, heat, light, etc.  examples are electrical appliances, such as light bulbs, electric motors, and electric heaters.  in alternating current (ac) circuits the direction of the voltage periodically reverses, but the current always flows from the higher potential to the lower potential side.
+ animation showing power source
+active devices or power sources: if the charges are moved by an 'exterior force' through the device in the direction from the lower electric potential to the higher, (so positive charge moves from the negative to the positive terminal), work will be done on the charges, and energy is being converted to electric potential energy from some other type of energy, such as mechanical energy or chemical energy. devices in which this occurs are called active devices or power sources; such as electric generators and batteries.
+some devices can be either a source or a load, depending on the voltage and current through them.  for example, a rechargeable battery acts as a source when it provides power to a circuit, but as a load when it is connected to a battery charger and is being recharged, or a generator as a power source and a motor as a load.
+
+passive sign convention[edit]
+main article: passive sign convention
+since electric power can flow either into or out of a component, a convention is needed for which direction represents positive power flow. electric power flowing out of a circuit into a component is arbitrarily defined to have a positive sign, while power flowing into a circuit from a component is defined to have a negative sign. thus passive components have positive power consumption, while power sources have negative power consumption.   this is called the passive sign convention.
+
+resistive circuits[edit]
+in the case of resistive (ohmic, or linear) loads, joule's law can be combined with ohm's law (v = i·r) to produce alternative expressions for the amount of power that is dissipated:
+
+
+
+
+
+p
+=
+i
+v
+=
+
+i
+
+2
+
+
+r
+=
+
+
+
+v
+
+2
+
+
+r
+
+
+,
+
+
+{\displaystyle p=iv=i^{2}r={\frac {v^{2}}{r}},}
+
+
+where r is the electrical resistance.
+
+alternating current[edit]
+main article: ac power
+in alternating current circuits, energy storage elements such as inductance and capacitance may result in periodic reversals of the direction of energy flow. the portion of power flow that, averaged over a complete cycle of the ac waveform, results in net transfer of energy in one direction is known as real power (also referred to as active power). that portion of power flow due to stored energy, that returns to the source in each cycle, is known as reactive power. the real power p in watts consumed by a device is given by
+
+
+
+
+
+p
+=
+
+
+1
+2
+
+
+
+v
+
+p
+
+
+
+i
+
+p
+
+
+cos
+⁡
+θ
+=
+
+v
+
+
+r
+m
+s
+
+
+
+
+i
+
+
+r
+m
+s
+
+
+
+cos
+⁡
+θ
+
+
+
+{\displaystyle p={1 \over 2}v_{p}i_{p}\cos \theta =v_{\rm {rms}}i_{\rm {rms}}\cos \theta \,}
+
+
+where
+
+vp is the peak voltage in volts
+ip is the peak current in amperes
+vrms is the root-mean-square voltage in volts
+irms is the root-mean-square current in amperes
+θ is the phase angle between the current and voltage sine waves
+ power triangle: the components of ac power
+the relationship between real power, reactive power and apparent power can be expressed by representing the quantities as vectors. real power is represented as a horizontal vector and reactive power is represented as a vertical vector. the apparent power vector is the hypotenuse of a right triangle formed by connecting the real and reactive power vectors. this representation is often called the power triangle. using the pythagorean theorem, the relationship among real, reactive and apparent power is:
+
+
+
+
+
+
+
+
+(apparent power)
+
+
+
+2
+
+
+=
+
+
+
+(real power)
+
+
+
+2
+
+
++
+
+
+
+(reactive power)
+
+
+
+2
+
+
+
+
+{\displaystyle {\mbox{(apparent power)}}^{2}={\mbox{(real power)}}^{2}+{\mbox{(reactive power)}}^{2}}
+
+
+real and reactive powers can also be calculated directly from the apparent power, when the current and voltage are both sinusoids with a known phase angle θ between them:
+
+
+
+
+
+
+
+(real power)
+
+
+=
+
+
+(apparent power)
+
+
+cos
+⁡
+θ
+
+
+{\displaystyle {\mbox{(real power)}}={\mbox{(apparent power)}}\cos \theta }
+
+
+
+
+
+
+
+
+(reactive power)
+
+
+=
+
+
+(apparent power)
+
+
+sin
+⁡
+θ
+
+
+{\displaystyle {\mbox{(reactive power)}}={\mbox{(apparent power)}}\sin \theta }
+
+
+the ratio of real power to apparent power is called power factor and is a number always between 0 and 1. where the currents and voltages have non-sinusoidal forms, power factor is generalized to include the effects of distortion.
+
+electromagnetic fields[edit]
+this section does not cite any sources. please help improve this section by adding citations to reliable sources. unsourced material may be challenged and removed. (november 2012) (learn how and when to remove this template message)
+electrical energy flows wherever electric and magnetic fields exist together and fluctuate in the same place. the simplest example of this is in electrical circuits, as the preceding section showed. in the general case, however, the simple equation p = iv must be replaced by a more complex calculation, the integral of the cross-product of the electrical and magnetic field vectors over a specified area, thus:
+
+
+
+
+
+p
+=
+
+∫
+
+s
+
+
+(
+
+e
+
+×
+
+h
+
+)
+⋅
+
+d
+a
+
+.
+
+
+
+{\displaystyle p=\int _{s}(\mathbf {e} \times \mathbf {h} )\cdot \mathbf {da} .\,}
+
+
+the result is a scalar since it is the surface integral of the poynting vector.
+
+generation[edit]
+main article: electricity generation
+the fundamental principles of much electricity generation were discovered during the 1820s and early 1830s by the british scientist michael faraday.  his basic method is still used today: electricity is generated by the movement of a loop of wire, or disc of copper between the poles of a magnet.
+for electric utilities, it is the first process in the delivery of electricity to consumers. the other processes, electricity transmission, distribution, and electrical power storage and recovery using pumped-storage methods are normally carried out by the electric power industry.
+electricity is mostly generated at a power station by electromechanical generators, driven by heat engines heated by combustion, geothermal power or nuclear fission. other generators are driven by the kinetic energy of flowing water and wind. there are many other technologies that are used to generate electricity such as photovoltaic solar panels.
+a battery is a device consisting of one or more electrochemical cells that convert stored chemical energy into electrical energy.[2] since the invention of the first battery (or "voltaic pile") in 1800 by alessandro volta and especially since the technically improved daniell cell in 1836, batteries have become a common power source for many household and industrial applications. according to a 2005 estimate, the worldwide battery industry generates us$48 billion in sales each year,[3] with 6% annual growth. there are two types of batteries: primary batteries (disposable batteries), which are designed to be used once and discarded, and secondary batteries (rechargeable batteries), which are designed to be recharged and used multiple times. batteries come in many sizes, from miniature cells used to power hearing aids and wristwatches to battery banks the size of rooms that provide standby power for telephone exchanges and computer data centers.
+
+electric power industry[edit]
+main article: electric power industry
+the electric power industry provides the production and delivery of power, in sufficient quantities to areas that need electricity, through a grid connection. the grid distributes electrical energy to customers. electric power is generated by central power stations or by distributed generation. the electric power industry has gradually been trending towards deregulation - with emerging players offering consumers competition to the traditional public utility companies.[4]
+
+use[edit]
+electric power, produced from central generating stations and distributed over an electrical transmission grid, is widely used in industrial, commercial and consumer applications. the per capita electric power consumption of a country correlates with its industrial development. [5]  electric motors power manufacturing machinery and propel subways and railway trains. electric lighting is the most important form of artificial light. electrical energy is used directly in processes such as extraction of aluminum from its ores and in production of steel in electric arc furnaces. reliable electric power is essential to telecommunications and broadcasting. electric power is used to provide air conditioning in hot climates, and in some places electric power is an economically competitive source of energy for building space heating. use of electric power for pumping water ranges from individual household wells to irrigation projects and energy storage projects.
+
+see also[edit]
+
+
+energy portal
+egrid
+electric energy consumption
+electric power system
+high-voltage cable
+power engineering
+power station
+rural electrification
+notes[edit]
+
+
+^ 
+smith, clare (2001). environmental physics. london, united kingdom: routledge. isbn 0-415-20191-8..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ "battery" (def. 4b), merriam-webster online dictionary (2009). retrieved 25 may 2009.
+
+^ power shift: dfj on the lookout for more power source investments archived 2005-12-01 at the wayback machine. draper fisher jurvetson. retrieved 20 november 2005.
+
+^ the opportunity of energy group-buying enpowered, april 18, 2016,
+
+^ ignacio j. pérez-arriaga (ed), regulation of the power sector, springer science & business media, 2014 isbn 1447150341, page 8 
+
+
+references[edit]
+reports on august 2003 blackout, north american electric reliability council website
+croft, terrell; summers, wilford i. (1987). american electricians' handbook (eleventh ed.). new york: mcgraw hill. isbn 0-07-013932-6.
+fink, donald g.; beaty, h. wayne (1978). standard handbook for electrical engineers (eleventh ed.). new york: mcgraw hill. isbn 0-07-020974-x.
+external links[edit]
+
+
+
+wikimedia commons has media related to electricity.
+u.s. department of energy: electric power
+globtek, inc. glossary of electric power power supply terms
+platform of electric sector
+vteelectricity deliveryconcepts
+availability factor
+automatic generation control
+backfeeding
+base load
+capacity factor
+demand factor
+droop speed control
+economic dispatch
+electric power
+demand management
+eroei
+fault
+home energy storage
+grid storage
+intermittency
+load factor
+load following
+nameplate capacity
+peak demand
+power quality
+power-flow study
+repowering
+utility frequency
+variability
+sourcesnonrenewable
+coal
+fossil fuel power station
+natural gas
+petroleum
+nuclear
+oil shale
+renewable
+biomass
+biofuel
+geothermal
+hydro
+marine
+current
+osmotic
+thermal
+tidal
+wave
+solar
+wind
+generation
+ac power
+cogeneration
+combined cycle
+cooling tower
+induction generator
+micro chp
+microgeneration
+rankine cycle
+three-phase electric power
+virtual power plant
+transmissionand distribution
+demand response
+distributed generation
+dynamic demand
+electric power distribution
+electrical busbar system
+electric power system
+electric power transmission
+electrical grid
+electrical interconnector
+high-voltage direct current
+high-voltage shore connection
+load management
+mains electricity by country
+power line
+power station
+power storage
+pumped hydro
+smart grid
+substation
+super grid
+transformer
+transmission system operator (tso)
+transmission tower
+utility pole
+failure modes
+blackout (rolling blackout)
+brownout
+black start
+cascading failure
+protectivedevices
+arc-fault circuit interrupter
+earth leakage circuit breaker
+residual-current device (gfi)
+power-system protection
+protective relay
+digital protective relay
+sulfur hexafluoride circuit breaker
+economicsand policies
+carbon offset
+cost of electricity by source
+ecotax
+energy subsidies
+feed-in tariff
+fossil-fuel phase-out
+net metering
+pigovian tax
+renewable energy certificates
+renewable energy payments
+renewable energy policy
+spark/dark/quark/bark spread
+statistics and production
+list of electricity sectors
+electric energy consumption
+
+categories
+electric power distribution
+electricity economics
+power station technology
+portals
+energy
+renewable energy
+sustainable development
+
+authority control 
+gnd: 4151723-4
+lccn: sh85041875
+nara: 10638903
+ndl: 00561409
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=electric_power&oldid=879798229"					
+categories: electric powerelectromagnetismhidden categories: webarchive template wayback linksarticles with short descriptionarticles needing additional references from november 2012all articles needing additional referencescommons category link is locally definedwikipedia articles with gnd identifierswikipedia articles with lccn identifierswikipedia articles with nara identifierswikipedia articles with ndl identifiers 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+afrikaansالعربيةবাংলাbân-lâm-gúбеларускаябългарскиboarischcatalàčeštinacymraegdanskdeutscheestiελληνικάespañolesperantoeuskaraفارسیfrançaisgaeilge한국어հայերենहिन्दीhrvatskibahasa indonesiaᐃᓄᒃᑎᑐᑦ/inuktitutitalianoעבריתқазақшаkreyòl ayisyenkurdîlietuviųмакедонскиမြန်မာဘာသာnederlands日本語nordfriisknorsknorsk nynorskoʻzbekcha/ўзбекчаਪੰਜਾਬੀپنجابیpolskiportuguêsromânăрусскийscotsseelterskසිංහලsimple englishslovenčinaсрпски / srpskisuomisvenskaதமிழ்ไทยtürkçeукраїнськаاردوtiếng việt粵語中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 23 january 2019, at 13:16 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.348","walltime":"0.559","ppvisitednodes":{"value":1061,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":46169,"limit":2097152},"templateargumentsize":{"value":1185,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":10774,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  397.315      1 -total"," 34.22%  135.978      1 template:reflist"," 22.40%   88.998      1 template:commonscat"," 20.14%   80.019      3 template:cite_book","  9.77%   38.809      1 template:unreferenced_section","  9.53%   37.864      1 template:isbn","  8.92%   35.459      1 template:short_description","  8.25%   32.776      1 template:authority_control","  8.25%   32.776      1 template:unreferenced","  8.23%   32.706      1 template:pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.151","limit":"10.000"},"limitreport-memusage":{"value":5112540,"limit":52428800}},"cachereport":{"origin":"mw1249","timestamp":"20190215000559","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"electric power","url":"https:\/\/en.wikipedia.org\/wiki\/electric_power","sameas":"http:\/\/www.wikidata.org\/entity\/q27137","mainentity":"http:\/\/www.wikidata.org\/entity\/q27137","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2005-11-29t03:26:19z","datemodified":"2019-01-23t13:16:54z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/84\/nigu_strain_tower.jpg","headline":"rate at which electric energy is transferred by an electric circuit"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":118,"wghostname":"mw1255"});});
+
+

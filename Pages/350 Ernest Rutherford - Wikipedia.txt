@@ -1,0 +1,934 @@
+
+
+
+
+ernest rutherford - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"ernest_rutherford","wgtitle":"ernest rutherford","wgcurrevisionid":883039580,"wgrevisionid":883039580,"wgarticleid":9603,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["cs1: julian–gregorian uncertainty","webarchive template wayback links","wikipedia indefinitely move-protected pages","wikipedia indefinitely semi-protected pages","use new zealand english from august 2016","all wikipedia articles written in new zealand english","use dmy dates from october 2014","infobox person using alma mater","articles with hcards","all articles with unsourced statements","articles with unsourced statements from august 2017","wikipedia articles incorporating a citation from the odnb","all articles with dead external links","articles with dead external links from april 2018","articles with permanently dead external links","wikipedia articles with bibsys identifiers","wikipedia articles with bne identifiers","wikipedia articles with bnf identifiers","wikipedia articles with gnd identifiers","wikipedia articles with isni identifiers","wikipedia articles with lccn identifiers","wikipedia articles with mgp identifiers","wikipedia articles with ndl identifiers","wikipedia articles with nkc identifiers","wikipedia articles with nla identifiers","wikipedia articles with selibr identifiers","wikipedia articles with snac-id identifiers","wikipedia articles with sudoc identifiers","wikipedia articles with viaf identifiers","wikipedia articles with worldcat-viaf identifiers","ac with 14 elements","1871 births","1937 deaths","experimental physicists","new zealand nuclear physicists","british nuclear physicists","british chemists","british physicists","new zealand physicists","radio pioneers","nobel laureates in chemistry","recipients of the copley medal","mcgill university faculty","presidents of the royal society","new zealand fellows of the royal society","members of the pontifical academy of sciences","honorary members of the russian academy of sciences (1917–25)","honorary members of the ussr academy of sciences","fellows of trinity college, cambridge","university of canterbury alumni","academics of the victoria university of manchester","barons in the peerage of the united kingdom","knights bachelor","people from the tasman district","english people of scottish descent","new zealand people of english descent","new zealand people of scottish descent","british nobel laureates","english nobel laureates","new zealand nobel laureates","burials at westminster abbey","fellows of the royal society of new zealand","persons of national historic significance (canada)","people educated at nelson college","faraday lecturers","presidents of the institute of physics","honorary fellows of the royal society of edinburgh","corresponding members of the russian academy of sciences (1917–25)","new zealand recipients of a british peerage","ernest rutherford","new zealand emigrants to the united kingdom","20th-century british physicists","19th-century british physicists","20th-century british scientists","19th-century new zealand scientists","new zealand members of the order of merit"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"ernest_rutherford","wgrelevantarticleid":9603,"wgrequestid":"xgv1wgpaaemaaeltxhaaaabf","wgcspnonce":false,"wgisprobablyeditable":false,"wgrelevantpageisprobablyeditable":false,"wgrestrictionedit":["autoconfirmed"],"wgrestrictionmove":["sysop"],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q9123","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ernest rutherford 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+"lord rutherford" redirects here. it is not to be confused with lord rutherfurd or andrew rutherford, 1st earl of teviot.
+
+
+the right honourablethe lord rutherford of nelsonom frspresident of the royal societyin office1925–1930preceded bysir charles scott sherringtonsucceeded bysir frederick gowland hopkins
+personal detailsborn(1871-08-30)30 august 1871brightwater, new zealanddied19 october 1937(1937-10-19) (aged 66)cambridge, englandcitizenshipbritish subjectnationalitynew zealanderresidencenew zealand, united kingdomsignaturealma matercanterbury college, university of new zealanduniversity of cambridgeknown for
+discovery of alpha and beta radioactivity
+discovery of atomic nucleus (rutherford model)
+rutherford scatteringrutherford backscattering spectroscopy
+discovery of proton
+rutherford (unit)
+coining the term 'artificial disintegration'
+awards
+rumford medal (1904)
+nobel prize in chemistry (1908)
+barnard medal (1910)
+elliott cresson medal (1910)
+matteucci medal (1913)
+copley medal (1922)
+franklin medal (1924)
+albert medal (1928)
+faraday medal (1930)
+wilhelm exner medal (1936)
+faraday lectureship prize (1936)
+scientific careerfieldsphysics and chemistryinstitutionsmcgill universityuniversity of manchesteruniversity of cambridgeacademic advisorsalexander bickertonj. j. thomson[1]doctoral students
+nazir ahmed
+norman alexander
+edward victor appleton
+robert william boyle
+james chadwick
+rafi muhammad chaudhry
+norman featherdaulat singh kothari
+alexander mcaulay
+cecil powell
+henry dewolf smyth
+ernest walton
+evan james williams
+c. e. wynn-williams
+yulii borisovich khariton
+other notable students
+edward andrade
+patrick blackett
+niels bohr
+bertram boltwood
+harriet brooks
+teddy bullard
+john cockcroft
+charles galton darwin
+charles drummond ellis
+kazimierz fajans
+hans geiger
+otto hahn
+douglas hartree
+pyotr kapitsa
+george laurence
+iven mackay
+ernest marsden
+mark oliphant
+thomas royds
+frederick soddy
+influencedhenry moseleyhans geigeralbert beaumont wood
+
+ernest rutherford, 1st baron rutherford of nelson, om, frs[2] hfrse lld (30 august 1871 – 19 october 1937), was a new zealand-born british physicist who came to be known as the father of nuclear physics.[3] encyclopædia britannica considers him to be the greatest experimentalist since michael faraday (1791–1867).[3]
+in early work, rutherford discovered the concept of radioactive half-life, the radioactive element radon,[4] and differentiated and named alpha and beta radiation.[5]  this work was performed at mcgill university in canada. it is the basis for the nobel prize in chemistry he was awarded in 1908 "for his investigations into the disintegration of the elements, and the chemistry of radioactive substances",[6] for which he was the first canadian and oceanian nobel laureate.
+rutherford moved in 1907 to the victoria university of manchester (today university of manchester) in the uk, where he and thomas royds proved that alpha radiation is helium nuclei.[7][8]   rutherford performed his most famous work after he became a nobel laureate.[6]  in 1911, although he could not prove that it was positive or negative,[9]
+he theorized that atoms have their charge  concentrated in a very small nucleus,[10]
+and thereby pioneered the rutherford model of the atom, through his discovery and interpretation of rutherford scattering by the  gold foil experiment of hans geiger and ernest marsden. he conducted research that led to the first "splitting" of the atom in 1917 in a nuclear reaction between nitrogen and alpha particles, in which he also discovered (and named) the proton.[11]
+rutherford became director of the cavendish laboratory at the university of cambridge  in 1919. under his leadership the neutron was discovered by james chadwick in 1932 and in the same year the first experiment to split the nucleus in a fully controlled manner was performed by students working under his direction, john cockcroft and ernest walton. after his death in 1937, he was honoured by being interred with the greatest scientists of the united kingdom, near sir isaac newton's tomb in westminster abbey. the chemical element rutherfordium (element 104) was named after him in 1997.
+
+contents
+
+1 biography
+
+1.1 early life and education
+1.2 later years and honours
+
+
+2 scientific research
+
+2.1 gold foil experiment
+
+
+3 legacy
+
+3.1 nuclear physics
+3.2 items named in honour of rutherford's life and work
+
+
+4 incidences of cancer at rutherford's former laboratory
+5 publications
+
+5.1 articles
+
+
+6 styles of address and arms
+
+6.1 styles of address
+6.2 arms
+
+
+7 see also
+8 references
+9 further reading
+10 external links
+
+
+biography
+early life and education
+ rutherford aged 21
+ernest rutherford was the son of james rutherford, a farmer, and his wife martha thompson, originally from hornchurch, essex, england.[12] james had emigrated to new zealand from perth, scotland, "to raise a little flax and a lot of children". ernest was born at brightwater, near nelson, new zealand. his first name was mistakenly spelled 'earnest' when his birth was registered.[13] rutherford's mother martha thompson was a schoolteacher.[14]
+he studied at havelock school and then nelson college and won a scholarship to study at canterbury college, university of new zealand, where he participated in the debating society and played rugby.[15] after gaining his ba, ma and bsc, and doing two years of research during which he invented a new form of radio receiver, in 1895 rutherford was awarded an 1851 research fellowship from the royal commission for the exhibition of 1851,[16] to travel to england for postgraduate study at the cavendish laboratory, university of cambridge.[17] he was among the first of the 'aliens' (those without a cambridge degree) allowed to do research at the university, under the inspiring leadership of j. j. thomson,[citation needed] which aroused jealousies from the more conservative members of the cavendish fraternity. with thomson's encouragement, he managed to detect radio waves at half a mile and briefly held the world record for the distance over which electromagnetic waves could be detected, though when he presented his results at the british association meeting in 1896, he discovered he had been outdone by another lecturer, by the name of marconi.
+in 1898, thomson recommended rutherford for a position at mcgill university in montreal, canada. he was to replace hugh longbourne callendar who held the chair of macdonald professor of physics and was coming to cambridge.[18] rutherford was accepted, which meant that in 1900 he could marry mary georgina newton (1876–1954)[19][20] to whom he had become engaged before leaving new zealand; they married at st paul's anglican church, papanui in christchurch,[21][22] they had one daughter, eileen mary (1901–1930), who married ralph fowler. in 1901, he gained a dsc from the university of new zealand.[17] in 1907, rutherford returned to britain to take the chair of physics at the victoria university of manchester.
+
+later years and honours
+he was knighted in 1914.[23] during world war i, he worked on a top secret project to solve the practical problems of submarine detection by sonar.[24] in 1916, he was awarded the hector memorial medal. in 1919, he returned to the cavendish succeeding j. j. thomson as the cavendish professor and director. under him, nobel prizes were awarded to james chadwick for discovering the neutron (in 1932), john cockcroft and ernest walton for an experiment which was to be known as splitting the atom using a particle accelerator, and edward appleton for demonstrating the existence of the ionosphere. in 1925, rutherford pushed calls to the government of new zealand to support education and research, which led to the formation of the department of scientific and industrial research (dsir) in the following year.[25] between 1925 and 1930, he served as president of the royal society, and later as president of the academic assistance council which helped almost 1,000 university refugees from germany.[3] he was appointed to the order of merit in the 1925 new year honours[26] and raised to the peerage as baron rutherford of nelson, of cambridge in the county of cambridge in 1931,[27] a title that became extinct upon his unexpected death in 1937. in 1933, rutherford was one of the two inaugural recipients of the t. k. sidey medal, set up by the royal society of new zealand as an award for outstanding scientific research.[28][29]
+
+ lord rutherford's grave in westminster abbey
+for some time before his death, rutherford had a small hernia, which he had neglected to have fixed, and it became strangulated, causing him to be violently ill.  despite an emergency operation in london, he died four days afterwards of what physicians termed "intestinal paralysis", at cambridge.[30]  after cremation at golders green crematorium,[30]  he was given the high honour of burial in westminster abbey, near isaac newton and other illustrious british scientists.[31]
+
+scientific research
+ ernest rutherford at mcgill university in 1905
+at cambridge, rutherford started to work with j. j. thomson on the conductive effects of x-rays on gases, work which led to the discovery of the electron which thomson presented to the world in 1897. hearing of becquerel's experience with uranium, rutherford started to explore its radioactivity, discovering two types that differed from x-rays in their penetrating power. continuing his research in canada, he coined the terms alpha ray and beta ray in 1899 to describe the two distinct types of radiation. he then discovered that thorium gave off a gas which produced an emanation which was itself radioactive and would coat other substances. he found that a sample of this radioactive material of any size invariably took the same amount of time for half the sample to decay – its "half-life" (11½ minutes in this case).
+from 1900 to 1903, he was joined at mcgill by the young chemist frederick soddy (nobel prize in chemistry, 1921) for whom he set the problem of identifying the thorium emanations. once he had eliminated all the normal chemical reactions, soddy suggested that it must be one of the inert gases, which they named thoron (later found to be an isotope of radon). they also found another type of thorium they called thorium x, and kept on finding traces of helium. they also worked with samples of "uranium x" from william crookes and radium from marie curie.
+in 1903, they published their "law of radioactive change," to account for all their experiments. until then, atoms were assumed to be the indestructible basis of all matter and although curie had suggested that radioactivity was an atomic phenomenon, the idea of the atoms of radioactive substances breaking up was a radically new idea. rutherford and soddy demonstrated that radioactivity involved the spontaneous disintegration of atoms into other, as yet, unidentified matter. the nobel prize in chemistry 1908 was awarded to ernest rutherford "for his investigations into the disintegration of the elements, and the chemistry of radioactive substances".
+in 1903, rutherford considered a type of radiation discovered (but not named) by french chemist paul villard in 1900, as an emission from radium, and realised that this observation must represent something different from his own alpha and beta rays, due to its very much greater penetrating power. rutherford therefore gave this third type of radiation the name of gamma ray. all three of rutherford's terms are in standard use today – other types of radioactive decay have since been discovered, but rutherford's three types are among the most common.
+in manchester, he continued to work with alpha radiation. in conjunction with hans geiger, he developed zinc sulfide scintillation screens and ionisation chambers to count alphas. by dividing the total charge they produced by the number counted, rutherford decided that the charge on the alpha was two. in late 1907, ernest rutherford and thomas royds allowed alphas to penetrate a very thin window into an evacuated tube. as they sparked the tube into discharge, the spectrum obtained from it changed, as the alphas accumulated in the tube. eventually, the clear spectrum of helium gas appeared, proving that alphas were at least ionised helium atoms, and probably helium nuclei.
+
+gold foil experiment
+ top: expected results: alpha particles passing through the plum pudding model of the atom undisturbed. bottom: observed results: a small portion of the particles were deflected, indicating a small, concentrated charge. note that the image is not to scale; in reality the nucleus is vastly smaller than the electron shell.
+rutherford performed his most famous work after receiving the nobel prize in 1908. along with hans geiger and ernest marsden in 1909, he carried out the geiger–marsden experiment, which demonstrated the nuclear nature of atoms by deflecting alpha particles passing through a thin gold foil. rutherford was inspired to ask geiger and marsden in this experiment to look for alpha particles with very high deflection angles, of a type not expected from any theory of matter at that time. such deflections, though rare, were found, and proved to be a smooth but high-order function of the deflection angle. it was rutherford's interpretation of this data that led him to formulate the rutherford model of the atom in 1911 – that a very small charged[9] nucleus, containing much of the atom's mass, was orbited by low-mass electrons.
+in 1919–1920, rutherford found that nitrogen and other light elements ejected a proton (rutherford said "a hydrogen atom" rather than "a proton") when hit with α (alpha) particles.[32] this result showed rutherford that hydrogen nuclei were a part of nitrogen nuclei (and by inference, probably other nuclei as well). such a construction had been suspected for many years on the basis of atomic weights which were whole numbers of that of hydrogen; see prout's hypothesis. hydrogen was known to be the lightest element, and its nuclei presumably the lightest nuclei. now, because of all these considerations, rutherford decided that a hydrogen nucleus was possibly a fundamental building block of all nuclei, and also possibly a new fundamental particle as well, since nothing was known from the nucleus that was lighter. thus, confirming and extending the work of wilhelm wien who in 1898 discovered the proton in streams of ionized gas,[33] rutherford postulated the hydrogen nucleus to be a new particle in 1920, which he dubbed the proton.
+in 1921, while working with niels bohr (who postulated that electrons moved in specific orbits), rutherford theorized about the existence of neutrons, (which he had christened in his 1920 bakerian lecture), which could somehow compensate for the repelling effect of the positive charges of protons by causing an attractive nuclear force and thus keep the nuclei from flying apart from the repulsion between protons. the only alternative to neutrons was the existence of "nuclear electrons" which would counteract some of the proton charges in the nucleus, since by then it was known that nuclei had about twice the mass that could be accounted for if they were simply assembled from hydrogen nuclei (protons). but how these nuclear electrons could be trapped in the nucleus, was a mystery.
+rutherford's theory of neutrons was proved in 1932 by his associate james chadwick, who recognized neutrons immediately when they were produced by other scientists and later himself, in bombarding beryllium with alpha particles. in 1935, chadwick was awarded the nobel prize in physics for this discovery.
+
+legacy
+ a plaque commemorating rutherford's presence at the university of manchester
+nuclear physics
+rutherford's research, and work done under him as laboratory director, established the nuclear structure of the atom and the essential nature of radioactive decay as a nuclear process. patrick blackett, a research fellow working under rutherford, using natural alpha particles, demonstrated induced nuclear transmutation. rutherford's team later, using protons from an accelerator, demonstrated artificially-induced nuclear reactions and transmutation. he is known as the father of nuclear physics. rutherford died too early to see leó szilárd's idea of controlled nuclear chain reactions come into being. however, a speech of rutherford's about his artificially-induced transmutation in lithium, printed in 12 september 1933 london paper the times, was reported by szilárd to have been his inspiration for thinking of the possibility of a controlled energy-producing nuclear chain reaction. szilard had this idea while walking in london, on the same day.
+rutherford's speech touched on the 1932 work of his students john cockcroft and ernest walton in "splitting" lithium into alpha particles by bombardment with protons from a particle accelerator they had constructed. rutherford realized that the energy released from the split lithium atoms was enormous, but he also realized that the energy needed for the accelerator, and its essential inefficiency in splitting atoms in this fashion, made the project an impossibility as a practical source of energy (accelerator-induced fission of light elements remains too inefficient to be used in this way, even today). rutherford's speech in part, read:
+
+.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}we might in these processes obtain very much more energy than the proton supplied, but on the average we could not expect to obtain energy in this way. it was a very poor and inefficient way of producing energy, and anyone who looked for a source of power in the transformation of the atoms was talking moonshine. but the subject was scientifically interesting because it gave insight into the atoms.[34]
+
+items named in honour of rutherford's life and work
+ a statue of  a young ernest rutherford at his memorial in brightwater, new zealand.
+scientific discoveries
+the element rutherfordium, rf, z=104. (1997)[35]
+the rutherford (rd), an obsolete unit of radioactivity equivalent to one megabecquerel.
+institutions
+rutherford appleton laboratory, a scientific research laboratory near didcot, oxfordshire.
+rutherford college, auckland, a school in auckland, new zealand
+rutherford college, kent, a college at the university of kent in canterbury, england
+rutherford institute for innovation at the university of cambridge
+rutherford intermediate school, wanganui, new zealand
+rutherford hall, a hall of residence at loughborough university
+awards
+rutherford medal, the highest science medal awarded by the royal society of new zealand
+rutherford award at thomas carr college for excellence in victorian certificate of education chemistry, australia.
+rutherford memorial medal is an award for research in the fields of physics and chemistry by the royal society of canada.
+rutherford medal and prize is awarded once every two years by the institute of physics for "distinguished research in nuclear physics or nuclear technology".
+rutherford memorial lecture is an international lecture tour under the auspices of the royal society created under the rutherford memorial scheme in 1952.
+buildings
+rutherford house, a boarding house at nelson college[36]
+rutherford hotel, nelson's largest hotel, which incorporates the rutherford cafe and bar
+the physics and chemistry building at the university of canterbury, new zealand
+rochester and rutherford hall at the university of canterbury, new zealand
+rutherford house, the primary building of victoria university of wellington's pipitea campus, originally the headquarters of the new zealand electricity department, in wellington, new zealand.
+rutherford building at bedford modern school.
+a building of the modern cavendish laboratory at the university of cambridge
+the ernest rutherford physics building at mcgill university, montreal[37]
+the coupland building at the university of manchester, where rutherford worked, was renamed "the rutherford building" in 2006.
+the rutherford lecture theatre in the schuster laboratory at the university of manchester
+major streets
+lord rutherford road (the location of his birthplace in brightwater, new zealand)
+rutherford street, a major thoroughfare in central nelson, new zealand
+rutherford close, a residential street in abingdon, oxfordshire
+rutherford road in the biotechnology district of carlsbad, california
+rutherford road, commercial/residential street in vaughan, ontario, canada
+other
+rutherford park, a sports ground in nelson, new zealand
+the rutherford memorial at the site of his birth in brightwater, new zealand
+his image is on the obverse of the new zealand one hundred-dollar note (since 1992).
+the rutherford foundation, a charitable trust set up by the royal society of new zealand to support research in science and technology.[38]
+rutherford house, at macleans college, auckland, new zealand
+rutherford house, at hillcrest high school, hamilton, new zealand
+rutherford house, at rotorua intermediate school, rotorua, new zealand
+rutherford house, at rangiora high school
+the crater rutherford on the moon, and the crater rutherford on the planet mars
+ernest rutherford was the subject of a play by stuart hoar.
+on the side of the mond laboratory on the site of the original cavendish laboratory in cambridge, there is an engraving in rutherford's memory in the form of a crocodile, this being the nickname given to him by its commissioner, his colleague peter kapitza.
+rutherford rocket engine, an engine developed in new zealand by rocket lab and the first to use the electric pump feed cycle.
+his image is depicted in the stained glass window of the presbyterian chapel at lindisfarne college in hastings, new zealand. the window, unveiled in 2007, is dedicated to the college's concept of men with supreme content of character, and depicts rutherford along with charles upham, edmund hillary, and john rangihau as iconic examples.[39]
+incidences of cancer at rutherford's former laboratory
+the coupland building at manchester university, at which rutherford conducted many of his experiments, has been the subject of a cancer cluster investigation. there has been a statistically high incidence of pancreatic cancer, brain cancer, and motor neuron disease occurring in and around rutherford's former laboratories and, since 1984, a total of six workers have been stricken with these ailments.  in 2009, an independent commission concluded that the very slightly elevated levels of various radiation related to rutherford's experiments decades earlier are not the likely cause of such cancers and ruled the illnesses a coincidence.[40]
+
+publications
+radio-activity (1904), 2nd ed. (1905), .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}isbn 978-1-60355-058-1
+radioactive transformations (1906), isbn 978-1-60355-054-3
+radioactive substances and their radiations (1913)[41]
+the electrical structure of matter (1926)
+the artificial transmutation of the elements (1933)
+the newer alchemy (1937)
+articles
+"disintegration of the radioactive elements" harper's monthly magazine, january 1904, pages 279 to 284.
+styles of address and arms
+styles of address
+1871-1903: mr ernest rutherford
+1903-1914: mr ernest rutherford frs
+1914-1925: sir ernest rutherford frs
+1925: sir ernest rutherford om frs
+1925-1930: sir ernest rutherford om prs
+1930-1931: sir ernest rutherford om frs
+1931-1937: the right honourable the lord rutherford of nelson om frs
+arms
+
+coat of arms of ernest rutherford
+
+
+
+
+
+notes
+the arms of ernest rutherford consist of:[42][43]
+crest
+a baron's coronet.  on a helm wreathed of the colors, a kiwi proper.
+escutcheon
+per saltire arched gules and or, two inescutcheons voided of the first in fess,  within each a martlet sable.
+supporters
+dexter,  hermes trismegistus  (mythological patron of knowledge and alchemists).  sinister,  a māori warrior.
+motto
+primordia quaerere rerum ("to seek the first principles of things."   lucretius.)
+
+see also
+the rutherford journal
+references
+
+
+^ ernest rutherford and frederick soddy american physical society 2017
+
+^ eve, a. s.; chadwick, j. (1938). "lord rutherford 1871–1937". obituary notices of fellows of the royal society. 2 (6): 394. doi:10.1098/rsbm.1938.0025.
+
+^ a b c 
+"ernest rutherford, baron rutherford of nelson". encyclopædia britannica.
+
+^ nicholas p. cheremisinoff (20 april 2016). pollution control handbook for oil and gas engineering. wiley. pp. 886–. isbn 978-1-119-11788-9.
+
+^ "the discovery of radioactivity". lbl.gov. 9 august 2000.
+
+^ a b "ernest rutherford – biography". nobelprize.org. retrieved 21 february 2013.
+
+^ campbell, john. "rutherford – a brief biography". rutherford.org.nz. retrieved 4 march 2013.
+
+^ rutherford, e.; royds, t. (1908). "xxiv.spectrum of the radium emanation". philosophical magazine. series 6. 16 (92): 313. doi:10.1080/14786440808636511.
+
+^ a b 
+rutherford, ernest (1911). "the scattering of alpha and beta particles by matter and the structure of the atom". philosophical magazine. 21: 669.
+
+^ 
+longair, m. s. (2003). theoretical concepts in physics: an alternative view of theoretical reasoning in physics. cambridge university press. pp. 377–378. isbn 978-0-521-52878-8.
+
+^ ernest rutherford | nzhistory.net.nz, new zealand history online. nzhistory.net.nz (19 october 1937). retrieved on 2011-01-26.
+
+^ mclintock, a.h. (18 september 2007). "rutherford, sir ernest (baron rutherford of nelson, o.m., f.r.s.)". an encyclopaedia of new zealand (1966 ed.). te ara – the encyclopedia of new zealand. isbn 978-0-478-18451-8. retrieved 2 april 2008.
+
+^ campbell, john. "rutherford, ernest 1871–1937". dictionary of new zealand biography. ministry for culture and heritage. retrieved 4 april 2011.
+
+^ by j.l. heilbron - ernest rutherford and the explosion of atoms - oxford university press - isbn 0-19-512378-6
+
+^ campbell, john (30 october 2012). "rutherford, ernest". an encyclopaedia of new zealand. te ara – the encyclopaedia of new zealand. retrieved 1 october 2013.
+
+^ 1851 royal commission archives
+
+^ a b "rutherford, ernest (rtrt895e)". a cambridge alumni database. university of cambridge.
+
+^ 
+mckown, robin (1962). giant of the atom, ernest rutherford. julian messner inc, new york. p. 57.
+
+^ teara:the encyclopedia of new zealand story: rutherford, ernest
+
+^ birth, death and marriage historical records, new zealand government registration number 1954/19483
+
+^ "family history in from the cold". march 18, 2009.
+
+^ summerfield, fiona (9 november 2012). "historic st paul's church in the christchurch suburb of papanui is being fully restored". anglican taonga.
+
+^ "no. 12647". the edinburgh gazette. 27 february 1914. p. 269.
+
+^ alan selby (2014-11-09). "manchester scientist ernest rutherford revealed as top secret mastermind behind sonar technology". manchester evening news. retrieved 2014-11-13.
+
+^ brewerton, emma (2014-12-15). "ernest rutherford". ministry for culture and heritage.
+
+^ "no. 14089". the edinburgh gazette. 2 january 1925. p. 4.
+
+^ "no. 33683". the london gazette. 23 january 1931. p. 533.
+
+^ "background of the medal". royal society of new zealand. retrieved 7 august 2015.
+
+^ "recipients". royal society of new zealand. retrieved 7 august 2015.
+
+^ a b the complete peerage, volume xiii – peerage creations, 1901–1938. st catherine's press. 1949. p. 495.
+
+^ heilbron, j. l. (2003) ernest rutherford and the explosion of atoms.  oxford: oxford university press. pp.  123–124. isbn 0-19-512378-6.
+
+^ "atop the physics wave: rutherford back in cambridge, 1919–1937". rutherford's nuclear world: the story of the discovery of the nucleus. american institute of physics. retrieved 25 june 2018.
+
+^ wilhelm wien: über positive elektronen und die existenz hoher atomgewichte. in: annalen der physik. band 318 (4), 1904, s. 669–677.
+
+^ the times archives, 12 september 1933, "the british association – breaking down the atom"
+
+^ freemantle, michael (2003). "acs article on rutherfordium". chemical & engineering news. american chemical society. retrieved 2 april 2008.
+
+^ "rutherford house history". nelson college. nelson college. retrieved 1 april 2018.
+
+^ "ernestrutherford physics building". virtual mcgill. mcgill university. 24 january 2000. retrieved 2 april 2008.
+
+^ lord rutherford may have left a deadly legacy « lord rutherford may have left a deadly legacy « news « royal society of new zealand archived 14 october 2008 at the wayback machine. royalsociety.org.nz. retrieved on 26 january 2011.
+
+^ "'good kiwi men' reflected in chapel window". hawke's bay today. nzpa. 25 july 2007. retrieved 6 december 2016.
+
+^ brumfiel, geoff (30 september 2009). "rutherford building cancers a 'coincidence'". nature. doi:10.1038/news.2009.965.
+
+^ carmichael, r. d. (1916). "review" radioactive substances and their radiations, by e. rutherford" (pdf). bull. amer. math. soc. 22 (4): 200. doi:10.1090/s0002-9904-1916-02762-5.
+
+^ pais, abraham (1999). line of succession: heraldry of the royal families of europe. oxford: oxford university press. p. 216. isbn 978-0-19-851997-3.
+
+^ 
+"coat-of-arms of ernest rutherford". escutcheons of science. numericana.
+
+
+further reading
+badash, lawrence (2008) [2004]. "rutherford, ernest". oxford dictionary of national biography (online ed.). oxford university press. doi:10.1093/ref:odnb/35891. (subscription or uk public library membership required.)
+cragg, r. h. (1971). "lord ernest rutherford of nelson (1871-1937)". royal institute of chemistry, reviews. 4 (2): 129. doi:10.1039/rr9710400129.
+campbell, john. (1999) rutherford:  scientist supreme, aas publications, christchurch, isbn 0-4730-5700-x
+marsden, e. (1954). "the rutherford memorial lecture, 1954. rutherford-his life and work, 1871–1937". proceedings of the royal society a. 226 (1166): 283–305. bibcode:1954rspsa.226..283m. doi:10.1098/rspa.1954.0254.
+reeves, richard (2008). a force of nature: the frontier genius of ernest rutherford. new york: w. w. norton. isbn 0-393-33369-8
+rhodes, richard (1986). the making of the atomic bomb. new york: simon & schuster. isbn 0-671-44133-7
+wilson, david (1983). rutherford. simple genius, hodder & stoughton, isbn 0-340-23805-4
+external links
+
+ernest rutherfordat wikipedia's sister projects
+
+
+definitions from wiktionary
+media from wikimedia commons
+news from wikinews
+quotations from wikiquote
+texts from wikisource
+textbooks from wikibooks
+resources from wikiversity
+
+
+
+biography and web exhibit from the american institute of physics
+biography from nobel prize official website
+nobel lecture the chemical nature of the alpha particles from radioactive substances
+"radioactive change", rutherford & soddy article (1903), online and analyzed on bibnum [click 'à télécharger' for english version].
+the rutherford museum
+rutherford scientist supreme
+profile from american public broadcasting service
+profile from the new zealand edge
+annotated bibliography for ernest rutherford from the alsos digital library for nuclear issues
+biography in 1966 an encyclopaedia of new zealand
+rutherford at canterbury university college from the rutherford journal
+rutherford's timebomb article on rutherford's contribution to dating the age of the earth (nz herald, 19 may 2004)
+bbc radio 4: in our time – rutherford
+the rutherford collection at his alma mater the university of canterbury[permanent dead link]
+ernest rutherford nz post stamp, 2008 – includes link to short biography and other sources (nzhistory.net.nz)
+kennedy, bruce. "rutherford gold foil experiment". backstage science. brady haran.
+newspaper clippings about  ernest rutherford in the 20th century press archives of the german national library of economics (zbw)
+portraits of ernest rutherford at the national portrait gallery, london 
+
+
+peerage of the united kingdom
+
+
+new creation
+
+ baron rutherford of nelson1931–1937
+
+extinct
+
+vtepresidents of the royal society17th century
+viscount brouncker (1662)
+joseph williamson (1677)
+christopher wren (1680)
+john hoskyns (1682)
+cyril wyche (1683)
+samuel pepys (1684)
+earl of carbery (1686)
+earl of pembroke (1689)
+robert southwell (1690)
+charles montagu (1695)
+lord somers (1698)
+18th century
+isaac newton (1703)
+hans sloane (1727)
+martin folkes (1741)
+earl of macclesfield (1752)
+earl of morton (1764)
+james burrow (1768)
+james west (1768)
+james burrow (1772)
+john pringle (1772)
+joseph banks (1778)
+19th century
+william hyde wollaston (1820)
+humphry davy (1820)
+davies gilbert (1827)
+duke of sussex (1830)
+marquess of northampton (1838)
+earl of rosse (1848)
+lord wrottesley (1854)
+benjamin collins brodie (1858)
+edward sabine (1861)
+george biddell airy (1871)
+joseph dalton hooker (1873)
+william spottiswoode (1878)
+thomas henry huxley (1883)
+george gabriel stokes (1885)
+william thomson (1890)
+joseph lister (1895)
+20th century
+william huggins (1900)
+lord rayleigh (1905)
+archibald geikie (1908)
+william crookes (1913)
+j. j. thomson (1915)
+charles scott sherrington (1920)
+ernest rutherford (1925)
+frederick gowland hopkins (1930)
+william henry bragg (1935)
+henry hallett dale (1940)
+robert robinson (1945)
+lord adrian (1950)
+cyril norman hinshelwood (1955)
+howard florey (1960)
+patrick blackett (1965)
+alan lloyd hodgkin (1970)
+lord todd (1975)
+andrew huxley (1980)
+george porter (1985)
+sir michael atiyah (1990)
+sir aaron klug (1995)
+21st century
+lord may (2000)
+lord rees (2005)
+sir paul nurse (2010)
+sir venkatraman ramakrishnan (2015)
+
+vtepeople whose names are used in chemical element names
+vasili samarsky-bykhovets
+johan gadolin
+amerigo vespucci
+marie curie
+pierre curie
+george berkeley
+albert einstein
+enrico fermi
+dmitri mendeleev
+alfred nobel
+ernest lawrence
+ernest rutherford
+glenn t. seaborg
+niels bohr
+lise meitner
+nicolaus copernicus
+georgy flyorov
+robert livermore
+yuri oganessian
+scientists whose names are used as si units · non si units · physical constants
+vtecopley medallists (1901–1950)
+josiah willard gibbs (1901)
+joseph lister (1902)
+eduard suess (1903)
+william crookes (1904)
+dmitri mendeleev (1905)
+élie metchnikoff (1906)
+albert a. michelson (1907)
+alfred russel wallace (1908)
+george william hill (1909)
+francis galton (1910)
+george darwin (1911)
+felix klein (1912)
+ray lankester (1913)
+j. j. thomson (1914)
+ivan pavlov (1915)
+james dewar (1916)
+pierre paul émile roux (1917)
+hendrik lorentz (1918)
+william bayliss (1919)
+horace tabberer brown (1920)
+joseph larmor (1921)
+ernest rutherford (1922)
+horace lamb (1923)
+edward albert sharpey-schafer (1924)
+albert einstein (1925)
+frederick gowland hopkins (1926)
+charles scott sherrington (1927)
+charles algernon parsons (1928)
+max planck (1929)
+william henry bragg (1930)
+arthur schuster (1931)
+george ellery hale (1932)
+theobald smith (1933)
+john scott haldane (1934)
+charles thomson rees wilson (1935)
+arthur evans (1936)
+henry hallett dale (1937)
+niels bohr (1938)
+thomas hunt morgan (1939)
+paul langevin (1940)
+thomas lewis (1941)
+robert robinson (1942)
+joseph barcroft (1943)
+geoffrey ingram taylor (1944)
+oswald avery (1945)
+edgar douglas adrian (1946)
+g. h. hardy (1947)
+archibald hill (1948)
+george de hevesy (1949)
+james chadwick (1950)
+
+vtelaureates of the nobel prize in chemistry1901–1925
+1901 jacobus van 't hoff
+1902 emil fischer
+1903 svante arrhenius
+1904 william ramsay
+1905 adolf von baeyer
+1906 henri moissan
+1907 eduard buchner
+1908 ernest rutherford
+1909 wilhelm ostwald
+1910 otto wallach
+1911 marie curie
+1912 victor grignard / paul sabatier
+1913 alfred werner
+1914 theodore richards
+1915 richard willstätter
+1916
+1917
+1918 fritz haber
+1919
+1920 walther nernst
+1921 frederick soddy
+1922 francis aston
+1923 fritz pregl
+1924
+1925 richard zsigmondy
+1926–1950
+1926 theodor svedberg
+1927 heinrich wieland
+1928 adolf windaus
+1929 arthur harden / hans von euler-chelpin
+1930 hans fischer
+1931 carl bosch / friedrich bergius
+1932 irving langmuir
+1933
+1934 harold urey
+1935 frédéric joliot-curie / irène joliot-curie
+1936 peter debye
+1937 norman haworth / paul karrer
+1938 richard kuhn
+1939 adolf butenandt / leopold ružička
+1940
+1941
+1942
+1943 george de hevesy
+1944 otto hahn
+1945 artturi virtanen
+1946 james b. sumner / john northrop / wendell meredith stanley
+1947 robert robinson
+1948 arne tiselius
+1949 william giauque
+1950 otto diels / kurt alder
+1951–1975
+1951 edwin mcmillan / glenn t. seaborg
+1952 archer martin / richard synge
+1953 hermann staudinger
+1954 linus pauling
+1955 vincent du vigneaud
+1956 cyril hinshelwood / nikolay semyonov
+1957 alexander todd
+1958 frederick sanger
+1959 jaroslav heyrovský
+1960 willard libby
+1961 melvin calvin
+1962 max perutz / john kendrew
+1963 karl ziegler / giulio natta
+1964 dorothy hodgkin
+1965 robert woodward
+1966 robert s. mulliken
+1967 manfred eigen / ronald norrish / george porter
+1968 lars onsager
+1969 derek barton / odd hassel
+1970 luis federico leloir
+1971 gerhard herzberg
+1972 christian b. anfinsen / stanford moore / william stein
+1973 ernst otto fischer / geoffrey wilkinson
+1974 paul flory
+1975 john cornforth / vladimir prelog
+1976–2000
+1976 william lipscomb
+1977 ilya prigogine
+1978 peter d. mitchell
+1979 herbert c. brown / georg wittig
+1980 paul berg / walter gilbert / frederick sanger
+1981 kenichi fukui / roald hoffmann
+1982 aaron klug
+1983 henry taube
+1984 robert merrifield
+1985 herbert a. hauptman / jerome karle
+1986 dudley r. herschbach / yuan t. lee / john polanyi
+1987 donald j. cram / jean-marie lehn / charles j. pedersen
+1988 johann deisenhofer / robert huber / hartmut michel
+1989 sidney altman / thomas cech
+1990 elias corey
+1991 richard r. ernst
+1992 rudolph a. marcus
+1993 kary mullis / michael smith
+1994 george olah
+1995 paul j. crutzen / mario j. molina / f. sherwood rowland
+1996 robert curl / harold kroto / richard smalley
+1997 paul d. boyer / john e. walker / jens christian skou
+1998 walter kohn / john pople
+1999 ahmed zewail
+2000 alan j. heeger / alan macdiarmid / hideki shirakawa
+2001–present
+2001 william knowles / ryoji noyori / k. barry sharpless
+2002 john b. fenn / koichi tanaka / kurt wüthrich
+2003 peter agre / roderick mackinnon
+2004 aaron ciechanover / avram hershko / irwin rose
+2005 robert h. grubbs / richard r. schrock / yves chauvin
+2006 roger d. kornberg
+2007 gerhard ertl
+2008 osamu shimomura / martin chalfie / roger y. tsien
+2009 venkatraman ramakrishnan / thomas a. steitz / ada e. yonath
+2010 richard f. heck / akira suzuki / ei-ichi negishi
+2011 dan shechtman
+2012 robert lefkowitz / brian kobilka
+2013 martin karplus / michael levitt / arieh warshel
+2014 eric betzig / stefan hell / william e. moerner
+2015 tomas lindahl / paul l. modrich / aziz sancar
+2016 jean-pierre sauvage / fraser stoddart / ben feringa
+2017 jacques dubochet / joachim frank / richard henderson
+2018 frances arnold / greg winter / george smith
+
+vterecipients of the hector memorial medal
+leonard cockayne (1912)
+thomas hill easterfield (1913)
+elsdon best (1914)
+patrick marshall (1915)
+ernest rutherford (1916)
+charles chilton (1917)
+thomas frederic cheeseman (1918)
+philip robertson (1919)
+percy smith (1920)
+robert speight (1921)
+coleridge farr (1922)
+george hudson (1923)
+donald petrie (1924)
+bernard aston (1925)
+henry devenish skinner (1926)
+charles cotton (1927)
+duncan sommerville (1928)
+g. m. thomson (1929)
+john ernest holloway (1930)
+william percival evans (1931)
+te rangi hiroa (peter h. buck) (1932)
+john marwick, william noel benson (1933)
+charles ernest weatherburn (1934)
+william benham (1935)
+walter oliver (1936)
+john reader hosking (1937)
+herbert williams (1938)
+john arthur bartrum (1939)
+donald bannerman macleod (1940)
+harold john finlay (1941)
+harry allan (1942)
+lindsay heathcote briggs (1943)
+johannes carl andersen (1944)
+john henderson (1945)
+henry forder (1946)
+arthur william baden powell (1947)
+g. h. cunningham (1948)
+robert anthony robinson (1949)
+ernest beaglehole (1950)
+francis john turner (1951)
+keith edward bullen (1952)
+lancelot eric richdale (1953)
+lucy cranwell (1954)
+francis brian shorland (1955)
+roger duff (1956)
+harold wellman (1957)
+alister george mclellan (1958)
+barry fell (1959)
+edward edinborough chamberlain (1960)
+harry bloom (1961)
+ralph piddington (1962)
+charles alexander fleming (1963)
+derek frank lawden (1964)
+richard dell (1965)
+john thorpe holloway (1966)
+richard conrad cambie (1967)
+gilbert edward archey (1968)
+douglas saxon coombs (1969)
+brian garner wybourne (1970)
+ira james cunningham (1971)
+ted bollard (1972)
+michael philip hartshorn (1973)
+herbert dudley purves (1974)
+robert cecil hayes (1975)
+john newton dodd (1976)
+campbell stuart wemyss reid (1977)
+richard ellis ford matthews (1978)
+leon francis phillips (1979)
+graham liggins (1980)
+trevor hatherton (1981)
+roy kerr (1982)
+raymond robert forster (1983)
+rod bieleski (1984)
+peter bernard david de la mare (1985)
+robin wayne carrell (1986)
+albert james ellis (1987)
+daniel frank walls (1988)
+patricia bergquist (1989)
+peter wardle (1990)
+warren r. roper (1991)
+roger curtis green (1992)
+dick walcott (1993)
+geoffrey ernest stedman (1994)
+robert dudley jolly (1995)
+john c. butcher (1996)
+edward neill baker (1997)
+paul callaghan, jeff tallon (1998)
+george arthur frederick seber (1999)
+peter schwerdtfeger (2001)
+kenneth john dallas mackenzie (2003)
+ian h. witten (2005)
+richard furneaux (2006)
+timothy george haskell (2007)
+gaven martin (2008)
+peter steel (2009)
+grant williams (2010)
+rod downey (2011)
+margaret brimble (2012)
+richard blaikie (2013)
+marston conder (2014)
+ian brown (2015)
+stéphane coen (2016)
+sally brooker (2017)
+
+authority control 
+bibsys: 3011863
+bne: xx1468782
+bnf: cb123759185 (data)
+gnd: 118750488
+isni: 0000 0001 2137 3664
+lccn: n50024959
+mgp: 50699
+ndl: 00551327
+nkc: skuk0004924
+nla: 35183523
+selibr: 318218
+snac: w6zk5g6r
+sudoc: 027711978
+viaf: 66546175
+ worldcat identities (via viaf): 66546175
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=ernest_rutherford&oldid=883039580"					
+categories: 1871 births1937 deathsexperimental physicistsnew zealand nuclear physicistsbritish nuclear physicistsbritish chemistsbritish physicistsnew zealand physicistsradio pioneersnobel laureates in chemistryrecipients of the copley medalmcgill university facultypresidents of the royal societynew zealand fellows of the royal societymembers of the pontifical academy of scienceshonorary members of the russian academy of sciences (1917–25)honorary members of the ussr academy of sciencesfellows of trinity college, cambridgeuniversity of canterbury alumniacademics of the victoria university of manchesterbarons in the peerage of the united kingdomknights bachelorpeople from the tasman districtenglish people of scottish descentnew zealand people of english descentnew zealand people of scottish descentbritish nobel laureatesenglish nobel laureatesnew zealand nobel laureatesburials at westminster abbeyfellows of the royal society of new zealandpersons of national historic significance (canada)people educated at nelson collegefaraday lecturerspresidents of the institute of physicshonorary fellows of the royal society of edinburghcorresponding members of the russian academy of sciences (1917–25)new zealand recipients of a british peerageernest rutherfordnew zealand emigrants to the united kingdom20th-century british physicists19th-century british physicists20th-century british scientists19th-century new zealand scientistsnew zealand members of the order of merithidden categories: cs1: julian–gregorian uncertaintywebarchive template wayback linkswikipedia indefinitely move-protected pageswikipedia indefinitely semi-protected pagesuse new zealand english from august 2016all wikipedia articles written in new zealand englishuse dmy dates from october 2014infobox person using alma materarticles with hcardsall articles with unsourced statementsarticles with unsourced statements from august 2017wikipedia articles incorporating a citation from the odnball articles with dead external linksarticles with dead external links from april 2018articles with permanently dead external linkswikipedia articles with bibsys identifierswikipedia articles with bne identifierswikipedia articles with bnf identifierswikipedia articles with gnd identifierswikipedia articles with isni identifierswikipedia articles with lccn identifierswikipedia articles with mgp identifierswikipedia articles with ndl identifierswikipedia articles with nkc identifierswikipedia articles with nla identifierswikipedia articles with selibr identifierswikipedia articles with snac-id identifierswikipedia articles with sudoc identifierswikipedia articles with viaf identifierswikipedia articles with worldcat-viaf identifiersac with 14 elements 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readview sourceview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commonswikiquotewikisource 
+
+
+
+languages
+
+
+alemannischአማርኛالعربيةaragonésঅসমীয়াasturianuazərbaycancaتۆرکجهবাংলাbân-lâm-gúбашҡортсабеларускаябеларуская (тарашкевіца)‎българскиbosanskibrezhonegcatalàčeštinacorsucymraegdanskdeutscheestiελληνικάespañolesperantoeuskaraفارسیfiji hindifrançaisfryskgaeilgegàidhliggalego客家語/hak-kâ-ngî한국어հայերենहिन्दीhrvatskiidoilokanobahasa indonesiainterlinguaíslenskaitalianoעבריתbasa jawaಕನ್ನಡქართულიқазақшаkiswahilikreyòl ayisyenкыргызчаlatinalatviešulëtzebuergeschlietuviųlimburgslumbaartmagyarмакедонскиmalagasyമലയാളംमराठीმარგალურიمصرىمازِرونیbahasa melayuмонголမြန်မာဘာသာnederlandsनेपाल भाषा日本語нохчийнnorsknorsk nynorskoccitanoromoooʻzbekcha/ўзбекчаਪੰਜਾਬੀپنجابیpiemontèispolskiportuguêsqaraqalpaqsharomânăruna simiрусиньскыйрусскийᱥᱟᱱᱛᱟᱲᱤसंस्कृतम्scotsshqipසිංහලsimple englishslovenčinaslovenščinaکوردیсрпски / srpskisrpskohrvatski / српскохрватскиbasa sundasuomisvenskatagalogதமிழ்татарча/tatarçaతెలుగుไทยтоҷикӣtürkçeукраїнськаاردوtiếng việtvolapükwinaray吴语ייִדישyorùbá粵語žemaitėška中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 12 february 2019, at 22:23 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"1.268","walltime":"1.522","ppvisitednodes":{"value":17199,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":252179,"limit":2097152},"templateargumentsize":{"value":24871,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":25,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":124314,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00% 1200.191      1 -total"," 36.40%  436.813      5 template:infobox"," 34.82%  417.913      1 template:infobox_officeholder"," 23.26%  279.115      1 template:reflist","  7.87%   94.440      1 template:infobox_scientist","  7.77%   93.284      8 template:isbn","  7.67%   92.096      1 template:birth_date","  6.98%   83.724      1 template:infobox_person","  6.77%   81.246      7 template:cite_journal","  5.57%   66.827     16 template:cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.484","limit":"10.000"},"limitreport-memusage":{"value":10969686,"limit":52428800}},"cachereport":{"origin":"mw1262","timestamp":"20190219122014","ttl":86400,"transientcontent":true}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"ernest rutherford","url":"https:\/\/en.wikipedia.org\/wiki\/ernest_rutherford","sameas":"http:\/\/www.wikidata.org\/entity\/q9123","mainentity":"http:\/\/www.wikidata.org\/entity\/q9123","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2001-09-30t19:33:54z","datemodified":"2019-02-12t22:23:01z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/6e\/ernest_rutherford_loc.jpg","headline":"new zealand-born british chemist and physicist"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":150,"wghostname":"mw1272"});});
+
+

@@ -1,0 +1,3842 @@
+
+
+
+
+colorado - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"colorado","wgtitle":"colorado","wgcurrevisionid":883958120,"wgrevisionid":883958120,"wgarticleid":5399,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["cs1: julian–gregorian uncertainty","cs1 maint: archived copy as title","webarchive template wayback links","use mdy dates from february 2018","articles with short description","articles with haudio microformats","pages including recorded pronunciations (english)","articles containing potentially dated statements from 2007","all articles containing potentially dated statements","articles containing potentially dated statements from december 2018","articles containing potentially dated statements from january 2013","articles containing potentially dated statements from april 2016","articles containing potentially dated statements from 2018","wikipedia external links cleanup from april 2016","wikipedia spam cleanup from april 2016","articles with curlie links","coordinates on wikidata","wikipedia articles with bnf identifiers","wikipedia articles with gnd identifiers","wikipedia articles with isni identifiers","wikipedia articles with lccn identifiers","wikipedia articles with musicbrainz area identifiers","wikipedia articles with nara identifiers","wikipedia articles with ndl identifiers","wikipedia articles with nkc identifiers","wikipedia articles with viaf identifiers","wikipedia articles with worldcat-viaf identifiers","colorado","former spanish colonies","states and territories established in 1876","states of the united states","western united states","1876 establishments in the united states"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"colorado","wgrelevantarticleid":5399,"wgrequestid":"xgrypgpaicsaafr5xb4aaacy","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":["sysop"],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgcoordinates":{"lat":39,"lon":-105.5},"wgwikibaseitemid":"q1261","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","jquery.makecollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","jquery.makecollapsible","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+colorado 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+this article is about the u.s. state of colorado. for the river, see colorado river. for the physiographic region, see colorado plateau. for other uses, see colorado (disambiguation).
+
+
+state of the united states of america
+state of colorado
+
+
+
+flag
+seal
+nickname(s): the centennial state, colomotto(s): nil sine numine(english: nothing without providence)state song(s): "where the columbines grow" and "rocky mountain high[1]"official languageenglishdemonymcoloradancapital.mw-parser-output .nobold{font-weight:normal}(and largest city)denverlargest metrodenver-aurora-lakewood, co msaarearanked 8th  • total104,094 sq mi (269,837 km2) • width280 miles (450 km) • length380 miles (610 km) • % water0.36% • latitude37°n to 41°n • longitude102°02'48"w to 109°02'48"w
+populationranked 21st  • total5,695,564 (2018) • density52.0/sq mi  (19.9/km2)ranked 37th • median household income$70,566[2] (8th)
+elevation • highest pointmount elbert[3][4][5][6] in lake county14,440 ft (4401.2 m) • mean6,800 ft  (2070 m) • lowest pointarikaree river[4][5] at the kansas border 3,317 ft (1011 m)
+admission to unionaugust 1, 1876[7] (38th)governorjared polis (d)lieutenant governordianne primavera (d)legislaturegeneral assembly  • upper housesenate • lower househouse of representatives
+u.s. senatorsmichael bennet (d)cory gardner (r)u.s. house delegation4 democrats3 republicans (list)time zonemountain time zone: utc−7/utc−6iso 3166us-coabbreviationscowebsitewww.colorado.gov
+colorado state symbolsthe flag of coloradothe seal of coloradoliving insigniaamphibianwestern tiger salamanderambystoma mavortiumbirdlark buntingcalamospiza melanocoryuscactusclaret cup cactusechinocereus triglochidiatusfishgreenback cutthroat troutoncorhynchus clarki somiasflowerrocky mountain columbineaquilegia coeruleagrassblue grama grassbouteloua gracilisinsectcolorado hairstreakhypaurotis crysalus' 'mammalrocky mountain bighorn sheepovis canadensispetcolorado shelter petscanis lupus familiarisand felis catusreptilewestern painted turtlechrysemys picta belliitreecolorado blue sprucepicea pungensinanimate insigniacolorsblue, red, yellow, whitedinosaurstegosaurusfolk dancesquare dancechorea quadrafossilstegosaurusstegosaurus armatusgemstoneaquamarinemineralrhodochrositerockyule marbleshipuss colorado (ssn-788)slogancolorful coloradosoilseitzsportpack burro racingtartancolorado state tartanstate route markerstate quarterreleased in 2006lists of united states state symbols
+colorado (/ˌkɒləˈrædoʊ, -ˈrɑːdoʊ/ (listen), other variants)[8][9][10] is a state of the western united states encompassing most of the southern rocky mountains as well as the northeastern portion of the colorado plateau and the western edge of the great plains. it is the 8th most extensive and 21st most populous u.s. state. the estimated population of colorado was 5,695,564 on july 1, 2018, an increase of 13.25% since the 2010 united states census.[11]
+the state was named for the colorado river, which early spanish explorers named the río colorado for the ruddy silt the river carried from the mountains. the territory of colorado was organized on february 28, 1861,[12] and on august 1, 1876, u.s. president ulysses s. grant signed proclamation 230 admitting colorado to the union as the 38th state.[7] colorado is nicknamed the "centennial state" because it became a state one century after the signing of the united states declaration of independence.
+colorado is bordered by wyoming to the north, nebraska to the northeast, kansas to the east, oklahoma to the southeast, new mexico to the south, utah to the west, and touches arizona to the southwest at the four corners. colorado is noted for its vivid landscape of mountains, forests, high plains, mesas, canyons, plateaus, rivers and desert lands. colorado is part of the western and southwestern united states, and is one of the mountain states.
+denver is the capital and most populous city of colorado.  residents of the state are known as coloradans, although the antiquated term "coloradoan" is occasionally used.[13][14]
+colorado has a strong western identity and is more socially liberal than neighboring states.  same-sex marriage in colorado has been legal since 2014, and it was the first state in the u.s. to legalize recreational cannabis, and one of the first jurisdictions on earth to do so by popular referendum. the state is known for  permissive views on abortion and assisted suicide; coloradans rejected a 2008 referendum that would have criminalized abortion, and approved a measure in 2016 that legalized assisted suicide in the state, and remains one of six states (along with the district of columbia) to have legalized assisted suicide.  colorado became the first u.s. state to elect an openly gay governor, jared polis, in the 2018 gubernatorial election.
+
+contents
+
+1 geography
+
+1.1 mountains
+1.2 plains
+1.3 front range
+1.4 continental divide
+1.5 southern region
+1.6 peaks
+1.7 colorado western slope
+
+
+2 climate
+
+2.1 eastern plains
+2.2 front range foothills
+2.3 extreme weather
+2.4 records
+2.5 earthquakes
+
+
+3 history
+
+3.1 territory act
+3.2 statehood
+
+
+4 demographics
+
+4.1 birth data
+4.2 language
+4.3 religion
+4.4 health
+
+
+5 culture
+
+5.1 fine arts
+
+5.1.1 film
+
+
+5.2 cuisine
+5.3 wine and beer
+5.4 marijuana and hemp
+
+5.4.1 medicinal use
+5.4.2 recreational use
+
+
+5.5 sports
+
+5.5.1 professional sports teams
+5.5.2 college athletics
+
+
+
+
+6 economy
+
+6.1 philanthropy
+6.2 natural resources
+
+
+7 transportation
+8 government and politics
+
+8.1 state government
+8.2 counties
+
+8.2.1 metropolitan areas
+
+
+8.3 municipalities
+8.4 unincorporated communities
+8.5 special districts
+8.6 federal politics
+8.7 significant bills passed in colorado
+
+
+9 education
+10 military installations
+11 protected areas
+12 see also
+13 references
+14 further reading
+15 external links
+
+
+geography[edit]
+main article: geography of colorado
+colorado is notable for its diverse geography, which includes alpine mountains, high plains, deserts with huge sand dunes, and deep canyons.  in 1861, the united states congress defined the boundaries of the new territory of colorado exclusively by lines of latitude and longitude, stretching from 37°n to 41°n latitude, and from 102°02'48"w to 109°02'48"w longitude (25°w to 32°w from the washington meridian).[12]  after 157 years of government surveys, the borders of colorado are now officially defined by 697 boundary markers and 697 straight boundary lines.[15]  colorado, wyoming and utah are the only states that have their borders defined solely by straight boundary lines with no natural features.[16]  the southwest corner of colorado is the four corners monument at 36°59'56"n, 109°2'43"w.[17][18]  this is the only place in the united states where four states meet: colorado, new mexico, arizona, and utah.[16]
+
+ the elk mountains near aspen, colorado showing the maroon bells
+ ten mile range and dillon reservoir near breckenridge, colorado
+mountains[edit]
+see also: mountain peaks of colorado
+the summit of mount elbert at 14,440 feet (4,401.2 m) elevation in lake county is the highest point in colorado and the rocky mountains of north america.[3] colorado is the only u.s. state that lies entirely above 1,000 meters elevation. the point where the arikaree river flows out of yuma county, colorado, and into cheyenne county, kansas, is the lowest point in colorado at 3,317 feet (1,011 m) elevation. this point, which holds the distinction of being the highest low elevation point of any state,[4][19] is higher than the high elevation points of 18 states and the district of columbia.
+
+ a view of the arid high plains in southeastern colorado
+ the calhan paint mines on the colorado eastern plains
+plains[edit]
+a little less than half of colorado is flat and rolling land. east of the rocky mountains are the colorado eastern plains of the high plains, the section of the great plains within nebraska at elevations ranging from roughly 3,350 to 7,500 feet (1,020 to 2,290 m).[20] the colorado plains are mostly prairies but also include deciduous forests, buttes, and canyons. precipitation averages 15 to 25 inches (380 to 640 mm) annually.[21]
+eastern colorado is presently mainly farmland and rangeland, along with small farming villages and towns. corn, wheat, hay, soybeans, and oats are all typical crops. most villages and towns in this region boast both a water tower and a grain elevator. irrigation water is available from both surface and subterranean sources. surface water sources include the south platte, the arkansas river, and a few other streams. subterranean water is generally accessed through artesian wells. heavy use of wells for irrigation caused underground water reserves to decline. eastern colorado hosts considerable livestock, such as cattle ranches and hog farms.
+
+front range[edit]
+ front range peaks west of denver
+roughly 70% of colorado's population resides along the eastern edge of the rocky mountains in the front range urban corridor between cheyenne, wyoming, and pueblo, colorado. this region is partially protected from prevailing storms that blow in from the pacific ocean region by the high rockies in the middle of colorado. the "front range" includes denver, boulder, fort collins, loveland, castle rock, colorado springs, pueblo, greeley, and other townships and municipalities in between. on the other side of the rockies, the significant population centers in western colorado (which is not considered the "front range") are the cities of grand junction, durango, and montrose.
+
+continental divide[edit]
+ continental divide at monarch pass
+the continental divide of the americas extends along the crest of the rocky mountains. the area of colorado to the west of the continental divide is called the western slope of colorado. west of the continental divide, water flows to the southwest via the colorado river and the green river into the gulf of california.
+within the interior of the rocky mountains are several large parks which are high broad basins. in the north, on the east side of the continental divide is the north park of colorado. the north park is drained by the north platte river, which flows north into wyoming and nebraska. just to the south of north park, but on the western side of the continental divide, is the middle park of colorado, which is drained by the colorado river. the south park of colorado is the region of the headwaters of the south platte river.
+
+southern region[edit]
+ the tallest dunes in north america at great sand dunes national park in southern colorado
+in southmost colorado is the large san luis valley, where the headwaters of the rio grande are located. the valley sits between the sangre de cristo mountains and san juan mountains, and consists of large desert lands that eventually run into the mountains. the rio grande drains due south into new mexico, mexico, and texas. across the sangre de cristo range to the east of the san luis valley lies the wet mountain valley. these basins, particularly the san luis valley, lie along the rio grande rift, a major geological formation of the rocky mountains, and its branches.
+
+ the high desert lands that make up the san luis valley in southern colorado
+peaks[edit]
+main article: mountain peaks of colorado
+to the west of the great plains of colorado rises the eastern slope of the rocky mountains. notable peaks of the rocky mountains include longs peak, mount evans, pikes peak, and the spanish peaks near walsenburg, in southern colorado. this area drains to the east and the southeast, ultimately either via the mississippi river or the rio grande into the gulf of mexico.
+
+ peaks of the san juan mountains
+the rocky mountains within colorado contain 53 peaks that are 14,000 feet (4,267 m) or higher in elevation above sea level, known as fourteeners.[22] these mountains are largely covered with trees such as conifers and aspens up to the tree line, at an elevation of about 12,000 feet (3,658 m) in southern colorado to about 10,500 feet (3,200 m) in northern colorado. above this only alpine vegetation grows. only small parts of the colorado rockies are snow-covered year round.
+much of the alpine snow melts by mid-august with the exception of a few snowcapped peaks and a few small glaciers. the colorado mineral belt, stretching from the san juan mountains in the southwest to boulder and central city on the front range, contains most of the historic gold- and silver-mining districts of colorado. mount elbert is the highest summit of the rocky mountains. the 30 highest major summits of the rocky mountains of north america all lie within the state.
+
+ black canyon of the gunnison national park near montrose
+ rim arch in the black ridge canyons wilderness in western colorado
+ sandstone cliffs along the colorado river north of wolcott
+ hanging lake near glenwood springs
+colorado western slope[edit]
+ the grand valley in western colorado, a large valley made up of high desert terrain. the city of grand junction is located in the heart of the valley
+the western slope area of colorado includes the western face of the rocky mountains and all of the state to the western border. this area includes several terrains and climates from alpine mountains to arid deserts. the western slope includes many ski resort towns in the rocky mountains and towns west of the mountains. it is less populous than the front range but includes a large number of national parks and monuments.
+from west to east, the land of colorado consists of desert lands, desert plateaus, alpine mountains, national forests, relatively flat grasslands, scattered forests, buttes, and canyons in the western edge of the great plains. the famous pikes peak is located just west of colorado springs. its isolated peak is visible from nearly the kansas border on clear days, and also far to the north and the south.[23] the northwestern corner of colorado is a sparsely populated region, and it contains part of the noted dinosaur national monument, which is not only a paleontological area, but is also a scenic area of rocky hills, canyons, arid desert, and streambeds. here, the green river briefly crosses over into colorado. desert lands in colorado are located in and around areas such as the pueblo, canon city, florence, great sand dunes national park and preserve, san luis valley, cortez, canyon of the ancients national monument, hovenweep national monument, ute mountain, delta, grand junction, colorado national monument, and other areas surrounding the uncompahgre plateau and uncompahgre national forest.
+the western slope of colorado is drained by the colorado river and its tributaries (primarily the gunnison river, green river, and the san juan river), or by evaporation in its arid areas. the colorado river flows through glenwood canyon, and then through an arid valley made up of desert from rifle to parachute, through the desert canyon of de beque canyon, and into the arid desert of grand valley, where the city of grand junction is located. also prominent in or near the southern portion of the western slope are the grand mesa, which lies to the southeast of grand junction; the high san juan mountains, a rugged mountain range; and to the west of the san juan mountains, the colorado plateau, a high arid region that borders southern utah.
+
+ the colorado national monument near grand junction. the monument is made up of high desert canyons and sandstone rock formations.
+ the four corners monument, with ute mountain in the distance.
+grand junction, colorado is the largest city on the western slope. grand junction and durango are the only major centers of television broadcasting west of the continental divide in colorado, though most mountain resort communities publish daily newspapers. grand junction is located along interstate 70, the only major highway in western colorado. grand junction is also along the major railroad of the western slope, the union pacific. this railroad also provides the tracks for amtrak's california zephyr passenger train, which crosses the rocky mountains between denver and grand junction via a route on which there are no continuous highways.
+the western slope includes multiple notable destinations in the colorado rocky mountains, including glenwood springs, with its resort hot springs, and the ski resorts of aspen, breckenridge, vail, crested butte, steamboat springs, and telluride.
+higher education in and near the western slope can be found at colorado mesa university in grand junction, western colorado university in gunnison, fort lewis college in durango, and colorado mountain college in glenwood springs and steamboat springs.
+the four corners monument in the southwest corner of colorado marks the common boundary of colorado, new mexico, arizona, and utah; the only such place in the united states.
+
+see also: colorado cities and towns, list of counties in colorado, colorado municipalities, colorado rivers, and four corners monument
+
+climate[edit]
+ köppen climate types of colorado
+the climate of colorado is more complex than states outside of the mountain states region. unlike most other states, southern colorado is not always warmer than northern colorado. most of colorado is made up of mountains, foothills, high plains, and desert lands. mountains and surrounding valleys greatly affect local climate.
+as a general rule, with an increase in elevation comes a decrease in temperature and an increase in precipitation. northeast, east, and southeast colorado are mostly the high plains, while northern colorado is a mix of high plains, foothills, and mountains. northwest and west colorado are predominantly mountainous, with some desert lands mixed in. southwest and southern colorado are a complex mixture of desert and mountain areas.
+
+eastern plains[edit]
+the climate of the eastern plains is semiarid (köppen climate classification: bsk) with low humidity and moderate precipitation, usually from 15 to 25 inches (380 to 640 millimeters) annually. the area is known for its abundant sunshine and cool, clear nights, which give this area a great average diurnal temperature range. the difference between the highs of the days and the lows of the nights can be considerable as warmth dissipates to space during clear nights, the heat radiation not being trapped by clouds. the front range urban corridor, where most of the population of colorado resides, lies in a pronounced precipitation shadow as a result of being on the lee side of the rocky mountains.[24]
+in summer, this area can have many days above 95 °f (35 °c) and often 100 °f (38 °c).[25] on the plains, the winter lows usually range from 25 to −10 °f (−4 to −23 °c). about 75% of the precipitation falls within the growing season, from april to september, but this area is very prone to droughts. most of the precipitation comes from thunderstorms, which can be severe, and from major snowstorms that occur in the winter and early spring. otherwise, winters tend to be mostly dry and cold.[26]
+in much of the region, march is the snowiest month. april and may are normally the rainiest months, while april is the wettest month overall. the front range cities closer to the mountains tend to be warmer in the winter due to chinook winds which warm the area, sometimes bringing temperatures of 70 °f (21 °c) or higher in the winter.[26] the average july temperature is 55 °f (13 °c) in the morning and 90 °f (32 °c) in the afternoon. the average january temperature is 18 °f (−8 °c) in the morning and 48 °f (9 °c) in the afternoon, although variation between consecutive days can be 40 °f (20 °c).
+
+front range foothills[edit]
+just west of the plains and into the foothills, there are a wide variety of climate types. locations merely a few miles apart can experience entirely different weather depending on the topography. most valleys have a semi-arid climate not unlike the eastern plains, which transitions to an alpine climate at the highest elevations. microclimates also exist in local areas that run nearly the entire spectrum of climates, including subtropical highland (cfb/cwb), humid subtropical (cfa), humid continental (dfa/dfb), mediterranean (csa/csb) and subarctic (dfc).[27]
+
+extreme weather[edit]
+ snow highlights the rugged mountains, as well as the urban and agricultural landscapes of the colorado plains.
+extreme weather changes are common in colorado, although the majority of extreme weather occurs in the least populated areas of the state. thunderstorms are common east of the continental divide in the spring and summer, yet are usually brief. hail is a common sight in the mountains east of the divide and in the northwest part of the state. the eastern plains have had some of the biggest hail storms in north america.[21] notable examples are the severe hailstorms that hit denver on july 11, 1990[28] and may 8, 2017, the latter being the costliest ever in the state.[29]
+the eastern plains are part of the extreme western portion of tornado alley; some damaging tornadoes in the eastern plains include the 1990 limon f3 tornado and the 2008 windsor ef3 tornado, which devastated the small town.[30]
+the plains are also susceptible to occasional floods, which are caused both by thunderstorms and by the rapid melting of snow in the mountains during warm weather. notable examples include the 1965 denver flood,[31] the big thompson river flooding of 1976 and the 2013 colorado floods. hot weather is common during summers in denver. the city's record in 1901 for the number of consecutive days above 90 °f (32 °c) was broken during the summer of 2008. the new record of 24 consecutive days surpassed the previous record by almost a week.[32]
+much of colorado is a very dry state averaging only 17 inches (430 millimeters) of precipitation per year statewide and rarely experiences a time when some portion of the state is not in some degree of drought.[33] the lack of precipitation contributes to the severity of wildfires in the state, such as the hayman fire of 2002, one of the largest wildfires in american history, and the fourmile canyon fire of 2010, which until the waldo canyon fire and high park fire of june 2012, and the black forest fire of june 2013, was the most destructive wildfire in colorado's recorded history.
+
+ the yampa river, from a high overlook
+however, some of the mountainous regions of colorado receive a huge amount of moisture from winter snowfalls. the spring melts of these snows often cause great waterflows in the yampa river, the colorado river, the rio grande, the arkansas river, the north platte river, and the south platte river.
+water flowing out of the colorado rocky mountains is a very significant source of water for the farms, towns, and cities of the southwest states of new mexico, arizona, utah, and nevada, as well as the midwest, such as nebraska and kansas, and the southern states of oklahoma and texas. a significant amount of water is also diverted for use in california; occasionally (formerly naturally and consistently), the flow of water reaches northern mexico.
+
+records[edit]
+the highest ambient air temperature ever recorded in colorado was 118 °f (48 °c) on july 11, 1888, at bennett. the lowest air temperature was −61 °f (−52 °c) on february 1, 1985, at maybell.[34][35]
+
+
+monthly normal high and low temperatures for various colorado cities[36]
+
+(°f) (°c)
+
+
+city
+
+jan
+
+feb
+
+mar
+
+apr
+
+may
+
+jun
+
+jul
+
+aug
+
+sep
+
+oct
+
+nov
+
+dec
+
+
+alamosa
+
+34/−22/−19
+
+40/64/−14
+
+50/1710/−8
+
+59/2415/−4
+
+69/3321/1
+
+79/4126/5
+
+82/4728/8
+
+80/4627/8
+
+73/4023/4
+
+62/2517/−4
+
+47/128/−11
+
+35/12/−17
+
+
+colorado springs
+
+43/186/−8
+
+45/207/−7
+
+52/2611/−3
+
+60/3316/1
+
+69/4321/6
+
+79/5126/11
+
+85/5729/14
+
+82/5628/13
+
+75/4724/8
+
+63/3617/2
+
+51/2511/−4
+
+42/186/−8
+
+
+denver
+
+49/209/−7
+
+49/219/−6
+
+56/2913/−2
+
+64/3518/2
+
+73/4623/8
+
+84/5429/12
+
+92/6133/16
+
+89/6032/16
+
+81/5027/10
+
+68/3720/3
+
+55/2613/−3
+
+47/188/−8
+
+
+grand junction
+
+38/173/−8
+
+45/247/−4
+
+57/3114/-1
+
+65/3818/3
+
+76/4724/8
+
+88/5631/13
+
+93/6334/17
+
+90/6132/16
+
+80/5227/11
+
+66/4019/4
+
+51/2811/−2
+
+39/194/−7
+
+
+pueblo
+
+47/148/−10
+
+51/1711/−8
+
+59/2615/−3
+
+67/3419/1
+
+77/4425/7
+
+87/5331/12
+
+93/5934/15
+
+90/5832/14
+
+82/4828/9
+
+69/3421/1
+
+56/2313/−5
+
+46/148/−10
+
+earthquakes[edit]
+despite its mountainous terrain, colorado is relatively quiet seismically. the u.s. national earthquake information center is located in golden.
+on august 22, 2011, a 5.3 magnitude earthquake occurred 9 miles (14 km) west-southwest of the city of trinidad.[37] there were no casualties and only a small amount of damage was reported. it was the second-largest earthquake in colorado's history. a magnitude 5.7 earthquake was recorded in 1973.[38]
+in early morning hours of august 24, 2018, four minor earthquakes rattled the state of colorado ranging from magnitude 2.9 to 4.3.[39]
+colorado has recorded 525 earthquakes since 1973, a majority of which range 2 to 3.5 on the richter scale.[40]
+
+history[edit]
+ ruins of cliff palace at mesa verde national park as photographed by gustaf nordenskiöld in 1891.
+ great kiva at chimney rock in the san juan mountains of southwestern colorado. it is said to have been built by the ancient pueblo peoples.
+main articles: history of colorado and timeline of colorado history
+the region that is today the state of colorado has been inhabited by native americans for more than 13,000 years. the lindenmeier site in larimer county contains artifacts dating from approximately 11200 bc to 3000 bc. the eastern edge of the rocky mountains was a major migration route that was important to the spread of early peoples throughout the americas. the ancient pueblo peoples lived in the valleys and mesas of the colorado plateau.[41] the ute nation inhabited the mountain valleys of the southern rocky mountains and the western rocky mountains, even as far east as the front range of present day. the apache and the comanche also inhabited eastern and southeastern parts of the state. at times, the arapaho nation and the cheyenne nation moved west to hunt across the high plains.
+
+ the spanish discovering colorado in 1540, by augusto ferrer-dalmau. garcia lópez de cardenas can be seen overlooking the grand canyon
+the spanish empire claimed colorado as part of its new mexico province prior to u.s. involvement in the region.  the u.s. acquired a territorial claim to the eastern rocky mountains with the louisiana purchase from france in 1803. this u.s. claim conflicted with the claim by spain to the upper arkansas river basin as the exclusive trading zone of its colony of santa fé de nuevo méxico. in 1806, zebulon pike led a u.s. army reconnaissance expedition into the disputed region. colonel pike and his men were arrested by spanish cavalrymen in the san luis valley the following february, taken to chihuahua, and expelled from mexico the following july.
+the u.s. relinquished its claim to all land south and west of the arkansas river and south of 42nd parallel north and west of the 100th meridian west as part of its purchase of florida from spain with the adams-onís treaty of 1819. the treaty took effect february 22, 1821. having settled its border with spain, the u.s. admitted the southeastern portion of the territory of missouri to the union as the state of missouri on august 10, 1821. the remainder of missouri territory, including what would become northeastern colorado, became unorganized territory, and remained so for 33 years over the question of slavery. after 11 years of war, spain finally recognized the independence of mexico with the treaty of córdoba signed on august 24, 1821. mexico eventually ratified the adams-onís treaty in 1831. the texian revolt of 1835–36 fomented a dispute between the u.s. and mexico which eventually erupted into the mexican–american war in 1846. mexico surrendered its northern territory to the u.s. with the treaty of guadalupe hidalgo at the conclusion of the war in 1848.
+
+ map of the mexican cession, with the white representing the territory the united states received from mexico (plus land ceded to the republic of texas) after the mexican–american war. well over half of colorado was received during this treaty.
+most american settlers traveling overland west to the oregon country, namely the new goldfields of california, or the new mormon settlements of the state of deseret in the salt lake valley, avoided the rugged southern rocky mountains, and instead followed the north platte river and sweetwater river to south pass (wyoming), the lowest crossing of the continental divide between the southern rocky mountains and the central rocky mountains. in 1849, the mormons of the salt lake valley organized the extralegal state of deseret, claiming the entire great basin and all lands drained by the rivers green, grand, and colorado. the federal government of the u.s. flatly refused to recognize the new mormon government, because it was theocratic and sanctioned plural marriage. instead, the compromise of 1850 divided the mexican cession and the northwestern claims of texas into a new state and two new territories, the state of california, the territory of new mexico, and the territory of utah. on april 9, 1851, mexican american settlers from the area of taos settled the village of san luis, then in the new mexico territory, later to become colorado's first permanent euro-american settlement.
+
+ the anasazi heritage center in dolores
+in 1854, senator stephen a. douglas persuaded the u.s. congress to divide the unorganized territory east of the continental divide into two new organized territories, the territory of kansas and the territory of nebraska, and an unorganized southern region known as the indian territory. each new territory was to decide the fate of slavery within its boundaries, but this compromise merely served to fuel animosity between free soil and pro-slavery factions.
+the gold seekers organized the provisional government of the territory of jefferson on august 24, 1859, but this new territory failed to secure approval from the congress of the united states embroiled in the debate over slavery. the election of abraham lincoln for the president of the united states on november 6, 1860, led to the secession of nine southern slave states and the threat of civil war among the states. seeking to augment the political power of the union states, the republican party-dominated congress quickly admitted the eastern portion of the territory of kansas into the union as the free state of kansas on january 29, 1861, leaving the western portion of the kansas territory, and its gold-mining areas, as unorganized territory.
+
+territory act[edit]
+main articles: organic act § list of organic acts, and colorado territory
+ the territories of new mexico, utah, kansas, and nebraska before the creation of the territory of colorado
+thirty days later on february 28, 1861, outgoing u.s. president james buchanan signed an act of congress organizing the free territory of colorado.[12]  the original boundaries of colorado remain unchanged except for government survey amendments. the name colorado was chosen because it was commonly believed that the colorado river originated in the territory.[42] in 1776, spanish priest silvestre vélez de escalante recorded that native americans in the area knew the river as el rio colorado for the red-brown silt that the river carried from the mountains.[43] in 1859, a u.s. army topographic expedition led by captain john macomb located the confluence of the green river with the grand river in what is now canyonlands national park in utah.[44] the macomb party designated the confluence as the source of the colorado river.
+on april 12, 1861, south carolina artillery opened fire on fort sumter to start the american civil war. while many gold seekers held sympathies for the confederacy, the vast majority remained fiercely loyal to the union cause.
+in 1862, a force of texas cavalry invaded the territory of new mexico and captured santa fe on march 10. the object of this western campaign was to seize or disrupt the gold fields of colorado and california and to seize ports on the pacific ocean for the confederacy. a hastily organized force of colorado volunteers force-marched from denver city, colorado territory, to glorieta pass, new mexico territory, in an attempt to block the texans. on march 28, the coloradans and local new mexico volunteers stopped the texans at the battle of glorieta pass, destroyed their cannon and supply wagons, and dispersed 500 of their horses and mules. the texans were forced to retreat to santa fe. having lost the supplies for their campaign and finding little support in new mexico, the texans abandoned santa fe and returned to san antonio in defeat. the confederacy made no further attempts to seize the southwestern united states.
+in 1864, territorial governor john evans appointed the reverend john chivington as colonel of the colorado volunteers with orders to protect white settlers from cheyenne and arapaho warriors who were accused of stealing cattle. colonel chivington ordered his men to attack a band of cheyenne and arapaho encamped along sand creek. chivington reported that his troops killed more than 500 warriors. the militia returned to denver city in triumph, but several officers reported that the so-called battle was a blatant massacre of indians at peace, that most of the dead were women and children, and that bodies of the dead had been hideously mutilated and desecrated. three u.s. army inquiries condemned the action, and incoming president andrew johnson asked governor evans for his resignation, but none of the perpetrators was ever punished. this event is now known as the sand creek massacre.
+
+ mount of the holy cross was photographed by william henry jackson in 1874
+in the midst and aftermath of civil war, many discouraged prospectors returned to their homes, but a few stayed and developed mines, mills, farms, ranches, roads, and towns in colorado territory. on september 14, 1864, james huff discovered silver near argentine pass, the first of many silver strikes. in 1867, the union pacific railroad laid its tracks west to weir, now julesburg, in the northeast corner of the territory. the union pacific linked up with the central pacific railroad at promontory summit, utah, on may 10, 1869, to form the first transcontinental railroad. the denver pacific railway reached denver in june the following year, and the kansas pacific arrived two months later to forge the second line across the continent. in 1872, rich veins of silver were discovered in the san juan mountains on the ute indian reservation in southwestern colorado. the ute people were removed from the san juans the following year.
+
+statehood[edit]
+main articles: admission to the union and list of u.s. states by date of admission to the union
+ the georgetown loop of the colorado central railroad as photographed by william henry jackson in 1899
+the united states congress passed an enabling act on march 3, 1875, specifying the requirements for the territory of colorado to become a state.[45] on august 1, 1876 (four weeks after the centennial of the united states), u.s. president ulysses s. grant signed a proclamation admitting colorado to the union as the 38th state and earning it the moniker "centennial state".[7]
+the discovery of a major silver lode near leadville in 1878 triggered the colorado silver boom. the sherman silver purchase act of 1890 invigorated silver mining, and colorado's last, but greatest, gold strike at cripple creek a few months later lured a new generation of gold seekers. colorado women were granted the right to vote beginning on november 7, 1893, making colorado the second state to grant universal suffrage and the first one by a popular vote (of colorado men). the repeal of the sherman silver purchase act in 1893 led to a staggering collapse of the mining and agricultural economy of colorado, but the state slowly and steadily recovered. between the 1880s and 1930s, denver's floriculture industry developed into a major industry in colorado.[46][47] this period became known locally as the carnation gold rush.[48]
+colorado became the first western state to host a major political convention when the democratic party met in denver in 1908. by the u.s. census in 1930, the population of colorado first exceeded one million residents. colorado suffered greatly through the great depression and the dust bowl of the 1930s, but a major wave of immigration following world war ii boosted colorado's fortune. tourism became a mainstay of the state economy, and high technology became an important economic engine. the united states census bureau estimated that the population of colorado exceeded five million in 2009.
+three warships of the u.s. navy have been named the uss colorado. the first uss colorado was named for the colorado river. the later two ships were named in honor of the state, including the battleship uss colorado which served in world war ii in the pacific beginning in 1941. at the time of the attack on pearl harbor, this uss colorado was located at the naval base in san diego, calif. and hence went unscathed.
+
+
+demographics[edit]
+ colorado population density map
+
+
+historical population
+
+
+census
+pop.
+
+%±
+186034,277—187039,86416.3%1880194,327387.5%1890413,249112.7%1900539,70030.6%1910799,02448.0%1920939,62917.6%19301,035,79110.2%19401,123,2968.4%19501,325,08918.0%19601,753,94732.4%19702,207,25925.8%19802,889,96430.9%19903,294,39414.0%20004,301,26230.6%20105,029,19616.9%est. 20185,695,56413.2%sources: census 1910–2010[49]2018 estimate[11]
+
+the united states census bureau estimates that the population of colorado was 5,695,564 on july 1, 2018, a 13.25% increase since the 2010 united states census.[11] colorado's most populous city and capital, is denver. the greater denver metropolitan area, with an estimated 2017 population of 3,515,374, is considered the largest metropolitan area within the state and is found within the larger front range urban corridor, home to around 5,000,000 people. 
+the largest increases are expected in the front range urban corridor, especially in the denver metropolitan area. the state's fastest-growing counties are douglas and weld.[50] the center of population of colorado is located just north of the village of critchell in jefferson county.[51]
+according to the 2010 united states census, colorado had a population of 5,029,196. racial composition of the state's population was:
+
+81.3% white american (70.0% non-hispanic white, 11.3% hispanic white)
+20.7% hispanic and latino american (of any race) heritage
+7.2% some other race
+4.0% black or african american
+3.4% multiracial american
+2.8% asian american
+1.1% american indian and alaska native
+0.1% native hawaiian and other pacific islander
+
+colorado racial breakdown of population
+
+
+racial composition
+1970[52]
+1990[52]
+2000[53]
+2010[54]
+
+
+white (includes white hispanics)
+
+7001957000000000000♠95.7%
+
+7001882000000000000♠88.2%
+
+7001828000000000000♠82.8%
+
+7001813000000000000♠81.3%
+
+
+black
+
+7000300000000000000♠3.0%
+
+7000400000000000000♠4.0%
+
+7000380000000000000♠3.8%
+
+7000400000000000000♠4.0%
+
+
+asian
+
+6999500000000000000♠0.5%
+
+7000180000000000000♠1.8%
+
+7000220000000000000♠2.2%
+
+7000280000000099999♠2.8%
+
+
+native
+
+6999400000000000000♠0.4%
+
+6999800000000000000♠0.8%
+
+7000100000000000000♠1.0%
+
+7000110000000000000♠1.1%
+
+
+native hawaiian andother pacific islander
+
+–
+
+–
+
+6999100000000000000♠0.1%
+
+6999100000000000000♠0.1%
+
+
+other race
+
+6999400000000000000♠0.4%
+
+7000510000000099999♠5.1%
+
+7000720000000000000♠7.2%
+
+7000720000000000000♠7.2%
+
+
+two or more races
+
+–
+
+–
+
+7000280000000099999♠2.8%
+
+7000340000000000000♠3.4%
+
+people of hispanic and latino american (of any race made) heritage made up 20.7% of the population.[55] according to the 2000 census, the largest ancestry groups in colorado are german (22%) including of swiss and austrian nationalities, mexican (18%), irish (12%), and english (12%). persons reporting german ancestry are especially numerous in the front range, the rockies (west-central counties), and eastern parts/high plains.
+colorado has a high proportion of hispanic, mostly mexican-american, citizens in metropolitan denver, colorado springs, as well as the smaller cities of greeley and pueblo, and elsewhere. southern, southwestern, and southeastern colorado has a large number of hispanos, the descendants of the early mexican settlers of colonial spanish origin. in 1940, the census bureau reported colorado's population as 8.2% hispanic and 90.3% non-hispanic white.[56] the hispanic population of colorado has continued to grow quickly over the past decades. by 2012, hispanics made up 21% of colorado's population, and non-hispanic whites made up 69%.[57] spoken english in colorado has many spanish idioms.[58]
+colorado also has some large african-american communities located in denver, in the neighborhoods of montbello, five points, whittier, and many other east denver areas. a relatively large population of african americans are also found in colorado springs on the east and southeast side of the city. the state has sizable numbers of asian-americans of mongolian, chinese, filipino, korean, southeast asian, and japanese descent. the highest population of asian americans can be found on the south and southeast side of denver, as well as some on denver's southwest side. the denver metropolitan area is considered more liberal and diverse than much of the state when it comes to political issues and environmental concerns.
+there were a total of 70,331 births in colorado in 2006. (birth rate of 14.6 per thousand.) in 2007, non-hispanic whites were involved in 59.1% of all the births.[59] some 14.06% of those births involved a non-hispanic white person and someone of a different race, most often with a couple including one hispanic. a birth where at least one hispanic person was involved counted for 43% of the births in colorado.[60] as of the 2010 census, colorado has the seventh highest percentage of hispanics (20.7%) in the u.s. behind new mexico (46.3%), california (37.6%), texas (37.6%), arizona (29.6%), nevada (26.5%), and florida (22.5%). per the 2000 census, the hispanic population is estimated to be 918,899 or approximately 20% of the state total population. colorado has the 5th-largest population of mexican-americans, behind california, texas, arizona, and illinois. in percentages, colorado has the 6th-highest percentage of mexican-americans, behind new mexico, california, texas, arizona, and nevada.[61]
+
+birth data[edit]
+in 2011, 46% of colorado's population younger than the age of one were minorities, meaning that they had at least one parent who was not non-hispanic white.[62][63]
+note: births in table don't add up, because hispanics are counted both by their ethnicity and by their race, giving a higher overall number.
+
+
+live births by single race/ethnicity of mother
+
+
+race
+
+2013[64]
+
+2014[65]
+
+2015[66]
+
+2016[67]
+
+2017[68]
+
+
+white:
+
+57,491 (88.4%)
+
+58,117 (88.3%)
+
+58,756 (88.2%)
+
+...
+
+...
+
+
+> non-hispanic white
+
+39,872 (61.3%)
+
+40,629 (61.7%)
+
+40,878 (61.4%)
+
+39,617 (59.5%)
+
+37,516 (58.3%)
+
+
+black
+
+3,760 (5.8%)
+
+3,926 (6.0%)
+
+4,049 (6.1%)
+
+3,004 (4.5%)
+
+3,110 (4.8%)
+
+
+asian
+
+2,863 (4.4%)
+
+3,010 (4.6%)
+
+2,973 (4.5%)
+
+2,617 (3.9%)
+
+2,611 (4.1%)
+
+
+american indian
+
+793 (1.2%)
+
+777 (1.2%)
+
+803 (1.2%)
+
+412 (0.6%)
+
+421 (0.7%)
+
+
+pacific islander
+
+...
+
+...
+
+...
+
+145 (0.2%)
+
+145 (0.2%)
+
+
+hispanic (of any race)
+
+17,821 (27.4%)
+
+17,665 (26.8%)
+
+18,139 (27.2%)
+
+18,513 (27.8%)
+
+18,125 (28.2%)
+
+
+total colorado
+
+65,007 (100%)
+
+65,830 (100%)
+
+66,581 (100%)
+
+66,613 (100%)
+
+64,382 (100%)
+
+since 2016, data for births of white hispanic origin are not collected, but included in one hispanic group; persons of hispanic origin may be of any race.
+in 2017, colorado recorded the second-lowest fertility rate in the united states outside of new england, after oregon, at 1.63 children per woman.[69]
+
+language[edit]
+spanish is the second-most spoken language in colorado, after english.[70] there is one native coloradan language still spoken in colorado, colorado river numic (ute).
+
+religion[edit]
+ the cadet chapel at the united states air force academy near colorado springs
+major religious affiliations of the people of colorado are 64% christian, of whom there are 44% protestant, 16% roman catholic, 3% mormon, and 1% eastern orthodox.[71] other religious breakdowns are 1% jewish, 1% muslim, 1% buddhist and 4% other. the religiously unaffiliated make up 29% of the population.[72]
+the largest denominations by number of adherents in 2010 were the catholic church with 811,630; non-denominational evangelical protestants with 229,981; and the church of jesus christ of latter-day saints with 151,433.[73]
+
+
+
+
+religion in colorado (2014)[74]
+
+religion
+
+
+percent
+
+
+
+protestant
+ 
+44%
+
+
+no religion
+ 
+29%
+
+
+catholic
+ 
+16%
+
+
+mormon
+ 
+3%
+
+
+eastern orthodox
+ 
+1%
+
+
+jewish
+ 
+1%
+
+
+muslim
+ 
+1%
+
+
+buddhist
+ 
+1%
+
+
+other
+ 
+4%
+
+
+
+
+
+health[edit]
+according to several studies, coloradans have the lowest rates of obesity of any state in the us.[75] as of  2007[update], 18% of the population was considered medically obese, and while the lowest in the nation, the percentage had increased from 17% in 2004.[76] according to a report in the journal of the american medical association, residents of colorado had a 2014 life expectancy of 80.21 years, the longest of any u.s. state.[77]
+
+culture[edit]
+ history colorado center in denver
+ street art in denver
+list of museums in colorado
+fine arts[edit]
+music of colorado
+theater in colorado
+film[edit]
+a number of film productions have shot on location in colorado, especially prominent westerns like true grit, the searchers, and butch cassidy and the sundance kid. a number of historic military forts, railways with trains still operating, mining ghost towns have been utilized and transformed for historical accuracy in well known films. there are also a number of scenic highways and mountain passes that helped to feature the open road in films such as vanishing point, bingo and starman. some colorado landmarks have been featured in films, such as the stanley hotel in dumb and dumber and the shining and the sculptured house in sleeper. in 2015, furious 7 was to film driving sequences on pikes peak highway in colorado. the tv series, good luck charlie was being filmed in denver, colorado. the colorado office of film and television has noted that over 400 films have been shot in colorado.[78]
+there are also a number of established film festivals in colorado, including aspen shortsfest, boulder international film festival, castle rock film festival, denver film festival, festivus film festival (ended in 2013), mile high horror film festival, moondance international film festival, mountainfilm in telluride, rocky mountain women's film festival, and telluride film festival.
+
+cuisine[edit]
+colorado is known for its southwest and rocky mountain cuisine. mexican restaurants are prominent throughout the state.
+boulder, colorado was named america's foodiest town 2010 by bon appétit.[79] boulder, and colorado in general, is home to a number of national food and beverage companies, top-tier restaurants and farmers' markets. boulder, colorado also has more master sommeliers per capita than any other city, including san francisco and new york.[80]
+the food & wine classic is held annually each june in aspen, colorado. aspen also has a reputation as the culinary capital of the rocky mountain region.[81]
+denver is known for steak, but now has a diverse culinary scene with many restaurants.[82]
+
+wine and beer[edit]
+main article: colorado wine
+colorado wines include award-winning varietals that have attracted favorable notice from outside the state.[83] with wines made from traditional vitis vinifera grapes along with wines made from cherries, peaches, plums and honey, colorado wines have won top national and international awards for their quality.[84] colorado's grape growing regions contain the highest elevation vineyards in the united states,[85] with most viticulture in the state practiced between 4,000 and 7,000 feet (1,219 and 2,134 m) above sea level. the mountain climate ensures warm summer days and cool nights. colorado is home to two designated american viticultural areas of the grand valley ava and the west elks ava,[86] where most of the vineyards in the state are located. however, an increasing number of wineries are located along the front range.[87] in 2018, wine enthusiast magazine named colorado's grand valley ava in mesa county, colorado, as one of the top ten wine travel destinations in the world.[88]
+
+main article: colorado beer
+colorado is home to many nationally praised microbreweries,[89] including new belgium brewing company, odell brewing company, great divide brewing company, and oskar blues brewery. the area of northern colorado near and between the cities of denver, boulder, and fort collins is known as the "napa valley of beer" due to its high density of craft breweries.[90]
+
+marijuana and hemp[edit]
+colorado is open to cannabis (marijuana) tourism.[91] with the adoption of their 64th state amendment in 2013, colorado became the first state in the union to legalize the medicinal (2000), industrial (2013), and recreational (2014) use of marijuana. colorado's marijuana industry sold $1.31 billion worth of marijuana in 2016 and $1.26 billion in the first three quarters of 2017.[92] the state generated tax, fee, and license revenue of $194 million in 2016 on legal marijuana sales.[93] colorado regulates hemp as any part of the plant with less than 0.3% thc.[94]
+amendment 64, adopted by the voters in the 2012 general election, forces the colorado state legislature to enact legislation governing the cultivation, processing and sale of recreational marijuana and industrial hemp.[95] on april 4, 2014, senate bill 14–184 addressing oversight of colorado's industrial hemp program was first introduced, ultimately being signed into law by governor john hickenlooper on may 31, 2014.[96]
+
+medicinal use[edit]
+on november 7, 2000, 54% of colorado voters passed amendment 20, which amends the colorado state constitution to allow the medical use of marijuana.[97] a patient's medical use of marijuana, within the following limits, is lawful:
+
+(i) no more than 2 ounces (57 g) of a usable form of marijuana; and
+(ii) no more than twelve marijuana plants, with six or fewer being mature, flowering plants that are producing a usable form of marijuana.[98]
+currently colorado has listed "eight medical conditions for which patients can use marijuana—cancer, glaucoma, hiv/aids, muscle spasms, seizures, severe pain, severe nausea and cachexia, or dramatic weight loss and muscle atrophy."[99] colorado governor john hickenlooper has allocated about half of the state's $13 million "medical marijuana program cash fund"[100] to medical research in the 2014 budget.[101][102]
+
+recreational use[edit]
+on november 6, 2012, voters amended the state constitution to protect "personal use" of marijuana for adults, establishing a framework to regulate marijuana in a manner similar to alcohol.[103] the first recreational marijuana shops in colorado, and by extension the united states, opened their doors on january 1, 2014.[104]
+
+sports[edit]
+ the colorado rockies baseball club at coors field
+ broncos stadium at mile high, home of the denver broncos and the denver outlaws
+ pepsi center, home of the denver nuggets, the colorado avalanche, and the colorado mammoth
+ dick's sporting goods park, home of the colorado rapids
+main article: sports in colorado
+colorado has five major professional sports leagues, all based in the denver metropolitan area. colorado is the least populous state with a franchise in each of the major professional sports leagues.
+the pikes peak international hill climb is a major hillclimbing motor race held at the pikes peak highway.
+the cherry hills country club has hosted several professional golf tournaments, including the u.s. open, u.s. senior open, u.s. women's open, pga championship and bmw championship.
+
+professional sports teams[edit]
+
+
+team
+
+home
+
+first game
+
+sport
+
+league
+
+
+boulder county bombers
+
+boulder
+
+november 2011
+
+roller derby
+
+women's flat track derby association
+
+
+colorado avalanche
+
+denver
+
+october 6, 1995
+
+ice hockey
+
+national hockey league
+
+
+colorado eagles
+
+loveland
+
+october 17, 2003
+
+ice hockey
+
+american hockey league
+
+
+colorado mammoth
+
+denver
+
+january 3, 2003
+
+lacrosse
+
+national lacrosse league
+
+
+colorado rapids
+
+commerce city
+
+april 13, 1996
+
+soccer
+
+major league soccer
+
+
+colorado rockies
+
+denver
+
+april 5, 1993
+
+baseball
+
+major league baseball
+
+
+colorado springs switchbacks fc
+
+colorado springs
+
+march 28, 2015
+
+soccer
+
+usl championship
+
+
+denver barbarians
+
+denver
+
+spring 1967
+
+rugby union
+
+pacific rugby premiership
+
+
+denver broncos
+
+denver
+
+september 9, 1960
+
+football
+
+national football league
+
+
+denver nuggets
+
+denver
+
+september 27, 1967
+
+basketball
+
+national basketball association
+
+
+denver outlaws
+
+denver
+
+may 20, 2006
+
+lacrosse
+
+major league lacrosse
+
+
+glendale raptors
+
+glendale
+
+fall 2006
+
+rugby union
+
+major league rugby
+
+
+grand junction rockies
+
+grand junction
+
+june 18, 2012
+
+baseball
+
+pioneer league (rookie, minor league baseball)
+
+
+rocky mountain rollergirls
+
+denver
+
+july 2005
+
+roller derby
+
+women's flat track derby association
+
+
+rocky mountain vibes
+
+colorado springs
+
+june 2019
+
+baseball
+
+pioneer league (rookie, minor league baseball)
+
+
+
+college athletics[edit]
+main article: list of college athletic programs in colorado
+the following universities and colleges participate in the national collegiate athletic association division i. the most popular college sports program is the university of colorado buffaloes, who used to play in the big-12 but now play in the pac-12. they have won the 1957 and 1991 orange bowl, 1995 fiesta bowl, and 1996 cotton bowl classic.
+
+
+ncaa division i athletic programs in colorado
+
+
+team
+school
+city
+conference
+
+
+air force falcons
+united states air force academy
+colorado springs
+mountain west[105]
+
+
+colorado buffaloes
+university of colorado boulder
+boulder
+pac-12[106]
+
+
+colorado state rams
+colorado state university
+fort collins
+mountain west
+
+
+denver pioneers
+university of denver
+denver
+summit[107]
+
+
+northern colorado bears
+university of northern colorado
+greeley
+big sky[108]
+
+
+
+economy[edit]
+main article: economy of colorado
+see also: colorado locations by per capita income
+ denver energy center lies in the denver financial district along 17th street, known as the wall street of the west
+cnbc's list of "top states for business for 2010" has recognized colorado as the third-best state in the nation, falling short to only texas and virginia.[109]
+
+ corn growing in larimer county
+the total state product in 2015 was $318,600 million.[110] median annual household income in 2016 was $70,666, 8th in the nation.[111] per capita personal income in 2010 was $51 940, ranking colorado 11th in the nation.[112] the state's economy broadened from its mid-19th-century roots in mining when irrigated agriculture developed, and by the late 19th century, raising livestock had become important. early industry was based on the extraction and processing of minerals and agricultural products. current agricultural products are cattle, wheat, dairy products, corn, and hay.
+the federal government is also a major economic force in the state with many important federal facilities including norad (north american aerospace defense command), united states air force academy, schriever air force base located approximately 10 miles (16 kilometers) east of peterson air force base, and fort carson, both located in colorado springs within el paso county; noaa, the national renewable energy laboratory (nrel) in golden, and the national institute of standards and technology in boulder; u.s. geological survey and other government agencies at the denver federal center near lakewood; the denver mint, buckley air force base, the tenth circuit court of appeals, and the byron g. rogers federal building and united states courthouse in denver; and a federal supermax prison and other federal prisons near cañon city. in addition to these and other federal agencies, colorado has abundant national forest land and four national parks that contribute to federal ownership of 24,615,788 acres (99,617 km2) of land in colorado, or 37% of the total area of the state.[113]
+in the second half of the 20th century, the industrial and service sectors have expanded greatly. the state's economy is diversified, and is notable for its concentration of scientific research and high-technology industries. other industries include food processing, transportation equipment, machinery, chemical products, the extraction of metals such as gold (see gold mining in colorado), silver, and molybdenum. colorado now also has the largest annual production of beer of any state.[114] denver is an important financial center.
+a number of nationally known brand names have originated in colorado factories and laboratories. from denver came the forerunner of telecommunications giant qwest in 1879, samsonite luggage in 1910, gates belts and hoses in 1911, and russell stover candies in 1923. kuner canned vegetables began in brighton in 1864. from golden came coors beer in 1873, coorstek industrial ceramics in 1920, and jolly rancher candy in 1949. cf&i railroad rails, wire, nails, and pipe debuted in pueblo in 1892. holly sugar was first milled from beets in holly in 1905, and later moved its headquarters to colorado springs. the present-day swift packed meat of greeley evolved from monfort of colorado, inc., established in 1930. estes model rockets were launched in penrose in 1958. fort collins has been the home of woodward governor company's motor controllers (governors) since 1870, and waterpik dental water jets and showerheads since 1962. celestial seasonings herbal teas have been made in boulder since 1969. rocky mountain chocolate factory made its first candy in durango in 1981.
+colorado has a flat 4.63% income tax, regardless of income level. unlike most states, which calculate taxes based on federal adjusted gross income, colorado taxes are based on taxable income—income after federal exemptions and federal itemized (or standard) deductions.[115][116] colorado's state sales tax is 2.9% on retail sales. when state revenues exceed state constitutional limits, according to colorado's taxpayer bill of rights legislation, full-year colorado residents can claim a sales tax refund on their individual state income tax return. many counties and cities charge their own rates, in addition to the base state rate. there are also certain county and special district taxes that may apply.
+real estate and personal business property are taxable in colorado. the state's senior property tax exemption was temporarily suspended by the colorado legislature in 2003. the tax break was scheduled to return for assessment year 2006, payable in 2007.
+as of  december 2018[update], the state's unemployment rate was 4.2%.[117]
+
+philanthropy[edit]
+major philanthropic organizations based in colorado include the daniels fund, the anschutz family foundation, the gates family foundation, the el pomar foundation, and the boettcher foundation grant each year from approximately $7 billion[118] of assets.
+
+natural resources[edit]
+ an oil well in western colorado
+colorado has significant hydrocarbon resources. according to the energy information administration, colorado hosts seven of the nation's 100 largest natural gas fields, and two of its 100 largest oil fields. conventional and unconventional natural gas output from several colorado basins typically account for more than 5 percent of annual u.s. natural gas production. colorado's oil shale deposits hold an estimated 1 trillion barrels (160 km3) of oil—nearly as much oil as the entire world's proven oil reserves; the economic viability of the oil shale, however, has not been demonstrated.[119] substantial deposits of bituminous, subbituminous, and lignite coal are found in the state.
+uranium mining in colorado goes back to 1872, when pitchblende ore was taken from gold mines near central city, colorado. the colorado uranium industry has seen booms and busts, but continues to this day. not counting byproduct uranium from phosphate, colorado is considered to have the third-largest uranium reserves of any u.s. state, behind wyoming and new mexico.
+uranium price increases from 2001 to 2007 prompted a number of companies to revive uranium mining in colorado. price drops and financing problems in late 2008 forced these companies to cancel or scale back uranium-mining project. currently, there are no uranium producing mines in colorado.
+colorado's high rocky mountain ridges and eastern plains offer wind power potential, and geologic activity in the mountain areas provides potential for geothermal power development. much of the state is sunny, and could produce solar power. major rivers flowing from the rocky mountains offer hydroelectric power resources. corn grown in the flat eastern part of the state offers potential resources for ethanol production.
+
+transportation[edit]
+main article: transportation in colorado
+ a colorado state welcome sign
+colorado's primary mode of transportation (in terms of passengers) is its highway system. interstate 25 (i-25) is the primary north–south highway in the state, connecting pueblo, colorado springs, denver, and fort collins, and extending north to wyoming and south to new mexico. i-70 is the primary east–west corridor. it connects grand junction and the mountain communities with denver, and enters utah and kansas. the state is home to a network of us and colorado highways that provide access to all principal areas of the state. many smaller communities are only connected to this network via county roads.
+
+ the main terminal of denver international airport evokes the peaks of the front range
+denver international airport (dia) is the fifth-busiest domestic u.s. airport and twentieth busiest airport in the world by passenger traffic.[120] dia handles by far the largest volume of commercial air traffic in colorado, and is the busiest u.s. hub airport between chicago and the pacific coast, making denver the most important airport for connecting passenger traffic in the western united states.
+extensive public transportation bus services are offered both intra-city and inter-city—including the denver metro area's extensive rtd services. the regional transportation district (rtd) operates the popular rtd bus & rail transit system in the denver metropolitan area. as of  january 2013[update] the rtd rail system had 170 light-rail vehicles, serving 47 miles (76 km) of track.
+
+ the westbound and eastbound california zephyrs meet in the glenwood canyon
+amtrak operates two passenger rail lines in colorado, the california zephyr and southwest chief. colorado's contribution to world railroad history was forged principally by the denver and rio grande western railroad which began in 1870 and wrote the book on mountain railroading. in 1988 the "rio grande" acquired, but was merged into, the southern pacific railroad by their joint owner philip anschutz. on september 11, 1996, anschutz sold the combined company to the union pacific railroad, creating the largest railroad network in the united states. the anschutz sale was partly in response to the earlier merger of burlington northern and santa fe which formed the large burlington northern and santa fe railway (bnsf), union pacific's principal competitor in western u.s. railroading. both union pacific and bnsf have extensive freight operations in colorado.
+colorado's freight railroad network consists of 2,688 miles of class i trackage. it is integral to the u.s. economy, being a critical artery for the movement of energy, agriculture, mining, and industrial commodities as well as general freight and manufactured products between the east and midwest and the pacific coast states.[121]
+
+
+in august 2014, colorado began to issue driver licenses to aliens not lawfully in the united states who lived in colorado.[122] in september 2014, kcnc reported that 524 non-citizens were issued colorado driver licenses that are normally issued to u.s. citizens living in colorado.[123]
+
+government and politics[edit]
+
+
+colorado registered voters as of  april 1, 2016[update][124]
+
+
+party
+
+number of voters
+
+percentage
+
+
+
+
+unaffiliated
+
+1,315,973
+
+36.51%
+
+
+
+
+democratic
+
+1,119,655
+
+31.06%
+
+
+
+
+republican
+
+1,117,244
+
+30.99%
+
+
+
+
+libertarian
+
+32,450
+
+0.9%
+
+
+
+
+green
+
+9,916
+
+0.28%
+
+
+
+
+american constitution
+
+9,193
+
+0.26%
+
+
+uni
+
+271
+
+0.007%
+
+
+total
+
+3,604,702
+
+100%
+
+
+the five executive officers of the state of colorado
+
+
+office
+
+incumbent
+
+party
+
+term
+
+
+governor
+
+jared polis
+
+democratic
+
+2019–2023
+
+
+lieutenant governor
+
+dianne primavera
+
+democratic
+
+2019–2023
+
+
+secretary of state
+
+jena griswold
+
+democratic
+
+2019–2023
+
+
+state treasurer
+
+dave young
+
+democratic
+
+2019–2023
+
+
+attorney general
+
+phil weiser
+
+democratic
+
+2019–2023
+
+main articles: government of colorado and politics of colorado
+state government[edit]
+see also: political party strength in colorado
+like the federal government and all other u.s. states, colorado's state constitution provides for three branches of government: the legislative, the executive, and the judicial branches.
+the governor of colorado heads the state's executive branch. the current governor is jared polis, a democrat. colorado's other statewide elected executive officers are the lieutenant governor of colorado (elected on a ticket with the governor), secretary of state of colorado, colorado state treasurer, and attorney general of colorado, all of whom serve four-year terms.
+
+
+
+gubernatorial election results
+
+
+year
+
+republican
+
+democratic
+
+
+2018
+
+42.8% 1,080,801
+
+53.4% 1,348,888
+
+
+2014
+
+45.95% 938,195
+
+49.3% 1,006,433
+
+
+2010
+
+11.3% 199,034
+
+51.0% 912,005
+
+
+2006
+
+40.16% 625,886
+
+56.98% 888,096
+
+
+2002
+
+62.62% 884,584
+
+33.65% 475,373
+
+
+1998
+
+49.06% 648,202
+
+48.43% 639,905
+
+
+1994
+
+38.70% 432,042
+
+55.47% 619,205
+
+
+1990
+
+35.43% 358,403
+
+61.89% 626,032
+
+the seven-member colorado supreme court is the highest judicial court in the state.
+the state legislative body is the colorado general assembly, which is made up of two houses, the house of representatives and the senate. the house has 65 members and the senate has 35. as of  2018[update], the democratic party holds a 19 to 16 majority in the senate and a 41 to 24 majority in the house.
+
+most coloradans are native to other states (nearly 60% according to the 2000 census),[125] and this is illustrated by the fact that the state did not have a native-born governor from 1975 (when john david vanderhoof left office) until 2007, when bill ritter took office; his election the previous year marked the first electoral victory for a native-born coloradan in a gubernatorial race since 1958 (vanderhoof had ascended from the lieutenant governorship when john arthur love was given a position in richard nixon's administration in 1973). in the 2016 election, the democratic party won the colorado electoral college votes.
+counties[edit]
+ an enlargeable map of the 64 counties of the state of colorado
+main article: list of counties in colorado
+the state of colorado is divided into 64 counties.[126] counties are important units of government in colorado since the state has no secondary civil subdivisions such as townships. two of these counties, the city and county of denver and the city and county of broomfield, have consolidated city and county governments.
+nine colorado counties have a population in excess of 250,000 each, while eight colorado counties have a population of less than 2,500 each. the ten most populous colorado counties are all located in the front range urban corridor.
+
+
+
+the 15 colorado counties with a population of at least 50,000
+
+
+rank
+
+county
+
+2017 estimate
+
+2010 census
+
+change
+
+
+7000100000000000000♠1
+
+city and county of denver
+
+704,621
+
+600,158
+
++17.41%
+
+
+7000200000000000000♠2
+
+el paso county
+
+699,232
+
+622,263
+
++12.37%
+
+
+7000300000000000000♠3
+
+arapahoe county
+
+643,052
+
+572,003
+
++12.42%
+
+
+7000400000000000000♠4
+
+jefferson county
+
+574,613
+
+534,543
+
++7.50%
+
+
+7000500000000000000♠5
+
+adams county
+
+503,167
+
+441,603
+
++13.94%
+
+
+7000600000000000000♠6
+
+larimer county
+
+343,976
+
+299,630
+
++14.80%
+
+
+7000700000000000000♠7
+
+douglas county
+
+335,299
+
+285,465
+
++17.46%
+
+
+7000800000000000000♠8
+
+boulder county
+
+322,514
+
+294,567
+
++9.49%
+
+
+7000900000000000000♠9
+
+weld county
+
+304,633
+
+252,825
+
++20.49%
+
+
+7001100000000000000♠10
+
+pueblo county
+
+166,475
+
+159,063
+
++4.66%
+
+
+7001110000000000000♠11
+
+mesa county
+
+151,616
+
+146,723
+
++3.33%
+
+
+7001120000000000000♠12
+
+city and county of broomfield
+
+68,341
+
+55,889
+
++22.28%
+
+
+7001130000000000000♠13
+
+garfield county
+
+59,118
+
+56,389
+
++4.84%
+
+
+7001140000000000000♠14
+
+la plata county
+
+55,589
+
+51,334
+
++8.29%
+
+
+7001150000000000000♠15
+
+eagle county
+
+54,772
+
+52,197
+
++4.93%
+
+metropolitan areas[edit]
+ map of the 14 core based statistical areas in the state of colorado.
+main articles: colorado metropolitan areas and colorado census statistical areas
+the united states office of management and budget (omb) has defined one combined statistical area (csa),[127] seven metropolitan statistical areas (msas),[128] and seven micropolitan statistical areas (μsas)[129] in the state of colorado.[130]
+the most populous of the 14 core based statistical areas in colorado is the denver-aurora-broomfield, co metropolitan statistical area. this area had an estimated population of 2,888,227 on july 1, 2017, an increase of +13.55% since the 2010 united states census.[131]
+the more extensive denver-aurora-boulder, co combined statistical area had an estimated population of 3,515,374 on july 1, 2017, an increase of +13.73% since the 2010 united states census.[131]
+the most populous extended metropolitan region in rocky mountain region is the front range urban corridor along the northeast face of the southern rocky mountains. this region with denver at its center had an estimated population of 4,495,181 on july 1, 2012, an increase of +3.73% since the 2010 united states census.[131]
+
+
+municipalities[edit]
+main article: list of cities and towns in colorado
+the state of colorado currently has 271 active incorporated municipalities, including 196 towns, 73 cities, and two consolidated city and county governments.[132][133]
+colorado municipalities operate under one of five types of municipal governing authority. colorado has one town with a territorial charter, 160 statutory towns, 12 statutory cities, 96 home rule municipalities (61 cities and 35 towns), and 2 consolidated city and county governments.
+
+
+ the skyline of downtown denver with speer boulevard in the foreground
+
+
+the 27 colorado municipalities with a population of at least 25,000
+
+
+rank
+
+municipality
+
+2017 estimate
+
+2010 census
+
+change
+
+
+7000100000000000000♠1
+
+city and county of denver
+
+704,621
+
+600,158
+
++17.41%
+
+
+7000200000000000000♠2
+
+city of colorado springs
+
+464,474
+
+416,427
+
++11.54%
+
+
+7000300000000000000♠3
+
+city of aurora
+
+366,623
+
+325,078
+
++12.78%
+
+
+7000400000000000000♠4
+
+city of fort collins
+
+165,080
+
+143,986
+
++14.65%
+
+
+7000500000000000000♠5
+
+city of lakewood
+
+154,958
+
+142,980
+
++8.38%
+
+
+7000600000000000000♠6
+
+city of thornton
+
+136,978
+
+118,772
+
++15.33%
+
+
+7000700000000000000♠7
+
+city of arvada
+
+118,807
+
+106,433
+
++11.63%
+
+
+7000800000000000000♠8
+
+city of westminster
+
+112,812
+
+106,114
+
++6.31%
+
+
+7000900000000000000♠9
+
+city of pueblo
+
+111,127
+
+106,595
+
++4.25%
+
+
+7001100000000000000♠10
+
+city of centennial
+
+110,250
+
+100,377
+
++9.84%
+
+
+7001110000000000000♠11
+
+city of boulder
+
+107,125
+
+97,385
+
++10.00%
+
+
+7001120000000000000♠12
+
+city of greeley
+
+105,448
+
+92,889
+
++13.52%
+
+
+7001130000000000000♠13
+
+city of longmont
+
+94,341
+
+86,270
+
++9.36%
+
+
+7001140000000000000♠14
+
+city of loveland
+
+76,701
+
+66,859
+
++14.72%
+
+
+7001150000000000000♠15
+
+city and county of broomfield
+
+68,341
+
+55,889
+
++22.28%
+
+
+7001160000000000000♠16
+
+city of grand junction
+
+62,475
+
+58,566
+
++6.67%
+
+
+7001170000000000000♠17
+
+town of castle rock
+
+62,276
+
+48,231
+
++29.12%
+
+
+7001180000000000000♠18
+
+city of commerce city
+
+55,923
+
+45,913
+
++21.80%
+
+
+7001190000000000000♠19
+
+town of parker
+
+54,202
+
+45,297
+
++19.66%
+
+
+7001200000000000000♠20
+
+city of littleton
+
+47,734
+
+41,737
+
++14.37%
+
+
+7001210000000000000♠21
+
+city of brighton
+
+40,562
+
+33,352
+
++21.62%
+
+
+7001220000000000000♠22
+
+city of northglenn
+
+38,928
+
+35,789
+
++8.77%
+
+
+7001230000000000000♠23
+
+city of englewood
+
+34,407
+
+30,255
+
++13.72%
+
+
+7001240000000000000♠24
+
+city of wheat ridge
+
+31,294
+
+30,166
+
++3.74%
+
+
+7001250000000000000♠25
+
+city of fountain
+
+29,804
+
+25,846
+
++15.31%
+
+
+7001260000000000000♠26
+
+city of lafayette
+
+28,328
+
+24,453
+
++15.85%
+
+
+7001270000000000000♠27
+
+town of windsor
+
+25,330
+
+18,644
+
++35.86%
+
+unincorporated communities[edit]
+main article: list of census-designated places in colorado
+in addition to its 271 municipalities, colorado has 187 unincorporated census designated places and many other small communities.
+
+
+
+the 16 census designated places in colorado with a population of at least 10,000
+
+
+rank
+
+census designated place
+
+2010 census
+
+2000 census
+
+change
+
+
+7000100000000000000♠1
+
+highlands ranch
+
+96,713
+
+70,931
+
++36.35%
+
+
+7000200000000000000♠2
+
+security-widefield
+
+32,882
+
+29,845
+
++10.18%
+
+
+7000300000000000000♠3
+
+ken caryl
+
+32,438
+
+30,887
+
++5.02%
+
+
+7000400000000000000♠4
+
+dakota ridge
+
+32,005
+
+32,005
+
+0.00%
+
+
+7000500000000000000♠5
+
+pueblo west
+
+29,637
+
+16,899
+
++75.38%
+
+
+7000600000000000000♠6
+
+columbine
+
+24,280
+
+24,095
+
++0.77%
+
+
+7000700000000000000♠7
+
+clifton
+
+19,889
+
+17,345
+
++14.67%
+
+
+7000800000000000000♠8
+
+sherrelwood
+
+18,287
+
+17,657
+
++3.57%
+
+
+7000900000000000000♠9
+
+cimarron hills
+
+16,161
+
+15,194
+
++6.36%
+
+
+7001100000000000000♠10
+
+welby
+
+14,846
+
+12,973
+
++14.44%
+
+
+7001110000000000000♠11
+
+fort carson
+
+13,813
+
+10,566
+
++30.73%
+
+
+7001120000000000000♠12
+
+black forest
+
+13,116
+
+13,247
+
+−0.99%
+
+
+7001130000000000000♠13
+
+berkley
+
+11,207
+
+10,743
+
++4.32%
+
+
+7001140000000000000♠14
+
+cherry creek
+
+11,120
+
+11,120
+
+0.00%
+
+
+7001150000000000000♠15
+
+the pinery
+
+10,517
+
+7,253
+
++45.00%
+
+
+7001160000000000000♠16
+
+edwards
+
+10,266
+
+8,257
+
++24.33%
+
+see also: places in colorado
+special districts[edit]
+the state of colorado has more than 3,000 districts with taxing authority. these districts may provide schools, law enforcement, fire protection, water, sewage, drainage, irrigation, transportation, recreation, infrastructure, cultural facilities, business support, redevelopment, or other services.
+some of these districts have authority to levy sales tax and well as property tax and use fees. this has led to a hodgepodge of sales tax and property tax rates in colorado. there are some street intersections in colorado with a different sales tax rate on each corner, sometimes substantially different.
+some of the more notable colorado districts are:
+
+the regional transportation district (rtd), which affects the counties of denver, boulder, jefferson, and portions of adams, arapahoe, broomfield, and douglas counties
+the scientific and cultural facilities district (scfd), a special regional tax district with physical boundaries contiguous with county boundaries of adams, arapahoe, boulder, broomfield, denver, douglas, and jefferson counties
+it is a 0.1% retail sales and use tax (one penny on every $10).
+according to the colorado statute, the scfd distributes the money to local organizations on an annual basis. these organizations must provide for the enlightenment and entertainment of the public through the production, presentation, exhibition, advancement or preservation of art, music, theater, dance, zoology, botany, natural history or cultural history.
+as directed by statute, scfd recipient organizations are currently divided into three "tiers" among which receipts are allocated by percentage.
+tier i includes regional organizations: the denver art museum, the denver botanic gardens, the denver museum of nature and science, the denver zoo, and the denver center for the performing arts. it receives 65.5%.
+tier ii currently includes 26 regional organizations. tier ii receives 21%.
+tier iii has over 280 local organizations such as small theaters, orchestras, art centers, and natural history, cultural history, and community groups. tier iii organizations apply for funding to the county cultural councils via a grant process. this tier receives 13.5%.
+an 11-member board of directors oversees the distributions in accordance with the colorado revised statutes. seven board members are appointed by county commissioners (in denver, the denver city council) and four members are appointed by the governor of colorado.
+the football stadium district (fd or ftbl), approved by the voters to pay for and help build the denver broncos' stadium sports authority field at mile high
+local improvement districts (lid) within designated areas of southeast jefferson and boulder counties
+the metropolitan major league baseball stadium district, approved by voters to pay for and help build the colorado rockies' stadium coors field
+regional transportation authority (rta) taxes at varying rates in basalt, carbondale, glenwood springs, gunnison county
+federal politics[edit]
+
+presidential elections results
+
+
+year
+
+republican
+
+democratic
+
+
+2016
+
+43.3% 1,202,484
+
+48.1% 1,338,870
+
+
+2012
+
+46.12% 1,185,050
+
+51.49% 1,322,998
+
+
+2008
+
+44.71% 1,073,584
+
+53.66% 1,288,568
+
+
+2004
+
+51.69% 1,101,255
+
+47.02% 1,001,732
+
+
+2000
+
+50.75% 883,745
+
+42.39% 738,227
+
+
+1996
+
+45.80% 691,848
+
+44.43% 671,152
+
+
+1992
+
+35.87% 562,850
+
+40.13%  629,681
+
+
+1988
+
+53.06% 728,177
+
+45.28% 621,453
+
+ treemap of the popular vote by county, 2016 presidential election.
+colorado is considered a swing state in both state and federal elections. coloradans have elected 17 democrats and 12 republicans to the governorship in the last 100 years. in presidential politics, colorado was considered a reliably republican state during the post-world war ii era, only voting for the democratic candidate in 1948, 1964, and 1992. however, it became a competitive swing state by the turn of the century, and voted consecutively for democrat barack obama in 2008 and 2012, as well as democrat hillary clinton in 2016.
+colorado politics has the contrast of conservative cities such as colorado springs and liberal cities such as boulder and denver. democrats are strongest in metropolitan denver, the college towns of fort collins and boulder, southern colorado (including pueblo), and a few western ski resort counties. the republicans are strongest in the eastern plains, colorado springs, greeley, and far western colorado near grand junction.
+the state of colorado is represented by its two united states senators:
+
+united states senate class 2 – cory gardner (republican) 2015–
+united states senate class 3 – michael bennet (democratic) 2009–
+colorado is represented by seven representatives to the united states house of representatives:
+
+colorado's 1st congressional district – diana degette (democratic) 1997–
+colorado's 2nd congressional district – joe neguse (democratic) 2019-
+colorado's 3rd congressional district – scott tipton (republican) 2011–
+colorado's 4th congressional district – ken buck (republican) 2015–
+colorado's 5th congressional district – doug lamborn (republican) 2007–
+colorado's 6th congressional district – jason crow (democratic) 2019–
+colorado's 7th congressional district – ed perlmutter (democratic) 2007–
+see also: united states presidential election, 2004, in colorado; colorado's congressional elections, 2006; colorado gubernatorial election, 2006; and political party strength in colorado
+
+significant bills passed in colorado[edit]
+on the november 8, 1932 ballot, colorado approved the repeal of alcohol prohibition more than a year before the twenty-first amendment to the united states constitution was ratified.
+in 2012, voters amended the state constitution protecting "personal use" of marijuana for adults, establishing a framework to regulate cannabis in a manner similar to alcohol. the first recreational marijuana shops in colorado, and by extension the united states, opened their doors on january 1, 2014.[104]
+
+education[edit]
+main article: list of colleges and universities in colorado
+ colorado college
+ colorado school of mines
+ colorado state university
+ the united states air force academy
+ the university of colorado boulder
+ the university of denver
+colleges and universities in colorado:
+
+adams state university
+aims community college
+arapahoe community college
+art institute of colorado
+belleview christian college & bible seminary
+colorado christian university
+colorado college
+colorado mesa university
+colorado mountain college
+colorado northwestern community college
+colorado school of mines
+colorado state university system
+colorado state university
+colorado state university-pueblo
+csu–global campus
+colorado technical university
+community college of aurora
+community college of denver
+denver seminary
+devry university
+emily griffith opportunity school
+ecotech institute
+fort lewis college
+front range community college
+iliff school of theology
+johnson & wales university
+lamar community college
+metropolitan state university of denver
+morgan community college
+naropa university
+nazarene bible college
+northeastern junior college
+otero junior college
+pikes peak community college
+pueblo community college
+red rocks community college
+regis university
+rocky mountain college of art and design
+rocky vista university college of osteopathic medicine
+trinidad state junior college
+united states air force academy
+university of colorado system
+university of colorado boulder
+university of colorado colorado springs
+university of colorado denver
+anschutz medical campus
+auraria campus
+university of denver
+university of northern colorado
+western colorado university[134]
+see also: list of colleges and universities in colorado, table of colorado school districts, and table of colorado charter schools
+
+military installations[edit]
+ fort carson
+ peterson air force base
+colorado is currently the home of seven major military bases and installations.
+
+air reserve personnel center
+buckley air force base
+fort carson (u.s. army)
+piñon canyon maneuver site
+peterson air force base
+cheyenne mountain division
+pueblo chemical depot (u.s. army)
+schriever air force base
+united states air force academy
+former military installations and outposts include:
+
+camp collins (1862–1870)
+camp hale (1942–1945)
+fitzsimons army hospital (1918–1999)
+fort garland (1858–1883)
+fort logan (1887–1946)
+lowry air force base (1938–1994)
+
+protected areas[edit]
+ lowry pueblo in canyons of the ancients national monument
+ great sand dunes national park and preserve
+ spruce tree house in mesa verde national park
+main articles: list of federal lands in colorado and colorado state parks
+see also: list of the prehistoric life of colorado
+colorado is home to 4 national parks, 8 national monuments, 2 national recreation areas, 2 national historic sites, 3 national historic trails, a national scenic trail, 11 national forests, 2 national grasslands, 42 national wilderness areas, 2 national conservation areas, 8 national wildlife refuges, 44 state parks, 307 state wildlife areas, and numerous other scenic, historic, and recreational areas.
+units of the national park system in colorado:
+
+arapaho national recreation area[135]
+bent's old fort national historic site
+black canyon of the gunnison national park
+browns canyon national monument[136]
+canyons of the ancients national monument[137]
+chimney rock national monument[135]
+colorado national monument
+continental divide national scenic trail[138]
+curecanti national recreation area
+dinosaur national monument
+florissant fossil beds national monument
+great sand dunes national park and preserve
+hovenweep national monument
+mesa verde national park and unesco world heritage site
+old spanish national historic trail
+pony express national historic trail
+rocky mountain national park
+sand creek massacre national historic site
+santa fe national historic trail
+yucca house national monument
+see also: colorado trails and colorado scenic and historic byways
+
+see also[edit]
+
+
+north america portal
+united states portal
+colorado portal
+outline of colorado – organized list of topics about colorado
+index of colorado-related articles
+bibliography of colorado
+
+references[edit]
+
+
+^ "lawmakers name 'rocky mountain high' second state song | 9news.com". archive.9news.com. march 13, 2007. archived from the original on november 30, 2015. retrieved april 1, 2016..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ "median annual household income". retrieved december 9, 2016.
+
+^ a b "mount elbert". ngs data sheet. u.s. national geodetic survey. retrieved october 20, 2011.
+
+^ a b c "elevations and distances in the united states". united states geological survey. 2001. archived from the original on october 15, 2011. retrieved october 21, 2011.
+
+^ a b elevation adjusted to north american vertical datum of 1988.
+
+^ the summit of mount elbert is the highest point of the rocky mountains of north america.
+
+^ a b c president of the united states of america (august 1, 1876). "proclamation of the admission of colorado to the union" (php). the american presidency project. retrieved november 15, 2018.
+
+^ "colorado – definition". merriam-webster.com. august 13, 2010. retrieved june 5, 2011.
+
+^ "colorado – dictionary.reference.com". dictionary.com, llc. retrieved august 17, 2013.
+
+^ clark, kyle (june 27, 2018). what's the right way to pronounce 'colorado?' (tv news magazine segment). contributor: rich sandoval, linguist at metropolitan state university of denver. kusa-tv. retrieved august 4, 2018. [sandoval] found five pronunciations.
+
+^ a b c "quickfacts colorado; united states". 2018 population estimates. united states census bureau, population division. february 9, 2019. retrieved february 9, 2019.
+
+^ a b c "an act to provide a temporary government for the territory of colorado" (pdf). thirty-sixth united states congress. february 28, 1861. retrieved november 15, 2018.
+
+^ "archived copy". archived from the original on february 19, 2015. retrieved february 5, 2016.cs1 maint: archived copy as title (link)
+
+^ quillen, ed (march 18, 2007). "coloradoan or coloradan". denver post. retrieved july 30, 2010.
+
+^ "colorado is not a perfect rectangle". fascinating maps. retrieved november 15, 2018.
+
+^ a b "colorado is a rectangle? think again". the big think, inc. retrieved november 15, 2018.
+
+^ "shared solution: four corners". ngs survey monument data sheet. united states national geodetic survey. may 7, 2003.
+
+^ the official four corners monument is located at 36°59'56.31591″n, 109°2'42.62064"w, a short distance east of the 37°n, 109°02'48"w location congress originally designated.
+
+^ u.s. geological survey. "elevations and distances". archived from the original on january 16, 2008. retrieved september  8, 2006.
+
+^ "colorado county highpoints". retrieved february 27, 2012.
+
+^ a b doesken, nolan j.; pielke, roger a., sr.; bliss, odilia a.p. (january 2003). "climate of colorado". colorado climate center – department of atmospheric science – colorado state university. archived from the original on february  9, 2009. retrieved january 25, 2009.
+
+^ u.s. forest service. "rocky mountain region 14ers". retrieved november 6, 2009.
+
+^ "pikes peak, colorado". peakbagger.com. retrieved october 10, 2009.
+
+^ hansen, wallace r.; chronic, john; matelock, john (1979) [first published 1978]. climatography of the front range urban corridor and vicinity, colorado (pdf). geological survey professional paper 1019 (report). washington, dc: usg printing office. retrieved march 21, 2016.
+
+^ "climate of colorado". wrcc.dri.edu. retrieved april 1, 2016.
+
+^ a b "denver, colorado travel weather averages". weatherbase. retrieved july 10, 2013.
+
+^ "relocating to greenhorn valley". retrieved february 9, 2017.
+
+^ "historic denver hailstorm was called worst in american history". july 11, 2014.
+
+^ "hailstorm that hammered west metro denver may 8 is costliest ever for colorado". may 23, 2017.
+
+^ slater, jane (may 28, 2008). "thursday's tornado state's 4th costliest disaster". kmgh.
+
+^ prendergast, alan (april 29, 2015). "the 1965 flood: how denver's greatest disaster changed the city".
+
+^ "denver's consecutive 90 degree streaks". national weather service. retrieved october 10, 2009.
+
+^ "a history of drought" (pdf). retrieved july 30, 2010.
+
+^ "record highest temperatures by state" (pdf). national climatic data center. january 1, 2004. archived from the original (pdf) on november 17, 2001. retrieved january 11, 2007.
+
+^ "record lowest temperatures by state" (pdf). national climatic data center. january 1, 2004. archived from the original (pdf) on november 17, 2001. retrieved january 11, 2007.
+
+^ "noaa's national weather service – national climate". w2.weather.gov. retrieved april 1, 2016.
+
+^ [1] archived january 17, 2013, at the wayback machine
+
+^ "largest colorado quake since 1973 shakes homes". usa today. august 23, 2011. retrieved august 23, 2011.
+
+^ "four earthquakes rumble colorado overnight | outthere colorado". outthere colorado. 2018-08-24. retrieved 2018-09-10.
+
+^ liz.forster@gazette.com, liz forster. "3 earthquakes reported overnight in colorado". colorado springs gazette. retrieved september 10, 2018.
+
+^ "genocide wiped out native american population ", discovery news, september 20, 2010.
+
+^ early explorers identified the gunnison river in colorado as the headwaters of the colorado river. the grand river in colorado was later tentatively identified as the primary headwaters of the river. finally in 1916, e.c. larue, the chief hydrologist of the united states geological survey, identified the green river in southwestern wyoming as the proper headwaters of the actual, overall colorado river.
+
+^ multiple property documentation form. "national-register-of-historic" (pdf). www.nps.gov.
+
+^ report of the exploring expedition from santa fé, new mexico, to the junction of the grand and green rivers of the great colorado of the west, in 1859: under the command of capt. j. n. macomb, corps of topographical engineers, volume 1 @ archive.org
+
+^ forty-third united states congress (march 3, 1875). "an act to enable the people of colorado to form a constitution and state government, and for the admission of the said state into the union on an equal footing with the original states" (pdf). retrieved november 15, 2018.
+
+^ shu liu and linda m. meyer, carnations and the floriculture industry: documenting the cultivation and marketing of flowers in colorado, 2007
+
+^ kingman, dick (1986). a history – colorado flower growers and its people. http://ghex.colostate.edu/pdf_files/ahistorycoloradoflowergrowersanditspeople.pdf: colorado greenhouse growers association, inc.
+
+^ rebchook, john (october 15, 2015). "neighbors want historic designation for nw denver home".
+
+^ resident population data. "resident population data – 2010 census". 2010.census.gov. archived from the original on october 19, 2013. retrieved december 31, 2018.
+
+^ "population growth – colorado counties". epodunk.com. retrieved june 5, 2011.
+
+^ "population and population centers by state – 2000". united states census bureau. archived from the original on june 22, 2013. retrieved december 4, 2008.
+
+^ a b "archived copy". archived from the original on july 25, 2008. retrieved april 17, 2012.cs1 maint: archived copy as title (link)
+
+^ "population of colorado – census 2010 and 2000 interactive map, demographics, statistics, quick facts". censusviewer.com. retrieved april 1, 2016.
+
+^ 2010 census data. "2010 census data – 2010 census". census.gov. retrieved april 1, 2016.
+
+^ "profile of general population and housing characteristics: 2010 : 2010 demographic profile data". factfinder2.census.gov. archived from the original (pdf) on march 5, 2014. retrieved april 1, 2016.
+
+^ "historical census statistics on population totals by race, 1790 to 1990, and by hispanic origin, 1970 to 1990, for the united states, regions, divisions, and states". u.s. census bureau. archived from the original on december 24, 2014. retrieved january 3, 2012.
+
+^ "colorado quickfacts from the us census bureau". quickfacts.census.gov. archived from the original on february 19, 2016. retrieved april 1, 2016.
+
+^ "talking about colorado in "nada"". elcastellano.org. june 30, 2007. retrieved july 30, 2010.
+
+^ "national vital statistics reports, volume 57, number 12, (march 18, 2009)" (pdf). retrieved july 30, 2010.
+
+^ "department of public health and environment |". cdphe.state.co.us. retrieved april 1, 2016.
+
+^ "people of colorado statistics". statemaster.com. june 15, 2007. retrieved april 1, 2016.
+
+^ "losing ground" (pdf). adworks.org. retrieved april 1, 2016.
+
+^ exner, rich (june 3, 2012). "americans under age 1 now mostly minorities, but not in ohio: statistical snapshot". the plain dealer.
+
+^ "births: final data for 2013 volume 64, number 1" (pdf). national vital statistics reports. january 15, 2015. retrieved august 8, 2017.
+
+^ "births: final data for 2014 volume 64, number 12" (pdf). national vital statistics reports. december 23, 2015. retrieved august 8, 2017.
+
+^ "births: final data for 2015 volume 66, number 1" (pdf). national vital statistics reports. january 5, 2017. retrieved august 8, 2017.
+
+^ nvsr67_01.pdf. "national vital statistics reports" (pdf). www.cdc.gov.
+
+^ https://www.cdc.gov/nchs/data/nvsr/nvsr67/nvsr67_08-508.pdf
+
+^ https://www.cdc.gov/nchs/data/nvsr/nvsr67/nvsr67_08-508.pdf
+
+^ "languages - colorado". www.city-data.com.
+
+^ .adkins, amy. "mississippi and alabama most protestant states in u.s". gallup.com. retrieved april 1, 2016.
+
+^ "religion in america: u.s. religious data, demographics and statistics | pew research center". religions.pewforum.org. retrieved april 1, 2016.
+
+^ "the association of religion data archives | state membership report". www.thearda.com. retrieved november 7, 2013.
+
+^ "religious landscape study". may 11, 2015.
+
+^ "percentage of obese adult population" (gif). calorielab.com. retrieved april 1, 2016.
+
+^ "fattest states 2010: calorielab's annual obesity map – state obesity rankings | calorielab – health news & information blog". calorielab. june 28, 2010. retrieved june 5, 2011.
+
+^ dwyer-lindgren, laura (may 8, 2017). "inequalities in life expectancy among us counties, 1980 to 2014". journal of the american medical association: internal medicine. 177 (7): 1003–1011. doi:10.1001/jamainternmed.2017.0918. pmc 5543324. pmid 28492829. retrieved may 9, 2017.
+
+^ cangialosi, jason. "scenic memorabilia: colorado's film locations". yahoo! movies. retrieved march 4, 2013.
+
+^ knowlton, andrew. "america's foodiest town 2010: boulder, colorado: in the magazine". bonappetit.com. retrieved june 5, 2011.
+
+^ [2] archived march 15, 2011, at the wayback machine
+
+^ arnold, katie (june 8, 2008). "as skiers depart aspen, chowhounds take their place". aspen (colo): travel.nytimes.com. retrieved june 5, 2011.
+
+^ "colorado travel guide". travelandleisure.com. retrieved june 5, 2011.
+
+^ jackenthal, stefani (october 5, 2008). "biking colorado's wine country". colorado: travel.nytimes.com. retrieved june 5, 2011.
+
+^ "the jefferson cup invitational wine competition". thejeffersoncup.com. november 24, 2010. archived from the original on may 1, 2011. retrieved june 5, 2011.
+
+^ "wine industry feature articles – is colorado the new washington?". winesandvines.com. retrieved june 5, 2011.
+
+^ "alcohol and tobacco tax and trade bureau : u.s. department of the treasury : tables" (pdf). ttb.gov. archived from the original (pdf) on march 19, 2015. retrieved april  1, 2016.
+
+^ "colorado wine industry development board". coloradowine.com. archived from the original on april 28, 2011. retrieved june  5, 2011.
+
+^ "grand valley, colorado - top 10 wine getaways 2018 - wine enthusiast magazine".
+
+^ "colorado beer.org". coloradobeer.org. retrieved january 24, 2013.
+
+^ "the denver beer triangle". denver.org. retrieved june 18, 2013.
+
+^ land water people time (cultural guide) (february 11, 2014). "a new rocky mountain high: colorado open for cannabis tourism – the santa fe new mexican: travel". the santa fe new mexican. retrieved april 1, 2016.
+
+^ "marijuana sales reports - department of revenue". www.colorado.gov.
+
+^ "marijuana tax data - department of revenue". www.colorado.gov.
+
+^ "industrial hemp | department of agriculture – plants". colorado.gov. march 30, 2015. retrieved april 1, 2016.
+
+^ amendment 64: (6).j
+
+^ "colorado senate bill 14-184". retrieved october 13, 2014.
+
+^ "active state medical marijuana programs – norml". norml.com. archived from the original on may 3, 2008. retrieved june 4, 2008.
+
+^ "full text of colorado amendment 20 – medical use of marijuana 2000". nationalfamilies.org. retrieved april 1, 2016.
+
+^ young, saundra (august 7, 2013), marijuana stops child's severe seizures, cnn, retrieved january 1, 2014
+
+^ colorado laws pertaining to medical marijuana, colorado department of public health and environment, 2014, retrieved january 1, 2014 several links are found, including .pdf documents to download.
+
+^ campbell, greg (november 27, 2013), colorado may fund research into medical marijuana, another first, the daily caller, retrieved january 1, 2014
+
+^ markus, ben (november 26, 2013), colorado to spend millions researching medical marijuana benefits, colorado public radio, retrieved january 1, 2014
+
+^ "aclu joins campaign to regulate marijuana like alcohol – aclu – colorado". aclu-co.org. retrieved april 1, 2016.
+
+^ a b healy, jack. "colorado stores throw open their doors to pot buyers". the new york times. retrieved january 1, 2014.
+
+^ several air force teams participate in other conferences, or as independents, in sports that the mw does not sponsor:
+boxing, a men-only sport which is not sanctioned by the ncaa, competes as an independent.
+fencing, a coeducational sport with men's and women's squads, also competes as an independent.
+men's and women's gymnastics both compete in the mountain pacific sports federation.
+men's ice hockey competes in atlantic hockey.
+men's lacrosse competes in the southern conference.
+rifle, which at air force is a coeducational sport, competes in the patriot rifle conference.
+men's soccer and women's swimming & diving compete in the western athletic conference.
+wrestling, a men-only sport, competes in the big 12 conference.
+
+^ several colorado teams participate in other conferences in sports that the pac-12 does not sponsor:
+men's and women's indoor track & field compete in the mountain pacific sports federation.
+skiing, a coeducational sport with men's and women's squads, competes in the rocky mountain intercollegiate ski association.
+
+^ several denver teams participate in other conferences in sports that the summit league does not sponsor:
+women's gymnastics competes in the big 12 conference.
+men's ice hockey competes in the national collegiate hockey conference.
+men's and women's lacrosse compete in the big east conference.
+skiing, a coeducational sport with men's and women's squads, competes in the rocky mountain intercollegiate ski association.
+
+^ several northern colorado teams participate in other conferences in sports that the big sky does not sponsor:
+baseball (a men-only sport) and women's swimming & diving compete in the western athletic conference.
+wrestling, a men-only sport, competes in the big 12 conference.
+
+^ "archived copy". archived from the original on december 26, 2011. retrieved july 24, 2011.cs1 maint: archived copy as title (link)
+
+^ analysis, us department of commerce, bea, bureau of economic. "bureau of economic analysis". www.bea.gov. archived from the original on december 30, 2017. retrieved april 24, 2018.
+
+^ "median annual household income". the henry j. kaiser family foundation. 2017-09-22. retrieved 2018-10-11.
+
+^ "references" (pdf). archived from the original (pdf) on april 12, 2010. retrieved july 30, 2010.
+
+^ frank, tony (january 1997). "colorado land ownership by county (acres)". colorado department of agriculture. archived from the original (excel) on january 16, 2006. retrieved july 15, 2007.
+
+^ "colorado rides on fat tire to beer heights". rockymountainnews.com. november 24, 2007. retrieved june 5, 2011.
+
+^ colorado individual income tax return (2005) revenue.state.co.us archived december 17, 2008, at the wayback machine. retrieved september 26, 2006.
+
+^ u.s. individual income tax return (2005) online copy. retrieved september 26, 2006.
+
+^ "local area unemployment statistics home page". bls.gov. retrieved february 4, 2019.
+
+^ "philanthropy in colorado" (pdf). colorado association of funders. archived from the original (pdf) on october 19, 2013.
+
+^ "eia state energy profiles: colorado". june 12, 2008. retrieved june 24, 2008.
+
+^ "archived copy". archived from the original on february 19, 2012. retrieved may 9, 2012.cs1 maint: archived copy as title (link)
+
+^ "railroads and states". aar.org. archived from the original on june  6, 2013. retrieved july 10, 2013.
+
+^ nicholson, kieran (august 1, 2014). "immigrants here illegally begin receiving colorado driver licenses". denver post. retrieved august 1, 2014.
+
+^ "524 non-citizens received regular colorado driver's licenses, dmv says". kcnc. denver. september 12, 2014. retrieved february 19, 2015.
+
+^ "total registered voters by party affiliation and status as of fri apr 01 2016 03:07:45 gmt-0600 (mdt)" (pdf).
+
+^ "state of residence in 2000 by state of birth". us census bureau. retrieved october 10, 2009.
+
+^ "colorado counties". state of colorado, department of local affairs. january 8, 2007. archived from the original on february 2, 2007. retrieved january 30, 2007.
+
+^ the united states office of management and budget defines a combined statistical area (csa) as an aggregate of adjacent core based statistical areas that are linked by commuting ties.
+
+^ the united states office of management and budget defines a metropolitan statistical area (msa) as a core based statistical area having at least one urbanized area of 50,000 or more population, plus adjacent territory that has a high degree of social and economic integration with the core as measured by commuting ties.
+
+^ the united states office of management and budget defines a micropolitan statistical area (μsa) as a core based statistical area having at least one urban cluster of at least 10,000 but less than 50,000 population, plus adjacent territory that has a high degree of social and economic integration with the core as measured by commuting ties.
+
+^ "omb bulletin no. 10-02: update of statistical area definitions and guidance on their uses" (pdf). united states office of management and budget. december 1, 2009. retrieved january 7, 2010.
+
+^ a b c "american factfinder". united states census bureau. retrieved february 9, 2019.
+
+^ "active colorado municipalities". state of colorado, department of local affairs. archived from the original on november 23, 2010. retrieved may 11, 2011.
+
+^ "colorado local government by type". state of colorado, department of local affairs. february 27, 2007. archived from the original on february 2, 2007. retrieved may 11, 2011.
+
+^ by legislative act enacted august 1, 2012, approved by governor john hickenlooper.
+
+^ a b managed by the united states department of agriculture, national forest service.
+
+^ jointly managed by the united states department of the interior, bureau of land management and the united states department of agriculture, national forest service.
+
+^ managed by the united states department of the interior, bureau of land management.
+
+^ jointly managed by the united states department of agriculture, national forest service, and the united states department of the interior, national park service and bureau of land management.
+
+
+further reading[edit]
+.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}
+explore colorado, a naturalist's handbook, the denver museum of natural history and westcliff publishers, 1995, isbn 1-56579-124-x for an excellent guide to the ecological regions of colorado.
+the archeology of colorado, revised edition, e. steve cassells, johnson books, boulder, colorado, 1997, trade paperback, isbn 1-55566-193-9.
+chokecherry places, essays from the high plains, merrill gilfillan, johnson press, boulder, colorado, trade paperback, isbn 1-55566-227-7.
+gunther, john (1947). "–but scenery is not enough". inside u.s.a. new york, london: harper & brothers. pp. 213–226.
+the tie that binds, kent haruf, 1984, hardcover, isbn 0-03-071979-8, a fictional account of farming in colorado.
+railroads of colorado: your guide to colorado's historic trains and railway sites, claude wiatrowski, voyageur press, 2002, hardcover, 160 pages, isbn 0-89658-591-3
+study finds legal marijuana motivates many tourists to visit colorado, (n.d.). retrieved from http://www.denverpost.com/business/ci_29225304/marijuana-has-huge-influence-colorado-tourism-state-survey
+
+external links[edit]
+this article's use of external links may not follow wikipedia's policies or guidelines. please improve this article by removing excessive or inappropriate external links, and converting useful links where appropriate into footnote references. (april 2016) (learn how and when to remove this template message)
+
+coloradoat wikipedia's sister projects
+
+
+definitions from wiktionary
+media from wikimedia commons
+news from wikinews
+quotations from wikiquote
+texts from wikisource
+textbooks from wikibooks
+travel guide from wikivoyage
+resources from wikiversity
+
+
+
+state government
+
+colorado state government website
+colorado department of transportation
+colorado highway maps
+colorado travel map
+colorado counties
+colorado municipalities
+colorado special districts
+colorado tourism
+list of searchable databases produced by colorado state agencies hosted by the american library association government documents roundtable.
+federal government
+
+energy & environmental data for colorado
+usgs colorado state facts, real-time, geographic, and other scientific resources of colorado
+united states census bureau
+colorado quickfacts
+colorado economic data
+colorado housing data
+colorado social data
+usda ers colorado state facts
+other
+
+history colorado
+colorado county evolution
+ask colorado
+colorado historic newspapers collection (chnc) "a service of the colorado state library… includes more than 1,100,000 digitized pages from more than 220 individual newspaper titles published in colorado primarily from 1859 to 1923" and, with publisher's permission, some newer digitized content
+2000 census of population and housing for colorado
+mountain and desert plants of colorado and the southwest,
+climate of colorado
+colorado at curlie
+ geographic data related to colorado at openstreetmap
+holocene volcano in colorado (smithsonian institution global volcanism program) 
+
+
+
+preceded bynebraska
+
+ list of u.s. states by date of admission to the unionadmitted on august 1, 1876 (38th)
+
+succeeded bynorth dakota
+
+
+topics related to coloradothe centennial state
+vte state of coloradodenver (capital)topics
+index
+coloradans
+elections
+federal lands
+geography
+government
+highways
+history
+timeline
+images
+law
+military
+mountains
+museums
+public defender
+paleontology
+rivers
+symbols
+transportation
+tourist attractions
+seal of coloradosociety
+crime
+culture
+demographics
+economy
+education
+politics
+sports
+regions
+central colorado
+denver-aurora-lakewood, co metropolitan statistical area
+eastern plains
+front range
+grand valley
+high plains
+high rockies
+mineral belt
+northern colorado
+northwestern colorado
+piedmont
+plateau
+roan plateau
+roaring fork valley
+san luis valley
+sangre de cristo mountains
+south-central colorado
+southwest colorado
+uinta mountains
+uintah basin
+western slope
+municipalities
+akron
+alamosa
+arvada
+aspen
+aurora
+boulder
+breckenridge
+brighton
+broomfield
+cañon city
+castle rock
+centennial
+colorado springs
+commerce city
+cortez
+craig
+delta
+denver
+durango
+englewood
+erie
+evans
+fairplay
+federal heights
+fort collins
+fort morgan
+fountain
+golden
+glenwood springs
+grand junction
+greeley
+greenwood village
+gunnison
+la junta
+lafayette
+lakewood
+lamar
+leadville
+littleton
+longmont
+louisville
+loveland
+montrose
+northglenn
+parker
+platteville
+pueblo
+salida
+steamboat springs
+sterling
+superior
+thornton
+trinidad
+vail
+westminster
+wheat ridge
+windsor
+counties
+adams
+alamosa
+arapahoe
+archuleta
+baca
+bent
+boulder
+broomfield
+chaffee
+cheyenne
+clear creek
+conejos
+costilla
+crowley
+custer
+delta
+denver
+dolores
+douglas
+eagle
+el paso
+elbert
+fremont
+garfield
+gilpin
+grand
+gunnison
+hinsdale
+huerfano
+jackson
+jefferson
+kiowa
+kit carson
+la plata
+lake
+larimer
+las animas
+lincoln
+logan
+mesa
+mineral
+moffat
+montezuma
+montrose
+morgan
+otero
+ouray
+park
+phillips
+pitkin
+prowers
+pueblo
+rio blanco
+rio grande
+routt
+saguache
+san juan
+san miguel
+sedgwick
+summit
+teller
+washington
+weld
+yuma
+
+vtemayors of cities with populations exceeding 100,000 in colorado
+michael hancock(denver)
+john suthers(colorado springs)
+bob legare(aurora)
+wade troxell(fort collins)
+adam paul(lakewood)
+heidi k. williams(thornton)
+ marc williams(arvada)
+herb atchinson(westminster)
+nick gradisar(pueblo)
+stephanie piko(centennial)
+suzanne jones(boulder)
+ john gates(greeley)
+
+vteprotected areas of coloradofederalnational parks
+black canyon of the gunnison
+great sand dunes
+mesa verde
+rocky mountain
+national monuments
+browns canyon (blm-usfs)
+canyons of the ancients (blm)
+chimney rock (usfs)
+colorado
+dinosaur
+florissant fossil beds
+hovenweep
+yucca house
+national recreation areas
+arapaho (usfs)
+curecanti
+national historic sites
+bent's old fort
+sand creek massacre
+national historic trails
+old spanish trail
+oregon trail
+pony express trail
+santa fe trail
+national scenic trail
+continental divide trail
+national forests
+arapaho
+grand mesa
+gunnison
+pike
+rio grande
+roosevelt
+routt
+san isabel
+san juan
+uncompahgre
+white river
+national grasslands
+comanche
+pawnee
+national wilderness
+black canyon of the gunnison
+black ridge canyons
+buffalo peaks
+byers peak
+cache la poudre
+collegiate peaks
+comanche peak
+dominguez
+eagles nest
+flat tops
+fossil ridge
+great sand dunes
+greenhorn mountain
+gunnison gorge
+holy cross
+hunter-fryingpan
+indian peaks
+james peak
+la garita
+lizard head
+lost creek
+maroon bells-snowmass
+mesa verde
+mount evans
+mount massive
+mount sneffels
+mount zirkel
+neota
+never summer
+platte river
+powderhorn
+ptarmigan peak
+raggeds
+rawah
+rocky mountain national park
+sangre de cristo
+sarvis creek
+south san juan
+spanish peaks
+uncompahgre
+vasquez peak
+weminuche
+west elk
+national conservation areas
+dominguez-escalante
+gunnison gorge
+mcinnis canyons
+national wildlife refuges
+alamosa
+arapaho
+baca
+browns park
+monte vista
+rocky flats
+rocky mountain arsenal
+two ponds
+blm acecs
+66 areas of critical environmental concern
+wild and scenic rivers
+cache la poudre river
+statecolorado state parks
+arkansas headwaters
+barr lake
+boyd lake
+castlewood canyon
+chatfield
+cherry creek
+cheyenne mountain
+crawford
+eldorado canyon
+eleven mile
+elkhead
+golden gate canyon
+harvey gap
+highline lake
+jackson lake
+james m. robb - colorado river
+john martin reservoir
+lake pueblo
+lathrop
+lone mesa
+lory
+mancos
+mueller
+navajo
+north sterling
+paonia
+pearl lake
+ridgway
+rifle falls
+rifle gap
+roxborough
+spinney mountain
+st. vrain
+stagecoach
+state forest
+staunton
+steamboat lake
+sweitzer lake
+sylvan lake
+trinidad lake
+vega
+yampa river
+colorado natural areas
+aiken canyon
+ant hill
+antero-salt creek
+arikaree river
+badger wash
+blacks gulch
+blue mountain
+bonny prairie
+boston peak fen
+boulder mountain park
+boulder valley heronry
+brush creek fen
+california park
+castlewood canyon
+chalk bluffs
+colorado tallgrass prairie
+comanche grassland
+copeland willow carr
+cross mountain canyon
+daves draw
+deep creek
+deer gulch
+dinosaur ridge
+dome rock
+droney gulch
+duck creek
+dudley bluffs
+east lost park
+east sand dunes
+elephant rocks
+elk river
+escalante canyon
+escalante creek
+fairview
+fourmile creek
+fruita paleontological
+garden park fossil
+gateway palisade
+geneva basin iron fens
+gothic
+gunnison gravels
+haviland lake
+high creek fen
+high mesa grassland
+hoosier ridge
+hurricane canyon
+indian spring
+indian springs trace fossil
+irish canyon
+jimmy creek
+ken-caryl ranch
+kremmling cretaceous ammonite
+lake pasture
+lake san cristobal
+limestone ridge
+lookout mountain
+lost park
+lower greasewood creek
+mcelmo
+mexican cut
+mini-wheeler
+miramonte reservoir
+mishak lakes
+moosehead mountain
+mount callahan
+mount callahan saddle
+mount emmons iron fen
+mount goliath
+narraguinnep
+needle rock
+north park phacelia
+orient mine
+owl canyon
+paradise park
+park creek hogback
+park mesa
+pawnee woodlands
+pyramid rock
+rabbit valley
+rajadero canyon
+raven ridge
+redcloud peak
+rocky mountain woodfrog pond
+rough canyon
+roxborough
+running creek
+ryan gulch
+saddle mountain
+san miguel river
+sand creek
+shell duck creek
+shell rock
+slumgullion earthflow
+south beaver creek
+south boulder creek
+south cathedral bluffs
+specimen mountain
+staunton
+tabeguache
+tamarack ranch
+tern island
+treasurevault mountain
+trinidad k-t boundary
+two buttes
+unaweep seep
+uncompahgre fritillary
+wacker ranch
+west creek
+wheeler geologic
+white rocks
+williams creek
+yanks gulch/upper greasewood creek natural area
+zapata falls
+state wildlife areas
+307 colorado state wildlife areas
+othertrails
+american discovery trail
+colorado trail
+continental divide trail
+great divide trail
+kokopelli trail
+paradox trail
+tabeguache trail
+colorado department of natural resources (web)
+vtewestern united statesregions
+rocky mountains
+great basin
+west coast
+pacific northwest
+mountain states
+states
+alaska
+arizona
+california
+colorado
+hawaii
+idaho
+montana
+nevada
+new mexico
+oregon
+utah
+washington
+wyoming
+major metropolitan areas
+los angeles
+greater la
+phoenix
+san francisco bay area
+san jose–oakland
+san bernardino-riverside
+seattle
+san diego
+denver
+portland
+las vegas
+paradise
+sacramento
+salt lake city
+honolulu
+oahu
+albuquerque
+santa fe
+anchorage
+major cities
+anchorage
+albuquerque
+denver
+honolulu
+las vegas
+los angeles
+long beach
+oakland
+phoenix
+portland
+reno
+riverside
+sacramento
+san bernardino
+san diego
+san francisco
+san jose
+salt lake city
+seattle
+spokane
+tucson
+state capitals
+boise
+carson city
+cheyenne
+denver
+helena
+honolulu
+juneau
+olympia
+phoenix
+sacramento
+salem
+salt lake city
+santa fe
+
+ portal
+
+vte new france (1534–1763)subdivisions
+acadia (1604–1713)
+canada (1608–1763) pays d'en haut
+domaine du roy
+louisiana (1682–1763, 1801–1803) illinois country ohio country
+newfoundland (1662–1713)
+île royale (1713–1763)
+towns and villages
+acadia (port royal)
+canada
+quebec
+trois-rivières
+montreal
+détroit
+île royale
+louisbourg
+louisiana
+mobile
+biloxi
+new orleans
+newfoundland
+plaisance
+forts
+fort rouillé
+fort michilimackinac
+fort de buade
+fort de chartres
+fort detroit
+fort carillon
+fort condé
+fort duquesne
+fortress of louisbourg
+castle hill
+fort st. louis (illinois)
+fort st. louis (texas)
+list of forts
+government
+canada
+governor general
+intendant
+sovereign council
+bishop of quebec
+governor of trois-rivières
+governor of montreal
+acadia
+governor
+lieutenant-general
+newfoundland
+governor
+lieutenant-general
+louisiana
+governor
+intendant
+superior council
+île royale
+governor
+intendant
+superior council
+law
+intendancy
+superior council
+admiralty court
+provostship
+officiality
+seigneurial court
+bailiff
+maréchaussée
+code noir
+economy
+seigneurial system
+fur trade
+company of 100 associates
+crozat's company
+mississippi company
+compagnie de l'occident
+chemin du roy
+coureur des bois
+voyageurs
+society
+population
+1666 census
+habitants
+king's daughters
+casquette girls
+métis
+amerindians
+slavery
+plaçage
+gens de couleur libres
+religion
+jesuit missions
+récollets
+grey nuns
+ursulines
+sulpicians
+war and peace
+military of new france
+intercolonial wars
+french and iroquois wars
+great upheaval
+great peace of montreal
+schenectady massacre
+deerfield massacre
+related
+french colonization of the americas
+french colonial empire
+history of quebec
+history of the acadians
+history of the french-americans
+french west indies
+carib expulsion
+atlantic slave trade
+
+ category
+ commons
+ portal
+
+vte new spain (1521–1821)conflicts
+spanish conquest of the aztec empire →
+spanish conquest of guatemala →
+spanish conquest of yucatán →
+anglo-spanish war (1585–1604) →
+anglo-spanish war (1625–30) →
+dutch revolt →
+anglo-spanish war (1654–60) →
+piracy in the caribbean →
+queen anne's war →
+war of jenkins' ear →
+seven years' war →
+spanish involvement in the american revolutionary war
+conflictswith indigenous peoplesduring colonial rule
+mixtón war →
+yaqui wars →
+chichimeca war →
+philippine revolts against spain →
+acaxee rebellion →
+spanish–moro conflict →
+acoma massacre →
+tepehuán revolt →
+tzeltal rebellion →
+pueblo revolt →
+pima revolt →
+spanish american wars of independence
+
+governmentand administrationcentralgovernmenthabsburg spain
+charles i
+joanna of castile
+philip ii
+philp iii
+philip iv
+charles ii
+bourbon spain
+philip v (also reigned after louis i)
+louis i
+ferdinand vi
+charles iii
+charles iv
+ferdinand vii of spain (also reigned after joseph i)
+viceroys ofnew spain
+list of viceroys of new spain
+audiencias
+guadalajara
+captaincy general of guatemala
+manila
+mexico
+santo domingo
+captancies general
+cuba
+guatemala
+philippines
+puerto rico
+santo domingo
+yucatán
+provincias internas
+intendancy
+havana
+new orleans
+state of mexico
+chiapas
+comayagua
+nicaragua
+camagüey
+santiago de cuba
+guanajuato
+valladolid
+guadalajara
+zacatecas
+san luis potosí
+veracruz
+puebla
+oaxaca
+durango
+sonora
+mérida, yucatán
+politics
+viceroy
+gobernaciones
+adelantado
+captain general
+corregidor (position)
+cabildo
+encomienda
+treaties
+treaty of tordesillas
+treaty of zaragoza
+peace of westphalia
+treaty of ryswick
+treaty of utrecht
+congress of breda
+treaty of fontainebleau (1762)
+treaty of paris (1783)
+treaty of córdoba
+adams–onís treaty
+notablecities,provinces,& territoriescities
+mexico city
+veracruz
+xalapa
+puebla
+toluca
+cuernavaca
+oaxaca
+morelia
+acapulco
+campeche
+mérida
+guadalajara
+durango
+monterrey
+león
+guanajuato
+zacatecas
+pachuca
+querétaro
+saltillo
+san luis potosí
+los ángeles
+yerba buena (san francisco)
+san josé
+san diego
+santa fe
+albuquerque
+el paso
+los adaes
+san antonio
+tucson
+pensacola
+st. augustine
+havana
+santo domingo
+san juan
+antigua guatemala
+cebu
+manila
+provinces& territories
+la florida
+las californias
+santa fe de nuevo méxico
+alta california
+baja california
+tejas
+nueva galicia
+nueva vizcaya
+nueva extremadura
+new kingdom of león
+cebu
+bulacan
+pampanga
+other areas
+spanish formosa
+explorers, adventurers & conquistadorspre-new spainexplorers
+christopher columbus
+ferdinand magellan
+juan sebastián elcano
+vasco núñez de balboa
+diego velázquez de cuéllar
+
+explorers &conquistadors
+hernán cortés
+juan ponce de león
+nuño de guzmán
+bernal díaz del castillo
+pedro de alvarado
+pánfilo de narváez
+hernando de soto
+francisco vásquez de coronado
+juan rodríguez cabrillo
+miguel lópez de legazpi
+ángel de villafañe
+álvar núñez cabeza de vaca
+pedro menéndez de avilés
+luis de carabajal y cueva
+juan de oñate
+juan josé pérez hernández
+gaspar de portolà
+manuel quimper
+cristóbal de oñate
+andrés de urdaneta
+ruy lópez de villalobos
+diego velázquez de cuéllar
+francisco hernández de córdoba (yucatán conquistador)
+francisco hernández de córdoba (founder of nicaragua)
+gil gonzález dávila
+francisco de ulloa
+juan josé pérez hernández
+dionisio alcalá galiano
+bruno de heceta
+juan francisco de la bodega y quadra
+alonso de león
+ignacio de arteaga y bazán
+josé de bustamante y guerra
+josé maría narváez
+pedro sarmiento de gamboa
+antonio gil y'barbo
+alexander von humboldt
+thomas gage
+catholic churchin new spainspanish missionsin the americas
+spanish missions in arizona
+spanish missions in baja california
+spanish missions in california
+spanish missions in the carolinas
+spanish missions in florida
+spanish missions in georgia
+spanish missions in louisiana
+spanish missions in mexico
+spanish missions in new mexico
+spanish missions in the sonoran desert
+spanish missions in texas
+spanish missions in virginia
+spanish missions in trinidad
+
+friars, fathers,priests, & bishops
+pedro de gante
+gerónimo de aguilar
+toribio de benavente motolinia
+bernardino de sahagún
+juan de zumárraga
+alonso de montúfar
+vasco de quiroga
+bartolomé de las casas
+alonso de molina
+diego durán
+diego de landa
+gerónimo de mendieta
+juan de torquemada
+juan de palafox y mendoza
+carlos de sigüenza y góngora
+eusebio kino
+francisco javier clavijero
+junípero serra
+francisco palóu
+fermín lasuén
+esteban tápis
+josé francisco de paula señan
+mariano payeras
+sebastián montero
+marcos de niza
+francisco de ayeta
+antonio margil
+francisco marroquín
+manuel abad y queipo
+miguel hidalgo y costilla
+josé maría morelos
+
+other events
+suppression of the jesuits
+california mission clash of cultures
+cargo system
+indian reductions
+societyand cultureindigenouspeoplesmesoamerican
+aztec
+maya
+huastec
+mixtec
+p'urhépecha
+totonac
+pipil
+kowoj
+k'iche'
+kaqchikel
+zapotec
+poqomam
+mam
+caribbean
+arawak
+ciboney
+guanajatabey
+california
+mission indians
+cahuilla
+chumash
+cupeño
+juaneño
+kumeyaay
+luiseño
+miwok
+mohave
+ohlone
+serrano
+tongva
+southwestern
+apache
+coahuiltecan
+cocopa
+comanche
+hopi
+hualapai
+la junta
+navajo
+pima
+puebloan
+quechan
+solano
+yaqui
+zuni
+north-northwestmexico
+acaxee
+chichimeca
+cochimi
+kiliwa
+ópata
+tepehuán
+florida & othersoutheastern tribes
+indigenous people during de soto's travels
+apalachee
+calusa
+creek
+jororo
+pensacola
+seminole
+timucua
+yustaga
+
+filipino people
+negrito
+igorot
+mangyan
+peoples of palawan
+ati
+panay
+lumad
+bajau
+tagalog
+cebuano
+
+others
+taiwanese aborigines
+chamorro people
+
+architecture
+spanish colonial style
+by country
+colonial baroque style
+forts
+missions
+
+trade & economy
+real
+columbian exchange
+manila galleon
+triangular trade
+
+people & classes
+casta
+peninsulars
+criollo
+indios
+mestizo
+castizo
+coyotes
+pardos
+zambo
+negros
+
+people
+juan bautista de anza
+juan rodríguez cabrillo
+francis drake
+miguel hidalgo y costilla
+eusebio kino
+la malinche
+fermín lasuén
+limahong
+moctezuma ii
+junípero serra
+hasekura tsunenaga
+
+ category
+ portal
+
+vte political divisions of the united statesstates
+alabama
+alaska
+arizona
+arkansas
+california
+colorado
+connecticut
+delaware
+florida
+georgia
+hawaii
+idaho
+illinois
+indiana
+iowa
+kansas
+kentucky
+louisiana
+maine
+maryland
+massachusetts
+michigan
+minnesota
+mississippi
+missouri
+montana
+nebraska
+nevada
+new hampshire
+new jersey
+new mexico
+new york
+north carolina
+north dakota
+ohio
+oklahoma
+oregon
+pennsylvania
+rhode island
+south carolina
+south dakota
+tennessee
+texas
+utah
+vermont
+virginia
+washington
+west virginia
+wisconsin
+wyoming
+federal districtwashington, d.c.insular areas
+american samoa
+guam
+northern mariana islands
+puerto rico 
+u.s. virgin islands
+outlying islands
+baker island
+howland island
+jarvis island
+johnston atoll
+kingman reef
+midway atoll
+navassa island
+palmyra atoll
+wake island
+indian reservations
+list of indian reservations
+other
+federal enclave
+
+coordinates: 39°00′n 105°30′w﻿ / ﻿39°n 105.5°w﻿ / 39; -105.5e
+
+authority control 
+bnf: cb12065838s (data)
+gnd: 4010406-0
+isni: 0000 0004 0405 855x
+lccn: n80125532
+musicbrainz: 373183af-56db-44d7-b06a-5877c02c5f01
+nara: 10045261
+ndl: 00655584
+nkc: ge134121
+viaf: 145998913
+ worldcat identities (via viaf): 145998913
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=colorado&oldid=883958120"					
+categories: coloradoformer spanish coloniesstates and territories established in 1876states of the united stateswestern united states1876 establishments in the united stateshidden categories: cs1: julian–gregorian uncertaintycs1 maint: archived copy as titlewebarchive template wayback linksuse mdy dates from february 2018articles with short descriptionarticles with haudio microformatspages including recorded pronunciations (english)articles containing potentially dated statements from 2007all articles containing potentially dated statementsarticles containing potentially dated statements from december 2018articles containing potentially dated statements from january 2013articles containing potentially dated statements from april 2016articles containing potentially dated statements from 2018wikipedia external links cleanup from april 2016wikipedia spam cleanup from april 2016articles with curlie linkscoordinates on wikidatawikipedia articles with bnf identifierswikipedia articles with gnd identifierswikipedia articles with isni identifierswikipedia articles with lccn identifierswikipedia articles with musicbrainz area identifierswikipedia articles with nara identifierswikipedia articles with ndl identifierswikipedia articles with nkc identifierswikipedia articles with viaf identifierswikipedia articles with worldcat-viaf identifiers 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commonswikivoyage 
+
+
+
+languages
+
+
+afrikaansአማርኛængliscالعربيةaragonésܐܪܡܝܐarpetanasturianuavañe'ẽaymar aruazərbaycancaتۆرکجهবাংলাbân-lâm-gúбашҡортсабеларускаябеларуская (тарашкевіца)‎भोजपुरीbikol centralbislamaбългарскиboarischབོད་ཡིགbosanskibrezhonegбуряадcatalàчӑвашлаcebuanočeštinachavacano de zamboangacorsucymraegdanskdavvisámegielladeutschdiné bizaadeestiελληνικάemiliàn e rumagnòlespañolesperantoeuskaraفارسیfiji hindiføroysktfrançaisfryskgaeilgegaelggagauzgàidhliggalego客家語/hak-kâ-ngîхальмг한국어hausahawaiʻiհայերենहिन्दीhornjoserbscehrvatskiidoigboilokanoবিষ্ণুপ্রিয়া মণিপুরীbahasa indonesiainterlinguainterlingueᐃᓄᒃᑎᑐᑦ/inuktitutiñupiakиронisizuluíslenskaitalianoעבריתbasa jawakabɩyɛkapampanganქართულიқазақшаkernowekkiswahilikreyòl ayisyenkurdîкырык марыladinoلۊری شومالیlatinalatviešulëtzebuergeschlietuviųligurelimburgslingua franca novala .lojban.lumbaartmagyarमैथिलीмакедонскиmalagasyമലയാളംmāoriमराठीმარგალურიمصرىمازِرونیbahasa melayumìng-dĕ̤ng-ngṳ̄монголမြန်မာဘာသာnāhuatldorerin naoeronederlandsnedersaksiesनेपालीनेपाल भाषा日本語нохчийнnordfriisknorsknorsk nynorskoccitanолык марийoʻzbekcha/ўзбекчаਪੰਜਾਬੀपालिپنجابیpapiamentuپښتوpiemontèistok pisinplattdüütschpolskiportuguêsromânărumantschruna simiрусскийсаха тылаgagana samoaसंस्कृतम्sarduscotsseelterskshqipsicilianusimple englishسنڌيslovenčinaslovenščinaślůnskiکوردیсрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskatagalogதமிழ்татарча/tatarçaతెలుగుไทยtsetsêhestâhesetürkçeукраїнськаاردوئۇيغۇرچە / uyghurchevènetotiếng việtvolapük文言winaray吴语ייִדישyorùbá粵語zazakizeêuwsžemaitėška中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 18 february 2019, at 17:59 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"2.636","walltime":"3.183","ppvisitednodes":{"value":21759,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":759760,"limit":2097152},"templateargumentsize":{"value":178756,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":33,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":359598,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00% 2075.733      1 -total"," 37.80%  784.635      2 template:reflist"," 23.57%  489.316     92 template:cite_web"," 10.42%  216.218     27 template:navbox"," 10.28%  213.458      1 template:navboxes","  8.18%  169.863      6 template:infobox","  4.90%  101.611      1 template:infobox_u.s._state","  4.00%   83.112     82 template:nts","  3.08%   64.035     58 template:change","  2.98%   61.799     12 template:cite_news"]},"scribunto":{"limitreport-timeusage":{"value":"1.024","limit":"10.000"},"limitreport-memusage":{"value":12672601,"limit":52428800}},"cachereport":{"origin":"mw1279","timestamp":"20190218175903","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"colorado","url":"https:\/\/en.wikipedia.org\/wiki\/colorado","sameas":"http:\/\/www.wikidata.org\/entity\/q1261","mainentity":"http:\/\/www.wikidata.org\/entity\/q1261","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2001-10-12t20:56:49z","datemodified":"2019-02-18t17:59:37z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/21\/flag_of_colorado_designed_by_andrew_carlisle_carson.svg","headline":"state of the united states of america"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":158,"wghostname":"mw1322"});});
+
+

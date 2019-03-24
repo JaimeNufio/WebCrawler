@@ -1,0 +1,782 @@
+
+
+
+
+deep geological repository - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"deep_geological_repository","wgtitle":"deep geological repository","wgcurrevisionid":879010557,"wgrevisionid":879010557,"wgarticleid":3885807,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["cs1 maint: archived copy as title","all articles with unsourced statements","articles with unsourced statements from october 2012","radioactive waste","nuclear reactors","radioactive waste repositories","subterranea (geography)"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"deep_geological_repository","wgrelevantarticleid":3885807,"wgrequestid":"xgwuiwpaideaadc2qe8aaabk","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgredirectedfrom":"geologic_repository","wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wginternalredirecttargeturl":"/wiki/deep_geological_repository","wgwikibaseitemid":"q1340555","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+deep geological repository 
+from wikipedia, the free encyclopedia   (redirected from geologic repository)
+ jump to navigation
+jump to search
+ technicians emplacing transuranic waste at the waste isolation pilot plant, near carlsbad, new mexico
+a deep geological repository is a nuclear waste repository excavated deep within a stable geologic environment (typically below 300 m or 1000 feet). it entails a combination of waste form, waste package, engineered seals and geology that is suited to provide a high level of long-term isolation and containment without future maintenance. the waste isolation pilot plant, under construction in the united states, is currently the only facility which retains high level nuclear waste for permanent disposition.
+
+contents
+
+1 principles and background
+2 research
+3 repository sites
+4 the current situation at certain sites
+5 see also
+6 references
+7 external links
+
+
+principles and background[edit]
+see also: high-level radioactive waste management
+the most long-lived radioactive wastes, including spent nuclear fuel, must be contained and isolated from humans and the environment for a very long time. disposal of these wastes in engineered facilities, or repositories, located deep underground in suitable geologic formations is seen as the reference solution.[1] the international panel on fissile materials has said:
+
+
+it is widely accepted that spent nuclear fuel and high-level reprocessing and plutonium wastes require well-designed storage for periods ranging from tens of thousands to a million years, to minimize releases of the contained radioactivity into the environment. safeguards are also required to ensure that neither plutonium nor highly enriched uranium is diverted to weapon use. there is general agreement that placing spent nuclear fuel in repositories hundreds of meters below the surface would be safer than indefinite storage of spent fuel on the surface.[2]
+
+
+however, even a storage space hundreds of metres below the ground might not be able to withstand the pressures of one or more future glaciations with thick sheets of ice resting on top of the rock, deforming it and creating internal strains.[3][4] this is being taken into consideration by agencies preparing for long-term waste repositories in sweden, finland, canada and some other countries that would have to expect a renewed ice age.[5]
+common elements of repositories include the radioactive waste, the containers enclosing the waste, other engineered barriers or seals around the containers, the tunnels housing the containers, and the geologic makeup of the surrounding area.[6]
+the ability of natural geologic barriers to isolate radioactive waste is demonstrated by the natural nuclear fission reactors at oklo, gabon. during their long reaction period about 5.4 tonnes of fission products as well as 1.5 tonnes of plutonium together with other transuranic elements were generated in the uranium ore body. this plutonium and the other transuranics remained immobile until the present day, a span of almost 2 billion years.[7] this is quite remarkable in view of the fact that ground water had ready access to the deposits and they were not in a chemically inert form, such as glass.
+despite a long-standing agreement among many experts that geological disposal can be safe, technologically feasible and environmentally sound, a large part of the general public in many countries remains skeptical.[8] one of the challenges facing the supporters of these efforts is to demonstrate confidently that a repository will contain wastes for so long that any releases that might take place in the future will pose no significant health or environmental risk.
+nuclear reprocessing does not eliminate the need for a repository, but reduces the volume, the long-term radiation hazard, and long-term heat dissipation capacity needed. reprocessing does not eliminate the political and community challenges to repository siting.[2]
+
+research[edit]
+deep geologic disposal has been studied for several decades, including laboratory tests, exploratory boreholes, and the construction and operation of underground research laboratories where large-scale in-situ tests are being conducted.[9] major underground test facilities are listed below.
+
+
+
+country
+
+facility name
+
+location
+
+geology
+
+depth
+
+status
+
+
+belgium
+
+hades underground research facility
+
+mol
+
+plastic clay
+
+223 m
+
+in operation 1982[9]
+
+
+canada
+
+aecl underground research laboratory
+
+pinawa
+
+granite
+
+420 m
+
+1990–2006[9]
+
+
+finland
+
+onkalo
+
+olkiluoto
+
+granite
+
+400 m
+
+under construction[10]
+
+
+france
+
+meuse/haute marne underground research laboratory
+
+bure
+
+claystone
+
+500 m
+
+in operation 1999[11]
+
+
+japan
+
+horonobe underground research lab
+
+horonobe
+
+sedimentary rock
+
+500 m
+
+under construction[12]
+
+
+japan
+
+mizunami underground research lab
+
+mizunami
+
+granite
+
+1000 m
+
+under construction[12][13]
+
+
+korea
+
+korea underground research tunnel
+
+
+
+granite
+
+80 m
+
+in operation 2006[14]
+
+
+sweden
+
+äspö hard rock laboratory
+
+oskarshamn
+
+granite
+
+450 m
+
+in operation 1995[9]
+
+
+switzerland
+
+grimsel test site
+
+grimsel pass
+
+granite
+
+450 m
+
+in operation 1984[9]
+
+
+switzerland
+
+mont terri rock laboratory
+
+mont terri
+
+claystone
+
+300 m
+
+in operation 1996[15]
+
+
+united states
+
+yucca mountain nuclear waste repository
+
+nevada
+
+tuff, ignimbrite
+
+50 m
+
+1997–2008[9]
+
+repository sites[edit]
+
+
+country
+
+facility name
+
+location
+
+waste
+
+geology
+
+depth
+
+status
+
+
+argentina
+
+sierra del medio
+
+gastre
+
+
+
+granite
+
+
+
+under discussion[16]
+
+
+belgium
+
+
+
+
+
+high-level waste
+
+plastic clay
+
+~225 m
+
+under discussion
+
+
+canada
+
+opg dgr
+
+ontario
+
+200,000 m3 l&ilw
+
+argillaceous limestone
+
+680 m
+
+license application 2011[17]
+
+
+canada
+
+
+
+
+
+spent fuel
+
+
+
+
+
+under discussion
+
+
+china
+
+
+
+
+
+
+
+
+
+
+
+under discussion
+
+
+finland
+
+vlj
+
+olkiluoto
+
+l&ilw
+
+tonalite
+
+60–100 m
+
+in operation 1992[18]
+
+
+finland
+
+
+
+loviisa
+
+l&ilw
+
+granite
+
+120 m
+
+in operation 1998[18]
+
+
+finland
+
+onkalo
+
+olkiluoto
+
+spent fuel
+
+granite
+
+400 m
+
+under construction[10]
+
+
+france
+
+
+
+
+
+high-level waste
+
+mudstone
+
+~500 m
+
+siting[11]
+
+
+germany
+
+schacht asse ii
+
+lower saxony
+
+
+
+salt dome
+
+750 m
+
+closed 1995
+
+
+germany
+
+morsleben
+
+saxony-anhalt
+
+40,000 m3 l&ilw
+
+salt dome
+
+630 m
+
+closed 1998
+
+
+germany
+
+gorleben
+
+lower saxony
+
+high-level waste
+
+salt dome
+
+
+
+proposed, on hold
+
+
+germany
+
+schacht konrad
+
+lower saxony
+
+303,000 m3 l&ilw
+
+sedimentary rock
+
+800 m
+
+under construction
+
+
+japan
+
+
+
+
+
+high-level waste
+
+
+
+
+
+under discussion[19]
+
+
+korea
+
+gyeongju
+
+gyeongju
+
+l&ilw
+
+
+
+80 m
+
+under construction[20]
+
+
+sweden
+
+sfr
+
+forsmark
+
+63,000 m3 l&ilw
+
+granite
+
+50 m
+
+in operation 1988[21]
+
+
+sweden
+
+
+
+forsmark
+
+spent fuel
+
+granite
+
+450 m
+
+license application 2011[22]
+
+
+switzerland
+
+
+
+
+
+high-level waste
+
+clay
+
+
+
+siting
+
+
+united kingdom
+
+
+
+
+
+high-level waste
+
+
+
+
+
+under discussion[23]
+
+
+united states
+
+waste isolation pilot plant
+
+new mexico
+
+transuranic waste
+
+salt bed
+
+655 m
+
+in operation 1999
+
+
+united states
+
+yucca mountain project
+
+nevada
+
+70,000 ton hlw
+
+ignimbrite
+
+200–300 m
+
+proposed, canceled 2010
+
+the current situation at certain sites[edit]
+ schematic of a geologic repository under construction at olkiluoto nuclear power plant site, finland
+ demonstration tunnel in olkiluoto.
+ on feb. 14, 2014, at the waste isolation pilot plant, radioactive materials leaked from a damaged storage drum (see photo). analysis of several accidents, by doe, have shown lack of a "safety culture".[24]
+the pit asse ii is a former salt mine in the mountain range of asse in lower saxony/germany, that was allegedly used as a research mine since 1965. between 1967 and 1978 radioactive waste was placed in storage. research indicated that brine contaminated with radioactive caesium-137, plutonium and strontium was leaking from the mine since 1988 but was not reported until june 2008[25]
+the repository for radioactive waste morsleben is a deep geological repository for radioactive waste in the rock salt mine bartensleben in morsleben, in lower saxony/germany that was used from 1972–1998. since 2003 480,000 m3 (630,000 cu yd) of salt-concrete has been pumped into the pit to temporarily stabilize the upper levels. the salt dome is in a state of collapse.
+the waste isolation pilot plant (wipp) in the united states went into service in 1999 by putting the first cubic metres of transuranic radioactive waste[26] in a deep layer of salt near carlsbad, new mexico.
+there was a proposal for an international high level waste repository in australia[27] and russia.[28] however, since the proposal for a global repository in australia (which has never produced nuclear power, and has one research reactor) was raised, domestic political objections have been loud and sustained, making such a facility in australia unlikely.
+in 1978 the u.s. department of energy began studying yucca mountain, within the secure boundaries of the nevada test site in nye county, nevada, to determine whether it would be suitable for a long-term geologic repository for spent nuclear fuel and high-level radioactive waste. this project faced significant opposition and suffered delays due to litigation by the agency for nuclear projects for the state of nevada (nuclear waste project office) and others.[29] the obama administration rejected use of the site in the 2009 united states federal budget proposal, which eliminated all funding except that needed to answer inquiries from the nuclear regulatory commission, "while the administration devises a new strategy toward nuclear waste disposal."[30] on march 5, 2009, energy secretary steven chu told a senate hearing the yucca mountain site is no longer viewed as an option for storing reactor waste.[31]
+
+ swedish kbs-3 capsule for nuclear waste.
+in germany, there is a political debate about the search for a final repository for radioactive waste, accompanied by loud protests, especially in the gorleben village in the wendland area, which was seen ideal for the final repository until 1990 because of its location in a remote, economically depressed corner of west germany, next to the closed border to the former east germany. after reunification, the village is now close to the center of the country, and is currently used for temporary storage of nuclear waste.
+the process of selecting appropriate deep final repositories is now under way in several countries with the first expected to be commissioned some time after 2010.[32] the onkalo site in finland is the furthest along the road to becoming operational, with waste burial currently scheduled to begin in 2020 (final approval is still missing). sweden is also well advanced with plans for direct disposal of spent fuel, as its parliament has decided that this is acceptably safe, using the kbs-3 technology.[citation needed]
+the uk has been following the current path towards geological disposal since the 2008 defra white paper, entitled managing radioactive waste safely(mrws).  unlike other developed countries the uk has placed the principle of voluntarism ahead of geological suitability.  when seeking local council volunteers for stage 1 of the mrws process only allerdale and copeland, within the county of cumbria were volunteered by their councils.  the same area that was previously examined and rejected in the 1990s.  stage 2 which was an initial unsuitability screening process was carried out by british geological survey (bgs) in 2010.  this ruled out approximately 25% of the land area based on the presence of certain minerals and aquifers.  there remains some controversy about this stage following accusations that the criteria were changed between the draft and final versions of this report, bringing the solway plain back into consideration, however the criteria were clearly published in the 2008 defra white paper, entitled managing radioactive waste safely (mrws) 2 years prior to being applied.
+in june 2012, the independent geologist advising the local west cumbria mrws partnership group named three rock volumes that could be potentially suitable for geological disposal of nuclear waste.  these are the mercia mudstone group rocks between silloth abbeytown and westnewton in north cumbria, and the ennerdale and eskdale granites further south which lie within the lake district national park.
+the decision on whether to proceed to the next stage was due to be taken in january 2013 by a group of seven councillors, forming the executive of allerdale and another seven from  copeland.  the ten member cabinet of cumbria county council had a veto which would prevent the search continuing.
+in january 2013, cumbria county council used its veto power and rejected uk central government proposals to start work on a production reactor nuclear waste repository near the lake district national park. "for any host community, there will be a substantial community benefits package and worth hundreds of millions of pounds" said ed davey, energy secretary, but nonetheless, the local elected administrative and governing body voted 7-3 against research continuing, after hearing evidence from independent geologists that "the fractured strata of the county was impossible to entrust with such dangerous material and a hazard lasting millennia."[33][34]
+
+see also[edit]
+deep borehole disposal
+journey to the safest place on earth
+list of nuclear waste treatment technologies
+waste isolation pilot plant
+nuclear semiotics
+references[edit]
+
+
+^ "nea - moving forward with geological disposal" (pdf). retrieved 11 may 2017..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ a b harold feiveson; zia mian; m.v. ramana; frank von hippel (27 june 2011). "managing nuclear spent fuel: policy lessons from a 10-country study". bulletin of the atomic scientists.
+
+^ http://www.iaea.org/inis/collection/nclcollectionstore/_public/28/076/28076961.pdf
+
+^ "hot stuff". the economist. 2 june 2012. retrieved 11 may 2017  – via the economist.
+
+^ the economist, ibid
+
+^ "us doe - radioactive waste: an international concern". archived from the original on 24 september 2006. retrieved 11 may 2017.
+
+^ r. naudet. 1976. the oklos nuclear reactors: 1800 millions years ago. interdisciplinary science reviews, 1(1) p.72-84.
+
+^ vandenbosch, robert, and susanne e. vandenbosch. 2007. nuclear waste stalemate. salt lake city: university of utah press.
+
+^ a b c d e f "iaea-tecdoc-1243" (pdf). retrieved 11 may 2017.
+
+^ a b "onkalo". archived from the original on 12 june 2013. retrieved 11 may 2017.
+
+^ a b "andra - french national radioactive waste management agency". archived from the original on 21 december 2008. retrieved 11 may 2017.
+
+^ a b "jaea r&d review". jolisfukyu.tokai-sc.jaea.go.jp. retrieved 11 may 2017.
+
+^ "archived copy" (pdf). archived from the original (pdf) on 2014-04-08. retrieved 2014-04-07.cs1 maint: archived copy as title (link)
+
+^ "korean kurt facility home page". kaeri.re.kr. retrieved 13 april 2018.
+
+^ "homepage". www.mont-terri.ch. retrieved 11 may 2017.
+
+^ beninson, d. j.; gonzález, a. j.; palacios, e.; ciallella, n. r. (1 october 1986). "the argentine radioactive waste respository: basic criteria, preliminary siting and design conceptual basis". bulletin of the international association of engineering geology - bulletin de l'association internationale de géologie de l'ingénieur. 34 (1): 5–10. doi:10.1007/bf02590229.
+
+^ "ontario power generation dgr page". archived from the original on 3 april 2008. retrieved 11 may 2017.
+
+^ a b t. aikas and p. antilla. 2008. repositories for low- and intermediate-level waste in finland. reviews in eng. geology 19, 67-71.
+
+^ "numo - 原子力発電環境整備機構". numo - 原子力発電環境整備機構. retrieved 11 may 2017.
+
+^ "nuclear power in south korea - nuclear energy in the republic of korea - world nuclear association". www.world-nuclear.org. retrieved 11 may 2017.
+
+^ "sfr" (pdf). retrieved 11 may 2017.
+
+^ "archived copy". archived from the original on 2011-07-22. retrieved 2011-04-25.cs1 maint: archived copy as title (link) license application march 2011
+
+^ "radioactive and nuclear substances and waste - gov.uk". mrws.decc.gov.uk. retrieved 11 may 2017.
+
+^ cameron l. tracy, megan k. dustin & rodney c. ewing, policy: reassess new mexico's nuclear-waste repository, nature, 13 january 2016.
+
+^ "problems at germany's asse ii nuclear waste repository". archived from the original on 3 august 2009. retrieved 11 may 2017.
+
+^ "doe waste isolation pilot plant receives epa recertification". archived from the original on 2009-04-23. retrieved 11 may 2017.
+
+^ holland, i. (2002). "waste not want not? australia and the politics of high-level nuclear waste". australian journal of political science (37): 283–301.
+
+^ disposition of high-level waste and spent nuclear fuel: the continuing societal and technical challenges. washington, dc: national academy press. 2001.
+
+^ "earthquakes in the vicinity of yucca mountain". www.state.nv.us. retrieved 11 may 2017.
+
+^ a new era of responsibility, the 2010 budget, p. 65.
+
+^ hebert, h. josef. 2009. “nuclear waste won't be going to nevada's yucca mountain, obama official says.” chicago tribune. march 6, 2009, 4. "archived copy". archived from the original on 2011-03-24. retrieved 2011-03-17.cs1 maint: archived copy as title (link) accessed 3-6-09.
+
+^ "final disposal nearing realization" (pdf). press release. swedish nuclear fuel and waste management co. 2007-09-28. archived from the original (pdf) on 2009-02-25. retrieved 2009-01-05.
+
+^ wainwright, martin (30 january 2013). "cumbria rejects underground nuclear storage dump". the guardian. retrieved 1 february 2013.
+
+^ macalister, terry (31 january 2013). "cumbria sticks it to the nuclear dump lobby – despite all the carrots on offer". the guardian. retrieved 1 february 2013.
+
+
+external links[edit]
+study by the world nuclear organization
+sandia report granite disposal of u.s. high-level radioactive waste
+sandia report salt disposal of heat-generating nuclear waste
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=deep_geological_repository&oldid=879010557"					
+categories: radioactive wastenuclear reactorsradioactive waste repositoriessubterranea (geography)hidden categories: cs1 maint: archived copy as titleall articles with unsourced statementsarticles with unsourced statements from october 2012 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+languages
+
+
+alemannischdeutschespañolfrançaisnederlands日本語suomisvenskaไทยукраїнськаاردو中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 18 january 2019, at 11:52 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.452","walltime":"0.536","ppvisitednodes":{"value":1431,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":42469,"limit":2097152},"templateargumentsize":{"value":766,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":81497,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  438.204      1 -total"," 63.75%  279.373      1 template:reflist"," 38.92%  170.536     21 template:cite_web"," 15.60%   68.377      1 template:citation_needed"," 14.13%   61.897      1 template:fix"," 10.25%   44.917      3 template:cite_journal","  7.86%   34.430      1 template:convert","  7.73%   33.867      2 template:category_handler","  6.25%   27.401      1 template:see_also","  5.51%   24.142      1 template:delink"]},"scribunto":{"limitreport-timeusage":{"value":"0.244","limit":"10.000"},"limitreport-memusage":{"value":7222911,"limit":52428800}},"cachereport":{"origin":"mw1248","timestamp":"20190203030309","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"deep geological repository","url":"https:\/\/en.wikipedia.org\/wiki\/deep_geological_repository","sameas":"http:\/\/www.wikidata.org\/entity\/q1340555","mainentity":"http:\/\/www.wikidata.org\/entity\/q1340555","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2006-01-29t17:01:12z","datemodified":"2019-01-18t11:52:40z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e9\/wipp-04.jpeg","headline":"nuclear waste repository excavated deep within a stable geologic environment"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":123,"wghostname":"mw1328"});});
+
+

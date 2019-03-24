@@ -1,0 +1,538 @@
+
+
+
+
+capture of rome - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"capture_of_rome","wgtitle":"capture of rome","wgcurrevisionid":879621493,"wgrevisionid":879621493,"wgarticleid":9618051,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["articles containing italian-language text","articles needing additional references from september 2013","all articles needing additional references","commons category link is on wikidata","articles with italian-language external links","italy articles missing geocoordinate data","all articles needing coordinates","conflicts in 1870","italian unification","battles involving italy","battles involving the papal states","battles in lazio","1870 in italy","holy see–italy relations","1870s in rome","1870 in the papal states","military history of rome","september 1870 events"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"capture_of_rome","wgrelevantarticleid":9618051,"wgrequestid":"xgpniapaiciaaguvjkaaaacg","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q2604547","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+capture of rome 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+this article is about the 1870 event in italian unification. for other events in which rome was captured, see sack of rome.
+capture of romepresa di romapart of the wars of italian unificationthe breach of porta pia, by carlo ademollodate20 september 1870locationromeresult
+italian victory
+
+end of the papal states
+end of the risorgimentoterritorialchanges
+rome and latium annexed to the kingdom of italybelligerents
+ kingdom of italy
+ papal statescommanders and leaders
+ victor emmanuel ii raffaele cadorna
+ pius ix hermann kanzlerstrength
+50,000
+13,157casualties and losses
+49 killed
+19 killed
+this article is part a series on thevatican city
+
+history
+duchy of rome 533–751
+donation of pepin 750s
+papal states      754–1870
+annates
+congregation for borders
+fundamental statute for the secular government of the states of the church
+capture of rome   1870
+"prisoner in the vatican" 1870–1929
+lateran treaty    1929
+vatican city      1929–present
+2010 vatican sex scandal
+history of the catholic church since 1962
+history of the papacy
+roman historical institutes
+savoyard era
+vatileaks scandal
+vatican historical museum
+vatican city during world war ii
+
+law
+acta apostolicae sedis
+fundamental law of vatican city state
+capital punishment in vatican city
+crime in vatican city
+lateran treaty
+legal status of the holy see
+temporal power of the papacy
+tribunal of vatican city state
+(alperin v. vatican bank)
+(doe v. holy see)
+lgbt rights in vatican city
+pontifical swiss guard
+corps of firefighters of the vatican city state
+corps of gendarmerie of vatican city
+
+politics and government
+archives
+association of vatican lay workers
+pontifical commission for vatican city state
+president
+pontifical commission
+secretariat for communications
+holy see press office
+l'osservatore romano (vatican city newspaper)
+l'osservatore della domenica
+list of newspapers in vatican city
+vatican radio lawsuit
+vatican information service
+.va (vatican city internet sites)
+vatican publishing house
+vatican radio
+vatican television center
+secretariat of state
+cardinal secretary of state
+fabric of saint peter
+foreign relations of the holy see
+list of diplomatic missions of the holy see
+holy see–israel relations
+holy see–italy relations
+holy see–palestine relations
+papal apocrisiarius
+governorate of vatican city
+governor of vatican city
+military of vatican city
+noble guard
+college of cardinals
+vical general
+
+culture
+vatican museums
+vatican library
+music of vatican city
+sistine chapel choir
+languages of vatican city
+women in vatican city
+vatican christmas tree
+vatican city football team
+vatican cricket team
+papal concert to commemorate the shoah
+postage stamps and postal history of vatican city
+public holidays in vatican city
+pontifical academy of sciences
+pontifical academy of social sciences
+the story of the vatican, 1941 documentary
+
+symbols
+flag
+list of papal flags
+anthem
+coats of arms of the holy see and vatican city
+00120 (vatican postcode)
+papal tiara
+papal coronation
+
+buildings/geography
+apostolic nunciature
+apostolic palace
+basilica di santa maria maggiore
+borgia apartments
+bramante staircase
+domus sanctae marthae
+fountains of st. peter's square
+gardens of vatican city
+geography of vatican city
+gregorian tower
+mater ecclesiae (monastery)
+monument to the royal stuarts
+palace of the holy office
+palazzi pontifici
+papal apartments
+saint peter's basilica
+saint peter's square
+saint peter's tomb
+lateran basilica
+lateran palace
+leonine city
+niccoline chapel
+old st. peter's basilica
+papal tombs
+papal tombs in old st. peter's basilica
+paul vi audience hall
+tomb of the julii
+torre san giovanni
+scala regia
+via della conciliazione
+vatican climate forest
+vatican heliport
+vatican hill
+vatican necropolis
+papal concert to commemorate the shoah
+postage stamps and postal history of vatican city
+public holidays in vatican city
+vatican secret archives
+st. peter's baldachin
+sala regia
+san pellegrino in vaticano
+sant'anna dei palafrenieri
+santa maria della pietà in camposanto dei teutonici
+vatican advanced technology telescope
+vatican observatory
+vatican pharmacy
+bibliotheca palatina
+cappella giulia
+cappella paolina
+cardinal secretary of state
+casina pio iv
+circus of nero
+redemptoris mater chapel
+saints martin and sebastian of the swiss
+santo stefano degli abissini
+santo stefano degli ungheresi
+teutonic cemetery
+cortile del belvedere
+passetto di borgo
+porta san pellegrino
+
+vatican museums
+vatican museums
+gallery of maps
+gallery of sistine chapel ceiling
+collection of modern religious art
+raphael rooms
+redemptoris mater chapel
+restoration of the sistine chapel frescoes
+sistine chapel
+sistine chapel ceiling
+the last judgment by michelangelo
+
+economy
+institute for the works of religion
+telephone numbers in vatican city
+tourism in vatican city
+transport in vatican city
+rail transport in vatican city
+secretariat for the economy
+administration of the patrimony of the apostolic see
+prefecture for the economic affairs of the holy see
+vatican euro coins
+vatican lira
+properties of the holy see
+
+papacy
+pope
+popemobile
+catholic church
+latin church
+holy see
+diocese of rome
+roman curia
+universi dominici gregis
+papal conclave (papal elections)
+papal household
+papal gentleman
+prefecture of the pontifical household
+
+outline
+index
+ vatican city portal
+ catholicism portalvte
+the capture of rome (italian: presa di roma), on 20 september 1870 was the final event of the long process of italian unification known as the risorgimento,[1] marking both the final defeat of the papal states under pope pius ix and the unification of the italian peninsula under king victor emmanuel ii of the house of savoy.
+the capture of rome ended the approximate 1,116-year reign (ad 754 to 1870) of the papal states under the holy see and is today widely memorialized throughout italy with the via xx settembre street name in virtually every town of any size.
+
+contents
+
+1 prelude
+
+1.1 second italian war of independence
+1.2 franco-prussian war
+1.3 peaceful overture to pius ix
+
+
+2 pius ix flees rome
+3 rome captured by raffaele cadorna
+4 "roman question": mussolini's lateran pacts
+5 see also
+6 notes
+7 references
+8 external links
+
+
+prelude[edit]
+this section needs additional citations for verification. please help improve this article by adding citations to reliable sources. unsourced material may be challenged and removed.find sources: "capture of rome" – news · newspapers · books · scholar · jstor (september 2013) (learn how and when to remove this template message)
+unfortunately for italy, camillo benso, count of cavour[2] died soon after the proclamation of her unity, leaving to his successors the solution of the knotty venetian and roman problems. the austrians were still in venetia and the pope was still in rome. cavour had firmly believed that without rome as the capital, italy's unification be sadly incomplete; for the historic position of the eternal city, with its immortal memories, was such that italians could not allow another power to possess it.[3] "to go to rome", said his successor, riscasoli, "is not merely a right; it is an inexorable necessity." in regard to the future relations between church and state, cavour's famous dictum was, "a free church in a free state"; by which he meant that the former should be entirely free to exercise her spiritual powers and leave politics entirely to the latter.[3]
+
+second italian war of independence[edit]
+ portrait of napoleon iii (1808–1873), franz xaver winterhalter. pope pius ix.during the second italian war of independence, much of the papal states had been conquered by the piedmontese army, and the new unified kingdom of italy was created in march 1861, when the first italian parliament met in turin. on 27 march 1861, the parliament declared rome the capital of the kingdom of italy. however, the italian government could not take its seat in rome because it did not control the territory. in addition, a french garrison was maintained in the city by emperor napoleon iii in support of pope pius ix, who was determined not to hand over temporal power in the states of the church.
+in july 1870, at the very last moment of the church's rule over rome, the first vatican council was held in the city – affirming the doctrine of papal infallibility.
+
+franco-prussian war[edit]
+in july 1870, the franco-prussian war began. in early august, napoleon iii recalled his garrison from rome. the french not only needed the troops to defend their homeland, but there was also real concern in paris that italy might use the french presence in rome as a pretext to go to war with france. in the earlier austro-prussian war, italy had allied with prussia and italian public opinion favoured the prussian side at the start of the war. the removal of the french garrison eased tensions between italy and france. italy remained neutral in the franco-prussian war.
+with the french garrison gone, widespread public demonstrations demanded that the italian government take rome. but rome remained under french protection on paper, therefore an attack would still have been regarded as an act of war against the french empire. furthermore, although prussia was at war with france, it had gone to war in an uneasy alliance with the catholic south german states that it had fought against (alongside italy) just four years earlier. although prussian prime minister otto von bismarck was no friend of the papacy, he knew any war that put prussia and the holy see in opposing alliances would almost certainly have upset the delicate pan-german coalition, and with it his own carefully laid-out plans for national unification. for both prussia and italy, any misstep that caused the breakup of the pan-german coalition brought with it the risk of austro-hungarian intervention in a wider european conflict.
+above all else, bismarck made every diplomatic effort to keep prussia's conflicts of the 1860s and 1870s localized and prevent them from spiraling out of control into a general european war. therefore, not only was prussia unable to offer any sort of alliance with italy against france, but actually had to make diplomatic efforts to maintain italian neutrality and keep the peace on the italian peninsula, at least until the potential of a conflict there becoming intertwined with her own war with france had passed. moreover, the french army was still regarded as the strongest in europe - and until events elsewhere took their course, the italians were unwilling to provoke napoleon.
+it was only after the surrender of napoleon and his army at the battle of sedan the situation changed radically. the french emperor was deposed and forced into exile. the best french units had been captured by the germans, who quickly followed up their success at sedan by marching on paris. faced with a pressing need to defend its capital with its remaining forces, the new french government was clearly not in a military position to retaliate against italy. in any event, the new government was far less sympathetic to the holy see and did not possess the political will to protect the pope's position.
+finally, with the french government on a more democratic footing and the seemingly harsh german peace terms becoming public knowledge, italian public opinion shifted sharply away from the german side in favour of france. with that development, the prospect of a conflict on the italian peninsula provoking foreign intervention all but vanished.
+
+peaceful overture to pius ix[edit]
+king victor emmanuel ii sent count gustavo ponza di san martino to pius ix with a personal letter offering a face-saving proposal that would have allowed the peaceful entry of the italian army into rome, under the guise of protecting the pope. along with the letter, the count carried a document that lanza had prepared, setting out ten articles to serve as the basis for an agreement between italy and the holy see.
+the pope would retain the inviolability and prerogatives attaching to him as a sovereign. the leonine city would remain "under the full jurisdiction and sovereignty of the pontiff". the italian state would guarantee the pope's freedom to communicate with the catholic world, as well as diplomatic immunity both for the nuncios and envoys in foreign lands and for the foreign diplomats at the holy see. the government would supply a permanent annual fund for the pope and the cardinals, equal to the amount currently assigned to them by the budget of the pontifical state, and would assume all papal civil servants and soldiers onto the state payroll, with full pensions as long as they were italian.[4]
+according to raffaele de cesare:
+
+the pope’s reception of san martino [10 september 1870] was unfriendly. pius ix allowed violent outbursts to escape him. throwing the king’s letter upon the table he exclaimed, "fine loyalty! you are all a set of vipers, of whited sepulchres, and wanting in faith." he was perhaps alluding to other letters received from the king. after, growing calmer, he exclaimed: "i am no prophet, nor son of a prophet,[5] but i tell you, you will never enter rome!" san martino was so mortified that he left the next day.[6]
+pius ix flees rome[edit]
+ on 15 november 1848 the swiss guards were disarmed, briefly making pius ix a self-imposed prisoner within the quirinal.
+ pius ix lived in exile at the castle of gaeta from 1848 to 1850. succeeding pontiffs have lived in the more secure vatican apartments.
+ giuseppe garibaldi, 1861.several times during his pontificate, pius ix considered leaving rome. early in his papacy, secretive citizen organizations sprung up across rome (such as the "circolo romano" under the direction of ciceruacchio) and advocated for the establishment of a popularly elected constitutional italian government, the entire removal of the ministry from positions of temporal governmental authority, and for the immediate declaration of war against austria for maintaining its foreign military occupation force in italy.
+on february 8, 1848, large, organized street riots against the temporal rule by the papal states began, and by march 14, 1848, pius ix found himself obliged to acknowledge an independent italian constitution, but in his later allocution of april 29, pius ix solemnly proclaimed that, as the "father of christendom", he could never advocate for an italian military campaign against the austrian occupation of italy.
+as the frequency of popular protests against the papal states increased across the italian peninsula, and pius ix was forcefully denounced as a traitor to italy, his prime minister pellegrino rossi was stabbed to death while ascending the steps of the palazzo della cancelleria. on the following day, the pope himself was besieged by a large crowd of outraged protesters assembling at the quirinal palace. palma, a papal prelate, who was standing at a window, was shot, and pius ix then decided to flee rome and concede his temporal rule to an italian constitutional republic.
+with the assistance of bavarian ambassador count spaur and french ambassador duc d'harcourt, pope pius ix escaped from the quirinal palace on november 24, 1848 in disguise (differing accounts had pius ix dressed as a simple priest wearing tinted eyeglasses, a carriage footman, or as a woman) and hastily fled to gaeta where he was joined by many of the cardinals. on february 9, 1849, democratic revolutionaries of the new italian republic seized rome and abolished the temporal power of the papacy. pope pius ix later appealed to the catholic leaders of france, austria, spain, and naples to restore the papal states and on june 29, 1849, french troops under general charles oudinot restored the papal states. on 12 april 1850, pius ix returned to rome, no longer a political liberal supporting constitutional republics.
+a later occurrence was in 1862, when giuseppe garibaldi was in sicily gathering volunteers for a campaign to take rome under the slogan roma o morte (rome or death). on 26 july 1862, before garibaldi and his volunteers were stopped by royal italian army on the day of aspromont:
+
+.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}pius ix confided his fears to lord odo russell, the british minister in rome, and asked whether he would be granted political asylum in england after the italian troops had marched in. odo russell assured him that he would be granted asylum if the need arose, but said that he was sure that the pope's fears were unfounded.[7]
+
+two other instances occurred after the capture of rome and the suspension of the first vatican council. these were confided by otto von bismarck to moritz busch:
+
+as a matter of fact, he [pius ix] has already asked whether we could grant him asylum. i have no objection to it—cologne or fulda. it would be passing strange, but after all not so inexplicable, and it would be very useful to us to be recognised by catholics as what we really are, that is to say, the sole power now existing that is capable of protecting the head of their church. [...] but the king [william i] will not consent. he is terribly afraid. he thinks all prussia would be perverted and he himself would be obliged to become a catholic. i told him, however, that if the pope begged for asylum he could not refuse it. he would have to grant it as ruler of ten million catholic subjects who would desire to see the head of their church protected.[8]
+
+rumours have already been circulated on various occasions to the effect that the pope intends to leave rome. according to the latest of these the council, which was adjourned in the summer, will be reopened at another place, some persons mentioning malta and others trient. [... ] doubtless the main object of this gathering will be to elicit from the assembled fathers a strong declaration in favour of the necessity of the temporal power. obviously a secondary object of this parliament of bishops, convoked away from rome, would be to demonstrate to europe that the vatican does not enjoy the necessary liberty, although the act of guarantee proves that the italian government, in its desire for reconciliation and its readiness to meet the wishes of the curia, has actually done everything that lies in its power.[9]
+
+rome captured by raffaele cadorna[edit]
+ general raffaele cadorna (carlo ademollo)
+the italian army, commanded by general raffaele cadorna, crossed the papal frontier on 11 september and advanced toward rome, moving slowly in the hope that a peaceful entry could be negotiated. the papal garrisons had retreated from orvieto, viterbo, alatri, frosinone and other strongholds in the lazio, pius ix himself being convinced of the inevitability of a surrender.[10] when the italian army approached the aurelian walls that defended the city, the papal force was commanded by general hermann kanzler, and was composed of the swiss guards and a few "zouaves"—volunteers from france, austria, the netherlands, spain, and other countries—for a total of 13,157 men against some 50,000 italians.[11]
+the italian army reached the aurelian walls on 19 september and placed rome under a state of siege. pius ix decided that the surrender of the city would be granted only after his troops had put up enough resistance to make it plain that the take-over was not freely accepted. on 20 september, after a cannonade of three hours had breached the aurelian walls at porta pia (breccia di porta pia), the crack piedmontese infantry corps of bersaglieri entered rome. in the event 49 italian soldiers and 19 papal zouaves died. rome and the region of lazio were annexed to the kingdom of italy after a plebiscite.
+the leonine city, excluding the vatican, seat of the pope, was occupied by italian soldiers on september 21.  the italian government had intended to let the pope keep the leonine city, but the pope would not agree to give up his claims to a broader territory and claimed that since his army had been disbanded, apart from a few guards,  he was unable to ensure public order even in such a small territory.[12]
+the via pia, the road departing from porta pia, was rechristened via xx settembre (september 20). subsequently, in numerous italian cities the name venti settembre was given to the main road leading to the local cathedral.
+writer edmondo de amicis took part in the capture of rome as an officer in the italian army.
+
+"roman question": mussolini's lateran pacts[edit]
+main articles: roman question and lateran pacts
+ via xx settembre, rome. territory of vatican city state, established during 1929 by the lateran accordsduring the unification of italy in the mid-19th century, the papal states resisted incorporation into the new nation, even as all the other italian countries, except for san marino, joined it; camillo cavour's dream of proclaiming the kingdom of italy from the steps of st. peter's basilica did not come to pass. the nascent kingdom of italy invaded and occupied romagna (the eastern portion of the papal states) in 1860, leaving only latium in the pope's domains. latium, including rome itself, was annexed during the capture of rome. for nearly sixty years, relations between the papacy and the italian government were hostile, and the status of the pope became known as the "roman question".
+negotiations for the settlement of the roman question began in 1926 between the government of italy and the holy see, and culminated in the agreements of the lateran pacts, signed—the treaty says—for king victor emmanuel iii of italy by benito mussolini, prime minister and head of government, and for pope pius xi by pietro gasparri, cardinal secretary of state, on february 11, 1929. the agreements were signed in the lateran palace, from which they take their name. they culminated in the lateran treaty of 1929, where the holy see renounced its claims over most of the city of rome in return for italy's recognition of the vatican state.
+on 20 september 2000, an item in the catholic publication avvenire stated:
+
+che nel 1970, proprio il 20 settembre, paolo vi inviò a porta pia il cardinale vicario, angelo dell'acqua, a celebrare il significato "provvidenziale" di quella perdita del potere temporale. da allora, almeno da allora, è anche festa cattolica, porta pia! 
+
+transl.: that in 1970, precisely on 20 september 1970, pope paul vi sent cardinal angelo dell'acqua, his vicar for rome, to porta pia to celebrate the "providential" significance of the loss of the temporal power. since then, at least since then, porta pia has also been a catholic celebration!
+
+see also[edit]
+history of rome
+roman question
+temporal power (papal)
+unification of italy
+international relations of the great powers (1814–1919)
+notes[edit]
+
+
+^ see timeline of italian unification.
+
+^ schapiro, j. salwyn, ph.d., modern and contemporary european history (1815-1921) (houghton mifflin company, the riverside press cambridge, 1921, revised edition), p. 208
+
+^ a b schapiro, j. salwyn, ph.d., modern and contemporary european history (1815-1921) (houghton mifflin company, the riverside press cambridge, 1921, revised edition), p. 218
+
+^ david i. kertzer. prisoner of the vatican: the popes' secret plot to capture rome from the new italian state. houghton mifflin harcourt, 2006. p. 45..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ these words are derived from the biblical book of amos 7:14 where the prophet defies the  emmissary of the king of israel s:bible, king james, amos#chapter 7
+
+^ de cesare, 1909, p. 444.
+
+^ jasper ridley, "garibaldi", viking press, new york (1976) p. 535
+
+^ moritz busch bismarck: some secret pages of his history, vol. i, macmillan (1898) p. 220, entry for 8 november 1870
+
+^ moritz busch bismarck: some secret pages of his history, vol. ii, macmillan (1898) pp. 43–44, entry for 3 march 1872
+
+^ rendina, enciclopedia di roma, p. 985
+
+^ de cesare, 1909, p. 443
+
+^ for the vatican during the savoyard era 1870–1929, see also "prisoner in the vatican" and the roman question.
+
+
+references[edit]
+de cesare, raffaele. (1909).the last days of papal rome. london: archibald constable & co.
+rendina, claudio (2000). enciclopedia di roma. rome: newton compton.
+schapiro, j. salwyn, ph.d., modern and contemporary european history (1815-1921) (houghton mifflin company, the riverside press cambridge, 1921, revised edition)
+external links[edit]
+
+
+
+wikimedia commons has media related to capture of rome.
+article by angela pellicciari (in italian)
+historical summary at cronologia.leonardo.it (in italian)
+the papal zouaves
+papal states and all that : part 1. vatican radio.
+papal states and all that : part 2. vatican radio.
+
+
+vteitalian unification—risorgimentowars and revolts
+revolutions of 1820
+revolutions of 1830
+revolutions of 1848
+first italian war of independence
+crimean war
+second italian war of independence
+expedition of the thousand
+third italian war of independence
+capture of rome
+main leaders
+bettino ricasoli
+camillo benso, count of cavour
+carlo cattaneo
+daniele manin
+francesco crispi
+giuseppe garibaldi
+giuseppe mazzini
+ruggero settimo
+victor emmanuel ii
+opponents
+pope pius ix
+franz joseph i of austria
+francis ii of the two sicilies
+klemens von metternich
+joseph radetzky von radetz
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=capture_of_rome&oldid=879621493"					
+categories: conflicts in 1870italian unificationbattles involving italybattles involving the papal statesbattles in lazio1870 in italyholy see–italy relations1870s in rome1870 in the papal statesmilitary history of romeseptember 1870 eventshidden categories: articles containing italian-language textarticles needing additional references from september 2013all articles needing additional referencescommons category link is on wikidataarticles with italian-language external linksitaly articles missing geocoordinate dataall articles needing coordinates 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+češtinaespañolesperantofrançaisbahasa indonesiaitalianolatinabahasa melayunederlandsnorskpolskiportuguêsрусскийsrpskohrvatski / српскохрватскиsuomiукраїнськаvèneto中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 22 january 2019, at 11:42 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.488","walltime":"0.717","ppvisitednodes":{"value":1852,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":71401,"limit":2097152},"templateargumentsize":{"value":4260,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":9807,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  572.055      1 -total"," 23.30%  133.277      1 template:lang-it"," 14.61%   83.577      1 template:reflist"," 13.83%   79.114      1 template:commons_category"," 12.11%   69.261      1 template:refimprove_section"," 11.96%   68.417      2 template:cite_book"," 10.88%   62.212      1 template:more_citations_needed"," 10.17%   58.164      1 template:ambox"," 10.08%   57.673      1 template:vatican_city_sidebar","  9.54%   54.595      1 template:sidebar_with_collapsible_lists"]},"scribunto":{"limitreport-timeusage":{"value":"0.251","limit":"10.000"},"limitreport-memusage":{"value":14209355,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\ntable#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1255","timestamp":"20190218070309","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":109,"wghostname":"mw1332"});});
+
+

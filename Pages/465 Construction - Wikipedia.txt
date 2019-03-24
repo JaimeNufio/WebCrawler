@@ -1,0 +1,821 @@
+
+
+
+
+construction - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"construction","wgtitle":"construction","wgcurrevisionid":882974049,"wgrevisionid":882974049,"wgarticleid":239038,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["articles with short description","wikipedia pending changes protected pages","articles needing additional references from august 2017","all articles needing additional references","articles needing additional references from june 2017","articles needing additional references from october 2006","all articles with unsourced statements","articles with unsourced statements from february 2019","commons category link from wikidata","construction"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"construction","wgrelevantarticleid":239038,"wgrequestid":"xgvttqpame0aaj7wbqaaaach","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":882974049,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q385378","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","ext.flaggedrevs.basic":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","ext.flaggedrevs.advanced","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+construction 
+from wikipedia, the free encyclopedia 
+this is the latest accepted revision, reviewed on 12 february 2019.
+
+
+
+ jump to navigation
+jump to search
+process of the building or assembling of a building or infrastructure
+
+
+for other uses, see construction (disambiguation).
+"construction site" redirects here. for the british children's tv series, see construction site (tv series).
+ in large construction projects, such as this skyscraper in melbourne, australia, cranes are essential
+ construction site and equipment prepared for start of work in cologne, germany (2017)
+construction is the process of constructing a building or infrastructure.[1] construction differs from manufacturing in that manufacturing typically involves mass production of similar items without a designated purchaser, while construction typically takes place on location for a known client.[2] construction as an industry comprises six to nine percent of the gross domestic product of developed countries.[3] construction starts with planning, design, and financing; it continues until the project is built and ready for use.
+large-scale construction requires collaboration across multiple disciplines. a project manager normally manages the job, and a construction manager, design engineer, construction engineer or architect supervises it. those involved with the design and execution must consider zoning requirements, environmental impact of the job, scheduling, budgeting, construction-site safety, availability and transportation of building materials, logistics, inconvenience to the public caused by construction delays and bidding. large construction projects are sometimes referred to as megaprojects.
+
+contents
+
+1 etymology
+2 types
+
+2.1 industry sectors
+2.2 building construction
+2.3 residential construction
+
+
+3 processes
+
+3.1 design team
+3.2 financial advisors
+3.3 legal aspects
+3.4 interaction of expertise
+3.5 procurement
+
+3.5.1 traditional
+3.5.2 design-build
+3.5.3 management procurement systems
+
+
+3.6 sustainability in construction
+
+
+4 authority having jurisdiction
+5 industry characteristics
+
+5.1 careers
+
+
+6 safety
+7 history
+8 construction output by country
+9 see also
+10 references
+
+
+etymology[edit]
+construction is a general term meaning the art and science to form objects, systems, or organizations,[4] and comes from latin constructionem (from com- "together" and struere "to pile up") and old french construction.[5] construction is used as a verb: the act of building, and a noun: how a building was built, the nature of its structure.
+
+types[edit]
+ industrial assemblage of a thermal oxidizer in the united states of america
+in general, there are three sectors of construction: buildings, infrastructure and industrial.[6] building construction is usually further divided into residential and non-residential (commercial/institutional). infrastructure is often called heavy civil or heavy engineering that includes large public works, dams, bridges, highways, railways, water or wastewater and utility distribution. industrial construction includes refineries, process chemical, power generation, mills and manufacturing plants. there are also other ways to break the industry into sectors or markets.[7]
+
+industry sectors[edit]
+ military residential unit construction by u.s. navy personnel in afghanistan
+ construction workers working on a residential building in tijuana, mexico
+engineering news-record (enr), a trade magazine for the construction industry, each year compiles and reports data about the size of design and construction companies. in 2014, enr compiled the data in nine market segments divided as transportation, petroleum, buildings, power, industrial, water, manufacturing, sewer/waste, telecom, hazardous waste and a tenth category for other projects.[8] in their reporting, they used data on transportation, sewer, hazardous waste and water to rank firms as heavy contractors.[9]
+the standard industrial classification and the newer north american industry classification system have a classification system for companies that perform or engage in construction. to recognize the differences of companies in this sector, it is divided into three subsectors: building construction, heavy and civil engineering construction, and specialty trade contractors. there are also categories for construction service firms (e.g., engineering, architecture) and construction managers (firms engaged in managing construction projects without assuming direct financial responsibility for completion of the construction project).[10][11]
+
+building construction[edit]
+this section needs additional citations for verification. please help improve this article by adding citations to reliable sources. unsourced material may be challenged and removed.find sources: "construction" – news · newspapers · books · scholar · jstor (august 2017) (learn how and when to remove this template message)
+building construction is the process of adding structure to real property or construction of buildings. the majority of building construction jobs are small renovations, such as addition of a room, or renovation of a bathroom. often, the owner of the property acts as laborer, paymaster, and design team for the entire project.[12] although building construction projects consist of common elements such as design, financial, estimating and legal considerations, projects of varying sizes may reach undesirable end results, such as structural collapse, cost overruns, and/or litigation. for this reason, those with experience in the field make detailed plans and maintain careful oversight during the project to ensure a positive outcome. the national cement share company of ethiopia's new plant in dire dawa
+commercial building construction is procured privately or publicly utilizing various delivery methodologies, including cost estimating, hard bid, negotiated price, traditional, management contracting, construction management-at-risk, design & build and design-build bridging.
+residential construction practices, technologies, and resources must conform to local building authority regulations and codes of practice. materials readily available in the area generally dictate the construction materials used (e.g. brick versus stone, versus timber). cost of construction on a per square meter (or per square foot) basis for houses can vary dramatically based on site conditions, local regulations, economies of scale (custom designed homes are often more expensive to build) and the availability of skilled tradesmen. residential construction as well as other types of construction can generate waste such that planning is required.
+according to mckinsey research, productivity growth per worker in construction has lagged behind many other industries across different countries including in the united states and in european countries. in the united states, construction productivity per worker has declined by half since the 1960s.[13]
+
+residential construction[edit]
+this section does not cite any sources. please help improve this section by adding citations to reliable sources. unsourced material may be challenged and removed. (june 2017) (learn how and when to remove this template message)
+ framing
+the most popular method of residential construction in north america is wood-framed construction. typical construction steps for a single-family or small multi-family house are:
+
+obtain an engineered soil test of lot where construction is planned. from an engineer or company specializing in soil testing.
+develop floor plans and obtain a materials list for estimations (more recently performed with estimating software)
+obtain structural engineered plans for foundation and structure. to be completed by either a licensed engineer or architect. to include both a foundation and framing plan.
+obtain lot survey
+obtain government building approval if necessary
+if required obtain approval from hoa (homeowners association) or arc (architectural review committee)
+clear the building site (demolition of existing home if necessary)
+survey to stake out for the foundation
+excavate the foundation and dig footers (scope of work is dependent of foundation designed by engineer)
+install plumbing grounds
+pour a foundation and footers with concrete
+build the main load-bearing structure out of thick pieces of wood and possibly metal i-beams for large spans with few supports. see framing (construction)
+add floor and ceiling joists and install subfloor panels
+cover outer walls and roof in osb or plywood and a water-resistive barrier.
+install roof shingles or other covering for flat roof
+cover the walls with siding, typically vinyl, wood, or brick veneer but possibly stone or other materials
+install windows
+frame interior walls with wooden 2×4s
+add internal plumbing, hvac, electrical, and natural gas utilities
+building inspector visits if necessary to approve utilities and framing
+install insulation and interior drywall panels (cementboard for wet areas) and to complete walls and ceilings
+install bathroom fixtures
+spackle, prime, and paint interior walls and ceilings
+additional tiling on top of cementboard for wet areas, such as the bathroom and kitchen backsplash
+installation of final floor covering, such as floor tile, carpet, or wood flooring
+installation of major appliances
+unless the original owners are building the house, at this point it is typically sold or rented.
+processes[edit]
+ shasta dam under construction in june 1942
+design team[edit]
+this section does not cite any sources. please help improve this section by adding citations to reliable sources. unsourced material may be challenged and removed. (june 2017) (learn how and when to remove this template message)
+in the industrialized world, construction usually involves the translation of designs into reality. a formal design team may be assembled to plan the physical proceedings, and to integrate those proceedings with the other parts. the design usually consists of drawings and specifications, usually prepared by a design team including architect, civil engineers, mechanical engineers, electrical engineers, structural engineers, fire protection engineers, planning consultants, architectural consultants, and archaeological consultants. the design team is most commonly employed by (i.e. in contract with) the property owner. under this system, once the design is completed by the design team, a number of construction companies or construction management companies may then be asked to make a bid for the work, either based directly on the design, or on the basis of drawings and a bill of quantities provided by a quantity surveyor. following evaluation of bids, the owner typically awards a contract to the most cost efficient bidder.
+the best modern trend in design is toward integration of previously separated specialties, especially among large firms. in the past, architects, interior designers, engineers, developers, construction managers, and general contractors were more likely to be entirely separate companies, even in the larger firms. presently, a firm that is nominally an "architecture" or "construction management" firm may have experts from all related fields as employees, or to have an associated company that provides each necessary skill. thus, each such firm may offer itself as "one-stop shopping" for a construction project, from beginning to end. this is designated as a "design build" contract where the contractor is given a performance specification and must undertake the project from design to construction, while adhering to the performance specifications.
+several project structures can assist the owner in this integration, including design-build, partnering and construction management. in general, each of these project structures allows the owner to integrate the services of architects, interior designers, engineers and constructors throughout design and construction. in response, many companies are growing beyond traditional offerings of design or construction services alone and are placing more emphasis on establishing relationships with other necessary participants through the design-build process.
+the increasing complexity of construction projects creates the need for design professionals trained in all phases of the project's life-cycle and develop an appreciation of the building as an advanced technological system requiring close integration of many sub-systems and their individual components, including sustainability. building engineering is an emerging discipline that attempts to meet this new challenge.
+
+financial advisors[edit]
+@media all and (max-width:720px){.mw-parser-output .tmulti>.thumbinner{width:100%!important;max-width:none!important}.mw-parser-output .tmulti .tsingle{float:none!important;max-width:none!important;width:100%!important;text-align:center}}trump international hotel and tower (chicago)may 23, 2006september 14, 2007 (3 months before completion)
+construction projects can suffer from preventable financial problems. underbids happen when builders ask for too little money to complete the project. cash flow problems exist when the present amount of funding cannot cover the current costs for labour and materials, and because they are a matter of having sufficient funds at a specific time, can arise even when the overall total is enough. fraud is a problem in many fields, but is notoriously prevalent in the construction field.[14] financial planning for the project is intended to ensure that a solid plan with adequate safeguards and contingency plans are in place before the project is started and is required to ensure that the plan is properly executed over the life of the project.
+mortgage bankers, accountants, and cost engineers are likely participants in creating an overall plan for the financial management of the building construction project. the presence of the mortgage banker is highly likely, even in relatively small projects since the owner's equity in the property is the most obvious source of funding for a building project. accountants act to study the expected monetary flow over the life of the project and to monitor the payouts throughout the process. cost engineers and estimators apply expertise to relate the work and materials involved to a proper valuation. cost overruns with government projects have occurred when the contractor identified change orders or project changes that increased costs, which are not subject to competition from other firms as they have already been eliminated from consideration after the initial bid.[15]
+large projects can involve highly complex financial plans and often start with a conceptual estimate performed by a building estimator. as portions of a project are completed, they may be sold, supplanting one lender or owner for another, while the logistical requirements of having the right trades and materials available for each stage of the building construction project carries forward. in many english-speaking countries, but not the united states, projects typically use quantity surveyors.
+
+legal aspects[edit]
+this section does not cite any sources. please help improve this section by adding citations to reliable sources. unsourced material may be challenged and removed. (october 2006) (learn how and when to remove this template message)
+main article: construction law
+ construction along ontario highway 401, widening the road from six to twelve travel lanes
+a construction project must fit into the legal framework governing the property. these include governmental regulations on the use of property, and obligations that are created in the process of construction.
+when applicable, the project must adhere to zoning and building code requirements. constructing a project that fails to adhere to codes does not benefit the owner. some legal requirements come from malum in se considerations, or the desire to prevent indisputably bad phenomena, e.g. explosions or bridge collapses. other legal requirements come from malum prohibitum considerations, or factors that are a matter of custom or expectation, such as isolating businesses from a business district or residences from a residential district. an attorney may seek changes or exemptions in the law that governs the land where the building will be built, either by arguing that a rule is inapplicable (the bridge design will not cause a collapse), or that the custom is no longer needed (acceptance of live-work spaces has grown in the community).
+a construction project is a complex net of contracts and other legal obligations, each of which all parties must carefully consider. a contract is the exchange of a set of obligations between two or more parties, but it is not so simple a matter as trying to get the other side to agree to as much as possible in exchange for as little as possible. the time element in construction means that a delay costs money, and in cases of bottlenecks, the delay can be extremely expensive. thus, the contracts must be designed to ensure that each side is capable of performing the obligations set out. contracts that set out clear expectations and clear paths to accomplishing those expectations are far more likely to result in the project flowing smoothly, whereas poorly drafted contracts lead to confusion and collapse.
+legal advisors in the beginning of a construction project seek to identify ambiguities and other potential sources of trouble in the contract structure, and to present options for preventing problems. throughout the process of the project, they work to avoid and resolve conflicts that arise. in each case, the lawyer facilitates an exchange of obligations that matches the reality of the project.
+
+interaction of expertise[edit]
+ apartment complex under construction in daegu, south korea
+design, finance, and legal aspects overlap and interrelate. the design must be not only structurally sound and appropriate for the use and location, but must also be financially possible to build, and legal to use. the financial structure must accommodate the need for building the design provided, and must pay amounts that are legally owed. the legal structure must integrate the design into the surrounding legal framework, and enforce the financial consequences of the construction process.
+
+procurement[edit]
+procurement describes the merging of activities undertaken by the client to obtain a building. there are many different methods of construction procurement; however, the three most common types of procurement are traditional (design–bid–build), design-build and management contracting.
+there is also a growing number of new forms of procurement that involve relationship contracting where the emphasis is on a co-operative relationship among the principal, the contractor, and other stakeholders within a construction project. new forms include partnering such as public-private partnering (ppps) aka private finance initiatives (pfis) and alliances such as "pure" or "project" alliances and "impure" or "strategic" alliances. the focus on co-operation is to ameliorate the many problems that arise from the often highly competitive and adversarial practices within the construction industry.
+
+traditional[edit]
+main article: design–bid–build
+this is the most common method of construction procurement and is well established and recognized. in this arrangement, the architect or engineer acts as the project coordinator. his or her role is to design the works, prepare the specifications and produce construction drawings, administer the contract, tender the works, and manage the works from inception to completion. there are direct contractual links between the architect's client and the main contractor. any subcontractor has a direct contractual relationship with the main contractor. the procedure continues until the building is ready to occupy.
+
+design-build[edit]
+main article: design-build
+construction of the phase-1 (first two towers) of the havelock city project, sri lanka
+this approach has become more common in recent years, and also involves the client contracting a single entity that both provides a design and builds it. in some cases, the design-build package can also include finding the site, arranging funding and applying for all necessary statutory consents.
+the owner produces a list of requirements for a project, giving an overall view of the project's goals. several d&b contractors present different ideas about how to accomplish these goals. the owner selects the ideas they like best and hires the appropriate contractor. often, it is not just one contractor, but a consortium of several contractors working together. once these have been hired, they begin building the first phase of the project. as they build phase 1, they design phase 2. this is in contrast to a design-bid-build contract, where the project is completely designed by the owner, then bid on, then completed.
+kent hansen pointed out that state departments of transportation usually use design build contracts as a way of progressing projects when states lack the skills-resources. in such departments, design build contracts are usually employed for very large projects.[16]
+
+management procurement systems[edit]
+main article: construction management
+in this arrangement the client plays an active role in the procurement system by entering into separate contracts with the designer (architect or engineer), the construction manager, and individual trade contractors. the client takes on the contractual role, while the construction or project manager provides the active role of managing the separate trade contracts, and ensuring that they complete all work smoothly and effectively together.
+management procurement systems are often used to speed up the procurement processes, allow the client greater flexibility in design variation throughout the contract, give the ability to appoint individual work contractors, separate contractual responsibility on each individual throughout the contract, and to provide greater client control.
+in recent time, construction software starts to get traction—as it digitizes construction industry. among solutions, there are for example: procore, geniebelt, plangrid, bouw7, etc.
+
+sustainability in construction[edit]
+main article: sustainability in construction
+sustainability during the construction phase is one of the aspects of “green building," defined by the united states environmental protection agency (epa) as "the practice of creating structures and using processes that are environmentally responsible and resource-efficient throughout a building's life-cycle from siting to design, construction, operation, maintenance, renovation and deconstruction."[17]
+
+authority having jurisdiction[edit]
+see also: planning permission
+ digging the foundation for a building construction in jakarta, indonesia
+in construction, the authority having jurisdiction (ahj) is the governmental agency or sub-agency that regulates the construction process. in most cases, this is the municipality where the building is located. however, construction performed for supra-municipal authorities are usually regulated directly by the owning authority, which becomes the ahj.
+
+ construction on the federal reserve building in kansas city, missouri
+before the foundation can be dug, contractors are typically required to verify and have existing utility lines marked, either by the utilities themselves or through a company specializing in such services. this lessens the likelihood of damage to the existing electrical, water, sewage, phone, and cable facilities, which could cause outages and potentially hazardous situations. during the construction of a building, the municipal building inspector inspects the building periodically to ensure that the construction adheres to the approved plans and the local building code. once construction is complete and a final inspection has been passed, an occupancy permit may be issued.
+an operating building must remain in compliance with the fire code. the fire code is enforced by the local fire department or a municipal code enforcement office.
+changes made to a building that affect safety, including its use, expansion, structural integrity, and fire protection items, usually require approval of the ahj for review concerning the building code.
+
+industry characteristics[edit]
+in the united states, the industry in 2014 has around $960 billion in annual revenue according to statistics tracked by the census bureau, of which $680 billion is private (split evenly between residential and nonresidential) and the remainder is government.[18] in 2005, there were about 667,000 firms employing 1 million contractors (200,000 general contractors, 38,000 heavy, and 432,000 specialty); the average contractor employed fewer than 10 employees.[19] as a whole, the industry employed an estimated 5.8 million in april 2013, with a 13.2% unemployment rate.[20] in the united states, approximately 828,000 women were employed in the construction industry as of 2011.[21]
+
+careers[edit]
+ helicopter view of the atacama large millimeter/submillimeter array (alma) operations support facility (osf) construction site
+ ironworkers erecting the steel frame of a new building at massachusetts general hospital in boston
+ a truck operator at al gamil, the largest construction company in djibouti.
+there are many routes to the different careers within the construction industry. these three main tiers are based on educational background and training, which vary by country:
+
+unskilled and semi-skilled – general site labor with little or no construction qualifications.
+skilled – tradesmen who've served apprenticeships, typically in labor unions, and on-site managers who possess extensive knowledge and experience in their craft or profession.
+technical and management – personnel with the greatest educational qualifications, usually graduate degrees, trained to design, manage and instruct the construction process.
+skilled occupations include carpenters, electricians, plumbers, ironworkers, masons, and many other manual crafts, as well as those involved in project management. in the uk these require further education qualifications, often in vocational subject areas. these qualifications are either obtained directly after the completion of compulsory education or through "on the job" apprenticeship training.[22] in the uk, 8500 construction-related apprenticeships were commenced in 2007.[23]
+technical and specialized occupations require more training as a greater technical knowledge is required. these professions also hold more legal responsibility. a short list of the main careers with an outline of the educational requirements are given below:
+
+architect – typically holds 1, undergraduate 3-year degree in architecture + 1, post-graduate 2-year degree (diparch or barch) in architecture plus 24 months' experience within the industry. to use the title "architect" the individual must be registered on the architects registration board register of architects.
+civil engineer – typically holds a degree in a related subject. the chartered engineer qualification is controlled by the engineering council, and is often achieved through membership of the institution of civil engineers. a new university graduate must hold a master's degree to become chartered; persons with bachelor's degrees may become an incorporated engineer.
+building services engineer – often referred to as an "m&e engineer" typically holds a degree in mechanical or electrical engineering. chartered engineer status is governed by the engineering council, mainly through the chartered institution of building services engineers.
+project manager – typically holds a 4-year or greater higher education qualification, but are often also qualified in another field such as architecture, civil engineering or quantity surveying.
+structural engineer – typically holds a bachelor's or master's degree in structural engineering. a p.eng is required from the professional engineers ontario (canada). new university graduates must hold a master's degree to gain chartered status from the engineering council, mainly through the institution of structural engineers (uk).
+quantity surveyor – typically holds a bachelor's degree in quantity surveying. chartered status is gained from the royal institution of chartered surveyors.
+civil estimators are professionals who typically have a background in civil engineering, construction project management, or construction supervision.
+in 2010 a salary survey revealed the differences in remuneration between different roles, sectors and locations in the construction and built environment industry.[24] the results showed that areas of particularly strong growth in the construction industry, such as the middle east, yield higher average salaries than in the uk, for example. the average earning for a professional in the construction industry in the middle east, across all sectors, job types and levels of experience, is £42,090, compared to £26,719 in the uk.[25] this trend is not necessarily due to the fact that more affluent roles are available; however, as architects with 14 or more years' experience working in the middle east earn on average £43,389 per annum, compared to £40,000 in the uk.[25] some construction workers in the us/canada have made more than $100,000 annually, depending on their trade.
+
+safety[edit]
+see also: construction site safety
+ at-risk workers without appropriate safety equipment
+construction is one of the most dangerous occupations in the world, incurring more occupational fatalities than any other sector in both the united states and in the european union.[26][27] in 2009, the fatal occupational injury rate among construction workers in the united states was nearly three times that for all workers, with falls being one of the most common causes of fatal and non-fatal injuries among construction workers.[26] proper safety equipment such as harnesses, hard hats and guardrails and procedures such as securing ladders and inspecting scaffolding can curtail the risk of occupational injuries in the construction industry.[28] other major causes of fatalities in the construction industry include electrocution, transportation accidents, and trench cave-ins.[29]
+
+ roofing requires a very high level of safety
+other safety risks for workers in construction include hearing loss due to high noise exposure, musculoskeletal injury, chemical exposure, and high levels of stress.[21] besides that, the high turnover of workers in construction industry imposes a huge challenge of accomplishing the restructuring of work practices in individual workplaces or with individual workers.[citation needed] construction has been identified by the national institute for occupational safety and health (niosh) as a priority industry sector in the national occupational research agenda (nora) to identify and provide intervention strategies regarding occupational health and safety issues.[30][31]
+
+history[edit]
+main article: history of construction
+see also: history of architecture
+the first huts and shelters were constructed by hand or with simple tools. as cities grew during the bronze age, a class of professional craftsmen, like bricklayers and carpenters, appeared. occasionally, slaves were used for construction work. in the middle ages, the artisan craftsmen were organized into guilds. in the 19th century, steam-powered machinery appeared, and, later, diesel- and electric-powered vehicles such as cranes, excavators and bulldozers.
+fast-track construction has been increasingly popular in the 21st century. some estimates suggest that 40% of construction projects are now fast-track construction.[32]
+
+construction output by country[edit]
+
+list of countries with the largest construction output in 2015
+
+
+economy
+
+construction output in 2015 (billions in usd)
+
+
+(01)  china
+
+1,849
+
+
+(02)  united states
+
+599
+
+
+(03)  japan
+
+569
+
+
+(04)  india
+
+333
+
+
+(05)  france
+
+147
+
+
+(06)  germany
+
+143
+
+
+(07)  singapore
+
+131
+
+
+(08)  canada
+
+131
+
+
+(09)  australia
+
+115
+
+
+(10)  russia
+
+111
+
+
+(11)  brazil
+
+109
+
+
+(12)  italy
+
+107
+
+
+(13)  spain
+
+104
+
+
+(14)  indonesia
+
+93
+
+
+(15)  mexico
+
+92
+
+
+(16)  south korea
+
+58
+
+
+(17)  turkey
+
+35
+
+
+(18)  united arab emirates
+
+34
+
+
+(19)  venezuela
+
+34
+
+
+(20)  netherlands
+
+34
+
+
+(21)  poland
+
+34
+
+
+(22)   switzerland
+
+33
+
+
+(23)  saudi arabia
+
+32
+
+
+(24)  iran
+
+29
+
+
+(25)  colombia
+
+29
+
+
+
+the twenty-five largest countries in the world by construction output (2012)[33]
+
+
+see also[edit]
+ construction portal
+
+
+
+look up construction in wiktionary, the free dictionary.
+agile construction
+index of construction articles
+list of construction trades
+outline of construction
+real estate development
+site survey
+structural robustness
+umarell
+references[edit]
+
+
+
+wikimedia commons has media related to construction.
+library resources about  construction 
+resources in your library
+resources in other libraries
+
+
+
+^ compare: "construction", merriam-webster.com, merriam-webster, retrieved 2016-02-16, [...] the act or process of building something (such as a house or road) [...]..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ halpin, daniel w.; senior, bolivar a. (2010), construction management (4 ed.), hoboken, nj: john wiley & sons, p. 9, isbn 9780470447239, retrieved may 16, 2015
+
+^ 
+chitkara, k. k. (1998), construction project management, new delhi: tata mcgraw-hill education, p. 4, isbn 9780074620625, retrieved may 16, 2015
+
+^ "construction" def. 1.a. 1.b. and 1.c. oxford english dictionary second edition on cd-rom (v. 4.0) oxford university press 2009
+
+^ "construction". online etymology dictionary http://www.etymonline.com/index.php?term=construction accessed 3/6/2014
+
+^ chitkara, pp. 9–10.
+
+^ halpin, pp. 15–16.
+
+^ "the top 250", engineering news-record, september 1, 2014
+
+^ "the top 400" (pdf), engineering news-record, may 26, 2014
+
+^ us census bureau,naics search 2012 naics definition, sector 23 – construction
+
+^ us department of labor (osha), division c: construction
+
+^ "the subaru headquarters construction site", engineering news-record, october 20, 2016
+
+^ "the construction industry's productivity problem". the economist. retrieved 2017-08-21.
+
+^ "global construction industry faces growing threat of economic crime". pwc. pwc. retrieved 16 september 2015.
+
+^ "north county news – san diego union tribune". www.nctimes.com.
+
+^ cronin, jeff (2005). "s. carolina court to decide legality of design-build bids". construction equipment guide. retrieved 2008-01-04.
+
+^ "basic information | green building |us epa". archive.epa.gov. retrieved 2018-12-11.
+
+^ value of construction put in place at a glance. united states census bureau. also see manufacturing & construction statistics for more information.
+
+^ mcintyre m, strischek d. (2005). surety bonding in today's construction market: changing times for contractors, bankers, and sureties. the rma journal.
+
+^ industries at a glance: construction: naics 23. u.s. bureau of labor statistics.
+
+^ a b swanson, naomi; tisdale-pardi, julie; macdonald, leslie; tiesman, hope m. (13 may 2013). "women's health at work". national institute for occupational safety and health. retrieved 21 january 2015.
+
+^ wood, hannah (17 january 2012). "uk construction careers, certifications/degrees and occupations". th services. archived from the original on 4 march 2012. retrieved 4 march 2012.
+
+^ "citb apprenticeships - citb". www.cskills.org.
+
+^ "uk website launches salary comparison tool". retrieved 2011-07-04.
+
+^ a b "salary benchmarker". retrieved 2011-07-04.
+
+^ a b "construction safety and health". workplace safety & health topics. national institute of occupational safety and health. retrieved 3 august 2012.
+
+^ "health and safety at work statistics". eurostat. european commission. retrieved 3 august 2012.
+
+^ "osha's fall prevention campaign". occupational safety and health administration. retrieved 6 august 2012.
+
+^ "the construction chart book: the us construction industry and its workers" (pdf). cpwr, 2013.
+
+^ "cdc - niosh program portfolio : construction program". www.cdc.gov. 2018-04-05. retrieved 2018-04-07.
+
+^ "cdc - niosh - nora construction sector council". www.cdc.gov. 2017-12-01. retrieved 2018-04-07.
+
+^ knecht b. fast-track construction becomes the norm. architectural record.
+
+^ figures from the united nations' un national accounts database. for the countries of the world. retrieved 1 february 2014.
+
+
+vteconstruction industry by country
+canada
+india
+iran
+japan
+hong kong sar
+romania
+united kingdom
+united states
+
+vtetallest buildings and structuresbuildingsoverview
+history
+skyscraper
+storey
+by region
+africa
+asia
+indian subcontinent
+southeast
+europe
+balkans
+baltic states
+scandinavia
+oceania
+south america
+central america
+latin america
+by country
+albania
+algeria
+argentina
+australia
+azerbaijan
+bangladesh
+bosnia and herzegovina
+brazil
+bulgaria
+cambodia
+canada
+chile
+china
+colombia
+croatia
+cyprus
+czech republic
+denmark
+ecuador
+egypt
+estonia
+finland
+france
+georgia
+germany
+greece
+hong kong
+iceland
+india
+indonesia
+ireland
+israel
+italy
+japan
+kazakhstan
+kenya
+kuwait
+latvia
+lebanon
+lithuania
+macau
+malaysia
+malta
+mexico
+mongolia
+morocco
+netherlands
+nigeria
+north korea
+north macedonia
+norway
+pakistan
+peru
+philippines
+poland
+portugal
+romania
+russia
+saudi arabia
+serbia
+singapore
+slovenia
+south africa
+south korea
+spain
+sweden
+taiwan
+tanzania
+thailand
+turkey
+ukraine
+united arab emirates
+united kingdom
+united states
+uruguay
+venezuela
+vietnam
+zimbabwe
+by other
+british empire and commonwealth
+european union
+lists
+100+ floors
+architects
+buildings by height to roof
+cities with most high-rise buildings
+cities with most skyscrapers
+churches
+designed by women
+eastern orthodox
+mosques
+early skyscrapers
+educational
+future
+hospitals
+hotels
+most expensive
+residential
+supertall
+twin buildings
+voluntarily demolished
+wood
+structures(of any type)by region
+africa
+europe
+middle east
+south america
+former soviet union
+former yugoslavia
+by country
+albania
+algeria
+australia
+austria
+bahrain
+belgium
+bulgaria
+canada
+china
+czech republic
+denmark
+egypt
+estonia
+finland
+france
+germany
+greece
+hungary
+iceland
+india
+indonesia
+iran
+ireland
+italy
+japan
+kosovo
+luxembourg
+netherlands
+new zealand
+norway
+poland
+portugal
+romania
+saudi arabia
+serbia
+slovakia
+south africa
+spain
+sri lanka
+sweden
+switzerland
+tunisia
+turkey
+turkmenistan
+united kingdom
+united states
+uzbekistan
+by other
+commonwealth of nations
+lists
+300 to 400 metres
+400 to 500 metres
+before the 20th century
+bridges
+chimneys
+crosses
+dams
+freestanding
+lighthouses
+statues
+towers
+twin structures
+relatedtopics
+additionally guyed tower
+air traffic obstacle
+all buildings and structures
+antenna height considerations
+architectural engineering
+construction
+early skyscrapers
+height restriction laws
+oil platform
+partially guyed tower
+tower block
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=construction&oldid=882974049"					
+categories: constructionhidden categories: articles with short descriptionwikipedia pending changes protected pagesarticles needing additional references from august 2017all articles needing additional referencesarticles needing additional references from june 2017articles needing additional references from october 2006all articles with unsourced statementsarticles with unsourced statements from february 2019commons category link from wikidata 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+afrikaansالعربيةasturianuavañe'ẽazərbaycancaবাংলাbân-lâm-gúбашҡортсабеларускаябеларуская (тарашкевіца)‎българскиcatalàчӑвашлаcymraegdanskdeutscheestiespañolesperantoeuskaraفارسیfrançaisgaeilgegalego한국어հայերենहिन्दीidobahasa indonesiaíslenskaitalianoעבריתbasa jawaಕನ್ನಡქართულიқазақшаkiswahiliкыргызчаລາວlatgaļulatviešulietuviųmagyarмакедонскиमराठीbahasa melayuмонголမြန်မာဘာသာnederlandsनेपाल भाषा日本語napulitanonorsknorsk nynorskoʻzbekcha/ўзбекчаپښتوភាសាខ្មែរpolskiportuguêsromânăрусскийshqipsicilianusimple englishslovenčinasoomaaligaکوردیсрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskatagalogதமிழ்татарча/tatarçaతెలుగుไทยtürkçeукраїнськаtiếng việtvõrowinarayייִדיש粵語žemaitėška中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 12 february 2019, at 14:22 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.932","walltime":"1.312","ppvisitednodes":{"value":6467,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":204238,"limit":2097152},"templateargumentsize":{"value":9041,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":10,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":69716,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1012.331      1 -total"," 28.91%  292.647      1 template:bar_chart"," 22.08%  223.502      1 template:reflist"," 11.38%  115.156      6 template:citation"," 10.06%  101.811     25 template:flag","  9.33%   94.426      1 template:commons_category","  8.30%   84.020      2 template:sister_project","  8.03%   81.311      2 template:side_box","  7.70%   77.915      1 template:commons","  7.27%   73.595      2 template:if_then_show"]},"scribunto":{"limitreport-timeusage":{"value":"0.341","limit":"10.000"},"limitreport-memusage":{"value":8863579,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1271","timestamp":"20190219095709","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"construction","url":"https:\/\/en.wikipedia.org\/wiki\/construction","sameas":"http:\/\/www.wikidata.org\/entity\/q385378","mainentity":"http:\/\/www.wikidata.org\/entity\/q385378","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2003-06-02t18:55:43z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/d6\/construction_site_in_cologne%2c_germany_%282017%29.jpg","headline":"process that consists of the building or assembling of a building or infrastructure"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":120,"wghostname":"mw1242"});});
+
+

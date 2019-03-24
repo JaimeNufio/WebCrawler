@@ -1,0 +1,1228 @@
+
+
+
+
+bank of italy - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"bank_of_italy","wgtitle":"bank of italy","wgcurrevisionid":879026180,"wgrevisionid":879026180,"wgarticleid":3960,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["use dmy dates from april 2011","official website different in wikidata and wikipedia","articles containing italian-language text","interlanguage link template link number","coordinates not on wikidata","banks of italy","european system of central banks","central banks","banks established in 1893","1893 establishments in italy","banknote printing companies","banca d'italia"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"bank_of_italy","wgrelevantarticleid":3960,"wgrequestid":"xgwfxapaickaaczzjseaaabt","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfexpandallsectionsuseroption":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgcoordinates":{"lat":41.897222222222,"lon":12.488888888889},"wgwikibaseitemid":"q806176","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+bank of italy 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+
+
+for other uses, see bank of italy (disambiguation).
+bank of italybanca d'italiaheadquarterspalazzo koch, rome, italyestablished1893; 126 years ago (1893)governorignazio viscocentral bank ofitalysucceeded byeuropean central bank (1999)1websiteofficial website1 the bank of italy still exists but many functions have been taken over by the ecb.
+ headquarters in rome
+the bank of italy, known in italian as [la] banca d'italia (pronounced [ˈbaŋka diˈtaːlja]), also known as bankitalia, is the central bank of italy and part of the european system of central banks. it is located in palazzo koch, via nazionale, rome. the bank's current governor is ignazio visco, who took the office on 1 november 2011.
+
+contents
+
+1 functions
+2 history
+
+2.1 general managers (1893–1928)
+2.2 governors (1928–present)
+
+
+3 organization
+
+3.1 governing bodies
+3.2 appointment
+
+
+4 shareholders
+5 see also
+6 references
+7 external links
+
+
+functions[edit]
+after the charge of monetary and exchange rate policies was shifted in 1998 to the european central bank, within the european institutional framework, the bank implements the decisions, issues euro banknotes and withdraws and destroys worn pieces.
+the main function has thus become banking and financial supervision. the objective is to ensure the stability and efficiency of the system and compliance to rules and regulations; the bank pursues it through secondary legislation, controls and cooperation with governmental authorities.
+following reform in 2005, which was prompted by takeover scandals, the bank has lost exclusive antitrust authority in the credit sector, which is now shared with the italian competition authority (italian: autorità garante della concorrenza e del mercato).
+other functions include, market supervision, oversight of the payment system and provision of settlement services, state treasury service, central credit register, economic analysis and institutional consultancy.
+as of 2017 the bank of italy owned 2,451.8 tonnes of gold, the third-largest gold reserve in the world.[1]
+
+history[edit]
+the institution was established in 1893 from the combination of three major banks in italy (after the banca romana scandal).[2][3] the new central bank first issued bank-notes during 1926.[4] until 1928, it was directed by a general manager, after this time instead by a governor elected by an internal commission of managers, with a decree from the president of the italian republic, for a term of seven years.
+
+general managers (1893–1928)[edit]
+giacomo grillo (1893–1894)
+giuseppe marchiori (1894–1900)
+bonaldo stringher (1900–1928)
+governors (1928–present)[edit]
+bonaldo stringher (1928–1930)
+vincenzo azzolini (1931–1944)
+luigi einaudi (1945–1948)
+donato menichella (1948–1960)
+guido carli (1960–1975)
+paolo baffi (1975–1979)
+carlo azeglio ciampi (1979–1993)
+antonio fazio (1993–2005)
+mario draghi (2005–2011)
+ignazio visco (2011–present)
+organization[edit]
+governing bodies[edit]
+the bank's governing bodies are the general meeting of shareholders, the board of directors, the governor, the director general and three deputy directors general; the last five constitute the directorate. 
+the general meeting takes place yearly and with the purpose of approving accounts and appointing the auditors. the board of directors has administrative powers and is chaired by the governor (or by the director general in his absence). following reform in 2005, the governor lost exclusive responsibility regarding decisions of external relevance (i.e. banking and financial supervision), which has been transferred to the directorate (by majority vote). the director general is responsible for the day-to-day administration of the bank, and acts as governor when absent.
+the board of auditors assesses the bank's administration and compliance with the law, regulations and the statute.
+
+appointment[edit]
+the directorate's term of office lasts six years and is renewable once. the appointment of the governor is the responsibility of the government, head of the board of directors, with the approval of the president (formally a decree of the president). the board of directors is elected by the shareholders according to the bank statute.
+on 25 october 2011, silvio berlusconi nominated ignazio visco to be the bank's new governor to replace mario draghi when he left to become president of the european central bank in november.[5]
+
+shareholders[edit]
+banca d'italia had 300,000 shares with a nominal value of €25,000. originally scattered around the banks of whole italy, the shares now accumulated due to the merger of the banks since 1990s. the status of the bank states that a minimum of 54% of profits would go to the italian government, and only a maximum of 6% of profits would distributed as dividends according to shares ratio.[6]
+
+as of 1 december 2016[7]
+
+
+
+number of shares
+percentage
+voting rights
+percentage
+
+
+intesa sanpaolo
+ 76,787
+ 25.60%
+
+
+
+
+— cassa di risparmio in bologna (subsidiary)
+ 18,602
+ 6.20%
+
+
+
+
+— cassa di risparmio di firenze (subsidiary)
+ 5,656
+ 1.89%
+
+
+
+
+— cassa di risparmio del veneto (subsidiary)
+ 3,610
+ 1.20%
+
+
+
+
+— cassa di risparmio del friuli venezia giulia (subsidiary)
+ 1,869
+ 0.62%
+
+
+
+
+— cassa di risparmio di pistoia e della lucchesia (subsidiary)
+ 1,126
+ 0.38%
+
+
+
+
+— casse di risparmio dell'umbria (subsidiary)
+ 1,106
+ 0.37%
+
+
+
+
+— banca dell'adriatico (subsidiary)
+ 653
+ 0.22%
+
+
+
+
+— cassa dei risparmi di forlì e della romagna (subsidiary)
+ 605
+ 0.20%
+
+
+
+
+unicredit
+ 56,049
+ 18.68%
+
+
+
+
+italian ministry of labour and social policy [it]
+ 0
+ 0.00%
+ 0
+ 0.00%
+
+
+— inps
+ 9,000
+ 3.00%
+
+
+
+
+— cassa forense
+ 9,000
+ 3.00%
+
+
+
+
+— inarcassa
+ 9,000
+ 3.00%
+
+
+
+
+— fondazione enpam
+ 9,000
+ 3.00%
+
+
+
+
+— inail
+ 8,000
+ 2.67%
+
+
+
+
+— fondazione enpaia
+ 3,000
+ 1.00%
+
+
+
+
+— cnpr
+ 1,500
+ 0.50%
+
+
+
+
+generali italia
+ 16,425
+ 5.48%
+
+
+
+
+cassa di risparmio di genova e imperia
+ 12,093
+ 4.03%
+
+
+
+
+— banca del monte di lucca  (subsidiary)
+ 2
+ 0.00%
+
+
+
+
+cassa di risparmio di asti
+ 2,800
+ 0.93%
+
+
+
+
+— cassa di risparmio di biella e vercelli (subsidiary)
+ 6,300
+ 2.10%
+
+
+
+
+bnp paribas 
+ 0
+ 0.00%
+ 0
+ 0.00%
+
+
+— banca nazionale del lavoro (subsidiary)
+ 8,500
+ 2.83%
+
+
+
+
+banca monte dei paschi di siena
+ 7,500
+ 2.50%
+
+
+
+
+crédit agricole 
+ 0
+ 0.00%
+ 0
+ 0.00%
+
+
+— cassa di risparmio di parma e piacenza (subsidiary)
+ 6,094
+ 2.03%
+
+
+
+
+— cassa di risparmio della spezia (subsidiary)
+ 266
+ 0.09%
+
+
+
+
+unipolsai assicurazioni
+ 6,000
+ 2.00%
+
+
+
+
+banco popolare
+ 3,668
+ 1.22%
+
+
+
+
+nuova banca delle marche
+ 2,459
+ 0.82%
+
+
+
+
+— cassa di risparmio di loreto (subsidiary)
+ 100
+ 0.03%
+
+
+
+
+unione di banche italiane
+ 0
+ 0.00%
+ 0
+ 0.00%
+
+
+— banca regionale europea (subsidiary)
+ 759
+ 0.25%
+
+
+
+
+— banca carime (subsidiary)
+ 500
+ 0.17%
+
+
+
+
+nuova cassa di risparmio di ferrara
+ 949
+ 0.32%
+
+
+
+
+banca popolare di milano
+ 873
+ 0.29%
+
+
+
+
+cassa di risparmio di ravenna
+ 769
+ 0.26%
+
+
+
+
+banca popolare dell'emilia romagna
+ 759
+ 0.25%
+
+
+
+
+cassa di risparmio di fossano
+ 750
+ 0.25%
+
+
+
+
+banca popolare di vicenza
+ 687
+ 0.23%
+
+
+
+
+cassa di risparmio di cesena
+ 675
+ 0.23%
+
+
+
+
+cassa di risparmio di san miniato
+ 652
+ 0.22%
+
+
+
+
+fondazione cassa di risparmio di carpi
+ 600
+ 0.20%
+
+
+
+
+reale mutua di assicurazioni
+ 500
+ 0.17%
+
+
+
+
+veneto banca
+ 480
+ 0.16%
+
+
+
+
+eurovita assicurazioni
+ 400
+ 0.13%
+
+
+
+
+fondazione cassa di risparmio di perugia
+ 400
+ 0.13%
+
+
+
+
+cassa di risparmio di rimini
+ 393
+ 0.13%
+
+
+
+
+südtiroler sparkasse – cassa di risparmio di bolzano
+ 377
+ 0.13%
+
+
+
+
+banca popolare di bari
+ 0
+ 0.00%
+ 0
+ 0.00%
+
+
+— cassa di risparmio di orvieto (subsidiary)
+ 237
+ 0.08%
+
+
+
+
+— cassa di risparmio della provincia di teramo (subsidiary)
+ 115
+ 0.04%
+
+
+
+
+— cassa di risparmio di pescara e di loreto aprutino (subsidiary)
+ 8
+ 0.00%
+
+
+
+
+cassa di risparmio di cento
+ 311
+ 0.10%
+
+
+
+
+fondazione manodori
+ 300
+ 0.10%
+
+
+
+
+banca cassa di risparmio di savigliano
+ 200
+ 0.07%
+
+
+
+
+allianz s.p.a. 
+ 200
+ 0.07%
+
+
+
+
+bcc roma
+ 200
+ 0.07%
+
+
+
+
+banca sistema
+ 200
+ 0.07%
+
+
+
+
+banca del piemonte
+ 200
+ 0.07%
+
+
+
+
+cassa di risparmio di volterra
+ 194
+ 0.06%
+
+
+
+
+nuova cassa di risparmio di chieti
+ 151
+ 0.05%
+
+
+
+
+cassa di risparmio di fermo
+ 130
+ 0.04%
+
+
+
+
+banca sella holding
+ 120
+ 0.04%
+
+
+
+
+credito valtellinese
+ 101
+ 0.03%
+
+
+
+
+cassa di risparmio della repubblica di san marino 
+ 36
+ 0.01%
+
+
+
+
+cassa di risparmio di saluzzo
+ 4
+ 0.00%
+
+
+
+
+see also[edit]
+
+
+banks portal
+banking in italy
+istituto poligrafico e zecca dello stato
+commissione nazionale per le società e la borsa
+economy of italy
+italian lira
+eabh (the european association for banking and financial history e.v.)
+references[edit]
+
+
+^ "latest gold holdings - xlsx download - world gold council". www.gold.org..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ alfredo gigliobianco and claire giordano, "economic theory and banking regulation: the italian case (1861-1930s)", quaderni di storia economica (economic history working papers), no. 5, november 2010
+
+^  "banca d'italia: origins", banca d'italia.
+
+^ "banca d'italia: history", banca d'italia.
+
+^ "berlusconi names visco to head bank of italy in surprise move". reuters. 20 october 2011. retrieved 11 february 2018.
+
+^ "status", banca d'italia.
+
+^ https://www.bancaditalia.it/chi-siamo/funzioni-governance/partecipanti-capitale/shareholders-011216.pdf?language_id=1
+
+
+external links[edit]
+official website
+vteitaly articleshistorychronology
+prehistory
+italic peoples
+ancient peoples of italy
+pre-nuragic sardinia
+nuragic peoples
+etruscan civilization
+nuragic civilization
+phoenician/carthaginian colonies
+magna graecia
+ancient rome
+kingdom
+republic
+empire
+middle ages
+italy under odoacer
+ostrogoths
+byzantium
+lombards
+the holy roman empire
+the sardinian judicates
+arabs
+normans
+guelphs and ghibellines
+the italian city-states
+the maritime republics
+renaissance
+italian wars
+early modern period
+unification
+revolutions of 1820
+revolutions of 1830
+revolutions of 1848
+sicilian revolution of 1848
+first war of independence
+crimean war
+second war of independence
+expedition of the thousand
+third war of independence
+capture of rome
+monarchy and the world wars
+kingdom of italy
+colonial empire
+world war i
+fascist italy
+world war ii
+resistance
+civil war
+republic
+economic boom
+years of lead
+years of mud
+mani pulite
+by topic
+citizenship
+currency
+economy
+fashion
+flags
+genetic
+historic states
+military
+music
+postal
+railways
+geography
+peninsula
+northern
+northwest
+northeast
+central
+southern
+south
+insular
+climate
+fauna
+flora
+mountains
+prealps
+alps
+apennines
+volcanology
+volcanoes
+beaches
+canals
+caves
+earthquakes
+islands
+lakes
+national parks
+rivers
+valleys
+politics
+constitution
+elections
+referendums
+foreign relations
+missions
+judiciary
+law enforcement
+military
+parliament
+chamber of deputies
+senate
+political parties
+president
+prime minister
+council of ministers
+regions
+provinces
+metropolitan cities
+comune
+municipalities
+cities
+economy
+economic history
+milan
+naples
+rome
+turin
+regions by gdp
+automotive industry
+banking
+central bank
+companies
+energy
+government debt
+science and technology
+stock exchange
+taxation
+telecommunications
+internet
+tourism
+trade unions
+transportation
+welfare
+society
+abortion
+adoption
+billionaires
+capital punishment
+corruption
+crime
+demographics
+education
+secondary
+higher
+universities
+emigration
+fathers' rights movement
+feminism
+gambling
+health
+healthcare
+immigration
+lgbt rights
+nobility
+prostitution
+racism
+religion
+smoking
+social class
+terrorism
+women
+culture
+duecento
+trecento
+quattrocento
+cinquecento
+seicento
+settecento
+architecture
+art
+castles
+cinema
+cuisine
+beer
+wine
+cultural icons
+decorations
+design
+fashion
+festivals
+folklore
+italian language
+regional italian
+italian literature
+italophilia
+italophobia
+languages
+media
+newspapers
+radio
+tv
+monuments
+music
+classical
+folk
+opera
+popular
+mythology
+national symbols
+anthem
+emblem
+flag
+regions
+national monument
+personification
+people
+philosophy
+public holidays
+festa della repubblica
+sculpture
+sport
+traditions
+world heritage sites
+
+ italy portal
+ category
+ commons
+ news
+quotes
+travel
+ wikiproject
+
+vte banking in italycentral bank
+bank of italy
+european central bank
+public banks
+cassa depositi e prestiti
+cdp reti
+poste italiane
+bancoposta
+banca del mezzogiorno – mediocredito centrale
+istituto per il credito sportivo
+banca mediocredito del friuli venezia giulia
+investitionsbank trentino südtirol – mediocredito trentino alto adige
+finaosta
+fincalabra
+finlombarda
+finmolise
+finpiemonte
+fidi toscana
+fira
+gepafin
+irfis – finsicilia
+sviluppo basilicata
+sfirs
+veneto sviluppo
+farbanca
+banca intermobiliare
+global banks(supervised by ecb)
+unicredit
+finecobank
+intesa sanpaolo
+banca imi
+mediocredito italiano
+banca apulia
+nationwide and multi-regional banks(supervised by ecb)
+banco bpm
+banca aletti
+banca popolare di milano
+banca monte dei paschi di siena
+mps capital services
+ubi banca
+iwbank
+mediobanca
+compass
+banca esperia
+bper banca
+banco di sardegna
+banca di sassari
+c.r. bra
+c.r. saluzzo
+banca carige
+banca del monte di lucca
+credito emiliano
+banca popolare di sondrio
+multi-regional(total assets €30b to €8b)
+credito valtellinese
+credito siciliano
+banca mediolanum
+banca popolare di bari
+cassa di risparmio di orvieto
+banca sella holding
+banca sella
+banca patrimoni sella
+banco di desio e della brianza
+banca popolare di spoleto
+unipol banca
+banca di asti
+biverbanca
+südtiroler volksbank – banca popolare dell'alto adige
+südtiroler sparkasse – cassa di risparmio di bolzano
+multi-regional andregional cooperative bank(popolari banks)
+banca agricola popolare di ragusa
+banca valsabbina
+banca popolare di puglia e basilicata
+banca popolare di cividale
+cassa di sovvenzioni e risparmio fra il personale della banca d'italia
+banca popolare pugliese
+banca di piacenza
+banca di credito popolare
+banca popolare del lazio
+banca popolare del cassinate
+banca popolare valconca
+banca popolare etica
+banca popolare sant'angelo
+sanfelice 1893 banca popolare
+banca popolare di lajatico
+banca popolare di fondi
+banca popolare del frusinate
+co-operative banks (bcc)and central banks
+federcasse
+central banks
+istituto centrale delle casse rurali ed artigiane
+raiffeisen landesbank südtirol – cassa centrale raiffeisen dell'alto adige
+cassa centrale banca - credito cooperativo del nord est
+list of member of federcasse
+fondo di garanzia dei depositanti del credito cooperativo
+regional retail bank
+cassa di risparmio di ravenna
+banco di lucca e del tirreno
+banca di imola
+banca di cambiano
+cassa di risparmio di cento
+chiantibanca
+cassa padana
+cassa di risparmio di volterra
+cassa di risparmio di fossano
+banca del fucino
+cassa di risparmio di fermo
+banca del piemonte
+banca cr savigliano
+banco azzoaglio
+others
+banca generali
+banca ifis
+banca finnat
+banca ubae
+banca leonardo
+banca farmafactoring
+unione fiduciaria
+credito fondiario
+banca passadore
+banca sistema
+banca profilo
+dobank
+italfondiario
+mercury
+nexi
+setefi
+foreign banks
+allianz
+allianz s.p.a.
+barclays
+banco santander
+bank of china
+bnp paribas
+banca nazionale del lavoro
+crédit agricole
+crédit agricole italia
+cariparma
+carispezia
+friuladria
+crédit agricole corporate and investment bank
+fca bank
+credit suisse
+deutsche bank
+deutsche bank s.p.a.
+dexia
+crediop
+hsbc
+ing bank
+société générale
+ancient banks
+bank of saint george
+banco di santo spirito
+istituto bancario san paolo di torino
+medici bank
+mount of piety
+faenza
+foggia
+parma
+perugia
+reggio emilia
+treviso
+udine
+verona
+vicenza
+related topics
+list of banks in italy
+associazione bancaria italiana
+associazione di fondazioni e di casse di risparmio s.p.a.
+associazione nazionale fra le banche popolari
+fondo interbancario di tutela dei depositi
+italian national resolution fund
+
+vtecentral banks of the european union within eurozone
+national bank of belgium
+central bank of cyprus
+deutsche bundesbank
+bank of estonia
+bank of finland
+banque de france
+bank of greece
+central bank of ireland
+bank of italy
+bank of latvia
+bank of lithuania
+central bank of luxembourg
+central bank of malta
+de nederlandsche bank
+oesterreichische nationalbank
+banco de portugal
+national bank of slovakia
+bank of slovenia
+bank of spain
+outside eurozone
+bulgarian national bank
+croatian national bank
+czech national bank
+danmarks nationalbank
+bank of england
+hungarian national bank
+national bank of poland
+national bank of romania
+sveriges riksbank
+banking-relatedeu institutions
+european central bank
+european system of central banks
+european investment bank
+
+ central banks
+ european union
+
+vtecentral banksglobal
+bank for international settlements
+basel committee on banking supervision
+financial stability board
+policies
+capital requirement
+contractionary monetary policy
+expansionary monetary policy
+basel ii
+basel iii
+basel 4
+implementation
+capital control
+discount rate
+interest rates
+money creation
+open market operation
+sovereign wealth fund
+bretton woods system
+international monetary fund
+world bank group
+international bank for reconstruction and development
+international centre for settlement of investment disputes
+international development association
+international finance corporation
+multilateral investment guarantee agency
+lists
+list of central banks
+central banks and currencies of africa
+central banks and currencies of asia-pacific
+central banks and currencies of the caribbean
+central banks and currencies of europe
+central banks and currencies of central america and south america
+
+coordinates: 41°53′50″n 12°29′20″e﻿ / ﻿41.89722°n 12.48889°e﻿ / 41.89722; 12.48889
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=bank_of_italy&oldid=879026180"					
+categories: banks of italyeuropean system of central bankscentral banksbanks established in 18931893 establishments in italybanknote printing companiesbanca d'italiahidden categories: use dmy dates from april 2011official website different in wikidata and wikipediaarticles containing italian-language textinterlanguage link template link numbercoordinates not on wikidata 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+asturianubosanskicatalàdanskdeutschespañolesperantofrançaisbahasa indonesiaitalianolietuviųмакедонскиbahasa melayunederlands日本語norskpolskiportuguêsрусскийsvenskatürkçeукраїнська中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 18 january 2019, at 14:26 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.872","walltime":"1.120","ppvisitednodes":{"value":12258,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":195167,"limit":2097152},"templateargumentsize":{"value":30353,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":19,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":8255,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  825.787      1 -total"," 17.76%  146.688    148 template:ntsh"," 17.59%  145.272      1 template:lang-it"," 17.01%  140.476      9 template:navbox"," 16.00%  132.107      1 template:infobox_central_bank"," 14.74%  121.752      1 template:infobox"," 13.30%  109.802      1 template:italy_topics"," 12.90%  106.490      1 template:country_topics"," 12.12%  100.105    148 template:number_table_sorting/qyes/0"," 10.93%   90.235      1 template:reflist"]},"scribunto":{"limitreport-timeusage":{"value":"0.295","limit":"10.000"},"limitreport-memusage":{"value":14495950,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1244","timestamp":"20190214150129","ttl":86400,"transientcontent":true}}});mw.config.set({"wgbackendresponsetime":86,"wghostname":"mw1320"});});
+
+

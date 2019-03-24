@@ -1,0 +1,1570 @@
+
+
+
+
+glenn t. seaborg - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"glenn_t._seaborg","wgtitle":"glenn t. seaborg","wgcurrevisionid":882492246,"wgrevisionid":882492246,"wgarticleid":13120,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["pages containing links to subscription-only content","use mdy dates from april 2012","biography with signature","infobox person using alma mater","articles with hcards","wikipedia articles with bibsys identifiers","wikipedia articles with bne identifiers","wikipedia articles with bnf identifiers","wikipedia articles with cinii identifiers","wikipedia articles with gnd identifiers","wikipedia articles with isni identifiers","wikipedia articles with lccn identifiers","wikipedia articles with lnb identifiers","wikipedia articles with mgp identifiers","wikipedia articles with nara identifiers","wikipedia articles with ndl identifiers","wikipedia articles with nkc identifiers","wikipedia articles with nla identifiers","wikipedia articles with nsk identifiers","wikipedia articles with snac-id identifiers","wikipedia articles with sudoc identifiers","wikipedia articles with viaf identifiers","wikipedia articles with worldcat-viaf identifiers","ac with 17 elements","good articles","glenn t. seaborg","1912 births","1999 deaths","20th-century american chemists","american nobel laureates","american people of swedish descent","american skeptics","chairmen of the united states atomic energy commission","leaders of the university of california, berkeley","discoverers of chemical elements","enrico fermi award recipients","fellows of the american association for the advancement of science","fellows of the committee for skeptical inquiry","foreign members of the royal society","founding members of the world cultural council","manhattan project people","members of the royal swedish academy of sciences","members of the united states national academy of sciences","national medal of science laureates","nobel laureates in chemistry","people from ishpeming, michigan","people involved with the periodic table","south gate, california","university of california, berkeley alumni","university of california, berkeley faculty","university of california, los angeles alumni","vannevar bush award recipients","national inventors hall of fame inductees"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"glenn_t._seaborg","wgrelevantarticleid":13120,"wgrequestid":"xgwdjqpame0aaibw39kaaacy","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q48973","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+glenn t. seaborg 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+
+
+glenn t. seaborgseaborg in 19642nd chancellor of the university of california, berkeleyin office1958–1961preceded byclark kerrsucceeded byedward w. strong
+personal detailsbornglenn theodore seaborg(1912-04-19)april 19, 1912ishpeming, michigandiedfebruary 25, 1999(1999-02-25) (aged 86)lafayette, californianationalityunited statesalma materuclauc berkeleyknown forhis contributions to the synthesis, discovery and investigation of ten transuranium elementsawards
+acs award in pure chemistry (1947)
+nobel prize in chemistry (1951)
+perkin medal (1957)[1]
+enrico fermi award (1959)
+franklin medal (1963)
+willard gibbs award (1966)
+priestley medal (1979)
+formemrs (1985)[2]
+vannevar bush award (1988)
+national medal of science (1991)
+scientific careerfieldsnuclear chemistryinstitutionsuniversity of california, berkeleymanhattan projectus atomic energy commissionthesisthe interaction of fast neutrons with lead (1937)doctoral advisorgeorge ernest gibsongilbert newton lewisdoctoral studentsralph arthur jamesjoseph william kennedyelizabeth rauscherarthur wahl
+signature
+glenn theodore seaborg (/ˈsiːbɔːrɡ/; april 19, 1912 – february 25, 1999) was an american chemist whose involvement in the synthesis, discovery and investigation of ten transuranium elements earned him a share of the 1951 nobel prize in chemistry.[3] his work in this area also led to his development of the actinide concept and the arrangement of the actinide series in the periodic table of the elements.
+seaborg spent most of his career as an educator and research scientist at the university of california, berkeley, serving as a professor, and, between 1958 and 1961, as the university's second chancellor.[4] he advised ten us presidents – from harry s. truman to bill clinton – on nuclear policy and was chairman of the united states atomic energy commission from 1961 to 1971, where he pushed for commercial nuclear energy and the peaceful applications of nuclear science. throughout his career, seaborg worked for arms control. he was a signatory to the franck report and contributed to the limited test ban treaty, the nuclear non-proliferation treaty and the comprehensive test ban treaty. he was a well-known advocate of science education and federal funding for pure research. toward the end of the eisenhower administration, he was the principal author of the seaborg report on academic science, and, as a member of president ronald reagan's national commission on excellence in education, he was a key contributor to its 1983 report "a nation at risk".
+seaborg was the principal or co-discoverer of ten elements: plutonium, americium, curium, berkelium, californium, einsteinium, fermium, mendelevium, nobelium and element 106, which, while he was still living, was named seaborgium in his honor. he also discovered more than 100 atomic isotopes and is credited with important contributions to the chemistry of plutonium, originally as part of the manhattan project where he developed the extraction process used to isolate the plutonium fuel for the second atomic bomb. early in his career, he was a pioneer in nuclear medicine and discovered isotopes of elements with important applications in the diagnosis and treatment of diseases, including iodine-131, which is used in the treatment of thyroid disease. in addition to his theoretical work in the development of the actinide concept, which placed the actinide series beneath the lanthanide series on the periodic table, he postulated the existence of super-heavy elements in the transactinide and superactinide series.
+after sharing the 1951 nobel prize in chemistry with edwin mcmillan, he received approximately 50 honorary doctorates and numerous other awards and honors. the list of things named after seaborg ranges from the chemical element seaborgium to the asteroid 4856 seaborg. he was a prolific author, penning numerous books and 500 journal articles, often in collaboration with others. he  was once listed in the guinness book of world records as the person with the longest entry in who's who in america.
+
+contents
+
+1 early life
+2 pioneering work in nuclear chemistry
+3 scientific contributions during the manhattan project
+4 professor and chancellor at the university of california, berkeley
+5 chairman of the atomic energy commission
+6 return to california
+7 personal life
+8 honors and awards
+9 selected bibliography
+10 notes
+11 references
+12 further reading
+13 external links
+
+
+early life[edit]
+glenn theodore seaborg was born in ishpeming, michigan, on april 19, 1912, the son of herman theodore (ted) and selma olivia erickson seaborg. he had one sister, jeanette, who was two years younger. his family spoke swedish at home. when glenn seaborg was a boy, the family moved to los angeles county, california, settling in a subdivision called home gardens, later annexed to the city of south gate, california. about this time he changed the spelling of his first name from glen to glenn.[5]
+seaborg kept a daily journal from 1927 until he suffered a stroke in 1998.[6] as a youth, seaborg was both a devoted sports fan and an avid movie buff. his mother encouraged him to become a bookkeeper as she felt his literary interests were impractical. he did not take an interest in science until his junior year when he was inspired by dwight logan reid, a chemistry and physics teacher at david starr jordan high school in watts.[7]
+seaborg graduated from jordan in 1929 at the top of his class and received a bachelor  of arts (ab) degree in chemistry at the university of california, los angeles, in 1933.[5] he worked his way through school as a stevedore and a laboratory assistant at firestone.[8] seaborg received his phd in chemistry at the university of california, berkeley, in 1937 with a doctoral thesis on the "interaction of fast neutrons with lead",[9][10] in which he coined the term "nuclear spallation".[11]
+seaborg was a member of the professional chemistry fraternity alpha chi sigma. as a graduate student in the 1930s seaborg performed wet chemistry research for his advisor gilbert newton lewis,[11] and published three papers with him on the theory of acids and bases.[12][13][14] seaborg studied the text applied radiochemistry by otto hahn, of the kaiser wilhelm institute for chemistry in berlin, and it had a major impact on his developing interests as a research scientist. for several years, seaborg conducted important research in artificial radioactivity using the lawrence cyclotron at uc berkeley.  he was excited to learn from others that nuclear fission was possible—but also chagrined, as his own research might have led him to the same discovery.[15]
+seaborg also became an expert in dealing with noted berkeley physicist robert oppenheimer. oppenheimer had a daunting reputation, and often answered a junior colleague's question before it had even been stated. often the question answered was more profound than the one asked, but of little practical help. seaborg learned to state his questions to oppenheimer quickly and succinctly.[16]
+
+pioneering work in nuclear chemistry[edit]
+ seaborg in his lab
+seaborg remained at the university of california, berkeley, for post-doctoral research. he followed frederick soddy's work investigating isotopes and contributed to the discovery of more than 100 isotopes of elements. using one of lawrence's advanced cyclotrons, john livingood, fred fairbrother, and seaborg created a new isotope of iron, iron-59 in 1937. iron-59 was useful in the studies of the hemoglobin in human blood. in 1938, livingood and seaborg collaborated (as they did for five years) to create an important isotope of iodine, iodine-131, which is still used to treat thyroid disease.[17] (many years later, it was credited with prolonging the life of seaborg's mother.) as a result of these and other contributions, seaborg is regarded as a pioneer in nuclear medicine and is one of its most prolific discoverers of isotopes.[18]
+in 1939 he became an instructor in chemistry at berkeley, was promoted to assistant professor in 1941 and professor in 1945.[19] university of california, berkeley, physicist edwin mcmillan led a team that discovered element 93, which he named neptunium in 1940. in november, he was persuaded to leave berkeley temporarily to assist with urgent research in radar technology. since seaborg and his colleagues had perfected mcmillan's oxidation-reduction technique for isolating neptunium, he asked mcmillan for permission to continue the research and search for element 94. mcmillan agreed to the collaboration.[20]  seaborg first reported alpha decay proportionate to only a fraction of the element 93 under observation. the first hypothesis for this alpha particle accumulation was contamination by uranium, which produces alpha-decay particles; analysis of alpha-decay particles ruled this out. seaborg then postulated that a distinct alpha-producing element was being formed from element 93.[21]
+in february 1941, seaborg and his collaborators produced plutonium-239 through the bombardment of uranium. in their experiments bombarding uranium with deuterons, they observed the creation of neptunium, element 93. but it then underwent beta-decay, forming a new element, plutonium, with 94 protons. plutonium is fairly stable, but undergoes alpha-decay, which explained the presence of alpha particles coming from neptunium.[21]  thus, on march 28, 1941, seaborg, physicist emilio segrè and berkeley chemist joseph w. kennedy were able to show that plutonium (then known only as element 94) was fissile, an important distinction that was crucial to the decisions made in directing manhattan project research.[22] in 1966, room 307 of gilman hall on the campus at the berkeley, where seaborg did his work, was declared a u.s. national historic landmark.[23]
+in addition to plutonium, he is credited as a lead discoverer of americium, curium, and berkelium, and as a co-discoverer of californium, einsteinium, fermium, mendelevium, nobelium and seaborgium. he shared the nobel prize in chemistry in 1951 with edwin mcmillan for "their discoveries in the chemistry of the first transuranium elements."[3]
+
+scientific contributions during the manhattan project[edit]
+on april 19, 1942, seaborg reached chicago and joined the chemistry group at the metallurgical laboratory of the manhattan project at the university of chicago, where enrico fermi and his group would later convert uranium-238 to plutonium-239 in a controlled nuclear chain reaction. seaborg's role was to figure out how to extract the tiny bit of plutonium from the mass of uranium. plutonium-239 was isolated in visible amounts using a transmutation reaction on august 20, 1942, and weighed on september 10, 1942, in seaborg's chicago laboratory. he was responsible for the multi-stage chemical process that separated, concentrated and isolated plutonium. this process was further developed at the clinton engineering works in oak ridge, tennessee, and then entered full-scale production at the hanford engineer works, in richland, washington.[24]
+seaborg's theoretical development of the actinide concept resulted in a redrawing of the periodic table of the elements into its current configuration with the actinide series appearing below the lanthanide series. seaborg developed the chemical elements americium and curium while in chicago. he managed to secure patents for both elements. his patent on curium never proved commercially viable because of the element's short half-life, but americium is commonly used in household smoke detectors and thus provided a good source of royalty income to seaborg in later years. prior to the test of the first nuclear weapon, seaborg joined with several other leading scientists in a written statement known as the franck report (secret at the time but since published) unsuccessfully calling on president truman to conduct a public demonstration of the atomic bomb witnessed by the japanese.[25]
+
+professor and chancellor at the university of california, berkeley[edit]
+ seaborg (second from left) during operation plumbob
+after the conclusion of world war ii and the manhattan project, seaborg was eager to return to academic life and university research free from the restrictions of wartime secrecy. in 1946, he added to his responsibilities as a professor by heading the nuclear chemistry research at the lawrence radiation laboratory operated by the university of california on behalf of the united states atomic energy commission. seaborg was named one of the "ten outstanding young men in america" by the u.s. junior chamber of commerce in 1947 (along with richard nixon and others). seaborg was elected to the national academy of sciences in 1948. from 1954 to 1961 he served as associate director of the radiation laboratory. he was appointed by president truman to serve as a member of the general advisory committee of the atomic energy commission, an assignment he retained until 1960.[26]
+seaborg served as chancellor at the university of california, berkeley, from 1958 to 1961. his term coincided with a relaxation of mccarthy-era restrictions on students' freedom of expression that had begun under his predecessor, clark kerr.[27] in october 1958, seaborg announced that the university had relaxed its prior prohibitions on political activity on a trial basis,[28] and the ban on communists speaking on campus was lifted. this paved the way for the free speech movement of 1964–65.[27]
+seaborg was an enthusiastic supporter of cal's sports teams. san francisco columnist herb caen was fond of pointing out that seaborg's surname is an anagram of "go bears", a popular cheer at uc berkeley.[29] seaborg was proud of the fact that the cal bears won their first and only national collegiate athletic association (ncaa) basketball championship in 1959, while he was chancellor. the football team also won the conference title and played in the rose bowl that year.[30] he served on the faculty athletic committee for several years and was the co-author of a book, roses from the ashes: breakup and rebirth in pacific coast intercollegiate athletics (2000), concerning the pacific coast conference recruiting scandal, and the founding of what is now the pac-12, in which he played a role in restoring confidence in the integrity of collegiate sports.[30][31]
+seaborg served on the president's science advisory committee (psac)  during the eisenhower administration. psac produced a report on "scientific progress, the universities, and the federal government", also known as the "seaborg report", in november 1960, that urged greater federal funding of science.[32] in 1959, he helped found the berkeley space sciences laboratory with clark kerr.[33]
+
+ from left to right: chairman seaborg, president kennedy, secretary mcnamara on 23 march 1962. by this point, mcnamara and seaborg had been discussing the aec's studies on the ecological effects of nuclear war and "clean" weapon alternatives. (courtesy: national security archive, original: national archives)
+chairman of the atomic energy commission[edit]
+after appointment by president john f. kennedy and confirmation by the united states senate, seaborg was chairman of the atomic energy commission (aec) from 1961 to 1971. his pending appointment by president-elect kennedy was nearly derailed in late 1960 when members of the kennedy transition team learned that seaborg had been listed in a u.s. news & world report article as a member of "nixon's idea men". seaborg said that as a lifetime democrat he was baffled when the article appeared associating him with outgoing vice president richard nixon, a republican whom seaborg considered a casual acquaintance.[34]
+during the early 1960s, seaborg became concerned with the ecological and biological effects of nuclear weapons, especially those that would impact human life significantly. in response, he commissioned the technical analysis branch of the atomic energy commission to study these matters further.[35] seaborg's provision for these innovative studies led the u.s. government to more seriously pursue the development and possible use of "clean" nuclear weapons.[36]
+
+ president kennedy and his atomic energy commission chairman, glenn seaborg
+while chairman of the aec, seaborg participated on the negotiating team for the limited test ban treaty (ltbt), in which the us, uk, and ussr agreed to ban all above-ground test detonations of nuclear weapons. seaborg considered his contributions to the achievement of the ltbt as one of his greatest accomplishments. despite strict rules from the soviets about photography at the signing ceremony, seaborg used a tiny camera to take a close-up photograph of soviet premier nikita khrushchev as he signed the treaty.[37]
+seaborg enjoyed a close relationship with president lyndon johnson and influenced the administration to pursue the nuclear non-proliferation treaty.[38] seaborg was called to the white house in the first week of the nixon administration in january 1969 to advise president richard nixon on his first diplomatic crisis involving the soviets and nuclear testing. he clashed with nixon presidential adviser john ehrlichman over the treatment of a jewish scientist, zalman shapiro, whom the nixon administration suspected of leaking nuclear secrets to israel.[39]
+seaborg published several books and journal articles during his tenure at the atomic energy commission. he predicted the existence of elements beyond those on the periodic table,[40] the transactinide series and the superactinide series of undiscovered synthetic elements. while most of these theoretical future elements have extremely short half-lives and thus no expected practical applications, he also hypothesized the existence of stable super-heavy isotopes of certain elements in an island of stability.[41] seaborg served as chairman of the atomic energy commission until 1971.[42]
+
+return to california[edit]
+ seaborg (right) with marine biologist dixy lee ray on september 17, 1968
+following his service as chairman of the atomic energy commission, seaborg returned to uc berkeley where he was awarded the position of university professor. at the time, there had been fewer university professors at uc berkeley than nobel prize winners. he also served as chairman of the lawrence hall of science where he became the principal investigator for great explorations in math and science (gems)[43] working with director jacqueline barber. seaborg served as chancellor at the university of california, berkeley, from 1958 to 1961, and served as president of the american association for the advancement of science in 1972 and as president of the american chemical society in 1976.[44]
+in 1980, he transmuted several thousand atoms of bismuth into gold at the lawrence berkeley laboratory. his experimental technique, using nuclear physics, was able to remove protons and neutrons from the bismuth atoms. seaborg's technique would have been far too expensive to enable routine manufacturing of gold, but his work was close to the mythical philosopher's stone.[45][46]
+in 1981, seaborg became a founding member of the world cultural council.[47]
+in 1983, president ronald reagan appointed seaborg to serve on the national commission on excellence in education. the commission produced a report  "a nation at risk: the imperative for educational reform",[48] which focused national attention on education as a national issue germane to the federal government.[49] in 2008, margaret spellings wrote that
+
+.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}a nation at risk delivered a wake up call for our education system. it described stark realities like a significant number of functionally illiterate high schoolers, plummeting student performance, and international competitors breathing down our necks. it was a warning, a reproach, and a call to arms.[50]
+
+seaborg lived most of his later life in lafayette, california, where he devoted himself to editing and publishing the journals that documented both his early life and later career. he rallied a group of scientists who criticized the science curriculum in the state of california, which he viewed as far too socially oriented and not nearly focused enough on hard science. california governor pete wilson appointed seaborg to head a committee that proposed changes to california's science curriculum despite outcries from labor organizations and others.[51]
+
+personal life[edit]
+ helen and glenn seaborg in stockholm in 1951
+in 1942, seaborg married helen griggs, the secretary of physicist ernest lawrence. under wartime pressure, seaborg had moved to chicago while engaged to griggs. when seaborg returned to accompany griggs for the journey back to chicago, friends expected them to marry in chicago. but, eager to be married, seaborg and griggs impulsively got off the train in the town of caliente, nevada, for what they thought would be a quick wedding. when they asked for city hall, they found caliente had none—they would have to travel 25 miles (40 km) north to pioche, the county seat. with no car, this was no easy feat, but one of caliente's newest deputy sheriffs turned out to be a recent graduate of the cal berkeley chemistry department and was more than happy to do a favor for seaborg. the deputy sheriff arranged for the wedding couple to ride up and back to pioche in a mail truck. the witnesses at the seaborg wedding were a clerk and a janitor.[52] glenn seaborg and helen griggs seaborg had seven children, of whom the first, peter glenn seaborg, died in 1997 (his twin paulette having died in infancy).[53] the others were lynne seaborg cobb, david seaborg, steve seaborg, eric seaborg, and dianne seaborg.[54]
+seaborg was an avid hiker. upon becoming chairman of the atomic energy commission in 1961, he commenced taking daily hikes through a trail that he blazed at the headquarters site in germantown, maryland. he frequently invited colleagues and visitors to accompany him, and the trail became known as the "glenn seaborg trail." he and his wife helen are credited with blazing a 12-mile (19 km) trail in the east bay area near their home in lafayette, california. this trail has since become a part of the american hiking association's cross-country network of trails. seaborg and his wife walked the trail network from contra costa county all the way to the california–nevada border.[55][56]
+
+.mw-parser-output .quotebox{background-color:#f9f9f9;border:1px solid #aaa;box-sizing:border-box;padding:10px;font-size:88%}.mw-parser-output .quotebox.floatleft{margin:0.5em 1.4em 0.8em 0}.mw-parser-output .quotebox.floatright{margin:0.5em 0 0.8em 1.4em}.mw-parser-output .quotebox.centered{margin:0.5em auto 0.8em auto}.mw-parser-output .quotebox.floatleft p,.mw-parser-output .quotebox.floatright p{font-style:inherit}.mw-parser-output .quotebox-title{background-color:#f9f9f9;text-align:center;font-size:larger;font-weight:bold}.mw-parser-output .quotebox-quote.quoted:before{font-family:"times new roman",serif;font-weight:bold;font-size:large;color:gray;content:" “ ";vertical-align:-45%;line-height:0}.mw-parser-output .quotebox-quote.quoted:after{font-family:"times new roman",serif;font-weight:bold;font-size:large;color:gray;content:" ” ";line-height:0}.mw-parser-output .quotebox .left-aligned{text-align:left}.mw-parser-output .quotebox .right-aligned{text-align:right}.mw-parser-output .quotebox .center-aligned{text-align:center}.mw-parser-output .quotebox cite{display:block;font-style:normal}@media screen and (max-width:360px){.mw-parser-output .quotebox{min-width:100%;margin:0 0 0.8em!important;float:none!important}}
+there is a beauty in discovery. there is mathematics in music, a kinship of science and poetry in the description of nature, and exquisite form in a molecule. attempts to place different disciplines in different camps are revealed as artificial in the face of the unity of knowledge. all literate men are sustained by the philosopher, the historian, the political analyst, the economist, the scientist, the poet, the artisan and the musician.
+—glenn seaborg [57]
+
+
+seaborg was elected a foreign member of the royal swedish academy of sciences in 1972 and a foreign member of the royal society (formemrs) of london in 1985.[2][58] he was honored as swedish-american of the year in 1962 by the vasa order of america. in 1991, the organization named "local lodge glenn t. seaborg no. 719" in his honor during the seaborg honors ceremony at which he appeared. this lodge maintains a scholarship fund in his name, as does the unrelated swedish-american club of los angeles.[59]
+seaborg kept a close bond to his swedish origin. he visited sweden every so often, and his family were members of the swedish pemer genealogical society, a family association open for every descendant of the pemer family, a swedish family with german origin, from which seaborg was descended on his mother's side.[60]
+on august 24, 1998, while in boston to attend a meeting by the american chemical society, seaborg suffered a stroke, which led to his death six months later on february 25, 1999, at his home in lafayette.[61]
+
+honors and awards[edit]
+further information: list of accolades received by glenn t. seaborg and list of things named after glenn t. seaborg
+during his lifetime, seaborg is said to have been the author or co-author of numerous  books and 500 scientific journal articles, many of them brief reports on fast-breaking discoveries in nuclear science while other subjects, most notably the actinide concept, represented major theoretical contributions in the history of science. he held more than 40 patents – among them the only patents ever issued for chemical elements, americium and curium, and received more than 50 doctorates and honorary degrees in his lifetime.[62] at one time, he was listed in the guinness book of world records as having the longest entry in marquis who's who in america. in february 2005, he was posthumously inducted into the national inventors hall of fame.[42]  in april 2011 the executive council of the committee for skeptical inquiry (csi) selected seaborg for inclusion in csi's pantheon of skeptics.  the pantheon of skeptics was created by csi to remember the legacy of deceased fellows of csi and their contributions to the cause of scientific skepticism.[63]  his papers are in the library of congress.[64]
+the american chemical society-chicago section honored him with the willard gibbs award in 1966.[65]
+the element seaborgium was named after seaborg by albert ghiorso, e. kenneth hulet, and others, who also credited seaborg as a co-discoverer.[62] it was named while seaborg was still alive, which proved controversial. he influenced the naming of so many elements that with the announcement of seaborgium, it was noted in discover magazine's review of the year in science that he could receive a letter addressed in chemical elements: seaborgium, lawrencium (for the lawrence berkeley laboratory where he worked), berkelium, californium, americium.[66] seaborgium is the first element ever to have been officially named after a living person.[62][67] the second element to be so named is oganesson, in 2016, after yuri oganessian.[68]
+
+selected bibliography[edit]
+main article: glenn t. seaborg bibliography
+seaborg, g. t.; james, r.a.; morgan, l.o. (january 1948). the new element americium (atomic number 95). us atomic energy commission. doi:10.2172/4435330. osti 4435330..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+seaborg, g. t.; james, r.a.; ghiorso, a. (january 1948). the new element curium (atomic number 96). us atomic energy commission. osti 4421946.
+seaborg, g. t.; thompson, s.g.; ghiorso, a. (april 1950). the new element berkelium (atomic number 97). uc berkeley, radiation laboratory. doi:10.2172/4421999. osti 4421999.
+seaborg, g. t.; thompson, s.g.; street, k. jr.; ghiroso, a. (june 1950). the new element californium (atomic number 98). uc berkeley, radiation laboratory. doi:10.2172/932819. osti 932819.
+seaborg, g. t. (december 1951). the transuranium elements – present status: nobel lecture. uc berkeley, radiation laboratory. doi:10.2172/4406579. osti 4406579.
+seaborg, g. t.; thompson, s.g.; harvey, b.g.; choppin, g.r. (july 1954). chemical properties of elements 99 and 100 (einsteinium and fermium). uc berkeley, radiation laboratory. doi:10.2172/4405197. osti 4405197.
+seaborg, g. t. (september 1967). the first weighing of plutonium. us atomic energy commission. osti 814965.
+seaborg, g. t. (july 1970). peaceful uses of nuclear energy: a collection of speeches. us atomic energy commission. osti 4042849.
+seaborg, g. t. (ed ). (january 1980).  seaborg, g. t., ed. symposium commemorating the 25th anniversary of the discovery of mendelevium. lawrence berkeley national laboratory. osti 6468225.
+seaborg, g. t. (august 1990). transuranium elements: a half century. lawrence berkeley national laboratory. osti 6604648.
+seaborg, g. t. (march 1995). "my career as a radioisotope hunter". journal of the american medical association. 273 (12): 961–964. doi:10.1001/jama.273.12.961. pmid 7884957.
+notes[edit]
+
+
+^ "sci perkin medal". science history institute. 2016-05-31. retrieved 24 march 2018.
+
+^ a b hoffman, d. c. (2007). "glenn theodore seaborg. 19 april 1912 -- 25 february 1999". biographical memoirs of fellows of the royal society. 53: 327–338. doi:10.1098/rsbm.2007.0021. jstor 20461382.
+
+^ a b "the nobel prize in chemistry 1951". nobel foundation. retrieved august 26, 2012.
+
+^ "past chancellors | office of the chancellor". chancellor.berkeley.edu. retrieved 2015-12-24.
+
+^ a b hoffman 2007, p. 330.
+
+^ hoffman 2007, p. 336.
+
+^ seaborg & seaborg 2001, pp. 13–14.
+
+^ seaborg & seaborg 2001, pp. 15, 29.
+
+^ seaborg & seaborg 2001, p. 40.
+
+^ seaborg, glenn t. (1937). the interaction of fast neutrons with lead (ph.d.). university of california, berkeley. oclc 21609796  – via proquest. (subscription required (help)).
+
+^ a b "scientific and luminary biography – glenn seaborg". argonne national laboratory. retrieved june 16, 2013.
+
+^ lewis, g. n.; seaborg, glenn t. (july 1939). "primary and secondary acids and bases". journal of the american chemical society. 61 (7): 1886–1894. doi:10.1021/ja01876a068. issn 0002-7863.
+
+^ lewis, g. n.; seaborg, glenn t. (july 1939). "trinitrotriphenylmethide ion as a secondary and primary base". journal of the american chemical society. 61 (7): 1894–1900. doi:10.1021/ja01876a069. issn 0002-7863.
+
+^ lewis, g. n.; seaborg, glenn t. (august 1940). "the acidity of aromatic nitro compounds toward amines.  the effect of double chelation". journal of the american chemical society. 62 (8): 2122–2124. doi:10.1021/ja01865a057. issn 0002-7863.
+
+^ seaborg & seaborg 2001, pp. 57–59.
+
+^ seaborg & seaborg 2001, p. 26.
+
+^ 
+heilbron, j. l.; seidel, r. w. (1989), lawrence and his laboratory: a history of the lawrence berkeley laboratory – volume i, university of california press, pp. 355–6, isbn 978-0520064263
+
+^ 
+"national award of nuclear science & history". national museum of nuclear science & history. archived from the original on august 17, 2012. retrieved august 26, 2012.
+
+^ 
+"seaborg timeline: a lifetime of differences". lawrence berkeley national laboratory. 5 march 1999. retrieved 2012-08-26.
+
+^ 
+jackson, d. j.; panofsky, w. k. h. (1996). edwin mattison mcmillan (pdf). biographical memoirs. 69. national academies press.
+
+^ a b 
+farmer, delphine (2001). "an elementary problem". berkeley science review. 1 (1): 32–37. issn 1538-6449.
+
+^ seaborg & seaborg 2001, pp. 77–79.
+
+^ seaborg, glenn t. "nuclear milestones: 307 gilman hall". lawrence berkeley laboratory. retrieved june 16, 2013.
+
+^ 
+"glenn seaborg's greatest hits". lawrence berkeley national laboratory. archived from the original on october 15, 2004. retrieved august 26, 2012.
+
+^ rhodes 1986, pp. 320, 340–43, 348, 354, 369, 377, 395.
+
+^ hoffman 2007, pp. 333–334.
+
+^ a b seaborg & seaborg 2001, pp. 174–179.
+
+^ 
+house, p. (april 1999). "glenn t. seaborg: citizen-scholar". the seaborg center bulletin. retrieved may 23, 2011.
+
+^ 
+seaborg, g. t.; colvig, r. (1994). chancellor at berkeley. university of california. isbn 978-0-87772-343-1.
+
+^ a b yarris, lynn (march 5, 1999). "glenn seaborg: a sporting life". lawrence berkeley national laboratory. retrieved june 17, 2013.
+
+^ "glenn seaborg biography". academy of achievement. archived from the original on may 13, 2013. retrieved june 17, 2013.
+
+^ "national service". lawrence berkeley laboratory. retrieved july 23, 2013.
+
+^ "space sciences laboratory". university of california, berkeley. retrieved june 16, 2013.
+
+^ seaborg & seaborg 2001, p. 181.
+
+^ "glenn seaborg diary entry, 2 january 1962". national security archive. 30 august 2017.
+
+^ ""clean" nukes and the ecology of nuclear war". national security archive. 30 august 2017.
+
+^ 
+"meet glenn seaborg". lawrence berkeley national laboratory. archived from the original on october 14, 2004. retrieved august 26, 2012.
+
+^ seaborg & seaborg 2001, pp. 200–206.
+
+^ seaborg & seaborg 2001, pp. 218–221.
+
+^ 
+seaborg, g. t. (1969). "prospects for further considerable extension of the periodic table". journal of chemical education. 46 (10): 626. bibcode:1969jched..46..626s. doi:10.1021/ed046p626.
+
+^ 
+"dr. glenn t. seaborg". lawrence livermore national laboratory. march 30, 2006. archived from the original on september 29, 2006.
+
+^ a b "meet glenn seaborg". lawrence berkeley laboratory. retrieved july 23, 2013.
+
+^ 
+"glenn seaborg's works". lawrence livermore national laboratory. retrieved 2012-08-26.
+
+^ "acs president:  glenn t. seaborg (1912–1999)". american chemical society. retrieved june 16, 2013.
+
+^ 
+aleklett, k.; morrissey, d.; loveland, w.; mcgaughey, p.; seaborg, g. (1981). "energy dependence of 209bi fragmentation in relativistic nuclear collisions". physical review c. 23 (3): 1044. bibcode:1981phrvc..23.1044a. doi:10.1103/physrevc.23.1044.
+
+^ matthews, robert (december 2, 2001). "the philosopher's stone". the daily telegraph. retrieved july 23, 2013.
+
+^ "about us". world cultural council. retrieved november 8, 2016.
+
+^ 
+yarris, l. (5 march 1999). "glenn seaborg, teacher and educator". lawrence berkeley national laboratory. retrieved 2012-08-26.
+
+^ "a nation at risk' turns 30: where did it take us?". national education association. april 25, 2013.
+
+^ spellings, margaret (2014-05-08). "25 years after a nation at risk". u.s. department of education.
+
+^ seaborg & seaborg 2001, pp. 193–194.
+
+^ seaborg & seaborg 2001, pp. 79–85.
+
+^ "today at berkeley lab: seaborg family remembers: helen 'a mixture of efficiency and diplomacy'". www2.lbl.gov. retrieved 2016-12-02.
+
+^ hoffman 2007, p. 332.
+
+^ "glenn seaborg trail". department of energy. retrieved june 16, 2013.
+
+^ hoffman 2007, p. 335.
+
+^ hoffman 2007, p. 337.
+
+^ hoffman 2007, p. 334.
+
+^ "glenn t. seaborg no. 719 vasa order of america". vasa order of america. retrieved june 16, 2013.
+
+^ 
+hoffman, d. c.; ghiorso, a.; seaborg, g. t. (2000). the transuranium people: the inside story. world scientific publishing. pp. lxvii–lxviii. isbn 978-1-86094-087-3.
+
+^ "glenn seaborg tribute: a man in full". lawrence berkeley laboratory. retrieved june 16, 2013.
+
+^ a b c "seaborgium: element 106 named in honor of glenn t. seaborg, lbl's associate director at large". lbl research review. august 1994. issn 0882-1305. retrieved july 24, 2013.
+
+^ "the pantheon of skeptics". csi. committee for skeptical inquiry. archived from the original on 31 january 2017. retrieved 30 april 2017.
+
+^ "glenn theodore seaborg – a register of his papers in the library of congress" (pdf). library of congress. retrieved june 16, 2013.
+
+^ american chemical society – chicago section
+
+^ 
+winters, j. (1 january 1998). "what's in a name?". discover. 19. retrieved october 17, 2006.
+
+^ ghiorso, albert (2003). "einsteinium and fermium". chemical and engineering news. 81 (36): 174–175. doi:10.1021/cen-v081n036.p174.
+
+^ "iupac is naming the four new elements nihonium, moscovium, tennessine, and oganesson – iupac | international union of pure and applied chemistry". iupac | international union of pure and applied chemistry. 2016-06-08. retrieved 2016-06-08.
+
+
+references[edit]
+hoffman, d. c. (2007). "glenn theodore seaborg 19 april 1912 — 25 february 1999". biographical memoirs of fellows of the royal society. 53: 328–338. doi:10.1098/rsbm.2007.0021. jstor 20461382.
+rhodes, richard (1986). the making of the atomic bomb. new york: simon & schuster. isbn 978-0-671-44133-3. oclc 13793436.
+seaborg, g. t.; seaborg, e. (2001). adventures in the atomic age: from watts to washington. farrar, straus and giroux. isbn 978-0-374-29991-0.
+further reading[edit]
+patrick coffey, cathedrals of science: the personalities and rivalries that made modern chemistry, oxford university press, 2008. isbn 978-0-19-532134-0
+external links[edit]
+1965 audio interview with glenn seaborg by stephane groueff voices of the manhattan project
+national academy of sciences biography
+annotated bibliography for glenn seaborg from the alsos digital library
+works by or about glenn t. seaborg in libraries (worldcat catalog)
+nobel institute official biography
+uc berkeley biography of chancellor glenn t. seaborg
+lawrence berkeley laboratory's glenn t. seaborg website
+american association for the advancement of science, list of presidents
+glenn seaborg trail, at department of energy official site
+glenn t. seaborg center at northern michigan university
+glenn t. seaborg medal and symposium at the university of california, los angeles
+video interview with glenn seaborg from 1986 with transcript
+"clean" nukes and the ecology of nuclear war, published by the national security archive
+
+
+academic offices
+
+
+preceded byclark kerr
+
+ chancellor of the university of california, berkeley1958 – 1961
+
+succeeded byedward w. strong
+
+
+vtelaureates of the nobel prize in chemistry1901–1925
+1901 jacobus van 't hoff
+1902 emil fischer
+1903 svante arrhenius
+1904 william ramsay
+1905 adolf von baeyer
+1906 henri moissan
+1907 eduard buchner
+1908 ernest rutherford
+1909 wilhelm ostwald
+1910 otto wallach
+1911 marie curie
+1912 victor grignard / paul sabatier
+1913 alfred werner
+1914 theodore richards
+1915 richard willstätter
+1916
+1917
+1918 fritz haber
+1919
+1920 walther nernst
+1921 frederick soddy
+1922 francis aston
+1923 fritz pregl
+1924
+1925 richard zsigmondy
+1926–1950
+1926 theodor svedberg
+1927 heinrich wieland
+1928 adolf windaus
+1929 arthur harden / hans von euler-chelpin
+1930 hans fischer
+1931 carl bosch / friedrich bergius
+1932 irving langmuir
+1933
+1934 harold urey
+1935 frédéric joliot-curie / irène joliot-curie
+1936 peter debye
+1937 norman haworth / paul karrer
+1938 richard kuhn
+1939 adolf butenandt / leopold ružička
+1940
+1941
+1942
+1943 george de hevesy
+1944 otto hahn
+1945 artturi virtanen
+1946 james b. sumner / john northrop / wendell meredith stanley
+1947 robert robinson
+1948 arne tiselius
+1949 william giauque
+1950 otto diels / kurt alder
+1951–1975
+1951 edwin mcmillan / glenn t. seaborg
+1952 archer martin / richard synge
+1953 hermann staudinger
+1954 linus pauling
+1955 vincent du vigneaud
+1956 cyril hinshelwood / nikolay semyonov
+1957 alexander todd
+1958 frederick sanger
+1959 jaroslav heyrovský
+1960 willard libby
+1961 melvin calvin
+1962 max perutz / john kendrew
+1963 karl ziegler / giulio natta
+1964 dorothy hodgkin
+1965 robert woodward
+1966 robert s. mulliken
+1967 manfred eigen / ronald norrish / george porter
+1968 lars onsager
+1969 derek barton / odd hassel
+1970 luis federico leloir
+1971 gerhard herzberg
+1972 christian b. anfinsen / stanford moore / william stein
+1973 ernst otto fischer / geoffrey wilkinson
+1974 paul flory
+1975 john cornforth / vladimir prelog
+1976–2000
+1976 william lipscomb
+1977 ilya prigogine
+1978 peter d. mitchell
+1979 herbert c. brown / georg wittig
+1980 paul berg / walter gilbert / frederick sanger
+1981 kenichi fukui / roald hoffmann
+1982 aaron klug
+1983 henry taube
+1984 robert merrifield
+1985 herbert a. hauptman / jerome karle
+1986 dudley r. herschbach / yuan t. lee / john polanyi
+1987 donald j. cram / jean-marie lehn / charles j. pedersen
+1988 johann deisenhofer / robert huber / hartmut michel
+1989 sidney altman / thomas cech
+1990 elias corey
+1991 richard r. ernst
+1992 rudolph a. marcus
+1993 kary mullis / michael smith
+1994 george olah
+1995 paul j. crutzen / mario j. molina / f. sherwood rowland
+1996 robert curl / harold kroto / richard smalley
+1997 paul d. boyer / john e. walker / jens christian skou
+1998 walter kohn / john pople
+1999 ahmed zewail
+2000 alan j. heeger / alan macdiarmid / hideki shirakawa
+2001–present
+2001 william knowles / ryoji noyori / k. barry sharpless
+2002 john b. fenn / koichi tanaka / kurt wüthrich
+2003 peter agre / roderick mackinnon
+2004 aaron ciechanover / avram hershko / irwin rose
+2005 robert h. grubbs / richard r. schrock / yves chauvin
+2006 roger d. kornberg
+2007 gerhard ertl
+2008 osamu shimomura / martin chalfie / roger y. tsien
+2009 venkatraman ramakrishnan / thomas a. steitz / ada e. yonath
+2010 richard f. heck / akira suzuki / ei-ichi negishi
+2011 dan shechtman
+2012 robert lefkowitz / brian kobilka
+2013 martin karplus / michael levitt / arieh warshel
+2014 eric betzig / stefan hell / william e. moerner
+2015 tomas lindahl / paul l. modrich / aziz sancar
+2016 jean-pierre sauvage / fraser stoddart / ben feringa
+2017 jacques dubochet / joachim frank / richard henderson
+2018 frances arnold / greg winter / george smith
+
+vteunited states atomic energy commission chairs
+david e. lilienthal (1946)
+gordon dean (1950)
+lewis strauss (1953)
+john a. mccone (1958)
+glenn t. seaborg (1961)
+james r. schlesinger (1971)
+dixy lee ray (1973)
+
+vtepresidents and chancellors of the university of california, berkeleypresidents
+henry durant (1870)
+daniel coit gilman (1872)
+john leconte (1875)
+w.t. reid  (1881)
+edward s. holden (1885)
+horace davis (1888)
+martin kellogg (1890)
+benjamin ide wheeler (1899)
+david prescott barrows (1919)
+william wallace campbell (1923)
+robert gordon sproul (1930)
+chancellors
+clark kerr (1952)
+glenn t. seaborg (1958)
+edward w. strong (1961)
+martin e. meyerson # (1965)
+roger w. heyns (1965)
+albert h. bowker (1971)
+ira michael heyman (1980)
+chang-lin tien (1990)
+robert m. berdahl (1997)
+robert j. birgeneau (2004)
+nicholas dirks (2013)
+carol t. christ (2017)
+# denotes an interim chancellor
+vtepresidents of the american chemical society1876–1900
+john w. draper (1876)
+j. lawrence smith (1877)
+samuel william johnson (1878)
+t. sterry hunt (1879)
+frederick a. genth (1880)
+charles f. chandler (1881)
+john w. mallet (1882)
+james c. booth (1883)
+albert b. prescott (1886)
+charles anthony goessmann (1887)
+t. sterry hunt (1888)
+charles f. chandler (1889)
+henry b. nason (1890)
+george f. barker (1891)
+george c. caldwell (1892)
+harvey w. wiley (1893)
+edgar fahs smith (1895)
+charles b. dudley (1896)
+charles e. munroe (1898)
+edward w. morley (1899)
+william mcmurtrie (1900)
+1901–1925
+frank w. clarke (1901)
+ira remsen (1902)
+john h. long (1903)
+arthur amos noyes (1904)
+francis p. venable (1905)
+william f. hillebrand (1906)
+marston t. bogert (1907)
+willis r. whitney (1909)
+wilder d. bancroft (1910)
+alexander smith (1911)
+arthur dehon little (1912)
+theodore w. richards (1914)
+charles h. herty (1915)
+julius stieglitz (1917)
+william h. nichols (1918)
+william a. noyes (1920)
+edgar fahs smith (1921)
+edward c. franklin (1923)
+leo h. baekeland (1924)
+james flack norris (1925)
+1926–1950
+george d. rosengarten (1927)
+samuel w. parr (1928)
+irving langmuir (1929)
+william mcpherson (1930)
+moses gomberg (1931)
+lawrence v. redman (1932)
+arthur b. lamb (1933)
+charles l. reese (1934)
+roger adams (1935)
+edward bartow (1936)
+edward r. weidlein (1937)
+frank c. whitmore (1938)
+charles a. kraus (1939)
+samuel c. lind (1940)
+william lloyd evans (1941)
+harry n. holmes (1942)
+per k. frolich (1943)
+thomas midgley jr. (1944)
+carl s. marvel (1945)
+bradley dewey (1946)
+w. albert noyes jr. (1947)
+charles a. thomas (1948)
+linus pauling (1949)
+ernest h. volwiler (1950)
+1951–1975
+n. howell funnan (1951)
+edgar c. britton (1952)
+farrington daniels (1953)
+harry l. fisher (1954)
+joel h. hildebrand (1955)
+john c. warner (1956)
+roger j. williams (1957)
+clifford f. rassweiler (1958)
+john c. bailar jr. (1959)
+albert l. elder (1960)
+arthur c. cope (1961)
+karl folkers (1962)
+henry eyring (1963)
+maurice h. arveson (1964)
+charles c. price (1965)
+william j. sparks (1966)
+charles g. overberger (1967)
+robert w. cairns (1968)
+wallace r. brode (1969)
+byron riegel (1970)
+melvin calvin (1971)
+max tishler (1972)
+alan c. nixon (1973)
+bernard s. friedman (1974)
+william j. bailey (1975)
+1976–2000
+glenn t. seaborg (1976)
+henry a. hill (1977)
+anna j. harrison (1978)
+gardner w. stacy (1979)
+james d. d'ianni (1980)
+albert c. zettlemoyer (1981)
+robert w. parry (1982)
+fred basolo (1983)
+warren d. niederhauser (1984)
+ellis k. fields (1985)
+george c. pimentel (1986)
+mary l. good (1987)
+gordon l. nelson (1988)
+clayton f. callis (1989)
+paul g. gassman (1990)
+s. allen heininger (1991)
+ernest l. eliel (1992)
+helen m. free (1993)
+ned d. heindel (1994)
+brian m. rushton (1995)
+ronald breslow (1996)
+paul s. anderson (1997)
+paul h.l. walter (1998)
+edel wasserman (1999)
+daryle h. busch (2000)
+2001–present
+attila e. pavlath (2001)
+eli m. pearce (2002)
+elsa reichmanis (2003)
+charles p. casey (2004)
+william f. carroll jr. (2005)
+elizabeth ann nalley (2006)
+catherine t. hunt (2007)
+bruce e. bursten (2008)
+thomas h. lane (2009)
+joseph francisco (2010)
+nancy b. jackson (2011)
+bassam z. shakhashiri (2012)
+marinda li wu (2013)
+thomas j. barton (2014)
+diane grob schmidt (2015)
+donna j. nelson (2016)
+allison a. campbell (2017)
+peter k. dorhout (2018)
+
+vteunited states national medal of science laureatesbehavioral and social science1960s
+1964: roger adams
+othmar h. ammann
+theodosius dobzhansky
+neal elgar miller
+1980s
+1986: herbert a. simon
+1987: anne anastasi
+george j. stigler
+1988: milton friedman
+1990s
+1990: leonid hurwicz
+patrick suppes
+1991: robert w. kates
+george a. miller
+1992: eleanor j. gibson
+1994: robert k. merton
+1995: roger n. shepard
+1996: paul samuelson
+1997: william k. estes
+1998: william julius wilson
+1999: robert m. solow
+2000s
+2000: gary becker
+2001: george bass
+2003: r. duncan luce
+2004: kenneth arrow
+2005: gordon h. bower
+2008: michael i. posner
+2009: mortimer mishkin
+2010s
+2011: anne treisman
+2014: robert axelrod
+2015: albert bandura
+biological sciences1960s
+1963: c. b. van niel
+1964: marshall w. nirenberg
+1965: francis p. rous
+george g. simpson
+donald d. van slyke
+1966: edward f. knipling
+fritz albert lipmann
+william c. rose
+sewall wright
+1967: kenneth s. cole
+harry f. harlow
+michael heidelberger
+alfred h. sturtevant
+1968: horace barker
+bernard b. brodie
+detlev w. bronk
+jay lush
+burrhus frederic skinner
+1969: robert huebner
+ernst mayr
+1970s
+1970: barbara mcclintock
+albert b. sabin
+1973: daniel i. arnon
+earl w. sutherland jr.
+1974: britton chance
+erwin chargaff
+james v. neel
+james augustine shannon
+1975: hallowell davis
+paul gyorgy
+sterling b. hendricks
+orville alvin vogel
+1976: roger guillemin
+keith roberts porter
+efraim racker
+e. o. wilson
+1979: robert h. burris
+elizabeth c. crosby
+arthur kornberg
+severo ochoa
+earl reece stadtman
+george ledyard stebbins
+paul alfred weiss
+1980s
+1981: philip handler
+1982: seymour benzer
+glenn w. burton
+mildred cohn
+1983: howard l. bachrach
+paul berg
+wendell l. roelofs
+berta scharrer
+1986: stanley cohen
+donald a. henderson
+vernon b. mountcastle
+george emil palade
+joan a. steitz
+1987: michael e. debakey
+theodor o. diener
+harry eagle
+har gobind khorana
+rita levi-montalcini
+1988: michael s. brown
+stanley norman cohen
+joseph l. goldstein
+maurice r. hilleman
+eric r. kandel
+rosalyn sussman yalow
+1989: katherine esau
+viktor hamburger
+philip leder
+joshua lederberg
+roger w. sperry
+harland g. wood
+1990s
+1990: baruj benacerraf
+herbert w. boyer
+daniel e. koshland jr.
+edward b. lewis
+david g. nathan
+e. donnall thomas
+1991: mary ellen avery
+g. evelyn hutchinson
+elvin a. kabat
+salvador luria
+paul a. marks
+folke k. skoog
+paul c. zamecnik
+1992: maxine singer
+howard martin temin
+1993: daniel nathans
+salome g. waelsch
+1994: thomas eisner
+elizabeth f. neufeld
+1995: alexander rich
+1996: ruth patrick
+1997: james watson
+robert a. weinberg
+1998: bruce ames
+janet rowley
+1999: david baltimore
+jared diamond
+lynn margulis
+2000s
+2000: nancy c. andreasen
+peter h. raven
+carl woese
+2001: francisco j. ayala
+mario r. capecchi
+ann graybiel
+gene e. likens
+victor a. mckusick
+harold varmus
+2002: james e. darnell
+evelyn m. witkin
+2003: j. michael bishop
+solomon h. snyder
+charles yanofsky
+2004: norman e. borlaug
+phillip a. sharp
+thomas e. starzl
+2005: anthony s. fauci
+torsten n. wiesel
+2006: rita r. colwell
+nina fedoroff
+lubert stryer
+2007: robert j. lefkowitz
+bert w. o'malley
+2008: francis s. collins
+elaine fuchs
+j. craig venter
+2009: susan l. lindquist
+stanley b. prusiner
+2010s
+2010: ralph l. brinster
+shu chien
+rudolf jaenisch
+2011: lucy shapiro
+leroy hood
+sallie chisholm
+2014: may berenbaum
+bruce alberts
+2015: stanley falkow
+rakesh k. jain
+mary-claire king
+simon levin
+chemistry1980s
+1982: f. albert cotton
+gilbert stork
+1983: roald hoffmann
+george c. pimentel
+richard n. zare
+1986: harry b. gray
+yuan tseh lee
+carl s. marvel
+frank h. westheimer
+1987: william s. johnson
+walter h. stockmayer
+max tishler
+1988: william o. baker
+konrad e. bloch
+elias j. corey
+1989: richard b. bernstein
+melvin calvin
+rudolph a. marcus
+harden m. mcconnell
+1990s
+1990: elkan blout
+karl folkers
+john d. roberts
+1991: ronald breslow
+gertrude b. elion
+dudley r. herschbach
+glenn t. seaborg
+1992: howard e. simmons jr.
+1993: donald j. cram
+norman hackerman
+1994: george s. hammond
+1995: thomas cech
+isabella l. karle
+1996: norman davidson
+1997: darleane c. hoffman
+harold s. johnston
+1998: john w. cahn
+george m. whitesides
+1999: stuart a. rice
+john ross
+susan solomon
+2000s
+2000: john d. baldeschwieler
+ralph f. hirschmann
+2001: ernest r. davidson
+gábor a. somorjai
+2002: john i. brauman
+2004: stephen j. lippard
+2006: marvin h. caruthers
+peter b. dervan
+2007: mostafa a. el-sayed
+2008: joanna fowler
+joanne stubbe
+2009: stephen j. benkovic
+marye anne fox
+2010s
+2010: jacqueline k. barton
+peter j. stang
+2011: allen j. bard
+m. frederick hawthorne
+2014: judith p. klinman
+jerrold meinwald
+2015: a. paul alivisatos
+geraldine l. richmond
+engineering sciences1960s
+1962: theodore von kármán
+1963: vannevar bush
+john robinson pierce
+1964: charles s. draper
+1965: hugh l. dryden
+clarence l. johnson
+warren k. lewis
+1966: claude e. shannon
+1967: edwin h. land
+igor i. sikorsky
+1968: j. presper eckert
+nathan m. newmark
+1969: jack st. clair kilby
+1970s
+1970: george e. mueller
+1973: harold e. edgerton
+richard t. whitcomb
+1974: rudolf kompfner
+ralph brazelton peck
+abel wolman
+1975: manson benedict
+william hayward pickering
+frederick e. terman
+wernher von braun
+1976: morris cohen
+peter c. goldmark
+erwin wilhelm müller
+1979: emmett n. leith
+raymond d. mindlin
+robert n. noyce
+earl r. parker
+simon ramo
+1980s
+1982: edward h. heinemann
+donald l. katz
+1983: bill hewlett
+george low
+john g. trump
+1986: hans wolfgang liepmann
+tung-yen lin
+bernard m. oliver
+1987: robert byron bird
+h. bolton seed
+ernst weber
+1988: daniel c. drucker
+willis m. hawkins
+george w. housner
+1989: harry george drickamer
+herbert e. grier
+1990s
+1990: mildred dresselhaus
+nick holonyak jr.
+1991: george h. heilmeier
+luna b. leopold
+h. guyford stever
+1992: calvin f. quate
+john roy whinnery
+1993: alfred y. cho
+1994: ray w. clough
+1995: hermann a. haus
+1996: james l. flanagan
+c. kumar n. patel
+1998: eli ruckenstein
+1999: kenneth n. stevens
+2000s
+2000: yuan-cheng b. fung
+2001: andreas acrivos
+2002: leo beranek
+2003: john m. prausnitz
+2004: edwin n. lightfoot
+2005: jan d. achenbach
+tobin j. marks
+2006: robert s. langer
+2007: david j. wineland
+2008: rudolf e. kálmán
+2009: amnon yariv
+2010s
+2010: shu chien
+2011: john b. goodenough
+2014: thomas kailath
+mathematical, statistical, and computer sciences1960s
+1963: norbert wiener
+1964: solomon lefschetz
+h. marston morse
+1965: oscar zariski
+1966: john milnor
+1967: paul cohen
+1968: jerzy neyman
+1969: william feller
+1970s
+1970: richard brauer
+1973: john tukey
+1974: kurt gödel
+1975: john w. backus
+shiing-shen chern
+george dantzig
+1976: kurt otto friedrichs
+hassler whitney
+1979: joseph l. doob
+donald e. knuth
+1980s
+1982: marshall harvey stone
+1983: herman goldstine
+isadore singer
+1986: peter lax
+antoni zygmund
+1987: raoul bott
+michael freedman
+1988: ralph e. gomory
+joseph b. keller
+1989: samuel karlin
+saunders mac lane
+donald c. spencer
+1990s
+1990: george f. carrier
+stephen cole kleene
+john mccarthy
+1991: alberto calderón
+1992: allen newell
+1993: martin david kruskal
+1994: john cocke
+1995: louis nirenberg
+1996: richard karp
+stephen smale
+1997: shing-tung yau
+1998: cathleen synge morawetz
+1999: felix browder
+ronald r. coifman
+2000s
+2000: john griggs thompson
+karen k. uhlenbeck
+2001: calyampudi r. rao
+elias m. stein
+2002: james g. glimm
+2003: carl r. de boor
+2004: dennis p. sullivan
+2005: bradley efron
+2006: hyman bass
+2007: leonard kleinrock
+andrew j. viterbi
+2009: david b. mumford
+2010s
+2010: richard a. tapia
+s. r. srinivasa varadhan
+2011: solomon w. golomb
+barry mazur
+2014: alexandre chorin
+david blackwell
+2015: michael artin
+physical sciences1960s
+1963: luis w. alvarez
+1964: julian schwinger
+harold clayton urey
+robert burns woodward
+1965: john bardeen
+peter debye
+leon m. lederman
+william rubey
+1966: jacob bjerknes
+subrahmanyan chandrasekhar
+henry eyring
+john h. van vleck
+vladimir k. zworykin
+1967: jesse beams
+francis birch
+gregory breit
+louis hammett
+george kistiakowsky
+1968: paul bartlett
+herbert friedman
+lars onsager
+eugene wigner
+1969: herbert c. brown
+wolfgang panofsky
+1970s
+1970: robert h. dicke
+allan r. sandage
+john c. slater
+john a. wheeler
+saul winstein
+1973: carl djerassi
+maurice ewing
+arie jan haagen-smit
+vladimir haensel
+frederick seitz
+robert rathbun wilson
+1974: nicolaas bloembergen
+paul flory
+william alfred fowler
+linus carl pauling
+kenneth sanborn pitzer
+1975: hans a. bethe
+joseph o. hirschfelder
+lewis sarett
+edgar bright wilson
+chien-shiung wu
+1976: samuel goudsmit
+herbert s. gutowsky
+frederick rossini
+verner suomi
+henry taube
+george uhlenbeck
+1979: richard p. feynman
+herman mark
+edward m. purcell
+john sinfelt
+lyman spitzer
+victor f. weisskopf
+1980s
+1982: philip w. anderson
+yoichiro nambu
+edward teller
+charles h. townes
+1983: e. margaret burbidge
+maurice goldhaber
+helmut landsberg
+walter munk
+frederick reines
+bruno b. rossi
+j. robert schrieffer
+1986: solomon j. buchsbaum
+h. richard crane
+herman feshbach
+robert hofstadter
+chen-ning yang
+1987: philip abelson
+walter elsasser
+paul c. lauterbur
+george pake
+james a. van allen
+1988: d. allan bromley
+paul ching-wu chu
+walter kohn
+norman f. ramsey
+jack steinberger
+1989: arnold o. beckman
+eugene parker
+robert sharp
+henry stommel
+1990s
+1990: allan m. cormack
+edwin m. mcmillan
+robert pound
+roger revelle
+1991: arthur l. schawlow
+ed stone
+steven weinberg
+1992: eugene m. shoemaker
+1993: val fitch
+vera rubin
+1994: albert overhauser
+frank press
+1995: hans dehmelt
+peter goldreich
+1996: wallace s. broecker
+1997: marshall rosenbluth
+martin schwarzschild
+george wetherill
+1998: don l. anderson
+john n. bahcall
+1999: james cronin
+leo kadanoff
+2000s
+2000: willis e. lamb
+jeremiah p. ostriker
+gilbert f. white
+2001: marvin l. cohen
+raymond davis jr.
+charles keeling
+2002: richard garwin
+w. jason morgan
+edward witten
+2003: g. brent dalrymple
+riccardo giacconi
+2004: robert n. clayton
+2005: ralph a. alpher
+lonnie thompson
+2006: daniel kleppner
+2007: fay ajzenberg-selove
+charles p. slichter
+2008: berni alder
+james e. gunn
+2009: yakir aharonov
+esther m. conwell
+warren m. washington
+2010s
+2011: sidney drell
+sandra faber
+sylvester james gates
+2012: burton richter
+sean c. solomon
+2014: shirley ann jackson
+
+vtemanhattan projecttimelinesites
+ames
+berkeley
+chicago
+dayton
+hanford
+inyokern
+los alamos
+montreal
+new york
+oak ridge
+trinity
+wendover
+heavy water sites
+administrators
+vannevar bush
+arthur compton
+james b. conant
+priscilla duffield
+thomas farrell
+leslie groves
+john lansdale
+ernest lawrence
+james marshall
+franklin matthias
+dorothy mckibbin
+kenneth nichols
+robert oppenheimer
+deak parsons
+william purnell
+frank spedding
+charles thomas
+paul tibbets
+bud uanna
+harold urey
+stafford warren
+ed westcott
+roscoe wilson
+scientists
+luis alvarez
+robert bacher
+hans bethe
+aage bohr
+niels bohr
+norris bradbury
+james chadwick
+john cockcroft
+harry daghlian
+enrico fermi
+richard feynman
+val fitch
+james franck
+klaus fuchs
+maria goeppert mayer
+george kistiakowsky
+george koval
+willard libby
+edwin mcmillan
+mark oliphant
+norman ramsey
+isidor isaac rabi
+james rainwater
+bruno rossi
+glenn seaborg
+emilio segrè
+louis slotin
+henry dewolf smyth
+leo szilard
+edward teller
+stanisław ulam
+john von neumann
+john wheeler
+eugene wigner
+robert wilson
+leona woods
+operations
+alsos mission
+bombings of hiroshima and nagasaki
+operation crossroads
+operation peppermint
+project alberta
+silverplate
+509th composite group
+enola gay
+bockscar
+the great artiste
+weapons
+fat man
+little boy
+pumpkin bomb
+thin man
+related topics
+atomic energy act of 1946
+british contribution
+chicago pile-1
+demon core
+einstein–szilárd letter
+interim committee
+oppenheimer security hearing
+plutonium
+quebec agreement
+rala experiment
+s-1 executive committee
+s-50 project
+smyth report
+uranium
+x-10 graphite reactor
+ manhattan project
+vtefounding members of the world cultural council
+christian b. anfinsen
+werner arber
+james baddiley
+m. balasegaram
+frank barnaby
+christiaan barnard
+colin blakemore
+aage n. bohr
+norman borlaug
+harold g. callan
+andré frédéric cournand
+william j. darby
+eduardo de robertis
+cornelis de jager
+guy blaudin de thé
+jean-françois denisse
+venancio deulofeu
+frank j. dixon
+richard s. doll
+audouin dollfus
+jacques-émile dubois
+gerald durrell
+francisco j. dy
+john c. eccles
+paul ehrlich
+manfred eigen
+mohammed el fasi
+ernest l. eliel
+kenneth o. emergy
+josé rafael estrada
+hans j. eysenck
+don w. fawcett
+david j. finney
+val l. fitch
+carl g. gahmberg
+alfred d. hershey
+gerhard herzberg
+david h. hubel
+osmo h. järvi
+reginald v. jones
+adrian kantrowitz
+nathan o. kaplan
+leo a. kaprio
+vasso karageorghis
+peter e. kent
+donald w. kerst
+seymour s. kety
+prem n. kirpal
+georges b. koelle
+walther manshard
+georges mathé
+william d. mcelroy
+henry mcilwain
+john mcmichael
+jerrold meinwald
+harry melville
+desmond j. morris
+giuseppe moruzzi
+nevill mott
+vernon b. mountcastle
+robert s. mulliken
+walter h. munk
+ilie g. murgulescu
+jayant v. narlikar
+louis e. f. néel
+yuval ne'eman
+bernhard h. neumann
+william a. nierenberg
+marshall w. nirenberg
+george e. palade
+arthur b. pardee
+david phillips
+jacques piccard
+jens j. pindborg
+comlan a. a. quenum
+hermann rahn
+g. n. ramachandran
+gunnar randers
+chintamani n. r. rao
+rex richards
+jean rösch
+abraham j. a. roux
+stanley k. runcorn
+donald h. sadler
+hakim muhammad saeed
+nobufusa saito
+abdus salam
+stuart j. saunders
+menahem max schiffer
+william g. schneider
+glenn t. seaborg
+ernest r. sears
+frederick seitz
+leonard t. skeggs
+stefan ślopek
+george j. smets
+george d. snell
+leonard sosnowky
+roger w. sperry
+lyman spitzer
+frederick stewart
+heikki suomalainen
+pol swings
+charles tanford
+henry taube
+john m. tedder
+edward teller
+howard temin
+harold thompson
+peter c. thonemann
+phillip v. tobias
+alexander r. todd
+jan peter toennies
+andrzej trautman
+jean l. f. tricart
+ioan ursu
+constantin vago
+eugene van tamelen
+ulf s. von euler
+alan walsh
+william j. whelan
+karel f. wiesner
+rosalyn s. yalow
+john z. young
+
+portalsaccess related topicsworld war ii portalnuclear technology portalphysics portalhistory of science portalunited states portalcalifornia portalbiography portalfind out more on wikipedia'ssister projectsmediafrom commonsquotationsfrom wikiquote
+authority control 
+bibsys: 90137028
+bne: xx1170140
+bnf: cb120617643 (data)
+cinii: da00670648
+gnd: 119206927
+isni: 0000 0001 1453 0609
+lccn: n50004895
+lnb: 000159965
+mgp: 128054
+nara: 10580887
+ndl: 00455958
+nkc: skuk0005183
+nla: 35486873
+nsk: 000185236
+snac: w6571c7v
+sudoc: 028872231
+viaf: 98197926
+ worldcat identities (via viaf): 98197926
+
+
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=glenn_t._seaborg&oldid=882492246"					
+categories: glenn t. seaborg1912 births1999 deaths20th-century american chemistsamerican nobel laureatesamerican people of swedish descentamerican skepticschairmen of the united states atomic energy commissionleaders of the university of california, berkeleydiscoverers of chemical elementsenrico fermi award recipientsfellows of the american association for the advancement of sciencefellows of the committee for skeptical inquiryforeign members of the royal societyfounding members of the world cultural councilmanhattan project peoplemembers of the royal swedish academy of sciencesmembers of the united states national academy of sciencesnational medal of science laureatesnobel laureates in chemistrypeople from ishpeming, michiganpeople involved with the periodic tablesouth gate, californiauniversity of california, berkeley alumniuniversity of california, berkeley facultyuniversity of california, los angeles alumnivannevar bush award recipientsnational inventors hall of fame inducteeshidden categories: pages containing links to subscription-only contentuse mdy dates from april 2012biography with signatureinfobox person using alma materarticles with hcardswikipedia articles with bibsys identifierswikipedia articles with bne identifierswikipedia articles with bnf identifierswikipedia articles with cinii identifierswikipedia articles with gnd identifierswikipedia articles with isni identifierswikipedia articles with lccn identifierswikipedia articles with lnb identifierswikipedia articles with mgp identifierswikipedia articles with nara identifierswikipedia articles with ndl identifierswikipedia articles with nkc identifierswikipedia articles with nla identifierswikipedia articles with nsk identifierswikipedia articles with snac-id identifierswikipedia articles with sudoc identifierswikipedia articles with viaf identifierswikipedia articles with worldcat-viaf identifiersac with 17 elementsgood articles 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commonswikiquote 
+
+
+
+languages
+
+
+العربيةasturianuتۆرکجهবাংলাbân-lâm-gúбеларускаябългарскиcatalàčeštinadanskdeutschελληνικάespañolesperantoeuskaraفارسیfrançaisgaeilgegàidhliggalego한국어հայերենhrvatskiidobahasa indonesiaitalianoעבריתbasa jawakiswahilimagyarമലയാളംnederlands日本語norskoccitanoʻzbekcha/ўзбекчаپنجابیplattdüütschpolskiportuguêsromânăрусскийscotsshqipsimple englishslovenčinaсрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskaтатарча/tatarçatürkçeукраїнськаاردوtiếng việtyorùbá中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 9 february 2019, at 13:55 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"1.624","walltime":"2.003","ppvisitednodes":{"value":15578,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":414248,"limit":2097152},"templateargumentsize":{"value":14637,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":25,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":179332,"limit":5000000},"entityaccesscount":{"value":7,"limit":400},"timingprofile":["100.00% 1522.436      1 -total"," 28.23%  429.749      5 template:infobox"," 28.13%  428.224      1 template:infobox_officeholder"," 19.76%  300.835      1 template:reflist"," 10.37%  157.865     15 template:cite_book","  7.20%  109.568     30 template:cite_web","  7.10%  108.101     12 template:navbox","  5.87%   89.341     12 template:cite_journal","  5.64%   85.797      1 template:infobox_scientist","  5.45%   82.942      1 template:birth_date"]},"scribunto":{"limitreport-timeusage":{"value":"0.680","limit":"10.000"},"limitreport-memusage":{"value":11807418,"limit":52428800}},"cachereport":{"origin":"mw1263","timestamp":"20190219124223","ttl":86400,"transientcontent":true}}});mw.config.set({"wgbackendresponsetime":147,"wghostname":"mw1242"});});
+
+

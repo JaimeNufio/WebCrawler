@@ -1,0 +1,607 @@
+
+
+
+
+seicento - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"seicento","wgtitle":"seicento","wgcurrevisionid":836220326,"wgrevisionid":836220326,"wgarticleid":27048229,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["all articles with unsourced statements","articles with unsourced statements from october 2016","italian baroque","17th century in italy","baroque art","baroque architecture in italy","baroque music","cultural history of italy","italian baroque architects","baroque composers","italian baroque painters","17th-century italian architects","17th-century italian literature","17th-century italian painters","17th-century italian sculptors"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"seicento","wgrelevantarticleid":27048229,"wgrequestid":"xgkb1gpaicoaai7dve4aaacb","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q1419845","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+seicento 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+this article is about culture of 17th-century italy. for the automobile, see fiat seicento.
+art of italy
+periods
+
+etruscan
+ancient roman
+gothic
+renaissance and mannerism
+baroque and rococo
+neoclassical and 19th century
+modern and contemporary
+
+
+centennial divisions
+duecento
+trecento
+quattrocento
+cinquecento
+seicento
+settecento
+
+important art museums
+uffizi
+pinacoteca di brera
+vatican museums
+villa borghese
+sabauda gallery
+gallerie dell'accademia
+pitti palace
+accademia di belle arti firenze
+bargello
+
+important art festivals
+venice biennale
+rome quadriennale
+
+major works
+the tribute money (masaccio)
+the birth of venus
+primavera
+mona lisa
+the last supper
+annunciation (leonardo)
+sistine chapel ceiling
+sistine madonna
+pietà
+the last judgment
+the creation of adam
+david (michelangelo)
+the school of athens
+the battle of san romano
+venus of urbino
+david (donatello)
+the calling of st. matthew
+unique forms of continuity in space
+
+italian artists
+painters
+sculptors
+architects
+photographers
+illustrators
+
+italian art schools
+bolognese school
+ferrarese school
+forlivese school
+florentine school
+lucchese and pisan school
+sienese school
+venetian school
+
+art movements
+renaissance
+mannerism
+baroque
+macchiaioli
+metaphysical art
+futurism
+arte povera
+novecento italiano
+pittura infamante
+purismo
+transavantgarde
+scuola romana
+
+other topics
+italian architecture
+sculpture of italy
+timeline of italian artists to 1800
+raphael rooms
+vte
+see also: italian baroque and early modern italy
+the seicento [ˌsɛiˈtʃɛnto] is italian history and culture during the 17th century. the seicento saw the end of the renaissance movement in italy and the beginning of the counter-reformation and the baroque era. the word seicento means "six hundred" (sei = six, cento = hundred).
+
+contents
+
+1 etymology
+2 history
+3 different criteria
+
+3.1 art
+3.2 architecture
+3.3 education
+3.4 fashion
+3.5 science and technology
+3.6 literature and philosophy
+3.7 music
+
+
+4 see also
+5 references
+
+
+etymology[edit]
+the seicento in italy simply refers to the 17th century, yet abroad, the word refers to the italian cultural and social history during this period, characterised by several wars and conflicts, invasions, and the patronage of the arts and architecture. it was also the period in which the baroque era came into place (the baroque being an essentially italian movement, having been created by the popes in rome as a part of the catholic reformation). this period also saw advancements in italian science, philosophy and technology.
+
+history[edit]
+ the 1647 revolt against high taxation in naples, led and triggered by rebel masaniello.
+for additional information, see: history of italy during the early modern age
+the 17th century was a tumultuous period in italian history, with several political and social changes, and times of much civil and military unrest. this included the increase in number of spanish colonies and possessions along the peninsula, and the increase in power of the pope and the roman catholic church during the counter reformation, a counterpart of the protestant reformation. despite several artistic and scientific contributions, such as the invention of several musical instruments, stylistic genres, astronomical discoveries and the creation of the baroque, italy, which was the cultural leader of europe in the 16th century, experienced a social decline, which slowly began in the beginning of the 17th century and fell towards the end of the century. this was due to persistent conflicts, revolts (such as the neapolitan 1647 tax-related revolt of masaniello), invasions and the rise in popularity of french, english and spanish culture. events which happened during this period include the 1633 papal trial of scientist galileo galilei, the 1647 revolt in naples, the 1669 mount etna eruption, the 1674 rebellion in messina and the 1693 sicily earthquake.
+
+different criteria[edit]
+for additional information, see italian baroque
+art[edit]
+main article: italian baroque art
+italian art during the 17th century was predominantly baroque in essence. 17th-century italian baroque art was similar in style and subject matter to that during the same period in spain - characterised by rich, dark colours, and often religious themes relating notably to martyrdom, and also the presence of several still lifes. lombard painter caravaggio stands out as one of the most prominent from this era, known for his sacred ("supper at emmaus"), mythological ("medusa"), still-life ("basket of fruit") genres and the common depiction of local people ("boy carrying a basket of fruit). his paintings were predominantly oil, and used warm, intense colours, and usually having dramatic themes. having one of the forefathers of baroque art,[1] and one of the earliest modern painters, his styles influenced other italian and foreign artists following him, including gian lorenzo bernini. gian lorenzo bernini was a prominent mid to late-17th century baroque artist and sculptor, known for his statues, such as the "ecstasy of saint theresa".
+
+
+
+
+
+a painting of saint jerome dating from 1607 by italian early-17th century painter caravaggio. one can notice the warm colours (red, pink, peach, light-brown) used in this painting. such styles were popular in 17th-century italian art.
+
+
+
+
+
+
+baroque art and architecture was popular in 17th-century italy.
+
+
+
+
+architecture[edit]
+main articles: italian baroque architecture and italian baroque interior design
+building styles for italian 17th-century architecture, most notably the baroque, were very different all across the country.
+turin was well known for its french-style baroque architecture. this began in the city during the late-17th century (1680s onwards). before, buildings were still constructed in dark and austere brick renaissance style, yet by the late 17th century, this style evolved into a more baroque one, similar to that used in paris and versailles, characterised by gold/copper gilded roofs, italian/french gardens, french windows and ornate decoration. genoa still kept constructing painted houses, yet, the painted designs were more ornate and in touch with the popular baroque designs. milan was similar to turin in architectural patterns and trends, yet was less influenced by french designs, and more by the spanish ones (considering milan was ruled by spain). venice started to construct more ornate baroque buildings ever since in 1650s.
+in rome and southern italy, this was slightly different. buildings in rome were constructed in a baroque style ever since the early-17th century, and examples of this could be st peter's basilica and the palazzo bernini. the catholic reformation's aim was to make roman catholicism look like an appealing denomination, and the popes did this by not only reforming the church's organization and society, yet also constructing ornate basilicas, fountains, piazzas (italian squares), palaces and monuments. the architecture of rome at the time was characterised by grandiose palaces, rich interiors, frescos and elegant cartouches. this style reached the south slightly later, towards the 1650s, and, especially in naples and sicily, was known for its similarity to spanish architecture, visible in buildings such as the certosa of san martino in naples.
+
+
+
+
+
+the 17th century baroque architectural style used in st peter's basilica, rome.
+
+
+
+
+
+
+the villa torrigiani, found in lucca, a country house which was founded in the late-16th century, yet whose exterior and garden date to the mid-17th century.
+
+
+
+
+education[edit]
+ a painting of elena cornaro piscopia, the first female laureate and woman to receive a phd in the world
+there were several advancements made in 17th-century italian education systems. one example could be the admission of elena cornaro piscopia into the university of padua. a mathematician, scholar and academic, piscopia was the first woman in the world to ever graduate with a doctorate (phd, or doctor of philosophy) in 1678. several universities, colleges and institutions were founded in this century, such as the university of cagliari in 1620.
+
+fashion[edit]
+in the 17th century, italy saw a decline in importance as the fashion trendsetter of europe, which it was in the 15th and 16th centuries. despite still holding this position until the 1620s and 30s, by the 1640s, when louis xiv gained power in france, and the popularity of dresses in spain, the french and spanish court tastes became more popular than the italian ones, and italy would only return to its original influential position in the 1950s.[citation needed]
+in the early 17th century, fashions for men and women were relatively similar to those of the 1580s and 90s.
+women used to still wear elaborate ruffs and large, elaborate dresses (the decoration depended on the wealth and social class of the women wearing it). by the 1630s, ruffs began to fall out of fashion, and these were replaced by pearl necklaces. hair was often done up much more elaborately than before, with curls and flowers and jewels inside. the wearing of a chemise, and collar heightened in italian female fashion in the 1650s and 60s. by the 1670s, dresses became simpler and less large than in the early 17th century, yet hair was often done up much more elaborately than before, and women began to wear mantuas and gowns. by the 1680s and 90s, women tended to wear simple or averagely decorated dresses, with a mantua, elaborate hair (often a wig), long-sleeved gloves, and often carried around a fan.
+
+
+
+
+
+italian female fashions in the early-17th century
+
+
+
+
+
+
+italian female fashions in the late-17th century
+
+
+
+
+in the early 17th century, male fashion too was similar to that of the late-16th century. they used to wear cuffs, short-sleeved trousers and had long hair. most men also grew moustaches, and used to wear boots, and by the 1630s, feathered hats became popular. by the late-17th century, male fashion concentrated on highly elaborate dresses and shoes, grey curled wigs, and richly decorated petticoats and overskirts.
+
+science and technology[edit]
+ galileo galilei, a renowned italian scientist and astronomer.
+there were several contributions to science and technology in italy during the 17th century, which saw the development of tools, physics, astronomy and heliocentricism. galileo galilei's discovering of saturn's rings, the venus' phases, and several new technological inventions, such as his 1609 telescope and compass made for military reasons in 1604. all of this has made him renowned as one of the fathers of modern science, astronomy and technology.[2][3] he also supported heliocentricism, a controversial issue, since it was viewed at the time that the planets and the sun rotated around the earth, not the other way round has he argued.
+
+literature and philosophy[edit]
+the seicento too saw several renowned literary figures. giambattista vico was one of the most famous. he was a neapolitan writer and philosopher, and was known for his several books, usually regarding history, reasoning, philosophy and law. such books include "la scienza nuova".
+
+music[edit]
+ stradivari's classical violin
+italy's musical contributions in the 17th century were amongst its greatest, including the invention of the piano in 1700, creation of new forms of the violin, and great contributions to opera, invented in italy (florence) in the 16th century, and the beginning of baroque music in the country. during the 17th century, both opera and baroque musical styles were developed. church music was popular in this time, especially sponsored by the religiously-run musical academies and conservatories in naples, the main centre of musical education along the peninsula. opera composers at the time include claudio monteverdi. in the late-17th century, cremona-based luthier antonio stradivari developed the classical violin, then called the stradivarius after his name, and in 1700, bartolomeo cristofori invented the piano in florence, tuscany.
+
+see also[edit]
+duecento
+trecento - the 14th century in italian culture
+quattrocento - the 15th century in italian culture
+cinquecento - the 16th century in italian culture
+settecento - the 18th century in italian culture
+references[edit]
+
+
+^ "ulan full record display (getty research)". www.getty.edu..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ "h2g2 - galileo galilei – father of modern science". bbc. retrieved 2010-04-24.
+
+^ "galileo galilei hh". ima hero. 1989-10-18. retrieved 2010-04-24.
+
+
+vteitaly articleshistorychronology
+prehistory
+italic peoples
+ancient peoples of italy
+pre-nuragic sardinia
+nuragic peoples
+etruscan civilization
+nuragic civilization
+phoenician/carthaginian colonies
+magna graecia
+ancient rome
+kingdom
+republic
+empire
+middle ages
+italy under odoacer
+ostrogoths
+byzantium
+lombards
+the holy roman empire
+the sardinian judicates
+arabs
+normans
+guelphs and ghibellines
+the italian city-states
+the maritime republics
+renaissance
+italian wars
+early modern period
+unification
+revolutions of 1820
+revolutions of 1830
+revolutions of 1848
+sicilian revolution of 1848
+first war of independence
+crimean war
+second war of independence
+expedition of the thousand
+third war of independence
+capture of rome
+monarchy and the world wars
+kingdom of italy
+colonial empire
+world war i
+fascist italy
+world war ii
+resistance
+civil war
+republic
+economic boom
+years of lead
+years of mud
+mani pulite
+by topic
+citizenship
+currency
+economy
+fashion
+flags
+genetic
+historic states
+military
+music
+postal
+railways
+geography
+peninsula
+northern
+northwest
+northeast
+central
+southern
+south
+insular
+climate
+fauna
+flora
+mountains
+prealps
+alps
+apennines
+volcanology
+volcanoes
+beaches
+canals
+caves
+earthquakes
+islands
+lakes
+national parks
+rivers
+valleys
+politics
+constitution
+elections
+referendums
+foreign relations
+missions
+judiciary
+law enforcement
+military
+parliament
+chamber of deputies
+senate
+political parties
+president
+prime minister
+council of ministers
+regions
+provinces
+metropolitan cities
+comune
+municipalities
+cities
+economy
+economic history
+milan
+naples
+rome
+turin
+regions by gdp
+automotive industry
+banking
+central bank
+companies
+energy
+government debt
+science and technology
+stock exchange
+taxation
+telecommunications
+internet
+tourism
+trade unions
+transportation
+welfare
+society
+abortion
+adoption
+billionaires
+capital punishment
+corruption
+crime
+demographics
+education
+secondary
+higher
+universities
+emigration
+fathers' rights movement
+feminism
+gambling
+health
+healthcare
+immigration
+lgbt rights
+nobility
+prostitution
+racism
+religion
+smoking
+social class
+terrorism
+women
+culture
+duecento
+trecento
+quattrocento
+cinquecento
+seicento
+settecento
+architecture
+art
+castles
+cinema
+cuisine
+beer
+wine
+cultural icons
+decorations
+design
+fashion
+festivals
+folklore
+italian language
+regional italian
+italian literature
+italophilia
+italophobia
+languages
+media
+newspapers
+radio
+tv
+monuments
+music
+classical
+folk
+opera
+popular
+mythology
+national symbols
+anthem
+emblem
+flag
+regions
+national monument
+personification
+people
+philosophy
+public holidays
+festa della repubblica
+sculpture
+sport
+traditions
+world heritage sites
+
+ italy portal
+ category
+ commons
+ news
+quotes
+travel
+ wikiproject
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=seicento&oldid=836220326"					
+categories: italian baroque17th century in italybaroque artbaroque architecture in italybaroque musiccultural history of italyitalian baroque architectsbaroque composersitalian baroque painters17th-century italian architects17th-century italian literature17th-century italian painters17th-century italian sculptorshidden categories: all articles with unsourced statementsarticles with unsourced statements from october 2016 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+languages
+
+
+deutscheestinederlandspolskiрусскийукраїнська 
+edit links 
+
+
+
+
+
+ this page was last edited on 13 april 2018, at 12:18 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.320","walltime":"0.485","ppvisitednodes":{"value":1297,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":105012,"limit":2097152},"templateargumentsize":{"value":21339,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":18,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":13912,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  343.997      1 -total"," 31.33%  107.763      6 template:navbox"," 30.54%  105.051      1 template:italy_topics"," 29.58%  101.759      1 template:country_topics"," 26.19%   90.086      1 template:reflist"," 22.14%   76.177      3 template:cite_web"," 12.87%   44.281      1 template:about"," 12.75%   43.844      1 template:citation_needed"," 10.63%   36.554      1 template:fix","  6.48%   22.292      2 template:category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.108","limit":"10.000"},"limitreport-memusage":{"value":4208152,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1249","timestamp":"20190210121659","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"seicento","url":"https:\/\/en.wikipedia.org\/wiki\/seicento","sameas":"http:\/\/www.wikidata.org\/entity\/q1419845","mainentity":"http:\/\/www.wikidata.org\/entity\/q1419845","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2010-04-21t16:28:11z","datemodified":"2018-04-13t12:18:16z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/7b\/collage_arte_italiana.jpg","headline":"ita"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":117,"wghostname":"mw1321"});});
+
+

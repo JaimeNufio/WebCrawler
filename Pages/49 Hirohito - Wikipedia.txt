@@ -1,0 +1,1102 @@
+
+
+
+
+hirohito - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"hirohito","wgtitle":"hirohito","wgcurrevisionid":883870511,"wgrevisionid":883870511,"wgarticleid":10287,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["articles containing japanese-language text","cs1: julian–gregorian uncertainty","pages containing london gazette template with parameter supp set to y","articles with japanese-language external links","wikipedia indefinitely semi-protected pages","use mdy dates from january 2013","all articles with unsourced statements","articles with unsourced statements from december 2017","all articles with specifically marked weasel-worded phrases","articles with specifically marked weasel-worded phrases from november 2014","articles needing additional references from december 2017","all articles needing additional references","articles needing additional references from december 2016","pages using deprecated image syntax","commons category link is on wikidata","wikipedia articles with bnf identifiers","wikipedia articles with cinii identifiers","wikipedia articles with gnd identifiers","wikipedia articles with isni identifiers","wikipedia articles with lccn identifiers","wikipedia articles with nara identifiers","wikipedia articles with ndl identifiers","wikipedia articles with nkc identifiers","wikipedia articles with nla identifiers","wikipedia articles with selibr identifiers","wikipedia articles with snac-id identifiers","wikipedia articles with sudoc identifiers","wikipedia articles with viaf identifiers","wikipedia articles with worldcat-viaf identifiers","hirohito","japanese emperors","shōwa period","1901 births","1989 deaths","people of shōwa-period japan","japanese anti-communists","japanese marine biologists","japanese people of world war ii","japanese shintoists","japanese zoologists","japanese fascists","fascist rulers","people from tokyo","regents of japan","sesshō and kampaku","world war ii political leaders","deaths from cancer in japan","deaths from small intestine cancer","british field marshals","extra knights companion of the garter","fellows of the royal society (statute 12)","knights of the golden fleece","knights of the order of the rajamitrabhorn","recipients of the order of the rising sun with paulownia flowers","recipients of the order of the sacred treasure, 1st class","recipients of the order of culture","knights grand cross with collar of the order of merit of the italian republic","grand collars of the order of sikatuna","20th-century zoologists","20th-century japanese monarchs","grand crosses special class of the order of merit of the federal republic of germany","recipients of the silver world award"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"hirohito","wgrelevantarticleid":10287,"wgrequestid":"xgvtbapaad0aajdbl1saaace","wgcspnonce":false,"wgisprobablyeditable":false,"wgrelevantpageisprobablyeditable":false,"wgrestrictionedit":["autoconfirmed"],"wgrestrictionmove":["autoconfirmed"],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q34479","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+hirohito 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+for other uses, see hirohito (disambiguation).
+
+
+
+shōwaemperor of japanreign25 december 1926 – 7 january 1989enthronement10 november 1928predecessortaishōsuccessorakihitoprime ministers
+see list
+prewar periodgiichi tanakaosachi hamaguchireijirō wakatsukitsuyoshi inukaitakahashi korekiyo (acting)makoto saitōkeisuke okadakōki hirotasenjūrō hayashifumimaro konoekiichirō hiranumanobuyuki abemitsumasa yonaifumimaro konoehideki tōjōkuniaki koisokantarō suzukihigashikuni naruhikopostwar period:kijūrō shideharatetsu katayamahitoshi ashidashigeru yoshidaichirō hatoyamatanzan ishibashinobusuke kishihayato ikedaeisaku satōkakuei tanakatakeo mikitakeo fukudamasayoshi ōhiramasayoshi itō (acting)zenkō suzukiyasuhiro nakasonenoboru takeshita
+prince regent of japantenure29 november 1921 –25 december 1926monarchtaishōprime ministers
+see list
+takahashi korekiyokatō tomosaburōyamamoto gonnohyōekiyoura keigokatō takaakiwakatsuki reijirō
+bornhirohito (裕仁)(1901-04-29)29 april 1901tōgū palace, aoyama, tokyo, japandied7 january 1989(1989-01-07) (aged 87)fukiage palace, japanburial24 february 1989musashi imperial graveyard, hachiōji, tokyo, japanspouseprincess nagako kuni (m. 1924)issue
+shigeko higashikuni
+sachiko, princess hisa
+kazuko takatsukasa
+atsuko ikeda
+akihito, emperor of japan
+masahito, prince hitachi
+takako shimazu
+houseimperial house of japanfatheremperor taishōmotherempress teimeisignature
+hirohito[a] (裕仁, 29 april 1901 – 7 january 1989) was the 124th emperor of japan according to the traditional order of succession, reigning from 25 december 1926, until his death on 7 january 1989. he was succeeded by his eldest son, akihito. in japan, reigning emperors are known simply as "the emperor" and he is now referred to primarily by his posthumous name, emperor shōwa (昭和天皇). the word shōwa (昭和) is the name of the era (shōwa period (昭和時代, shōwa jidai, potentially "period of enlightened peace/harmony" or "period of radiant japan")) coinciding with the emperor's reign, after which he is known according to a tradition dating to 1912. the name hirohito means "abundant benevolence".
+at the start of his reign, japan was already one of the great powers—the ninth-largest economy in the world, the third-largest naval power, and one of the four permanent members of the council of the league of nations.[2] he was the head of state under the constitution of the empire of japan during japan's imperial expansion, militarization, and involvement in world war ii. after japan's surrender, he was not prosecuted for war crimes as many other leading government figures were, and his degree of involvement in wartime decisions remains controversial.[3] during the post-war period, he became the symbol of the new state under the post-war constitution and japan's recovery, and by the end of his reign, japan had emerged as the world's second largest economy.[4]
+
+contents
+
+1 early life
+2 regency
+3 marriage
+4 ascension
+5 early reign
+6 second sino-japanese war
+7 world war ii
+
+7.1 preparations
+7.2 war: advance and retreat
+7.3 surrender
+7.4 accountability for japanese war crimes
+
+
+8 postwar reign
+
+8.1 imperial status
+8.2 yasukuni shrine
+
+
+9 death and state funeral
+10 titles, styles and honours
+
+10.1 military appointments
+10.2 foreign military appointments
+10.3 national honours
+10.4 foreign honours
+
+
+11 issue
+12 ancestry
+13 scientific publications
+14 see also
+15 notes
+16 references
+
+16.1 citations
+16.2 sources
+
+
+17 external links
+
+
+early life
+ hirohito in 1902 as an infant
+ emperor taishō's four sons in 1921: hirohito, takahito, nobuhito and yasuhito
+born in tokyo's aoyama palace (during the reign of his grandfather, emperor meiji) on 29 april 1901, hirohito was the first son of 21-year old crown prince yoshihito (the future emperor taishō) and 17-year old crown princess sadako (the future empress teimei).[5] he was the grandson of emperor meiji and yanagihara naruko. his childhood title was prince michi. on the 70th day after his birth, hirohito was removed from the court and placed in the care of the family of count kawamura sumiyoshi, a former vice-admiral, who was to rear him as if he were his own grandchild. at the age of 3, hirohito and his brother chichibu were returned to court when kawamura died – first to the imperial mansion in numazu, shizuoka, then back to the aoyama palace.[6] in 1908, he began elementary studies at the gakushūin (peers school).
+when his grandfather, emperor meiji, died on 30 july 1912, hirohito's father, yoshihito, assumed the throne and hirohito became the heir apparent. at the same time, he was formally commissioned in both the army and navy as a second lieutenant and ensign, respectively, and was also decorated with the grand cordon of the order of the chrysanthemum. in 1914, he was promoted to the ranks of lieutenant in the army and sub-lieutenant in the navy, then to captain and lieutenant in 1916. he was formally proclaimed crown prince and heir apparent on 2 november 1916; but an investiture ceremony was not strictly necessary to confirm this status as heir to the throne.[7]
+hirohito attended gakushūin peers' school from 1908 to 1914 and then a special institute for the crown prince (tōgū-gogakumonsho) from 1914 to 1921.
+in 1920, hirohito was promoted to the rank of major in the army and lieutenant commander in the navy. in 1921, hirohito took a six-month tour of western europe, including the united kingdom, france, italy, the netherlands, and belgium.
+
+regency
+ prince hirohito and british prime minister lloyd george, 1921
+after his return to japan, hirohito became regent of japan (sesshō) on 29 november 1921, in place of his ailing father who was affected by a mental illness. in 1923, he was promoted to the rank of lieutenant-colonel in the army and commander in the navy, and to army colonel and navy captain in 1925.
+during hirohito's regency, a number of important events occurred:
+in the four-power treaty on insular possessions signed on 13 december 1921, japan, the united states, britain, and france agreed to recognize the status quo in the pacific, and japan and britain agreed to terminate formally the anglo-japanese alliance. the washington naval treaty was signed on 6 february 1922. japan withdrew troops from the siberian intervention on 28 august 1922. the great kantō earthquake devastated tokyo on 1 september 1923. on 27 december 1923, daisuke namba attempted to assassinate hirohito in the toranomon incident but his attempt failed. during interrogation, he claimed to be a communist and was executed but some have suggested that he was in contact with the nagacho faction in the army.[citation needed]
+
+marriage
+ prince hirohito and his wife, princess nagako, in 1924
+prince hirohito married his distant cousin princess nagako kuni (the future empress kōjun), the eldest daughter of prince kuniyoshi kuni, on 26 january 1924. they had two sons and five daughters[8] (see issue).
+the daughters who lived to adulthood left the imperial family as a result of the american reforms of the japanese imperial household in october 1947 (in the case of princess shigeko) or under the terms of the imperial household law at the moment of their subsequent marriages (in the cases of princesses kazuko, atsuko, and takako).
+
+ascension
+ imperial standard as emperor
+on 25 december 1926, hirohito assumed the throne upon his father, yoshihito's, death. the crown prince was said to have received the succession (senso).[9] the taishō era's end and the shōwa era's beginning (enlightened peace) were proclaimed. the deceased emperor was posthumously renamed emperor taishō within days. following japanese custom, the new emperor was never referred to by his given name, but rather was referred to simply as "his majesty the emperor", which may be shortened to "his majesty". in writing, the emperor was also referred to formally as "the reigning emperor".
+in november 1928, the emperor's ascension was confirmed in ceremonies (sokui)[9] which are conventionally identified as "enthronement" and "coronation" (shōwa no tairei-shiki); but this formal event would have been more accurately described as a public confirmation that his imperial majesty possesses the japanese imperial regalia,[10] also called the three sacred treasures, which have been handed down through the centuries.[11]
+
+early reign
+ emperor hirohito after his enthronement ceremony in 1928, dressed in sokutai
+the first part of hirohito's reign took place against a background of financial crisis and increasing military power within the government, through both legal and extralegal means. the imperial japanese army and imperial japanese navy held veto power over the formation of cabinets since 1900, and between 1921 and 1944 there were no fewer than 64 incidents of political violence.
+hirohito narrowly missed assassination by a hand grenade thrown by a korean independence activist, lee bong-chang, in tokyo on 9 january 1932, in the sakuradamon incident.
+another notable case was the assassination of moderate prime minister inukai tsuyoshi in 1932, which marked the end of civilian control of the military. this was followed by an attempted military coup in february 1936, the february 26 incident, mounted by junior army officers of the kōdōha faction who had the sympathy of many high-ranking officers including prince chichibu (yasuhito), one of the emperor's brothers. this revolt was occasioned by a loss of political support by the militarist faction in diet elections. the coup resulted in the murders of a number of high government and army officials.
+when chief aide-de-camp shigeru honjō informed him of the revolt, the emperor immediately ordered that it be put down and referred to the officers as "rebels" (bōto). shortly thereafter, he ordered army minister yoshiyuki kawashima to suppress the rebellion within the hour, and he asked reports from honjō every thirty minutes. the next day, when told by honjō that little progress was being made by the high command in quashing the rebels, the emperor told him "i myself, will lead the konoe division and subdue them." the rebellion was suppressed following his orders on 29 february.[12]
+
+second sino-japanese war
+ the emperor and the imperial stallion shirayuki (literally: 'white-snow')
+starting from the mukden incident in 1931, japan occupied chinese territories and established puppet governments. such "aggression was recommended to hirohito" by his chiefs of staff and prime minister fumimaro konoe, and hirohito never personally objected to any invasion of china.[13] his main concern seems to have been the possibility of an attack by the soviet union in the north. his questions to his chief of staff, prince kan'in, and minister of the army, hajime sugiyama, were mostly about the time it could take to crush chinese resistance.
+according to akira fujiwara, hirohito endorsed the policy of qualifying the invasion of china as an "incident" instead of a "war"; therefore, he did not issue any notice to observe international law in this conflict (unlike what his predecessors did in previous conflicts officially recognized by japan as wars), and the deputy minister of the japanese army instructed the chief of staff of japanese china garrison army on august 5 to not use the term "prisoners of war" for chinese captives. this instruction led to the removal of the constraints of international law on the treatment of chinese prisoners.[14] and the works of yoshiaki yoshimi and seiya matsuno show that the emperor authorized, by specific orders (rinsanmei), the use of chemical weapons against the chinese.[15] during the invasion of wuhan, from august to october 1938, the emperor authorized the use of toxic gas on 375 separate occasions,[16] despite the resolution adopted by the league of nations on may 14 condemning japanese use of toxic gas.
+
+world war ii
+preparations
+on september 27, 1940, ostensibly under hirohito's leadership, japan was a contracting partner of the tripartite pact with germany and italy forming the axis powers. before that, in july 1939, the emperor quarrelled with his brother, prince chichibu, who was visiting him three times a week to support the treaty, and reprimanded the army minister seishirō itagaki.[17] but after the success of the wehrmacht in europe, the emperor consented to the alliance.
+on september 4, 1941, the japanese cabinet met to consider war plans prepared by imperial general headquarters, and decided that:
+
+.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}our empire, for the purpose of self-defence and self-preservation, will complete preparations for war ... [and is] ... resolved to go to war with the united states, great britain, and the french if necessary. our empire will concurrently take all possible diplomatic measures vis-à-vis the united states and great britain, and thereby endeavor to obtain our objectives ... in the event that there is no prospect of our demands being met by the first ten days of october through the diplomatic negotiations mentioned above, we will immediately decide to commence hostilities against the united states, britain and the french.
+
+the objectives to be obtained were clearly defined: a free hand to continue with the conquest of china and southeast asia, no increase in us or british military forces in the region, and cooperation by the west "in the acquisition of goods needed by our empire".
+on september 5, prime minister konoe informally submitted a draft of the decision to the emperor, just one day in advance of the imperial conference at which it would be formally implemented. on this evening, the emperor had a meeting with the chief of staff of the army, sugiyama, chief of staff of the navy, osami nagano, and prime minister konoe. the emperor questioned sugiyama about the chances of success of an open war with the occident. as sugiyama answered positively, the emperor scolded him:
+
+—at the time of the china incident, the army told me that we could achieve peace immediately after dealing them one blow with three divisions ... but you can't still beat chiang kai-shek even today! sugiyama, you were army minister at that time.—china is a vast area with many ways in and ways out, and we met unexpectedly big difficulties ...—you say the interior of china is huge; isn't the pacific ocean even bigger than china? ... didn't i caution you each time about those matters? sugiyama, are you lying to me?[18]
+
+chief of naval general staff admiral nagano, a former navy minister and vastly experienced, later told a trusted colleague, "i have never seen the emperor reprimand us in such a manner, his face turning red and raising his voice."
+
+ emperor hirohito riding shirayuki during an army inspection on january 8, 1938
+according to the traditional view, hirohito was deeply concerned by the decision to place "war preparations first and diplomatic negotiations second", and he announced his intention to break with tradition. at the imperial conference on the following day, the emperor directly questioned the chiefs of the army and navy general staffs, which was quite an unprecedented action.
+nevertheless, all speakers at the imperial conference were united in favor of war rather than diplomacy.[19] baron yoshimichi hara, president of the imperial council and the emperor's representative, then questioned them closely, producing replies to the effect that war would be considered only as a last resort from some, and silence from others.
+at this point, the emperor astonished all present by addressing the conference personally, and in breaking the tradition of imperial silence left his advisors "struck with awe." (prime minister fumimaro konoe's description of the event.) hirohito stressed the need for peaceful resolution of international problems, expressed regret at his ministers' failure to respond to baron hara's probings, and recited a poem written by his grandfather, emperor meiji which, he said, he had read "over and over again":
+
+
+the seas of the four directions—
+all are born of one womb:
+why, then, do the wind and waves rise in discord?[20]
+
+
+
+recovering from their shock, the ministers hastened to express their profound wish to explore all possible peaceful avenues. the emperor's presentation was in line with his practical role as leader of the state shinto religion.
+at this time, army imperial headquarters was continually communicating with the imperial household in detail about the military situation. on october 8, sugiyama signed a 47-page report to the emperor (sōjōan) outlining in minute detail plans for the advance into southeast asia. during the third week of october, sugiyama gave the emperor a 51-page document, "materials in reply to the throne", about the operational outlook for the war.[21]
+as war preparations continued, prime minister fumimaro konoe found himself more and more isolated and gave his resignation on october 16. he justified himself to his chief cabinet secretary, kenji tomita, by stating:
+
+of course his majesty is a pacifist, and there is no doubt he wished to avoid war. when i told him that to initiate war was a mistake, he agreed. but the next day, he would tell me: "you were worried about it yesterday, but you do not have to worry so much." thus, gradually, he began to lean toward war. and the next time i met him, he leaned even more toward. in short, i felt the emperor was telling me: my prime minister does not understand military matters, i know much more. in short, the emperor had absorbed the view of the army and navy high commands.[22]
+
+the army and the navy recommended the candidacy of prince naruhiko higashikuni, one of the emperor's uncles. according to the shōwa "monologue", written after the war, the emperor then said that if the war were to begin while a member of the imperial house was prime minister, the imperial house would have to carry the responsibility and he was opposed to this.[23]
+
+ the emperor as head of the imperial general headquarters on april 29, 1943
+instead, the emperor chose the hard-line general hideki tōjō, who was known for his devotion to the imperial institution, and asked him to make a policy review of what had been sanctioned by the imperial conferences. on november 2, tōjō, sugiyama and nagano reported to the emperor that the review of eleven points had been in vain. emperor hirohito gave his consent to the war and then asked: "are you going to provide justification for the war?"[24] the decision for war against the united states was presented for approval to hirohito by general tōjō, naval minister admiral shigetarō shimada, and japanese foreign minister shigenori tōgō.[25]
+on november 3, nagano explained in detail the plan of the attack on pearl harbor to the emperor.[26] on november 5, emperor hirohito approved in imperial conference the operations plan for a war against the occident and had many meetings with the military and tōjō until the end of the month. on november 25 henry l. stimson, united states secretary of war noted in his diary that he had discussed with us president franklin d. roosevelt the severe likelihood that japan was about to launch a surprise attack, and that the question had been "how we should maneuver them [the japanese] into the position of firing the first shot without allowing too much danger to ourselves".
+on the following day, november 26, 1941, us secretary of state cordell hull presented the japanese ambassador with the hull note, which as one of its conditions demanded the complete withdrawal of all japanese troops from french indochina and china. japanese prime minister tojo hideki said to his cabinet, "this is an ultimatum". on december 1, an imperial conference sanctioned the "war against the united states, united kingdom and the kingdom of the netherlands".
+
+war: advance and retreat
+on december 8 (december 7 in hawaii), 1941, in simultaneous attacks, japanese forces struck at the hong kong garrison, the us fleet in pearl harbor and in the philippines and began the invasion of malaya.
+with the nation fully committed to the war, the emperor took a keen interest in military progress and sought to boost morale. according to akira yamada and akira fujiwara, the emperor made major interventions in some military operations. for example, he pressed sugiyama four times, on january 13 and 21 and february 9 and 26, to increase troop strength and launch an attack on bataan. on february 9, march 19 and may 29, the emperor ordered the army chief of staff to examine the possibilities for an attack on chungking, which led to operation gogo.[27]
+as the tide of war began to turn against japan (around late 1942 and early 1943), some people[who?] argue that the flow of information to the palace gradually began to bear less and less relation to reality, while others suggest that the emperor worked closely with prime minister hideki tōjō, continued to be well and accurately briefed by the military, and knew japan's military position precisely right up to the point of surrender. the chief of staff of the general affairs section of the prime minister's office, shuichi inada, remarked to tōjō's private secretary, sadao akamatsu:
+
+there has never been a cabinet in which the prime minister, and all the ministers, reported so often to the throne. in order to effect the essence of genuine direct imperial rule and to relieve the concerns of the emperor, the ministers reported to the throne matters within the scope of their responsibilities as per the prime minister's directives ... in times of intense activities, typed drafts were presented to the emperor with corrections in red. first draft, second draft, final draft and so forth, came as deliberations progressed one after the other and were sanctioned accordingly by the emperor.[28]
+
+ the emperor with his wife empress kōjun and their children on december 7, 1941
+in the first six months of war, all the major engagements had been victories. japanese advances were stopped in the summer of 1942 with the battle of midway and the landing of the american forces on guadalcanal and tulagi in august. the emperor recognized the potential danger and pushed the navy and the army for greater efforts. in september 1942, emperor hirohito signed an imperial rescript condemning to death american fliers lieutenants dean e. hallmark and william g. farrow and corporal harold a. spatz and commuting to life sentences lieutenants robert j. meder, chase nielsen, robert l. hite and george barr and corporal jacob deshazer. all had participated in the doolittle raid and had been captured.
+when informed in august 1943 by sugiyama that the american advance through the solomon islands could not be stopped, the emperor asked his chief of staff to consider other places to attack: "when and where are you ever going to put up a good fight? and when are you ever going to fight a decisive battle?"[29] on august 24, the emperor reprimanded nagano and on september 11, he ordered sugiyama to work with the navy to implement better military preparation and give adequate supply to soldiers fighting in rabaul.[30]
+throughout the following years from 1943 to 1945, the sequence of drawn and then decisively lost naval and land engagements was reported to the public as a series of great victories. only gradually did it become apparent to the japanese people that the situation was very grim due to growing shortages of food, medicine, and fuel as u.s submarines began wiping out japanese shipping. starting in mid 1944, u.s. air raids on the cities of japan made a mockery of the unending tales of victory. later that year, with the downfall of hideki tōjō's government, two other prime ministers were appointed to continue the war effort, kuniaki koiso and kantarō suzuki—each with the formal approval of the emperor. both were unsuccessful and japan was nearing defeat.
+
+surrender
+main article: surrender of japan
+this section needs additional citations for verification. please help improve this article by adding citations to reliable sources. unsourced material may be challenged and removed.find sources: "hirohito" – news · newspapers · books · scholar · jstor (december 2017) (learn how and when to remove this template message)
+in early 1945, in the wake of the losses in battle of leyte, emperor hirohito began a series of individual meetings with senior government officials to consider the progress of the war. all but ex-prime minister fumimaro konoe advised continuing the war. konoe feared a communist revolution even more than defeat in war and urged a negotiated surrender. in february 1945, during the first private audience with the emperor which he had been allowed in three years,[31] konoe advised hirohito to begin negotiations to end the war. according to grand chamberlain hisanori fujita, the emperor, still looking for a tennozan (a great victory) in order to provide a stronger bargaining position, firmly rejected konoe's recommendation.[32]
+with each passing week victory became less likely. in april the soviet union issued notice that it would not renew its neutrality agreement. japan's ally germany surrendered in early may 1945. in june, the cabinet reassessed the war strategy, only to decide more firmly than ever on a fight to the last man. this strategy was officially affirmed at a brief imperial council meeting, at which, as was normal, the emperor did not speak.
+the following day, lord keeper of the privy seal kōichi kido prepared a draft document which summarized the hopeless military situation and proposed a negotiated settlement. extremists in japan were also calling for a death-before-dishonor mass suicide, modeled on the "47 ronin" incident. by mid-june 1945, the cabinet had agreed to approach the soviet union to act as a mediator for a negotiated surrender, but not before japan's bargaining position had been improved by repulse of the anticipated allied invasion of mainland japan.
+on june 22, the emperor met with his ministers, saying "i desire that concrete plans to end the war, unhampered by existing policy, be speedily studied and that efforts be made to implement them." the attempt to negotiate a peace via the soviet union came to nothing. there was always the threat that extremists would carry out a coup or foment other violence. on july 26, 1945, the allies issued the potsdam declaration demanding unconditional surrender. the japanese government council, the big six, considered that option and recommended to the emperor that it be accepted only if one to four conditions were agreed upon, including a guarantee of the emperor's continued position in japanese society. the emperor decided not to surrender.
+that changed after the atomic bombings of hiroshima and nagasaki and the soviet declaration of war. on august 9, emperor hirohito told kōichi kido: "the soviet union has declared war and today began hostilities against us."[33] on august 10, the cabinet drafted an "imperial rescript ending the war" following the emperor's indications that the declaration did not compromise any demand which prejudiced the prerogatives of his majesty as a sovereign ruler.
+on august 12, 1945, the emperor informed the imperial family of his decision to surrender. one of his uncles, prince yasuhiko asaka, asked whether the war would be continued if the kokutai (national polity) could not be preserved. the emperor simply replied "of course."[34] on august 14, the suzuki government notified the allies that it had accepted the potsdam declaration.
+on august 15, a recording of the emperor's surrender speech ("gyokuon-hōsō", literally "jewel voice broadcast") was broadcast over the radio (the first time the emperor was heard on the radio by the japanese people) announcing japan's acceptance of the potsdam declaration. during the historic broadcast the emperor stated: "moreover, the enemy has begun to employ a new and most cruel bomb, the power of which to do damage is, indeed, incalculable, taking the toll of many innocent lives. should we continue to fight, not only would it result in an ultimate collapse and obliteration of the japanese nation, but also it would lead to the total extinction of human civilization." the speech also noted that "the war situation has developed not necessarily to japan's advantage" and ordered the japanese to "endure the unendurable". the speech, using formal, archaic japanese, was not readily understood by many commoners. according to historian richard storry in a history of modern japan, the emperor typically used "a form of language familiar only to the well-educated" and to the more traditional samurai families.[35]
+a faction of the army opposed to the surrender attempted a coup d'état on the evening of 14 august. they seized the imperial palace (the kyūjō incident), but the physical recording of the emperor's speech was hidden and preserved overnight. the coup was crushed by the next morning, and the speech was broadcast.
+in his first ever press conference given in tokyo in 1975, when he was asked what he thought of the bombing of hiroshima, the emperor answered: "it's very regrettable that nuclear bombs were dropped and i feel sorry for the citizens of hiroshima but it couldn't be helped because that happened in wartime" (shikata ga nai).[36]
+
+accountability for japanese war crimes
+some historians believe emperor hirohito was directly responsible for the atrocities committed by the imperial forces in the second sino-japanese war and in world war ii. they feel that he, and some members of the imperial family such as his brother prince chichibu, his cousins prince takeda and prince fushimi, and his uncles prince kan'in, prince asaka, and prince higashikuni, should have been tried for war crimes.[37][38]
+the debate over hirohito's responsibility for war crimes concerns how much real control the emperor had over the japanese military during the two wars. officially, the imperial constitution, adopted under emperor meiji, gave full power to the emperor. article 4 prescribed that, "the emperor is the head of the empire, combining in himself the rights of sovereignty, and exercises them, according to the provisions of the present constitution", while, according to article 6, "the emperor gives sanction to laws and orders them to be promulgated and executed", and article 11, "the emperor has the supreme command of the army and the navy." the emperor was thus the leader of the imperial general headquarters.[39]
+poison gas weapons, such as phosgene, were produced by unit 731 and authorized by specific orders given by hirohito himself, transmitted by the chief of staff of the army. for example, hirohito authorised the use of toxic gas 375 times during the battle of wuhan from august to october 1938.[3]
+historians such as herbert bix, akira fujiwara, peter wetzler, and akira yamada assert that the post-war view focusing on imperial conferences misses the importance of numerous "behind the chrysanthemum curtain" meetings where the real decisions were made between the emperor, his chiefs of staff, and the cabinet. historians such as fujiwara[40] and wetzler,[41] based on the primary sources and the monumental work of shirō hara,[b] have produced evidence suggesting that the emperor worked through intermediaries to exercise a great deal of control over the military and was neither bellicose nor a pacifist, but an opportunist who governed in a pluralistic decision-making process. american historian herbert p. bix argues that emperor hirohito might have been the prime mover of most of the events of the two wars.[38]
+the view promoted by both the japanese imperial palace and the american occupation forces immediately after world war ii portrayed emperor hirohito as a powerless figurehead behaving strictly according to protocol, while remaining at a distance from the decision-making processes. this view was endorsed by prime minister noboru takeshita in a speech on the day of hirohito's death, in which takeshita asserted that the war "had broken out against [hirohito's] wishes". takeshita's statement provoked outrage in nations in east asia and commonwealth nations such as the united kingdom, canada, australia, and new zealand.[42] according to historian fujiwara "the thesis that the emperor, as an organ of responsibility, could not reverse cabinet decision, is a myth fabricated after the war".[43]
+in japan, debate over the emperor's responsibility was taboo while he was still alive. after his death, however, debate began to surface over the extent of his involvement and thus his culpability.[42]
+in the years immediately after hirohito's death, the debate in japan was fierce. susan chira reported, "scholars who have spoken out against the late emperor have received threatening phone calls from japan's extremist right wing."[42] one example of actual violence occurred in 1990 when the mayor of nagasaki, hitoshi motoshima, was shot and critically wounded by a member of the ultranationalist group, seikijuku. a year before, in 1989, motoshima had broken what was characterized as "one of [japan's] most sensitive taboos" by asserting that emperor hirohito bore responsibility for world war ii.[44] motoshima recovered from the attack.
+kentarō awaya argues that post-war japanese public opinion supporting protection of the emperor was influenced by u.s. propaganda promoting the view that the emperor together with the japanese people had been fooled by the military.[45]
+
+postwar reign
+ gaetano faillace's photograph of general macarthur and the emperor at allied ghq in tokyo, september 27, 1945
+as the emperor chose his uncle prince higashikuni as prime minister to assist the occupation, there were attempts by numerous leaders to have him put on trial for alleged war crimes. many members of the imperial family, such as princes chichibu, takamatsu and higashikuni, pressured the emperor to abdicate so that one of the princes could serve as regent until crown prince akihito came of age.[46] on february 27, 1946, the emperor's youngest brother, prince mikasa (takahito), even stood up in the privy council and indirectly urged the emperor to step down and accept responsibility for japan's defeat. according to minister of welfare ashida's diary, "everyone seemed to ponder mikasa's words. never have i seen his majesty's face so pale."[47]
+u.s. general douglas macarthur insisted that emperor hirohito retain the throne. macarthur saw the emperor as a symbol of the continuity and cohesion of the japanese people. some historians criticize the decision to exonerate the emperor and all members of the imperial family who were implicated in the war, such as prince chichibu, prince asaka, prince higashikuni and prince hiroyasu fushimi, from criminal prosecutions.[48]
+before the war crime trials actually convened, the scap, its international prosecution section (ips) and japanese officials worked behind the scenes not only to prevent the imperial family from being indicted, but also to influence the testimony of the defendants to ensure that no one implicated the emperor. high officials in court circles and the japanese government collaborated with allied ghq in compiling lists of prospective war criminals, while the individuals arrested as class a suspects and incarcerated solemnly vowed to protect their sovereign against any possible taint of war responsibility.[49] thus, "months before the tokyo tribunal commenced, macarthur's highest subordinates were working to attribute ultimate responsibility for pearl harbor to hideki tōjō"[50] by allowing "the major criminal suspects to coordinate their stories so that the emperor would be spared from indictment".[51] according to john w. dower, "this successful campaign to absolve the emperor of war responsibility knew no bounds. hirohito was not merely presented as being innocent of any formal acts that might make him culpable to indictment as a war criminal, he was turned into an almost saintly figure who did not even bear moral responsibility for the war."[52] according to bix, "macarthur's truly extraordinary measures to save hirohito from trial as a war criminal had a lasting and profoundly distorting impact on japanese understanding of the lost war."[53]
+
+imperial status
+ emperor hirohito visiting hiroshima in 1947
+hirohito was not put on trial, but he was forced[54] to explicitly reject the quasi-official claim that the emperor of japan was an arahitogami, i.e., an incarnate divinity. this was motivated by the fact that, according to the japanese constitution of 1889, the emperor had a divine power over his country, which was derived from the shinto belief that the japanese imperial family was the offspring of the sun goddess amaterasu. hirohito was however persistent in the idea that the emperor of japan should be considered a descendant of the gods. in december 1945, he told his vice-grand-chamberlain michio kinoshita: "it is permissible to say that the idea that the japanese are descendants of the gods is a false conception; but it is absolutely impermissible to call chimerical the idea that the emperor is a descendant of the gods."[55] in any case, the "renunciation of divinity" was noted more by foreigners than by japanese, and seems to have been intended for the consumption of the former.[c] the theory of a constitutional monarchy had already had some proponents in japan. in 1935, when tatsukichi minobe advocated the theory that sovereignty resides in the state, of which the emperor is just an organ (the tennō kikan setsu), it caused a furor. he was forced to resign from the house of peers and his post at the tokyo imperial university, his books were banned and an attempt was made on his life.[56] not until 1946 was the tremendous step made to alter the emperor's title from "imperial sovereign" to "constitutional monarch".
+
+ the empress, first lady betty ford, the emperor, and president gerald ford at the white house before a state dinner held in honor of the japanese head of state for the first time. october 2, 1975.
+although the emperor had supposedly repudiated claims to divinity, his public position was deliberately left vague, partly because general macarthur thought him probable to be a useful partner to get the japanese to accept the occupation, and partly due to behind-the-scenes maneuverings by shigeru yoshida to thwart attempts to cast him as a european-style monarch.
+nevertheless, hirohito's status as a limited constitutional monarch status was formalized with the enactment of the 1947 constitution–officially, an amendment to the meiji constitution. it defined the emperor as "the symbol of the state and the unity of the people," and stripped him of even nominal power in government matters. his role was limited to matters of state as delineated in the constitution, and in most cases his actions in that realm were carried out in accordance with the binding instructions of the cabinet.
+
+ emperor hirohito and u.s. president ronald reagan, tokyo, november 9, 1983
+for the rest of his life, hirohito was an active figure in japanese life, and performed many of the duties commonly associated with a constitutional head of state. he and his family maintained a strong public presence, often holding public walkabouts, and making public appearances on special events and ceremonies. he also played an important role in rebuilding japan's diplomatic image, traveling abroad to meet with many foreign leaders, including queen elizabeth ii (1971) and president gerald ford (1975).
+his status and image became strongly positive in the united states.[57] however, partially as a result of intense economic rivalry between british and japanese manufacturers in the 1970s, the image of hirohito was widely seen as negative amid a growing racism against the japanese. during hirohito's 1971 visit to the uk, the satirical magazine private eye used a racist double entendre to refer to the emperor's visit ("nasty nip in the air").[58]
+following the iranian revolution and the end of the short-lived central african empire, both in 1979, hirohito found himself the last monarch in the world to bear any variation of the highest royal title "emperor". by pure coincidence he was also the longest-reigning monarch in the world[59] at by this time, which meant that he was ranked first in the diplomatic order of precedence, which distinguishes monarchs only by time in office and not by title.
+the emperor was deeply interested in and well-informed about marine biology, and the imperial palace contained a laboratory from which the emperor published several papers in the field under his personal name "hirohito".[60] his contributions included the description of several dozen species of hydrozoa new to science.[61]
+
+yasukuni shrine
+emperor hirohito maintained an official boycott of the yasukuni shrine after it was revealed to him that class-a war criminals had secretly been enshrined after its post-war rededication. this boycott lasted from 1978 until his death. this boycott has been maintained by his son akihito.
+on july 20, 2006, nihon keizai shimbun published a front-page article about the discovery of a memorandum detailing the reason that the emperor stopped visiting yasukuni. the memorandum, kept by former chief of imperial household agency tomohiko tomita, confirms for the first time that the enshrinement of 14 class-a war criminals in yasukuni was the reason for the boycott. tomita recorded in detail the contents of his conversations with the emperor in his diaries and notebooks. according to the memorandum, in 1988, the emperor expressed his strong displeasure at the decision made by yasukuni shrine to include class-a war criminals in the list of war dead honored there by saying, "at some point, class-a criminals became enshrined, including matsuoka and shiratori. i heard tsukuba acted cautiously." tsukuba is believed to refer to fujimaro tsukuba, the former chief yasukuni priest at the time, who decided not to enshrine the war criminals despite having received in 1966 the list of war dead compiled by the government. "what's on the mind of matsudaira's son, who is the current head priest?" "matsudaira had a strong wish for peace, but the child didn't know the parent's heart. that's why i have not visited the shrine since. this is my heart." matsudaira is believed to refer to yoshitami matsudaira, who was the grand steward of the imperial household immediately after the end of world war ii. his son, nagayoshi, succeeded fujimaro tsukuba as the chief priest of yasukuni and decided to enshrine the war criminals in 1978.[62] nagayoshi matsudaira died in 2006, which some commentators have speculated is the reason for release of the memo.
+
+death and state funeral
+main article: death and funeral of hirohito
+ hirohito's tomb in the musashi imperial graveyard, hachiōji, tokyo
+on september 22, 1987, the emperor underwent surgery on his pancreas after having digestive problems for several months. the doctors discovered that he had duodenal cancer. the emperor appeared to be making a full recovery for several months after the surgery. about a year later, however, on september 19, 1988, he collapsed in his palace, and his health worsened over the next several months as he suffered from continuous internal bleeding. on january 7, 1989, at 7:55 am, the grand steward of japan's imperial household agency, shoichi fujimori, officially announced the death of emperor hirohito, and revealed details about his cancer for the first time. hirohito was survived by his wife, his five surviving children, ten grandchildren and one great-grandchild.[8]
+at the time of his death he was both the longest-lived and longest-reigning historical japanese emperor, as well as the longest-reigning monarch in the world at that time. the latter distinction would pass to king bhumibol adulyadej of thailand.
+the emperor was succeeded by his son, the current emperor akihito, whose enthronement ceremony was held on november 12, 1990.
+the emperor's death ended the shōwa era. on the same day a new era began: the heisei era, effective at midnight the following day. from january 7, until january 31, the emperor's formal appellation was "departed emperor". his definitive posthumous name, shōwa tennō, was determined on january 13 and formally released on january 31 by toshiki kaifu, the prime minister.
+on february 24, emperor hirohito's state funeral was held, and unlike that of his predecessor, it was formal but not conducted in a strictly shinto manner. a large number of world leaders attended the funeral. emperor hirohito is buried in the musashi imperial graveyard in hachiōji, alongside emperor taishō, his father.
+
+titles, styles and honours
+this section needs additional citations for verification. please help improve this article by adding citations to reliable sources. unsourced material may be challenged and removed.find sources: "hirohito" – news · newspapers · books · scholar · jstor (december 2016) (learn how and when to remove this template message)
+styles ofemperor shōwareference stylehis majestyspoken styleyour majestyalternative stylesir
+29 april 1901 – 30 july 1912: his imperial highness the prince michi
+30 july 1912 – 25 december 1926: his imperial highness the crown prince
+29 november 1921 – 25 december 1926: his imperial highness the regent
+25 december 1926 – 7 january 1989: his majesty the emperor
+posthumous title: his majesty emperor shōwa
+military appointments
+second lieutenant, ija and second sub-lieutenant, ijn (9 september 1912)
+lieutenant, ija and sub-lieutenant, ijn (31 october 1914)
+captain, ija and lieutenant, ijn (31 october 1916)
+major, ija and lieutenant-commander, ijn (31 october 1920)
+lieutenant-colonel, ija and commander, ijn (31 october 1923)
+colonel, ija and captain, ijn (31 october 1924)
+grand marshal and supreme commander-in-chief of the empire of japan (25 december 1926; upon ascending the throne)[63]
+foreign military appointments
+ united kingdom : honorary general in the british army; appointed in may 1921[64][65]
+ united kingdom : field-marshal of regular army in the british army; appointed in june 1930.[66]
+national honours
+collar and grand cordon of the supreme order of the chrysanthemum
+grand cordon of the order of the rising sun with paulownia blossoms
+grand cordon of the order of the golden kite (abolished in 1947)
+grand cordon of the order of the sacred treasure
+foreign honours
+ emblem of hirohito as knight of the spanish branch of the order of the golden fleece
+ germany: grand cross special class of the order of merit of the federal republic of germany
+ finland: grand cross with collar of the order of the white rose of finland; conferred in 1942 (finland and japan were on the same side in world war ii 1941–1944), the swastika collar was replaced by fir cross collar within the state visit of the president of finland mauno koivisto in 1986
+ norway: grand cross with collar of the order of st. olav
+ sweden: knight of the royal order of the seraphim
+ denmark: knight of the order of the elephant
+ poland: knight of the order of the white eagle
+ thailand: the most auspicious order of the rajamitrabhorn
+   nepal: member of the order of ojaswi rajanya (19 april 1960)[67]
+ philippines: grand collar of the order of sikatuna (september 28, 1966)[68]
+ brazil: grand cross of the order of the southern cross
+ italy: knight grand cross with collar of the order of merit of the italian republic
+ belgium: grand cordon of the order of leopold (belgium)
+ tonga: knight grand cross with collar of the royal order of pouono[69]
+ united kingdom: honorary knight grand cross of the royal victorian order (gcvo) – conferred in may 1921
+ united kingdom: honorary knight grand cross of the order of the bath (gcb) – conferred in may 1921[70]
+ united kingdom: knight of the order of the garter (kg); conferred in 1929, revoked in 1941, restored in 1971[71]
+ united kingdom: elected a foreign member of the royal society (formemrs) in 1971[72]
+ brunei: 1st class of the order of the crown of brunei
+ spain: knight of the order of the golden fleece (6 october 1928)[73][74]
+ greece: grand cross of the order of the redeemer
+ greece: collar of the order of saints george and constantine
+issue
+
+issue
+
+
+name
+
+birth
+
+death
+
+marriage
+
+issue
+
+
+shigeko, princess teru
+
+december 6, 1925
+july 23, 1961
+october 10, 1943
+prince morihiro higashikuni
+prince nobuhiko higashikuniprincess fumiko higashikuninaohiko higashikunihidehiko higashikuniyūko higashikuni
+
+
+sachiko, princess hisa
+
+september 10, 1927
+march 6, 1928
+
+
+
+
+
+kazuko, princess taka
+
+september 30, 1929
+may 26, 1989[75]
+may 20, 1950
+toshimichi takatsukasa
+naotake takatsukasa (adopted)
+
+
+atsuko, princess yori
+
+march 7, 1931
+
+october 10, 1952
+takamasa ikeda
+
+
+
+akihito, emperor of japan
+
+december 23, 1933
+
+april 10, 1959
+michiko shōda
+naruhito, crown prince of japanfumihito, prince akishinosayako, princess nori
+
+
+masahito, prince hitachi
+
+november 28, 1935
+
+september 30, 1964
+hanako tsugaru
+
+
+
+takako, princess suga
+
+march 2, 1939
+
+march 10, 1960
+hisanaga shimazu
+yoshihisa shimazu
+
+ancestry
+[76]
+
+.mw-parser-output table.ahnentafel{border-collapse:separate;border-spacing:0;line-height:130%}.mw-parser-output .ahnentafel tr{text-align:center}.mw-parser-output .ahnentafel-t{border-top:#000 solid 1px;border-left:#000 solid 1px}.mw-parser-output .ahnentafel-b{border-bottom:#000 solid 1px;border-left:#000 solid 1px}ancestors of hirohito         16. ayahito, emperor ninkō (1800–1846)      8. osahito, emperor kōmei (1831–1867)         17. lady ōgimachi naoko (1803–1856)      4. mutsuhito, emperor meiji (1852–1912)           18. marquess nakayama tadayasu (1809–1888)      9. lady yoshiko nakayama (1836–1907)         19. matsura aiko (1818–1906)      2. yoshihito, emperor taishō (1879–1926)             20. yanagihara takamitsu (1793–1851)      10. yanagihara mitsunaru (1818–1885)         21. ōgimachisanjō noriko (1797–1859)      5. lady yanagihara naruko (1859–1943)           22. hasegawa yukiaki      11. utano hasegawa (1832–1891)                1. hirohito, emperor shōwa              24. nijō harutaka (1754–1826)      12. regent kujō hisatada (1798–1871)         25. higuchi nobuko (1751–1845)      6. prince kujō michitaka (1839–1906)           26. matsuumein zenyasushi      13. lady karahashi meiko (1796–1881)                3. sadako, empress teimei (1884–1951)                    14. noma yorioki                7. noma ikuko                  15. yamokushi kairi                    
+scientific publications
+(1967) a review of the hydroids of the family clathrozonidae with description of a new genus and species from japan.[77]
+(1969) some hydroids from the amakusa islands.[78]
+(1971) additional notes on clathrozoon wilsoni spencer.[79]
+(1974) some hydrozoans of the bonin islands[80]
+(1977) five hydroid species from the gulf of aqaba, red sea.[81]
+(1983) hydroids from izu oshima and nijima.[82]
+(1984) a new hydroid hydractinia bayeri n. sp. (family hydractiniidae) from the bay of panama.[83]
+(1988) the hydroids of sagami bay collected by his majesty the emperor of japan.[84]
+(1995) the hydroids of sagami bay ii. (posthumous)[85]
+see also
+empire of japan
+japanese nationalism
+list of emperors of japan
+jewel voice broadcast – "gyokuon-hōsō"
+otoya yamaguchi
+the sun – a biographical film about the emperor
+notes
+
+
+^ /ˌhɪəroʊˈhiːtoʊ/[1]
+
+^ former member of section 20 of war operations of the army high command, hara has made a detailed study of the way military decisions were made, including the emperor's involvement published in five volumes in 1973–74 under the title daihon'ei senshi; daitōa sensō kaisen gaishi; kaisen ni itaru seisentyaku shidō (imperial headquarters war history; general history of beginning hostilities in the greater east asia war; leadership and political strategy with respect to the beginning of hostilities).
+
+^ many foreigners, including those from the occupying power, were from western countries steeped in monotheistic abrahamic traditions.
+
+
+references
+citations
+
+
+^ "hirohito". collins english dictionary.
+
+^ northedge, frederick s. (1986). the league of nations: its life and times, 1920–1946. new york: holmes & meier. pp. 42–48. isbn 978-0841910652..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ a b yoshimi, yoshiaki; matsuno, seiya (1997). dokugasusen kankei shiryō ii (毒ガス戦関係資料. ii), kaisetsu. jugonen sensō gokuhi shiryoshu (十五年戦争極秘資料集). tōkyō: fuji shuppan. pp. 27–29.
+
+^ maddison, angus, contours of the world economy, 1–2030 ad. 2007, p. 379, table a.4.
+
+^ ponsonby-fane, richard. (1959). the imperial house of japan, p. 337.
+
+^ bix, herbert p. (2001). hirohito and the making of modern japan (book) (1st perennial ed.). new york: perennial. pp. 22–23. isbn 978-0060931308.
+
+^ ponsonby-fane, p. 338; 'see file:crowd awaiting crown prince tokyo dec1916.jpg, new york times. december 3, 1916.
+
+^ a b "hirohito's survivors". latimes.com. retrieved 2016-12-03.
+
+^ a b varley, h. paul, ed. (1980). jinnō shōtōki ("a chronicle of gods and sovereigns: jinnō shōtōki of kitabatake chikafusa" translated by h. paul varley), p. 44. [a distinct act of senso is unrecognized prior to emperor tenji; and all sovereigns except jitō, yōzei, go-toba, and fushimi have senso and sokui in the same year until the reign of go-murakami;] ponsonby-fane, p. 350.
+
+^ ponsonby-fane, p. 349.
+
+^ ponsonby-fane, pp. 136–137.
+
+^ mikiso hane, emperor hirohito and his chief aide-de-camp, the honjō diary, 1983; honjō nikki, hara shobō, 1975.
+
+^ wakabayashi, bob tadashi (1991). "emperor hirohito on localized aggression in china" (pdf). sino-japanese studies. 4 (1): 4–27.
+
+^ fujiwara, nitchū sensō ni okeru horyo gyakusatsu, kikan sensō sekinin kenkyū 9, 1995, pp. 20-21.
+
+^ dokugasusen kankei shiryō ii, kaisetsu, 1997, pp. 25–29.
+
+^ dokugasusen kankei shiryō ii, kaisetsu, 1997, p. 28.
+
+^ hidenari, pp. 106–108, wetzler, pp. 25, 231.
+
+^ bix, herbert p. (2001). hirohito and the making of modern japan. harper collins. pp. 411, 745. isbn 9780060931308.
+
+^ macarthur. "chapter iii: politico-military evolution toward war". www.history.army.mil. retrieved september 17, 2016.
+
+^ "historical events today: 1867 – prince mutsuhito, 14, becomes emperor meiji of japan (1867–1912)". this-is-japan.com. july 22, 2002. archived from the original on december 29, 2016. retrieved december  3, 2016.
+
+^ wetzler, pp. 52–54.
+
+^ fujiwara, shōwa tennō no jūgo-nen sensō, 1991, p. 126, citing kenji tomita's diary.
+
+^ hidenari, p. 118.
+
+^ bix, p. 421; wetzler, pp. 47–50.
+
+^ day of deceit, robert b. stinnett, new york, 2000, p. 143.
+
+^ wetzler, pp. 29, 35.
+
+^ yamada, pp. 180, 181, 185; fujiwara, pp. 135–138.
+
+^ akamatsu's diary, in wetzler, p. 50.
+
+^ bix, p. 466, citing the sugiyama memo, p. 24.
+
+^ yamada, pp. 240–242.
+
+^ bix, p. 756.
+
+^ fujita hisanori, jijûchô no kaisô, chûô kôronsha, 1987, pp. 66–67, bix, p. 489.
+
+^ kido kōichi nikki, p. 1223.
+
+^ hidenari, p. 129.
+
+^ storry, richard (1991). a history of modern japan. penguin.
+
+^ bix, p. 676; dower, p. 606.
+
+^ dower.
+
+^ a b bix.
+
+^ "the constitution of the empire of japan(1889)".
+
+^ fujiwara, akira (1991). shōwa tennō no jū-go nen sensō (the shōwa emperor fifteen years war).
+
+^ wetzler.
+
+^ a b c chira, susan (january 22, 1989). "post-hirohito, japan debates his war role". new york times. retrieved 2009-04-10.
+
+^ shōwa tennō no jū-go nen sensō, aoki shoten, 1991, p. 122.
+
+^ sanger, david (january 19, 1990). "mayor who faulted hirohito is shot". new york times. retrieved 2009-04-10.
+
+^ 
+awaya, kentarō. "the tokyo tribunal, war responsibility and the japanese people". japan focus. timothy amos trans. the asia-pacific journal. retrieved 2009-04-10.
+
+^ bix, pp. 571–573.
+
+^ ashida hitoshi nikki, dai ikkan, iwanami shoten, 1986, p. 82.
+
+^ dower, bix.
+
+^ dower, p. 325.
+
+^ dower, p. 585.
+
+^ dower, p. 583.
+
+^ dower, p. 326.
+
+^ bix, p. 585.
+
+^ dower 1999, p. 308–318.
+
+^ wetzler, p. 3.
+
+^ large, stephen s.; emperor hirohito and showa japan: a political biography, p. 60; routledge, 1992.
+
+^ brands, hal (2006). "the emperor's new clothes: american viewsof hirohito after world war ii". historian. 68 (1): 1–28. doi:10.1111/j.1540-6563.2006.00133.x.
+
+^ popham, peter (15 may 1996). "a love affair at work turns sour". the independent. retrieved 15 september 2018.
+
+^ https://www.nytimes.com/1989/05/21/magazine/king-bhumibol-s-reign.html
+
+^ "the brief career of the emperor showa (imperial household agency, japanese)". kunaicho.go.jp. retrieved 2010-10-03.
+
+^ "hydrozoa taxon list". world hydrozoa database. retrieved 2016-01-06.
+
+^ "hirohito visits to yasukuni stopped over war criminals | the japan times online". search.japantimes.co.jp. retrieved 2010-10-03.
+
+^ "chapter v: the imperial court – the imperial house and the reigning sovereign," pg 46. the japan-manchoukuo year book 1938, the japan-manchoukuo year book co., tokyo.
+
+^ "no. 32324". the london gazette (supplement). 13 may 1921. p. 3917.
+
+^ "no. 32317". the london gazette (supplement). 9 may 1921. p. 3737.
+
+^ "no. 33619". the london gazette. 27 june 1930. p. 4028.
+
+^ omsa.org
+
+^ govph. "the order of sikatuna". official gazette of the republic of the philippines. retrieved 2016-12-03.
+
+^ wearing the order ribbon bar on his left chest
+
+^ "no. 32318". the london gazette (supplement). 9 may 1921. p. 3747.
+
+^ "britain wanted limited restoration of royal family's honors", japan policy & politics. january 7, 2002.
+
+^ corner, e. j. h. (1990). "his majesty emperor hirohito of japan, k. g. 29 april 1901-7 january 1989". biographical memoirs of fellows of the royal society. 36: 242–272. doi:10.1098/rsbm.1990.0032.
+
+^ "boletín oficial del estado" (pdf). retrieved 2016-12-03.
+
+^ naval history: hirohito showa.
+
+^ "kazuko takatsukasa, hirohito daughter, 59". the new york times. may 27, 1989. retrieved december 25, 2016.
+
+^ "genealogy". reichsarchiv. retrieved 24 october 2017. (in japanese)
+
+^ "a review of the hydroids of the family clathrozonidae with description of a new genus and species from japan". hathi trust digital library. retrieved 25 december 2016.
+
+^ "some hydroids from the amakusa islands". hathi trust digital library. retrieved 25 december 2016.
+
+^ "additional notes on clathrozoon wilsoni spencer / by hirohito, emperor of japan". hathi trust digital library. retrieved 25 december 2016.
+
+^ "some hydrozoans of the bonin islands". stanford university libraries.
+
+^ "five hydroid species from the gulf of aqaba, red sea / by hirohito". hathi trust digital library. retrieved 25 december 2016.
+
+^ "hydroids from izu ôshima and niijima". world cat. retrieved 25 december 2016.
+
+^ "a new hydroid hydractinia bayeri n.sp. (family hydractiniidae) from the bay of panama". stanford university libraries. retrieved 25 december 2016.
+
+^ "the hydroids of sagami bay / by hirohito, emperor of japan". national library of australia. retrieved 25 december 2016.
+
+^ "the hydroids of sagami bay. ii, thecata". world cat. retrieved 25 december 2016.
+
+
+sources
+external video presentation by herbert bix on hirohito and the making of modern japan, september 15, 2000 booknotes interview with herbert bix on hirohito and the making of modern japan, september 2, 2001, c-span presentation by john dower on embracing defeat, april 1, 1999, c-span booknotes interview with john dower on embracing defeat, march 26, 2000, c-span
+.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}
+behr, edward (1989). hirohito: behind the myth. new york: villard. isbn 9780394580722. a controversial book that posited hirohito as a more active protagonist of world war ii than publicly portrayed; it contributed to the re-appraisal of his role.
+herbert p. bix (2000). hirohito and the making of modern japan. harper. isbn 978-0-06-019314-0. winner of the 2001 pulitzer prize for general non-fiction and the 2000 national book critics circle award for biography.
+dower, john w. embracing defeat: japan in the aftermath of world war ii, w. w. norton and company, 1999. – 'a superb history of japan's occupation' (ian buruma, the new york review of books). winner of the 2000 pulitzer prize for general non-fiction and the 1999 us national book award.
+drea, edward j. (1998). "chasing a decisive victory: emperor hirohito and japan's war with the west (1941–1945)". in the service of the emperor: essays on the imperial japanese army. nebraska: university of nebraska press. isbn 978-0-8032-1708-9. online at questia
+fujiwara, akira, shōwa tennō no jū-go nen sensō (shōwa emperor's fifteen-year war), aoki shoten, 1991. isbn 4-250-91043-1 (based on the primary sources)
+hidenari, terasaki shōwa tennō dokuhakuroku, bungei shūnjusha, 1991
+edwin palmer hoyt (1992). hirohito: the emperor and the man. praeger publishers. isbn 978-0-275-94069-0.
+toshiaki kawahara (1990). hirohito and his times: a japanese perspective. kodansha america. isbn 978-0-87011-979-8.
+laquerre, paul-yanic showa: chronicles of a fallen god, isbn 978-1729431597 asin: b00h6w4tyi
+mosley, leonard hirohito, emperor of japan, prentice-hall, englewood cliffs, 1966. isbn 1-111-75539-6 isbn 1-199-99760-9, the first full-length biography, it gives his basic story.
+richard arthur brabazon ponsonby-fane (1959). the imperial house of japan. ponsonby memorial society.
+wetzler, peter (1998). hirohito and war: imperial tradition and military decision making in prewar japan. university of hawaii press. isbn 978-0-8248-1925-5.
+
+external links
+ quotations related to hirohito at wikiquote
+ media related to shōwa emperor at wikimedia commons
+emperor shōwa and empress kōjun at the imperial household agency website
+reflections on emperor hirohito's death
+hirohito on imdb 
+newspaper clippings about  hirohito in the 20th century press archives of the german national library of economics (zbw)
+
+
+hirohito imperial house of japanborn: 29 april 1901 died: 7 january 1989
+
+
+regnal titles
+
+
+preceded byemperor taishō(yoshihito)
+
+ emperor of japan25 december 1926 – 7 january 1989
+
+succeeded byemperor akihito
+
+
+vtejapanese monarchslegendaryjōmon660 bc–291 bc
+jimmu
+suizei
+annei
+itoku
+kōshō
+kōan
+yayoi290 bc–269 ad
+kōrei
+kōgen
+kaika
+sujin
+suinin
+keikō
+seimu
+chūai
+jingū*
+yamatokofun269–539
+ōjin
+nintoku
+richū
+hanzei
+ingyō
+ankō
+yūryaku
+seinei
+kenzō
+ninken
+buretsu
+keitai
+ankan
+senka
+asuka539–710
+kinmei
+bidatsu
+yōmei
+sushun
+suiko
+jomei
+kōgyoku
+kōtoku
+saimei
+tenji
+kōbun
+tenmu
+jitō
+monmu
+genmei
+nara710–794
+genmei
+genshō
+shōmu
+kōken
+junnin
+shōtoku
+kōnin
+kanmu
+heian794–1185
+kanmu
+heizei
+saga
+junna
+ninmyō
+montoku
+seiwa
+yōzei
+kōkō
+uda
+daigo
+suzaku
+murakami
+reizei
+en'yū
+kazan
+ichijō
+sanjō
+go-ichijō
+go-suzaku
+go-reizei
+go-sanjō
+shirakawa
+horikawa
+toba
+sutoku
+konoe
+go-shirakawa
+nijō
+rokujō
+takakura
+antoku
+go-toba
+kamakura1185–1333
+go-toba
+tsuchimikado
+juntoku
+chūkyō
+go-horikawa
+shijō
+go-saga
+go-fukakusa
+kameyama
+go-uda
+fushimi
+go-fushimi
+go-nijō
+hanazono
+go-daigo
+northern court1333–1392
+kōgon
+kōmyō
+sukō
+go-kōgon
+go-en'yū
+go-komatsu
+muromachi1333–1573
+go-murakami
+chōkei
+go-kameyama
+go-komatsu
+shōkō
+go-hanazono
+go-tsuchimikado
+go-kashiwabara
+go-nara
+ōgimachi
+azuchi-momoyama1573–1603
+ōgimachi
+go-yōzei
+edo1603–1868
+go-yōzei
+go-mizunoo
+meishō
+go-kōmyō
+go-sai
+reigen
+higashiyama
+nakamikado
+sakuramachi
+momozono
+go-sakuramachi
+go-momozono
+kōkaku
+ninkō
+kōmei
+meiji
+empire of japan1868–1947
+meiji
+taishō
+shōwa
+post-war japan1947–now
+shōwa
+akihito (reigning emperor)
+unless otherwise noted (as bc), years are in ce / ad  * imperial consort and regent empress jingū is not traditionally listed.
+
+
+imperial family tree
+imperial house
+
+ list
+ category
+ book
+
+
+
+
+
+vtejapanese princesthe generations indicate descent from emperor meiji, who founded the empire of japan.1st generation
+yukihito, prince take (ja)
+yoshihito, emperor taishō
+michihito, prince aki (ja)
+teruhito, prince mitsu (ja)
+2nd generation
+hirohito, emperor shōwa
+yasuhito, prince chichibu
+nobuhito, prince takamatsu
+takahito, prince mikasa
+3rd generation
+emperor akihito
+masahito, prince hitachi
+prince tomohito of mikasa
+yoshihito, prince katsura
+norihito, prince takamado
+4th generation
+crown prince naruhito
+fumihito, prince akishino
+5th generation
+prince hisahito of akishino
+
+vte empire of japanoverview
+agriculture
+censorship
+demographics
+economy
+economic history
+education
+eugenics
+foreign commerce and shipping
+industrial production
+militarism
+nationalism
+statism
+internal politics
+state shinto
+kazoku
+emperors
+meiji (mutsuhito)
+taishō (yoshihito)
+shōwa (hirohito)
+symbols
+flag of japan
+rising sun flag
+imperial seal of japan
+government seal of japan
+state seal of japan
+privy seal of japan
+kimigayo
+policies
+constitution
+charter oath
+foreign relations
+imperial rescript on education
+imperial rule assistance association
+kokutai
+mokusatsu
+national spiritual mobilization movement
+peace preservation law
+political parties
+supreme court of judicature
+tokkō
+tonarigumi
+greater east asia conference
+governmentadministration (ministries)
+imperial household
+home ministry
+war
+army
+navy
+treasury
+foreign affairs
+agriculture and commerce
+commerce and industry
+munitions
+colonial affairs
+greater east asia
+east asia development board (kōain)
+legislative & deliberative bodies
+daijō-kan
+privy council
+gozen kaigi
+imperial diet
+peers
+representatives
+militaryarmed forces
+imperial general headquarters
+imperial japanese army general staff office
+imperial japanese navy general staff
+imperial rescript to soldiers and sailors
+senjinkun military code
+nuclear weapons program
+kamikaze
+war crimes
+supreme war council
+imperial japanese army
+general staff
+air service
+railways and shipping
+imperial guard
+imperial way faction (kōdōha)
+japanese holdout
+tōseiha
+kenpeitai
+imperial japanese navy
+general staff
+air service
+land forces
+fleet faction
+treaty faction
+historymeiji period
+meiji restoration
+boshin war
+satsuma rebellion
+first sino-japanese war
+triple intervention
+boxer rebellion
+anglo-japanese alliance
+russo-japanese war
+taishō period
+world war i
+siberian intervention
+general election law
+washington naval treaty
+shōwa period
+shōwa financial crisis
+jinan incident
+london naval treaty
+pacification of manchukuo
+january 28 incident
+anti-comintern pact
+second sino-japanese war
+soviet–japanese border conflicts
+tripartite pact
+soviet–japanese neutrality pact
+pacific war
+atomic bombings of hiroshima and nagasaki
+soviet–japanese war
+surrender (potsdam declaration, jewel voice broadcast)
+occupation
+territoriesgreater east asiaco-prosperity sphere
+karafuto
+korea
+kwantung
+manchukuo
+south pacific
+taiwan
+occupied territories
+borneo
+burma
+french indochina
+dutch east indies
+hong kong
+malaya
+philippines
+singapore
+thailand
+other topics
+sonnō jōi
+fukoku kyōhei
+hakkō ichiu
+internment camps
+german pre–world war ii industrial co-operation
+racial equality proposal
+shinmin no michi
+shōwa modan
+socialist thought
+yasukuni shrine
+international military tribunal for the far east
+japanese dissidence during the early shōwa period
+
+authority control 
+bnf: cb121170893 (data)
+cinii: da01476458
+gnd: 118639641
+isni: 0000 0001 2142 6121
+lccn: n80056896
+nara: 10580638
+ndl: 00083479
+nkc: jn20000700719
+nla: 35197084
+selibr: 318747
+snac: w6jd62p0
+sudoc: 029573629
+viaf: 87910387
+ worldcat identities (via viaf): 87910387
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=hirohito&oldid=883870511"					
+categories: hirohitojapanese emperorsshōwa period1901 births1989 deathspeople of shōwa-period japanjapanese anti-communistsjapanese marine biologistsjapanese people of world war iijapanese shintoistsjapanese zoologistsjapanese fascistsfascist rulerspeople from tokyoregents of japansesshō and kampakuworld war ii political leadersdeaths from cancer in japandeaths from small intestine cancerbritish field marshalsextra knights companion of the garterfellows of the royal society (statute 12)knights of the golden fleeceknights of the order of the rajamitrabhornrecipients of the order of the rising sun with paulownia flowersrecipients of the order of the sacred treasure, 1st classrecipients of the order of cultureknights grand cross with collar of the order of merit of the italian republicgrand collars of the order of sikatuna20th-century zoologists20th-century japanese monarchsgrand crosses special class of the order of merit of the federal republic of germanyrecipients of the silver world awardhidden categories: articles containing japanese-language textcs1: julian–gregorian uncertaintypages containing london gazette template with parameter supp set to yarticles with japanese-language external linkswikipedia indefinitely semi-protected pagesuse mdy dates from january 2013all articles with unsourced statementsarticles with unsourced statements from december 2017all articles with specifically marked weasel-worded phrasesarticles with specifically marked weasel-worded phrases from november 2014articles needing additional references from december 2017all articles needing additional referencesarticles needing additional references from december 2016pages using deprecated image syntaxcommons category link is on wikidatawikipedia articles with bnf identifierswikipedia articles with cinii identifierswikipedia articles with gnd identifierswikipedia articles with isni identifierswikipedia articles with lccn identifierswikipedia articles with nara identifierswikipedia articles with ndl identifierswikipedia articles with nkc identifierswikipedia articles with nla identifierswikipedia articles with selibr identifierswikipedia articles with snac-id identifierswikipedia articles with sudoc identifierswikipedia articles with viaf identifierswikipedia articles with worldcat-viaf identifiers 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readview sourceview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commonswikispecieswikiquotewikisource 
+
+
+
+languages
+
+
+afrikaansአማርኛالعربيةaragonésasturianuazərbaycancaتۆرکجهবাংলাbân-lâm-gúбашҡортсабеларускаябеларуская (тарашкевіца)‎българскиboarischབོད་ཡིགbosanskibrezhonegcatalàcebuanočeštinacymraegdanskdeutscheestiελληνικάespañolesperantoeuskaraفارسیfrançaisfryskgaeilgegalego客家語/hak-kâ-ngî한국어հայերենहिन्दीhrvatskiidobahasa indonesiaíslenskaitalianoעבריתbasa jawakabɩyɛಕನ್ನಡქართულიқазақшаkernowekkiswahilikurdîкыргызчаlatinalatviešulëtzebuergeschlietuviųlumbaartmagyarमैथिलीмакедонскиmalagasyമലയാളംmaltiमराठीمصرىbahasa melayumìng-dĕ̤ng-ngṳ̄mirandésмонголမြန်မာဘာသာnederlandsनेपालीनेपाल भाषा日本語norsknorsk nynorskਪੰਜਾਬੀpiemontèisplattdüütschpolskiportuguêsromânăruna simiрусскийसंस्कृतम्scotsshqipsicilianusimple englishslovenčinaslovenščinaсрпски / srpskisrpskohrvatski / српскохрватскиbasa sundasuomisvenskatagalogதமிழ்татарча/tatarçaไทยтоҷикӣtürkçeукраїнськаاردوtiếng việtvolapükvõro文言winarayייִדישyorùbá粵語žemaitėška中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 18 february 2019, at 03:49 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"1.612","walltime":"2.095","ppvisitednodes":{"value":10905,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":337677,"limit":2097152},"templateargumentsize":{"value":23672,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":22,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":144931,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00% 1668.554      1 -total"," 33.88%  565.230      2 template:reflist"," 14.09%  235.136     24 template:navbox"," 13.76%  229.574      3 template:infobox"," 13.56%  226.268      1 template:infobox_royalty"," 10.20%  170.221      1 template:ja_icon"," 10.06%  167.833      1 template:link_language","  9.35%  155.951     13 template:cite_book","  7.23%  120.674      4 template:br_separated_entries","  6.17%  102.930      1 template:emperors_of_japan"]},"scribunto":{"limitreport-timeusage":{"value":"0.760","limit":"10.000"},"limitreport-memusage":{"value":21700291,"limit":52428800}},"cachereport":{"origin":"mw1324","timestamp":"20190219095727","ttl":86400,"transientcontent":true}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"hirohito","url":"https:\/\/en.wikipedia.org\/wiki\/hirohito","sameas":"http:\/\/www.wikidata.org\/entity\/q34479","mainentity":"http:\/\/www.wikidata.org\/entity\/q34479","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2001-12-18t15:57:35z","datemodified":"2019-02-18t03:49:15z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/bc\/hirohito_in_dress_uniform_%28cropped%29.jpg","headline":"emperor of japan from 1926 until 1989"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":137,"wghostname":"mw1266"});});
+
+

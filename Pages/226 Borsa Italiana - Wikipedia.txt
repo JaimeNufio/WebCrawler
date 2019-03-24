@@ -1,0 +1,798 @@
+
+
+
+
+borsa italiana - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"borsa_italiana","wgtitle":"borsa italiana","wgcurrevisionid":870664550,"wgrevisionid":870664550,"wgarticleid":2775773,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["all articles with dead external links","articles with dead external links from april 2010","articles with dead external links from september 2018","articles with permanently dead external links","pages using deprecated image syntax","official website different in wikidata and wikipedia","articles with dead external links from july 2017","1808 establishments in italy","economy of milan","finance in italy","organizations established in 1808","stock exchanges in europe","london stock exchange"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"borsa_italiana","wgrelevantarticleid":2775773,"wgrequestid":"xgnazwpamewaagbchccaaacl","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfexpandallsectionsuseroption":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q936563","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+borsa italiana 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+borsa italiatypestock exchangelocationmilan, italyfounded1808; 211 years ago (1808)ownerlondon stock exchange groupkey peopleandrea sironi (chairman)raffaele jerusalmi (ceo)currencyeurno. of listings353market capeur[1] (2017) € billion 2,370.00 ($ billion 2,960.00)volumeus$738 billionindicesftse mibftse italia all-shareftse italia mid capftse italia small capftse aim italiawebsiteofficial website
+borsa italiana s.p.a., based in milan, is italy's only stock exchange. it manages and organises domestic market, regulating procedures for admission and listing of companies and intermediaries and supervising disclosures for listed companies.[2]
+following exchange privatisation in 1997, the company was established and became effective since 2 january 1998.[3] it is now a subsidiary of the london stock exchange group plc since 23 june 2007.[4]
+in 2015, overall capitalisation for listed company on borsa italiana was worth €567.2 billion, representing 34.8% of italian gdp.[5]
+borsa italiana is also informally known as piazza affari ("business square"), after the city square of milan where its headquarters (the palazzo mezzanotte building) is located.
+borsa italiana is chaired by andrea sironi while raffaele jerusalmi serves as ceo. the two, moreover,   members of the board of directors of london stock exchange group.[6]
+the correct trading in borsa italiana is controlled by the statal agency of the ministry of treasury commissione nazionale per le società e la borsa  (co.n.so.b.) based in rome.
+
+contents
+
+1 history
+2 operations
+3 trading hours
+4 markets
+5 indices
+6 listed companies
+7 see also
+8 references
+9 external links
+
+
+history[edit]
+the borsa di commercio di milano (milan stock exchange) was established by eugène de beauharnais, viceroy of the napoleonic kingdom of italy, through decrees dated 16 january and 6 february 1808.[7] it operated under public ownership until 1998, when it was privatized.[8]
+in italy until 1997 operated also other smaller stocks exchanges based in several cities of italy such as turin, trieste, venice, genoa, florence, bologna, rome, naples, and palermo. in 1991 the electronic exchanges were approved and in 1994 the market with grida (a,b,c) was abolished. in milan were also the currencies exchange rates fixing and the commodities fixing. [9]
+on 1 october 2007, borsa italiana was merged with the london stock exchange in an all-share takeover,[10] thus becoming part of the london stock exchange group. in march 2016, the london stock exchange group announced the agreement to merge in an all-stock deal with deutsche borse.[11]
+
+operations[edit]
+borsa italiana acts as a market management firm operating with autonomy and flexibility. it organises and manages the domestic stock market along with italian and international brokers through fully electronic trading system. among its leading tasks, borsa italiana supervises listed companies, defining rules for admission and listings and supervising transaction activities.[12]
+
+trading hours[edit]
+the exchange has pre-market sessions from 08:00am to 09:00am, normal trading sessions from 09:00am to 05:30pm and post-market sessions from 06:00pm to 08:30pm on all days of the week except saturdays, sundays and holidays declared by the exchange in advance.[13]
+
+markets[edit]
+major trading markets for borsa italiana are:
+
+mta, the leading equity market, which is devoted to mid and large-size companies. it includes two segments: star, for mid-sized firms, and mta international, on which shares from non-italian issuers already listed on other european markets are traded;[14]
+aim italia, which collects stocks by small and medium high-growth companies;[15]
+miv  (market for investment vehicles), on which retail and professional investors operates on investment vehicles which have a defined strategic vision;[16]
+borsa italiana also include markets for derivatives (idem),[17] etf (etfplus) and bonds (mot).[18]
+
+indices[edit]
+further information: ftse mib
+borsa italiana's main indices are:[19]
+
+ftse italia all share
+ftse mib, a capitalisation-weighted index of 40 of the biggest companies chosen to represent 10 economic sectors, created in 2009[20]
+ftse italia mid cap
+ftse italia small cap
+listed companies[edit]
+for a full list see category:companies listed on the borsa italiana.
+
+see also[edit]
+
+
+business and economics portal
+italy portal
+list of stock exchanges
+economy of italy
+
+references[edit]
+notes
+
+
+
+^ "borsa in tempo reale - listino completo - milanofinanza.it". www.milanofinanza.it. retrieved 4 april 2018..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ italy24.ilsole4ore.com, "borsa italiana"
+
+^ source sense.com, "borsa italiana"
+
+^ news.bbc.co.uk, "london stock exchange buys borsa"
+
+^ borsaitaliana.it, "2015 highlights"
+
+^ lseg.com, "board"
+
+^  www.historytour.it, "history tour – borsa italiana"
+
+^ "historical stages". borsa italiana.[dead link]
+
+^ "24 dicembre 1802: viene istituita la borsa valori di roma -". parmadaily.it. 24 december 2016. retrieved 4 april 2018.
+
+^ "borsa italiana and london stock exchange combine (archived 20.11.2007)". archived from the original on november 20, 2007.
+
+^ competitionpolicyinternational.com, "eu: lse and deutsche börse officially announce merger"
+
+^ borsaitaliana.it, "eu: lse and deutsche börse officially announce merger[permanent dead link]"
+
+^ market hours, italian stock exchange via wikinvest
+
+^ lseg.com, "mta "
+
+^ lseg.com, "aim italia"
+
+^ lseg.com, "miv: trading "
+
+^ lseg.com, 'idem equity "
+
+^ lseg.com, "mot "
+
+^ borsaitaliana.it, "gli indici"
+
+^ strategystocks.co.uk, "milan stock exchange: the italian index "
+
+
+external links[edit]
+borsa italiana[permanent dead link] mib30 index methodology
+vtefinancial marketstypes of markets
+primary market
+secondary market
+third market
+fourth market
+types of stocks
+common stock
+golden share
+preferred stock
+restricted stock
+tracking stock
+share capital
+authorised capital
+issued shares
+shares outstanding
+treasury stock
+participants
+broker-dealer
+day trader
+floor broker
+floor trader
+investor
+market maker
+proprietary trader
+quantitative analyst
+financial law
+regulator
+stock trader
+exchanges
+electronic communication network
+list of stock exchanges
+trading hours
+multilateral trading facility
+over-the-counter
+stock valuation
+alpha
+arbitrage pricing theory
+beta
+bid–ask spread
+book value
+capital asset pricing model
+capital market line
+dividend discount model
+dividend yield
+earnings per share
+earnings yield
+net asset value
+security characteristic line
+security market line
+t-model
+trading theories and strategies
+algorithmic trading
+buy and hold
+contrarian investing
+day trading
+dollar cost averaging
+efficient-market hypothesis
+fundamental analysis
+growth stock
+market timing
+modern portfolio theory
+momentum investing
+mosaic theory
+pairs trade
+post-modern portfolio theory
+random walk hypothesis
+sector rotation
+style investing
+swing trading
+technical analysis
+trend following
+value averaging
+value investing
+related terms
+block trade
+cross listing
+dark pool
+dividend
+dual-listed company
+dupont analysis
+efficient frontier
+flight-to-quality
+haircut
+initial public offering
+long
+margin
+market anomaly
+market capitalization
+market depth
+market manipulation
+market trend
+mean reversion
+momentum
+open outcry
+position
+public float
+public offering
+rally
+returns-based style analysis
+reverse stock split
+share repurchase
+short selling
+slippage
+speculation
+stock dilution
+stock market index
+stock split
+trade
+uptick rule
+volatility
+voting interest
+yield
+clientevteworld federation of exchangesmembers
+abu dhabi securities exchange
+amman stock exchange
+athens stock exchange
+australian securities exchange
+bahrain bourse
+bats global markets
+bermuda stock exchange
+bm&f bovespa
+bme spanish exchanges
+bolsa de comercio de buenos aires
+bolsa de comercio de santiago
+bolsa de valores de colombia
+bolsa de valores de lima
+bolsa mexicana de valores
+borsa istanbul
+bourse de casablanca
+bse india limited
+bulgarian stock exchange – sofia
+bursa malaysia
+cboe holdings
+china financial futures exchange
+cme group
+colombo stock exchange
+cyprus stock exchange
+dalian commodity exchange
+deutsche börse
+dubai financial market
+egyptian exchange
+euronext
+ho chi minh city stock exchange
+hong kong exchanges and clearing
+indonesia stock exchange
+intercontinental exchange
+international securities exchange
+japan exchange group
+jse limited
+kazakhstan stock exchange
+korea exchange
+luxembourg stock exchange
+malta stock exchange
+moscow exchange
+muscat securities market
+nasdaq omx
+national stock exchange of india
+nigerian stock exchange
+nzx limited
+oslo børs
+philippine stock exchange
+qatar exchange
+saudi stock exchange (tadawul)
+shanghai futures exchange
+shanghai stock exchange
+shenzhen stock exchange
+singapore exchange
+six swiss exchange
+stock exchange of mauritius
+stock exchange of thailand
+taipei exchange
+taiwan futures exchange
+taiwan stock exchange
+tel aviv stock exchange
+tmx group
+zhengzhou commodity exchange
+associates
+depository trust & clearing corporation
+options clearing corporation
+affiliates
+beirut stock exchange
+bourse de tunis
+brvm
+bucharest stock exchange
+cayman islands stock exchange
+chittagong stock exchange
+dhaka stock exchange
+dubai gold & commodities exchange
+hanoi stock exchange
+indonesia commodity and derivatives exchange
+multi commodity exchange
+nairobi securities exchange
+namibian stock exchange
+nepal stock exchange
+palestine exchange
+port moresby stock exchange
+the international stock exchange
+ukrainian exchange
+correspondents
+barbados stock exchange
+belarusian currency and stock exchange
+bolsa de comercio de rosario
+canadian securities exchange
+dutch caribbean securities exchange
+ghana stock exchange
+jamaica stock exchange
+kuwait stock exchange
+pfts stock exchange
+sydney stock exchange
+seychelles securities exchange (trop-x)
+
+vtelargest stock exchanges by market capitalization
+  new york stock exchange
+  nasdaq
+  london stock exchange
+  japan exchange group – tokyo
+  shanghai
+  hong kong
+  euronext
+  shenzhen
+  toronto stock exchange
+  deutsche börse
+  bombay stock exchange
+  national stock exchange of india
+  six swiss exchange
+  australian securities exchange
+  korea exchange
+  nasdaq omx nordic exchange
+  jse limited
+  bme spanish exchanges
+  taiwan stock exchange
+  b3
+  singapore exchange
+  moscow exchange
+  stock exchange of thailand
+  tadawul
+  indonesia stock exchange
+
+vteitaly articleshistorychronology
+prehistory
+italic peoples
+ancient peoples of italy
+pre-nuragic sardinia
+nuragic peoples
+etruscan civilization
+nuragic civilization
+phoenician/carthaginian colonies
+magna graecia
+ancient rome
+kingdom
+republic
+empire
+middle ages
+italy under odoacer
+ostrogoths
+byzantium
+lombards
+the holy roman empire
+the sardinian judicates
+arabs
+normans
+guelphs and ghibellines
+the italian city-states
+the maritime republics
+renaissance
+italian wars
+early modern period
+unification
+revolutions of 1820
+revolutions of 1830
+revolutions of 1848
+sicilian revolution of 1848
+first war of independence
+crimean war
+second war of independence
+expedition of the thousand
+third war of independence
+capture of rome
+monarchy and the world wars
+kingdom of italy
+colonial empire
+world war i
+fascist italy
+world war ii
+resistance
+civil war
+republic
+economic boom
+years of lead
+years of mud
+mani pulite
+by topic
+citizenship
+currency
+economy
+fashion
+flags
+genetic
+historic states
+military
+music
+postal
+railways
+geography
+peninsula
+northern
+northwest
+northeast
+central
+southern
+south
+insular
+climate
+fauna
+flora
+mountains
+prealps
+alps
+apennines
+volcanology
+volcanoes
+beaches
+canals
+caves
+earthquakes
+islands
+lakes
+national parks
+rivers
+valleys
+politics
+constitution
+elections
+referendums
+foreign relations
+missions
+judiciary
+law enforcement
+military
+parliament
+chamber of deputies
+senate
+political parties
+president
+prime minister
+council of ministers
+regions
+provinces
+metropolitan cities
+comune
+municipalities
+cities
+economy
+economic history
+milan
+naples
+rome
+turin
+regions by gdp
+automotive industry
+banking
+central bank
+companies
+energy
+government debt
+science and technology
+stock exchange
+taxation
+telecommunications
+internet
+tourism
+trade unions
+transportation
+welfare
+society
+abortion
+adoption
+billionaires
+capital punishment
+corruption
+crime
+demographics
+education
+secondary
+higher
+universities
+emigration
+fathers' rights movement
+feminism
+gambling
+health
+healthcare
+immigration
+lgbt rights
+nobility
+prostitution
+racism
+religion
+smoking
+social class
+terrorism
+women
+culture
+duecento
+trecento
+quattrocento
+cinquecento
+seicento
+settecento
+architecture
+art
+castles
+cinema
+cuisine
+beer
+wine
+cultural icons
+decorations
+design
+fashion
+festivals
+folklore
+italian language
+regional italian
+italian literature
+italophilia
+italophobia
+languages
+media
+newspapers
+radio
+tv
+monuments
+music
+classical
+folk
+opera
+popular
+mythology
+national symbols
+anthem
+emblem
+flag
+regions
+national monument
+personification
+people
+philosophy
+public holidays
+festa della repubblica
+sculpture
+sport
+traditions
+world heritage sites
+
+ italy portal
+ category
+ commons
+ news
+quotes
+travel
+ wikiproject
+
+vteeconomy of italy companies of italyindustry and business
+companies
+exports
+made in italy
+automotive
+steel industry
+film
+fashion
+luxury real estate
+robotics
+research
+elettra
+enea
+italian space agency (asi)
+erzelli hi-tech park
+istituto italiano di tecnologia
+energy
+renewable
+wind
+solar
+geothermal
+oil
+oil refineries
+infrastructure
+transport
+communications
+tourism
+taxation
+tax system
+finance and banking
+banking
+stock exchange
+development
+international rankings
+science and technology
+events
+2006 winter olympics
+bologna motor show
+biennale di venezia
+concorso d'eleganza villa d'este
+eicma
+expo 2015
+euroflora
+festival internazionale della robotica
+fieracavalli
+genoa international boat show
+lucca comics & games
+salone internazionale del gusto
+salone internazionale del mobile di milano
+settimana della moda
+micam
+palio di siena
+rome film festival
+venice film festival
+vinitaly
+
+see also:  category
+economy of europe
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=borsa_italiana&oldid=870664550"					
+categories: 1808 establishments in italyeconomy of milanfinance in italyorganizations established in 1808stock exchanges in europelondon stock exchangehidden categories: all articles with dead external linksarticles with dead external links from april 2010articles with dead external links from september 2018articles with permanently dead external linkspages using deprecated image syntaxofficial website different in wikidata and wikipediaarticles with dead external links from july 2017 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+العربيةasturianuazərbaycancaбеларускаяcatalàdanskdeutschespañolesperantoeuskaraفارسیfrançaisհայերենbahasa indonesiaitalianonederlands日本語norskpolskiportuguêsromânăрусскийsuomisvenskatürkçe中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 26 november 2018, at 07:46 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.632","walltime":"0.874","ppvisitednodes":{"value":4564,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":181890,"limit":2097152},"templateargumentsize":{"value":25267,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":21,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":18857,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  605.786      1 -total"," 37.42%  226.709     10 template:navbox"," 29.15%  176.594      1 template:reflist"," 21.04%  127.434      1 template:infobox_exchange"," 20.21%  122.454      1 template:infobox"," 17.66%  106.982      1 template:stock_exchanges_top_18"," 17.65%  106.934      1 template:italy_topics"," 17.06%  103.348      4 template:cite_web"," 17.00%  102.959      1 template:country_topics"," 15.94%   96.591     25 template:flagicon"]},"scribunto":{"limitreport-timeusage":{"value":"0.194","limit":"10.000"},"limitreport-memusage":{"value":5176810,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1281","timestamp":"20190212140804","ttl":86400,"transientcontent":true}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"borsa italiana","url":"https:\/\/en.wikipedia.org\/wiki\/borsa_italiana","sameas":"http:\/\/www.wikidata.org\/entity\/q936563","mainentity":"http:\/\/www.wikidata.org\/entity\/q936563","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2005-09-27t13:31:10z","datemodified":"2018-11-26t07:46:42z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/8d\/palazzo_mezzanotte_milan_stock_exchange.jpg","headline":"italy's main stock exchange"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":128,"wghostname":"mw1241"});});
+
+

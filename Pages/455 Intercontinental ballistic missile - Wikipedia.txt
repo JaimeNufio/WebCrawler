@@ -1,0 +1,914 @@
+
+
+
+
+intercontinental ballistic missile - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"intercontinental_ballistic_missile","wgtitle":"intercontinental ballistic missile","wgcurrevisionid":882597442,"wgrevisionid":882597442,"wgarticleid":14939,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["use dmy dates from july 2012","articles containing potentially dated statements from 2016","all articles containing potentially dated statements","articles with russian-language external links","intercontinental ballistic missiles","ballistic missiles","missiles","soviet inventions"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"intercontinental_ballistic_missile","wgrelevantarticleid":14939,"wgrequestid":"xgwogqpamf0aajwzbncaaadf","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgredirectedfrom":"icbm","wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfexpandallsectionsuseroption":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wginternalredirecttargeturl":"/wiki/intercontinental_ballistic_missile","wgwikibaseitemid":"q177471","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+intercontinental ballistic missile 
+from wikipedia, the free encyclopedia   (redirected from icbm)
+ jump to navigation
+jump to search
+"icbm" redirects here. for the geotag, see icbm address. for the institute, see institute for chemistry and biology of the marine environment.
+
+
+ test launch of an lgm-25c titan ii icbm from an underground silo at vandenberg afb, united states, mid-1970s
+an intercontinental ballistic missile (icbm) is a guided ballistic missile with a minimum range of 5,500 kilometres (3,400 mi)[1] primarily designed for nuclear weapons delivery (delivering one or more thermonuclear warheads). similarly, conventional, chemical, and biological weapons can also be delivered with varying effectiveness, but have never been deployed on icbms. most modern designs support multiple independently targetable reentry vehicles (mirvs), allowing a single missile to carry several warheads, each of which can strike a different target.
+early icbms had limited precision, which made them suitable for use only against the largest targets, such as cities. they were seen as a "safe" basing option, one that would keep the deterrent force close to home where it would be difficult to attack. attacks against military targets (especially hardened ones) still demanded the use of a more precise, manned bomber. second- and third-generation designs (such as the lgm-118 peacekeeper) dramatically improved accuracy to the point where even the smallest point targets can be successfully attacked.
+icbms are differentiated by having greater range and speed than other ballistic missiles: intermediate-range ballistic missiles (irbms), medium-range ballistic missiles (mrbms), short-range ballistic missiles (srbms) and tactical ballistic missiles (tbms). short and medium-range ballistic missiles are known collectively as theatre ballistic missiles.
+
+contents
+
+1 history
+
+1.1 world war ii
+1.2 cold war
+1.3 post-cold war
+
+
+2 flight phases
+3 modern icbms
+4 specific icbms
+
+4.1 land-based icbms
+4.2 submarine-launched
+
+
+5 missile defense
+6 see also
+7 references
+8 further reading
+9 external links
+
+
+history[edit]
+world war ii[edit]
+ primary views of an r-7 semyorka, the world's first icbm and satellite launch vehicle
+the development of the world's first practical design for an icbm, a9/10, intended for use in bombing new york and other american cities, was undertaken in nazi germany by the team of wernher von braun under projekt amerika. the icbm a9/a10 rocket initially was intended to be guided by radio, but was changed to be a piloted craft after the failure of operation elster. the second stage of the a9/a10 rocket was tested a few times in january and february 1945. the progenitor of the a9/a10 was the german v-2 rocket, also designed by von braun and widely used at the end of world war ii to bomb british and belgian cities. all of these rockets used liquid propellants. following the war, von braun and other leading german scientists were relocated to the united states to work directly for the us army through operation paperclip, developing the irbms, icbms, and launchers.
+this technology was also predicted by us army general hap arnold, who wrote in 1943:
+
+.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0} someday, not too distant, there can come streaking out of somewhere – we won't be able to hear it, it will come so fast – some kind of gadget with an explosive so powerful that one projectile will be able to wipe out completely this city of washington.[2][3]
+
+cold war[edit]
+in the immediate post-war era, the us and ussr both started rocket research programs based on the german wartime designs, especially the v-2. in the us, each branch of the military started its own programs, leading to considerable duplication of effort. in the ussr, rocket research was centrally organized, although several teams worked on different designs. early designs from both countries were short-range missiles, like the v-2, but improvements quickly followed.
+in the ussr, early development was focused on missiles able to attack european targets. this changed in 1953 when sergei korolyov was directed to start development of a true icbm able to deliver newly developed hydrogen bombs. given steady funding throughout, the r-7 developed with some speed. the first launch took place on 15 may 1957 and led to an unintended crash 400 km (250 mi) from the site. the first successful test followed on 21 august 1957; the r-7 flew over 6,000 km (3,700 mi) and became the world's first icbm.[4] the first strategic-missile unit became operational on 9 february 1959 at plesetsk in north-west russia.[5]
+it was the same r-7 launch vehicle that placed the first artificial satellite in space, sputnik, on 4 october 1957. the first human spaceflight in history was accomplished on a derivative of r-7, vostok, on 12 april 1961, by soviet cosmonaut yuri gagarin. a heavily modernized version of the r-7 is still used as the launch vehicle for the soviet/russian soyuz spacecraft, marking more than 60 years of operational history of sergei korolyov's original rocket design.
+
+ an sm-65 atlas, the first us icbm, first launched in 1957
+the u.s. initiated icbm research in 1946 with the rtv-a-2 hiroc project. this was a three-stage effort with the icbm development not starting until the third stage. however, funding was cut after only three partially successful launches in 1948 of the second stage design, used to test variations on the v-2 design. with overwhelming air superiority and truly intercontinental bombers, the newly forming us air force did not take the problem of icbm development seriously. things changed in 1953 with the soviet testing of their first thermonuclear weapon, but it was not until 1954 that the atlas missile program was given the highest national priority. the atlas a first flew on 11 june 1957; the flight lasted only about 24 seconds before the rocket blew up. the first successful flight of an atlas missile to full range occurred 28 november 1958.[6] the first armed version of the atlas, the atlas d, was declared operational in january 1959 at vandenberg, although it had not yet flown. the first test flight was carried out on 9 july 1959,[7][8] and the missile was accepted for service on 1 september.
+the r-7 and atlas each required a large launch facility, making them vulnerable to attack, and could not be kept in a ready state. failure rates were very high throughout the early years of icbm technology. human spaceflight programs (vostok, mercury, voskhod, gemini, etc.) served as a highly visible means of demonstrating confidence in reliability, with successes translating directly to national defense implications. the us was well behind the soviet union in the space race, so u.s. president john f. kennedy increased the stakes with the apollo program, which used saturn rocket technology that had been funded by president dwight d. eisenhower.
+
+ 1965 graph of usaf atlas and titan icbm launches, cumulative by month with failures highlighted (pink), showing how nasa's use of icbm boosters for projects mercury and gemini (blue) served as a visible demonstration of reliability at a time when failure rates had been substantial.
+these early icbms also formed the basis of many space launch systems. examples include r-7, atlas, redstone, titan, and proton, which was derived from the earlier icbms but never deployed as an icbm. the eisenhower administration supported the development of solid-fueled missiles such as the lgm-30 minuteman, polaris and skybolt. modern icbms tend to be smaller than their ancestors, due to increased accuracy and smaller and lighter warheads, and use solid fuels, making them less useful as orbital launch vehicles.
+the western view of the deployment of these systems was governed by the strategic theory of mutual assured destruction. in the 1950s and 1960s, development began on anti-ballistic missile systems by both the u.s. and ussr; these systems were restricted by the 1972 abm treaty. the first successful abm test were conducted by the ussr in 1961, that later deployed a fully operating system defending moscow in the 1970s (see moscow abm system).
+the 1972 salt treaty froze the number of icbm launchers of both the u.s. and the ussr at existing levels, and allowed new submarine-based slbm launchers only if an equal number of land-based icbm launchers were dismantled. subsequent talks, called salt ii, were held from 1972 to 1979 and actually reduced the number of nuclear warheads held by the u.s. and ussr. salt ii was never ratified by the united states senate, but its terms were nevertheless honored by both sides until 1986, when the reagan administration "withdrew" after accusing the ussr of violating the pact.
+in the 1980s, president ronald reagan launched the strategic defense initiative as well as the mx and midgetman icbm programs.
+china developed a minimal independent nuclear deterrent entering its own cold war after an ideological split with the soviet union beginning in the early 1960s. after first testing a domestic built nuclear weapon in 1964, it went on to develop various warheads and missiles. beginning in the early 1970s, the liquid fuelled df-5 icbm was developed and used as a satellite launch vehicle in 1975. the df-5, with range of 10,000 to 12,000 km (6,200 to 7,500 mi) long enough to strike the western us and the ussr, was silo deployed with the first pair in service by 1981 with possibly twenty missiles in service by the late 1990s.[9] china also deployed the jl-1 medium-range ballistic missile with a reach of 1,700 kilometres (1,100 mi) aboard the ultimately unsuccessful type 92 submarine.[10]
+
+post-cold war[edit]
+ deployment history of land-based icbm, 1959-2014
+in 1991, the united states and the soviet union agreed in the start i treaty to reduce their deployed icbms and attributed warheads.
+as of  2016[update], all five of the nations with permanent seats on the united nations security council have operational long-range ballistic missile systems; russia, the united states, and china also have land-based icbms (the us missiles are silo-based, while china and russia have both silo and road-mobile (df-31, rt-2pm2 topol-m missiles).
+israel is believed to have deployed a road mobile nuclear icbm, the jericho iii, which entered service in 2008; an upgraded version is in development.[11][12]
+india successfully test fired agni v, with a strike range of more than 5,000 km (3,100 mi) on 19 april 2012, claiming entry into the icbm club.[13] the missile's actual range is speculated by foreign researchers to be up to 8,000 km (5,000 mi) with india having downplayed its capabilities to avoid causing concern to other countries.[14]
+by 2012 there was speculation by some intelligence agencies that north korea is developing an icbm.[15] north korea successfully put a satellite into space on 12 december 2012 using the 32-metre-tall (105 ft) unha-3 rocket. the united states claimed that the launch was in fact a way to test an icbm.[16] (see timeline of first orbital launches by country.) in early july 2017, north korea claimed for the first time to have tested successfully an icbm capable of carrying a large thermonuclear warhead.
+in july 2014, china announced the development of its newest generation of icbm, the dongfeng-41 (df-41), which has a range of 12,000 kilometres (7,500 miles), capable of reaching the united states, and which analysts believe is capable of being outfitted with mirv technology.[17]
+most countries in the early stages of developing icbms have used liquid propellants, with the known exceptions being the indian agni-v, the planned but cancelled[18] south african rsa-4 icbm, and the now in service israeli jericho iii.[19]
+the rs-28 sarmat[20] (russian: рс-28 сармат; nato reporting name: satan 2), is a russian liquid-fueled, mirv-equipped, super-heavy thermonuclear armed intercontinental ballistic missile in development by the makeyev rocket design bureau[20] from 2009,[21] intended to replace the previous r-36 missile. its large payload would allow for up to 10 heavy warheads or 15 lighter ones or up to 24 hypersonic glide vehicles yu-74,[22][23] or a combination of warheads and massive amounts of countermeasures designed to defeat anti-missile systems;[24][25] it was heralded by the russian military as a response to the u.s. prompt global strike.[26]
+
+flight phases[edit]
+the following flight phases can be distinguished:
+
+boost phase: 3 to 5 minutes; it is shorter for a solid-fuel rocket than for a liquid-propellant rocket; depending on the trajectory chosen, typical burnout speed is 4 km/s (2.5 mi/s), up to 7.8 km/s (4.8 mi/s); altitude at the end of this phase is typically 150 to 400 km (93 to 249 mi).
+midcourse phase: approx. 25 minutes—sub-orbital spaceflight with a flightpath being a part of an ellipse with a vertical major axis; the apogee (halfway through the midcourse phase) is at an altitude of approximately 1,200 km (750 mi); the semi-major axis is between 3,186 and 6,372 km (1,980 and 3,959 mi); the projection of the flightpath on the earth's surface is close to a great circle, slightly displaced due to earth rotation during the time of flight; the missile may release several independent warheads and penetration aids, such as metallic-coated balloons, aluminum chaff, and full-scale warhead decoys.
+reentry/terminal phase (starting at an altitude of 100 km, 62 mi): 2 minutes – impact is at a speed of up to 7 km/s (4.3 mi/s) (for early icbms less than 1 km/s (0.62 mi/s)); see also maneuverable reentry vehicle.
+icbms usually use the trajectory which optimizes range for a given amount of payload (the minimum-energy trajectory); an alternative is a depressed trajectory, which allows less payload, shorter flight time, and has a much lower apogee.[27]
+
+modern icbms[edit]
+ schematic view of a submarine-launched trident ii d5 nuclear missile system, capable of carrying multiple nuclear warheads up to 8,000 km (5,000 mi)
+modern icbms typically carry multiple independently targetable reentry vehicles (mirvs), each of which carries a separate nuclear warhead, allowing a single missile to hit multiple targets. mirv was an outgrowth of the rapidly shrinking size and weight of modern warheads and the strategic arms limitation treaties which imposed limitations on the number of launch vehicles (salt i and salt ii). it has also proved to be an "easy answer" to proposed deployments of anti-ballistic missile (abm) systems—it is far less expensive to add more warheads to an existing missile system than to build an abm system capable of shooting down the additional warheads; hence, most abm system proposals have been judged to be impractical. the first operational abm systems were deployed in the u.s. during the 1970s. safeguard abm facility was located in north dakota and was operational from 1975 to 1976. the ussr deployed its abm-1 galosh system around moscow in the 1970s, which remains in service. israel deployed a national abm system based on the arrow missile in 1998,[28] but it is mainly designed to intercept shorter-ranged theater ballistic missiles, not icbms. the alaska-based united states national missile defense system attained initial operational capability in 2004.[29]
+
+ icbms can be deployed from transporter erector launchers (tel), such as the russian rt-2pm2 topol-m
+icbms can be deployed from multiple platforms:
+
+in missile silos, which offer some protection from military attack (including, the designers hope, some protection from a nuclear first strike)
+on submarines: submarine-launched ballistic missiles (slbms); most or all slbms have the long range of icbms (as opposed to irbms)
+on heavy trucks; this applies to one version of the topol which may be deployed from a self-propelled mobile launcher, capable of moving through roadless terrain, and launching a missile from any point along its route
+mobile launchers on rails; this applies, for example, to рт-23уттх "молодец" (rt-23utth "molodets"—ss-24 "scalpel")
+the last three kinds are mobile and therefore hard to find.
+during storage, one of the most important features of the missile is its serviceability. one of the key features of the first computer-controlled icbm, the minuteman missile, was that it could quickly and easily use its computer to test itself.
+
+ artist's concept of an ss-24 deployed on railway
+after launch, a booster pushes the missile and then falls away. most modern boosters are solid-fueled rocket motors, which can be stored easily for long periods of time. early missiles used liquid-fueled rocket motors. many liquid-fueled icbms could not be kept fueled all the time as the cryogenic fuel liquid oxygen boiled off and caused ice formation, and therefore fueling the rocket was necessary before launch. this procedure was a source of significant operational delay, and might allow the missiles to be destroyed by enemy counterparts before they could be used. to resolve this problem the united kingdom invented the missile silo that protected the missile from a first strike and also hid fuelling operations underground.
+once the booster falls away, the remaining "bus" releases several warheads, each of which continues on its own unpowered ballistic trajectory, much like an artillery shell or cannonball. the warhead is encased in a cone-shaped reentry vehicle and is difficult to detect in this phase of flight as there is no rocket exhaust or other emissions to mark its position to defenders. the high speeds of the warheads make them difficult to intercept and allow for little warning, striking targets many thousands of kilometers away from the launch site (and due to the possible locations of the submarines: anywhere in the world) within approximately 30 minutes.
+many authorities say that missiles also release aluminized balloons, electronic noise-makers, and other items intended to confuse interception devices and radars.
+as the nuclear warhead reenters the earth's atmosphere its high speed causes compression of the air, leading to a dramatic rise in temperature which would destroy it if it were not shielded in some way. as a result, warhead components are contained within an aluminium honeycomb substructure, sheathed in a pyrolytic carbon-epoxy synthetic resin composite material heat shield. warheads are also often radiation-hardened (to protect against nuclear-tipped abms or the nearby detonation of friendly warheads), one neutron-resistant material developed for this purpose in the uk is three-dimensional quartz phenolic.
+circular error probable is crucial, because halving the circular error probable decreases the needed warhead energy by a factor of four. accuracy is limited by the accuracy of the navigation system and the available geodetic information.
+strategic missile systems are thought to use custom integrated circuits designed to calculate navigational differential equations thousands to millions of flops in order to reduce navigational errors caused by calculation alone. these circuits are usually a network of binary addition circuits that continually recalculate the missile's position. the inputs to the navigation circuit are set by a general purpose computer according to a navigational input schedule loaded into the missile before launch.
+one particular weapon developed by the soviet union—the fractional orbital bombardment system—had a partial orbital trajectory, and unlike most icbms its target could not be deduced from its orbital flight path. it was decommissioned in compliance with arms control agreements, which address the maximum range of icbms and prohibit orbital or fractional-orbital weapons. however, according to reports, russia is working on the new sarmat icbm which leverages fractional orbital bombardment concepts to use a southern polar approach instead of flying over the northern polar regions. using this approach, it is theorized, avoids the us missile defense batteries in california and alaska.
+new development of icbm technology are icbms able to carry hypersonic glide vehicles as a payload such as rs-28 sarmat.
+
+specific icbms[edit]
+main articles: comparison of icbms and list of icbms
+land-based icbms[edit]
+ a u.s. peacekeeper missile launched from a silo
+ testing of the peacekeeper re-entry vehicles at the kwajalein atoll. all eight fired from only one missile. each line, if its warhead were live, represents the potential explosive power of about 300 kilotons of tnt, about nineteen times larger than the detonation of the atomic bomb in hiroshima.
+specific types of icbms (current, past and under development) include:
+
+
+
+type
+minimum range (km)
+maximum range (km)
+country
+status
+
+
+ground based strategic deterrent
+
+
+ united states
+under development
+
+
+lgm-30 minuteman iii
+
+13,000
+ united states
+operational
+
+
+lgm-30f minuteman ii
+
+11,265
+ united states
+decommissioned
+
+
+lgm-30a/b minuteman i
+
+10,186
+ united states
+decommissioned
+
+
+lgm-118 peacekeeper
+
+14,000
+ united states
+decommissioned
+
+
+mgm-134 midgetman
+
+11,000
+ united states
+decommissioned
+
+
+titan ii (sm-68b, lgm-25c)
+
+16,000
+ united states
+decommissioned
+
+
+titan i (sm-68, hgm-25a)
+
+11,300
+ united states
+decommissioned
+
+
+sm-65 atlas (sm-65, cgm-16)
+
+10,138
+ united states
+decommissioned
+
+
+rtv-a-2 hiroc
+2,400
+8,000
+ united states
+decommissioned
+
+
+rt-2
+
+10,186
+ soviet union
+decommissioned
+
+
+rt-23 molodets
+
+11,000
+ soviet union
+decommissioned
+
+
+rt-2pm "topol" (ss-25)
+
+10,000
+ soviet union
+decommissioned
+
+
+rt-21 temp 2s
+
+10,500
+ soviet union
+decommissioned
+
+
+r-9 desna
+
+16,000
+ soviet union
+decommissioned
+
+
+r-16
+
+13,000
+ soviet union
+decommissioned
+
+
+r-26
+
+12,000
+ soviet union
+decommissioned
+
+
+mr-ur-100 sotka
+10,250
+10,320
+ soviet union
+decommissioned
+
+
+rt-2utth "topol m" (ss-27)
+
+11,000
+ russia
+operational
+
+
+rs-24 "yars" (ss-29)
+
+11,000
+ russia
+operational
+
+
+rs-26 rubezh
+6,000
+12,600
+ russia
+operational
+
+
+rs-28 sarmat
+
+10,900
+ russia
+
+
+
+ur-100n
+
+10,000
+ soviet union
+operational
+
+
+r-36 (ss-18)
+10,200
+16,000
+ soviet union
+operational
+
+
+ur-100
+
+10,600
+ soviet union
+decommissioned
+
+
+ur-200
+
+12,000
+ soviet union
+decommissioned
+
+
+rt-20p
+
+11,000
+ soviet union
+decommissioned
+
+
+r-7 semyorka
+
+8,000
+ soviet union
+decommissioned
+
+
+df-4
+5,500
+7,000
+ china
+
+
+
+df-31
+7,200
+11,200
+ china
+
+
+
+df-5
+12,000
+15,000
+ china
+
+
+
+df-41
+12,000
+15,000
+ china
+
+
+
+kn-08
+1,500
+12,000
+ north korea
+
+
+
+hwasong-14
+6,700
+10,000
+ north korea
+
+
+
+hwasong-15
+
+13,000
+ north korea
+
+
+
+agni-vi
+
+8,000
+
+12,000
+
+ india
+
+under development
+
+
+agni-v
+5,000
+8,000
+ india
+operational
+
+
+russia, the united states, china, north korea and india are the only countries currently known to possess land-based icbms, israel has also tested icbms but is not open about actual deployment.[30][31]
+
+ a minuteman iii icbm test launch from vandenberg air force base, united states
+the united states currently operates 405 icbms in three usaf bases.[32] the only model deployed is lgm-30g minuteman-iii. all previous usaf minuteman ii missiles were destroyed in accordance with start ii, and their launch silos have been sealed or sold to the public. the powerful mirv-capable peacekeeper missiles were phased out in 2005.[33]
+
+ a soviet r-36m (ss-18 satan), the largest icbm in history, with a throw weight of 8,800 kg
+the russian strategic rocket forces have 286 icbms able to deliver 958 nuclear warheads: 46 silo-based r-36m2 (ss-18), 30 silo-based ur-100n (ss-19), 36 mobile rt-2pm "topol" (ss-25), 60 silo-based rt-2utth "topol m" (ss-27), 18 mobile rt-2utth "topol m" (ss-27), 84 mobile rs-24 "yars" (ss-29), and 12 silo-based rs-24 "yars" (ss-29).[34]
+china has developed several long range icbms, like the df-31. the dongfeng 5 or df-5 is a 3-stage liquid fuel icbm and has an estimated range of 13,000 kilometers. the df-5 had its first flight in 1971 and was in operational service 10 years later. one of the downsides of the missile was that it took between 30 and 60 minutes to fuel. the dong feng 31 (a.k.a. css-10) is a medium-range, three-stage, solid-propellant intercontinental ballistic missile, and is a land-based variant of the submarine-launched jl-2.
+the df-41 or css-x-10 can carry up to 10 nuclear warheads, which are mirvs and has a range of approximately 12,000–14,000 km (7,500–8,700 mi).[35][36][37][38] the df-41 deployed in underground xinjiang, qinghai, gansu and inner mongolia area. the mysterious underground subway icbm carrier systems they called "underground great wall project[39]".
+israel is believed to have deployed a road mobile nuclear icbm, the jericho iii, which entered service in 2008. it is possible for the missile to be equipped with a single 750 kg (1,650 lb) nuclear warhead or up to three mirv warheads. it is believed to be based on the shavit space launch vehicle and is estimated to have a range of 4,800 to 11,500 km (3,000 to 7,100 mi).[11] in november 2011 israel tested an icbm believed to be an upgraded version of the jericho iii.[12]
+india has a series of ballistic missiles called agni. on 19 april 2012, india successfully test fired its first agni-v, a three-stage solid fueled missile, with a strike range of more than 7,500 km (4,700 mi). the missile was test-fired for the second time on 15 september 2013.[13] on 31 january 2015, india conducted a third successful test flight of the agni-v from the abdul kalam island facility. the test used a canisterised version of the missile, mounted over a tatra truck.[40]
+
+submarine-launched[edit]
+main article: submarine-launched ballistic missile
+
+
+type
+nato name
+minimum range (km)
+maximum range (km)
+country
+status
+
+
+ugm-96 trident i (c-4)
+
+
+12,000
+ united states
+decommissioned
+
+
+ugm-133 trident ii (d5le)
+
+
+12,000
+ united states
+operational
+
+
+rsm-40[41] r-29 "vysota"
+ss-n-8 "sawfly"
+
+7,700
+ soviet union/russia
+decommissioned
+
+
+rsm-50[41] r-29r "vysota"
+ss-n-18 "stingray"
+
+6,500
+ soviet union/russia
+decommissioned
+
+
+rsm-52[41] r-39 "rif"
+ss-n-20 "sturgeon"
+
+8,300
+ soviet union/russia
+decommissioned
+
+
+rsm-54 r-29rm "shtil"
+ss-n-23 "skiff"
+
+8,300
+ soviet union/russia
+decommissioned (under rebuild to r-29rmu "sineva")[42]
+
+
+rsm-54 r-29rmu "sineva"
+ss-n-23 "skiff"
+
+8,300
+ soviet union/russia
+operational
+
+
+rsm-54 r-29rmu2 "layner"
+
+8,300
+12,000
+ soviet union/russia
+operational
+
+
+rsm-56 r-30 "bulava"
+ss-nx-32[43]
+8,000
+8,300
+ soviet union/russia
+operational
+
+
+ugm-133 trident ii (d5)
+
+
+12,000
+ united kingdom
+operational
+
+
+m45
+
+
+6,000
+ france
+operational
+
+
+m51
+
+8,000
+10,000
+ france
+operational
+
+
+jl-2
+
+7,400
+8,000
+ china
+operational
+
+
+jl-3
+
+12,000
+14,000
+ china
+under testing[44]
+
+
+k-4
+
+
+3000 - 5000
+ india
+under testing and production
+
+
+k-5
+
+
+6,000
+ india
+under development[45][46]
+
+
+pukkuksong-1/kn-11
+
+500
+6,700
+ north korea
+under development[47]
+
+missile defense[edit]
+main articles: anti-ballistic missile and missile defense
+an anti-ballistic missile is a missile which can be deployed to counter an incoming nuclear or non-nuclear icbm. icbms can be intercepted in three regions of their trajectory: boost phase, mid-course phase or terminal phase. currently china[48], the us, russia, france, india and israel have developed anti-ballistic missile systems, of which the russian a-135 anti-ballistic missile system, us ground-based midcourse defense, systems have the capability to intercept icbms carrying nuclear, chemical, biological, or conventional warheads.
+
+see also[edit]
+
+anti-ballistic missile treaty
+atmospheric reentry
+defcon
+dense pack
+emergency action message
+general bernard adolph schriever
+heavy icbm
+high-alert nuclear weapon
+icbm address
+list of icbms
+list of states with nuclear weapons
+nuclear disarmament
+nuclear navy
+nuclear warfare
+nuclear weapon
+slbm
+submarine
+throw-weight
+marv
+re-entry vehicle
+universal rocket
+
+references[edit]
+
+
+^ "intercontinental ballistic missiles". special weapons primer. federation of american scientists. retrieved 2012-12-14..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ dolman, everett c.; cooper, henry f., jr. "19: increasing the military uses of space". toward a theory of space power. ndu press. archived from the original on 15 february 2012. retrieved 19 april 2012.
+
+^ correll, john t. "world's most powerful ballistic missile". retrieved 2018-02-22.
+
+^ wade, mark. "r-7". encyclopedia astronautica. retrieved 2011-07-04.
+
+^ "this week in eucom history: february 6–12, 1959". eucom. 6 february 2012. archived from the original on 21 september 2012. retrieved 8 february 2012.
+
+^ "atlas". the exploration of space. century of flight. retrieved 2012-12-14.
+
+^ "atlas d". missile threat. archived from the original on 10 february 2012. retrieved 2012-04-19.
+
+^ "atlas". encyclopedia astronautica. astronautix. retrieved 2012-04-19.
+
+^ "df-5". weapons of mass destruction / wmd around the world. federation of american scientists. retrieved 2012-12-14.
+
+^ "type 92 xia". weapons of mass destruction around the world. federation of american scientists. retrieved 2012-12-14.
+
+^ a b feickert, andrew (5 march 2004). missile survey: ballistic and cruise missiles of foreign countries (pdf). congressional research service (report). library of congress. rl30427. retrieved 2010-06-21.
+
+^ a b pfeffer, anshel (2 november 2011). "idf test-fires ballistic missile in central israel". haaretz. reuters. retrieved 2011-11-03.
+
+^ a b mallikarjun, y; subramanian, ts (19 april 2012). "agni-v successfully test-fired". the hindu. retrieved 2012-04-19.
+
+^ "india downplayed agni-v's capacity: chinese experts". beijing, china: the hindustan times. indo-asian news service. 20 april 2012. archived from the original on 7 june 2014. retrieved 13 july 2014.
+
+^ "north korea's taepodong and unha missiles". programs. federation of american scientists. retrieved 2012-04-19.
+
+^ "north korea says it successfully launched satellite into orbit". nbc news. 12 december 2012. retrieved 2013-04-13.
+
+^ "china 'confirms new generation long range missiles'". telegraph.co.uk. 1 august 2014. retrieved 1 april 2015.
+
+^ "south africa". astronautix.com. retrieved 2016-07-08.
+
+^ "jericho". encyclopedia astronautica. astronautix. archived from the original on 22 october 2012. retrieved 14 december 2012.
+
+^ a b новую тяжелую ракету "сармат" будут делать в красноярске rossiyskaya gazeta, 2 feb 2015.
+
+^ "рс-28 / окр сармат, ракета 15а28 - ss-x-30 (проект) - militaryrussia.ru — отечественная военная техника (после 1945г.)". militaryrussia.ru. retrieved 20 february 2018.
+
+^ batchelor, tom (15 june 2016). "russia testing hypersonic nuclear glider that holds 24 warheads and travels at 7,000mph". retrieved 20 february 2018.
+
+^ sputnik. "russian top secret hypersonic glider can penetrate any missile defense". sputniknews.com. retrieved 20 february 2018.
+
+^ "ss-30 ?? / r-x-? sarmat new heavy icbm". globalsecurity.org. retrieved 17 january 2015.
+
+^ "russia plans new icbm to replace cold war 'satan' missile". reuters. 17 dec 2013. retrieved 17 january 2015.
+
+^ "минобороны рассказало о тяжелой баллистической ракете - неуязвимом для про ответе сша". retrieved 20 february 2018.
+
+^ science & global security, 1992, volume 3, pp.101-159 depressed trajectory slbms: a technical evaluation and arms control possibilities [1]
+
+^ "israeli arrow abm system is operational as war butts darken". israel high-tech & investment report. november 2002. retrieved 2012-04-19.
+
+^ "fort greely". systems. missile threat. 8 december 1998. archived from the original on 30 january 2012. retrieved 2012-04-19.
+
+^ "icbm". encyclopædia britannica. retrieved 2012-04-19.
+
+^ india test launches agni-v long-range missile, uk: bbc news, april 19, 2012, retrieved 2016-03-11.
+
+^ "new start treaty aggregate numbers of strategic offensive arms". retrieved 20 february 2018.
+
+^ edwards, joshua s. (20 september 2005). "peacekeeper missile mission ends during ceremony". us: air force. archived from the original on 2012-10-18. retrieved 2016-04-28.
+
+^ podvig, pavel (13 december 2007). "strategic rocket forces". russian strategic nuclear forces. retrieved 20 february 2018.
+
+^ "five types of missiles to debut on national day". xinhua. 2 september 2009. archived from the original on 10 january 2015. retrieved 6 april 2010.
+
+^ "df-41, css-x-10". weapons of mass destruction. global security. retrieved 6 april 2010.
+
+^ "df-41 (css-x-10; china)". jane's strategic weapon systems. jane's information group. 2 july 2009. retrieved 2010-04-06.
+
+^ "df-41 (css-x-10)". missile threat. archived from the original on 8 april 2016. retrieved 2015-01-26.
+
+^ zhang, hui. "china's underground great wall: subterranean ballistic missile". power & policy. power and policy, belfer center for science and international affairs, kennedy school of government, harvard university. retrieved 14 june 2015.
+
+^ "agni 5, india's longest range ballistic missile, successfully test-fired". ndtv.com. retrieved 2016-02-08.
+
+^ a b c korabli vmf sssr, vol. 1, part 1, yu. apalkov, sankt peterburg, 2003, isbn 5-8172-0069-4
+
+^ "ssbn k-51 verkhoturye arrived to zvezdochka for repairs today". rusnavy.com. 23 august 2010. retrieved 8 october 2010.
+
+^ nasic-1031-0985-09
+
+^ https://freebeacon.com/national-security/china-flight-tests-new-submarine-launched-missile/
+
+^ "going nuclear at sea". the indian express. 19 march 2015. retrieved 11 january 2017.
+
+^ "india's first ballistic missile sub to begin sea trials". the diplomat. 30 july 2013. retrieved 11 january 2017.
+
+^ (2nd ld) n.k. leader calls slbm launch success, boasts of nuke attack capacity – yonhap, 25 august 2016 08:17 am
+
+^ "china conducts successful interception of ballistic missile". retrieved 20 february 2018.
+
+
+further reading[edit]
+j. k. golovanov, m., "korolev: facts and myths", nauka, 1994, isbn 5-02-000822-2
+"rockets and people" – b. e. chertok, m: "mechanical engineering", 1999. isbn 5-217-02942-0 (in russian);
+"testing of rocket and space technology - the business of my life" events and facts - a.i. ostashev, korolyov, 2001.[2]
+"nesterenko" series lives of great people - authors: gregory sukhina a., ivkin, vladimir ivanovich, publishing house "young guard" in 2015, isbn 978-5-235-03801-1
+external links[edit]
+missile defense agency, us: department of defense, archived from the original on 1 march 2006.
+estimated strategic nuclear weapons inventories, rice, september 2004.
+the 10 longest range intercontinental ballistic missiles.
+intercontinental ballistic and cruise missiles (guide), us: fas
+hawes, kingdon r. "king", lt col, usaf (ret.), a tale of two airplanes, rc135.
+icbm modernization: approaches to basing options and interoperable warhead designs need better planning and synchronization: report to congressional committees government accountability office
+vtetypes of missilesby platform
+cruise missile
+air-launched cruise missile (alcm)
+submarine-launched cruise missile (slcm)
+air-to-air missile (aam)
+air-to-surface missile (asm)
+surface-to-air missile (sam)
+surface-to-surface missile (ssm)
+ballistic missile
+air-launched ballistic missile (albm)
+intercontinental ballistic missile (icbm)
+intermediate-range ballistic missile (irbm)
+medium-range ballistic missile (mrbm)
+short-range ballistic missile (srbm)
+tactical ballistic missile
+theatre ballistic missile
+submarine-launched ballistic missile (slbm)
+standoff missile
+loitering munition
+shoulder-fired missile
+hypersonic glide vehicle
+beyond-visual-range missile (bvr)
+by target type
+anti-ballistic missile (abm)
+anti-satellite weapon (asat)
+anti-ship ballistic missile (asbm)
+anti-ship missile (ashm)
+anti-submarine missile
+anti-tank missile (atgm)
+land-attack missile (lacm)
+man-portable air-defense systems (manpads)
+by guidance
+unguided
+radar guidance
+radar altimeter
+active radar guidance (arh)
+semi-active radar guidance (sahr)
+passive radar
+passive homing
+track-via-missile (tvm)
+anti-radiation (arm)
+command guidance
+command to line-of-sight guidance (clos)
+command off line-of-sight guidance (colos)
+manual command to line of sight (mclos)
+semi-automatic command to line of sight (saclos)
+automatic command to line-of-sight (aclos)
+pursuit guidance
+q-guidance
+beam riding (losbr)
+infrared guidance
+laser guidance
+wire guidance
+satellite guidance
+inertial guidance
+astro-inertial guidance
+terrestrial guidance
+terprom
+tercom
+dsmac
+terminal guidance
+automatic target recognition (atr)
+radio guidance
+tv guidance
+contrast seeker
+compass
+fire-and-forget
+lists
+list of military rockets
+list of missiles
+list of missiles by country
+list of anti-ship missiles
+list of anti-tank missiles
+list of icbms
+list of surface-to-air missiles
+see also: sounding rocket
+war portal
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=intercontinental_ballistic_missile&oldid=882597442"					
+categories: intercontinental ballistic missilesballistic missilesmissilessoviet inventionshidden categories: use dmy dates from july 2012articles containing potentially dated statements from 2016all articles containing potentially dated statementsarticles with russian-language external links 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+languages
+
+
+العربيةasturianuazərbaycancaбългарскиcatalàčeštinadanskdeutscheestiελληνικάespañolesperantoeuskaraفارسیfrançaisgaeilge한국어հայերենहिन्दीhrvatskibahasa indonesiaitalianoעבריתქართულიқазақшаkiswahilikurdîlatinalatviešubahasa melayuမြန်မာဘာသာnederlands日本語norsknorsk nynorskoccitanpolskiportuguêsromânăрусскийshqipsimple englishslovenčinaslovenščinaсрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskaதமிழ்татарча/tatarçaతెలుగుไทยtürkçeукраїнськаtiếng việt吴语粵語中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 10 february 2019, at 05:19 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"1.120","walltime":"1.586","ppvisitednodes":{"value":4453,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":107842,"limit":2097152},"templateargumentsize":{"value":6587,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":145525,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00% 1270.197      1 -total"," 42.45%  539.220      1 template:reflist"," 21.96%  278.978     29 template:cite_web"," 21.96%  278.887      1 template:ref-ru"," 21.23%  269.679      1 template:link_language","  8.05%  102.300      4 template:isbn","  7.50%   95.282     21 template:convert","  4.29%   54.448      1 template:portal_bar","  4.17%   52.931      1 template:redirect","  4.07%   51.757      6 template:citation"]},"scribunto":{"limitreport-timeusage":{"value":"0.583","limit":"10.000"},"limitreport-memusage":{"value":12816817,"limit":52428800}},"cachereport":{"origin":"mw1267","timestamp":"20190213233226","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":113,"wghostname":"mw1258"});});
+
+

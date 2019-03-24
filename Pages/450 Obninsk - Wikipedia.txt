@@ -1,0 +1,343 @@
+
+
+
+
+obninsk - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"obninsk","wgtitle":"obninsk","wgcurrevisionid":880446559,"wgrevisionid":880446559,"wgarticleid":1672057,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["cs1 russian-language sources (ru)","articles with russian-language external links","all articles with dead external links","articles with dead external links from february 2018","articles with permanently dead external links","articles with short description","infobox mapframe without osm relation id on wikidata","coordinates on wikidata","articles containing russian-language text","use mdy dates from may 2011","wikipedia articles with gnd identifiers","wikipedia articles with musicbrainz area identifiers","wikipedia articles with viaf identifiers","wikipedia articles with worldcat-viaf identifiers","pages with maps","cities and towns in kaluga oblast","cities and towns built in the soviet union","naukograds"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"obninsk","wgrelevantarticleid":1672057,"wgrequestid":"xgegpapamfsaak7pbtkaaabt","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgkartographerlivedata":{"_dd39ade0e6ce02d8435cd2347d79b94a1e69604f":[{"type":"externaldata","service":"geoshape","url":"https://maps.wikimedia.org/geoshape?getgeojson=1\u0026ids=q175651","properties":{"stroke-width":3,"stroke":"#ff0000","title":"obninsk"}},{"type":"externaldata","service":"geoline","url":"https://maps.wikimedia.org/geoline?getgeojson=1\u0026ids=q175651","properties":{"stroke-width":5,"stroke":"#ff0000","title":"obninsk"}},{"type":"feature","geometry":{"coordinates":[36.616666666667,55.1],"type":"point"},"properties":{"title":"obninsk","marker-color":"#5e74f3"}},{"type":"externaldata","service":"geoshape","url":"https://maps.wikimedia.org/geoshape?getgeojson=1\u0026ids=q175651","properties":{"stroke-width":3,"stroke":"#ff0000","title":"obninsk"}},{"type":"externaldata","service":"geoline","url":"https://maps.wikimedia.org/geoline?getgeojson=1\u0026ids=q175651","properties":{"stroke-width":5,"stroke":"#ff0000","title":"obninsk"}},{"type":"feature","geometry":{"coordinates":[36.616666666667,55.1],"type":"point"},"properties":{"title":"obninsk","marker-color":"#5e74f3"}}]},"wgcoordinates":{"lat":55.093055555556,"lon":36.610555555556},"wgwikibaseitemid":"q175651","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.kartographer.style":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","jquery.makecollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","ext.kartographer.staticframe","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makecollapsible","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+obninsk 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+city in kaluga oblast, russiaobninskобнинскcity[1]bird's-eye view of obninsk
+flagcoat of armslocation of obninsk
+obninsklocation of obninskshow map of russiaobninskobninsk (kaluga oblast)show map of kaluga oblastcoordinates: 55°05′35″n 36°36′38″e﻿ / ﻿55.09306°n 36.61056°e﻿ / 55.09306; 36.61056coordinates: 55°05′35″n 36°36′38″e﻿ / ﻿55.09306°n 36.61056°e﻿ / 55.09306; 36.61056countryrussiafederal subjectkaluga oblast[1]founded1946city status since1956[2]area[2] • total42.97 km2 (16.59 sq mi)elevation175 m (574 ft)population (2010 census)[3] • total104,739 • estimate (2018)[4]115,029 (+9.8%) • rank153rd in 2010 • density2,400/km2 (6,300/sq mi)administrative status • subordinated tocity of obninsk[1] • capital ofcity of obninsk[1]municipal status • urban okrugobninsk urban okrug[5] • capital ofobninsk urban okrug[5]time zoneutc+3 (msk [6])postal code(s)[7]249030dialing code(s)+7 48439twin townstiraspoloktmo id29715000001websitewww.admobninsk.ru
+obninsk (russian: о́бнинск) is a city in kaluga oblast, russia, located on the bank of the protva river 100 kilometers (62 mi) southwest of moscow and 80 kilometers (50 mi) northeast from kaluga. population: 104,739 (2010 census).[3]
+
+contents
+
+1 history
+2 administrative and municipal status
+3 demographics
+4 transportation
+5 science and education
+6 economy
+7 government
+8 sport
+9 international relations
+10 references
+
+10.1 notes
+10.2 sources
+
+
+11 external links
+
+
+history[edit]
+the history of obninsk began in 1945 when the first research institute laboratory "v", which later became known as ippe was founded. on june 27, 1954, in obninsk started operations of the world's first nuclear power plant to generate electricity for a power grid. the city was built next to the plant in order to support it. scientists, engineers, construction workers, teachers and other professionals moved to obninsk from all over the soviet union. town status was granted to obninsk on june 24, 1956. the name of the city is taken from obninskoye, the train station in moscow-bryansk railroad, built in tsarist times.[2]obninskoye and obninsk were the frontline edges of the white/red armies in 1917-1924, also the 1812 war with france and the 1941-1942 battle of moscow campaigns in world war ii.
+
+administrative and municipal status[edit]
+within the framework of administrative divisions, it is incorporated as the city of obninsk—an administrative unit with the status equal to that of the districts.[1] as a municipal division, the city of obninsk is incorporated as obninsk urban okrug.[5]
+
+demographics[edit]
+according to the 2010 census, the population of the city was 104,739,[3] down from 105,706 recorded in the 2002 census,[8] but up from 100,178 recorded in the 1989 census.[9]
+the average age of the citizens is thirty-nine years.[10]
+
+transportation[edit]
+the city is located on the main rail line between moscow and kiev and at the intersection of kiev and warsaw highways. three international airports are within reach from obninsk: vnukovo (70 km), domodedovo (100 km), and sheremetyevo (130 km). cargo airfield yermolino is only 15 kilometers (9.3 mi) away.
+
+science and education[edit]
+ view of the former obninsk nuclear power plant
+obninsk is one of the major russian science cities. in 2000, it was awarded the status of the first science city of russia. the city is home to twelve scientific research institutes. their main activities are nuclear power engineering, nuclear methods and radiation technology, technology of non-metallic materials, medical radiology, meteorology and ecology and environmental protection.[10]
+the first nuclear power plant in the world for the large-scale production of electricity opened here on june 27, 1954, and it also doubled as a training base for the crew of the soviet union's first nuclear submarine, the k-3 leninsky komsomol.
+obninsk is famous for its meteorological tower which was built to study spreading of radiation from the nuclear station.
+the following institutes are located in the city:[11]
+
+state scientific center of russian federation institute for physics and power engineering
+state scientific center of russian federation obninsk scientific production enterprise "tekhnologiya"
+medical radiological research center of the russian academy of medical sciences
+obninsk branch of the state scientific center of the russian federation "karpov institute of physical chemistry"
+obninsk institute for nuclear power engineering
+russian research institute of hydrometeorological information (world data center)
+central pilot expedition of the geophysical service of the russian academy of sciences
+russian research institute of agricultural radiology and agroecology
+central design bureau of hydrometeorological instrumentation
+russian research institute of agricultural meteorology
+scientific production association typhoon
+economy[edit]
+in the city are the plants of companies such as kraftway (the largest manufacturer of personal computers in russia), ruukki, lotte confectionery, hemofarm a.d..
+
+government[edit]
+the head of the city administration is vladislav shapsha.
+
+sport[edit]
+there is a bandy club called atom.[12]
+
+international relations[edit]
+see also: list of twin towns and sister cities in russia
+obninsk has three sister cities, as designated by sister cities international:
+
+ oak ridge, tennessee, united states
+ mianyang, china
+ visaginas, lithuania
+obninsk also has a partnership with:
+
+ limousin, france
+ montpellier agglomération, france
+ jyväskylä, finland
+ tiraspol, transnistria
+references[edit]
+notes[edit]
+
+
+^ a b c d e charter of kaluga oblast
+
+^ a b c "general information" (in russian). retrieved january 5, 2018..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ a b c russian federal state statistics service (2011). "всероссийская перепись населения 2010 года. том 1" [2010 all-russian population census, vol. 1]. всероссийская перепись населения 2010 года [2010 all-russia population census] (in russian). federal state statistics service.
+
+^ "26. численность постоянного населения российской федерации по муниципальным образованиям на 1 января 2018 года". federal state statistics service. retrieved 23 january 2019.
+
+^ a b c law #7-oz
+
+^ "об исчислении времени". официальный интернет-портал правовой информации (in russian). 3 june 2011. retrieved 19 january 2019.
+
+^ почта россии. информационно-вычислительный центр оасу рпо. (russian post). поиск объектов почтовой связи (postal objects search) (in russian)
+
+^ russian federal state statistics service (21 may 2004). "численность населения россии, субъектов российской федерации в составе федеральных округов, районов, городских поселений, сельских населённых пунктов – районных центров и сельских населённых пунктов с населением 3 тысячи и более человек" [population of russia, its federal districts, federal subjects, districts, urban localities, rural localities—administrative centers, and rural localities with population of over 3,000] (xls). всероссийская перепись населения 2002 года [all-russia population census of 2002] (in russian).
+
+^ "всесоюзная перепись населения 1989 г. численность наличного населения союзных и автономных республик, автономных областей и округов, краёв, областей, районов, городских поселений и сёл-райцентров" [all union population census of 1989: present population of union and autonomous republics, autonomous oblasts and okrugs, krais, oblasts, districts, urban settlements, and villages serving as district administrative centers]. всесоюзная перепись населения 1989 года [all-union population census of 1989] (in russian). институт демографии национального исследовательского университета: высшая школа экономики [institute of demography at the national research university: higher school of economics]. 1989  – via demoscope weekly.
+
+^ a b "business guide to the kaluga region of russia" (pdf). jyväskylä university of applied sciences. 2009.[permanent dead link]
+
+^ "research & education". city of obninsk. archived from the original on april 24, 2009.
+
+^ official homepage
+
+
+sources[edit]
+законодательное собрание калужской области. №473 27 марта 1996 г. «устав калужской области», в ред. закона №681-оз от 27 февраля 2015 г. «о внесении изменений в устав калужской области».  опубликован: "весть", №79, 9 апреля 1996 г. (legislative assembly of kaluga oblast. #473 march 27, 1996 charter of kaluga oblast, as amended by the law #681-oz of february 27, 2015 on amending the charter of kaluga oblast. ).
+законодательное собрание калужской области. закон №7-оз от 28 декабря 2004 г. «об установлении границ муниципальных образований, расположенных на территории административно-территориальных единиц "бабынинский район", "боровский район", "дзержинский район", "жиздринский район", "жуковский район", "износковский район", "козельский район", "малоярославецкий район", "мосальский район", "ферзиковский район", "хвастовичский район", "город калуга", "город обнинск", и наделении их статусом городского поселения, сельского поселения, городского округа, муниципального района», в ред. закона №620-оз от 29 сентября 2014 г. «о внесении изменений в закон калужской области "об установлении границ муниципальных образований, расположенных на территории административно-территориальных единиц "бабынинский район", "боровский район", "дзержинский район", "жиздринский район", "жуковский район", "износковский район", "козельский район", "малоярославецкий район", "мосальский район", "ферзиковский район", "хвастовичский район", "город калуга", "город обнинск", и наделении их статусом городского поселения, сельского поселения, городского округа, муниципального района"». вступил в силу после официального опубликования, за исключением положений о муниципальном образовании "город калуга", для которых установлены иные сроки вступления в силу. опубликован: "весть", №402–404, 29 декабря 2004 г. (legislative assembly of kaluga oblast. law #7-oz of december 28, 2004 on establishing the borders of the municipal formations located on the territory of the administrative-territorial units of "babyninsky district", "borovsky district", "dzerzhinsky district", "zhizdrinsky district", "zhukovsky district", "iznoskovsky district", "kozelsky district", "maloyaroslavetsky district", "mosalsky district", "ferzikovsky district", "khvastovichsky district", "city of kaluga", "city of obninsk", and on granting them the status of an urban settlement, rural settlement, urban okrug, municipal district, as amended by the law #620-oz of september 29, 2014 on amending the law  of kaluga oblast "on establishing the borders of the municipal formations located on the territory of the administrative-territorial units of "babyninsky district", "borovsky district", "dzerzhinsky district", "zhizdrinsky district", "zhukovsky district", "iznoskovsky district", "kozelsky district", "maloyaroslavetsky district", "mosalsky district", "ferzikovsky district", "khvastovichsky district", "city of kaluga", "city of obninsk", and on granting them the status of an urban settlement, rural settlement, urban okrug, municipal district". effective as of after the official publication, with the exception of the clauses regarding the municipal formation of the "city of kaluga", for which different dates of taking effect are specified.).
+external links[edit]
+official website of obninsk (in russian)
+vteadministrative divisions of kaluga oblastadministrative center: kaluga • rural localitiesdistricts
+babyninsky
+baryatinsky
+borovsky
+duminichsky
+dzerzhinsky
+ferzikovsky
+iznoskovsky
+khvastovichsky
+kirovsky
+kozelsky
+kuybyshevsky
+lyudinovsky
+maloyaroslavetsky
+medynsky
+meshchovsky
+mosalsky
+peremyshlsky
+spas-demensky
+sukhinichsky
+tarussky
+ulyanovsky
+yukhnovsky
+zhizdrinsky
+zhukovsky
+cities and towns
+balabanovo
+belousovo
+borovsk
+kaluga
+kirov
+kondrovo
+kozelsk
+kremyonki
+lyudinovo
+maloyaroslavets
+medyn
+meshchovsk
+mosalsk
+obninsk
+sosensky
+spas-demensk
+sukhinichi
+tarusa
+yermolino
+yukhnov
+zhizdra
+zhukov
+urban-type settlements
+duminichi
+polotnyany zavod
+pyatovsky
+seredeysky
+tovarkovo
+vorotynsk
+
+
+
+authority control 
+gnd: 4220405-7
+musicbrainz: 58b018d7-5150-41da-93cc-1b26a180d9a5
+viaf: 238432413
+ worldcat identities (via viaf): 238432413
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=obninsk&oldid=880446559"					
+categories: cities and towns in kaluga oblastcities and towns built in the soviet unionnaukogradshidden categories: cs1 russian-language sources (ru)articles with russian-language external linksall articles with dead external linksarticles with dead external links from february 2018articles with permanently dead external linksarticles with short descriptioninfobox mapframe without osm relation id on wikidatacoordinates on wikidataarticles containing russian-language textuse mdy dates from may 2011wikipedia articles with gnd identifierswikipedia articles with musicbrainz area identifierswikipedia articles with viaf identifierswikipedia articles with worldcat-viaf identifierspages with maps 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+العربيةasturianuتۆرکجهбашҡортсабеларускаябългарскиcatalàчӑвашлаcebuanočeštinadanskdeutscheestiespañolesperantoفارسیfrançais한국어hornjoserbscehrvatskiиронitalianoქართულიlietuviųdorerin naoeronederlands日本語нохчийнnorsknorsk nynorskолык марийپنجابیpolskiportuguêsromânăрусскийscotssicilianuslovenščinaсрпски / srpskisuomisvenskatagalogтатарча/tatarçaтоҷикӣtürkçeукраїнськаtiếng việtwinaray中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 27 january 2019, at 13:44 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"1.372","walltime":"1.655","ppvisitednodes":{"value":6844,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":170171,"limit":2097152},"templateargumentsize":{"value":37890,"limit":2097152},"expansiondepth":{"value":27,"limit":40},"expensivefunctioncount":{"value":11,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":33325,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00% 1523.043      1 -total"," 68.07% 1036.811      1 template:infobox_russian_city"," 66.24% 1008.886      1 template:infobox_settlement"," 54.68%  832.858      1 template:infobox"," 22.78%  346.937     22 template:wikidata","  8.77%  133.546      1 template:lang-ru","  8.45%  128.724      1 template:reflist","  4.62%   70.404      3 template:str_left","  4.60%   70.000      2 template:russia_time_zone_wikidata","  3.82%   58.115      7 template:cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.933","limit":"10.000"},"limitreport-memusage":{"value":18784359,"limit":52428800}},"cachereport":{"origin":"mw1328","timestamp":"20190216051132","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":113,"wghostname":"mw1256"});});
+
+

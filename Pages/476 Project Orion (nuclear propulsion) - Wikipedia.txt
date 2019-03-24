@@ -1,0 +1,702 @@
+
+
+
+
+project orion (nuclear propulsion) - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"project_orion_(nuclear_propulsion)","wgtitle":"project orion (nuclear propulsion)","wgcurrevisionid":879962524,"wgrevisionid":879962524,"wgarticleid":322533,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["use mdy dates from april 2012","use american english from april 2012","all wikipedia articles written in american english","all articles with unsourced statements","articles with unsourced statements from november 2018","articles with unsourced statements from march 2018","articles with unsourced statements from december 2012","articles with unsourced statements from october 2008","articles needing additional references from october 2017","all articles needing additional references","articles with unsourced statements from october 2017","wikipedia articles with gnd identifiers","wikipedia articles with lccn identifiers","wikipedia articles with viaf identifiers","wikipedia articles with worldcat-viaf identifiers","nuclear spacecraft propulsion","hypothetical spacecraft","single-stage-to-orbit","space access","engineering projects","freeman dyson","interstellar travel"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"project_orion_(nuclear_propulsion)","wgrelevantarticleid":322533,"wgrequestid":"xgsrywpamekaaeqyzg4aaabg","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfexpandallsectionsuseroption":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q927766","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","ext.math.scripts","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+project orion (nuclear propulsion) 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+this article is about the 1950s nuclear propulsion project. for other spaceflight vehicles called orion, see orion (disambiguation) § space.
+
+
+ artist's conception of the nasa reference design for the project orion spacecraft powered by nuclear propulsion
+project orion was a study of a spacecraft intended to be directly propelled by a series of explosions of atomic bombs behind the craft (nuclear pulse propulsion). early versions of this vehicle were proposed to take off from the ground with significant associated nuclear fallout; later versions were presented for use only in space. six tests were launched[citation needed].
+the idea of rocket propulsion by combustion of explosive substance was first proposed by russian explosives expert nikolai kibalchich in 1881, and in 1891 similar ideas were developed independently by german engineer hermann ganswindt. general proposals of nuclear propulsion were first made by stanislaw ulam in 1946, and preliminary calculations were made by f. reines and ulam in a los alamos memorandum dated 1947.[1] the actual project, initiated in 1958, was led by ted taylor at general atomics and physicist freeman dyson, who at taylor's request took a year away from the institute for advanced study in princeton to work on the project.
+the orion concept offered high thrust and high specific impulse, or propellant efficiency, at the same time. the unprecedented extreme power requirements for doing so would be met by nuclear explosions, of such power relative to the vehicle's mass as to be survived only by using external detonations without attempting to contain them in internal structures. as a qualitative comparison, traditional chemical rockets—such as the saturn v that took the apollo program to the moon—produce high thrust with low specific impulse, whereas electric ion engines produce a small amount of thrust very efficiently. orion would have offered performance greater than the most advanced conventional or nuclear rocket engines then under consideration. supporters of project orion felt that it had potential for cheap interplanetary travel, but it lost political approval over concerns with fallout from its propulsion.[2]
+the partial test ban treaty of 1963 is generally acknowledged to have ended the project.  however, from project longshot to project daedalus, mini-mag orion, and other proposals which reach engineering analysis at the level of considering thermal power dissipation, the principle of external nuclear pulse propulsion to maximize survivable power has remained common among serious concepts for interstellar flight without external power beaming and for very high-performance interplanetary flight.  such later proposals have tended to modify the basic principle by envisioning equipment driving detonation of much smaller fission or fusion pellets, although in contrast project orion's larger nuclear pulse units (nuclear bombs) were based on less speculative technology.
+to mars by a-bomb: the secret history of project orion was a 2003 bbc documentary film about the project.[3]
+
+contents
+
+1 basic principles
+2 sizes of orion vehicles
+3 theoretical applications
+4 later developments
+5 costs
+6 vehicle architecture
+7 potential problems
+8 people
+9 operation plumbbob
+10 notable appearances in fiction
+11 see also
+12 references
+13 further reading
+14 external links
+
+
+basic principles[edit]
+ the orion spacecraft – key components[4]
+the orion nuclear pulse drive combines a very high exhaust velocity, from 19 to 31 km/s (12 to 19 mi/s) in typical interplanetary designs, with meganewtons of thrust.[5] many spacecraft propulsion drives can achieve one of these or the other, but nuclear pulse rockets are the only proposed technology that could potentially meet the extreme power requirements to deliver both at once (see spacecraft propulsion for more speculative systems).
+specific impulse (isp) measures how much thrust can be derived from a given mass of fuel, and is a standard figure of merit for rocketry.  for any rocket propulsion, since the kinetic energy of exhaust goes up with velocity squared (kinetic energy = ½ mv2), whereas the momentum and thrust go up with velocity linearly (momentum = mv), obtaining a particular level of thrust (as in a number of g acceleration) requires far more power each time that exhaust velocity and isp are much increased in a design goal. (for instance, the most fundamental reason that current and proposed electric propulsion systems of high isp tend to be low thrust is due to their limits on available power. their thrust is actually inversely proportional to isp if power going into exhaust is constant or at its limit from heat dissipation needs or other engineering constraints.)[6] the orion concept detonates nuclear explosions externally at a rate of power release which is beyond what nuclear reactors could survive internally with known materials and design.
+since weight is no limitation, an orion craft can be extremely robust. an unmanned craft could tolerate very large accelerations, perhaps 100 g. a human-crewed orion, however, must use some sort of damping system behind the pusher plate to smooth the near instantaneous acceleration to a level that humans can comfortably withstand – typically about 2 to 4 g.
+the high performance depends on the high exhaust velocity, in order to maximize the rocket's force for a given mass of propellant. the velocity of the plasma debris is proportional to the square root of the change in the temperature (tc) of the nuclear fireball. since fireballs routinely achieve ten million degrees celsius or more in less than a millisecond, they create very high velocities. however, a practical design must also limit the destructive radius of the fireball. the diameter of the nuclear fireball is proportional to the square root of the bomb's explosive yield.
+the shape of the bomb's reaction mass is critical to efficiency. the original project designed bombs with a reaction mass made of tungsten. the bomb's geometry and materials focused the x-rays and plasma from the core of nuclear explosive to hit the reaction mass. in effect each bomb would be a nuclear shaped charge.
+a bomb with a cylinder of reaction mass expands into a flat, disk-shaped wave of plasma when it explodes. a bomb with a disk-shaped reaction mass expands into a far more efficient cigar-shaped wave of plasma debris.[citation needed] the cigar shape focuses much of the plasma to impinge onto the pusher-plate.
+the maximum effective specific impulse, isp, of an orion nuclear pulse drive generally is equal to:
+
+
+
+
+
+
+i
+
+s
+p
+
+
+=
+
+
+
+
+c
+
+0
+
+
+⋅
+
+v
+
+e
+
+
+
+
+g
+
+n
+
+
+
+
+
+
+{\displaystyle i_{sp}={\frac {c_{0}\cdot v_{e}}{g_{n}}}}
+
+
+where c0 is the collimation factor (what fraction of the explosion plasma debris will actually hit the impulse absorber plate when a pulse unit explodes), ve is the nuclear pulse unit plasma debris velocity, and gn is the standard acceleration of gravity (9.81 m/s2; this factor is not necessary if isp is measured in n·s/kg or m/s). a collimation factor of nearly 0.5 can be achieved by matching the diameter of the pusher plate to the diameter of the nuclear fireball created by the explosion of a nuclear pulse unit.
+the smaller the bomb, the smaller each impulse will be, so the higher the rate of impulses and more than will be needed to achieve orbit. smaller impulses also mean less g shock on the pusher plate and less need for damping to smooth out the acceleration.
+the optimal orion drive bomblet yield (for the human crewed 4,000 ton reference design) was calculated to be in the region of 0.15 kt, with approx 800 bombs needed to orbit and a bomb rate of approx 1 per second.[citation needed]
+
+sizes of orion vehicles[edit]
+the following can be found in george dyson's book.[7] the figures for the comparison with saturn v are taken from this section and converted from metric (kg) to us short tons (abbreviated "t" here).
+
+ image of the smallest orion vehicle extensively studied, which could have had a payload of around 100 tonnes in an 8 crew round trip to mars.[8] on the left, the 10 meter diameter saturn v "boost-to-orbit" variant, requiring in-orbit assembly before the orion vehicle would be capable of moving under its own propulsion system. on the far right, the fully assembled "lofting" configuration, in which the spacecraft would be lifted high into the atmosphere before pulse propulsion began. as depicted in the 1964 nasa document "nuclear pulse space vehicle study vol iii - conceptual vehicle designs and operational systems."[9][10]
+
+
+
+
+orbitaltest
+
+interplanetary
+
+advancedinterplanetary
+
+saturn v
+
+
+ship mass
+
+880 t
+4,000 t
+10,000 t
+3,350 t
+
+
+ship diameter
+
+25 m
+40 m
+56 m
+10 m
+
+
+ship height
+
+36 m
+60 m
+85 m
+110 m
+
+
+bomb yield(sea level)
+
+0.03 kt
+0.14 kt
+0.35 kt
+n/a
+
+
+bombs(to 300 mi low earth orbit)
+
+800
+800
+800
+n/a
+
+
+payload(to 300 mi leo)
+
+300 t
+1,600 t
+6,100 t
+130 t
+
+
+payload(to moon soft landing)
+
+170 t
+1,200 t
+5,700 t
+2 t
+
+
+payload(mars orbit return)
+
+80 t
+800 t
+5,300 t
+–
+
+
+payload(3 yr saturn return)
+
+–
+–
+1,300 t
+–
+
+in late 1958 to early 1959, it was realized that the smallest practical vehicle would be determined by the smallest achievable bomb yield. the use of 0.03 kt (sea-level yield) bombs would give vehicle mass of 880 tons. however, this was regarded as too small for anything other than an orbital test vehicle and the team soon focused on a 4,000 ton "base design".
+at that time, the details of small bomb designs were shrouded in secrecy. many orion design reports had all details of bombs removed before release. contrast the above details with the 1959 report by general atomics,[11] which explored the parameters of three different sizes of hypothetical orion spacecraft:
+
+
+
+
+
+"satellite"orion
+
+"midrange"orion
+
+"super"orion
+
+
+ship diameter
+
+17–20 m
+40 m
+400 m
+
+
+ship mass
+
+300 t
+1000–2000 t
+8,000,000 t
+
+
+number of bombs
+
+540
+1080
+1080
+
+
+individual bomb mass
+
+0.22 t
+0.37–0.75 t
+3000 t
+
+the biggest design above is the "super" orion design; at 8 million tonnes, it could easily be a city.[12] in interviews, the designers contemplated the large ship as a possible interstellar ark. this extreme design could be built with materials and techniques that could be obtained in 1958 or were anticipated to be available shortly after.
+most of the three thousand tonnes of each of the "super" orion's propulsion units would be inert material such as polyethylene, or boron salts, used to transmit the force of the propulsion units detonation to the orion's pusher plate, and absorb neutrons to minimize fallout. one design proposed by freeman dyson for the "super orion" called for the pusher plate to be composed primarily of uranium or a transuranic element so that upon reaching a nearby star system the plate could be converted to nuclear fuel.
+
+theoretical applications[edit]
+the orion nuclear pulse rocket design has extremely high performance. orion nuclear pulse rockets using nuclear fission type pulse units were originally intended for use on interplanetary space flights.
+missions that were designed for an orion vehicle in the original project included single stage (i.e., directly from earth's surface) to mars and back, and a trip to one of the moons of saturn.[12]
+freeman dyson performed the first analysis of what kinds of orion missions were possible to reach alpha centauri, the nearest star system to the sun.[13] his 1968 paper "interstellar transport" (physics today, october 1968, pp. 41–45)[14] retained the concept of large nuclear explosions but dyson moved away from the use of fission bombs and considered the use of one megaton deuterium fusion explosions instead. his conclusions were simple: the debris velocity of fusion explosions was probably in the 3000–30,000 km/s range and the reflecting geometry of orion's hemispherical pusher plate would reduce that range to 750–15,000 km/s.[15]
+to estimate the upper and lower limits of what could be done using contemporary technology (in 1968), dyson considered two starship designs. the more conservative energy limited pusher plate design simply had to absorb all the thermal energy of each impinging explosion (4×1015 joules, half of which would be absorbed by the pusher plate) without melting. dyson estimated that if the exposed surface consisted of copper with a thickness of 1 mm, then the diameter and mass of the hemispherical pusher plate would have to be 20 kilometers and 5 million tonnes, respectively. 100 seconds would be required to allow the copper to radiatively cool before the next explosion. it would then take on the order of 1000 years for the energy-limited heat sink orion design to reach alpha centauri.
+in order to improve on this performance while reducing size and cost, dyson also considered an alternative momentum limited pusher plate design where an ablation coating of the exposed surface is substituted to get rid of the excess heat. the limitation is then set by the capacity of shock absorbers to transfer momentum from the impulsively accelerated pusher plate to the smoothly accelerated vehicle. dyson calculated that the properties of available materials limited the velocity transferred by each explosion to ~30 meters per second independent of the size and nature of the explosion. if the vehicle is to be accelerated at 1 earth gravity (9.81 m/s2) with this velocity transfer, then the pulse rate is one explosion every three seconds.[16] the dimensions and performance of dyson's vehicles are given in the table below
+
+
+
+
+
+"energy limited"orion
+
+"momentum limited"orion
+
+
+ship diameter (meters)
+
+20,000 m
+100 m
+
+
+mass of empty ship (tonnes)
+
+10,000,000 t (incl.5,000,000 t copper hemisphere)
+100,000 t (incl. 50,000 t structure+payload)
+
+
++number of bombs = total bomb mass (each 1 mt bomb weighs 1 tonne)
+
+30,000,000
+300,000
+
+
+=departure mass (tonnes)
+
+40,000,000 t
+400,000 t
+
+
+maximum velocity (kilometers per second)
+
+1000 km/s (=0.33% of the speed of light)
+10,000 km/s (=3.3% of the speed of light)
+
+
+mean acceleration (earth gravities)
+
+0.00003 g (accelerate for 100 years)
+1 g (accelerate for 10 days)
+
+
+time to alpha centauri (one way, no slow down)
+
+1330 years
+133 years
+
+
+estimated cost
+
+1 year of u.s. gnp (1968), $3.67 trillion
+0.1 year of u.s. gnp $0.367 trillion
+
+later studies indicate that the top cruise velocity that can theoretically be achieved are a few percent of the speed of light (0.08–0.1c).[17] an atomic (fission) orion can achieve perhaps 9%–11% of the speed of light. a nuclear pulse drive starship powered by fusion-antimatter catalyzed nuclear pulse propulsion units would be similarly in the 10% range and pure matter-antimatter annihilation rockets would be theoretically capable of obtaining a velocity between 50% to 80% of the speed of light. in each case saving fuel for slowing down halves the max. speed. the concept of using a magnetic sail to decelerate the spacecraft as it approaches its destination has been discussed as an alternative to using propellant; this would allow the ship to travel near the maximum theoretical velocity.[18]
+at 0.1c, orion thermonuclear starships would require a flight time of at least 44 years to reach alpha centauri, not counting time needed to reach that speed (about 36 days at constant acceleration of 1g or 9.8 m/s2). at 0.1c, an orion starship would require 100 years to travel 10 light years. the astronomer carl sagan suggested that this would be an excellent use for current stockpiles of nuclear weapons.[19]
+
+further information: interstellar travel
+later developments[edit]
+ modern pulsed fission propulsion concept
+a concept similar to orion was designed by the british interplanetary society (b.i.s.) in the years 1973–1974. project daedalus was to be a robotic interstellar probe to barnard's star that would travel at 12% of the speed of light. in 1989, a similar concept was studied by the u.s. navy and nasa in project longshot. both of these concepts require significant advances in fusion technology, and therefore cannot be built at present, unlike orion.
+from 1998 to the present, the nuclear engineering department at pennsylvania state university has been developing two improved versions of project orion known as project ican and project aimstar using compact antimatter catalyzed nuclear pulse propulsion units,[20] rather than the large inertial confinement fusion ignition systems proposed in project daedalus and longshot.[21]
+
+costs[edit]
+the expense of the fissionable materials required was thought to be high, until the physicist ted taylor showed that with the right designs for explosives, the amount of fissionables used on launch was close to constant for every size of orion from 2,000 tons to 8,000,000 tons. the larger bombs used more explosives to super-compress the fissionables, increasing efficiency. the extra debris from the explosives also serves as additional propulsion mass.
+the bulk of costs for historical nuclear defense programs have been for delivery and support systems, rather than for production cost of the bombs directly (with warheads being 7% of the u.s. 1946–1996 expense total according to one study).[22] after initial infrastructure development and investment, the marginal cost of additional nuclear bombs in mass production can be relatively low.  in the 1980s, some u.s. thermonuclear warheads had $1.1 million estimated cost each ($630 million for 560).[23] for the perhaps simpler fission pulse units to be used by one orion design, a 1964 source estimated a cost of $40000 or less each in mass production, which would be up to approximately $0.3 million each in modern-day dollars adjusted for inflation.[23][24]
+project daedalus later proposed fusion explosives (deuterium or tritium pellets) detonated by electron beam inertial confinement. this is the same principle behind inertial confinement fusion. theoretically, it could be scaled down to far smaller explosions, and require small shock absorbers.
+
+vehicle architecture[edit]
+ a design for the orion propulsion module
+from 1957 to 1964 this information was used to design a spacecraft propulsion system called orion, in which nuclear explosives would be thrown behind a pusher-plate mounted on the bottom of a spacecraft and exploded. the shock wave and radiation from the detonation would impact against the underside of the pusher plate, giving it a powerful push. the pusher plate would be mounted on large two-stage shock absorbers that would smoothly transmit acceleration to the rest of the spacecraft.
+during take-off, there were concerns of danger from fluidic shrapnel being reflected from the ground. one proposed solution was to use a flat plate of conventional explosives spread over the pusher plate, and detonate this to lift the ship from the ground before going nuclear. this would lift the ship far enough into the air that the first focused nuclear blast would not create debris capable of harming the ship.
+
+ a design for a pulse unit
+a preliminary design for a nuclear pulse unit was produced. it proposed the use of a shaped-charge fusion-boosted fission explosive. the explosive was wrapped in a beryllium oxide channel filler, which was surrounded by a uranium radiation mirror. the mirror and channel filler were open ended, and in this open end a flat plate of tungsten propellant was placed. the whole unit was built into a can with a diameter no larger than 6 inches (15 cm) and weighed just over 300 pounds (140 kg) so it could be handled by machinery scaled-up from a soft-drink vending machine; coca-cola was consulted on the design.[25]
+at 1 microsecond after ignition the gamma bomb plasma and neutrons would heat the channel filler and be somewhat contained by the uranium shell. at 2–3 microseconds the channel filler would transmit some of the energy to the propellant, which vaporized. the flat plate of propellant formed a cigar-shaped explosion aimed at the pusher plate.
+the plasma would cool to 14,000 °c as it traversed the 25 m distance to the pusher plate and then reheat to 67,000 °c as, at about 300 microseconds, it hits the pusher plate and is recompressed. this temperature emits ultraviolet light, which is poorly transmitted through most plasmas. this helps keep the pusher plate cool. the cigar shaped distribution profile and low density of the plasma reduces the instantaneous shock to the pusher plate.
+the pusher plates thickness would decrease by, approximately, a factor of 6 from the center to the edge so that the net velocity of the inner and outer parts of the plate are the same, even though the momentum transferred by the plasma increases from the center outwards.
+at low altitudes where the surrounding air is dense gamma scattering could potentially harm the crew without a radiation shield, a radiation refuge would also be necessary on long missions to survive solar flares. radiation shielding effectiveness increases exponentially with shield thickness, see gamma ray for a discussion of shielding. on ships with a mass greater than 1,000 tonnes the structural bulk of the ship, its stores along with the mass of the bombs and propellant, would provide more than adequate shielding for the crew. stability was initially thought to be a problem due to inaccuracies in the placement of the bombs, but it was later shown that the effects would cancel out.[26][27]
+numerous model flight tests, using conventional explosives, were conducted at point loma, san diego in 1959. on november 14, 1959 the one-meter model, also known as "hot rod" and "putt-putt", first flew using rdx (chemical explosives) in a controlled flight for 23 seconds to a height of 56 meters. film of the tests has been transcribed to video[28] and were featured on the bbc tv program "to mars by a-bomb" in 2003 with comments by freeman dyson and arthur c. clarke. the model landed by parachute undamaged and is in the collection of the smithsonian national air and space museum.
+the first proposed shock absorber was a ring-shaped airbag. it was soon realized that, should an explosion fail, the 500–1000 tonne pusher plate would tear away the airbag on the rebound. so a two-stage detuned spring and piston shock absorber design was developed. on the reference design the first stage mechanical absorber was tuned to 4.5 times the pulse frequency whilst the second stage gas piston was tuned to 0.5 times the pulse frequency. this permitted timing tolerances of 10 ms in each explosion.
+the final design coped with bomb failure by overshooting and rebounding into a center position. thus following a failure and on initial ground launch it would be necessary to start or restart the sequence with a lower yield device. in the 1950s methods of adjusting bomb yield were in their infancy and considerable thought was given to providing a means of swapping out a standard yield bomb for a smaller yield one in a 2 or 3 second time frame or to provide an alternative means of firing low yield bombs. modern variable yield devices would allow a single standardized explosive to be tuned down, configured to a lower yield, automatically.
+the bombs had to be launched behind the pusher plate with enough velocity to explode 20–30 meters beyond it every 1.1 seconds. numerous proposals were investigated, from multiple guns poking over the edge of the pusher plate to rocket propelled bombs launched from roller coaster tracks, however the final reference design used a simple gas gun to shoot the devices through a hole in the center of the pusher plate.
+
+potential problems[edit]
+exposure to repeated nuclear blasts raises the problem of ablation (erosion) of the pusher plate. calculations and experiments indicated that a steel pusher plate would ablate less than 1 mm, if unprotected. if sprayed with an oil it would not ablate at all (this was discovered by accident; a test plate had oily fingerprints on it and the fingerprints suffered no ablation). the absorption spectra of carbon and hydrogen minimize heating. the design temperature of the shockwave, 67,000 °c, emits ultraviolet light. most materials and elements are opaque to ultraviolet especially at the 340 mpa pressures the plate experiences. this prevents the plate from melting or ablating.
+one issue that remained unresolved at the conclusion of the project was whether or not the turbulence created by the combination of the propellant and ablated pusher plate would dramatically increase the total ablation of the pusher plate. according to freeman dyson in the 1960s they would have had to actually perform a test with a real nuclear explosive to determine this; with modern simulation technology this could be determined fairly accurately without such empirical investigation.
+another potential problem with the pusher plate is that of spalling—shards of metal—potentially flying off the top of the plate. the shockwave from the impacting plasma on the bottom of the plate passes through the plate and reaches the top surface. at that point spalling may occur damaging the pusher plate. for that reason alternative substances, plywood and fiberglass, were investigated for the surface layer of the pusher plate and thought to be acceptable.
+if the conventional explosives in the nuclear bomb detonate but a nuclear explosion does not ignite, shrapnel could strike and potentially critically damage the pusher plate.
+true engineering tests of the vehicle systems were thought to be impossible because several thousand nuclear explosions could not be performed in any one place. experiments were designed to test pusher plates in nuclear fireballs and long-term tests of pusher plates could occur in space. several of these tests almost flew.[citation needed] the shock-absorber designs could be tested at full-scale on earth using chemical explosives.
+but the main unsolved problem for a launch from the surface of the earth was thought to be nuclear fallout. freeman dyson, group leader on the project, estimated back in the 1960s that with conventional nuclear weapons each launch would statistically cause on average between 0.1 and 1 fatal cancers from the fallout.[29] that estimate is based on no threshold model assumptions, a method often used in estimates of statistical deaths from other industrial activities. each few million dollars of efficiency indirectly gained or lost in the world economy may statistically average lives saved or lost, in terms of opportunity gains versus costs.[30] indirect effects could matter for whether the overall influence of an orion-based space program on future human global mortality would be a net increase or a net decrease, including if change in launch costs and capabilities affected space exploration, space colonization, the odds of long-term human species survival, space-based solar power, or other hypotheticals.
+danger to human life was not a reason given for shelving the project. the reasons included lack of a mission requirement, the fact that no one in the u.s. government could think of any reason to put thousands of tons of payload into orbit, the decision to focus on rockets for the moon mission, and ultimately the signing of the partial test ban treaty in 1963. the danger to electronic systems on the ground from electromagnetic pulse was not considered to be significant from the sub-kiloton blasts proposed since solid-state integrated circuits were not in general use at the time.
+from many smaller detonations combined the fallout for the entire launch of a 6,000 short ton (5,500 metric ton) orion is equal to the detonation of a typical 10 megaton (40 petajoule) nuclear weapon as an air burst, therefore most of its fallout would be the comparatively dilute delayed fallout. assuming the use of nuclear explosives with a high portion of total yield from fission, it would produce a combined fallout total similar to the surface burst yield of the mike shot of operation ivy, a 10.4 megaton device detonated in 1952. the comparison is not quite perfect as, due to its surface burst location, ivy mike created a large amount of early fallout contamination.  historical above-ground nuclear weapon tests included 189 megatons of fission yield and caused average global radiation exposure per person peaking at 0.11 msv/a in 1963, with a 0.007 msv/a residual in modern times, superimposed upon other sources of exposure, primarily natural background radiation, which averages 2.4 msv/a globally but varies greatly, such as 6 msv/a in some high-altitude cities.[31][32] any comparison would be influenced by how population dosage is affected by detonation locations, with very remote sites preferred.
+with special designs of the nuclear explosive ted taylor estimated that fission product fallout could be reduced tenfold, or even to zero, if a pure fusion explosive could be constructed instead.  a 100% pure fusion explosive has yet to be successfully developed, according to declassified us government documents, although relatively clean pnes (peaceful nuclear explosions) were tested for canal excavation by the soviet union in the 1970s with 98% fusion yield in the taiga test's 15 kiloton devices, 0.3 kilotons fission,[29][33] which excavated part of the proposed pechora–kama canal.
+the vehicle's propulsion system and its test program would violate the partial test ban treaty of 1963, as currently written, which prohibits all nuclear detonations except those conducted underground as an attempt to slow the arms race and to limit the amount of radiation in the atmosphere caused by nuclear detonations. there was an effort by the us government to put an exception into the 1963 treaty to allow for the use of nuclear propulsion for spaceflight but soviet fears about military applications kept the exception out of the treaty.  this limitation would affect only the us, russia, and the united kingdom.  it would also violate the comprehensive nuclear-test-ban treaty which has been signed by the united states and china as well as the de facto moratorium on nuclear testing that the declared nuclear powers have imposed since the 1990s.
+the launch of such an orion nuclear bomb rocket from the ground or low earth orbit would generate an electromagnetic pulse that could cause significant damage to computers and satellites as well as flooding the van allen belts with high-energy radiation. this problem might be solved by launching from very remote areas, the emp footprint would be a few hundred miles wide. a few relatively small space-based electrodynamic tethers could be deployed to quickly eject the energetic particles from the capture angles of the van allen belts.
+an orion spacecraft could be boosted by non-nuclear means to a safer distance only activating its drive well away from earth and its satellites. the lofstrom launch loop or a space elevator hypothetically provide excellent solutions; in the case of the space elevator, existing carbon nanotubes composites, with the exception of possibly colossal carbon tubes do not yet have sufficient tensile strength. all chemical rocket designs are extremely inefficient and expensive when launching large mass into orbit but could be employed if the result were cost effective.
+
+people[edit]
+this section does not cite any sources. please help improve this section by adding citations to reliable sources. unsourced material may be challenged and removed. (october 2017) (learn how and when to remove this template message)
+lew allen, contract manager
+jerry astl, explosives engineer
+jeremy bernstein, physicist
+ed creutz, physicist
+brian dunne, orion's chief scientist
+freeman dyson, physicist
+harry finger, physicist
+burt freeman, physicist
+edward b. giller, usaf liaison
+harris mayer, physicist
+james nance, project director
+h. pierre noyes, physicist
+kedar "bud" pyatt, mathematician
+morris scharff, physicist
+ted taylor, project director
+stanislaw ulam
+operation plumbbob[edit]
+main article: operation plumbbob
+a test that was similar to the test of a pusher plate occurred as an accidental side effect of a nuclear containment test called "pascal-b" conducted on 27 august 1957.[34] the test's experimental designer dr. robert brownlee performed a highly approximate calculation that suggested that the low-yield nuclear explosive would accelerate the massive (900 kg) steel capping plate to six times escape velocity.[35] the plate was never found but dr. brownlee believes that the plate never left the atmosphere, for example it could have been vaporized by compression heating of the atmosphere due to its high speed. the calculated velocity was interesting enough that the crew trained a high-speed camera on the plate which, unfortunately, only appeared in one frame indicating a very high lower bound for the speed of the plate.
+
+notable appearances in fiction[edit]
+main article: list of stories featuring nuclear pulse propulsion
+as discussed by arthur c. clarke in his recollections of the making of 2001: a space odyssey in the lost worlds of 2001, a nuclear-pulse version of the u.s. interplanetary spacecraft discovery one was considered. however the discovery in the movie did not use this idea, as stanley kubrick thought it might be considered parody after making dr. strangelove or: how i learned to stop worrying and love the bomb.[citation needed]
+
+see also[edit]
+aimstar
+antimatter-catalyzed nuclear pulse propulsion
+helios (propulsion system)
+nerva (nuclear engine for rocket vehicle application)
+nuclear propulsion
+project pluto
+project prometheus
+project valkyrie
+peaceful nuclear explosion
+references[edit]
+
+
+^ everett, c.j.; ulam s.m. (august 1955). "on a method of propulsion of projectiles by means of external nuclear explosions. part i" (pdf). los alamos scientific laboratory. p. 5. archived (pdf) from the original on 2010-12-15..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ sagan, carl; druyan, ann; tyson, neil degrasse (2013). cosmos. new york: ballantine books. isbn 978-0-345-53943-4.
+
+^ "pick of the day". the guardian. 25 march 2003. retrieved 22 august 2016.
+
+^ nuclear pulse space vehicle study vol iv – conceptual vehicle designs and operational systems, fig 2.1, pp 4., nasa
+
+^ ross, f.w. – propulsive system specific impulse. general atomics gamd-1293 8 feb. 1960
+
+^ anthony zuppero. "physics of rocket systems with separated energy and propellant". retrieved 2012-04-24.
+
+^ dyson, george (2003). project orion – the atomic spaceship 1957–1965. penguin. isbn 978-0-14-027732-6.
+
+^ g.r. schmidt; j.a. bunornetti; p.j. morton. nuclear pulse propulsion – orion and beyond (pdf). 36th aiaa / asme / sae / asee joint propulsion conference & exhibit, huntsville, alabama, 16–19 july 2000. alaa 2000-3856. two or possibly three saturn v's would have been required to put this vehicle into orbit, and some on-orbit assembly would be required. several mission profiles were considered -the one developed in greatest detail was for a mars mission. eight astronauts. with around 100 tonnes of equipment and supplies. could have made a round trip to mars in 175 days (most current plans call for one-way times of at least nine months). another impressive figure is that as much as 45% of the gross vehicle in earth orbit could have been payload.
+
+^ shipps, p. r.;  et al. (2005-07-04) [sep 19, 1964]. "nuclear pulse space vehicle study" (pdf). vol iii – conceptual vehicle designs and operational systems. contract:nasa-cr-60653; ga-5009-vol-iii. archived from the original (pdf) on 2006-01-03.
+
+^ selden ball. "project orion". wilson lab.
+
+^ dunne; dyson and treshow (1959). dimensional study of orion type spaceships. general atomics. gamd-784.
+
+^ a b dyson, george (2002). project orion: the true story of the atomic spaceship. new york, n.y.: henry holt and co. isbn 978-0-8050-7284-6.
+
+^ martin, anthony r. & bond, alan (august 1979). "nuclear pulse propulsion: a historical review of an advanced propulsion concept". journal of the british interplanetary society. 32: 301. bibcode:1979jbis...32..283m.
+
+^ freeman j. dyson (october 1968). "interstellar transport" (pdf). physics today: 41–45.
+
+^ mallove, eugene f.; matloff, gregory l. (1989). the starflight handbook. john wiley & sons. p. 66. isbn 978-0-471-61912-3.
+
+^ martin & bond (1979), p. 302.
+
+^ cosmos by carl sagan
+
+^ roger x. lenard; dana g. andrews (june–august 2007). "use of mini-mag orion and superconducting coils for near-term interstellar transportation" (pdf). acta astronautica. 61 (1–6): 450–458. bibcode:2007acaau..61..450l. doi:10.1016/j.actaastro.2007.01.052  – via science direct.
+
+^ cosmos series, episode 8
+
+^ kirby j. meyer (february 27, 2001). "introduction". antimatter space propulsion. penn state university. archived from the original on november  1, 2012. retrieved july 20, 2013.
+
+^ "documents". antimatter space propulsion. penn state university. february 27, 2001. archived from the original on january  7, 2010. retrieved november 15, 2009.
+
+^ "estimated minimum incurred costs of u.s. nuclear weapons programs, 1940–1996". brookings institution. 1998. archived from the original on march 10, 2012. retrieved january 12, 2012.
+
+^ a b michael flora. "project orion: its life, death, and possible rebirth". encyclopedia astronautica. archived from the original on november 9, 2011. retrieved 2012-01-11.
+
+^ cpi inflation calculator retrieved 2012-01-11
+
+^ jacobsen, annie (2012). area 51: an uncensored history of america's top secret military base. back bay books. p. 305. isbn 978-0-316-20230-5.
+
+^ teichmann, t. – the angular effects due to asymmetric placement of axial symmetric explosives: gamd-5823, 26 oct 1963
+
+^ david, c. v. – stability study of nuclear pulse propulsion (orion) engine system. gamd-6213, 30 apr 1965
+
+^ august 6, 2007. "project orion". youtube. retrieved 2009-11-15.
+
+^ a b freeman dyson. disturbing the universe.
+
+^ cohen, bernard l. (1990). "understanding risk". the nuclear energy option. plenum press. retrieved 2012-01-11.
+
+^ united nations scientific committee on the effects of atomic radiation (unscear) (2008). "sources and effects of ionizing radiation" (pdf). retrieved 2012-01-11.
+
+^ "radiation – how much am i getting? how can i lower it?". associated radiologists, p.a. 2009. archived from the original on 2011-04-13. retrieved 2012-01-11.
+
+^ milo d. nordyke (1998). "the soviet program for peaceful uses of … nuclear explosions". science & global security. 7: 1–117.
+
+^ "operation plumbbob". nuclear weapon archive. july 2003. retrieved 2006-07-31.
+
+^ brownlee, robert r. (june 2002). "learning to contain underground nuclear explosions". nuclear weapon archive. retrieved 2006-07-31.
+
+
+further reading[edit]
+.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}
+dyson, george (2003). project orion: the true story of the atomic spaceship. henry holt and company. isbn 978-0-8050-7284-6.
+mcphee, john (1994). the curve of binding energy. farrar, straus and giroux. isbn 978-0-374-51598-0.
+"nuclear pulse propulsion (project orion) technical summary report" rtd-tdr-63-3006 (1963–1964); ga-4805 vol. 1: reference vehicle design study, vol. 2: interaction effects, vol. 3: pulse systems, vol. 4: experimental structural response. (from the national technical information service, u.s.a.)
+"nuclear pulse propulsion (project orion) technical summary report" 1 july 1963 – 30 june 1964, wl-tdr-64-93; ga-5386 vol. 1: summary report, vol. 2: theoretical and experimental physics, vol. 3: engine design, analysis and development techniques, vol. 4: engineering experimental tests. (from the national technical information service, u.s.a.)
+general atomics, nuclear pulse space vehicle study, volume i -- summary, september 19, 1964
+general atomics, nuclear pulse space vehicle study, volume iii -- conceptual vehicle designs and operational systems, september 19, 1964
+general atomics, nuclear pulse space vehicle study, volume iv -- mission velocity requirements and system comparisons, february 28, 1966
+general atomics, nuclear pulse space vehicle study, volume iv -- mission velocity requirements and system comparisons (supplement), february 28, 1966
+general dynamics corporation; erik nitsche (1960).  john niven, ed. dynamic america: a history of general dynamics corporation and its predecessor companies. general dynamics. oclc 1284190.
+nasa, nuclear pulse vehicle study condensed summary report (general dynamics corp), january 14, 1964
+
+external links[edit]
+
+
+
+wikimedia commons has media related to project orion (nuclear propulsion).
+the case for orion
+freeman dyson talking about project orion
+electromagnetic pulse shockwaves as a result of nuclear pulse propulsion
+george dyson talking about project orion at ted
+vtenuclear propulsionspacecraft
+antimatter-catalyzed nuclear pulse propulsion
+bussard ramjet
+fission-fragment rocket
+fission sail
+fusion rocket
+gas core reactor rocket
+nuclear electric rocket
+nuclear photonic rocket
+nuclear pulse propulsion
+nuclear salt-water rocket
+nuclear thermal rocket
+radioisotope rocket
+usa
+project orion
+nerva
+project longshot
+project rover
+project prometheus
+uk
+project daedalus
+ussr/russia
+topaz nuclear reactor
+tmk
+yaerd-2200
+tem
+sea vessels
+nuclear marine propulsion
+nuclear navy
+aircraft
+nuclear-powered aircraft
+usa
+aircraft nuclear propulsion program
+convair nb-36h
+convair x-6
+project pluto
+ws-125
+ussr
+tupolev tu-95lal / tu-119
+myasishchev m-60
+ground
+ford nucleon
+ford seattle-ite xxi
+chrysler tv-8
+
+ category
+portal
+ commons
+
+vteunited states human spaceflight programsactive
+international space station (joint)
+orion (in development)
+proposed
+lunar orbital platform-gateway
+previous
+x-15 (suborbital)
+mercury
+gemini
+apollo
+skylab
+apollo–soyuz (with ussr)
+space shuttle
+shuttle-mir (with russia)
+canceled
+miss
+orion (nuclear)
+dyna-soar
+manned orbiting laboratory
+national aero-space plane
+space station freedom (now iss)
+orbital space plane
+project constellation
+
+authority control 
+gnd: 4739465-1
+lccn: n2001002499
+viaf: 131536636
+ worldcat identities (via viaf): 131536636
+
+space portalspaceflight portal
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=project_orion_(nuclear_propulsion)&oldid=879962524"					
+categories: nuclear spacecraft propulsionhypothetical spacecraftsingle-stage-to-orbitspace accessengineering projectsfreeman dysoninterstellar travelhidden categories: use mdy dates from april 2012use american english from april 2012all wikipedia articles written in american englishall articles with unsourced statementsarticles with unsourced statements from november 2018articles with unsourced statements from march 2018articles with unsourced statements from december 2012articles with unsourced statements from october 2008articles needing additional references from october 2017all articles needing additional referencesarticles with unsourced statements from october 2017wikipedia articles with gnd identifierswikipedia articles with lccn identifierswikipedia articles with viaf identifierswikipedia articles with worldcat-viaf identifiers 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+العربيةবাংলাcatalàdeutscheestiespañolfrançaisbahasa indonesianederlands日本語polskiportuguêsromânăрусскийсрпски / srpskisuomisvenska中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 24 january 2019, at 14:23 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.788","walltime":"1.094","ppvisitednodes":{"value":2911,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":105954,"limit":2097152},"templateargumentsize":{"value":3665,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":16,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":90167,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00%  907.024      1 -total"," 45.05%  408.641      1 template:reflist"," 17.45%  158.297     12 template:cite_web"," 10.28%   93.257      5 template:citation_needed"," 10.07%   91.362     11 template:cite_book","  9.32%   84.548      5 template:fix","  7.66%   69.508      4 template:cite_journal","  7.42%   67.325      4 template:navbox","  7.28%   65.995      1 template:nuclear_propulsion","  6.63%   60.120      1 template:isbn"]},"scribunto":{"limitreport-timeusage":{"value":"0.441","limit":"10.000"},"limitreport-memusage":{"value":9627715,"limit":52428800}},"cachereport":{"origin":"mw1325","timestamp":"20190213233328","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":154,"wghostname":"mw1238"});});
+
+

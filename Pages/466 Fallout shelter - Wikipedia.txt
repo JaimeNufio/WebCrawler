@@ -1,0 +1,482 @@
+
+
+
+
+fallout shelter - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"fallout_shelter","wgtitle":"fallout shelter","wgcurrevisionid":863557957,"wgrevisionid":863557957,"wgarticleid":11493,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["articles with french-language external links","webarchive template webcite links","use mdy dates from october 2014","all articles with unsourced statements","articles with unsourced statements from august 2012","commons category link is on wikidata","air-raid shelters","cold war sites","nuclear warfare","radioactivity","radiobiology","subterranea (geography)","survivalism","radiation protection"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"fallout_shelter","wgrelevantarticleid":11493,"wgrequestid":"xgyboapaad4aabsqmw4aaabh","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q1571844","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+fallout shelter 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+for the 2015 video game, see fallout shelter.
+
+
+ a fallout shelter sign in the united states of america.
+nuclear weapons
+background
+history
+warfare
+design
+testing
+delivery
+yield
+effects and estimated megadeaths of explosions
+winter
+workers
+ethics
+arsenals
+arms race
+espionage
+proliferation
+disarmament
+terrorism
+opposition
+
+nuclear-armed states
+npt recognizedunited states
+russia
+united kingdom
+france
+china
+othersindia
+israel (undeclared)
+pakistan
+north korea
+formersouth africa
+belarus 
+kazakhstan
+ukraine
+vte
+a fallout shelter is an enclosed space specially designed to protect occupants from radioactive debris or fallout resulting from a nuclear explosion. many such shelters were constructed as civil defense measures during the cold war.
+during a nuclear explosion, matter vaporized in the resulting fireball is exposed to neutrons from the explosion, absorbs them, and becomes radioactive. when this material condenses in the rain, it forms dust and light sandy materials that resemble ground pumice. the fallout emits alpha and beta particles, as well as gamma rays.
+much of this highly radioactive material falls to earth, subjecting anything within the line of sight to radiation, becoming a significant hazard. a fallout shelter is designed to allow its occupants to minimize exposure to harmful fallout until radioactivity has decayed to a safer level.
+
+contents
+
+1 history
+
+1.1 north america
+1.2 europe and russia
+
+1.2.1 switzerland
+
+
+
+
+2 details of shelter construction
+
+2.1 shielding
+2.2 climate control
+2.3 locations
+2.4 contents
+
+2.4.1 kearny fallout meter
+
+
+
+
+3 use
+4 different types of radiation emitted by fallout
+
+4.1 alpha (α)
+4.2 beta (β)
+4.3 gamma (γ)
+
+
+5 weapons versus nuclear accident fallout
+6 other matters and simple improvements
+
+6.1 measures to lower the beta dose
+6.2 measures to lower the gamma dose rate
+
+
+7 fallout shelters in popular culture
+8 see also
+9 notes and references
+10 external links
+
+
+history[edit]
+ idealized american fallout shelter, around 1957.
+north america[edit]
+during the cold war, many countries built fallout shelters for high-ranking government officials and crucial military facilities, such as project greek island and the cheyenne mountain nuclear bunker in the united states and canada's emergency government headquarters. plans were made, however, to use existing buildings with sturdy below-ground-level basements as makeshift fallout shelters. these buildings were placarded with the orange-yellow and black trefoil sign designed by united states army corps of engineers director of administrative logistics support function robert w. blakeley in 1961.[1]
+the national emergency alarm repeater (near) program was developed in the united states in 1956 during the cold war to supplement the existing siren warning systems and radio broadcasts in the event of a nuclear attack. the near civilian alarm device was engineered and tested but the program was not viable and was terminated in 1967.[2] in the u.s. in september 1961, under the direction of steuart l. pittman, the federal government started the community fallout shelter program.[3][4] a letter from president kennedy advising the use of fallout shelters appeared in the september 1961 issue of life magazine.[5]
+in november 1961, in fortune magazine, an article by gilbert burck appeared that outlined the plans of nelson rockefeller, edward teller, herman kahn, and chet holifield for an enormous network of concrete lined underground fallout shelters throughout the united states sufficient to shelter millions of people to serve as a refuge in case of nuclear war.[6]
+the united states ended federal funding for the shelters in the 1970s.[7] in 2017, new york city began removing the iconic yellow signs since members of the public are unlikely to find viable food and medicine inside those rooms.[8]
+
+europe and russia[edit]
+similar projects have been undertaken in finland, which requires all buildings with area over 600 m² to have an nbc shelter, and norway, which requires all buildings with an area over 1000 m² to have a shelter.[9]
+the former soviet union and other eastern bloc countries often designed their underground mass-transit and subway tunnels to serve as bomb and fallout shelters in the event of an attack.
+germany has protected shelters for 3% of its population, austria for 30%, finland for 70%, sweden for 81%, and switzerland for 114%.[10]
+
+switzerland[edit]
+ the sonnenberg tunnel, in switzerland, was the world's largest civilian nuclear fallout shelter, designed to protect 20,000 civilians in the eventuality of war or disaster (civil defense function abandoned in 2006).[10][11]
+switzerland built an extensive network of fallout shelters, not only through extra hardening of government buildings such as schools, but also through a building regulation requiring nuclear shelters in residential buildings since the 1960s (the first legal basis in this sense dates from 4 october 1963).[11] later, the law ensured that all residential buildings built after 1978 contained a nuclear shelter able to withstand a blast from a 12 megaton explosion at a distance of 700 metres.[12] the federal law on the protection of the population and civil protection still requires that every inhabitant should have a place in a shelter close to where they live.[10]
+the swiss authorities maintained large communal shelters (such as the sonnenberg tunnel until 2006) stocked with over four months of food and fuel.[12] the reference nuclear war survival skills declared that, as of 1986, "switzerland has the best civil defense system, one that already includes blast shelters for over 85% of all its citizens."[13] as of 2006, there were about 300,000 shelters built in private homes, institutions and hospitals, as well as 5,100 public shelters for a total of 8.6 million places, a level of coverage equal to 114% of the population.[10]
+in switzerland, most residential shelters are no longer stocked with the food and water required for prolonged habitation and a large number have been converted by the owners to other uses (e.g., wine cellars, ski rooms, gyms).[12] but the owner still has the obligation to ensure the maintenance of the shelter.[10]
+
+details of shelter construction[edit]
+ door of a public fallout shelter in switzerland (2014).
+ large fire door, sealing a fallout and air raid shelter inside the basement parking garage of a hotel in germany.
+shielding[edit]
+a basic fallout shelter consists of shields that reduce gamma ray exposure by a factor of 1000. the required shielding can be accomplished with 10 times the thickness of any quantity of material capable of cutting gamma ray exposure in half. shields that reduce gamma ray intensity by 50% (1/2) include 1 cm (0.4 inch) of lead, 6 cm (2.4 inches) of concrete, 9 cm (3.6 inches) of packed earth or 150 m (500 ft) of air. when multiple thicknesses are built, the shielding multiplies. thus, a practical fallout shield is ten halving-thicknesses of packed earth, reducing gamma rays by approximately 1024 times (210).[14]
+usually, an expedient purpose-built fallout shelter is a trench; with a strong roof buried by 1 m (3 ft) of earth. the two ends of the trench have ramps or entrances at right angles to the trench, so that gamma rays cannot enter (they can travel only in straight lines). to make the overburden waterproof (in case of rain), a plastic sheet may be buried a few inches below the surface and held down with rocks or bricks.[15]
+blast doors are designed to absorb the shock wave of a nuclear blast, bending and then returning to their original shape.[16]
+
+climate control[edit]
+dry earth is a reasonably good thermal insulator, and over several weeks of habitation, a shelter will become dangerously hot.[17] the simplest form of effective fan to cool a shelter is a wide, heavy frame with flaps that swing in the shelter's doorway and can be swung from hinges on the ceiling. the flaps open in one direction and close in the other, pumping air. (this is a kearny air pump, or kap, named after the inventor, cresson kearny)
+unfiltered air is safe, since the most dangerous fallout has the consistency of sand or finely ground pumice.[17] such large particles are not easily ingested into the soft tissues of the body, so extensive filters are not required. any exposure to fine dust is far less hazardous than exposure to the fallout outside the shelter. dust fine enough to pass the entrance will probably pass through the shelter.[17] some shelters, however, incorporate nbc-filters for additional protection.
+
+locations[edit]
+effective public shelters can be the middle floors of some tall buildings or parking structures, or below ground level in most buildings with more than 10 floors. the thickness of the upper floors must form an effective shield, and the windows of the sheltered area must not view fallout-covered ground that is closer than 1.5 km (1 mi). one of switzerland's solutions is to use road tunnels passing through the mountains, with some of these shelters being able to protect tens of thousands.[18]
+fallout shelters are not always underground. above ground buildings with walls and roofs dense enough to afford a meaningful protection factor can be used as a fallout shelter.[19]
+
+contents[edit]
+a battery-powered radio may be helpful to get reports of fallout patterns and clearance. however, radio and other electronic equipment may be disabled by electromagnetic pulse. for example, even at the height of the cold war, emp protection had been completed for only 125 of the approximately 2,771 radio stations in the united states emergency broadcast system. also, only 110 of 3,000 existing emergency operating centers had been protected against emp effects.[20] the emergency broadcast system has since been supplanted in the united states by the emergency alert system.
+the reference nuclear war survival skills includes the following supplies in a list of "minimum pre-crisis preparations": one or more shovels, a pick, a bow-saw with an extra blade, a hammer, and 4-mil polyethylene film (also any necessary nails, wire, etc.); a homemade shelter-ventilating pump (a kap); large containers for water; a plastic bottle of sodium hypochlorite bleach; one or two kfms and the knowledge to operate them; at least a 2-week supply of compact, nonperishable food; an efficient portable stove; wooden matches in a waterproof container; essential containers and utensils for storing, transporting, and cooking food; a hose-vented 5-gallon can, with heavy plastic bags for liners, for use as a toilet; tampons; insect screen and fly bait; any special medications needed by family members; pure potassium iodide, a 2-oz bottle, and a medicine dropper; a first-aid kit and a tube of antibiotic ointment; long-burning candles (with small wicks) sufficient for at least 14 nights; an oil lamp; a flashlight and extra batteries; and a transistor radio with extra batteries and a metal box to protect it from electromagnetic pulse.[21]
+inhabitants should have water on hand, 1-2 gallons per person per day. water stored in bulk containers requires less space than water stored in smaller bottles.[22]
+
+kearny fallout meter[edit]
+commercially made geiger counters are expensive and require frequent calibration. it is possible to construct an electrometer-type radiation meter called the kearny fallout meter, which does not require batteries or professional calibration, from properly-scaled plans with just a coffee can or pail, gypsum board, monofilament fishing line, and aluminum foil.[23] plans are freely available in the public domain in the reference nuclear war survival skills by cresson kearny.[24]
+
+use[edit]
+inhabitants should plan to remain sheltered for at least two weeks (with an hour out at the end of the first week – see swiss civil defense guidelines), then work outside for gradually increasing amounts of time, to four hours a day at three weeks. the normal work is to sweep or wash fallout into shallow trenches to decontaminate the area. they should sleep in a shelter for several months. evacuation at three weeks is recommended by official authorities.[citation needed]
+if available, inhabitants may take potassium iodide at the rate of 130 mg/day per adult (65 mg/day per child) as an additional measure to protect the thyroid gland from the uptake of dangerous radioactive iodine, a component of most fallout and reactor waste.[25]
+
+
+
+ relative abilities of three different types of ionizing radiation to penetrate solid matter.
+
+
+ the protection factor provided by 10 cm of concrete shielding where the source is the idealised chernobyl fallout.[26]
+
+
+ the protection factor provided by 20 cm of concrete shielding where the source is the idealised chernobyl fallout.[26]
+
+
+ the protection factor provided by 30 cm of concrete shielding where the source is the idealised chernobyl fallout.[26]
+
+
+ calculated relative gamma dose rates from atomic bomb and chernobyl fallout
+
+different types of radiation emitted by fallout[edit]
+alpha (α)[edit]
+in the vast majority of accidents, and in all atomic bomb blasts, the threat due to beta and gamma emitters is greater than that posed by the alpha emitters in the fallout. alpha particles are identical to a helium-4 nucleus (two protons and two neutrons), and travel at speeds in excess of 5% of the speed of light. alpha particles have little penetrating power; most cannot penetrate through human skin. avoiding direct exposure with fallout particles will prevent injury from alpha radiation.[27]
+
+beta (β)[edit]
+beta radiation consists of particles (high-speed electrons) given off by some fallout. most beta particles cannot penetrate more than about 10 feet (3 metres) of air or about ​1⁄8 inch (3 millimetres) of water, wood, or human body tissue; or a sheet of aluminum foil. avoiding direct exposure with fallout particles will prevent most injuries from beta radiation.[28]
+the primary dangers associated with beta radiation are internal exposure from ingested fallout particles and beta burns from fallout particles no more than a few days old. beta burns can result from contact with highly radioactive particles on bare skin; ordinary clothing separating fresh fallout particles from the skin can provide significant shielding.[28]
+
+gamma (γ)[edit]
+gamma radiation penetrates further through matter than alpha or beta radiation. most of the design of a typical fallout shelter is intended to protect against gamma rays. gamma rays are better absorbed by materials with high atomic numbers and high density, although neither effect is important compared to the total mass per area in the path of the gamma ray. thus, lead is only modestly better as a gamma shield than an equal mass of another shielding material such as aluminum, concrete, water or soil.
+some gamma radiation from fallout will penetrate into even the best shelters. however, the radiation dose received while inside a shelter can be significantly reduced with proper shielding. ten halving thicknesses of a given material can reduce gamma exposure to less than ​1⁄1000 of unshielded exposure.[29]
+
+weapons versus nuclear accident fallout[edit]
+the bulk of the radioactivity in nuclear accident fallout is more long-lived than that in weapons fallout. a good table of the nuclides, such as that provided by the korean atomic energy research institute, includes the fission yields of the different nuclides. from this data it is possible to calculate the isotopic mixture in the fallout (due to fission products in bomb fallout).[citation needed]
+
+other matters and simple improvements[edit]
+while a person's home may not be a purpose-made shelter, it could be thought of as one if measures are taken to improve the degree of fallout protection.
+
+measures to lower the beta dose[edit]
+the main threat of beta radiation exposure comes from hot particles in contact with or close to the skin of a person. also, swallowed or inhaled hot particles could cause beta burns. as it is important to avoid bringing hot particles into the shelter, one option is to remove one's outer clothing, or follow other decontamination procedures, on entry. fallout particles will cease to be radioactive enough to cause beta burns within a few days following a nuclear explosion. the danger of gamma radiation will persist for far longer than the threat of beta burns in areas with heavy fallout exposure.[30]
+
+measures to lower the gamma dose rate[edit]
+the gamma dose rate due to the contamination brought into the shelter on the clothing of a person is likely to be small (by wartime standards) compared to gamma radiation that penetrates through the walls of the shelter.[30] the following measures can be taken to reduce the amount of gamma radiation entering the shelter:
+
+roofs and gutters can be cleaned to lower the dose rate in the house.
+the top inch of soil in the area near the house can be either removed or dug up and mixed with the subsoil. this reduces the dose rate as the gamma rays have to pass through the topsoil before they can irradiate anything above.
+nearby roads can be rinsed and washed down to remove dust and debris; the fallout would collect in the sewers and gutters for easier disposal. in kiev after the chernobyl accident a program of road washing was used to control the spread of radioactivity.
+windows can be bricked up, or the sill raised to reduce the hole in the shielding formed by the wall.
+gaps in the shielding can be blocked using containers of water. while water has a much lower density than that of lead, it is still able to shield some gamma rays.
+earth (or other dense material) can be heaped up against the exposed walls of the building; this forces the gamma rays to pass through a thicker layer of shielding before entering the house.
+nearby trees can be removed to reduce the dose due to fallout which is on the branches and leaves. it has been suggested by the us government that a fallout shelter should not be dug close to trees for this reason.[31]
+fallout shelters in popular culture[edit]
+ robert w. blakeley-designed fallout shelter sign used in the united states.
+ the international distinctive sign of civil defense personnel and infrastructures.
+fallout shelters feature prominently in the robert a. heinlein novel farnham's freehold (heinlein built a fairly extensive shelter near his home in colorado springs in 1963),[32] pulling through by dean ing, a canticle for leibowitz by walter m. miller and earth by david brin.
+the 1961 twilight zone episode "the shelter", from a rod serling script, deals with the consequences of actually using a shelter. another episode of the series called "one more pallbearer" featured a fallout shelter owned by millionaire. the 1985 adaption of the series had the episode "shelter skelter" that featured a fallout shelter.
+in the only fools and horses episode "the russians are coming", derek trotter buys a lead fallout shelter, then decides to construct it in fear of an impending nuclear war caused by the soviet union (who were still active during the episode's creation).
+in 1999 the film blast from the past was released. it is a romantic comedy film about a nuclear physicist, his wife, and son that enter a well-equipped, spacious fallout shelter during the 1962 cuban missile crisis. they do not emerge until 35 years later, in 1997. the film shows their reaction to contemporary society.
+the fallout series of computer games depicts the remains of human civilization after an immensely destructive global nuclear war; the united states of america had built underground vaults that were advertised to protect the population against a nuclear attack, but almost all of them were in fact meant to lure subjects for long-term human experimentation.
+paranoia, a role-playing game, takes place in a form of fallout shelter, which has become ruled by an insane computer.
+the metro 2033 book series by russian author dmitry glukhovsky depicts survivors' life in the subway systems below moscow and saint-petersburg after a nuclear exchange between the russian federation and the united states of america.
+fallout shelters are often featured on the reality television show doomsday preppers.[33]
+the silo series of novellas by hugh howey feature extensive fallout-style shelters that protect the inhabitants from an initially unknown disaster.
+
+see also[edit]
+
+abo elementary school
+ark two shelter
+blast shelter
+bomb shelter
+bunker
+bruce d. clayton, author of fallout survival and life after doomsday
+collective protection
+command center
+conelrad
+continuity of government
+project greek island
+vivos (underground shelter)
+
+nation specific:
+
+
+central government war headquarters, the uks gov. war headquarters at corsham, wiltshire.
+diefenbunker
+handel, uk's former national attack warning system
+
+general:
+
+
+fission product
+retreat (survivalism)
+sonnenberg tunnel
+survivalism
+
+publications:
+
+
+fallout protection
+survival under atomic attack
+nuclear war survival skills
+
+notes and references[edit]
+
+
+^ mcfadden, robert d. "robert blakeley, whose fallout shelter sign symbolized the cold war, dies at 95," the new york times, friday, october 27, 2017.
+
+^ "episode 709, story 3: n.e.a.r device" (transcript). pbs.com. oregon public broadcasting. 2009. p. 11. retrieved october 9, 2014..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ "civil defense museum-community shelter tours main page". civildefensemuseum.com. retrieved september 14, 2008.
+
+^ "fallout fever: civil defense shelters dotted area cities during the cold war – my web times". mywebtimes.com. retrieved september 14, 2008.
+
+^ doe.gov
+
+^ fortune magazine november 1961 pages 112–115 et al
+
+^ bearman, sophie (6 oct 2017). "thinking the unthinkable: don't rely on these historic fallout shelters in case of a nuclear attack". cnbc. retrieved 27 december 2017.
+
+^ allen, jonathan (27 december 2017). "new york city to remove misleading nuclear fallout shelter signs". huffington post. reuters. retrieved 27 december 2017.
+
+^ "for 1995-03-15 nr 254: forskrift om tilfluktsrom". lovdata.no. retrieved august 15, 2012.
+
+^ a b c d e (in french) daniele mariani, "à chacun son bunker", swissinfo, 23 october 2009 (page visited on 5 august 2015).
+
+^ a b (in french) catherine frammery, "dans les entrailles du sonnenberg, monstrueux témoin de la guerre froide", le temps, monday 15 august 2016 (page visited on 15 august 2015).
+
+^ a b c ball, deborah (june 25, 2011). "swiss renew push for bomb shelters". the wall street journal. retrieved december 18, 2012.
+
+^ kearny, cresson h (1986). nuclear war survival skills. oak ridge, tn: oak ridge national laboratory. pp. 6–10. isbn 0-942487-01-x.
+
+^ "halving-thickness for various materials". "the compass derose guide to emergency preparedness – hardened shelters".
+
+^ kearny, cresson h (1986). nuclear war survival skills. oak ridge, tn: oak ridge national laboratory. pp. 37–45. isbn 0-942487-01-x. the 3-foot thickness of earth shown (or a 2-foot thickness of concrete) will provide an effective barrier, attenuating (absorbing) about 99.9%, of all gamma rays from fallout." "a right-angle turn, either from a vertical or horizontal entry, causes a reduction of about 90%." "...a large piece of 4-mil-thick polyethylene was placed over the mound. this waterproof material served as a "buried roof" after it was covered with more earth.
+
+^ "secret u.s. bunkers". lost worlds. episode 18. august 29, 2007. the history channel.
+
+^ a b c kearny, cresson h (1986). nuclear war survival skills. oak ridge, tn: oak ridge national laboratory. pp. 51–56. isbn 0-942487-01-x.
+
+^ foulkes, imogen (february 10, 2007). "swiss still braced for nuclear war". bbc news, switzerland. retrieved august 15, 2012.
+
+^ monteyne, david. fallout shelter: designing for civil defense in the cold war. minneapolis: university of minnesota, 2011. print.
+
+^ kearny, cresson h (1986). nuclear war survival skills. oak ridge, tn: oak ridge national laboratory. p. 24. isbn 0-942487-01-x.
+
+^ kearny, cresson h (1986). nuclear war survival skills. oak ridge, tn: oak ridge national laboratory. pp. 133–134. isbn 0-942487-01-x.
+
+^ hammes, ja (1966). fallout shelter survival research. pp. 154–159.
+
+^ kearny, cresson h (1978). the kfm, a homemade yet accurate and dependable fallout meter (pdf). oak ridge, tn: oak ridge national laboratory. archived from the original (pdf) on march 25, 2004.
+
+^ kearny, cresson h (1986). nuclear war survival skills. oak ridge, tn: oak ridge national laboratory. pp. 95–100. isbn 0-942487-01-x.
+
+^ kearny, cresson h (1986). nuclear war survival skills. oak ridge, tn: oak ridge national laboratory. pp. 111–117. isbn 0-942487-01-x.
+
+^ a b c note that this image was drawn using data from the oecd report and the second edition of the radiochemical manual
+
+^ kearny, cresson h (1986). nuclear war survival skills. oak ridge, tn: oak ridge national laboratory. p. 45. isbn 0-942487-01-x.
+
+^ a b kearny, cresson h (1986). nuclear war survival skills. oak ridge, tn: oak ridge national laboratory. p. 44. isbn 0-942487-01-x.
+
+^ kearny, cresson h (1986). nuclear war survival skills. oak ridge, tn: oak ridge national laboratory. pp. 11–20. isbn 0-942487-01-x.
+
+^ a b kearny, cresson h (1986). nuclear war survival skills. oak ridge, tn: oak ridge national laboratory. p. 131. isbn 0-942487-01-x.
+
+^ kearny, cresson h (1986). nuclear war survival skills. oak ridge, tn: oak ridge national laboratory. p. 39. isbn 0-942487-01-x.
+
+^ site: robert a. heinlein – archives – pm 6/52 article archived 2010-03-07 at webcite
+
+^ shelter - doomsday preppers article - national geographic channel
+
+
+external links[edit]
+
+
+
+wikimedia commons has media related to fallout shelters.
+history of the design of the fallout shelter sign
+fallout exposure based on size of bomb and distance from explosion. (noradshelters.com)
+bomb shelter questions and answers (www.undergroundbombshelter.com)
+nuclear war survival skills app. a: instructions for six expedient fallout shelters
+the fallout shelter and expedient protection
+nuclear technology portal
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=fallout_shelter&oldid=863557957"					
+categories: air-raid shelterscold war sitesnuclear warfareradioactivityradiobiologysubterranea (geography)survivalismradiation protectionhidden categories: articles with french-language external linkswebarchive template webcite linksuse mdy dates from october 2014all articles with unsourced statementsarticles with unsourced statements from august 2012commons category link is on wikidata 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+العربيةazərbaycancaбеларускаяcatalàdeutschespañoleuskarafrançaisitalianoעבריתқазақшаlatinaoʻzbekcha/ўзбекчарусскийсрпски / srpskiукраїнська 
+edit links 
+
+
+
+
+
+ this page was last edited on 11 october 2018, at 14:57 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.632","walltime":"0.805","ppvisitednodes":{"value":2102,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":56130,"limit":2097152},"templateargumentsize":{"value":1680,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":78055,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  652.915      1 -total"," 60.14%  392.666      1 template:reflist"," 20.82%  135.954      2 template:fr"," 20.15%  131.539      1 template:link_language"," 13.61%   88.839      5 template:cite_web"," 12.96%   84.604     14 template:cite_book"," 11.16%   72.840      1 template:commons_category","  7.74%   50.563      2 template:citation_needed","  6.95%   45.391      2 template:fix","  4.71%   30.759      5 template:category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.345","limit":"10.000"},"limitreport-memusage":{"value":17064848,"limit":52428800}},"cachereport":{"origin":"mw1333","timestamp":"20190214235621","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"fallout shelter","url":"https:\/\/en.wikipedia.org\/wiki\/fallout_shelter","sameas":"http:\/\/www.wikidata.org\/entity\/q1571844","mainentity":"http:\/\/www.wikidata.org\/entity\/q1571844","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2001-11-14t03:08:36z","datemodified":"2018-10-11t14:57:14z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/cc\/united_states_of_america_fallout_shelter_sign.jpg","headline":"enclosed space specially designed to protect occupants from radioactive debris or fallout"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":120,"wghostname":"mw1267"});});
+
+

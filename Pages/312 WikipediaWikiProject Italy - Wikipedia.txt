@@ -1,0 +1,1754 @@
+
+
+
+
+wikipedia:wikiproject italy - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"project","wgcanonicalspecialpagename":false,"wgnamespacenumber":4,"wgpagename":"wikipedia:wikiproject_italy","wgtitle":"wikiproject italy","wgcurrevisionid":882070727,"wgrevisionid":882070727,"wgarticleid":7854221,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["wikiproject countries projects","wikiproject italy"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"wikipedia:wikiproject_italy","wgrelevantarticleid":7854221,"wgrequestid":"xgwklwpamfuaahz117kaaaak","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q6876022","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.categorytree.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","jquery.makecollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.categorytree","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makecollapsible","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+wikipedia:wikiproject italy 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+points of interest related to italy on wikipedia:outline – history – portal – category – wikiproject – alerts – deletions – cleanup – stubs – assessment – to-do
+
+
+
+
+
+
+
+this wikiproject has been formed to foster the improvement of wikipedia’s coverage of italy—both the modern nation state and the rich and bewildering variety of historical states and cultures which have inhabited its territory. we intend to work in a spirit of cooperation with the many wikipedians who have contributed to articles on “italian” subjects.
+this page and its future subpages contain suggestions on formatting and layout of articles, which can be discussed at the project's talk page. to participate simply add your name to the participants section, including (if you so wish) any particular interests or relevant specialisms.
+
+ scope[edit]
+this project aims to address the production, improvement and coordination of articles related to italy—its geography, history, culture, languages, politics, etc., all seen in their broadest senses.  it intends to expand wikipedia's resources on the subject in a fair and accurate manner and to act as a locus where controversies can be aired and hopefully resolved.
+
+ participants[edit]
+project members are encouraged to add {{user wikiproject italy}} to their user pages to identify themselves as members of the project.
+
+
+
+
+
+mephiston999 feel free to ask me any questions on this wikiproject
+
+adavis444
+alexbarrow
+altiorapeto
+amiens984
+amit6
+angelikfire
+apollineo!
+attilios
+badbilltucker
+bahnfrend
+baristarim
+bellaromana039
+bramfab
+bri tuohy
+brixia
+broletto
+brunodam
+camelia
+captain raju
+carbongirl32
+catgut
+cmpunkster
+cote d'azur
+cunibertus
+diko
+don mannino
+dr_satori
+daniel marconi
+duiliom
+eddiealighieri
+eiron
+emanuelerocca
+f.giusto
+fra casa
+franico
+frederickii
+general mannino
+gerardo1
+giovanni mascellaro
+girl-razor
+goltak
+hitromilanese
+ian spackman
+icsunonove
+isak48
+itemirus
+user:jbeck8924
+jean
+john hobson
+jnorthdur
+jorge
+juanm
+justlettersandnumbers
+justmeonhere
+kartracer32
+kasper2006
+kaspo
+keresaspa
+kingpenguin
+kwork
+l'aquatique
+latinwolf (talk)
+louanna007
+louisbeta
+mad toad
+marco pagot
+marek69
+martinelli95
+maryg90
+mparu
+muhammad-aziz
+nehwyn
+nickanc
+noclador
+ollecram
+pampuco
+patricknoddy
+pebbles
+perseus101
+piedmont
+pietro
+quidoqui
+r-41
+rjensen
+romaioi
+ryanmcdaniel
+salvio
+s1312 (talk) / (email)
+sectori
+shooke
+stefano cortinovis
+subtropical-man
+supernaut_eng
+tencourt
+theologiae
+townlake
+udonknome
+user:vaselineeeeeeee
+vicipaedianus
+zidanie5
+zoticogrillo
+zuffe
+
+
+structure and navigation[edit]
+refine and maintain the list of basic italy topics, a key guide on wikipedia to italy as a subject. it serves as a table of contents, summary, and topic outline of coverage on the country italy and is the most useful tool on wikipedia for exploring and understanding fundamental material about italy (and how it fits together) on wikipedia.  its purpose is an important one:  it simply enables readers to see at a glance how the subject of italy is broken down, what the component topics are, and how they relate to each other - that is, how information on italy is organized (here, and in the world-at-large).  it is a site map and outline of knowledge that demystifies the subject known as "italy".  because of its central role in the presentation of wikipedia's coverage of this subject, it is very important to develop and maintain it to the highest level of quality:  to help readers improve their conceptual awareness and understanding of italy as well as find their way around this subject on wikipedia.  for examples of other pages in this set, see list of basic france topics, list of basic thailand topics, list of basic japan topics, list of basic taiwan topics, and list of basic iceland topics, all of which are currently completed to a higher level of quality than this page.  in other words, it's getting its ass kicked:  the list of basic italy topics is incomplete, needs your editing contributions, and is especially in need of maps and pictures!
+refine and maintain category:italy and its subcategories.
+new articles[edit]
+the following recent articles have been identified by a bot as likely to be related to italy:
+
+
+
+this list was generated from these rules. questions and feedback are always welcome! the search is being run daily with the most recent ~14 days of results. note: some articles may not be relevant to this project.
+rules | match log | results page (for watching) | last updated: 2019-02-18 20:52 (utc)
+note: the list display can now be customized by each user. see list display personalization for details.
+
+
+luca d’alberto (edit | talk | history | links | watch | logs | tools) by smart box 022 (talk · contribs · new pages (3)) started on 2019-02-18, score: 214
+bosnia and herzegovina at the european youth olympic festival (edit | talk | history | links | watch | logs | tools) by hamopipa0609 (talk · contribs · new pages (71)) started on 2019-02-18, score: 40
+bartolomeo cesi (bishop) (edit | talk | history | links | watch | logs | tools) by patapsco913 (talk · contribs · new pages (29)) started on 2019-02-18, score: 42
+edoardo di bella (edit | talk | history | links | watch | logs | tools) by davidlofgren1996 (talk · contribs · new pages (30)) started on 2019-02-18, score: 164
+matteo perrotti (edit | talk | history | links | watch | logs | tools) by davidlofgren1996 (talk · contribs · new pages (30)) started on 2019-02-18, score: 174
+luca buongiorno (edit | talk | history | links | watch | logs | tools) by davidlofgren1996 (talk · contribs · new pages (30)) started on 2019-02-18, score: 184
+list of recipients of the grand collar of the order of prince henry (edit | talk | history | links | watch | logs | tools) by noswall59 (talk · contribs · new pages (8)) started on 2019-02-18, score: 35
+francesco de stefano (edit | talk | history | links | watch | logs | tools) by davidlofgren1996 (talk · contribs · new pages (30)) started on 2019-02-18, score: 114
+gabriella rasponi spalletti (edit | talk | history | links | watch | logs | tools) by ipigott (talk · contribs · new pages (52)) started on 2019-02-18, score: 142
+friends (amii stewart song) (edit | talk | history | links | watch | logs | tools) by hiddenstranger (talk · contribs · new pages (40)) started on 2019-02-18, score: 60
+2019 trofeo laigueglia (edit | talk | history | links | watch | logs | tools) by seacactus 13 (talk · contribs · new pages (26)) started on 2019-02-18, score: 52
+luca mosti (edit | talk | history | links | watch | logs | tools) by simione001 (talk · contribs · new pages (5)) started on 2019-02-18, score: 124
+cotroni (edit | talk | history | links | watch | logs | tools) by vaselineeeeeeee (talk · contribs · new pages (5)) started on 2019-02-18, score: 104
+luppino family (edit | talk | history | links | watch | logs | tools) by vaselineeeeeeee (talk · contribs · new pages (5)) started on 2019-02-18, score: 40
+giusi nicolini (edit | talk | history | links | watch | logs | tools) by alecaphollywood (talk · contribs · new pages (5)) started on 2019-02-17, score: 92
+carnevalöa (edit | talk | history | links | watch | logs | tools) by peter39c (talk · contribs · new pages (1)) started on 2019-02-17, score: 168
+pariani (edit | talk | history | links | watch | logs | tools) by zigzig20s (talk · contribs · new pages (136)) started on 2019-02-17, score: 40
+panunzio (edit | talk | history | links | watch | logs | tools) by zigzig20s (talk · contribs · new pages (136)) started on 2019-02-17, score: 40
+davanzati (edit | talk | history | links | watch | logs | tools) by zigzig20s (talk · contribs · new pages (136)) started on 2019-02-17, score: 40
+reghini (edit | talk | history | links | watch | logs | tools) by zigzig20s (talk · contribs · new pages (136)) started on 2019-02-17, score: 40
+lualdi (edit | talk | history | links | watch | logs | tools) by zigzig20s (talk · contribs · new pages (136)) started on 2019-02-17, score: 50
+interlandi (edit | talk | history | links | watch | logs | tools) by zigzig20s (talk · contribs · new pages (136)) started on 2019-02-17, score: 40
+pagano (surname) (edit | talk | history | links | watch | logs | tools) by coastside (talk · contribs · new pages (102)) started on 2019-02-17, score: 60
+curzio (edit | talk | history | links | watch | logs | tools) by zigzig20s (talk · contribs · new pages (136)) started on 2019-02-17, score: 40
+soffici (edit | talk | history | links | watch | logs | tools) by zigzig20s (talk · contribs · new pages (136)) started on 2019-02-17, score: 40
+clergy (film) (edit | talk | history | links | watch | logs | tools) by siredimon (talk · contribs · new pages (2)) started on 2019-02-17, score: 72
+turati (edit | talk | history | links | watch | logs | tools) by zigzig20s (talk · contribs · new pages (136)) started on 2019-02-17, score: 40
+bontempelli (edit | talk | history | links | watch | logs | tools) by zigzig20s (talk · contribs · new pages (136)) started on 2019-02-17, score: 50
+manlio (edit | talk | history | links | watch | logs | tools) by zigzig20s (talk · contribs · new pages (136)) started on 2019-02-17, score: 40
+brosio (edit | talk | history | links | watch | logs | tools) by zigzig20s (talk · contribs · new pages (136)) started on 2019-02-17, score: 40
+bocchini (edit | talk | history | links | watch | logs | tools) by zigzig20s (talk · contribs · new pages (136)) started on 2019-02-17, score: 40
+longoni (surname) (edit | talk | history | links | watch | logs | tools) by zigzig20s (talk · contribs · new pages (136)) started on 2019-02-17, score: 40
+tarcisio (given name) (edit | talk | history | links | watch | logs | tools) by zigzig20s (talk · contribs · new pages (136)) started on 2019-02-17, score: 40
+caggiano (surname) (edit | talk | history | links | watch | logs | tools) by zigzig20s (talk · contribs · new pages (136)) started on 2019-02-17, score: 50
+1987 coppa italia final (edit | talk | history | links | watch | logs | tools) by vaselineeeeeeee (talk · contribs · new pages (5)) started on 2019-02-17, score: 127
+1988 coppa italia final (edit | talk | history | links | watch | logs | tools) by vaselineeeeeeee (talk · contribs · new pages (5)) started on 2019-02-17, score: 137
+giovanni rinaldi montorio (edit | talk | history | links | watch | logs | tools) by patapsco913 (talk · contribs · new pages (29)) started on 2019-02-17, score: 62
+lamine sarr (edit | talk | history | links | watch | logs | tools) by davidlofgren1996 (talk · contribs · new pages (30)) started on 2019-02-17, score: 62
+cristiano migliozzi (edit | talk | history | links | watch | logs | tools) by davidlofgren1996 (talk · contribs · new pages (30)) started on 2019-02-17, score: 134
+domenico del giudice (edit | talk | history | links | watch | logs | tools) by davidlofgren1996 (talk · contribs · new pages (30)) started on 2019-02-17, score: 144
+nicola cirigliano (edit | talk | history | links | watch | logs | tools) by davidlofgren1996 (talk · contribs · new pages (30)) started on 2019-02-17, score: 134
+augsburg book of miracles (edit | talk | history | links | watch | logs | tools) by marosc9 (talk · contribs · new pages (13)) started on 2019-02-17, score: 50
+venetian renaissance architecture (edit | talk | history | links | watch | logs | tools) by 178.164.162.144 (talk · contribs · new pages (21)) started on 2019-02-15, score: 115
+draft:white chocolate (company) (edit | talk | history | links | watch | logs) by nicholas astore (talk · contribs · new pages (1)) started on 2019-02-18, score: 92
+draft:sarri-ball (edit | talk | history | links | watch | logs) by zarewa (talk · contribs · new pages (1)) started on 2019-02-18, score: 60
+draft:list of australian musicians (edit | talk | history | links | watch | logs) by david ah morton (talk · contribs · new pages (1)) started on 2019-02-18, score: 40
+draft:medici: the magnificent (edit | talk | history | links | watch | logs) by george younger 1 (talk · contribs · new pages (1)) started on 2019-02-18, score: 120
+draft:associazione per la tecnologia competitiva (edit | talk | history | links | watch | logs) by scaarb8 (talk · contribs · new pages (1)) started on 2019-02-18, score: 80
+draft:francesco gherardi (edit | talk | history | links | watch | logs) by andreigghera (talk · contribs · new pages (1)) started on 2019-02-17, score: 120
+template:rimini f.c. 1912 squad (edit | talk | history | links | watch | logs) by borgarde (talk · contribs · new pages (212)) started on 2019-02-18, score: 107
+template:a.c. renate squad (edit | talk | history | links | watch | logs) by borgarde (talk · contribs · new pages (212)) started on 2019-02-18, score: 77
+category:representatives of the netherlands to the food and agriculture organization (edit | talk | history | links | watch | logs) by atx-nl (talk · contribs · new pages (6)) started on 2019-02-18, score: 84
+
+
+
+filippo maria campeggi (edit | talk | history | links | watch | logs | tools) by patapsco913 (talk · contribs · new pages (29)) started on 2019-02-17, score: 82
+rudy woods (edit | talk | history | links | watch | logs | tools) by triple 8~enwiki (talk · contribs · new pages (2)) started on 2019-02-17, score: 92
+piero postini (edit | talk | history | links | watch | logs | tools) by lugnuts (talk · contribs · new pages (935)) started on 2019-02-17, score: 154
+gabriele micalizzi (italian photographer) (edit | talk | history | links | watch | logs | tools) by jonathanritter (talk · contribs · new pages (4)) started on 2019-02-17, score: 40
+giampaolo pasquile (edit | talk | history | links | watch | logs | tools) by sophia2017 (talk · contribs · new pages (3)) started on 2019-02-17, score: 60
+deaths in november 2001 (edit | talk | history | links | watch | logs | tools) by mill 1 (talk · contribs · new pages (38)) started on 2019-02-17, score: 45
+deaths in january 2001 (edit | talk | history | links | watch | logs | tools) by mill 1 (talk · contribs · new pages (38)) started on 2019-02-17, score: 45
+1984 coppa italia final (edit | talk | history | links | watch | logs | tools) by juvewinc (talk · contribs · new pages (8)) started on 2019-02-17, score: 102
+pseudaxine trachuri (edit | talk | history | links | watch | logs | tools) by bouguerche (talk · contribs · new pages (5)) started on 2019-02-17, score: 40
+daniela porzio (edit | talk | history | links | watch | logs | tools) by wolbo (talk · contribs · new pages (21)) started on 2019-02-17, score: 132
+pietro marzano (edit | talk | history | links | watch | logs | tools) by wolbo (talk · contribs · new pages (21)) started on 2019-02-17, score: 102
+deaths in may 2002 (edit | talk | history | links | watch | logs | tools) by mill 1 (talk · contribs · new pages (38)) started on 2019-02-17, score: 40
+messa di santa cecilia (edit | talk | history | links | watch | logs | tools) by louisalain (talk · contribs · new pages (25)) started on 2019-02-17, score: 65
+1989 coppa italia final (edit | talk | history | links | watch | logs | tools) by juvewinc (talk · contribs · new pages (8)) started on 2019-02-17, score: 127
+2019 italian athletics indoor championships (edit | talk | history | links | watch | logs | tools) by kasper2006 (talk · contribs · new pages (1)) started on 2019-02-17, score: 107
+venice tavern (edit | talk | history | links | watch | logs | tools) by sauzer (talk · contribs · new pages (5)) started on 2019-02-17, score: 60
+bardelys the magnificent (novel) (edit | talk | history | links | watch | logs | tools) by lord cornwallis (talk · contribs · new pages (88)) started on 2019-02-17, score: 40
+king in prussia (novel) (edit | talk | history | links | watch | logs | tools) by lord cornwallis (talk · contribs · new pages (88)) started on 2019-02-17, score: 40
+salvatore cioffi (edit | talk | history | links | watch | logs | tools) by utcursch (talk · contribs · new pages (17)) started on 2019-02-17, score: 102
+the testament of william s. (edit | talk | history | links | watch | logs | tools) by gael13011 (talk · contribs · new pages (2)) started on 2019-02-16, score: 82
+list of least concern perciformes (edit | talk | history | links | watch | logs | tools) by onetwothreeip (talk · contribs · new pages (16)) started on 2019-02-16, score: 50
+paganella (district) (edit | talk | history | links | watch | logs | tools) by shevonsilva (talk · contribs · new pages (906)) started on 2019-02-16, score: 100
+valle dei laghi (edit | talk | history | links | watch | logs | tools) by shevonsilva (talk · contribs · new pages (906)) started on 2019-02-16, score: 100
+rotaliana-königsberg (edit | talk | history | links | watch | logs | tools) by shevonsilva (talk · contribs · new pages (906)) started on 2019-02-16, score: 100
+altipiani cimbri (edit | talk | history | links | watch | logs | tools) by shevonsilva (talk · contribs · new pages (906)) started on 2019-02-16, score: 100
+fascia (district) (edit | talk | history | links | watch | logs | tools) by shevonsilva (talk · contribs · new pages (906)) started on 2019-02-16, score: 100
+alto garda e ledro (edit | talk | history | links | watch | logs | tools) by shevonsilva (talk · contribs · new pages (906)) started on 2019-02-16, score: 100
+giudicarie (district) (edit | talk | history | links | watch | logs | tools) by shevonsilva (talk · contribs · new pages (906)) started on 2019-02-16, score: 100
+valle di sole (district) (edit | talk | history | links | watch | logs | tools) by shevonsilva (talk · contribs · new pages (906)) started on 2019-02-16, score: 100
+val di non (district) (edit | talk | history | links | watch | logs | tools) by shevonsilva (talk · contribs · new pages (906)) started on 2019-02-16, score: 100
+valle di cembra (edit | talk | history | links | watch | logs | tools) by shevonsilva (talk · contribs · new pages (906)) started on 2019-02-16, score: 100
+valsugana e tesino (edit | talk | history | links | watch | logs | tools) by shevonsilva (talk · contribs · new pages (906)) started on 2019-02-16, score: 100
+sozzi (edit | talk | history | links | watch | logs | tools) by zigzig20s (talk · contribs · new pages (136)) started on 2019-02-16, score: 40
+primiero (district) (edit | talk | history | links | watch | logs | tools) by shevonsilva (talk · contribs · new pages (906)) started on 2019-02-16, score: 100
+bialetti (edit | talk | history | links | watch | logs | tools) by valoem (talk · contribs · new pages (1)) started on 2019-02-16, score: 112
+congress of allied women on war service (edit | talk | history | links | watch | logs | tools) by rosiestep (talk · contribs · new pages (9)) started on 2019-02-16, score: 40
+convoy ugs-40 (edit | talk | history | links | watch | logs | tools) by rtg (talk · contribs · new pages (10)) started on 2019-02-12, score: 55
+list of accolades received by first man (edit | talk | history | links | watch | logs | tools) by daerl (talk · contribs · new pages (1)) started on 2019-02-04, score: 40
+draft:muhammad ayaz khan (edit | talk | history | links | watch | logs) by bak9990 (talk · contribs · new pages (1)) started on 2019-02-17, score: 110
+draft:sophia zaccaria (edit | talk | history | links | watch | logs) by sophia2017 (talk · contribs · new pages (3)) started on 2019-02-17, score: 60
+draft:giampaolo pasquile (edit | talk | history | links | watch | logs) by sophia2017 (talk · contribs · new pages (3)) started on 2019-02-17, score: 60
+draft:1987 coppa italia final (edit | talk | history | links | watch | logs) by juvewinc (talk · contribs · new pages (8)) started on 2019-02-17, score: 127
+draft:1988 coppa italia final (edit | talk | history | links | watch | logs) by juvewinc (talk · contribs · new pages (8)) started on 2019-02-17, score: 137
+draft:vantisco (edit | talk | history | links | watch | logs) by mazen zbib (talk · contribs · new pages (1)) started on 2019-02-17, score: 122
+template:ravenna f.c. squad (edit | talk | history | links | watch | logs) by borgarde (talk · contribs · new pages (212)) started on 2019-02-17, score: 107
+template:pordenone calcio squad (edit | talk | history | links | watch | logs) by borgarde (talk · contribs · new pages (212)) started on 2019-02-17, score: 62
+template:s.s. monza 1912 squad (edit | talk | history | links | watch | logs) by borgarde (talk · contribs · new pages (212)) started on 2019-02-17, score: 52
+template:serie b managers (edit | talk | history | links | watch | logs) by borgarde (talk · contribs · new pages (212)) started on 2019-02-17, score: 197
+template:imolese calcio 1919 squad (edit | talk | history | links | watch | logs) by borgarde (talk · contribs · new pages (212)) started on 2019-02-17, score: 67
+template:a.s. gubbio 1910 squad (edit | talk | history | links | watch | logs) by borgarde (talk · contribs · new pages (212)) started on 2019-02-17, score: 67
+template:a.s. giana erminio squad (edit | talk | history | links | watch | logs) by borgarde (talk · contribs · new pages (212)) started on 2019-02-17, score: 52
+template:fermana f.c. squad (edit | talk | history | links | watch | logs) by borgarde (talk · contribs · new pages (212)) started on 2019-02-17, score: 72
+template:alma juventus fano 1906 squad (edit | talk | history | links | watch | logs) by borgarde (talk · contribs · new pages (212)) started on 2019-02-17, score: 67
+template:juventus f.c. under-23 squad (edit | talk | history | links | watch | logs) by borgarde (talk · contribs · new pages (212)) started on 2019-02-17, score: 72
+template:a.s. pro piacenza 1919 squad (edit | talk | history | links | watch | logs) by borgarde (talk · contribs · new pages (212)) started on 2019-02-17, score: 124
+template:aurora pro patria 1919 squad (edit | talk | history | links | watch | logs) by borgarde (talk · contribs · new pages (212)) started on 2019-02-17, score: 62
+template:u.s. città di pontedera squad (edit | talk | history | links | watch | logs) by borgarde (talk · contribs · new pages (212)) started on 2019-02-17, score: 62
+template:u.s. pistoiese 1921 squad (edit | talk | history | links | watch | logs) by borgarde (talk · contribs · new pages (212)) started on 2019-02-17, score: 67
+template:piacenza calcio 1919 squad (edit | talk | history | links | watch | logs) by borgarde (talk · contribs · new pages (212)) started on 2019-02-17, score: 102
+template:olbia calcio 1905 squad (edit | talk | history | links | watch | logs) by borgarde (talk · contribs · new pages (212)) started on 2019-02-17, score: 57
+template:a.s. lucchese libertas 1905 squad (edit | talk | history | links | watch | logs) by borgarde (talk · contribs · new pages (212)) started on 2019-02-17, score: 62
+template:a.c. gozzano squad (edit | talk | history | links | watch | logs) by borgarde (talk · contribs · new pages (212)) started on 2019-02-17, score: 72
+template:a.c. cuneo 1905 squad (edit | talk | history | links | watch | logs) by borgarde (talk · contribs · new pages (212)) started on 2019-02-17, score: 82
+template:carrarese calcio squad (edit | talk | history | links | watch | logs) by borgarde (talk · contribs · new pages (212)) started on 2019-02-17, score: 112
+template:arzachena costa smeralda squad (edit | talk | history | links | watch | logs) by borgarde (talk · contribs · new pages (212)) started on 2019-02-17, score: 72
+template:u.s. arezzo squad (edit | talk | history | links | watch | logs) by borgarde (talk · contribs · new pages (212)) started on 2019-02-17, score: 67
+category:women's futsal in italy (edit | talk | history | links | watch | logs) by brownhairedgirl (talk · contribs · new pages (554)) started on 2019-02-17, score: 84
+category:history of italy on film (edit | talk | history | links | watch | logs) by caesaraugustusdivusiulius (talk · contribs · new pages (4)) started on 2019-02-17, score: 124
+category:works about italian history (edit | talk | history | links | watch | logs) by caesaraugustusdivusiulius (talk · contribs · new pages (4)) started on 2019-02-17, score: 84
+category:italy in popular culture (edit | talk | history | links | watch | logs) by caesaraugustusdivusiulius (talk · contribs · new pages (4)) started on 2019-02-17, score: 124
+category:italian popular culture (edit | talk | history | links | watch | logs) by caesaraugustusdivusiulius (talk · contribs · new pages (4)) started on 2019-02-17, score: 124
+
+
+
+elisa agnini lollini (edit | talk | history | links | watch | logs | tools) by ipigott (talk · contribs · new pages (52)) started on 2019-02-16, score: 92
+list of accidents and incidents involving the dc-3 in 1945 (edit | talk | history | links | watch | logs | tools) by milborneone (talk · contribs · new pages (1)) started on 2019-02-16, score: 40
+jamal jones (basketball) (edit | talk | history | links | watch | logs | tools) by gpl93 (talk · contribs · new pages (4)) started on 2019-02-16, score: 62
+alessandro sibilia (edit | talk | history | links | watch | logs | tools) by patapsco913 (talk · contribs · new pages (29)) started on 2019-02-16, score: 102
+massimo di domenico (edit | talk | history | links | watch | logs | tools) by wolbo (talk · contribs · new pages (21)) started on 2019-02-16, score: 102
+julie dawn (edit | talk | history | links | watch | logs | tools) by attictapestry (talk · contribs · new pages (3)) started on 2019-02-16, score: 72
+italia und germania (edit | talk | history | links | watch | logs | tools) by ziko (talk · contribs · new pages (1)) started on 2019-02-16, score: 92
+mario sciacqua (edit | talk | history | links | watch | logs | tools) by borgarde (talk · contribs · new pages (212)) started on 2019-02-16, score: 40
+kathleen teresa blake butler (edit | talk | history | links | watch | logs | tools) by bashereyre (talk · contribs · new pages (24)) started on 2019-02-16, score: 50
+pasqua (surname) (edit | talk | history | links | watch | logs | tools) by coastside (talk · contribs · new pages (102)) started on 2019-02-16, score: 60
+giulio ricci (edit | talk | history | links | watch | logs | tools) by patapsco913 (talk · contribs · new pages (29)) started on 2019-02-16, score: 67
+giovanni antonio angrisani (edit | talk | history | links | watch | logs | tools) by patapsco913 (talk · contribs · new pages (29)) started on 2019-02-16, score: 92
+tomo medin (edit | talk | history | links | watch | logs | tools) by roysmith (talk · contribs · new pages (5)) started on 2019-02-15, score: 90
+mario bernardo (edit | talk | history | links | watch | logs | tools) by alecaphollywood (talk · contribs · new pages (5)) started on 2019-02-15, score: 142
+panciroli (edit | talk | history | links | watch | logs | tools) by tenpop421 (talk · contribs · new pages (4)) started on 2019-02-15, score: 70
+guido panciroli (edit | talk | history | links | watch | logs | tools) by tenpop421 (talk · contribs · new pages (4)) started on 2019-02-15, score: 167
+artemisia gallery (edit | talk | history | links | watch | logs | tools) by tupisthree (talk · contribs · new pages (4)) started on 2019-02-15, score: 40
+firefox version history (edit | talk | history | links | watch | logs | tools) by rukario-sama (talk · contribs · new pages (1)) started on 2019-02-15, score: 50
+draft:dubravka nègre (edit | talk | history | links | watch | logs) by trans goat (talk · contribs · new pages (1)) started on 2019-02-16, score: 35
+draft:elijio(family name) (edit | talk | history | links | watch | logs) by 69.125.18.90 (talk · contribs · new pages (1)) started on 2019-02-16, score: 40
+draft:cova castle (edit | talk | history | links | watch | logs) by kstim (talk · contribs · new pages (1)) started on 2019-02-16, score: 35
+draft:viva audio (edit | talk | history | links | watch | logs) by salmanfromvicenza (talk · contribs · new pages (1)) started on 2019-02-15, score: 100
+
+
+
+karl stengel (edit | talk | history | links | watch | logs | tools) by pivari (talk · contribs · new pages (1)) started on 2019-02-15, score: 115
+dragon rapide (film) (edit | talk | history | links | watch | logs | tools) by tajotep (talk · contribs · new pages (44)) started on 2019-02-15, score: 65
+jean de bertrand (cardinal) (edit | talk | history | links | watch | logs | tools) by patapsco913 (talk · contribs · new pages (29)) started on 2019-02-15, score: 45
+rutilio benzoni (edit | talk | history | links | watch | logs | tools) by patapsco913 (talk · contribs · new pages (29)) started on 2019-02-15, score: 57
+galeazzo moroni (edit | talk | history | links | watch | logs | tools) by patapsco913 (talk · contribs · new pages (29)) started on 2019-02-15, score: 67
+53rd (now 101st) precinct police station (edit | talk | history | links | watch | logs | tools) by captjayruffins (talk · contribs · new pages (5)) started on 2019-02-15, score: 60
+pier augusto breccia (edit | talk | history | links | watch | logs | tools) by fiorenzagibrani (talk · contribs · new pages (1)) started on 2019-02-15, score: 192
+list of marines and naval infantry forces (edit | talk | history | links | watch | logs | tools) by arturolorioli (talk · contribs · new pages (2)) started on 2019-02-15, score: 55
+popular coalition (edit | talk | history | links | watch | logs | tools) by nick.mon (talk · contribs · new pages (2)) started on 2019-02-15, score: 176
+more sexy canterbury tales (edit | talk | history | links | watch | logs | tools) by flickyard (talk · contribs · new pages (4)) started on 2019-02-15, score: 186
+raiplay (edit | talk | history | links | watch | logs | tools) by fabiolx26 (talk · contribs · new pages (1)) started on 2019-02-15, score: 112
+gianluca petecof (edit | talk | history | links | watch | logs | tools) by ressbite (talk · contribs · new pages (3)) started on 2019-02-15, score: 92
+ninja gaiden sigma 2 (edit | talk | history | links | watch | logs | tools) by snaaaake!! (talk · contribs · new pages (5)) started on 2019-02-15, score: 42
+trischettn (edit | talk | history | links | watch | logs | tools) by bermicourt (talk · contribs · new pages (30)) started on 2019-02-15, score: 70
+st. joseph's catholic church (washington, d.c.) (edit | talk | history | links | watch | logs | tools) by instaurare (talk · contribs · new pages (4)) started on 2019-02-15, score: 40
+fabrizio mazzotta (edit | talk | history | links | watch | logs | tools) by 20ss00 (talk · contribs · new pages (4)) started on 2019-02-15, score: 92
+szabados (edit | talk | history | links | watch | logs | tools) by drvogel (talk · contribs · new pages (22)) started on 2019-02-15, score: 40
+stefano ugolini (edit | talk | history | links | watch | logs | tools) by patapsco913 (talk · contribs · new pages (29)) started on 2019-02-14, score: 42
+san casciano, cascina (edit | talk | history | links | watch | logs | tools) by alienautic (talk · contribs · new pages (45)) started on 2019-02-14, score: 60
+santo stefano a macerata (edit | talk | history | links | watch | logs | tools) by alienautic (talk · contribs · new pages (45)) started on 2019-02-14, score: 60
+latignano (edit | talk | history | links | watch | logs | tools) by alienautic (talk · contribs · new pages (45)) started on 2019-02-14, score: 60
+giovanni andrea croce (edit | talk | history | links | watch | logs | tools) by patapsco913 (talk · contribs · new pages (29)) started on 2019-02-14, score: 52
+arnaccio (edit | talk | history | links | watch | logs | tools) by alienautic (talk · contribs · new pages (45)) started on 2019-02-14, score: 60
+alberto luconi (edit | talk | history | links | watch | logs | tools) by medimauro (talk · contribs · new pages (1)) started on 2019-02-13, score: 60
+draft:telwin (edit | talk | history | links | watch | logs) by zakla (talk · contribs · new pages (1)) started on 2019-02-15, score: 122
+draft:ulrich pfisterer (art historian) (edit | talk | history | links | watch | logs) by zentralinstitut für kunstgeschichte (talk · contribs · new pages (1)) started on 2019-02-14, score: 70
+draft:kiwaka (edit | talk | history | links | watch | logs) by coel jo (talk · contribs · new pages (1)) started on 2019-02-11, score: 40
+category:basket ferentino players (edit | talk | history | links | watch | logs) by bluesangrel (talk · contribs · new pages (34)) started on 2019-02-15, score: 124
+category:south tyrolean card games (edit | talk | history | links | watch | logs) by bermicourt (talk · contribs · new pages (30)) started on 2019-02-15, score: 104
+category:1970 italian television series endings (edit | talk | history | links | watch | logs) by hugo999 (talk · contribs · new pages (484)) started on 2019-02-15, score: 124
+category:1966 italian television series debuts (edit | talk | history | links | watch | logs) by hugo999 (talk · contribs · new pages (484)) started on 2019-02-15, score: 124
+category:women record producers from italy (edit | talk | history | links | watch | logs) by actaudio (talk · contribs · new pages (14)) started on 2019-02-15, score: 40
+category:gucci people (edit | talk | history | links | watch | logs) by allenkong11 (talk · contribs · new pages (13)) started on 2019-02-15, score: 84
+
+
+
+european leaf-toed gecko (edit | talk | history | links | watch | logs | tools) by pvmoutside (talk · contribs · new pages (296)) started on 2019-02-14, score: 60
+st. leo's catholic church (lewistown, montana) (edit | talk | history | links | watch | logs | tools) by doncram (talk · contribs · new pages (84)) started on 2019-02-14, score: 40
+dallara f3 2019 (edit | talk | history | links | watch | logs | tools) by mclarenfan17 (talk · contribs · new pages (8)) started on 2019-02-14, score: 40
+antonello zappadu (edit | talk | history | links | watch | logs | tools) by mariocartaserra (talk · contribs · new pages (2)) started on 2019-02-14, score: 152
+ugolino martelli (bishop) (edit | talk | history | links | watch | logs | tools) by patapsco913 (talk · contribs · new pages (29)) started on 2019-02-14, score: 57
+2019 trofeo faip–perrel (edit | talk | history | links | watch | logs | tools) by adamtt9 (talk · contribs · new pages (25)) started on 2019-02-14, score: 55
+andrés aguado de valdés (edit | talk | history | links | watch | logs | tools) by patapsco913 (talk · contribs · new pages (29)) started on 2019-02-14, score: 52
+paolo cajatia (edit | talk | history | links | watch | logs | tools) by patapsco913 (talk · contribs · new pages (29)) started on 2019-02-14, score: 42
+san valentino, bussolengo (edit | talk | history | links | watch | logs | tools) by rococo1700 (talk · contribs · new pages (23)) started on 2019-02-13, score: 80
+fabio capelleto (edit | talk | history | links | watch | logs | tools) by patapsco913 (talk · contribs · new pages (29)) started on 2019-02-13, score: 62
+adelre brunitto (edit | talk | history | links | watch | logs | tools) by jonathanritter (talk · contribs · new pages (4)) started on 2019-02-13, score: 90
+kk cedevita in european competitions (edit | talk | history | links | watch | logs | tools) by boba 99 (talk · contribs · new pages (1)) started on 2019-02-13, score: 130
+alessia gennari (edit | talk | history | links | watch | logs | tools) by lugnuts (talk · contribs · new pages (935)) started on 2019-02-13, score: 144
+alessia orro (edit | talk | history | links | watch | logs | tools) by lugnuts (talk · contribs · new pages (935)) started on 2019-02-13, score: 144
+tony gennari (edit | talk | history | links | watch | logs | tools) by bluesangrel (talk · contribs · new pages (34)) started on 2019-02-13, score: 174
+2019 basilicata regional election (edit | talk | history | links | watch | logs | tools) by braganza (talk · contribs · new pages (2)) started on 2019-02-13, score: 122
+friedrich lippmann (edit | talk | history | links | watch | logs | tools) by msrasnw (talk · contribs · new pages (2)) started on 2019-02-13, score: 50
+parrocchia esaltazione della santa croce, pastrengo (edit | talk | history | links | watch | logs | tools) by rococo1700 (talk · contribs · new pages (23)) started on 2019-02-13, score: 60
+yessenia huenteo (edit | talk | history | links | watch | logs | tools) by monfrontieres (talk · contribs · new pages (10)) started on 2019-02-13, score: 72
+john i garai (edit | talk | history | links | watch | logs | tools) by norden1990 (talk · contribs · new pages (3)) started on 2019-02-13, score: 110
+pontito (edit | talk | history | links | watch | logs | tools) by suslindisambiguator (talk · contribs · new pages (18)) started on 2019-02-13, score: 40
+mobile unit (italy) (edit | talk | history | links | watch | logs | tools) by mach1988 (talk · contribs · new pages (2)) started on 2019-02-13, score: 476
+cross-country skiing at the 1992 winter olympics – women's 10 kilometre freestyle pursuit (edit | talk | history | links | watch | logs | tools) by reitimwinkl (talk · contribs · new pages (57)) started on 2019-02-13, score: 40
+san giovanni battista, san giovanni ilarione (edit | talk | history | links | watch | logs | tools) by rococo1700 (talk · contribs · new pages (23)) started on 2019-02-13, score: 70
+renato izzo (edit | talk | history | links | watch | logs | tools) by 20ss00 (talk · contribs · new pages (4)) started on 2019-02-13, score: 172
+1991 coppa italia final (edit | talk | history | links | watch | logs | tools) by juvewinc (talk · contribs · new pages (8)) started on 2019-02-13, score: 112
+calon minors (edit | talk | history | links | watch | logs | tools) by giantsnowman (talk · contribs · new pages (192)) started on 2019-02-13, score: 42
+cross-country skiing at the 1992 winter olympics – men's 4 × 10 kilometre relay (edit | talk | history | links | watch | logs | tools) by reitimwinkl (talk · contribs · new pages (57)) started on 2019-02-13, score: 35
+aaron lewis (musician) (edit | talk | history | links | watch | logs | tools) by giantsnowman (talk · contribs · new pages (192)) started on 2019-02-13, score: 52
+polo museale della scuola grande di san marco (edit | talk | history | links | watch | logs | tools) by alexandrostheoeides (talk · contribs · new pages (2)) started on 2019-02-13, score: 114
+siege of naples (1191) (edit | talk | history | links | watch | logs | tools) by henryxvii (talk · contribs · new pages (4)) started on 2019-02-13, score: 162
+simon maurberger (edit | talk | history | links | watch | logs | tools) by kante4 (talk · contribs · new pages (51)) started on 2019-02-13, score: 112
+lara della mea (edit | talk | history | links | watch | logs | tools) by kante4 (talk · contribs · new pages (51)) started on 2019-02-13, score: 92
+1993 coppa italia final (edit | talk | history | links | watch | logs | tools) by juvewinc (talk · contribs · new pages (8)) started on 2019-02-13, score: 107
+billings chamber of commerce building (edit | talk | history | links | watch | logs | tools) by doncram (talk · contribs · new pages (84)) started on 2019-02-13, score: 72
+1981 clube de regatas do flamengo season (edit | talk | history | links | watch | logs | tools) by zac ary (talk · contribs · new pages (5)) started on 2019-02-13, score: 60
+claudio giovannesi (edit | talk | history | links | watch | logs | tools) by alecaphollywood (talk · contribs · new pages (5)) started on 2019-02-13, score: 122
+san pietro, gattinara (edit | talk | history | links | watch | logs | tools) by rococo1700 (talk · contribs · new pages (23)) started on 2019-02-12, score: 70
+sabrina bertini (edit | talk | history | links | watch | logs | tools) by lugnuts (talk · contribs · new pages (935)) started on 2019-02-12, score: 124
+adriano fuscone (edit | talk | history | links | watch | logs | tools) by patapsco913 (talk · contribs · new pages (29)) started on 2019-02-12, score: 72
+2019 atp tour masters 1000 (edit | talk | history | links | watch | logs | tools) by ullhas.kolhe (talk · contribs · new pages (2)) started on 2019-02-12, score: 40
+list of shipwrecks in september 1852 (edit | talk | history | links | watch | logs | tools) by mjroots (talk · contribs · new pages (29)) started on 2019-02-06, score: 60
+james connell & sons (edit | talk | history | links | watch | logs | tools) by floridaarmy (talk · contribs · new pages (85)) started on 2019-02-05, score: 40
+match fixing in tennis (edit | talk | history | links | watch | logs | tools) by giantsnowman (talk · contribs · new pages (192)) started on 2019-02-05, score: 40
+decennial air cruise (edit | talk | history | links | watch | logs | tools) by emanuelerocca (talk · contribs · new pages (0)) started on 2019-02-01, score: 159
+draft:the island beyond the coast (edit | talk | history | links | watch | logs) by iotangel (talk · contribs · new pages (1)) started on 2019-02-14, score: 45
+draft:jo lms (edit | talk | history | links | watch | logs) by testerangel (talk · contribs · new pages (1)) started on 2019-02-14, score: 40
+draft:franck saurel (edit | talk | history | links | watch | logs) by franck saurel (talk · contribs · new pages (1)) started on 2019-02-14, score: 55
+draft:the wall (italian game show) (edit | talk | history | links | watch | logs) by 112.198.215.136 (talk · contribs · new pages (2)) started on 2019-02-14, score: 132
+draft:rentalmilan (edit | talk | history | links | watch | logs) by simmzu (talk · contribs · new pages (1)) started on 2019-02-13, score: 50
+draft:fano jazz by the sea (edit | talk | history | links | watch | logs) by sicurocanasta (talk · contribs · new pages (1)) started on 2019-02-13, score: 84
+draft:template:accredited european schools (edit | talk | history | links | watch | logs) by 90.13.233.190 (talk · contribs · new pages (1)) started on 2019-02-13, score: 60
+draft:sandra bader (edit | talk | history | links | watch | logs) by sandrabader (talk · contribs · new pages (1)) started on 2019-02-12, score: 60
+draft:wikinest (edit | talk | history | links | watch | logs) by 105.112.36.129 (talk · contribs · new pages (1)) started on 2019-02-12, score: 45
+draft:george roland (edit | talk | history | links | watch | logs) by gigliodantefam (talk · contribs · new pages (1)) started on 2019-02-10, score: 60
+category:crimes in italy by decade (edit | talk | history | links | watch | logs) by jim michael (talk · contribs · new pages (148)) started on 2019-02-14, score: 84
+category:2010s crimes in italy (edit | talk | history | links | watch | logs) by jim michael (talk · contribs · new pages (148)) started on 2019-02-14, score: 84
+category:indian remakes of italian films (edit | talk | history | links | watch | logs) by brownhairedgirl (talk · contribs · new pages (554)) started on 2019-02-13, score: 104
+category:films scored by stefano mainetti (edit | talk | history | links | watch | logs) by brownhairedgirl (talk · contribs · new pages (554)) started on 2019-02-13, score: 104
+category:bermudian expatriates in italy (edit | talk | history | links | watch | logs) by giantsnowman (talk · contribs · new pages (192)) started on 2019-02-13, score: 84
+category:14th-century italian businesspeople (edit | talk | history | links | watch | logs) by brownhairedgirl (talk · contribs · new pages (554)) started on 2019-02-13, score: 104
+category:guinean emigrants to italy (edit | talk | history | links | watch | logs) by inter&anthro (talk · contribs · new pages (11)) started on 2019-02-13, score: 124
+category:march 2019 events in italy (edit | talk | history | links | watch | logs) by brownhairedgirl (talk · contribs · new pages (554)) started on 2019-02-12, score: 84
+category:2019–20 in italian football (edit | talk | history | links | watch | logs) by brownhairedgirl (talk · contribs · new pages (554)) started on 2019-02-12, score: 124
+category:2019–20 in italian football leagues (edit | talk | history | links | watch | logs) by brownhairedgirl (talk · contribs · new pages (554)) started on 2019-02-12, score: 124
+
+
+
+al forno (edit | talk | history | links | watch | logs | tools) by postcard cathy (talk · contribs · new pages (42)) started on 2019-02-12, score: 52
+filippo artioli (edit | talk | history | links | watch | logs | tools) by geregen2 (talk · contribs · new pages (23)) started on 2019-02-12, score: 122
+demba thiam (edit | talk | history | links | watch | logs | tools) by geregen2 (talk · contribs · new pages (23)) started on 2019-02-12, score: 52
+erasmo mulè (edit | talk | history | links | watch | logs | tools) by geregen2 (talk · contribs · new pages (23)) started on 2019-02-12, score: 142
+alessandro minelli (footballer) (edit | talk | history | links | watch | logs | tools) by geregen2 (talk · contribs · new pages (23)) started on 2019-02-12, score: 172
+2019 world junior speed skating championships (edit | talk | history | links | watch | logs | tools) by maricel97 (talk · contribs · new pages (5)) started on 2019-02-12, score: 72
+beatrice benvenuti (edit | talk | history | links | watch | logs | tools) by suonii180 (talk · contribs · new pages (22)) started on 2019-02-12, score: 112
+pio schiavi (edit | talk | history | links | watch | logs | tools) by geregen2 (talk · contribs · new pages (23)) started on 2019-02-12, score: 122
+flaminia jandolo (edit | talk | history | links | watch | logs | tools) by alecaphollywood (talk · contribs · new pages (5)) started on 2019-02-12, score: 122
+wang xiaosong (edit | talk | history | links | watch | logs | tools) by sebi.ubi (talk · contribs · new pages (1)) started on 2019-02-12, score: 60
+roman pizza (edit | talk | history | links | watch | logs | tools) by dr-john (talk · contribs · new pages (1)) started on 2019-02-12, score: 164
+1994 coppa italia final (edit | talk | history | links | watch | logs | tools) by juvewinc (talk · contribs · new pages (8)) started on 2019-02-12, score: 137
+2019–20 in italian football (edit | talk | history | links | watch | logs | tools) by ryanjulian23 (talk · contribs · new pages (16)) started on 2019-02-12, score: 60
+2019–20 juventus f.c. season (edit | talk | history | links | watch | logs | tools) by ryanjulian23 (talk · contribs · new pages (16)) started on 2019-02-12, score: 60
+john edward (scotland) (edit | talk | history | links | watch | logs | tools) by legacypac (talk · contribs · new pages (88)) started on 2019-02-12, score: 40
+2019 atp world tour masters 1000 (edit | talk | history | links | watch | logs | tools) by ullhas.kolhe (talk · contribs · new pages (2)) started on 2019-02-12, score: 40
+ostrovok.ru (edit | talk | history | links | watch | logs | tools) by legacypac (talk · contribs · new pages (88)) started on 2019-02-12, score: 40
+soianella (edit | talk | history | links | watch | logs | tools) by alienautic (talk · contribs · new pages (45)) started on 2019-02-12, score: 60
+soiana (edit | talk | history | links | watch | logs | tools) by alienautic (talk · contribs · new pages (45)) started on 2019-02-12, score: 60
+selvatelle (edit | talk | history | links | watch | logs | tools) by alienautic (talk · contribs · new pages (45)) started on 2019-02-12, score: 60
+la rosa, terricciola (edit | talk | history | links | watch | logs | tools) by alienautic (talk · contribs · new pages (45)) started on 2019-02-12, score: 60
+morrona (edit | talk | history | links | watch | logs | tools) by alienautic (talk · contribs · new pages (45)) started on 2019-02-12, score: 60
+angela minervini (edit | talk | history | links | watch | logs | tools) by rossen4 (talk · contribs · new pages (1)) started on 2019-02-12, score: 114
+palazzo gerini (edit | talk | history | links | watch | logs | tools) by rococo1700 (talk · contribs · new pages (23)) started on 2019-02-12, score: 60
+tedeschi (surname) (edit | talk | history | links | watch | logs | tools) by coastside (talk · contribs · new pages (102)) started on 2019-02-11, score: 40
+franck djoulou (edit | talk | history | links | watch | logs | tools) by geregen2 (talk · contribs · new pages (23)) started on 2019-02-11, score: 80
+william l. sims ii (edit | talk | history | links | watch | logs | tools) by ldmarion (talk · contribs · new pages (2)) started on 2019-02-11, score: 45
+matteo pinton (edit | talk | history | links | watch | logs | tools) by geregen2 (talk · contribs · new pages (23)) started on 2019-02-11, score: 112
+lgbt history (edit | talk | history | links | watch | logs | tools) by ron 1987 (talk · contribs · new pages (1)) started on 2019-02-11, score: 55
+salvatore esposito (footballer, born 2000) (edit | talk | history | links | watch | logs | tools) by geregen2 (talk · contribs · new pages (23)) started on 2019-02-11, score: 184
+laurence rahme (edit | talk | history | links | watch | logs | tools) by theroadislong (talk · contribs · new pages (19)) started on 2019-02-11, score: 40
+modona (newspaper) (edit | talk | history | links | watch | logs | tools) by a ntv (talk · contribs · new pages (8)) started on 2019-02-11, score: 82
+lorenzo migliorelli (edit | talk | history | links | watch | logs | tools) by geregen2 (talk · contribs · new pages (23)) started on 2019-02-11, score: 142
+erik gerbi (edit | talk | history | links | watch | logs | tools) by geregen2 (talk · contribs · new pages (23)) started on 2019-02-11, score: 154
+michele bruzzo (edit | talk | history | links | watch | logs | tools) by geregen2 (talk · contribs · new pages (23)) started on 2019-02-11, score: 122
+chiara colizzi (edit | talk | history | links | watch | logs | tools) by 20ss00 (talk · contribs · new pages (4)) started on 2019-02-11, score: 112
+list of albanians in greece (edit | talk | history | links | watch | logs | tools) by bensola97 (talk · contribs · new pages (14)) started on 2019-02-11, score: 35
+battle of baghuz (edit | talk | history | links | watch | logs | tools) by ianp18 (talk · contribs · new pages (1)) started on 2019-02-10, score: 60
+trulli tales (edit | talk | history | links | watch | logs | tools) by happyinc (talk · contribs · new pages (6)) started on 2019-01-31, score: 80
+draft:moon marketing (edit | talk | history | links | watch | logs) by 42.109.23.21 (talk · contribs · new pages (1)) started on 2019-02-12, score: 90
+draft:antonio mordini (edit | talk | history | links | watch | logs) by andersen.v (talk · contribs · new pages (2)) started on 2019-02-12, score: 280
+draft:ordinul toscan (edit | talk | history | links | watch | logs) by blackmamba69 xd (talk · contribs · new pages (1)) started on 2019-02-12, score: 60
+draft:piki pikitorija (edit | talk | history | links | watch | logs) by pikitorija (talk · contribs · new pages (1)) started on 2019-02-12, score: 70
+draft:pirrello antonio (edit | talk | history | links | watch | logs) by enturione (talk · contribs · new pages (1)) started on 2019-02-12, score: 45
+draft:stefania capobianco (edit | talk | history | links | watch | logs) by massimodellapenna1990 (talk · contribs · new pages (1)) started on 2019-02-12, score: 220
+draft:marcello guasti (edit | talk | history | links | watch | logs) by a. brooks b. (talk · contribs · new pages (1)) started on 2019-02-12, score: 250
+template:trolleybus systems (edit | talk | history | links | watch | logs) by mliu92 (talk · contribs · new pages (1)) started on 2019-02-12, score: 130
+template:2018 bolzano provincial election (edit | talk | history | links | watch | logs) by checco (talk · contribs · new pages (2)) started on 2019-02-12, score: 60
+template:2018 trento provincial election (edit | talk | history | links | watch | logs) by checco (talk · contribs · new pages (2)) started on 2019-02-12, score: 60
+category:premonstratensian monasteries in italy (edit | talk | history | links | watch | logs) by ingratis (talk · contribs · new pages (4)) started on 2019-02-12, score: 84
+category:by-elections in italy (edit | talk | history | links | watch | logs) by number 57 (talk · contribs · new pages (45)) started on 2019-02-12, score: 84
+
+
+
+gianni palmese (edit | talk | history | links | watch | logs | tools) by geregen2 (talk · contribs · new pages (23)) started on 2019-02-11, score: 122
+mattia zennaro (edit | talk | history | links | watch | logs | tools) by geregen2 (talk · contribs · new pages (23)) started on 2019-02-11, score: 194
+kevin cannavò (edit | talk | history | links | watch | logs | tools) by geregen2 (talk · contribs · new pages (23)) started on 2019-02-11, score: 154
+augustus kargbo (edit | talk | history | links | watch | logs | tools) by geregen2 (talk · contribs · new pages (23)) started on 2019-02-11, score: 102
+luca parodi (edit | talk | history | links | watch | logs | tools) by geregen2 (talk · contribs · new pages (23)) started on 2019-02-11, score: 172
+1954 italian karakoram expedition controversy (edit | talk | history | links | watch | logs | tools) by thincat (talk · contribs · new pages (12)) started on 2019-02-11, score: 147
+2019 italian special elections (edit | talk | history | links | watch | logs | tools) by foghe (talk · contribs · new pages (1)) started on 2019-02-11, score: 152
+1st renfrew and dumbarton artillery volunteers (edit | talk | history | links | watch | logs | tools) by rickfive (talk · contribs · new pages (106)) started on 2019-02-11, score: 140
+perrin buford (edit | talk | history | links | watch | logs | tools) by gpl93 (talk · contribs · new pages (4)) started on 2019-02-11, score: 42
+federico díaz (activist) (edit | talk | history | links | watch | logs | tools) by r96skinner (talk · contribs · new pages (68)) started on 2019-02-11, score: 65
+bernardo guadagni (edit | talk | history | links | watch | logs | tools) by knowa22 (talk · contribs · new pages (1)) started on 2019-02-11, score: 40
+tarantola (edit | talk | history | links | watch | logs | tools) by nat965 (talk · contribs · new pages (29)) started on 2019-02-11, score: 100
+international society for research in child and adolescent psychopathology (edit | talk | history | links | watch | logs | tools) by intothinair (talk · contribs · new pages (57)) started on 2019-02-11, score: 40
+list of the grand tour episodes (edit | talk | history | links | watch | logs | tools) by alex 21 (talk · contribs · new pages (13)) started on 2019-02-11, score: 110
+mian (given name) (edit | talk | history | links | watch | logs | tools) by coastside (talk · contribs · new pages (102)) started on 2019-02-11, score: 50
+mitchell west central residential historic district (edit | talk | history | links | watch | logs | tools) by doncram (talk · contribs · new pages (84)) started on 2019-02-11, score: 52
+montemiccioli (edit | talk | history | links | watch | logs | tools) by alienautic (talk · contribs · new pages (45)) started on 2019-02-11, score: 60
+francisco plancarte y navarrete (edit | talk | history | links | watch | logs | tools) by michael e nolan (talk · contribs · new pages (3)) started on 2019-02-11, score: 50
+fraye arbeter shtime (edit | talk | history | links | watch | logs | tools) by czar (talk · contribs · new pages (61)) started on 2019-02-11, score: 40
+marco marsilio (edit | talk | history | links | watch | logs | tools) by alecaphollywood (talk · contribs · new pages (5)) started on 2019-02-10, score: 152
+villamagna, volterra (edit | talk | history | links | watch | logs | tools) by alienautic (talk · contribs · new pages (45)) started on 2019-02-10, score: 60
+villamagna (disambiguation) (edit | talk | history | links | watch | logs | tools) by alienautic (talk · contribs · new pages (45)) started on 2019-02-10, score: 60
+marco zanon (edit | talk | history | links | watch | logs | tools) by jack86mkii (talk · contribs · new pages (1)) started on 2019-02-10, score: 92
+mengarini (edit | talk | history | links | watch | logs | tools) by narky blert (talk · contribs · new pages (37)) started on 2019-02-10, score: 92
+manpreet (edit | talk | history | links | watch | logs | tools) by pharaoh of the wizards (talk · contribs · new pages (10)) started on 2019-02-10, score: 40
+le temps des fleurs (edit | talk | history | links | watch | logs | tools) by dalidaeditor (talk · contribs · new pages (10)) started on 2019-02-05, score: 50
+electric bond and share company (edit | talk | history | links | watch | logs | tools) by energynet (talk · contribs · new pages (1)) started on 2019-02-04, score: 35
+draft:cybertec (edit | talk | history | links | watch | logs) by juliusmoto (talk · contribs · new pages (1)) started on 2019-02-11, score: 142
+draft:the sumeric calendar (edit | talk | history | links | watch | logs) by 46.7.12.125 (talk · contribs · new pages (1)) started on 2019-02-11, score: 40
+draft:pietro carbone (edit | talk | history | links | watch | logs) by amaurano (talk · contribs · new pages (1)) started on 2019-02-10, score: 152
+draft:microwiki (edit | talk | history | links | watch | logs) by anonymous 7481 (talk · contribs · new pages (1)) started on 2019-02-10, score: 40
+category:roma tre university faculty (edit | talk | history | links | watch | logs) by allenkong11 (talk · contribs · new pages (13)) started on 2019-02-11, score: 104
+category:roma tre university (edit | talk | history | links | watch | logs) by allenkong11 (talk · contribs · new pages (13)) started on 2019-02-11, score: 104
+category:left-wing militant groups in italy (edit | talk | history | links | watch | logs) by gjs238 (talk · contribs · new pages (132)) started on 2019-02-11, score: 124
+
+
+
+caiola (edit | talk | history | links | watch | logs | tools) by miracle pen (talk · contribs · new pages (6)) started on 2019-02-10, score: 104
+eugene mcdowell (edit | talk | history | links | watch | logs | tools) by triple 8~enwiki (talk · contribs · new pages (2)) started on 2019-02-10, score: 92
+deaths in september 2003 (edit | talk | history | links | watch | logs | tools) by mill 1 (talk · contribs · new pages (38)) started on 2019-02-10, score: 40
+deaths in may 2003 (edit | talk | history | links | watch | logs | tools) by mill 1 (talk · contribs · new pages (38)) started on 2019-02-10, score: 40
+deaths in january 2003 (edit | talk | history | links | watch | logs | tools) by mill 1 (talk · contribs · new pages (38)) started on 2019-02-10, score: 35
+roberto masciarelli (edit | talk | history | links | watch | logs | tools) by lugnuts (talk · contribs · new pages (935)) started on 2019-02-10, score: 144
+glorieta de los insurgentes (edit | talk | history | links | watch | logs | tools) by another believer (talk · contribs · new pages (119)) started on 2019-02-10, score: 40
+david bone (edit | talk | history | links | watch | logs | tools) by legacypac (talk · contribs · new pages (88)) started on 2019-02-10, score: 60
+2019–20 serie a (edit | talk | history | links | watch | logs | tools) by ryanjulian23 (talk · contribs · new pages (16)) started on 2019-02-10, score: 117
+jennifer m. webb (edit | talk | history | links | watch | logs | tools) by puigr88 (talk · contribs · new pages (1)) started on 2019-02-10, score: 40
+list of arbëreshë albanians (edit | talk | history | links | watch | logs | tools) by bensola97 (talk · contribs · new pages (14)) started on 2019-02-10, score: 185
+abbey of casanova, carmagnola (edit | talk | history | links | watch | logs | tools) by rococo1700 (talk · contribs · new pages (23)) started on 2019-02-10, score: 181
+laura dell'angelo (edit | talk | history | links | watch | logs | tools) by jevansen (talk · contribs · new pages (66)) started on 2019-02-10, score: 72
+soldi (edit | talk | history | links | watch | logs | tools) by thatjosh (talk · contribs · new pages (1)) started on 2019-02-10, score: 102
+mahmood (singer) (edit | talk | history | links | watch | logs | tools) by babbaq (talk · contribs · new pages (28)) started on 2019-02-10, score: 152
+elizabeth beers-curtis (edit | talk | history | links | watch | logs | tools) by dacc23 (talk · contribs · new pages (8)) started on 2019-02-09, score: 45
+gazzetta di milano (1816-1875) (edit | talk | history | links | watch | logs | tools) by a ntv (talk · contribs · new pages (8)) started on 2019-02-09, score: 204
+mazzolla (edit | talk | history | links | watch | logs | tools) by alienautic (talk · contribs · new pages (45)) started on 2019-02-09, score: 60
+saline di volterra (edit | talk | history | links | watch | logs | tools) by alienautic (talk · contribs · new pages (45)) started on 2019-02-09, score: 60
+serrazzano (edit | talk | history | links | watch | logs | tools) by alienautic (talk · contribs · new pages (45)) started on 2019-02-09, score: 60
+lustignano (edit | talk | history | links | watch | logs | tools) by alienautic (talk · contribs · new pages (45)) started on 2019-02-09, score: 60
+montegemoli (edit | talk | history | links | watch | logs | tools) by alienautic (talk · contribs · new pages (45)) started on 2019-02-09, score: 60
+miriam rossi (chemist) (edit | talk | history | links | watch | logs | tools) by jesswade88 (talk · contribs · new pages (17)) started on 2019-02-09, score: 82
+antonio anastasio rossi (edit | talk | history | links | watch | logs | tools) by gaia octavia agrippa (talk · contribs · new pages (26)) started on 2019-02-09, score: 122
+statute of abruzzo (edit | talk | history | links | watch | logs | tools) by simone serra (talk · contribs · new pages (1)) started on 2019-02-09, score: 60
+micciano (edit | talk | history | links | watch | logs | tools) by alienautic (talk · contribs · new pages (45)) started on 2019-02-09, score: 60
+enrico nigiotti (edit | talk | history | links | watch | logs | tools) by stee888 (talk · contribs · new pages (1)) started on 2019-02-09, score: 102
+list of european regions by fertility rate (edit | talk | history | links | watch | logs | tools) by afus199620 (talk · contribs · new pages (2)) started on 2019-02-08, score: 210
+french sculpture (edit | talk | history | links | watch | logs | tools) by siefkindr (talk · contribs · new pages (1)) started on 2019-02-08, score: 60
+list of shipwrecks in march 1852 (edit | talk | history | links | watch | logs | tools) by mjroots (talk · contribs · new pages (29)) started on 2019-02-06, score: 45
+draft:pietro russo (edit | talk | history | links | watch | logs) by annarusso1612 (talk · contribs · new pages (1)) started on 2019-02-10, score: 130
+draft:stripy (1984) (edit | talk | history | links | watch | logs) by canoflemons (talk · contribs · new pages (1)) started on 2019-02-09, score: 40
+draft:andrea jourdan (edit | talk | history | links | watch | logs) by mk6420 (talk · contribs · new pages (1)) started on 2019-02-09, score: 60
+template:did you know nominations/brenva glacier (edit | talk | history | links | watch | logs) by nick moyes (talk · contribs · new pages (5)) started on 2019-02-10, score: 52
+template:2019–20 serie a table (edit | talk | history | links | watch | logs) by ryanjulian23 (talk · contribs · new pages (16)) started on 2019-02-10, score: 107
+category:films directed by pier antonio gariazzo (edit | talk | history | links | watch | logs) by gjs238 (talk · contribs · new pages (132)) started on 2019-02-10, score: 114
+category:films scored by fabio frizzi (edit | talk | history | links | watch | logs) by gjs238 (talk · contribs · new pages (132)) started on 2019-02-10, score: 104
+
+
+
+libbiano, pomarance (edit | talk | history | links | watch | logs | tools) by alienautic (talk · contribs · new pages (45)) started on 2019-02-09, score: 60
+il corriere di gabinetto - gazzetta di milano (edit | talk | history | links | watch | logs | tools) by a ntv (talk · contribs · new pages (8)) started on 2019-02-09, score: 142
+montelopio (edit | talk | history | links | watch | logs | tools) by alienautic (talk · contribs · new pages (45)) started on 2019-02-09, score: 60
+fabbrica, peccioli (edit | talk | history | links | watch | logs | tools) by alienautic (talk · contribs · new pages (45)) started on 2019-02-09, score: 60
+legoli (edit | talk | history | links | watch | logs | tools) by alienautic (talk · contribs · new pages (45)) started on 2019-02-09, score: 60
+libbiano, peccioli (edit | talk | history | links | watch | logs | tools) by alienautic (talk · contribs · new pages (45)) started on 2019-02-09, score: 60
+montecchio, peccioli (edit | talk | history | links | watch | logs | tools) by alienautic (talk · contribs · new pages (45)) started on 2019-02-09, score: 60
+ghizzano (edit | talk | history | links | watch | logs | tools) by alienautic (talk · contribs · new pages (45)) started on 2019-02-09, score: 60
+camedo (edit | talk | history | links | watch | logs | tools) by x98765z (talk · contribs · new pages (1)) started on 2019-02-09, score: 70
+cedri (edit | talk | history | links | watch | logs | tools) by alienautic (talk · contribs · new pages (45)) started on 2019-02-09, score: 60
+trapani (surname) (edit | talk | history | links | watch | logs | tools) by zigzig20s (talk · contribs · new pages (136)) started on 2019-02-09, score: 40
+pathos (film) (edit | talk | history | links | watch | logs | tools) by zarhanfastfire (talk · contribs · new pages (4)) started on 2019-02-09, score: 187
+dolo hospital airstrike (edit | talk | history | links | watch | logs | tools) by chetsford (talk · contribs · new pages (11)) started on 2019-02-09, score: 70
+antonio bertolaja (edit | talk | history | links | watch | logs | tools) by philafrenzy (talk · contribs · new pages (68)) started on 2019-02-09, score: 82
+carmine (given name) (edit | talk | history | links | watch | logs | tools) by bagumba (talk · contribs · new pages (47)) started on 2019-02-09, score: 60
+eric w. cochrane (edit | talk | history | links | watch | logs | tools) by vycl1994 (talk · contribs · new pages (62)) started on 2019-02-08, score: 80
+list of romania national rugby union players (edit | talk | history | links | watch | logs | tools) by ebbillings (talk · contribs · new pages (1)) started on 2019-02-08, score: 90
+anzano (edit | talk | history | links | watch | logs | tools) by 3knolls (talk · contribs · new pages (2)) started on 2019-02-08, score: 120
+giorgio pisanò (edit | talk | history | links | watch | logs | tools) by chuffable (talk · contribs · new pages (1)) started on 2019-02-08, score: 337
+petacci (edit | talk | history | links | watch | logs | tools) by zigzig20s (talk · contribs · new pages (136)) started on 2019-02-08, score: 104
+pavolini (edit | talk | history | links | watch | logs | tools) by zigzig20s (talk · contribs · new pages (136)) started on 2019-02-08, score: 50
+massimo castagna (edit | talk | history | links | watch | logs | tools) by lugnuts (talk · contribs · new pages (935)) started on 2019-02-08, score: 154
+claudio galli (edit | talk | history | links | watch | logs | tools) by lugnuts (talk · contribs · new pages (935)) started on 2019-02-08, score: 154
+alessandro lazzeroni (edit | talk | history | links | watch | logs | tools) by lugnuts (talk · contribs · new pages (935)) started on 2019-02-08, score: 134
+roberto ventura (edit | talk | history | links | watch | logs | tools) by marinna (talk · contribs · new pages (1)) started on 2019-02-08, score: 40
+volleyball at the 1988 summer olympics – men's team rosters (edit | talk | history | links | watch | logs | tools) by lugnuts (talk · contribs · new pages (935)) started on 2019-02-08, score: 40
+leokadia serafinowicz (edit | talk | history | links | watch | logs | tools) by agata drwięga (talk · contribs · new pages (1)) started on 2019-02-02, score: 40
+draft:riccardo crespi gallery (edit | talk | history | links | watch | logs) by annires (talk · contribs · new pages (1)) started on 2019-02-09, score: 50
+draft:gasparilla music festival (edit | talk | history | links | watch | logs) by cpateyoung (talk · contribs · new pages (1)) started on 2019-02-09, score: 40
+draft:marina pugliese (edit | talk | history | links | watch | logs) by montpellier1234 (talk · contribs · new pages (1)) started on 2019-02-09, score: 65
+draft:sara zainali somedel (edit | talk | history | links | watch | logs) by mohamaddor (talk · contribs · new pages (1)) started on 2019-02-08, score: 60
+template:italy-season-footyclub-stub (edit | talk | history | links | watch | logs) by borgarde (talk · contribs · new pages (212)) started on 2019-02-09, score: 60
+category:mountains of the biellese alps (edit | talk | history | links | watch | logs) by pampuco (talk · contribs · new pages (2)) started on 2019-02-09, score: 84
+category:lists of buildings and structures in lombardy (edit | talk | history | links | watch | logs) by leonid dobrov (talk · contribs · new pages (3)) started on 2019-02-09, score: 104
+category:lists of monuments and memorials in rome (edit | talk | history | links | watch | logs) by leonid dobrov (talk · contribs · new pages (3)) started on 2019-02-09, score: 84
+category:pallacanestro treviso (edit | talk | history | links | watch | logs) by gjs238 (talk · contribs · new pages (132)) started on 2019-02-08, score: 104
+
+
+
+james anderson irons (talk) by teriembrey started on 2019-02-08, score: 40
+luigi vacca (talk) by rococo1700 started on 2019-02-08, score: 157
+giovanni battista de gubernatis (talk) by rococo1700 started on 2019-02-08, score: 192
+the best fifa football awards 2019 (talk) by thebigjagielka started on 2019-02-08, score: 50
+legislature xv of italy (talk) by ritchie92 started on 2019-02-08, score: 282
+legislature xvi of italy (talk) by ritchie92 started on 2019-02-08, score: 282
+legislature xvii of italy (talk) by ritchie92 started on 2019-02-08, score: 282
+paolo ottavi (talk) by bennv3771 started on 2019-02-08, score: 116
+comitato pro suffragio femminile (talk) by ipigott started on 2019-02-08, score: 102
+legislature xviii of italy (talk) by ritchie92 started on 2019-02-08, score: 277
+st. mary's catholic church (los angeles) (talk) by ogonzalez432 started on 2019-02-08, score: 65
+abbrescia (talk) by zigzig20s started on 2019-02-08, score: 60
+rimae secchi (talk) by sneeuwschaap started on 2019-02-08, score: 40
+hailey baldwin (talk) by plyrstar93 started on 2019-02-07, score: 92
+emilio gallori (talk) by rococo1700 started on 2019-02-07, score: 142
+bon ton historic district (talk) by doncram started on 2019-02-07, score: 52
+giulio sauli (bishop) (talk) by patapsco913 started on 2019-02-07, score: 122
+for nonna anna (talk) by bearcat started on 2019-02-07, score: 40
+giulio sauli (talk) by patapsco913 started on 2019-02-07, score: 102
+gerolamo melchiori (talk) by patapsco913 started on 2019-02-07, score: 62
+filippo roccabella (talk) by patapsco913 started on 2019-02-07, score: 52
+2019 strade bianche (talk) by lugnuts started on 2019-02-07, score: 72
+rossit (talk) by nat965 started on 2019-02-07, score: 40
+nicolas lazarévitch (talk) by charles01 started on 2019-02-07, score: 55
+draft:list of european regions by fertility rate by afus199620 started on 2019-02-08, score: 210
+draft:mordini by andersen.v started on 2019-02-08, score: 70
+draft:federico piras by frollo94 started on 2019-02-08, score: 100
+draft:dimitris p kraniotis by grpoet started on 2019-02-08, score: 40
+draft:kensington water tower by david torke started on 2019-02-08, score: 40
+draft:col. francis g. ward pumping station by david torke started on 2019-02-08, score: 40
+draft:ncsimul by arialapproach started on 2019-02-08, score: 40
+draft:mary louise lobsinger by sebastianlopez329 started on 2019-02-08, score: 90
+draft:nimaroh by thegodofdesign started on 2019-02-07, score: 40
+category:defunct nationalist parties in italy by charles essie started on 2019-02-07, score: 84
+
+
+
+leggeri (talk) by zigzig20s started on 2019-02-07, score: 50
+giuseppe agostinone (talk) by tothh417 started on 2019-02-07, score: 162
+1932 in italy (talk) by denton cooley started on 2019-02-07, score: 157
+giovanni merlini (talk) by lord sidious 82 started on 2019-02-07, score: 217
+deguara (talk) by pamd started on 2019-02-07, score: 104
+haas vf-19 (talk) by tjsrx started on 2019-02-07, score: 60
+consiglio nazionale delle donne italiane (talk) by ipigott started on 2019-02-07, score: 152
+reggi (talk) by drvogel started on 2019-02-07, score: 40
+cross-country skiing at the 1994 winter olympics – women's 10 kilometre freestyle pursuit (talk) by reitimwinkl started on 2019-02-07, score: 60
+malcom braida (talk) by r96skinner started on 2019-02-07, score: 52
+manzotti (talk) by xezbeth started on 2019-02-07, score: 104
+deaths in january 2019 (talk) by cawylie started on 2019-02-07, score: 110
+international union of superiors general (talk) by vaneman started on 2019-02-07, score: 60
+odkac (talk) by abelmoschus esculentus started on 2019-02-07, score: 40
+joe watts (talk) by kingant1016 started on 2019-02-07, score: 40
+melina (name) (talk) by coastside started on 2019-02-07, score: 52
+chevrolet testudo (talk) by kumboloi started on 2019-02-07, score: 40
+istanbul greek dialect (talk) by calthinus started on 2019-02-07, score: 40
+tarentola annularis (talk) by pvmoutside started on 2019-02-07, score: 40
+dalida discography (talk) by dalidaeditor started on 2019-02-06, score: 62
+list of shipwrecks in january 1852 (talk) by mjroots started on 2019-02-06, score: 40
+draft:baldassarre bonifacio by 87.14.195.71 started on 2019-02-07, score: 95
+draft:benjamin weiss ph.d., father of phosphodiesterase drug inhibition by wallacet52 started on 2019-02-07, score: 50
+draft:boris nech by rocciadurissima started on 2019-02-07, score: 60
+draft:antonello zappadu by mariocartaserra started on 2019-02-07, score: 152
+draft:roberto lombardi (actor) by rtlactor started on 2019-02-07, score: 40
+draft:portrait of josé nicolás de azara by dilletantianonymous started on 2019-02-06, score: 80
+category:virtus francavilla calcio players by tothh417 started on 2019-02-07, score: 84
+
+
+
+chianti (region) (talk) by chiorbone da frittole started on 2019-02-06, score: 196
+caccavale (talk) by xezbeth started on 2019-02-06, score: 114
+associazione per la donna (talk) by ipigott started on 2019-02-06, score: 152
+giovanni castellucci (talk) by d.mircoselliro started on 2019-02-06, score: 229
+morteza sharifi (talk) by maometto97 started on 2019-02-06, score: 60
+feliciano (name) (talk) by coastside started on 2019-02-06, score: 45
+bonifacio (name) (talk) by coastside started on 2019-02-06, score: 92
+but you were dead (talk) by andrzejbanas started on 2019-02-06, score: 221
+ottavio orsini (talk) by patapsco913 started on 2019-02-06, score: 72
+1926–27 coppa italia (talk) by juvewinc started on 2019-02-05, score: 72
+luciano garbellano (talk) by جواد started on 2019-02-05, score: 105
+columbus theatre (providence, rhode island) (talk) by postcard cathy started on 2019-02-05, score: 52
+battle of phintias (talk) by maglorbd started on 2019-02-05, score: 60
+brenva glacier (talk) by nick moyes started on 2019-01-30, score: 136
+draft:james connell & sons by floridaarmy started on 2019-02-05, score: 40
+template:2013–14 serie b table by frietjes started on 2019-02-06, score: 182
+template:2009–10 serie b table by frietjes started on 2019-02-06, score: 142
+category:events in treviso by lee vilenski started on 2019-02-06, score: 84
+category:sports competitions in treviso by lee vilenski started on 2019-02-06, score: 84
+category:films directed by luigi romano borgnetto by gjs238 started on 2019-02-05, score: 104
+
+
+
+maria tarnowska (nurse) (talk) by nelliejellie started on 2019-02-05, score: 35
+curcio (surname) (talk) by zigzig20s started on 2019-02-05, score: 40
+pestilence (medici: masters of florence) (talk) by tajotep started on 2019-02-05, score: 202
+emma saïd ben mohamed (talk) by mesmeilleurs started on 2019-02-05, score: 62
+fabiana (name) (talk) by coastside started on 2019-02-05, score: 60
+canta in italiano (dalida album) (talk) by prehse started on 2019-02-05, score: 72
+une vie (album) (talk) by prehse started on 2019-02-05, score: 40
+line marsa (talk) by mesmeilleurs started on 2019-02-05, score: 110
+2018 treviso open (talk) by lee vilenski started on 2019-02-05, score: 72
+tommaso bernetti (talk) by lord sidious 82 started on 2019-02-05, score: 167
+corpo italiano di san lazzaro (talk) by a. specter started on 2019-02-05, score: 132
+koloman von pataky (talk) by louisalain started on 2019-02-05, score: 45
+agrican (talk) by fredwords started on 2019-02-05, score: 40
+plague of ashdod (poussin) (talk) by rmmiller364 started on 2019-02-05, score: 40
+archery contest of diana and her nymphs (talk) by rmmiller364 started on 2019-02-05, score: 50
+luigi bianco (talk) by fsmatovu started on 2019-02-05, score: 147
+fiorino, montescudaio (talk) by alienautic started on 2019-02-05, score: 60
+james blackwell (basketball) (talk) by tassedethe started on 2019-02-05, score: 52
+caproni ca.225 (talk) by extrapolaris started on 2019-02-04, score: 40
+antonio herrezuelo (talk) by sugrammr started on 2019-02-04, score: 40
+biblioteca passerini-landi (talk) by rococo1700 started on 2019-02-04, score: 132
+festival del viaggio (talk) by alexmar983 started on 2019-02-04, score: 191
+sicilian method (talk) by akrasia25 started on 2019-02-04, score: 60
+milano (newspaper) (talk) by a ntv started on 2019-02-04, score: 137
+carlo reali (talk) by 20ss00 started on 2019-02-04, score: 102
+maria cristina luinetti (talk) by nelliejellie started on 2019-02-04, score: 117
+draft:webratio by paolorivius started on 2019-02-05, score: 82
+draft:leo piccioli by lyotard98 started on 2019-02-05, score: 52
+draft:mary ocher by 46.94.146.7 started on 2019-02-04, score: 35
+draft:leonardo oliverio by leonardo oliverio started on 2019-02-04, score: 40
+
+
+
+battle of turbigo (talk) by adapad started on 2019-02-04, score: 192
+kleto gjura (talk) by tothh417 started on 2019-02-04, score: 92
+francisco sartore (talk) by tothh417 started on 2019-02-04, score: 112
+elias hansen (talk) by smokyhallow started on 2019-02-04, score: 35
+vendrame (talk) by 2a00:1fa0:c43f:a724:d052:511a:2b5b:1179 started on 2019-02-04, score: 40
+dana (1919) (talk) by naraht started on 2019-02-04, score: 50
+domenico valmagini (talk) by rococo1700 started on 2019-02-04, score: 132
+caproni ca.146 (talk) by extrapolaris started on 2019-02-04, score: 40
+guido bargellini (talk) by dmacks started on 2019-02-04, score: 40
+montanelli, palaia (talk) by alienautic started on 2019-02-04, score: 60
+villa saletta (talk) by alienautic started on 2019-02-04, score: 65
+toiano, palaia (talk) by alienautic started on 2019-02-04, score: 65
+montechiari (talk) by alienautic started on 2019-02-04, score: 65
+montacchita (talk) by alienautic started on 2019-02-04, score: 65
+partino (talk) by alienautic started on 2019-02-04, score: 60
+colleoli (talk) by alienautic started on 2019-02-04, score: 65
+camila rolón (talk) by lord sidious 82 started on 2019-02-04, score: 45
+1st aberdeenshire artillery volunteers (talk) by rickfive started on 2019-02-04, score: 90
+brigitte ravenel (talk) by liverpoolpics started on 2019-02-04, score: 55
+alexander virgili (talk) by a. specter started on 2019-02-04, score: 90
+leandra overmann (talk) by louisalain started on 2019-02-04, score: 50
+pasqual calbó i caldés (talk) by talayoticarchaeology1 started on 2019-02-04, score: 90
+anastasia ndereba (talk) by obongifrank started on 2019-02-04, score: 60
+2017 italian open (pool) (talk) by lee vilenski started on 2019-02-04, score: 92
+attolico (talk) by a.s. brown started on 2019-02-04, score: 40
+forcoli (talk) by alienautic started on 2019-02-04, score: 60
+montefoscoli (talk) by alienautic started on 2019-02-04, score: 60
+alica, palaia (talk) by alienautic started on 2019-02-04, score: 65
+baccanella (talk) by alienautic started on 2019-02-04, score: 60
+johnny "d" demairo (talk) by jsd007 started on 2019-02-04, score: 60
+domingo de acassuso (talk) by ford489 started on 2019-02-04, score: 60
+le bourru bienfaisant (talk) by robert.allen started on 2019-02-04, score: 84
+vitodito (talk) by thorm-bjkp55 started on 2019-02-04, score: 60
+coltano (talk) by alienautic started on 2019-02-04, score: 65
+san donato, san miniato (talk) by alienautic started on 2019-02-04, score: 60
+san donato, santa maria a monte (talk) by alienautic started on 2019-02-04, score: 60
+cerretti (talk) by alienautic started on 2019-02-04, score: 60
+tavolaia (talk) by alienautic started on 2019-02-04, score: 60
+montecalvoli (talk) by alienautic started on 2019-02-04, score: 60
+cole-evans house (talk) by zigzig20s started on 2019-02-04, score: 52
+draft:jebel al-mutawwaq by j santana-cabrera started on 2019-02-04, score: 75
+draft:bubblix club by winxgirl1 started on 2019-02-04, score: 124
+draft:leo salom by shiftisnow started on 2019-02-04, score: 132
+category:italian television series based on american television series by eric abiog started on 2019-02-04, score: 104
+
+
+
+fiat freemont (talk) by rejs12345 started on 2019-01-26, score: 50
+
+
+
+see also the bot’s archives at user:alexnewartbot/italysearchresult/archive
+
+requested articles[edit]
+see also: category:draft-class italy articles
+
+enzo lattuca - italian politician (see it:enzo lattuca)
+remo molinari
+villaggio olandese (see en:orto botanico di villa beuca)
+the molo
+facetus - roman? writer, once well-known
+ludovico (traveler) - roman patrician, toured the east
+hugocyo - bishop of ferrara, 13th c., treatise on grammar
+passavantus - monk from florence, latin treatises
+premio qualità italia [1] for inclusion in list of national quality awards.  wp:rs might be found in italian business publications or college textbooks on subjects like total quality management or six sigma (for example, .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}oclc 38475486).
+ermanno stradelli (1852 – 1926), italian explorer, geographer and photographer (see it)
+ermanno bazzocchi (1914 – 2015), italian aeronautical engineer and designer (see it)
+alessandro agostinelli italian writer and jorunalist
+ resources[edit]
+ infoboxes[edit]
+communes[edit]
+articles on italian communes (or comuni or municipalities) should use the template citybox it infobox. where this is missing the template comune will automagically transform the infobox from the corresponding article in the italian wikipedia into this format. (number and date formats and probably links will need to be tidied up manually, however.) the basic procedure is to go to the italian article, click the ‘modifica’ (i.e. ‘edit this page’) tab and copy the template code section i.e. the bit which begins with the line
+
+{{template:comune
+and ends with the line
+
+}} <!-- fine della tabella - per la compilazione vedi -> aiuto:comune -->
+paste that into the top of the english article. change the line
+
+{{template:comune
+to
+
+{{subst:comune
+and save. edit the article again to fix any issues with what is now the standard template citybox it.
+
+for good coordinates link here
+ stubs[edit]
+if the priority articles in the top of this page don't interest you, you can always expand one of these stubs.
+
+category:italy stubs
+you can also help by categorizing the following italy-related articles
+
+category:unassessed italy articles
+ templates[edit]
+note: please do not create further stub templates or categories without proposing them at wp:wss/p first.
+
+
+
+
+the italy barnstar can be awarded to editors who make substantial contributions to the project or to wikipedia articles about italy in general.
+
+
+this user is a member ofwikiproject italy.
+
+members can display the project userbox  by adding {{user wikiproject italy}}  to their userpage
+
+translation and style guides[edit]
+tag stubs that have more coverage in the italian wikipedia with this article may be expanded with text translated from the corresponding article in italian.  click [show] for important translation instructions.
+
+machine translation like deepl or google translate  is a useful starting point for translations, but translators must revise errors as necessary and confirm that the translation is accurate, rather than simply copy-pasting machine-translated text into the english wikipedia.
+do not translate text that appears unreliable or low-quality. if possible, verify the text with references provided in the foreign-language article.
+you must provide copyright attribution in the edit summary accompanying your translation by providing an interlanguage link to the source of your translation. a model attribution edit summary (using german): content in this edit is translated from the existing german wikipedia article at [[:de:exact name of german article]]; see its history for attribution.
+you should also add the template {{translated page}} to the talk page.
+for more guidance, see wikipedia:translation. to make sure that the article will be translated.
+ websites[edit]
+www.araldicacivica.it - a site with coat of arms usable here (see user talk:attilios/licenses for license).
+www.comuni-italiani.it - a reliable source of basic information about italian comuni: population, elevation, when the mayor was elected and his/her political affiliations, etc.
+featured content[edit]
+ featured articles[edit]
+articles on italy-related subjects, not necessarily improved to featured status by this wikiproject.
+
+unsorted[edit]
+1994 san marino grand prix
+ss andrea doria
+ education[edit]
+ geography[edit]
+ history[edit]
+battle of cannae (216 bce)
+italian renaissance
+battle of bicocca
+battle of ceresole
+italian war of 1521
+war of the league of cambrai
+sicilian baroque
+ landmarks[edit]
+ notable italians[edit]
+galileo galilei
+pope pius xii
+domenico selvo
+christopher columbus
+teresa cristina of the two sicilies
+ peer review/featured article candidates (fac)[edit]
+the following articles are in review as featured article candidates:
+
+ good articles (ga)[edit]
+the following articles have either been recognized as good articles or are currently under review for good article status:
+
+ art, architecture and archaeology
+ economics and business
+ culture and society
+flag of italy
+ engineering and technology
+ food and drink
+
+
+ geography
+milan
+ history
+camillo benso, conte di cavour
+ language
+ mathematics
+ music
+ politics and government
+ war and military
+formerly recognized content[edit]
+ former featured articles
+ delisted good articles
+vteeuropean countries wikiprojectssovereign states
+albania
+andorra
+armenia
+austria
+azerbaijan
+belarus
+belgium
+bosnia and herzegovina
+bulgaria
+croatia
+cyprus
+czech republic
+denmark
+estonia
+finland
+france
+georgia
+germany
+greece
+hungary
+iceland
+ireland
+
+italy
+kazakhstan
+latvia
+liechtenstein
+lithuania
+luxembourg
+macedonia
+malta
+moldova
+monaco
+montenegro
+netherlands
+norway
+poland
+portugal
+romania
+russia
+san marino
+serbia
+slovakia
+slovenia
+spain
+sweden
+switzerland
+turkey
+ukraine
+united kingdom
+vatican city
+states with limitedrecognition
+abkhazia
+artsakh
+kosovo
+northern cyprus
+south ossetia
+transnistria
+
+vte wikiproject council wikiproject guides
+wikiproject council
+talk
+guidelines/intro
+wikiprojects
+task forces
+technical notes
+assessment faq
+work via wikiprojects
+ directories and summaries
+directory
+proposals
+signpost
+shortcuts
+popular pages
+database reports
+watchers
+ culture and the arts
+arts
+music
+performing
+plastic
+visual
+broadcasting
+crafts and hobbies
+entertainment
+games and toys
+food and drink
+internet culture
+language and literature
+biography
+linguistics
+media
+philosophy and religion
+sports
+ geographical
+bodies of water
+cities
+countries
+africa
+americas
+asia
+europe
+oceania
+landforms
+maps
+parks, conservation areas and historical sites
+ history and society
+history and society
+business and economics
+education
+military and warfare
+politics and government
+transportation
+ science, technologyand engineering
+science
+biology
+chemistry
+economics
+geosciences
+information science
+mathematics
+medicine
+meteorology
+physics
+space
+technology
+time
+ wikipedia assistanceand tasks
+contents systems
+maintenance
+files
+article improvement and grading
+classroom projects
+wikiprojects
+
+
+
+
+
+
+
+
+
+wikiproject italy
+
+
+
+
+
+
+
+
+project information 
+
+
+
+
+
+portal:
+
+ italy portal
+
+
+shortcut:
+
+wp:italy
+
+
+banner:
+
+{{wp italy}}
+
+
+userbox:
+
+{{user wikiproject italy}}
+
+
+departments:
+
+assessment
+stubkilling
+
+
+
+newsletter:
+
+italy project newsletter
+
+
+collaboration:
+
+italy improvement drive
+
+
+open tasks:
+
+italy project tasks
+
+
+core articles:
+
+top importance articles
+
+
+all articles:
+
+wikiproject italy articles
+
+
+
+
+project article assessment
+
+
+
+
+
+
+
+
+italy articles by quality and importance
+
+
+quality
+
+importance
+
+
+top
+
+high
+
+mid
+
+low
+
+na
+
+???
+
+total
+
+
+ fa
+
+
+
+3
+
+16
+
+17
+
+
+
+
+
+36
+
+
+ fl
+
+
+
+
+
+
+
+5
+
+
+
+2
+
+7
+
+
+ a
+
+
+
+
+
+1
+
+1
+
+
+
+
+
+2
+
+
+ ga
+
+6
+
+17
+
+37
+
+98
+
+
+
+2
+
+160
+
+
+b
+
+34
+
+117
+
+212
+
+213
+
+
+
+49
+
+625
+
+
+c
+
+27
+
+169
+
+291
+
+581
+
+
+
+325
+
+1,393
+
+
+start
+
+28
+
+339
+
+1,722
+
+7,576
+
+15
+
+2,575
+
+12,255
+
+
+stub
+
+1
+
+52
+
+572
+
+18,286
+
+55
+
+6,178
+
+25,144
+
+
+list
+
+1
+
+19
+
+133
+
+530
+
+14
+
+447
+
+1,144
+
+
+category
+
+
+
+
+
+18
+
+23
+
+13,772
+
+
+
+13,813
+
+
+disambig
+
+
+
+
+
+
+
+11
+
+53
+
+
+
+64
+
+
+file
+
+
+
+
+
+2
+
+1
+
+180
+
+
+
+183
+
+
+portal
+
+
+
+
+
+
+
+
+
+17
+
+
+
+17
+
+
+project
+
+1
+
+
+
+
+
+
+
+14
+
+
+
+15
+
+
+template
+
+1
+
+5
+
+2
+
+9
+
+1,506
+
+
+
+1,523
+
+
+na
+
+
+
+
+
+1
+
+17
+
+400
+
+1
+
+419
+
+
+other
+
+
+
+
+
+
+
+2
+
+14
+
+2
+
+18
+
+
+assessed
+
+99
+
+721
+
+3,007
+
+27,370
+
+16,040
+
+9,581
+
+56,818
+
+
+unassessed
+
+
+
+2
+
+1
+
+38
+
+
+
+5,708
+
+5,749
+
+
+total
+
+99
+
+723
+
+3,008
+
+27,408
+
+16,040
+
+15,289
+
+62,567
+
+
+wikiwork factors (?)
+
+ω =  7005224514000000000♠224,514                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+
+ω =                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               5.55                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+
+
+assessment log
+assessment instructions
+list of articles covered by this project
+
+
+
+
+
+
+
+project goals
+
+
+
+catalogue all the notable towns and communes of italy
+catalogue all notable italians
+add other essential italy-related knowledge to wikipedia
+monitor category:italy stubs and develop those stubs into articles
+select representative articles to develop toward featured article status
+
+
+
+
+wikiproject italy categories
+
+
+▼  wikiproject italy►  wikiproject italy articles►  articles needing translation from italian wikipedia►  articles needing translation from neapolitan wikipedia►  articles needing translation from sardinian wikipedia►  articles needing translation from sicilian wikipedia►  wikiproject bernini►  italy articles needing attention►  wikiproject kingdom of naples►  wikiproject italy participants►  wikiproject rome►  wikiproject sicily►  wikipedia meetups in italy►  wikiproject italy members►  wikiproject italy templates
+
+
+
+related wikiprojects
+
+
+
+
+
+parentproject:
+
+
+europe
+
+
+relatedprojects:
+
+
+former countries
+italian historical states t/f
+kingdom of naples
+military history
+classical warfare t/f
+italian military history t/f
+classical greece and rome
+catullus
+city of rome
+sicily
+films: italian cinema t/f
+italian football
+
+
+
+
+related portals
+
+
+
+
+
+
+
+
+
+
+
+
+europe
+
+sicily
+
+italian wars
+
+
+
+italy related categories
+
+
+▼  italy►  italy-related lists►  buildings and structures in italy►  italian culture►  economy of italy►  education in italy►  environment of italy►  geography of italy►  government of italy►  health in italy►  history of italy►  organisations based in italy►  italian people►  politics of italy►  italian society►  images of italy►  italy stubs
+
+
+
+italy related did you knows
+
+
+
+
+
+
+camillo benso, conte di cavour
+tommaso francini
+italian conquest of british somaliland
+italian mare nostrum
+dillinger is dead
+
+
+
+
+italy on wikimedia sites
+
+
+
+ images and media from commons
+ dictionary definitions from wiktionary
+ textbooks from wikibooks
+ quotations from wikiquote
+ source texts from wikisource
+ news stories from wikinews
+ learning resources from wikiversity
+
+
+
+
+
+edit this panel
+
+
+
+
+
+
+
+cleanup listing for this project is available. see also the tool's wiki page and the index of wikiprojects.
+
+
+watchlist[edit]
+wikiproject watchlist - wikiproject italy
+
+
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=wikipedia:wikiproject_italy&oldid=882070727"					
+categories: wikiproject countries projectswikiproject italy 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+project pagetalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata item 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikidata 
+
+
+
+languages
+
+
+العربيةdanskdeutschespañolفارسیfrançais한국어ქართულიmagyar日本語oʻzbekcha/ўзбекчарусскийsuomisvenskaтоҷикӣ中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 6 february 2019, at 17:11 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"2.760","walltime":"3.428","ppvisitednodes":{"value":49780,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":1623383,"limit":2097152},"templateargumentsize":{"value":205394,"limit":2097152},"expansiondepth":{"value":23,"limit":40},"expensivefunctioncount":{"value":19,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":16150,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1529.844      1 -total"," 42.65%  652.554      1 wikipedia:wikiproject_italy/right_panel"," 41.51%  635.086      1 wikipedia:version_1.0_editorial_team/italy_articles_by_quality_statistics"," 41.37%  632.936      1 user:wp_1.0_bot/tables/project/italy"," 34.33%  525.153      1 user:wp_1.0_bot/wikiwork"," 34.12%  521.989      1 user:wp_1.0_bot/wikiwork/ta"," 33.88%  518.305      1 user:wp_1.0_bot/wikiwork/ta/pri"," 29.53%  451.687      1 user:alexnewartbot/italysearchresult"," 20.65%  315.893      2 user:wp_1.0_bot/wikiwork/ww"," 17.89%  273.760      1 user:wp_1.0_bot/wikiwork/ta/pri/1"]},"scribunto":{"limitreport-timeusage":{"value":"0.235","limit":"10.000"},"limitreport-memusage":{"value":3750920,"limit":52428800}},"cachereport":{"origin":"mw1250","timestamp":"20190219154531","ttl":21600,"transientcontent":true}}});mw.config.set({"wgbackendresponsetime":3543,"wghostname":"mw1250"});});
+
+

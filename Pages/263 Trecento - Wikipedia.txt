@@ -1,0 +1,524 @@
+
+
+
+
+trecento - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"trecento","wgtitle":"trecento","wgcurrevisionid":836695765,"wgrevisionid":836695765,"wgarticleid":3207530,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["commons category link is locally defined","italian renaissance","medieval italy","14th century in italy","trecento painters","cultural history of italy","gothic art","renaissance art","italian renaissance painters","italian renaissance sculptors","italian renaissance people","14th-century italian architects","14th-century italian painters","14th-century italian sculptors"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"trecento","wgrelevantarticleid":3207530,"wgrequestid":"xgy2ngpaad0aacx8lomaaaan","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q856643","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+trecento 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+art of italy
+periods
+
+etruscan
+ancient roman
+gothic
+renaissance and mannerism
+baroque and rococo
+neoclassical and 19th century
+modern and contemporary
+
+
+centennial divisions
+duecento
+trecento
+quattrocento
+cinquecento
+seicento
+settecento
+
+important art museums
+uffizi
+pinacoteca di brera
+vatican museums
+villa borghese
+sabauda gallery
+gallerie dell'accademia
+pitti palace
+accademia di belle arti firenze
+bargello
+
+important art festivals
+venice biennale
+rome quadriennale
+
+major works
+the tribute money (masaccio)
+the birth of venus
+primavera
+mona lisa
+the last supper
+annunciation (leonardo)
+sistine chapel ceiling
+sistine madonna
+pietà
+the last judgment
+the creation of adam
+david (michelangelo)
+the school of athens
+the battle of san romano
+venus of urbino
+david (donatello)
+the calling of st. matthew
+unique forms of continuity in space
+
+italian artists
+painters
+sculptors
+architects
+photographers
+illustrators
+
+italian art schools
+bolognese school
+ferrarese school
+forlivese school
+florentine school
+lucchese and pisan school
+sienese school
+venetian school
+
+art movements
+renaissance
+mannerism
+baroque
+macchiaioli
+metaphysical art
+futurism
+arte povera
+novecento italiano
+pittura infamante
+purismo
+transavantgarde
+scuola romana
+
+other topics
+italian architecture
+sculpture of italy
+timeline of italian artists to 1800
+raphael rooms
+vte
+the trecento (italian pronunciation: [treˈtʃɛnto]; italian for 300, short for "mille trecento," 1300) refers to the 14th century in italian cultural history.[1]
+
+contents
+
+1 period
+
+1.1 art
+1.2 vernacular writing
+1.3 secular music
+
+
+2 see also
+3 references
+4 further reading
+5 external links
+
+
+period[edit]
+art[edit]
+commonly the trecento is considered to be the beginning of the renaissance in art history.  painters of the trecento included giotto di bondone, as well as painters of the sienese school, which became the most important in italy during the century, including duccio di buoninsegna, simone martini, lippo memmi,  ambrogio lorenzetti and his brother pietro.  important sculptors included two pupils of giovanni pisano: arnolfo di cambio and tino di camaino, and bonino da campione.
+
+vernacular writing[edit]
+the trecento was also famous as a time of heightened literary activity, with writers working in the vernacular instead of latin.  dante, petrarch and boccaccio were the leading writers of the age.  dante produced his famous la divina commedia (the divine comedy), a summation of the medieval worldview, and petrarch wrote verse in a lyrical style influenced by the provençal poetry of the troubadours.
+
+secular music[edit]
+in music, the trecento was a time of vigorous activity in italy, as it was in france, with which there was a frequent interchange of musicians and influences. distinguishing the period from the preceding century was an emphasis on secular song, especially love lyrics; much of the surviving music is polyphonic, but the influence of the troubadours who came to italy, fleeing the albigensian crusade in the early 13th century, is evident. in contrast to the artistic and literary achievements of the century, trecento music (at least in written form) flourished in the second half of the century, and the period is often extended (especially in english-language scholarship) into the first decades of the 15th century, as a so-called "long trecento." musicians and composers of the trecento included the renowned francesco landini, as well as maestro piero, gherardello da firenze, jacopo da bologna, giovanni da cascia, paolo "tenorista" da firenze, niccolò da perugia,  bartolino da padova, antonio zachara da teramo, matteo da perugia, and johannes ciconia.
+
+see also[edit]
+music of the trecento
+duecento
+quattrocento - the 15th century in italian culture
+cinquecento - the 16th century in italian culture
+seicento - the 17th century in italian culture
+settecento - the 18th century in italian culture
+italian renaissance - started at end of 14th century
+references[edit]
+
+
+^ il trecento (in italian)
+
+
+further reading[edit]
+long, michael (1990). "trecento italy".  in mckinnon, james. antiquity and the middle ages: from ancient greece to the 15th century. music and society series. englewood cliffs, nj: prentice hall. pp. 241–268. isbn 0130361615..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+external links[edit]
+ media related to 14th-century in italy at wikimedia commons
+
+vteitaly articleshistorychronology
+prehistory
+italic peoples
+ancient peoples of italy
+pre-nuragic sardinia
+nuragic peoples
+etruscan civilization
+nuragic civilization
+phoenician/carthaginian colonies
+magna graecia
+ancient rome
+kingdom
+republic
+empire
+middle ages
+italy under odoacer
+ostrogoths
+byzantium
+lombards
+the holy roman empire
+the sardinian judicates
+arabs
+normans
+guelphs and ghibellines
+the italian city-states
+the maritime republics
+renaissance
+italian wars
+early modern period
+unification
+revolutions of 1820
+revolutions of 1830
+revolutions of 1848
+sicilian revolution of 1848
+first war of independence
+crimean war
+second war of independence
+expedition of the thousand
+third war of independence
+capture of rome
+monarchy and the world wars
+kingdom of italy
+colonial empire
+world war i
+fascist italy
+world war ii
+resistance
+civil war
+republic
+economic boom
+years of lead
+years of mud
+mani pulite
+by topic
+citizenship
+currency
+economy
+fashion
+flags
+genetic
+historic states
+military
+music
+postal
+railways
+geography
+peninsula
+northern
+northwest
+northeast
+central
+southern
+south
+insular
+climate
+fauna
+flora
+mountains
+prealps
+alps
+apennines
+volcanology
+volcanoes
+beaches
+canals
+caves
+earthquakes
+islands
+lakes
+national parks
+rivers
+valleys
+politics
+constitution
+elections
+referendums
+foreign relations
+missions
+judiciary
+law enforcement
+military
+parliament
+chamber of deputies
+senate
+political parties
+president
+prime minister
+council of ministers
+regions
+provinces
+metropolitan cities
+comune
+municipalities
+cities
+economy
+economic history
+milan
+naples
+rome
+turin
+regions by gdp
+automotive industry
+banking
+central bank
+companies
+energy
+government debt
+science and technology
+stock exchange
+taxation
+telecommunications
+internet
+tourism
+trade unions
+transportation
+welfare
+society
+abortion
+adoption
+billionaires
+capital punishment
+corruption
+crime
+demographics
+education
+secondary
+higher
+universities
+emigration
+fathers' rights movement
+feminism
+gambling
+health
+healthcare
+immigration
+lgbt rights
+nobility
+prostitution
+racism
+religion
+smoking
+social class
+terrorism
+women
+culture
+duecento
+trecento
+quattrocento
+cinquecento
+seicento
+settecento
+architecture
+art
+castles
+cinema
+cuisine
+beer
+wine
+cultural icons
+decorations
+design
+fashion
+festivals
+folklore
+italian language
+regional italian
+italian literature
+italophilia
+italophobia
+languages
+media
+newspapers
+radio
+tv
+monuments
+music
+classical
+folk
+opera
+popular
+mythology
+national symbols
+anthem
+emblem
+flag
+regions
+national monument
+personification
+people
+philosophy
+public holidays
+festa della repubblica
+sculpture
+sport
+traditions
+world heritage sites
+
+ italy portal
+ category
+ commons
+ news
+quotes
+travel
+ wikiproject
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=trecento&oldid=836695765"					
+categories: italian renaissancemedieval italy14th century in italytrecento painterscultural history of italygothic artrenaissance artitalian renaissance paintersitalian renaissance sculptorsitalian renaissance people14th-century italian architects14th-century italian painters14th-century italian sculptorshidden categories: commons category link is locally defined 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+languages
+
+
+беларускаяcatalàčeštinadeutscheestiespañolfrançaisgalegoհայերենעבריתlietuviųmagyarмакедонскиnederlands日本語norsknorsk nynorskpolskiportuguêsрусскийsimple englishslovenčinaсрпски / srpski 
+edit links 
+
+
+
+
+
+ this page was last edited on 16 april 2018, at 09:50 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.360","walltime":"0.574","ppvisitednodes":{"value":1158,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":101269,"limit":2097152},"templateargumentsize":{"value":21132,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":17,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2433,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  381.003      1 -total"," 33.41%  127.304      6 template:navbox"," 33.14%  126.263      1 template:italy_topics"," 32.26%  122.919      1 template:country_topics"," 25.72%   97.978      1 template:cite_book"," 20.91%   79.675      1 template:commonscat-inline"," 13.39%   50.998      1 template:art_of_italy"," 12.16%   46.311      1 template:sidebar","  6.61%   25.186      1 template:coat_of_arms","  5.55%   21.143      6 template:icon"]},"scribunto":{"limitreport-timeusage":{"value":"0.112","limit":"10.000"},"limitreport-memusage":{"value":4435769,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1266","timestamp":"20190214235434","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"trecento","url":"https:\/\/en.wikipedia.org\/wiki\/trecento","sameas":"http:\/\/www.wikidata.org\/entity\/q856643","mainentity":"http:\/\/www.wikidata.org\/entity\/q856643","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2005-11-20t21:46:31z","datemodified":"2018-04-16t09:50:33z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/7b\/collage_arte_italiana.jpg","headline":"14th century in italian cultural history"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":108,"wghostname":"mw1266"});});
+
+

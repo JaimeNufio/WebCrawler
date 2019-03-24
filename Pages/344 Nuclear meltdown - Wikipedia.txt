@@ -1,0 +1,574 @@
+
+
+
+
+nuclear meltdown - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"nuclear_meltdown","wgtitle":"nuclear meltdown","wgcurrevisionid":883759635,"wgrevisionid":883759635,"wgarticleid":162498,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["cs1 errors: chapter ignored","cs1 maint: archived copy as title","all articles that may contain original research","articles that may contain original research from march 2011","use dmy dates from april 2012","nuclear safety and security","nuclear reactors","civilian nuclear power accidents"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"nuclear_meltdown","wgrelevantarticleid":162498,"wgrequestid":"xglz9gpaad4aagvuq0oaaacb","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q105807","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+nuclear meltdown 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+ three of the reactors at fukushima i overheated because the cooling systems failed after a tsunami flooded the power station, causing core meltdowns. this was compounded by hydrogen gas explosions and the venting of contaminated steam which released large amounts of radioactive material into the air.[1]
+ three mile island nuclear generating station consisted of two pressurized water reactors manufactured by babcock & wilcox, each inside its own containment building and connected cooling towers. unit 2, which suffered a partial core melt, is in the background.
+a nuclear meltdown (core melt accident or partial core melt[2]) is a severe nuclear reactor accident that results in core damage from overheating. the term nuclear meltdown is not officially defined by the international atomic energy agency[3] or by the nuclear regulatory commission.[4] however, it has been defined to mean the accidental melting of the core of a nuclear reactor,[5] and is in common usage a reference to the core's either complete or partial collapse.
+a core meltdown accident occurs when the heat generated by a nuclear reactor exceeds the heat removed by the cooling systems to the point where at least one nuclear fuel element exceeds its melting point. this differs from a fuel element failure, which is not caused by high temperatures. a meltdown may be caused by a loss of coolant, loss of coolant pressure, or low coolant flow rate or be the result of a criticality excursion in which the reactor is operated at a power level that exceeds its design limits. alternatively, in a reactor plant such as the rbmk-1000, an external fire may endanger the core, leading to a meltdown.
+once the fuel elements of a reactor begin to melt, the fuel cladding has been breached, and the nuclear fuel (such as uranium, plutonium, or thorium[n 1]) and fission products (such as caesium-137, krypton-85, or iodine-131) within the fuel elements can leach out into the coolant. subsequent failures can permit these radioisotopes to breach further layers of containment. superheated steam and hot metal inside the core can lead to fuel-coolant interactions, hydrogen explosions, or water hammer, any of which could destroy parts of the containment. a meltdown is considered very serious because of the potential for radioactive materials to breach all containment and escape (or be released) into the environment, resulting in radioactive contamination and fallout, and potentially leading to radiation poisoning of people and animals nearby.
+
+contents
+
+1 causes
+2 light water reactors (lwrs)
+
+2.1 breach of the primary pressure boundary
+2.2 severe accident ex-vessel interactions and challenges to containment
+2.3 standard failure modes
+2.4 speculative failure modes
+
+
+3 other reactor types
+
+3.1 candu reactors
+3.2 gas-cooled reactors
+3.3 lead and lead-bismuth-cooled reactors
+3.4 experimental or conceptual designs
+
+
+4 soviet union-designed reactors
+
+4.1 rbmks
+4.2 mker
+4.3 vver
+4.4 chernobyl disaster
+
+
+5 effects
+6 reactor design
+7 nuclear meltdown events
+
+7.1 united states
+7.2 soviet union
+7.3 japan
+7.4 switzerland
+7.5 canada
+7.6 united kingdom
+7.7 france
+7.8 czechoslovakia
+
+
+8 china syndrome
+
+8.1 history
+
+
+9 see also
+10 notes
+11 references
+12 external links
+
+
+causes[edit]
+nuclear power plants generate electricity by heating fluid via a nuclear reaction to run a generator. if the heat from that reaction is not removed adequately, the fuel assemblies in a reactor core can melt. a core damage incident can occur even after a reactor is shut down because the fuel continues to produce decay heat.
+a core damage accident is caused by the loss of sufficient cooling for the nuclear fuel within the reactor core. the reason may be one of several factors, including a loss-of-pressure-control accident, a loss-of-coolant accident (loca), an uncontrolled power excursion or, in reactors without a pressure vessel, a fire within the reactor core. failures in control systems may cause a series of events resulting in loss of cooling. contemporary safety principles of 
+defense in depth ensure that multiple layers of safety systems are always present to make such accidents unlikely.
+the containment building is the last of several safeguards that prevent the release of radioactivity to the environment. many commercial reactors are contained within a 1.2-to-2.4-metre (3.9 to 7.9 ft) thick pre-stressed, steel-reinforced, air-tight concrete structure that can withstand hurricane-force winds and severe earthquakes.
+
+in a loss-of-coolant accident, either the physical loss of coolant (which is typically deionized water, an inert gas, nak, or liquid sodium) or the loss of a method to ensure a sufficient flow rate of the coolant occurs. a loss-of-coolant accident and a loss-of-pressure-control accident are closely related in some reactors. in a pressurized water reactor, a loca can also cause a "steam bubble" to form in the core due to excessive heating of stalled coolant or by the subsequent loss-of-pressure-control accident caused by a rapid loss of coolant. in a loss-of-forced-circulation accident, a gas cooled reactor's circulators (generally motor or steam driven turbines) fail to circulate the gas coolant within the core, and heat transfer is impeded by this loss of forced circulation, though natural circulation through convection will keep the fuel cool as long as the reactor is not depressurized.[6]
+in a loss-of-pressure-control accident, the pressure of the confined coolant falls below specification without the means to restore it. in some cases this may reduce the heat transfer efficiency (when using an inert gas as a coolant) and in others may form an insulating "bubble" of steam surrounding the fuel assemblies (for pressurized water reactors). in the latter case, due to localized heating of the "steam bubble" due to decay heat, the pressure required to collapse the "steam bubble" may exceed reactor design specifications until the reactor has had time to cool down. (this event is less likely to occur in boiling water reactors, where the core may be deliberately depressurized so that the emergency core cooling system may be turned on). in a depressurization fault, a gas-cooled reactor loses gas pressure within the core, reducing heat transfer efficiency and posing a challenge to the cooling of fuel; however, as long as at least one gas circulator is available, the fuel will be kept cool.[6]
+in an uncontrolled power excursion accident, a sudden power spike in the reactor exceeds reactor design specifications due to a sudden increase in reactor reactivity. an uncontrolled power excursion occurs due to significantly altering a parameter that affects the neutron multiplication rate of a chain reaction (examples include ejecting a control rod or significantly altering the nuclear characteristics of the moderator, such as by rapid cooling). in extreme cases the reactor may proceed to a condition known as prompt critical. this is especially a problem in reactors that have a positive void coefficient of reactivity, a positive temperature coefficient, are overmoderated, or can trap excess quantities of deleterious fission products within their fuel or moderators. many of these characteristics are present in the rbmk design, and the chernobyl disaster was caused by such deficiencies as well as by severe operator negligence. western light water reactors are not subject to very large uncontrolled power excursions because loss of coolant decreases, rather than increases, core reactivity (a negative void coefficient of reactivity); "transients," as the minor power fluctuations within western light water reactors are called, are limited to momentary increases in reactivity that will rapidly decrease with time (approximately 200% - 250% of maximum neutronic power for a few seconds in the event of a complete rapid shutdown failure combined with a transient).
+core-based fires endanger the core and can cause the fuel assemblies to melt. a fire may be caused by air entering a graphite moderated reactor, or a liquid-sodium cooled reactor. graphite is also subject to accumulation of wigner energy, which can overheat the graphite (as happened at the windscale fire). light water reactors do not have flammable cores or moderators and are not subject to core fires. gas-cooled civilian reactors, such as the magnox, ungg, and agcr type reactors, keep their cores blanketed with non reactive carbon dioxide gas, which cannot support a fire. modern gas-cooled civilian reactors use helium, which cannot burn, and have fuel that can withstand high temperatures without melting (such as the high temperature gas cooled reactor and the pebble bed modular reactor).
+byzantine faults and cascading failures within instrumentation and control systems may cause severe problems in reactor operation, potentially leading to core damage if not mitigated. for example, the browns ferry fire damaged control cables and required the plant operators to manually activate cooling systems. the three mile island accident was caused by a stuck-open pilot-operated pressure relief valve combined with a deceptive water level gauge that misled reactor operators, which resulted in core damage.
+light water reactors (lwrs)[edit]
+ the three mile island reactor 2 after the meltdown. inlet 2binlet 1acavityloose core debriscrustpreviously molten materiallower plenum debrispossible region depleted in uraniumablated incore instrument guidehole in baffle platecoating of previously-molten material on bypass region interior surfacesupper grid damage
+before the core of a light water nuclear reactor can be damaged, two precursor events must have already occurred:
+
+a limiting fault (or a set of compounded emergency conditions) that leads to the failure of heat removal within the core (the loss of cooling). low water level uncovers the core, allowing it to heat up.
+failure of the emergency core cooling system (eccs). the eccs is designed to rapidly cool the core and make it safe in the event of the maximum fault (the design basis accident) that nuclear regulators and plant engineers could imagine. there are at least two copies of the eccs built for every reactor. each division (copy) of the eccs is capable, by itself, of responding to the design basis accident. the latest reactors have as many as four divisions of the eccs. this is the principle of redundancy, or duplication. as long as at least one eccs division functions, no core damage can occur. each of the several divisions of the eccs has several internal "trains" of components. thus the eccs divisions themselves have internal redundancy – and can withstand failures of components within them.
+the three mile island accident was a compounded group of emergencies that led to core damage. what led to this was an erroneous decision by operators to shut down the eccs during an emergency condition due to gauge readings that were either incorrect or misinterpreted; this caused another emergency condition that, several hours after the fact, led to core exposure and a core damage incident. if the eccs had been allowed to function, it would have prevented both exposure and core damage. during the fukushima incident the emergency cooling system had also been manually shut down several minutes after it started.[7]
+if such a limiting fault were to occur, and a complete failure of all eccs divisions were to occur, both kuan, et al and haskin, et al describe six stages between the start of the limiting fault (the loss of cooling) and the potential escape of molten corium into the containment (a so-called "full meltdown"):[8][9]
+
+uncovering of the core – in the event of a transient, upset, emergency, or limiting fault, lwrs are designed to automatically scram (a scram being the immediate and full insertion of all control rods) and spin up the eccs. this greatly reduces reactor thermal power (but does not remove it completely); this delays core becoming uncovered, which is defined as the point when the fuel rods are no longer covered by coolant and can begin to heat up. as kuan states: "in a small-break loca with no emergency core coolant injection, core uncovery [sic] generally begins approximately an hour after the initiation of the break. if the reactor coolant pumps are not running, the upper part of the core will be exposed to a steam environment and heatup of the core will begin. however, if the coolant pumps are running, the core will be cooled by a two-phase mixture of steam and water, and heatup of the fuel rods will be delayed until almost all of the water in the two-phase mixture is vaporized. the tmi-2 accident showed that operation of reactor coolant pumps may be sustained for up to approximately two hours to deliver a two phase mixture that can prevent core heatup."[8]
+pre-damage heat up – "in the absence of a two-phase mixture going through the core or of water addition to the core to compensate water boiloff, the fuel rods in a steam environment will heat up at a rate between 0.3 °c/s (0.5 °f/s) and 1 °c/s (1.8 °f/s) (3)."[8]
+fuel ballooning and bursting – "in less than half an hour, the peak core temperature would reach 1,100 k (830 °c). at this temperature the zircaloy cladding of the fuel rods may balloon and burst. this is the first stage of core damage. cladding ballooning may block a substantial portion of the flow area of the core and restrict the flow of coolant. however, complete blockage of the core is unlikely because not all fuel rods balloon at the same axial location. in this case, sufficient water addition can cool the core and stop core damage progression."[8]
+rapid oxidation – "the next stage of core damage, beginning at approximately 1,500 k (1,230 °c), is the rapid oxidation of the zircaloy by steam. in the oxidation process, hydrogen is produced and a large amount of heat is released. above 1,500 k (1,230 °c), the power from oxidation exceeds that from decay heat (4,5) unless the oxidation rate is limited by the supply of either zircaloy or steam."[8]
+debris bed formation – "when the temperature in the core reaches about 1,700 k (1,430 °c), molten control materials (1,6) will flow to and solidify in the space between the lower parts of the fuel rods where the temperature is comparatively low. above 1,700 k (1,430 °c), the core temperature may escalate in a few minutes to the melting point of zircaloy [2,150 k (1,880 °c)] due to increased oxidation rate. when the oxidized cladding breaks, the molten zircaloy, along with dissolved uo2 (1,7) would flow downward and freeze in the cooler, lower region of the core. together with solidified control materials from earlier down-flows, the relocated zircaloy and uo2 would form the lower crust of a developing cohesive debris bed."[8]
+(corium) relocation to the lower plenum – "in scenarios of small-break locas, there is generally a pool of water in the lower plenum of the vessel at the time of core relocation. release of molten core materials into water always generates large amounts of steam. if the molten stream of core materials breaks up rapidly in water, there is also a possibility of a steam explosion. during relocation, any unoxidized zirconium in the molten material may also be oxidized by steam, and in the process hydrogen is produced. recriticality also may be a concern if the control materials are left behind in the core and the relocated material breaks up in unborated water in the lower plenum."[8]
+at the point at which the corium relocates to the lower plenum, haskin, et al relate that the possibility exists for an incident called a fuel-coolant interaction (fci) to substantially stress or breach the primary pressure boundary when the corium relocates to the lower plenum of the reactor pressure vessel ("rpv").[10]
+this is because the lower plenum of the rpv may have a substantial quantity of water - the reactor coolant - in it, and, assuming the primary system has not been depressurized, the water will likely be in the liquid phase, and consequently dense, and at a vastly lower temperature than the corium. since corium is a liquid metal-ceramic eutectic at temperatures of 2,200 to 3,200 k (1,930 to 2,930 °c), its fall into liquid water at 550 to 600 k (277 to 327 °c) may cause an extremely rapid evolution of steam that could cause a sudden extreme overpressure and consequent gross structural failure of the primary system or rpv.[10] though most modern studies hold that it is physically infeasible, or at least extraordinarily unlikely, haskin, et al state that there exists a remote possibility of an extremely violent fci leading to something referred to as an alpha-mode failure, or the gross failure of the rpv itself, and subsequent ejection of the upper plenum of the rpv as a missile against the inside of the containment, which would likely lead to the failure of the containment and release of the fission products of the core to the outside environment without any substantial decay having taken place.[11]
+the american nuclear society has commented on the tmi-2 accident, that despite melting of about one-third of the fuel, the reactor vessel itself maintained its integrity and contained the damaged fuel.[12]
+
+breach of the primary pressure boundary[edit]
+there are several possibilities as to how the primary pressure boundary could be breached by corium.
+
+steam explosion
+as previously described, fci could lead to an overpressure event leading to rpv fail, and thus, primary pressure boundary fail. haskin, et al. report that in the event of a steam explosion, failure of the lower plenum is far more likely than ejection of the upper plenum in the alpha-mode. in the event of lower plenum failure, debris at varied temperatures can be expected to be projected into the cavity below the core. the containment may be subject to overpressure, though this is not likely to fail the containment. the alpha-mode failure will lead to the consequences previously discussed.
+
+pressurized melt ejection (pme)
+it is quite possible, especially in pressurized water reactors, that the primary loop will remain pressurized following corium relocation to the lower plenum. as such, pressure stresses on the rpv will be present in addition to the weight stress that the molten corium places on the lower plenum of the rpv; when the metal of the rpv weakens sufficiently due to the heat of the molten corium, it is likely that the liquid corium will be discharged under pressure out of the bottom of the rpv in a pressurized stream, together with entrained gases. this mode of corium ejection may lead to direct containment heating (dch).
+
+severe accident ex-vessel interactions and challenges to containment[edit]
+haskin, et al identify six modes by which the containment could be credibly challenged; some of these modes are not applicable to core melt accidents.
+
+overpressure
+dynamic pressure (shockwaves)
+internal missiles
+external missiles (not applicable to core melt accidents)
+meltthrough
+bypass
+standard failure modes[edit]
+if the melted core penetrates the pressure vessel, there are theories and speculations as to what may then occur.
+in modern russian plants, there is a "core catching device" in the bottom of the containment building. the melted core is supposed to hit a thick layer of a "sacrificial metal" which would melt, dilute the core and increase the heat conductivity, and finally the diluted core can be cooled down by water circulating in the floor. however, there has never been any full-scale testing of this device.[13]
+in western plants there is an airtight containment building. though radiation would be at a high level within the containment, doses outside of it would be lower. containment buildings are designed for the orderly release of pressure without releasing radionuclides, through a pressure release valve and filters. hydrogen/oxygen recombiners also are installed within the containment to prevent gas explosions.
+in a melting event, one spot or area on the rpv will become hotter than other areas, and will eventually melt. when it melts, corium will pour into the cavity under the reactor. though the cavity is designed to remain dry, several nureg-class documents advise operators to flood the cavity in the event of a fuel melt incident. this water will become steam and pressurize the containment. automatic water sprays will pump large quantities of water into the steamy environment to keep the pressure down. catalytic recombiners will rapidly convert the hydrogen and oxygen back into water. one positive effect of the corium falling into water is that it is cooled and returns to a solid state.
+extensive water spray systems within the containment along with the eccs, when it is reactivated, will allow operators to spray water within the containment to cool the core on the floor and reduce it to a low temperature.
+these procedures are intended to prevent release of radioactivity. in the three mile island event in 1979, a theoretical person standing at the plant property line during the entire event would have received a dose of approximately 2 millisieverts (200 millirem), between a chest x-ray's and a ct scan's worth of radiation. this was due to outgassing by an uncontrolled system that, today, would have been backfitted with activated carbon and hepa filters to prevent radionuclide release.
+however in the fukushima incident, this design failed: despite the efforts of the operators at the fukushima daiichi nuclear power plant to maintain control, the reactor cores in units 1-3 overheated, the nuclear fuel melted and the three containment vessels were breached. hydrogen was released from the reactor pressure vessels, leading to explosions inside the reactor buildings in units 1, 3 and 4 that damaged structures and equipment and injured personnel. radionuclides were released from the plant to the atmosphere and were deposited on land and on the ocean. there were also direct releases into the sea.[14][15]
+as the natural decay heat of the corium eventually reduces to an equilibrium with convection and conduction to the containment walls, it becomes cool enough for water spray systems to be shut down and the reactor to be put into safe storage. the containment can be sealed with release of extremely limited offsite radioactivity and release of pressure. after perhaps a decade for fission products to decay, the containment can be reopened for decontamination and demolition.
+another scenario sees a buildup of potentially explosive hydrogen, but passive autocatalytic recombiners inside the containment are designed to prevent this. in fukushima, the containments were filled with inert nitrogen which prevented hydrogen from burning; however, the hydrogen leaked from the containment to the reactor building, where it mixed with air and exploded.[15] during the 1979 three mile island accident, a hydrogen bubble formed in the pressure vessel dome. there were initial concerns that the hydrogen might ignite and damage the pressure vessel or even the containment building; but it was soon realized that lack of oxygen prevented burning or explosion.[16]
+
+speculative failure modes[edit]
+one scenario consists of the reactor pressure vessel failing all at once, with the entire mass of corium dropping into a pool of water (for example, coolant or moderator) and causing extremely rapid generation of steam. the pressure rise within the containment could threaten integrity if rupture disks could not relieve the stress. exposed flammable substances could burn, but there are few, if any, flammable substances within the containment.
+another theory, called an 'alpha mode' failure by the 1975 rasmussen (wash-1400) study, asserted steam could produce enough pressure to blow the head off the reactor pressure vessel (rpv). the containment could be threatened if the rpv head collided with it. (the wash-1400 report was replaced by better-based[original research?] newer studies, and now the nuclear regulatory commission has disavowed them all and is preparing the overarching state-of-the-art reactor consequence analyses [soarca] study - see the disclaimer in nureg-1150.)
+by 1970, there were doubts about the ability of the emergency cooling systems of a nuclear reactor to prevent a loss-of-coolant accident and the consequent meltdown of the fuel core; the subject proved popular in the technical and the popular presses.[17] in 1971, in the article thoughts on nuclear plumbing, former manhattan project nuclear physicist ralph lapp used the term "china syndrome" to describe a possible burn-through of the containment structures, and the subsequent escape of radioactive material(s) into the atmosphere and environment. the hypothesis derived from a 1967 report by a group of nuclear physicists, headed by w. k. ergen.[18] some fear that a molten reactor core could penetrate the reactor pressure vessel and containment structure and burn downwards to the level of the groundwater.[19]
+it has not been determined to what extent a molten mass can melt through a structure (although that was tested in the loss-of-fluid-test reactor described in test area north's fact sheet[20]). the three mile island accident provided real-life experience with an actual molten core: the corium failed to melt through the reactor pressure vessel after over six hours of exposure, due to dilution of the melt by the control rods and other reactor internals, validating the emphasis on defense in depth against core damage incidents. 
+
+other reactor types[edit]
+other types of reactors have different capabilities and safety profiles than the lwr does. advanced varieties of several of these reactors have the potential to be inherently safe.
+
+candu reactors[edit]
+candu reactors, canadian-invented deuterium-uranium design, are designed with at least one, and generally two, large low-temperature and low-pressure water reservoirs around their fuel/coolant channels. the first is the bulk heavy-water moderator (a separate system from the coolant), and the second is the light-water-filled shield tank(or calandria vault). these backup heat sinks are sufficient to prevent either the fuel meltdown in the first place (using the moderator heat sink), or the breaching of the core vessel should the moderator eventually boil off (using the shield tank heat sink).[21] other failure modes aside from fuel melt will probably occur in a candu rather than a meltdown, such as deformation of the calandria into a non-critical configuration. all candu reactors are located within standard western containments as well.
+
+gas-cooled reactors[edit]
+one type of western reactor, known as the advanced gas-cooled reactor (or agr), built by the united kingdom, is not very vulnerable to loss-of-cooling accidents or to core damage except in the most extreme of circumstances. by virtue of the relatively inert coolant (carbon dioxide), the large volume and high pressure of the coolant, and the relatively high heat transfer efficiency of the reactor, the time frame for core damage in the event of a limiting fault is measured in days. restoration of some means of coolant flow will prevent core damage from occurring.
+other types of highly advanced gas cooled reactors, generally known as high-temperature gas-cooled reactors (htgrs) such as the japanese high temperature test reactor and the united states' very high temperature reactor, are inherently safe, meaning that meltdown or other forms of core damage are physically impossible, due to the structure of the core, which consists of hexagonal prismatic blocks of silicon carbide reinforced graphite infused with triso or quadriso pellets of uranium, thorium, or mixed oxide buried underground in a helium-filled steel pressure vessel within a concrete containment. though this type of reactor is not susceptible to meltdown, additional capabilities of heat removal are provided by using regular atmospheric airflow as a means of backup heat removal, by having it pass through a heat exchanger and rising into the atmosphere due to convection, achieving full residual heat removal. the vhtr is scheduled to be prototyped and tested at idaho national laboratory within the next decade (as of 2009) as the design selected for the next generation nuclear plant by the us department of energy. this reactor will use a gas as a coolant, which can then be used for process heat (such as in hydrogen production) or for the driving of gas turbines and the generation of electricity.
+a similar highly advanced gas cooled reactor originally designed by west germany (the avr reactor) and now developed by south africa is known as the pebble bed modular reactor. it is an inherently safe design, meaning that core damage is physically impossible, due to the design of the fuel (spherical graphite "pebbles" arranged in a bed within a metal rpv and filled with triso (or quadriso) pellets of uranium, thorium, or mixed oxide within). a prototype of a very similar type of reactor has been built by the chinese, htr-10, and has worked beyond researchers' expectations, leading the chinese to announce plans to build a pair of follow-on, full-scale 250 mwe, inherently safe, power production reactors based on the same concept. (see nuclear power in the people's republic of china for more information.)
+
+lead and lead-bismuth-cooled reactors[edit]
+recently it was identified a special phenomenology for heavy liquid metal-cooled fast reactors -hlm, as lead and lead-bismuth-cooled reactors.[22] because of the similar densities of the fuel and the hlm, an inherent passive safety self-removal feedback mechanism due to buoyancy forces is developed, which propels the packed bed away from the wall when certain threshold of temperature is attained and the bed becomes lighter than the surrounding coolant, thus preventing temperatures that can jeopardize the vessel’s structural integrity and also reducing the recriticality potential by limiting the allowable bed depth.
+
+experimental or conceptual designs[edit]
+some design concepts for nuclear reactors emphasize resistance to meltdown and operating safety.
+the pius (process inherent ultimate safety) designs, originally engineered by the swedes in the late 1970s and early 1980s, are lwrs that by virtue of their design are resistant to core damage. no units have ever been built.
+power reactors, including the deployable electrical energy reactor, a larger-scale mobile version of the triga for power generation in disaster areas and on military missions, and the triga power system, a small power plant and heat source for small and remote community use, have been put forward by interested engineers, and share the safety characteristics of the triga due to the uranium zirconium hydride fuel used.
+the hydrogen moderated self-regulating nuclear power module, a reactor that uses uranium hydride as a moderator and fuel, similar in chemistry and safety to the triga, also possesses these extreme safety and stability characteristics, and has attracted a good deal of interest in recent times.
+the liquid fluoride thorium reactor is designed to naturally have its core in a molten state, as a eutectic mix of thorium and fluorine salts. as such, a molten core is reflective of the normal and safe state of operation of this reactor type. in the event the core overheats, a metal plug will melt, and the molten salt core will drain into tanks where it will cool in a non-critical configuration. since the core is liquid, and already melted, it cannot be damaged.
+advanced liquid metal reactors, such as the u.s. integral fast reactor and the russian bn-350, bn-600, and bn-800, all have a coolant with very high heat capacity, sodium metal. as such, they can withstand a loss of cooling without scram and a loss of heat sink without scram, qualifying them as inherently safe.
+
+soviet union-designed reactors[edit]
+rbmks[edit]
+soviet-designed rbmk reactors (reaktor bolshoy moshchnosti kanalnyy), found only in russia and the cis and now shut down everywhere except russia, do not have containment buildings, are naturally unstable (tending to dangerous power fluctuations), and have emergency cooling systems (eccs) considered grossly inadequate by western safety standards. the chernobyl disaster reactor was an rbmk.
+rbmk eccs systems only have one division and little redundancy within that division. though the large core of the rbmk is less energy-dense than the smaller western lwr core, it is harder to cool. the rbmk is moderated by graphite. in the presence of both steam and oxygen at high temperatures, graphite forms synthesis gas and with the water gas shift reaction, the resultant hydrogen burns explosively. if oxygen contacts hot graphite, it will burn. control rods used to be tipped with graphite, a material that slows neutrons and thus speeds up the chain reaction. water is used as a coolant, but not a moderator. if the water boils away, cooling is lost, but moderation continues. this is termed a positive void coefficient of reactivity.
+the rbmk tends towards dangerous power fluctuations. control rods can become stuck if the reactor suddenly heats up and they are moving. xenon-135, a neutron absorbent fission product, has a tendency to build up in the core and burn off unpredictably in the event of low power operation. this can lead to inaccurate neutronic and thermal power ratings.
+the rbmk does not have any containment above the core. the only substantial solid barrier above the fuel is the upper part of the core, called the upper biological shield, which is a piece of concrete interpenetrated with control rods and with access holes for refueling while online. other parts of the rbmk were shielded better than the core itself. rapid shutdown (scram) takes 10 to 15 seconds. western reactors take 1 - 2.5 seconds.
+western aid has been given to provide certain real-time safety monitoring capacities to the operating staff. whether this extends to automatic initiation of emergency cooling is not known. training has been provided in safety assessment from western sources, and russian reactors have evolved in result to the weaknesses that were in the rbmk. however, numerous rbmks still operate.
+though it might be possible to stop a loss-of-coolant event prior to core damage occurring, any core damage incidents will probably allow massive release of radioactive materials. 
+upon entering the eu in 2004, lithuania was required to phase out its two rbmks at ignalina npp, deemed totally incompatible with european nuclear safety standards. the country plans to replace them with safer reactors.
+
+mker[edit]
+the mker is a modern russian-engineered channel type reactor that is a distant descendant of the rbmk, designed to optimize the benefits and fix the serious flaws of the original.
+several unique features of the mker's design make it a credible and interesting option:
+the reactor remains online during refueling, ensuring outages only occasionally for maintenance, with uptime up to 97-99%. the moderator design allows the use of less-enriched fuels, with a high burnup rate. neutronics characteristics have been optimized for civilian use, for superior fuel fertilization and recycling; and graphite moderation achieves better neutronics than is possible with light water moderation. the lower power density of the core greatly enhances thermal regulation. 
+an array of improvements make the mker's safety comparable to western generation iii reactors: improved quality of parts, advanced computer controls, comprehensive passive emergency core cooling system, and very strong containment structure, along with a negative void coefficient and a fast-acting rapid shutdown system. the passive emergency cooling system uses reliable natural phenomena to cool the core, rather than depending on motor-driven pumps. the containment structure is designed to withstand severe stress and pressure. in the event of a pipe break of a cooling-water channel, the channel can be isolated from the water supply, preventing a general failure.
+the greatly enhanced safety and unique benefits of the mker design enhance its competitiveness in countries considering full fuel-cycle options for nuclear development.
+
+vver[edit]
+the vver is a pressurized light water reactor that is far more stable and safe than the rbmk. this is because it uses light water as a moderator (rather than graphite), has well understood operating characteristics, and has a negative void coefficient of reactivity. in addition, some have been built with more than marginal containments, some have quality eccs systems, and some have been upgraded to international standards of control and instrumentation. present generations of vvers (the vver-1000) are built to western-equivalent levels of instrumentation, control, and containment systems.
+however, even with these positive developments, certain older vver models raise a high level of concern, especially the vver-440 v230.[23]
+the vver-440 v230 has no containment building, but only has a structure capable of confining steam surrounding the rpv. this is a volume of thin steel, perhaps an inch or two in thickness, grossly insufficient by western standards.
+
+has no eccs. can survive at most one 4 inch pipe break (there are many pipes greater than 4 inches within the design).
+has six steam generator loops, adding unnecessary complexity.
+however, apparently steam generator loops can be isolated, in the event that a break occurs in one of these loops. the plant can remain operating with one isolated loop - a feature found in few western reactors.
+the interior of the pressure vessel is plain alloy steel, exposed to water. this can lead to rust, if the reactor is exposed to water. one point of distinction in which the vver surpasses the west is the reactor water cleanup facility - built, no doubt, to deal with the enormous volume of rust within the primary coolant loop - the product of the slow corrosion of the rpv.
+this model is viewed as having inadequate process control systems.
+bulgaria had a number of vver-440 v230 models, but they opted to shut them down upon joining the eu rather than backfit them, and are instead building new vver-1000 models. many non-eu states maintain v230 models, including russia and the cis. many of these states - rather than abandoning the reactors entirely - have opted to install an eccs, develop standard procedures, and install proper instrumentation and control systems. though confinements cannot be transformed into containments, the risk of a limiting fault resulting in core damage can be greatly reduced.
+the vver-440 v213 model was built to the first set of soviet nuclear safety standards. it possesses a modest containment building, and the eccs systems, though not completely to western standards, are reasonably comprehensive. many vver-440 v213 models operated by former soviet bloc countries have been upgraded to fully automated western-style instrumentation and control systems, improving safety to western levels for accident prevention - but not for accident containment, which is of a modest level compared to western plants. these reactors are regarded as "safe enough" by western standards to continue operation without major modifications, though most owners have performed major modifications to bring them up to generally equivalent levels of nuclear safety.
+during the 1970s, finland built two vver-440 v213 models to western standards with a large-volume full containment and world-class instrumentation, control standards and an eccs with multiply redundant and diversified components. in addition, passive safety features such as 900-tonne ice condensers have been installed, making these two units safety-wise the most advanced vver-440's in the world.
+the vver-1000 type has a definitely adequate western-style containment, the eccs is sufficient by western standards, and instrumentation and control has been markedly improved to western 1970s-era levels.
+
+chernobyl disaster[edit]
+main article: chernobyl disaster
+in the chernobyl disaster the fuel became non-critical when it melted and flowed away from the graphite moderator - however, it took considerable time to cool. the molten core of chernobyl (that part that was not blown outside the reactor or did not vaporize in the fire) flowed in a channel created by the structure of its reactor building and froze in place before a core-concrete interaction could happen. in the basement of the reactor at chernobyl, a large "elephant's foot" of congealed core material was found, one example of the freely-flowing corium. time delay, and prevention of direct emission to the atmosphere (i.e., containment), would have reduced the radiological release. if the basement of the reactor building had been penetrated, the groundwater would be severely contaminated, and its flow could carry the contamination far afield.
+the chernobyl reactor was a rbmk type. the disaster was caused by a power excursion that led to a steam explosion, meltdown and extensive offsite consequences. operator error and a faulty shutdown system led to a sudden, massive spike in the neutron multiplication rate, a sudden decrease in the neutron period, and a consequent increase in neutron population; thus, core heat flux increased rapidly beyond the design limits of the reactor. this caused the water coolant to flash to steam, causing a sudden overpressure within the reactor pressure vessel (rpv), leading to granulation of the upper portion of the core and the ejection of the upper plenum of said pressure vessel along with core debris from the reactor building in a widely dispersed pattern. the lower portion of the reactor remained somewhat intact; the graphite neutron moderator was exposed to oxygen-containing air; heat from the power excursion in addition to residual heat flux from the remaining fuel rods left without coolant induced oxidation in the moderator and in the opened fuel rods; this in turn evolved more heat and contributed to the melting of more of the fuel rods and the outgassing of the fission products contained therein. the liquefied remains of the melted fuel rods, pulverized concrete and any other objects in the path flowed through a drainage pipe into the basement of the reactor building and solidified in a mass, though the primary threat to the public safety was the dispersed core ejecta, vaporized and gaseous fission products and fuel, and the gasses evolved from the oxidation of the moderator.
+although the chernobyl accident had dire off-site effects, much of the radioactivity remained within the building. if the building were to fail and dust was to be released into the environment then the release of a given mass of fission products which have aged for almost thirty years would have a smaller effect than the release of the same mass of fission products (in the same chemical and physical form) which had only undergone a short cooling time (such as one hour) after the nuclear reaction has been terminated. however, if a nuclear reaction was to occur again within the chernobyl plant (for instance if rainwater was to collect and act as a moderator) then the new fission products would have a higher specific activity and thus pose a greater threat if they were released. to prevent a post-accident nuclear reaction, steps have been taken, such as adding neutron poisons to key parts of the basement.
+
+effects[edit]
+the effects of a nuclear meltdown depend on the safety features designed into a reactor. a modern reactor is designed both to make a meltdown unlikely, and to contain one should it occur.
+in a modern reactor, a nuclear meltdown, whether partial or total, should be contained inside the reactor's containment structure. thus (assuming that no other major disasters occur) while the meltdown will severely damage the reactor itself, possibly contaminating the whole structure with highly radioactive material, a meltdown alone should not lead to significant radioactivity release or danger to the public.[24]
+a nuclear meltdown may be part of a chain of disasters.  for example, in the chernobyl accident, by the time the core melted, there had already been a large steam explosion and graphite fire, and a major release of radioactive contamination. prior to a meltdown, operators may reduce pressure in the reactor by releasing radioactive steam to the environment. this would allow fresh cooling water to be injected with the intent of preventing a meltdown. 
+
+reactor design[edit]
+although pressurized water reactors are more susceptible to nuclear meltdown in the absence of active safety measures, this is not a universal feature of civilian nuclear reactors. much of the research in civilian nuclear reactors is for designs with passive nuclear safety features that may be less susceptible to meltdown, even if all emergency systems failed. for example, pebble bed reactors are designed so that complete loss of coolant for an indefinite period does not result in the reactor overheating. the general electric esbwr and westinghouse ap1000 have passively activated safety systems. the candu reactor has two low-temperature and low-pressure water systems surrounding the fuel (i.e. moderator and shield tank) that act as back-up heat sinks and preclude meltdowns and core-breaching scenarios.[21] liquid fueled reactors can be stopped by draining the fuel into tankage which not only prevents further fission but draws decay heat away statically, and by drawing off the fission products (which are the source of post-shutdown heating) incrementally. the ideal is to have reactors that fail-safe through physics rather than through redundant safety systems or human intervention.
+certain fast breeder reactor designs may be more susceptible to meltdown than other reactor types, due to their larger quantity of fissile material and the higher neutron flux inside the reactor core. however, reactor designs such as integral fast reactor model ebr ii,[25] had been explicitly engineered to be meltdown-immune. it was tested in april 1986, just before the chernobyl failure, to simulate loss of coolant pumping power, by switching off the power to the primary pumps. as designed, it shut itself down, in about 300 seconds, as soon as the temperature rose to a point designed as higher than proper operation would require. this was well below the boiling point of the unpressurised liquid metal coolant, which had entirely sufficient cooling ability to deal with the heat of fission product radioactivity, by simple convection.
+the second test, deliberate shut-off of the secondary coolant loop that supplies the generators, caused the primary circuit to undergo the same safe shutdown. this test simulated the case of a water-cooled reactor losing its steam turbine circuit, perhaps by a leak.
+
+nuclear meltdown events[edit]
+this is a list of the major reactor failures in which meltdown played a role:[26]
+
+united states[edit]
+ sl-1 core damage after a nuclear excursion.
+borax-i was a test reactor designed to explore criticality excursions and observe if a reactor would self limit. in the final test, it was deliberately destroyed and revealed that the reactor reached much higher temperatures than were predicted at the time.[27]
+the reactor at ebr-i suffered a partial meltdown during a coolant flow test on 29 november 1955.
+the sodium reactor experiment in santa susana field laboratory was an experimental nuclear reactor which operated from 1957 to 1964 and was the first commercial power plant in the world to experience a core meltdown in july 1959.
+stationary low-power reactor number one (sl-1) was a united states army experimental nuclear power reactor which underwent a criticality excursion, a steam explosion, and a meltdown on 3 january 1961, killing three operators.
+the snap8er reactor at the santa susana field laboratory experienced damage to 80% of its fuel in an accident in 1964.
+the partial meltdown at the fermi 1 experimental fast breeder reactor, in 1966, required the reactor to be repaired, though it never achieved full operation afterward.
+the snap8dr reactor at the santa susana field laboratory experienced damage to approximately a third of its fuel in an accident in 1969.
+the three mile island accident, in 1979, referred to in the press as a "partial core melt"[28] led to the total dismantlement and the permanent shutdown of that reactor. unit-1 still continues to operate at tmi.
+soviet union[edit]
+in the most serious example, the chernobyl disaster, design flaws and operator negligence led to a power excursion that subsequently caused a meltdown. according to a report released by the chernobyl forum (consisting of numerous united nations agencies, including the international atomic energy agency and the world health organization; the world bank; and the governments of ukraine, belarus, and russia) the disaster killed twenty-eight people due to acute radiation syndrome,[29] could possibly result in up to four thousand fatal cancers at an unknown time in the future[30] and required the permanent evacuation of an exclusion zone around the reactor.
+a number of soviet navy nuclear submarines experienced nuclear meltdowns, including k-27, k-140, and k-431.
+japan[edit]
+during the fukushima daiichi nuclear disaster following the earthquake and tsunami in march 2011, three of the power plant's six reactors suffered meltdowns. most of the fuel in the reactor no. 1 nuclear power plant melted.[31][32]
+switzerland[edit]
+the lucens reactor, switzerland, in 1969.
+canada[edit]
+nrx (military), ontario, canada, in 1952
+united kingdom[edit]
+windscale (military), sellafield, england, in 1957 (see windscale fire)
+chapelcross nuclear power station (civilian), scotland, in 1967
+france[edit]
+saint-laurent nuclear power plant (civilian), france, in 1969
+saint-laurent nuclear power plant (civilian), france, in 1980
+czechoslovakia[edit]
+a1 plant, (civilian) at jaslovské bohunice, czechoslovakia, in 1977
+china syndrome[edit]
+
+
+for the 1979 film, see the china syndrome. for the king of queens episode, see china syndrome (the king of queens).
+see also: core catcher
+the china syndrome (loss-of-coolant accident) is a hypothetical nuclear reactor operations accident characterized by the severe meltdown of the core components of the reactor, which then burn through the containment vessel and the housing building, then (figuratively) through the crust and body of the earth until reaching the opposite side (which, in the united states, is colloquially referred to as china).[33][34] the phrasing is metaphorical; there is no way a core could penetrate the several-kilometer thickness of the earth's crust, and even if it did melt to the center of the earth, it would not travel back upwards against the pull of gravity. moreover, any tunnel behind the material would be closed by immense lithostatic pressure. furthermore, china does not contain the antipode of any landmass in north america.
+in reality, under a complete loss of coolant scenario, the fast erosion phase of the concrete basement lasts for about an hour and progresses into about one meter depth, then slows to several centimeters per hour, and stops completely when the corium melt cools below the decomposition temperature of concrete (about 1,100 °c). complete melt-through can occur in several days, even through several meters of concrete; the corium then penetrates several meters into the underlying soil, spreads around, cools, and solidifies.[35] it is also possible that there is already a harmless dense natural concentration of radioactive material in the earth's core (primarily uranium-238, thorium-232 and potassium-40, which have half-lives of 4.47 billion years, 14.05 billion years and 1.25 billion years respectively.)[36][37]
+the real scare, however, came from a quote in the 1979 film the china syndrome, which stated, "it melts right down through the bottom of the plant—theoretically to china, but of course, as soon as it hits ground water, it blasts into the atmosphere and sends out clouds of radioactivity. the number of people killed would depend on which way the wind was blowing, rendering an area the size of pennsylvania permanently uninhabitable." the actual threat of this was tested just 12 days after the release of the film when a meltdown at pennsylvania's three mile island plant 2 (tmi-2) created a molten core that moved 15 millimeters toward "china" before the core froze at the bottom of the reactor pressure vessel.[38] thus, the tmi-2 reactor fuel and fission products breached the fuel plates, but the melted core itself did not break the containment of the reactor vessel.[39] hours after the meltdown, concern about hydrogen build-up led operators to release some radioactive gasses into the atmosphere, including gaseous fission products. release of the fission products led to a temporary evacuation of the surrounding area, but no injuries.
+a similar concern arose during the chernobyl disaster: after the reactor was destroyed, a liquid corium mass from the melting core began to breach the concrete floor of the reactor vessel, which was situated above the bubbler pool (a large water reservoir for emergency pumps, also designed to safely contain steam pipe ruptures). the rbmk had no allowance or planning for core meltdowns, and the imminent interaction of the core mass with the bubbler pool would have produced a considerable steam explosion, increasing the spread and magnitude of the radioactive plume. it was therefore necessary to drain the bubbler pool before the corium reached it. however, the initial explosion had broken the control circuitry which allowed the pool to be emptied. three station workers volunteered to go manually operate the valves necessary to drain this pool, and later images of the corium mass in the pipes of the bubbler pool's basement reinforced the prudence of their actions.[40]
+
+history[edit]
+the system design of the nuclear power plants built in the late 1960s raised questions of operational safety, and raised the concern that a severe reactor accident could release large quantities of radioactive materials into the atmosphere and environment. by 1970, there were doubts about the ability of the emergency core cooling system of a nuclear reactor to prevent a loss of coolant accident and the consequent meltdown of the fuel core; the subject proved popular in the technical and the popular presses.[17] in 1971, in the article thoughts on nuclear plumbing, former manhattan project (1942–1946) nuclear physicist ralph lapp used the term "china syndrome" to describe a possible burn-through, after a loss of coolant accident, of the nuclear fuel rods and core components melting the containment structures, and the subsequent escape of radioactive material(s) into the atmosphere and environment; the hypothesis derived from a 1967 report by a group of nuclear physicists, headed by w. k. ergen.[18] in the event, lapp’s hypothetical nuclear accident was cinematically adapted as the china syndrome (1979).
+
+see also[edit]
+behavior of nuclear fuel during a reactor accident
+chernobyl compared to other radioactivity releases
+chernobyl disaster effects
+high-level radioactive waste management
+international nuclear event scale
+list of civilian nuclear accidents
+lists of nuclear disasters and radioactive incidents
+nuclear safety
+nuclear power
+nuclear power debate
+scram or scram, an emergency shutdown of a nuclear reactor
+notes[edit]
+
+
+^ note that use of thorium fuel in a liquid fluoride thorium reactor (lftr) carries no risk of core meltdown because a lftr does not develop an overheated core.
+
+
+references[edit]
+
+
+^ martin fackler (1 june 2011). "report finds japan underestimated tsunami danger". new york times..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ reactor safety study: an assessment of accident risks in u.s. commercial nuclear power plants, volume 1
+
+^ international atomic energy agency (iaea) (2007). iaea safety glossary: terminology used in nuclear safety and radiation protection (pdf). vienna, austria: international atomic energy agency. isbn 92-0-100707-8. retrieved 17 august 2009.
+
+^ united states nuclear regulatory commission (nrc) (14 september 2009). "glossary". website. rockville, maryland, usa: federal government of the united states. pp. see entries for letter m and entries for letter n. retrieved 3 october 2009.
+
+^ http://www.merriam-webster.com/dictionary/meltdown
+
+^ a b hewitt, geoffrey frederick; collier, john gordon (2000). "4.6.1 design basis accident for the agr: depressurization fault". introduction to nuclear power. london, uk: taylor & francis. p. 133. isbn 978-1-56032-454-6. retrieved 5 june 2010.
+
+^ "earthquake report no. 91" (pdf). jaif. 25 may 2011. archived from the original (pdf) on 3 january 2012. retrieved 25 may 2011.
+
+^ a b c d e f g kuan, p.; hanson, d. j.; odar, f. (1991). managing water addition to a degraded core. retrieved 22 november 2010.
+
+^ haskin, f.e.; camp, a.l. (1994). perspectives on reactor safety (nureg/cr-6042) (reactor safety course r-800), 1st edition. beltsville, md: u.s. nuclear regulatory commission. p. 3.1–5. retrieved 23 november 2010.
+
+^ a b 
+haskin, f.e.; camp, a.l. (1994). perspectives on reactor safety (nureg/cr-6042) (reactor safety course r-800), 1st edition. beltsville, md: u.s. nuclear regulatory commission. pp. 3.5–1 to 3.5–4. retrieved 24 december 2010.
+
+^ 
+haskin, f.e.; camp, a.l. (1994). perspectives on reactor safety (nureg/cr-6042) (reactor safety course r-800), 1st edition. beltsville, md: u.s. nuclear regulatory commission. pp. 3.5–4 to 3.5–5. retrieved 24 december 2010.
+
+^ ans : public information : resources : special topics : history at three mile island : what happened and what didn't in the tmi-2 accident
+
+^ nuclear industry in russia sells safety, taught by chernobyl
+
+^ world nuclear org fukushima-accident
+
+http://www.world-nuclear.org/information-library/safety-and-security/safety-of-plants/fukushima-accident.aspx
+
+^ a b "the fukushima daiichi accident. report by the director general" (pdf). international atomic energy agency. 2015. retrieved 24 feb 2018.
+
+^ "backgrounder on the three mile island accident". united states nuclear regulatory commission. retrieved 1 december 2013.
+
+^ a b walker, j. samuel (2004). three mile island: a nuclear crisis in historical perspective (berkeley: university of california press), p. 11.
+
+^ a b lapp, ralph e. "thoughts on nuclear plumbing." the new york times, 12 december 1971, pg. e11.
+
+^ terra pitta (5 august 2015). catastrophe: a guide to world's worst industrial disasters. vij books india pvt ltd. pp. 25–. isbn 978-93-85505-17-1.
+
+^ test area north
+
+^ a b allen, p.j.; j.q. howieson; h.s. shapiro; j.t. rogers; p. mostert; r.w. van otterloo (april–june 1990). "summary of candu 6 probabilistic safety assessment study results". nuclear safety. 31 (2): 202–214.
+
+^ f.j arias. the phenomenology of packed beds in heavy liquid metal fast reactors during postaccident heat removal: the self-removal feedback mechanism. nuclear science and engineering / volume 178 / number 2 / october 2014 / pages 240-249
+
+^ inl vver sourcebook
+
+^ partial fuel meltdown events
+
+^ integral fast reactor
+
+^ "sources and effects of ionizing radiation – 2008 report to the general assembly" (pdf). united nations scientific committee on the effects of atomic radiation. 2011. |chapter= ignored (help)
+
+^ anl-w reactor history: borax i
+
+^ wald, matthew l. (11 march 2011). "japan expands evacuation around nuclear plant". the new york times.
+
+^ the chernobyl forum: 2003-2005 (april 2006). "chernobyl's legacy: health, environmental and socio-economic impacts" (pdf). international atomic energy agency. p. 14. archived from the original (pdf) on 15 february 2010. retrieved 26 january 2011.
+
+^ the chernobyl forum: 2003-2005 (april 2006). "chernobyl's legacy: health, environmental and socio-economic impacts" (pdf). international atomic energy agency. p. 16. archived from the original (pdf) on 15 february 2010. retrieved 26 january 2011.
+
+^ "archived copy". archived from the original on 20 may 2011. retrieved 20 may 2011.cs1 maint: archived copy as title (link)
+
+^ hiroko tabuchi (24 may 2011). "company believes 3 reactors melted down in japan". the new york times. retrieved 25 may 2011.
+
+^ "china syndrome". merriam-webster. retrieved 11 december 2012.
+
+^ presenter: martha raddatz (15 march 2011). abc world news. abc.
+
+^ 
+jacques libmann (1996). elements of nuclear safety. l'editeur : edp sciences. p. 194. isbn 2-86883-286-5.
+
+^ scientific american (6 october 1997): why is the earth's core so hot? and how do scientists measure its temperature?
+
+^ popular mechanics (15 june 2012): how do we know what's in the earth's core? pm explains
+
+^ [1]
+
+^ gianni petrangeli (2006). nuclear safety. butterworth-heinemann. p. 37. isbn 0-7506-6723-0.
+
+^ andrew leatherbarrow chernobyl 01:23:40
+
+
+external links[edit]
+
+
+
+look up china syndrome in wiktionary, the free dictionary.
+annotated bibliography on civilian nuclear accidents from the alsos digital library for nuclear issues
+partial fuel meltdown events
+"the world's worst nuclear power disasters". power technology. 7 october 2013.
+vtelists of nuclear disasters and radioactive incidentsmain  accident  lists
+vulnerability of nuclear plants to attack
+chernobyl-related articles
+crimes involving radioactive substances
+criticality accidents and incidents
+nuclear meltdown accidents
+list of milestone nuclear explosions
+military nuclear accidents
+nuclear and radiation accidents and incidents
+nuclear and radiation accidents by death toll
+nuclear weapons tests
+sunken nuclear submarines
+lists bycountry
+cancelled nuclear reactors in the united states
+inquiries into uranium mining in australia
+nuclear and radiation fatalities by country
+nuclear power accidents by country
+nuclear reactors by country
+nuclear test sites
+nuclear weapons tests of the soviet union
+nuclear weapons tests of the united states
+individual  accidents  and sites
+2011 fukushima daiichi nuclear disaster
+2001 instituto oncológico nacional#accident
+1996 san juan de dios radiotherapy accident
+1990 clinic of zaragoza radiotherapy accident
+1987 goiânia accident
+1986 chernobyl disaster and effects of the chernobyl disaster
+1979 three mile island accident and three mile island accident health effects
+1969 lucens reactor
+1962  thor missile launch failures at johnston atoll under operation fishbowl
+1962 cuban missile crisis
+1961 k-19 nuclear accident
+1961 sl-1 nuclear meltdown
+1957 kyshtym disaster
+1957 windscale fire
+1957 operation plumbbob
+1954 totskoye nuclear exercise
+bikini atoll
+hanford site
+rocky flats plant
+1945 atomic bombings of hiroshima and nagasaki
+related  topics
+books about nuclear issues
+films about nuclear issues
+anti-war movement
+bikini atoll
+bulletin of the atomic scientists
+france and weapons of mass destruction
+history of the anti-nuclear movement
+international day against nuclear tests
+nuclear close calls
+nuclear-free future award
+nuclear-free zone
+nuclear power debate
+nuclear power phase-out
+nuclear weapons debate
+peace activists
+peace movement
+peace camp
+russell–einstein manifesto
+smiling sun
+ category
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=nuclear_meltdown&oldid=883759635"					
+categories: nuclear safety and securitynuclear reactorscivilian nuclear power accidentshidden categories: cs1 errors: chapter ignoredcs1 maint: archived copy as titleall articles that may contain original researcharticles that may contain original research from march 2011use dmy dates from april 2012 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+languages
+
+
+العربيةcatalàčeštinadanskdeutschελληνικάespañoleuskaraفارسیfrançaisgaeilge한국어हिन्दीhrvatskibahasa indonesiaitalianobahasa melayunederlands日本語norsknorsk nynorskplattdüütschpolskiportuguêsрусскийsimple englishсрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskatagalogதமிழ்türkçetiếng việt中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 17 february 2019, at 12:56 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.516","walltime":"0.660","ppvisitednodes":{"value":2252,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":67579,"limit":2097152},"templateargumentsize":{"value":2903,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":82588,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  500.835      1 -total"," 45.11%  225.937      2 template:reflist"," 15.96%   79.938      2 template:cite_news"," 12.90%   64.593      9 template:convert"," 10.02%   50.199     11 template:cite_web","  9.49%   47.507      1 template:original_research_inline","  8.56%   42.874      9 template:cite_book","  8.44%   42.288      1 template:fix","  6.02%   30.147      1 template:columns-list","  5.55%   27.787      1 template:category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.225","limit":"10.000"},"limitreport-memusage":{"value":7409860,"limit":52428800}},"cachereport":{"origin":"mw1343","timestamp":"20190217125555","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":100,"wghostname":"mw1267"});});
+
+

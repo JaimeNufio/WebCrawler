@@ -1,0 +1,2034 @@
+
+
+
+
+uranium - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"uranium","wgtitle":"uranium","wgcurrevisionid":880984321,"wgrevisionid":880984321,"wgarticleid":31743,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["webarchive template wayback links","cs1 maint: multiple names: authors list","cs1 turkish-language sources (tr)","cs1 maint: archived copy as title","wikipedia indefinitely semi-protected pages","wikipedia indefinitely move-protected pages","articles with short description","wikipedia articles in need of updating from september 2016","all wikipedia articles in need of updating","commons category link is on wikidata","use dmy dates from february 2013","featured articles","wikipedia articles with gnd identifiers","wikipedia articles with lccn identifiers","wikipedia articles with nara identifiers","wikipedia articles with ndl identifiers","uranium","chemical elements","actinides","nuclear fuels","nuclear materials","suspected male-mediated teratogens","manhattan project"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"uranium","wgrelevantarticleid":31743,"wgrequestid":"xgvtigpaadkaahqcxqyaaabh","wgcspnonce":false,"wgisprobablyeditable":false,"wgrelevantpageisprobablyeditable":false,"wgrestrictionedit":["autoconfirmed"],"wgrestrictionmove":["sysop"],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q1098","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+uranium 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+this article is about the chemical element. for other uses, see uranium (disambiguation).
+
+
+chemical element with atomic number 92uranium,  92uuraniumpronunciation/jʊəˈreɪniəm/ ​(ewr-ay-nee-əm)appearancesilvery gray metallic; corrodes to a spalling black oxide coat in airstandard atomic weight.mw-parser-output .nobold{font-weight:normal} ar, std(u)7002238028910000000♠238.02891(3)[1]uranium in the periodic table
+
+
+
+
+
+
+
+
+hydrogen
+
+
+
+helium
+
+
+lithium
+
+beryllium
+
+
+
+boron
+
+carbon
+
+nitrogen
+
+oxygen
+
+fluorine
+
+neon
+
+
+sodium
+
+magnesium
+
+
+
+aluminium
+
+silicon
+
+phosphorus
+
+sulfur
+
+chlorine
+
+argon
+
+
+potassium
+
+calcium
+
+scandium
+
+
+
+titanium
+
+vanadium
+
+chromium
+
+manganese
+
+iron
+
+cobalt
+
+nickel
+
+copper
+
+zinc
+
+gallium
+
+germanium
+
+arsenic
+
+selenium
+
+bromine
+
+krypton
+
+
+rubidium
+
+strontium
+
+yttrium
+
+
+
+
+
+zirconium
+
+niobium
+
+molybdenum
+
+technetium
+
+ruthenium
+
+rhodium
+
+palladium
+
+silver
+
+cadmium
+
+indium
+
+tin
+
+antimony
+
+tellurium
+
+iodine
+
+xenon
+
+
+caesium
+
+barium
+
+lanthanum
+
+cerium
+
+praseodymium
+
+neodymium
+
+promethium
+
+samarium
+
+europium
+
+gadolinium
+
+terbium
+
+dysprosium
+
+holmium
+
+erbium
+
+thulium
+
+ytterbium
+
+lutetium
+
+hafnium
+
+tantalum
+
+tungsten
+
+rhenium
+
+osmium
+
+iridium
+
+platinum
+
+gold
+
+mercury (element)
+
+thallium
+
+lead
+
+bismuth
+
+polonium
+
+astatine
+
+radon
+
+
+francium
+
+radium
+
+actinium
+
+thorium
+
+protactinium
+
+uranium
+
+neptunium
+
+plutonium
+
+americium
+
+curium
+
+berkelium
+
+californium
+
+einsteinium
+
+fermium
+
+mendelevium
+
+nobelium
+
+lawrencium
+
+rutherfordium
+
+dubnium
+
+seaborgium
+
+bohrium
+
+hassium
+
+meitnerium
+
+darmstadtium
+
+roentgenium
+
+copernicium
+
+nihonium
+
+flerovium
+
+moscovium
+
+livermorium
+
+tennessine
+
+oganesson
+
+
+
+nd↑u↓(uqh)
+
+
+protactinium ← uranium → neptunium
+
+atomic number (z)92groupgroup n/aperiodperiod 7 blockf-block element category  actinideelectron configuration[rn] 5f3 6d1 7s2electrons per shell2, 8, 18, 32, 21, 9, 2physical propertiesphase at stpsolidmelting point1405.3 k ​(1132.2 °c, ​2070 °f) boiling point4404 k ​(4131 °c, ​7468 °f) density (near r.t.)19.1 g/cm3when liquid (at m.p.)17.3 g/cm3 heat of fusion9.14 kj/mol heat of vaporization417.1 kj/mol molar heat capacity27.665 j/(mol·k) vapor pressure
+
+
+p (pa)
+
+1
+
+10
+
+100
+
+1 k
+
+10 k
+
+100 k
+
+
+at t (k)
+
+2325
+
+2564
+
+2859
+
+3234
+
+3727
+
+4402
+
+atomic propertiesoxidation states+1, +2, +3,[2] +4, +5, +6 (a weakly basic oxide)electronegativitypauling scale: 1.38 ionization energies1st: 597.6 kj/mol 2nd: 1420 kj/mol  atomic radiusempirical: 156 pm covalent radius196±7 pm van der waals radius186 pm spectral lines of uraniumother propertiesnatural occurrenceprimordialcrystal structure ​orthorhombicspeed of sound thin rod3155 m/s (at 20 °c) thermal expansion13.9 µm/(m·k) (at 25 °c) thermal conductivity27.5 w/(m·k) electrical resistivity0.280 µω·m (at 0 °c) magnetic orderingparamagnetic young's modulus208 gpa shear modulus111 gpa bulk modulus100 gpa poisson ratio0.23 vickers hardness1960–2500 mpa brinell hardness2350–3850 mpa cas number7440-61-1 historynamingafter planet uranus, itself named after greek god of the sky uranusdiscoverymartin heinrich klaproth (1789)first isolationeugène-melchior péligot (1841)main isotopes of uranium
+
+
+iso­tope
+
+abun­dance
+
+half-life (t1/2)
+
+decay mode
+
+pro­duct
+
+
+232u
+
+syn
+
+68.9 y
+
+sf
+
+–
+
+
+α
+
+228th
+
+
+233u
+
+trace
+
+1.592×105 y
+
+sf
+
+–
+
+
+α
+
+229th
+
+
+234u
+
+0.005%
+
+2.455×105 y
+
+sf
+
+–
+
+
+α
+
+230th
+
+
+235u
+
+0.720%
+
+7.04×108 y
+
+sf
+
+–
+
+
+α
+
+231th
+
+
+236u
+
+trace
+
+2.342×107 y
+
+sf
+
+–
+
+
+α
+
+232th
+
+
+238u
+
+99.274%
+
+4.468×109 y
+
+α
+
+234th
+
+
+sf
+
+–
+
+
+β−β−
+
+238pu
+viewtalkedit | references
+uranium is a chemical element with symbol u and atomic number 92. it is a silvery-grey metal in the actinide series of the periodic table. a uranium atom has 92 protons and 92 electrons, of which 6 are valence electrons. uranium is weakly radioactive because all isotopes of uranium are unstable, with half-lives varying between 159,200 years and 4.5 billion years. the most common isotopes in natural uranium are uranium-238 (which has 146 neutrons and accounts for over 99%) and uranium-235 (which has 143 neutrons). uranium has the highest atomic weight of the primordially occurring elements. its density is about 70% higher than that of lead, and slightly lower than that of gold or tungsten. it occurs naturally in low concentrations of a few parts per million in soil, rock and water, and is commercially extracted from uranium-bearing minerals such as uraninite.[4]
+in nature, uranium is found as uranium-238 (99.2739–99.2752%), uranium-235 (0.7198–0.7202%), and a very small amount of uranium-234 (0.0050–0.0059%).[5] uranium decays slowly by emitting an alpha particle. the half-life of uranium-238 is about 4.47 billion years and that of uranium-235 is 704 million years,[6] making them useful in dating the age of the earth.
+many contemporary uses of uranium exploit its unique nuclear properties. uranium-235 is the only naturally occurring fissile isotope, which makes it widely used in nuclear power plants and nuclear weapons. however, because of the tiny amounts found in nature, uranium needs to undergo enrichment so that enough uranium-235 is present. uranium-238 is fissionable by fast neutrons, and is fertile, meaning it can be transmuted to fissile plutonium-239 in a nuclear reactor. another fissile isotope, uranium-233, can be produced from natural thorium and is also important in nuclear technology. uranium-238 has a small probability for spontaneous fission or even induced fission with fast neutrons; uranium-235 and to a lesser degree uranium-233 have a much higher fission cross-section for slow neutrons. in sufficient concentration, these isotopes maintain a sustained nuclear chain reaction. this generates the heat in nuclear power reactors, and produces the fissile material for nuclear weapons. depleted uranium (238u) is used in kinetic energy penetrators and armor plating.[7] uranium is used as a colorant in uranium glass, producing lemon yellow to green colors. uranium glass fluoresces green in ultraviolet light. it was also used for tinting and shading in early photography.
+the 1789 discovery of uranium in the mineral pitchblende is credited to martin heinrich klaproth, who named the new element after the recently discovered planet uranus. eugène-melchior péligot was the first person to isolate the metal and its radioactive properties were discovered in 1896 by henri becquerel. research by otto hahn, lise meitner, enrico fermi and others, such as j. robert oppenheimer starting in 1934 led to its use as a fuel in the nuclear power industry and in little boy, the first nuclear weapon used in war. an ensuing arms race during the cold war between the united states and the soviet union produced tens of thousands of nuclear weapons that used uranium metal and uranium-derived plutonium-239. the security of those weapons and their fissile material following the breakup of the soviet union in 1991 is an ongoing concern for public health and safety.[8] see nuclear proliferation.
+
+contents
+
+1 characteristics
+2 applications
+
+2.1 military
+2.2 civilian
+
+
+3 history
+
+3.1 pre-discovery use
+3.2 discovery
+3.3 fission research
+3.4 nuclear weaponry
+3.5 reactors
+3.6 prehistoric naturally occurring fission
+3.7 contamination and the cold war legacy
+
+
+4 occurrence
+
+4.1 origin
+4.2 biotic and abiotic
+4.3 production and mining
+4.4 resources and reserves
+4.5 supplies
+
+
+5 compounds
+
+5.1 oxidation states and oxides
+
+5.1.1 oxides
+5.1.2 aqueous chemistry
+5.1.3 carbonates
+5.1.4 effects of ph
+
+
+5.2 hydrides, carbides and nitrides
+5.3 halides
+
+
+6 isotopes
+
+6.1 natural concentrations
+6.2 enrichment
+
+
+7 human exposure
+
+7.1 effects and precautions
+
+
+8 see also
+9 notes
+10 references
+11 external links
+
+
+characteristics
+ a neutron-induced nuclear fission event involving uranium-235
+when refined, uranium is a silvery white, weakly radioactive metal. it has a mohs hardness of 6, sufficient to scratch glass and approximately equal to that of titanium, rhodium, manganese and niobium. it is malleable, ductile, slightly paramagnetic, strongly electropositive and a poor electrical conductor.[9][10] uranium metal has a very high density of 19.1 g/cm3,[11] denser than lead (11.3 g/cm3),[12] but slightly less dense than tungsten and gold (19.3 g/cm3).[13][14]
+uranium metal reacts with almost all non-metal elements (with the exception of the noble gases) and their compounds, with reactivity increasing with temperature.[15] hydrochloric and nitric acids dissolve uranium, but non-oxidizing acids other than hydrochloric acid attack the element very slowly.[9] when finely divided, it can react with cold water; in air, uranium metal becomes coated with a dark layer of uranium oxide.[10] uranium in ores is extracted chemically and converted into uranium dioxide or other chemical forms usable in industry.
+uranium-235 was the first isotope that was found to be fissile. other naturally occurring isotopes are fissionable, but not fissile. on bombardment with slow neutrons, its uranium-235 isotope will most of the time divide into two smaller nuclei, releasing nuclear binding energy and more neutrons. if too many of these neutrons are absorbed by other uranium-235 nuclei, a nuclear chain reaction occurs that results in a burst of heat or (in special circumstances) an explosion. in a nuclear reactor, such a chain reaction is slowed and controlled by a neutron poison, absorbing some of the free neutrons. such neutron absorbent materials are often part of reactor control rods (see nuclear reactor physics for a description of this process of reactor control).
+as little as 15 lb (7 kg) of uranium-235 can be used to make an atomic bomb.[16] the first nuclear bomb used in war, little boy, relied on uranium fission, but the very first nuclear explosive (the gadget used at trinity) and the bomb that destroyed nagasaki (fat man) were both plutonium bombs.
+uranium metal has three allotropic forms:[17]
+
+α (orthorhombic) stable up to 668 °c. orthorhombic, space group no. 63, cmcm, lattice parameters a = 285.4 pm, b = 587 pm, c = 495.5 pm.[18]
+β (tetragonal) stable from 668 °c to 775 °c. tetragonal, space group p42/mnm, p42nm, or p4n2, lattice parameters a = 565.6 pm, b = c = 1075.9 pm.[18]
+γ (body-centered cubic) from 775 °c to melting point—this is the most malleable and ductile state. body-centered cubic, lattice parameter a = 352.4 pm.[18]
+applications
+military
+ various militaries use depleted uranium as high-density penetrators.
+the major application of uranium in the military sector is in high-density penetrators. this ammunition consists of depleted uranium (du) alloyed with 1–2% other elements, such as titanium or molybdenum.[19] at high impact speed, the density, hardness, and pyrophoricity of the projectile enable the destruction of heavily armored targets. tank armor and other removable vehicle armor can also be hardened with depleted uranium plates. the use of depleted uranium became politically and environmentally contentious after the use of such munitions by the us, uk and other countries during wars in the persian gulf and the balkans raised questions concerning uranium compounds left in the soil (see gulf war syndrome).[16]
+depleted uranium is also used as a shielding material in some containers used to store and transport radioactive materials. while the metal itself is radioactive, its high density makes it more effective than lead in halting radiation from strong sources such as radium.[9] other uses of depleted uranium include counterweights for aircraft control surfaces, as ballast for missile re-entry vehicles and as a shielding material.[10] due to its high density, this material is found in inertial guidance systems and in gyroscopic compasses.[10] depleted uranium is preferred over similarly dense metals due to its ability to be easily machined and cast as well as its relatively low cost.[20] the main risk of exposure to depleted uranium is chemical poisoning by uranium oxide rather than radioactivity (uranium being only a weak alpha emitter).
+during the later stages of world war ii, the entire cold war, and to a lesser extent afterwards, uranium-235 has been used as the fissile explosive material to produce nuclear weapons. initially, two major types of fission bombs were built: a relatively simple device that uses uranium-235 and a more complicated mechanism that uses plutonium-239 derived from uranium-238. later, a much more complicated and far more powerful type of fission/fusion bomb (thermonuclear weapon) was built, that uses a plutonium-based device to cause a mixture of tritium and deuterium to undergo nuclear fusion. such bombs are jacketed in a non-fissile (unenriched) uranium case, and they derive more than half their power from the fission of this material by fast neutrons from the nuclear fusion process.[21]
+
+civilian
+ the most visible civilian use of uranium is as the thermal power source used in nuclear power plants.
+the main use of uranium in the civilian sector is to fuel nuclear power plants. one kilogram of uranium-235 can theoretically produce about 20 terajoules of energy (2×1013 joules), assuming complete fission; as much energy as 1500 tonnes of coal.[7]
+commercial nuclear power plants use fuel that is typically enriched to around 3% uranium-235.[7] the candu and magnox designs are the only commercial reactors capable of using unenriched uranium fuel. fuel used for united states navy reactors is typically highly enriched in uranium-235 (the exact values are classified). in a breeder reactor, uranium-238 can also be converted into plutonium through the following reaction:[10]
+
+23892u + n → 23992u + γ β−→  23993np β−→  23994pu
+ uranium glass glowing under uv light
+before (and, occasionally, after) the discovery of radioactivity, uranium was primarily used in small amounts for yellow glass and pottery glazes, such as uranium glass and in fiestaware.[22]
+the discovery and isolation of radium in uranium ore (pitchblende) by marie curie sparked the development of uranium mining to extract the radium, which was used to make glow-in-the-dark paints for clock and aircraft dials.[23] this left a prodigious quantity of uranium as a waste product, since it takes three tonnes of uranium to extract one gram of radium. this waste product was diverted to the glazing industry, making uranium glazes very inexpensive and abundant. besides the pottery glazes, uranium tile glazes accounted for the bulk of the use, including common bathroom and kitchen tiles which can be produced in green, yellow, mauve, black, blue, red and other colors.
+
+ uranium glass used as lead-in seals in a vacuum capacitor
+uranium was also used in photographic chemicals (especially uranium nitrate as a toner),[10] in lamp filaments for stage lighting bulbs,[24] to improve the appearance of dentures,[25] and in the leather and wood industries for stains and dyes. uranium salts are mordants of silk or wool. uranyl acetate and uranyl formate are used as electron-dense "stains" in transmission electron microscopy, to increase the contrast of biological specimens in ultrathin sections and in negative staining of viruses, isolated cell organelles and macromolecules.
+the discovery of the radioactivity of uranium ushered in additional scientific and practical uses of the element. the long half-life of the isotope uranium-238 (4.51×109 years) makes it well-suited for use in estimating the age of the earliest igneous rocks and for other types of radiometric dating, including uranium–thorium dating, uranium–lead dating and uranium–uranium dating. uranium metal is used for x-ray targets in the making of high-energy x-rays.[10]
+
+history
+pre-discovery use
+ the planet uranus, which uranium is named after
+the use of uranium in its natural oxide form dates back to at least the year 79 ce, when it was used to add a yellow color to ceramic glazes.[10] yellow glass with 1% uranium oxide was found in a roman villa on cape posillipo in the bay of naples, italy, by r. t. gunther of the university of oxford in 1912.[26] starting in the late middle ages, pitchblende was extracted from the habsburg silver mines in joachimsthal, bohemia (now jáchymov in the czech republic), and was used as a coloring agent in the local glassmaking industry.[27] in the early 19th century, the world's only known sources of uranium ore were these mines.
+
+discovery
+ antoine henri becquerel discovered the phenomenon of radioactivity by exposing a photographic plate to uranium in 1896.
+the discovery of the element is credited to the german chemist martin heinrich klaproth. while he was working in his experimental laboratory in berlin in 1789, klaproth was able to precipitate a yellow compound (likely sodium diuranate) by dissolving pitchblende in nitric acid and neutralizing the solution with sodium hydroxide.[27] klaproth assumed the yellow substance was the oxide of a yet-undiscovered element and heated it with charcoal to obtain a black powder, which he thought was the newly discovered metal itself (in fact, that powder was an oxide of uranium).[27][28] he named the newly discovered element after the planet uranus (named after the primordial greek god of the sky), which had been discovered eight years earlier by william herschel.[29]
+in 1841, eugène-melchior péligot, professor of analytical chemistry at the conservatoire national des arts et métiers (central school of arts and manufactures) in paris, isolated the first sample of uranium metal by heating uranium tetrachloride with potassium.[27][30]
+henri becquerel discovered radioactivity by using uranium in 1896.[15] becquerel made the discovery in paris by leaving a sample of a uranium salt, k2uo2(so4)2 (potassium uranyl sulfate), on top of an unexposed photographic plate in a drawer and noting that the plate had become "fogged".[31] he determined that a form of invisible light or rays emitted by uranium had exposed the plate.
+
+fission research
+ cubes and cuboids of uranium produced during the manhattan project
+a team led by enrico fermi in 1934 observed that bombarding uranium with neutrons produces the emission of beta rays (electrons or positrons from the elements produced; see beta particle).[32] the fission products were at first mistaken for new elements with atomic numbers 93 and 94, which the dean of the faculty of rome, orso mario corbino, christened ausonium and hesperium, respectively.[33][34][35][36] the experiments leading to the discovery of uranium's ability to fission (break apart) into lighter elements and release binding energy were conducted by otto hahn and fritz strassmann[32] in hahn's laboratory in berlin. lise meitner and her nephew, the physicist otto robert frisch, published the physical explanation in february 1939 and named the process "nuclear fission".[37] soon after, fermi hypothesized that the fission of uranium might release enough neutrons to sustain a fission reaction. confirmation of this hypothesis came in 1939, and later work found that on average about 2.5 neutrons are released by each fission of the rare uranium isotope uranium-235.[32] fermi urged alfred o. c. nier to separate uranium isotopes for determination of the fissile component, and on february 29, 1940, nier used an instrument he built at the university of minnesota to separate the world's first uranium-235 sample in the tate laboratory. after mailed to columbia university's cyclotron, john dunning confirmed the sample to be the isolated fissile material on march 1.[38] further work found that the far more common uranium-238 isotope can be transmuted into plutonium, which, like uranium-235, is also fissile by thermal neutrons. these discoveries led numerous countries to begin working on the development of nuclear weapons and nuclear power.
+on 2 december 1942, as part of the manhattan project, another team led by enrico fermi was able to initiate the first artificial self-sustained nuclear chain reaction, chicago pile-1. an initial plan using enriched uranium-235 was abandoned as it was as yet unavailable in sufficient quantities.[39] working in a lab below the stands of stagg field at the university of chicago, the team created the conditions needed for such a reaction by piling together 400 short tons (360 metric tons) of graphite, 58 short tons (53 metric tons) of uranium oxide, and six short tons (5.5 metric tons) of uranium metal, a majority of which was supplied by westinghouse lamp plant in a makeshift production process.[32][40]
+
+nuclear weaponry
+ the mushroom cloud over hiroshima after the dropping of the uranium-based atomic bomb nicknamed 'little boy'
+two major types of atomic bombs were developed by the united states during world war ii: a uranium-based device (codenamed "little boy") whose fissile material was highly enriched uranium, and a plutonium-based device (see trinity test and "fat man") whose plutonium was derived from uranium-238. the uranium-based little boy device became the first nuclear weapon used in war when it was detonated over the japanese city of hiroshima on 6 august 1945. exploding with a yield equivalent to 12,500 tonnes of tnt, the blast and thermal wave of the bomb destroyed nearly 50,000 buildings and killed approximately 75,000 people (see atomic bombings of hiroshima and nagasaki).[31] initially it was believed that uranium was relatively rare, and that nuclear proliferation could be avoided by simply buying up all known uranium stocks, but within a decade large deposits of it were discovered in many places around the world.[41]
+
+reactors
+ four light bulbs lit with electricity generated from the first artificial electricity-producing nuclear reactor, ebr-i (1951)
+the x-10 graphite reactor at oak ridge national laboratory (ornl) in oak ridge, tennessee, formerly known as the clinton pile and x-10 pile, was the world's second artificial nuclear reactor (after enrico fermi's chicago pile) and was the first reactor designed and built for continuous operation. argonne national laboratory's experimental breeder reactor i, located at the atomic energy commission's national reactor testing station near arco, idaho, became the first nuclear reactor to create electricity on 20 december 1951.[42] initially, four 150-watt light bulbs were lit by the reactor, but improvements eventually enabled it to power the whole facility (later, the town of arco became the first in the world to have all its electricity come from nuclear power generated by borax-iii, another reactor designed and operated by argonne national laboratory).[43][44] the world's first commercial scale nuclear power station, obninsk in the soviet union, began generation with its reactor am-1 on 27 june 1954. other early nuclear power plants were calder hall in england, which began generation on 17 october 1956,[45] and the shippingport atomic power station in pennsylvania, which began on 26 may 1958. nuclear power was used for the first time for propulsion by a submarine, the uss nautilus, in 1954.[32][46]
+
+prehistoric naturally occurring fission
+main article: natural nuclear fission reactor
+in 1972, the french physicist francis perrin discovered fifteen ancient and no longer active natural nuclear fission reactors in three separate ore deposits at the oklo mine in gabon, west africa, collectively known as the oklo fossil reactors. the ore deposit is 1.7 billion years old; then, uranium-235 constituted about 3% of the total uranium on earth.[47] this is high enough to permit a sustained nuclear fission chain reaction to occur, provided other supporting conditions exist. the capacity of the surrounding sediment to contain the nuclear waste products has been cited by the u.s. federal government as supporting evidence for the feasibility to store spent nuclear fuel at the yucca mountain nuclear waste repository.[47]
+
+contamination and the cold war legacy
+ u.s. and ussr/russian nuclear weapons stockpiles, 1945–2005
+above-ground nuclear tests by the soviet union and the united states in the 1950s and early 1960s and by france into the 1970s and 1980s[20] spread a significant amount of fallout from uranium daughter isotopes around the world.[48] additional fallout and pollution occurred from several nuclear accidents.[49]
+uranium miners have a higher incidence of cancer. an excess risk of lung cancer among navajo uranium miners, for example, has been documented and linked to their occupation.[50] the radiation exposure compensation act, a 1990 law in the us, required $100,000 in "compassion payments" to uranium miners diagnosed with cancer or other respiratory ailments.[51]
+during the cold war between the soviet union and the united states, huge stockpiles of uranium were amassed and tens of thousands of nuclear weapons were created using enriched uranium and plutonium made from uranium. since the break-up of the soviet union in 1991, an estimated 600 short tons (540 metric tons) of highly enriched weapons grade uranium (enough to make 40,000 nuclear warheads) have been stored in often inadequately guarded facilities in the russian federation and several other former soviet states.[16] police in asia, europe, and south america on at least 16 occasions from 1993 to 2005 have intercepted shipments of smuggled bomb-grade uranium or plutonium, most of which was from ex-soviet sources.[16] from 1993 to 2005 the material protection, control, and accounting program, operated by the federal government of the united states, spent approximately us $550 million to help safeguard uranium and plutonium stockpiles in russia.[16] this money was used for improvements and security enhancements at research and storage facilities. scientific american reported in february 2006 that in some of the facilities security consisted of chain link fences which were in severe states of disrepair. according to an interview from the article, one facility had been storing samples of enriched (weapons grade) uranium in a broom closet before the improvement project; another had been keeping track of its stock of nuclear warheads using index cards kept in a shoe box.[52]
+
+occurrence
+origin
+along with all elements having atomic weights higher than that of iron, uranium is only naturally formed in supernovae.[53] primordial thorium and uranium are only produced in the r-process (rapid neutron capture), because the s-process (slow neutron capture) is too slow and cannot pass the gap of instability after bismuth.[54][55] besides the two extant primordial uranium isotopes, 235u and 238u, the r-process also produced significant quantities of 236u, which has a shorter half-life and has long since decayed completely to 232th, which was itself enriched by the decay of 244pu, accounting for the observed higher-than-expected abundance of thorium and lower-than-expected abundance of uranium.[56] while the natural abundance of uranium has been supplemented by the decay of extinct 242pu (half-life 0.375 million years) and 247cm (half-life 16 million years), producing 238u and 235u respectively, this occurred to an almost negligible extent due to the shorter half-lives of these parents and their lower production than 236u and 244pu, the parents of thorium: the 247cm:235u ratio at the formation of the solar system was 6995700000000000000♠(7.0±1.6)×10−5.[57]
+
+biotic and abiotic
+main article: uranium in the environment
+ uraninite, also known as pitchblende, is the most common ore mined to extract uranium.
+ the evolution of earth's radiogenic heat flow over time: contribution from 235u in red and from 238u in green
+uranium is a naturally occurring element that can be found in low levels within all rock, soil, and water. uranium is the 51st element in order of abundance in the earth's crust. uranium is also the highest-numbered element to be found naturally in significant quantities on earth and is almost always found combined with other elements.[10] the decay of uranium, thorium, and potassium-40 in the earth's mantle is thought to be the main source of heat[58][59] that keeps the outer core liquid and drives mantle convection, which in turn drives plate tectonics.
+uranium's average concentration in the earth's crust is (depending on the reference) 2 to 4 parts per million,[9][20] or about 40 times as abundant as silver.[15] the earth's crust from the surface to 25 km (15 mi) down is calculated to contain 1017 kg (2×1017 lb) of uranium while the oceans may contain 1013 kg (2×1013 lb).[9] the concentration of uranium in soil ranges from 0.7 to 11 parts per million (up to 15 parts per million in farmland soil due to use of phosphate fertilizers), and its concentration in sea water is 3 parts per billion.[20]
+uranium is more plentiful than antimony, tin, cadmium, mercury, or silver, and it is about as abundant as arsenic or molybdenum.[10][20] uranium is found in hundreds of minerals, including uraninite (the most common uranium ore), carnotite, autunite, uranophane, torbernite, and coffinite.[10] significant concentrations of uranium occur in some substances such as phosphate rock deposits, and minerals such as lignite, and monazite sands in uranium-rich ores[10] (it is recovered commercially from sources with as little as 0.1% uranium[15]).
+
+ citrobacter species can have concentrations of uranium in their cells 300 times the level of the surrounding environment. some bacteria, such as shewanella putrefaciens, geobacter metallireducens and some strains of burkholderia fungorum, use uranium for their growth and convert u(vi) to u(iv).[60][61]
+other organisms, such as the lichen trapelia involuta or microorganisms such as the bacterium citrobacter, can absorb concentrations of uranium that are up to 300 times the level of their environment.[62] citrobacter species absorb uranyl ions when given glycerol phosphate (or other similar organic phosphates). after one day, one gram of bacteria can encrust themselves with nine grams of uranyl phosphate crystals; this creates the possibility that these organisms could be used in bioremediation to decontaminate uranium-polluted water.[27][63]
+the proteobacterium geobacter has also been shown to bioremediate uranium in ground water.[64] the mycorrhizal fungus glomus intraradices increases uranium content in the roots of its symbiotic plant.[65]
+in nature, uranium(vi) forms highly soluble carbonate complexes at alkaline ph. this leads to an increase in mobility and availability of uranium to groundwater and soil from nuclear wastes which leads to health hazards. however, it is difficult to precipitate uranium as phosphate in the presence of excess carbonate at alkaline ph. a sphingomonas sp. strain bsar-1 has been found to express a high activity alkaline phosphatase (phok) that has been applied for bioprecipitation of uranium as uranyl phosphate species from alkaline solutions. the precipitation ability was enhanced by overexpressing phok protein in e. coli.[66]
+plants absorb some uranium from soil. dry weight concentrations of uranium in plants range from 5 to 60 parts per billion, and ash from burnt wood can have concentrations up to 4 parts per million.[27] dry weight concentrations of uranium in food plants are typically lower with one to two micrograms per day ingested through the food people eat.[27]
+
+production and mining
+main article: uranium mining
+ world uranium production (mines) and demand[67]
+ yellowcake is a concentrated mixture of uranium oxides that is further refined to extract pure uranium.
+worldwide production of u3o8 (yellowcake) in 2013 amounted to 70,015 tonnes, of which 22,451 t (32%) was mined in kazakhstan. other important uranium mining countries are canada (9,331 t), australia (6,350 t), niger (4,518 t), namibia (4,323 t) and russia (3,135 t).[67]
+uranium ore is mined in several ways: by open pit, underground, in-situ leaching, and borehole mining (see uranium mining).[7] low-grade uranium ore mined typically contains 0.01 to 0.25% uranium oxides. extensive measures must be employed to extract the metal from its ore.[68] high-grade ores found in athabasca basin deposits in saskatchewan, canada can contain up to 23% uranium oxides on average.[69] uranium ore is crushed and rendered into a fine powder and then leached with either an acid or alkali. the leachate is subjected to one of several sequences of precipitation, solvent extraction, and ion exchange. the resulting mixture, called yellowcake, contains at least 75% uranium oxides u3o8. yellowcake is then calcined to remove impurities from the milling process before refining and conversion.[70]
+commercial-grade uranium can be produced through the reduction of uranium halides with alkali or alkaline earth metals.[10] uranium metal can also be prepared through electrolysis of kuf5 or
+uf4, dissolved in molten calcium chloride (cacl2) and sodium chloride (nacl) solution.[10] very pure uranium is produced through the thermal decomposition of uranium halides on a hot filament.[10]
+
+resources and reserves
+it is estimated that 5.5 million tonnes of uranium exists in ore reserves that are economically viable at us$59 per lb of uranium,[71] while 35 million tonnes are classed as mineral resources (reasonable prospects for eventual economic extraction).[72] prices went from about $10/lb in may 2003 to $138/lb in july 2007. this has caused a big increase in spending on exploration,[71] with us$200 million being spent worldwide in 2005, a 54% increase on the previous year.[72] this trend continued through 2006, when expenditure on exploration rocketed to over $774 million, an increase of over 250% compared to 2004. the oecd nuclear energy agency said exploration figures for 2007 would likely match those for 2006.[71]
+australia has 31% of the world's known uranium ore reserves[73] and the world's largest single uranium deposit, located at the olympic dam mine in south australia.[74] there is a significant reserve of uranium
+in bakouma a sub-prefecture in the prefecture of mbomou in central african republic.
+some nuclear fuel comes from nuclear weapons being dismantled,[75] such as from the megatons to megawatts program.
+an additional 4.6 billion tonnes of uranium are estimated to be in sea water (japanese scientists in the 1980s showed that extraction of uranium from sea water using ion exchangers was technically feasible).[76][77] there have been experiments to extract uranium from sea water,[78] but the yield has been low due to the carbonate present in the water. in 2012, ornl researchers announced the successful development of a new absorbent material dubbed hicap which performs surface retention of solid or gas molecules, atoms or ions and also effectively removes toxic metals from water, according to results verified by researchers at pacific northwest national laboratory.[79][80]
+
+supplies
+this section needs to be updated. please update this article to reflect recent events or newly available information. (september 2016)
+main article: uranium market
+ monthly uranium spot price in us$ per pound. the 2007 price peak is clearly visible.[81]
+in 2005, seventeen countries produced concentrated uranium oxides: canada (27.9% of world production), australia (22.8%), kazakhstan (10.5%), russia (8.0%), namibia (7.5%), niger (7.4%), uzbekistan (5.5%), the united states (2.5%), argentina (2.1%), ukraine (1.9%) and china (1.7%).[82] kazakhstan continues to increase production and may have become the world's largest producer of uranium by 2009 with an expected production of 12,826 tonnes, compared to canada with 11,100 t and australia with 9,430 t.[83][84] in the late 1960s, un geologists also discovered major uranium deposits and other rare mineral reserves in somalia. the find was the largest of its kind, with industry experts estimating the deposits at over 25% of the world's then known uranium reserves of 800,000 tons.[85]
+the ultimate available supply is believed to be sufficient for at least the next 85 years,[72] although some studies indicate underinvestment in the late twentieth century may produce supply problems in the 21st century.[86]
+uranium deposits seem to be log-normal distributed. there is a 300-fold increase in the amount of uranium recoverable for each tenfold decrease in ore grade.[87]
+in other words, there is little high grade ore and proportionately much more low grade ore available.
+
+compounds
+ reactions of uranium metal
+oxidation states and oxides
+oxides
+@media all and (max-width:720px){.mw-parser-output .tmulti>.thumbinner{width:100%!important;max-width:none!important}.mw-parser-output .tmulti .tsingle{float:none!important;max-width:none!important;width:100%!important;text-align:center}}triuranium octoxide (left) and uranium dioxide (right) are the two most common uranium oxides.
+calcined uranium yellowcake, as produced in many large mills, contains a distribution of uranium oxidation species in various forms ranging from most oxidized to least oxidized. particles with short residence times in a calciner will generally be less oxidized than those with long retention times or particles recovered in the stack scrubber. uranium content is usually referenced to u3o8, which dates to the days of the manhattan project when u3o8 was used as an analytical chemistry reporting standard.
+phase relationships in the uranium-oxygen system are complex. the most important oxidation states of uranium are uranium(iv) and uranium(vi), and their two corresponding oxides are, respectively, uranium dioxide (uo2) and uranium trioxide (uo3).[88] other uranium oxides such as uranium monoxide (uo), diuranium pentoxide (u2o5), and uranium peroxide (uo4·2h2o) also exist.
+the most common forms of uranium oxide are triuranium octoxide (u3o8) and uo2.[89] both oxide forms are solids that have low solubility in water and are relatively stable over a wide range of environmental conditions. triuranium octoxide is (depending on conditions) the most stable compound of uranium and is the form most commonly found in nature. uranium dioxide is the form in which uranium is most commonly used as a nuclear reactor fuel.[89] at ambient temperatures, uo2 will gradually convert to u3o8. because of their stability, uranium oxides are generally considered the preferred chemical form for storage or disposal.[89]
+
+aqueous chemistry
+ uranium in its oxidation states iii, iv, v, vi
+salts of many oxidation states of uranium are water-soluble and may be studied in aqueous solutions. the most common ionic forms are u3+ (brown-red), u4+ (green), uo+2 (unstable), and uo2+2 (yellow), for u(iii), u(iv), u(v), and u(vi), respectively.[90] a few solid and semi-metallic compounds such as uo and us exist for the formal oxidation state uranium(ii), but no simple ions are known to exist in solution for that state. ions of u3+ liberate hydrogen from water and are therefore considered to be highly unstable. the uo2+2 ion represents the uranium(vi) state and is known to form compounds such as uranyl carbonate, uranyl chloride and uranyl sulfate. uo2+2 also forms complexes with various organic chelating agents, the most commonly encountered of which is uranyl acetate.[90]
+unlike the uranyl salts of uranium and polyatomic ion uranium-oxide cationic forms, the uranates, salts containing a polyatomic uranium-oxide anion, are generally not water-soluble.
+
+carbonates
+the interactions of carbonate anions with uranium(vi) cause the pourbaix diagram to change greatly when the medium is changed from water to a carbonate containing solution. while the vast majority of carbonates are insoluble in water (students are often taught that all carbonates other than those of alkali metals are insoluble in water), uranium carbonates are often soluble in water. this is because a u(vi) cation is able to bind two terminal oxides and three or more carbonates to form anionic complexes.
+
+
+pourbaix diagrams[91]
+
+
+ 
+
+ 
+
+
+uranium in a non-complexing aqueous medium (e.g. perchloric acid/sodium hydroxide).[91]
+
+uranium in carbonate solution
+
+
+ 
+
+ 
+
+
+relative concentrations of the different chemical forms of uranium in a non-complexing aqueous medium (e.g. perchloric acid/sodium hydroxide).[91]
+
+relative concentrations of the different chemical forms of uranium in an aqueous carbonate solution.[91]
+
+effects of ph
+the uranium fraction diagrams in the presence of carbonate illustrate this further: when the ph of a uranium(vi) solution increases, the uranium is converted to a hydrated uranium oxide hydroxide and at high phs it becomes an anionic hydroxide complex.
+when carbonate is added, uranium is converted to a series of carbonate complexes if the ph is increased. one effect of these reactions is increased solubility of uranium in the ph range 6 to 8, a fact that has a direct bearing on the long term stability of spent uranium dioxide nuclear fuels.
+
+hydrides, carbides and nitrides
+uranium metal heated to 250 to 300 °c (482 to 572 °f) reacts with hydrogen to form uranium hydride. even higher temperatures will reversibly remove the hydrogen. this property makes uranium hydrides convenient starting materials to create reactive uranium powder along with various uranium carbide, nitride, and halide compounds.[92] two crystal modifications of uranium hydride exist: an α form that is obtained at low temperatures and a β form that is created when the formation temperature is above 250 °c.[92]
+uranium carbides and uranium nitrides are both relatively inert semimetallic compounds that are minimally soluble in acids, react with water, and can ignite in air to form u3o8.[92] carbides of uranium include uranium monocarbide (uc), uranium dicarbide (uc2), and diuranium tricarbide (u2c3). both uc and uc2 are formed by adding carbon to molten uranium or by exposing the metal to carbon monoxide at high temperatures. stable below 1800 °c, u2c3 is prepared by subjecting a heated mixture of uc and uc2 to mechanical stress.[93] uranium nitrides obtained by direct exposure of the metal to nitrogen include uranium mononitride (un), uranium dinitride (un2), and diuranium trinitride (u2n3).[93]
+
+halides
+ uranium hexafluoride is the feedstock used to separate uranium-235 from natural uranium.
+all uranium fluorides are created using uranium tetrafluoride (uf4); uf4 itself is prepared by hydrofluorination of uranium dioxide.[92] reduction of uf4 with hydrogen at 1000 °c produces uranium trifluoride (uf3). under the right conditions of temperature and pressure, the reaction of solid uf4 with gaseous uranium hexafluoride (uf6) can form the intermediate fluorides of u2f9, u4f17, and uf5.[92]
+at room temperatures, uf6 has a high vapor pressure, making it useful in the gaseous diffusion process to separate the rare uranium-235 from the common uranium-238 isotope. this compound can be prepared from uranium dioxide and uranium hydride by the following process:[92]
+
+uo2 + 4 hf → uf4 + 2 h2o (500 °c, endothermic)
+uf4 + f2 → uf6 (350 °c, endothermic)
+the resulting uf6, a white solid, is highly reactive (by fluorination), easily sublimes (emitting a vapor that behaves as a nearly ideal gas), and is the most volatile compound of uranium known to exist.[92]
+one method of preparing uranium tetrachloride (ucl4) is to directly combine chlorine with either uranium metal or uranium hydride. the reduction of ucl4 by hydrogen produces uranium trichloride (ucl3) while the higher chlorides of uranium are prepared by reaction with additional chlorine.[92] all uranium chlorides react with water and air.
+bromides and iodides of uranium are formed by direct reaction of, respectively, bromine and iodine with uranium or by adding uh3 to those element's acids.[92] known examples include: ubr3, ubr4, ui3, and ui4. uranium oxyhalides are water-soluble and include uo2f2, uocl2, uo2cl2, and uo2br2. stability of the oxyhalides decrease as the atomic weight of the component halide increases.[92]
+
+isotopes
+natural concentrations
+main article: isotopes of uranium
+natural uranium consists of three major isotopes: uranium-238 (99.28% natural abundance), uranium-235 (0.71%), and uranium-234 (0.0054%). all three are radioactive, emitting alpha particles, with the exception that all three of these isotopes have small probabilities of undergoing spontaneous fission, rather than alpha emission. there are also five other trace isotopes: uranium-239, which is formed when 238u undergoes spontaneous fission, releasing neutrons that are captured by another 238u atom; uranium-237, which is formed when 238u captures a neutron but emits two more, which then decays to neptunium-237; and finally, uranium-233, which is formed in the decay chain of that neptunium-237. it is also expected that thorium-232 should be able to undergo double beta decay, which would produce uranium-232, but this has not yet been observed experimentally.[94]
+uranium-238 is the most stable isotope of uranium, with a half-life of about 4.468×109 years, roughly the age of the earth. uranium-235 has a half-life of about 7.13×108 years, and uranium-234 has a half-life of about 2.48×105 years.[95]
+for natural uranium, about 49% of its alpha rays are emitted by each of 238u atom, and also 49% by 234u (since the latter is formed from the former) and about 2.0% of them by the 235u. when the earth was young, probably about one-fifth of its uranium was uranium-235, but the percentage of 234u was probably much lower than this.
+uranium-238 is usually an α emitter (occasionally, it undergoes spontaneous fission), decaying through the uranium series, which has 18 members, into lead-206, by a variety of different decay paths.[15]
+the decay chain of 235u, which is called the actinium series, has 15 members and eventually decays into lead-207.[15] the constant rates of decay in these decay series makes the comparison of the ratios of parent to daughter elements useful in radiometric dating.
+uranium-234, which is a member of the uranium series (the decay chain of uranium-238), decays to lead-206 through a series of relatively short-lived isotopes.
+uranium-233 is made from thorium-232 by neutron bombardment, usually in a nuclear reactor, and 233u is also fissile.[10] its decay chain forms part of the neptunium series and ends at bismuth-209 and thallium-205.
+uranium-235 is important for both nuclear reactors and nuclear weapons, because it is the only uranium isotope existing in nature on earth in any significant amount that is fissile. this means that it can be split into two or three fragments (fission products) by thermal neutrons.[15]
+uranium-238 is not fissile, but is a fertile isotope, because after neutron activation it can produce plutonium-239, another fissile isotope. indeed, the 238u nucleus can absorb one neutron to produce the radioactive isotope uranium-239. 239u decays by beta emission to neptunium-239, also a beta-emitter, that decays in its turn, within a few days into plutonium-239. 239pu was used as fissile material in the first atomic bomb detonated in the "trinity test" on 15 july 1945 in new mexico.[32]
+
+enrichment
+main article: enriched uranium
+ cascades of gas centrifuges are used to enrich uranium ore to concentrate its fissionable isotopes.
+in nature, uranium is found as uranium-238 (99.2742%) and uranium-235 (0.7204%). isotope separation concentrates (enriches) the fissionable uranium-235 for nuclear weapons and most nuclear power plants, except for gas cooled reactors and pressurised heavy water reactors. most neutrons released by a fissioning atom of uranium-235 must impact other uranium-235 atoms to sustain the nuclear chain reaction. the concentration and amount of uranium-235 needed to achieve this is called a 'critical mass'.
+to be considered 'enriched', the uranium-235 fraction should be between 3% and 5%.[96] this process produces huge quantities of uranium that is depleted of uranium-235 and with a correspondingly increased fraction of uranium-238, called depleted uranium or 'du'. to be considered 'depleted', the uranium-235 isotope concentration should be no more than 0.3%.[97] the price of uranium has risen since 2001, so enrichment tailings containing more than 0.35% uranium-235 are being considered for re-enrichment, driving the price of depleted uranium hexafluoride above $130 per kilogram in july 2007 from $5 in 2001.[97]
+the gas centrifuge process, where gaseous uranium hexafluoride (uf6) is separated by the difference in molecular weight between 235uf6 and 238uf6 using high-speed centrifuges, is the cheapest and leading enrichment process.[31] the gaseous diffusion process had been the leading method for enrichment and was used in the manhattan project. in this process, uranium hexafluoride is repeatedly diffused through a silver-zinc membrane, and the different isotopes of uranium are separated by diffusion rate (since uranium 238 is heavier it diffuses slightly slower than uranium-235).[31] the molecular laser isotope separation method employs a laser beam of precise energy to sever the bond between uranium-235 and fluorine. this leaves uranium-238 bonded to fluorine and allows uranium-235 metal to precipitate from the solution.[7] an alternative laser method of enrichment is known as atomic vapor laser isotope separation (avlis) and employs visible tunable lasers such as dye lasers.[98] another method used is liquid thermal diffusion.[9]
+
+human exposure
+a person can be exposed to uranium (or its radioactive daughters, such as radon) by inhaling dust in air or by ingesting contaminated water and food. the amount of uranium in air is usually very small; however, people who work in factories that process phosphate fertilizers, live near government facilities that made or tested nuclear weapons, live or work near a modern battlefield where depleted uranium weapons have been used, or live or work near a coal-fired power plant, facilities that mine or process uranium ore, or enrich uranium for reactor fuel, may have increased exposure to uranium.[99][100] houses or structures that are over uranium deposits (either natural or man-made slag deposits) may have an increased incidence of exposure to radon gas. the occupational safety and health administration (osha) has set the permissible exposure limit for uranium exposure in the workplace as 0.25 mg/m3 over an 8-hour workday. the national institute for occupational safety and health (niosh) has set a recommended exposure limit (rel) of 0.2 mg/m3 over an 8-hour workday and a short-term limit of 0.6 mg/m3. at levels of 10 mg/m3, uranium is immediately dangerous to life and health.[101]
+most ingested uranium is excreted during digestion. only 0.5% is absorbed when insoluble forms of uranium, such as its oxide, are ingested, whereas absorption of the more soluble uranyl ion can be up to 5%.[27] however, soluble uranium compounds tend to quickly pass through the body, whereas insoluble uranium compounds, especially when inhaled by way of dust into the lungs, pose a more serious exposure hazard. after entering the bloodstream, the absorbed uranium tends to bioaccumulate and stay for many years in bone tissue because of uranium's affinity for phosphates.[27] uranium is not absorbed through the skin, and alpha particles released by uranium cannot penetrate the skin.
+incorporated uranium becomes uranyl ions, which accumulate in bone, liver, kidney, and reproductive tissues. uranium can be decontaminated from steel surfaces[102] and aquifers.[103]
+
+effects and precautions
+normal functioning of the kidney, brain, liver, heart, and other systems can be affected by uranium exposure, because, besides being weakly radioactive, uranium is a toxic metal.[27][104][105] uranium is also a reproductive toxicant.[106][107] radiological effects are generally local because alpha radiation, the primary form of 238u decay, has a very short range, and will not penetrate skin. alpha radiation from inhaled uranium has been demonstrated to cause lung cancer in exposed nuclear workers.[108] uranyl (uo2+2) ions, such as from uranium trioxide or uranyl nitrate and other hexavalent uranium compounds, have been shown to cause birth defects and immune system damage in laboratory animals.[109] while the cdc has published one study that no human cancer has been seen as a result of exposure to natural or depleted uranium,[110] exposure to uranium and its decay products, especially radon, are widely known and significant health threats.[20] exposure to strontium-90, iodine-131, and other fission products is unrelated to uranium exposure, but may result from medical procedures or exposure to spent reactor fuel or fallout from nuclear weapons.[111]
+although accidental inhalation exposure to a high concentration of uranium hexafluoride has
+resulted in human fatalities, those deaths were associated with the generation of highly toxic hydrofluoric acid and uranyl fluoride rather than with uranium itself.[112] finely divided uranium metal presents a fire hazard because uranium is pyrophoric; small grains will ignite spontaneously in air at room temperature.[10]
+uranium metal is commonly handled with gloves as a sufficient precaution.[113] uranium concentrate is handled and contained so as to ensure that people do not inhale or ingest it.[113]
+
+
+compilation of 2004 review on uranium toxicity[104]
+
+
+body system
+
+human studies
+
+animal studies
+
+in vitro
+
+
+renal
+
+elevated levels of protein excretion, urinary catalase and diuresis
+
+damage to proximal convoluted tubules, necrotic cells cast from tubular epithelium, glomerular changes (renal failure)
+
+no studies
+
+
+brain/cns
+
+decreased performance on neurocognitive tests
+
+acute cholinergic toxicity; dose-dependent accumulation in cortex, midbrain, and vermis; electrophysiological changes in hippocampus
+
+no studies
+
+
+dna
+
+increased reports of cancers[51][114][115][116][117][118]
+
+increased mutagenicity (in mice) and induction of tumors
+
+binucleated cells with micronuclei, inhibition of cell cycle kinetics and proliferation; sister chromatid induction, tumorigenic phenotype
+
+
+bone/muscle
+
+no studies
+
+inhibition of periodontal bone formation; and alveolar wound healing
+
+no studies
+
+
+reproductive
+
+uranium miners have more first-born female children
+
+moderate to severe focal tubular atrophy; vacuolization of leydig cells
+
+no studies
+
+
+lungs/respiratory
+
+no adverse health effects reported
+
+severe nasal congestion and hemorrhage, lung lesions and fibrosis, edema and swelling, lung cancer
+
+no studies
+
+
+gastrointestinal
+
+vomiting, diarrhea, albuminuria
+
+no studies
+
+no studies
+
+
+liver
+
+no effects seen at exposure dose
+
+fatty livers, focal necrosis
+
+no studies
+
+
+skin
+
+no exposure assessment data available
+
+swollen vacuolated epidermal cells, damage to hair follicles and sebaceous glands
+
+no studies
+
+
+tissues surrounding embedded du fragments
+
+elevated uranium urine concentrations
+
+elevated uranium urine concentrations, perturbations in biochemical and neuropsychological testing
+
+no studies
+
+
+immune system
+
+chronic fatigue, rash, ear and eye infections, hair and weight loss, cough. may be due to combined chemical exposure rather than du alone
+
+no studies
+
+no studies
+
+
+eyes
+
+no studies
+
+conjunctivitis, irritation inflammation, edema, ulceration of conjunctival sacs
+
+no studies
+
+
+blood
+
+no studies
+
+decrease in rbc count and hemoglobin concentration
+
+no studies
+
+
+cardiovascular
+
+myocarditis resulting from the uranium ingestion, which ended six months after ingestion
+
+no effects
+
+no studies
+
+see also
+
+k-65 residues
+list of countries by uranium production
+list of countries by uranium reserves
+list of uranium projects
+lists of nuclear disasters and radioactive incidents
+nuclear and radiation accidents and incidents
+nuclear engineering
+nuclear fuel cycle
+nuclear physics
+thorium fuel cycle
+uranium bubble of 2007
+uranium nitride
+world uranium hearing
+
+notes
+
+
+^ meija, j.;  et al. (2016). "atomic weights of the elements 2013 (iupac technical report)". pure and applied chemistry. 88 (3): 265–91. doi:10.1515/pac-2015-0305..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ morss, l.r.; edelstein, n.m.; fuger, j., eds. (2006). the chemistry of the actinide and transactinide elements (3rd ed.). netherlands: springer. isbn 9048131464.
+
+^ morss, l.r.; edelstein, n.m.; fuger, j., eds. (2006). the chemistry of the actinide and transactinide elements (3rd ed.). netherlands: springer. isbn 9048131464.
+
+^ "uranium". encyclopaedia britannica. retrieved 22 april 2017.
+
+^ "uranium isotopes". retrieved 14 march 2012.
+
+^ "www table of radioactive isotopes". lawrence berkeley national laboratory, berkeley, us. archived from the original on 27 april 2007.
+
+^ a b c d e emsley 2001, p. 479.
+
+^ "u.s. to pump money into nuke stockpile, increase security," ria novosti 18 february 2010
+
+^ a b c d e f "uranium". the mcgraw-hill science and technology encyclopedia (5th ed.). the mcgraw-hill companies, inc. isbn 0-07-142957-3.
+
+^ a b c d e f g h i j k l m n o p q hammond, c. r. (2000). the elements, in handbook of chemistry and physics (pdf) (81st ed.). crc press. isbn 0-8493-0481-4.
+
+^ "uranium". royal society of chemistry.
+
+^ "lead". royal society of chemistry.
+
+^ "tungsten". royal society of chemistry.
+
+^ "gold". royal society of chemistry.
+
+^ a b c d e f g "uranium". columbia electronic encyclopedia (6th ed.). columbia university press.
+
+^ a b c d e "uranium". encyclopedia of espionage, intelligence, and security. the gale group, inc.
+
+^ rollett, a. d. (2008). applications of texture analysis. john wiley and sons. p. 108. isbn 0-470-40835-9.
+
+^ a b c grenthe, ingmar; drożdżyński, janusz; fujino, takeo; buck, edgar c.; albrecht-schmitt, thomas e.; wolf, stephen f. (2006). "uranium".  in morss, lester r.; edelstein, norman m.; fuger, jean. the chemistry of the actinide and transactinide elements (pdf). 5 (3rd ed.). dordrecht, the netherlands: springer. pp. 52–160. doi:10.1007/1-4020-3598-5_5. archived from the original (pdf) on 7 march 2016.
+
+^ "development of du munitions". depleted uranium in the gulf (ii). gulflink, official website of force health protection & readiness. 2000.
+
+^ a b c d e f emsley 2001, p. 480.
+
+^ "nuclear weapon design". federation of american scientists. 1998. archived from the original on 26 december 2008. retrieved 19 february 2007.
+
+^ "statement regarding the good morning america broadcast," the homer laughlin china co. archived 1 april 2012 at the wayback machine, 16 march 2011, accessed 25 march 2012.
+
+^ "dial r for radioactive – 12 july 1997 – new scientist". newscientist.com. retrieved 12 september 2008.
+
+^ "epa facts about uranium" (pdf). u.s. environmental protection agency. retrieved 20 september 2014.
+
+^ "uranium containing dentures (ca. 1960s, 1970s)". health physics historical instrumentation museum collection. oak ridge associated universities. 1999. retrieved 10 october 2013.
+
+^ emsley 2001, p. 482.
+
+^ a b c d e f g h i j emsley 2001, p. 477.
+
+^ klaproth, m. h. (1789). "chemische untersuchung des uranits, einer neuentdeckten metallischen substanz". chemische annalen. 2: 387–403.
+
+^ "uranium". the american heritage dictionary of the english language (4th ed.). houghton mifflin company.
+
+^ péligot, e.-m. (1842). "recherches sur l'uranium". annales de chimie et de physique. 5 (5): 5–47.
+
+^ a b c d emsley 2001, p. 478.
+
+^ a b c d e f seaborg 1968, p. 773.
+
+^ fermi, enrico (12 december 1938). "artificial radioactivity produced by neutron bombardment: nobel lecture" (pdf). royal swedish academy of sciences. archived from the original (pdf) on 9 august 2018. retrieved 14 june 2017.
+
+^ de gregorio, a. (2003). "a historical note about how the property was discovered that hydrogenated substances increase the radioactivity induced by neutrons". nuovo saggiatore. 19: 41–47. arxiv:physics/0309046. bibcode:2003physics...9046d.
+
+^ nigro, m (2004). "hahn, meitner e la teoria della fissione" (pdf). retrieved 5 may 2009.
+
+^ van der krogt, peter. "elementymology & elements multidict". retrieved 5 may 2009.
+
+^ meitner, l. and frisch, o. (1939). "disintegration of uranium by neutrons: a new type of nuclear reaction". nature. 143 (5218): 239–240. bibcode:1969natur.224..466m. doi:10.1038/224466a0.cs1 maint: multiple names: authors list (link)
+
+^ "alfred o. c. nier". www.aps.org. retrieved 2016-12-04.
+
+^ "chicago pile one". large.stanford.edu. retrieved 2016-12-04.
+
+^ walsh, john (19 june 1981). "a manhattan project postscript" (pdf). science. aaas. 212 (4501): 1369–1371. bibcode:1981sci...212.1369w. doi:10.1126/science.212.4501.1369. pmid 17746246. retrieved 23 march 2013.
+
+^ helmreich, j.e. gathering rare ores: the diplomacy of uranium acquisition, 1943–1954, princeton up, 1986: ch. 10 isbn 0-7837-9349-9
+
+^ "reactors designed by argonne national laboratory: fast reactor technology". u.s. department of energy, argonne national laboratory. 2012. retrieved 25 july 2012.
+
+^ "history and success of argonne national laboratory: part 1". u.s. department of energy, argonne national laboratory. 1998. archived from the original on 26 september 2006. retrieved 28 january 2007.
+
+^ "reactors designed by argonne national laboratory: light water reactor technology development". u.s. department of energy, argonne national laboratory. 2012. retrieved 25 july 2012.
+
+^ "1956:queen switches on nuclear power". bbc news. 17 october 1956. retrieved 28 june 2006.
+
+^ "str (submarine thermal reactor) in "reactors designed by argonne national laboratory: light water reactor technology development"". u.s. department of energy, argonne national laboratory. 2012. retrieved 25 july 2012.
+
+^ a b "oklo: natural nuclear reactors". office of civilian radioactive waste management. archived from the original on 3 june 2004. retrieved 28 june 2006.
+
+^ warneke, t.; croudace, i. w.; warwick, p. e. & taylor, r. n. (2002). "a new ground-level fallout record of uranium and plutonium isotopes for northern temperate latitudes". earth and planetary science letters. 203 (3–4): 1047–1057. bibcode:2002e&psl.203.1047w. doi:10.1016/s0012-821x(02)00930-5.
+
+^ "the worst nuclear disasters". time.com. 25 march 2009. retrieved 24 may 2010.
+
+^ gilliland, frank d. md; hunt, william c. ms; pardilla, marla msw, mph; key, charles r. md, phd (march 2000). "uranium mining and lung cancer among navajo men in new mexico and arizona, 1969 to 1993". journal of occupational & environmental medicine. 42 (3): 278–283. doi:10.1097/00043764-200003000-00008. pmid 10738707.cs1 maint: multiple names: authors list (link)
+
+^ a b brugge, doug; goble, rob (2002). "the history of uranium mining and the navajo people". american journal of public health. ajph.org. 92 (9): 1410–9. doi:10.2105/ajph.92.9.1410. pmc 3222290. pmid 12197966.
+
+^ glaser, alexander & von hippel, frank n. (february 2006). "thwarting nuclear terrorism". scientific american. 294 (2): 56–63. bibcode:2006sciam.294b..56g. doi:10.1038/scientificamerican0206-56. pmid 16478027.
+
+^ "history/origin of chemicals". nasa. retrieved 1 january 2013.
+
+^ e. m. burbidge; g. r. burbidge; w. a. fowler; f. hoyle (1957). "synthesis of the elements in stars" (pdf). reviews of modern physics. 29 (4): 547. bibcode:1957rvmp...29..547b. doi:10.1103/revmodphys.29.547.
+
+^ clayton, donald d. (1968). principles of stellar evolution and nucleosynthesis. new york: mc-graw-hill. pp. 577–91. isbn 978-0226109534.
+
+^ trenn, thaddeus j. (1978). "thoruranium (u-236) as the extinct natural parent of thorium: the premature falsification of an essentially correct theory". annals of science. 35 (6): 581–97. doi:10.1080/00033797800200441.
+
+^ 
+tissot, françois l. h.; dauphas, nicolas; grossmann, lawrence (4 march 2016). "origin of uranium isotope variations in early solar nebula condensates". science advances. 2 (3): e1501400. arxiv:1603.01780. bibcode:2016scia....2e1400t. doi:10.1126/sciadv.1501400.
+
+^ biever, celeste (27 july 2005). "first measurements of earth's core radioactivity". new scientist.
+
+^ "potassium-40 heats up earth's core". physicsweb. 7 may 2003. retrieved 14 january 2007.
+
+^ min, m.; xu, h.; chen, j.; fayek, m. (2005). "evidence of uranium biomineralization in sandstone-hosted roll-front uranium deposits, northwestern china". ore geology reviews. 26 (3–4): 198. doi:10.1016/j.oregeorev.2004.10.003.
+
+^ koribanics, n. m.; tuorto, s. j.; lopez-chiaffarelli, n.; mcguinness, l. r.; häggblom, m. m.; williams, k. h.; long, p. e.; kerkhof, l. j. (2015). "spatial distribution of an uranium-respiring betaproteobacterium at the rifle, co field research site". plos one. 10 (4): e0123378. doi:10.1371/journal.pone.0123378. pmc 4395306. pmid 25874721.
+
+^ emsley 2001, pp. 476 and 482.
+
+^ macaskie, l. e.; empson, r. m.; cheetham, a. k.; grey, c. p. & skarnulis, a. j. (1992). "uranium bioaccumulation by a citrobacter sp. as a result of enzymically mediated growth of polycrystalline huo2po4". science. 257 (5071): 782–784. bibcode:1992sci...257..782m. doi:10.1126/science.1496397. pmid 1496397.
+
+^ anderson, r. t.; vrionis, h. a.; ortiz-bernad, i.; resch, c. t.; long, p. e.; dayvault, r.; karp, k.; marutzky, s.; metzler, d. r.; peacock, a.; white, d. c.; lowe, m.; lovley, d. r. (2003). "stimulating the in situ activity of geobacter species to remove uranium from the groundwater of a uranium-contaminated aquifer". applied and environmental microbiology. 69 (10): 5884–5891. doi:10.1128/aem.69.10.5884-5891.2003. pmc 201226. pmid 14532040.
+
+^ geoffrey michael gadd (march 2010). "metals, minerals and microbes: geomicrobiology and bioremediation". microbiology. 156 (pt 3): 609–643. doi:10.1099/mic.0.037143-0. pmid 20019082.
+
+^ 
+nilgiriwala, k.s.; alahari, a.; rao, a. s. & apte, s.k. (2008). "cloning and overexpression of alkaline phosphatase phok from sphingomonas sp. strain bsar-1 for bioprecipitation of uranium from alkaline solutions". applied and environmental microbiology. 74 (17): 5516–5523. doi:10.1128/aem.00107-08. pmc 2546639. pmid 18641147.
+
+^ a b "world uranium mining". world nuclear association. retrieved 8 april 2015.
+
+^ seaborg 1968, p. 774.
+
+^ "athabasca basin, saskatchewan". retrieved 4 september 2009.
+
+^ gupta, c. k. & mukherjee, t. k. (1990). hydrometallurgy in extraction processes. 1. crc press. pp. 74–75. isbn 0-8493-6804-9.
+
+^ a b c "exploration drives uranium resources up 17%". world-nuclear-news.org. retrieved 12 september 2008.
+
+^ a b c "global uranium resources to meet projected demand". international atomic energy agency. 2006. retrieved 29 march 2007.
+
+^ "supply of uranium".
+
+^ "uranium mining and processing in south australia". south australian chamber of mines and energy. 2002. archived from the original on 6 january 2012. retrieved 14 january 2007.
+
+^ "military warheads as a source of nuclear fuel". world-nuclear.org. retrieved 24 may 2010.
+
+^ "uranium recovery from seawater". japan atomic energy research institute. 23 august 1999. archived from the original on 17 october 2009. retrieved 3 september 2008.
+
+^ "how long will nuclear energy last?". 12 february 1996. archived from the original on 10 april 2007. retrieved 29 march 2007.
+
+^ tsezos, m.; noh, s. h. (1984). "extraction of uranium from sea water using biological origin adsorbents". the canadian journal of chemical engineering. 62 (4): 559–561. doi:10.1002/cjce.5450620416.
+
+^ "ornl technology moves scientists closer to extracting uranium from seawater". oak ridge national laboratory, united states. 21 august 2012. retrieved 22 february 2013.
+
+^ "fueling nuclear power with seawater". pnnl.gov. 21 august 2012. retrieved 22 february 2013.
+
+^ "nuexco exchange value (monthly uranium spot)". archived from the original on 12 december 2007.
+
+^ "world uranium production". uxc consulting company, llc. retrieved 11 february 2007.
+
+^ mithridates (24 july 2008). "page f30: kazakhstan to surpass canada as the world's largest producer of uranium by last year (2009)". mithridates.blogspot.com. retrieved 12 september 2008.
+
+^ "kazakistan uranyum üretimini artıracak". zaman.com.tr (in turkish). zaman gazetesi. 28 july 2008. archived from the original on 13 january 2009. retrieved 12 september 2008.
+
+^ "big uranium find announced in somalia". new york times. 16 march 1968. retrieved 16 may 2014.
+
+^ "lack of fuel may limit u.s. nuclear power expansion". massachusetts institute of technology. 21 march 2007. retrieved 29 march 2007.
+
+^ deffeyes, kenneth s. & macgregor, ian d. (january 1980). "world uranium resources". scientific american. p. 66. retrieved 21 april 2008.
+
+^ seaborg 1968, p. 779.
+
+^ a b c "chemical forms of uranium". argonne national laboratory. archived from the original on 22 september 2006. retrieved 18 february 2007.
+
+^ a b seaborg 1968, p. 778.
+
+^ a b c d puigdomenech, ignasi hydra/medusa chemical equilibrium database and plotting software (2004) kth royal institute of technology, freely downloadable software at "archived copy". archived from the original on 29 september 2007. retrieved 29 september 2007.cs1 maint: archived copy as title (link)
+
+^ a b c d e f g h i j seaborg 1968, p. 782.
+
+^ a b seaborg 1968, p. 780.
+
+^ g. audi; a. h. wapstra; c. thibault; j. blachot & o. bersillon (2003). "the nubase evaluation of nuclear and decay properties" (pdf). nuclear physics a. 729: 3–128. bibcode:2003nupha.729....3a. doi:10.1016/j.nuclphysa.2003.11.001. archived from the original (pdf) on 23 september 2008.
+
+^ seaborg 1968, p. 777.
+
+^ "uranium enrichment". argonne national laboratory. archived from the original on 24 january 2007. retrieved 11 february 2007.
+
+^ a b diehl, peter. "depleted uranium: a by-product of the nuclear chain". laka foundation. archived from the original on 13 january 2013. retrieved 31 july 2009.
+
+^ duarte, f. j.; hillman, l. w., eds. (1990). dye laser principles. academic. p. 413. isbn 0-12-222700-x. archived from the original on 17 september 2010.
+
+^ "radiation information for uranium". u.s. environmental protection agency. retrieved 31 july 2009.
+
+^ "toxfaq for uranium". agency for toxic substances and disease registry. september 1999. retrieved 18 february 2007.
+
+^ "cdc – niosh pocket guide to chemical hazards – uranium (insoluble compounds, as u)". www.cdc.gov. retrieved 2015-11-24.
+
+^ francis, a. j.; dodge, c. j.; mcdonald, j. a.; halada, g. p. (2005). "decontamination of uranium-contaminated steel surfaces by hydroxycarboxylic acid with uranium recovery". environmental science & technology. 39 (13): 5015–21. bibcode:2005enst...39.5015f. doi:10.1021/es048887c. pmid 16053105.
+
+^ wu, w. m.; carley, j.; gentry, t.; ginder-vogel, m. a.; fienen, m.; mehlhorn, t.; yan, h.; caroll, s.;  et al. (2006). "pilot-scale in situ bioremedation of uranium in a highly contaminated aquifer. 2. reduction of u(vi) and geochemical control of u(vi) bioavailability". environmental science & technology. 40 (12): 3986–95. bibcode:2006enst...40.3986w. doi:10.1021/es051960u. pmid 16830572.
+
+^ a b craft, e. s.; abu-qare, a. w.; flaherty, m. m.; garofolo, m. c.; rincavage, h. l. & abou-donia, m. b. (2004). "depleted and natural uranium: chemistry and toxicological effects" (pdf). journal of toxicology and environmental health part b: critical reviews. 7 (4): 297–317. doi:10.1080/10937400490452714. pmid 15205046.
+
+^ "toxicological profile for uranium" (pdf). atlanta, ga: agency for toxic substances and disease registry (atsdr). september 1999. cas# 7440-61-1.
+
+^ hindin, rita; brugge, d.; panikkar, b. (2005). "teratogenicity of depleted uranium aerosols: a review from an epidemiological perspective". environ health. 4: 17. doi:10.1186/1476-069x-4-17. pmc 1242351. pmid 16124873.
+
+^ arfsten, d.p.; k.r. still; g.d. ritchie (2001). "a review of the effects of uranium and depleted uranium exposure on reproduction and fetal development". toxicology and industrial health. 17 (5–10): 180–91. doi:10.1191/0748233701th111oa. pmid 12539863.
+
+^ grellier, james; atkinson, will; bérard, philippe; bingham, derek; birchall, alan; blanchardon, eric; bull, richard; guseva canu, irina; challeton-de vathaire, cécile; cockerill, rupert; do, minh t; engels, hilde; figuerola, jordi; foster, adrian; holmstock, luc; hurtgen, christian; laurier, dominique; puncher, matthew; riddell, tony; samson, eric; thierry-chef, isabelle; tirmarche, margot; vrijheid, martine; cardis, elisabeth (2017). "risk of lung cancer mortality in nuclear workers from internal exposure to alpha particle-emitting radionuclides". epidemiology. 28 (5): 675–684. doi:10.1097/ede.0000000000000684. pmc 5540354. pmid 28520643. retrieved 16 june 2017.
+
+^ domingo, j. l.; paternain, j. l.; llobet, j. m.; corbella, j. (1989). "the developmental toxicity of uranium in mice". toxicology. 55 (1–2): 143–52. doi:10.1016/0300-483x(89)90181-9. pmid 2711400.
+
+^ "public health statement for uranium". cdc. retrieved 15 february 2007.
+
+^ chart of the nuclides, us atomic energy commission 1968
+
+^ dart, richard c. (2004). medical toxicology. lippincott williams & wilkins. p. 1468. isbn 0-7817-2845-2.
+
+^ a b "radiation fact sheets #27, uranium (u)". washington state department of health, office of radiation protection. 2010. archived from the original on 28 september 2011. retrieved 23 august 2011.
+
+^ mulloy kb; james ds; mohs k; kornfeld m (2001). "lung cancer in a nonsmoking underground uranium miner". environ health perspect. 109 (3): 305–309. doi:10.1289/ehp.01109305. pmc 1240251. pmid 11333194.
+
+^ samet jm; kutvirt dm; waxweiler rj; key cr (1984). "uranium mining and lung cancer in navajo men". n engl j med. 310 (23): 1481–1584. doi:10.1056/nejm198406073102301. pmid 6717538.
+
+^ dawson, susan e (1992). "navajo uranium workers and the effects of occupational illnesses: a case study" (pdf). human organization. 51 (4): 389–397. doi:10.17730/humo.51.4.e02484g513501t35.
+
+^ gilliland fd; hunt wc; pardilla m; key cr (2000). "uranium mining and lung cancer among navajo men in new mexico and arizona, 1969 to 1993". j occup environ med. 42 (3): 278–283. doi:10.1097/00043764-200003000-00008. pmid 10738707.
+
+^ gottlieb ls; husen la (1982). "lung cancer among navajo uranium miners". chest. 81 (4): 449–52. doi:10.1378/chest.81.4.449. pmid 6279361.
+
+
+references
+emsley, john (2001). "uranium". nature's building blocks: an a to z guide to the elements. oxford: oxford university press. pp. 476–482. isbn 0-19-850340-7.
+seaborg, glenn t. (1968). "uranium". the encyclopedia of the chemical elements. skokie, illinois: reinhold book corporation. pp. 773–786. lcccn 68-29938.
+external links
+
+
+
+wikimedia commons has media related to uranium.
+
+
+
+look up uranium in wiktionary, the free dictionary.
+u.s. epa: radiation information for uranium
+"what is uranium?" from world nuclear association
+nuclear fuel data and analysis from the u.s. energy information administration
+current market price of uranium
+world uranium deposit maps
+annotated bibliography for uranium from the alsos digital library
+nlm hazardous substances databank—uranium, radioactive
+cdc - niosh pocket guide to chemical hazards
+mining uranium at namibia's langer heinrich mine
+world nuclear news
+atsdr case studies in environmental medicine: uranium toxicity u.s. department of health and human services
+uranium at the periodic table of videos (university of nottingham)
+vteperiodic table (large cells)
+
+
+
+
+1
+
+2
+
+3
+
+
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+17
+
+18
+
+
+1
+
+h
+
+
+
+he
+
+
+2
+
+li
+
+be
+
+
+
+b
+
+c
+
+n
+
+o
+
+f
+
+ne
+
+
+3
+
+na
+
+mg
+
+
+
+al
+
+si
+
+p
+
+s
+
+cl
+
+ar
+
+
+4
+
+k
+
+ca
+
+sc
+
+
+
+ti
+
+v
+
+cr
+
+mn
+
+fe
+
+co
+
+ni
+
+cu
+
+zn
+
+ga
+
+ge
+
+as
+
+se
+
+br
+
+kr
+
+
+5
+
+rb
+
+sr
+
+y
+
+
+
+zr
+
+nb
+
+mo
+
+tc
+
+ru
+
+rh
+
+pd
+
+ag
+
+cd
+
+in
+
+sn
+
+sb
+
+te
+
+i
+
+xe
+
+
+6
+
+cs
+
+ba
+
+la
+
+ce
+
+pr
+
+nd
+
+pm
+
+sm
+
+eu
+
+gd
+
+tb
+
+dy
+
+ho
+
+er
+
+tm
+
+yb
+
+lu
+
+hf
+
+ta
+
+w
+
+re
+
+os
+
+ir
+
+pt
+
+au
+
+hg
+
+tl
+
+pb
+
+bi
+
+po
+
+at
+
+rn
+
+
+7
+
+fr
+
+ra
+
+ac
+
+th
+
+pa
+
+u
+
+np
+
+pu
+
+am
+
+cm
+
+bk
+
+cf
+
+es
+
+fm
+
+md
+
+no
+
+lr
+
+rf
+
+db
+
+sg
+
+bh
+
+hs
+
+mt
+
+ds
+
+rg
+
+cn
+
+nh
+
+fl
+
+mc
+
+lv
+
+ts
+
+og
+
+
+
+
+alkali metal
+
+alkaline earth metal
+
+lan­thanide
+
+actinide
+
+transition metal
+
+post-​transition metal
+
+metalloid
+
+reactive nonmetal
+
+noble gas
+
+unknownchemicalproperties
+
+
+
+vtemain isotopes of uranium
+232u
+233u
+234u
+235u
+236u
+238u
+
+vteuranium compoundsu(ii)
+ub2
+usi2
+us
+u(iii)
+uf3
+ucl3
+ui3
+up
+u(oh)3
+uh3
+unorganouranium(iii) compounds
+u(c5h5)3
+
+u(iv)
+u(bh4)4
+ucl4
+uf4
+ubr4
+ui4
+uo2
+us2
+u(so4)2organouranium(iv) compounds
+u(c8h8)2
+u(c5h5)4
+u(c5h5)3cl
+
+u(iv,v)
+u2n3
+u(v)
+ucl5
+uf5
+ubr5
+ui5
+u2o5
+u(v,vi)
+u3o8
+u(vi)
+(nh4)2u2o7
+na2u2o7
+ucl6
+uf6
+u(po4)2
+uo3
+uo4
+uo2(ch3coo)2
+uo2(cho2)2
+uo2co3
+uo2co3·2(nh4)2co3
+uo2cl2
+uo2f2
+uo2(no3)2
+uo2(oh)2
+uo2(so4)2
+znuo2(ch3coo)4
+un2
+h2uo4
+uo6 (hypothetical)
+u(xii)
+uo6 (hypothetical)
+
+vtenuclear technologyscience
+chemistry
+engineering
+physics
+atomic nucleus
+fission
+fusion
+radiation
+ionizing
+braking
+fuel
+tritium
+deuterium
+helium-3
+fertile material
+fissile material
+isotope separation
+nuclear material
+uranium
+enriched
+depleted
+plutonium
+thorium
+neutron
+activation
+capture
+poison
+cross section
+generator
+radiation
+reflector
+temperature
+thermal
+fast
+fusion
+power
+by country
+power plant
+economics
+multi-mission radioisotope thermoelectric generator
+accidents and incidents
+policy
+fusion
+radioisotope thermoelectric (rtg)
+propulsion
+rocket
+safety and security
+medicineimaging
+radball
+scintigraphy
+single-photon emission (spect)
+positron-emission tomography (pet)
+therapy
+fast-neutron
+neutron capture therapy of cancer
+targeted alpha-particle
+proton-beam
+tomotherapy
+brachytherapy
+radiation therapy
+radiosurgery
+radiopharmacology
+weaponstopics
+arms race
+delivery
+design
+disarmament
+ethics
+explosion
+effects
+history
+proliferation
+testing
+high-altitude
+underground
+warfare
+yield
+tnte
+lists
+estimated death tolls from attacks
+states with nuclear weapons
+tests
+united states
+wmd treaties
+weapon-free zones
+weapons
+wasteproducts
+actinide
+reprocessed uranium
+reactor-grade plutonium
+minor actinide
+activation
+fission
+llfp
+actinide chemistry
+disposal
+fuel cycle
+high-level (hlw)
+low-level (llw)
+repository
+reprocessing
+spent fuel
+pool
+cask
+transmutation
+debate
+nuclear power
+nuclear weapons
+blue ribbon commission on america's nuclear future
+anti-nuclear movement
+uranium mining
+nuclear power phase-out
+nuclear reactorsfissionmoderatorlight water
+aqueous homogeneous
+boiling
+bwr
+abwr
+esbwr
+kerena
+pressurized
+ap1000
+apr-1400
+apr+
+apwr
+atmea1
+cap1400
+cpr-1000
+epr
+hpr-1000
+acpr1000
+acp1000
+vver
+many others
+supercritical (scwr)
+natural fission
+heavy waterd2o
+pressurized
+candu
+candu 6
+candu 9
+ec6
+afcr
+acr-1000
+ahwr
+cvtr
+iphwr-x
+phwr kwu
+mzfr
+r3
+r4 marviken
+h2o
+hwlwr
+atr
+hw blwr 250
+steam-generating (sghwr)
+organic
+wr-1
+co2
+hwgcr
+el-4
+ks 150
+kkn
+graphite by coolantwaterh2o
+am-1
+amb-x
+egp-6
+rbmk
+gasco2
+uranium naturel graphite gaz (ungg)
+magnox
+advanced gas-cooled (agr)
+he
+gtmhr
+mhr-t
+uhtrex
+vhtr (htgr)
+pbr (pbmr)
+avr
+htr-10
+htr-pm
+thtr-300
+pmr
+molten-saltfluorides
+fuji msr
+liquid-fluoride thorium reactor (lftr)
+molten-salt reactor experiment (msre)
+integral molten salt reactor (imsr)
+thorcon
+none(fast-neutron)
+breeder (fbr)
+integral (ifr)
+liquid-metal-cooled (lmfr)
+small sealed transportable autonomous (sstar)
+traveling-wave (twr)
+energy multiplier module (em2)
+reduced-moderation (rmwr)
+fast breeder test reactor (fbtr)
+dual fluid reactor (dfr)
+generation iv
+sodium (sfr)
+bn-350
+bn-600
+bn-800
+bn-1200
+cfr-600
+phénix
+superphénix
+pfbr
+cefr
+pfr
+prism
+lead (lfr)
+helium gas (gfr)
+others
+organically moderated and cooled reactor
+arbus
+piqua
+aircraft reactor experiment
+
+fusionby confinementmagnetic
+field-reversed configuration
+levitated dipole
+reversed field pinch
+spheromak
+stellarator
+tokamak
+inertial
+bubble (acoustic)
+fusor
+electrostatic
+laser-driven
+magnetized-target
+z-pinch
+other
+dense plasma focus
+migma
+muon-catalyzed
+polywell
+pyroelectric
+
+ category
+portal
+ commons
+
+vtemanhattan projecttimelinesites
+ames
+berkeley
+chicago
+dayton
+hanford
+inyokern
+los alamos
+montreal
+new york
+oak ridge
+trinity
+wendover
+heavy water sites
+administrators
+vannevar bush
+arthur compton
+james b. conant
+priscilla duffield
+thomas farrell
+leslie groves
+john lansdale
+ernest lawrence
+james marshall
+franklin matthias
+dorothy mckibbin
+kenneth nichols
+robert oppenheimer
+deak parsons
+william purnell
+frank spedding
+charles thomas
+paul tibbets
+bud uanna
+harold urey
+stafford warren
+ed westcott
+roscoe wilson
+scientists
+luis alvarez
+robert bacher
+hans bethe
+aage bohr
+niels bohr
+norris bradbury
+james chadwick
+john cockcroft
+harry daghlian
+enrico fermi
+richard feynman
+val fitch
+james franck
+klaus fuchs
+maria goeppert mayer
+george kistiakowsky
+george koval
+willard libby
+edwin mcmillan
+mark oliphant
+norman ramsey
+isidor isaac rabi
+james rainwater
+bruno rossi
+glenn seaborg
+emilio segrè
+louis slotin
+henry dewolf smyth
+leo szilard
+edward teller
+stanisław ulam
+john von neumann
+john wheeler
+eugene wigner
+robert wilson
+leona woods
+operations
+alsos mission
+bombings of hiroshima and nagasaki
+operation crossroads
+operation peppermint
+project alberta
+silverplate
+509th composite group
+enola gay
+bockscar
+the great artiste
+weapons
+fat man
+little boy
+pumpkin bomb
+thin man
+related topics
+atomic energy act of 1946
+british contribution
+chicago pile-1
+demon core
+einstein–szilárd letter
+interim committee
+oppenheimer security hearing
+plutonium
+quebec agreement
+rala experiment
+s-1 executive committee
+s-50 project
+smyth report
+uranium
+x-10 graphite reactor
+ manhattan project
+
+
+authority control 
+gnd: 4187153-4
+lccn: sh85141276
+nara: 10644103
+ndl: 00574039
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=uranium&oldid=880984321"					
+categories: uraniumchemical elementsactinidesnuclear fuelsnuclear materialssuspected male-mediated teratogensmanhattan projecthidden categories: webarchive template wayback linkscs1 maint: multiple names: authors listcs1 turkish-language sources (tr)cs1 maint: archived copy as titlewikipedia indefinitely semi-protected pageswikipedia indefinitely move-protected pagesarticles with short descriptionwikipedia articles in need of updating from september 2016all wikipedia articles in need of updatingcommons category link is on wikidatause dmy dates from february 2013featured articleswikipedia articles with gnd identifierswikipedia articles with lccn identifierswikipedia articles with nara identifierswikipedia articles with ndl identifiers 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readview sourceview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+afrikaansalemannischአማርኛالعربيةarmãneashtiasturianuazərbaycancaتۆرکجهবাংলাbân-lâm-gúбеларускаябеларуская (тарашкевіца)‎भोजपुरीбългарскиབོད་ཡིགbosanskibrezhonegcatalàчӑвашлаcebuanočeštinachishonacorsucymraegdanskdeutschdiné bizaadeestiελληνικάэрзяньespañolesperantoeuskaraفارسیfiji hindiføroysktfrançaisfryskfurlangaeilgegaelggàidhliggalegoગુજરાતીगोंयची कोंकणी / gõychi konknni客家語/hak-kâ-ngîхальмг한국어հայերենहिन्दीhrvatskiidobahasa indonesiainterlinguaisixhosaíslenskaitalianoעבריתbasa jawakabɩyɛಕನ್ನಡქართულიқазақшаkiswahiliкомиkreyòl ayisyenкыргызчакырык марыladinolatinalatviešulëtzebuergeschlietuviųligurelimburgslivvinkarjalala .lojban.lumbaartmagyarмакедонскиമലയാളംमराठीbahasa melayumìng-dĕ̤ng-ngṳ̄монголမြန်မာဘာသာnāhuatlnederlandsनेपालीनेपाल भाषा日本語nordfriisknorsknorsk nynorskoccitanଓଡ଼ିଆoʻzbekcha/ўзбекчаਪੰਜਾਬੀपालिپنجابیپښتوpatoisперем комиpiemontèisplattdüütschpolskiportuguêsromânăruna simiрусскийсаха тылаसंस्कृतम्scotsseelterskshqipsicilianuසිංහලsimple englishslovenčinaslovenščinaکوردیсрпски / srpskisrpskohrvatski / српскохрватскиbasa sundasuomisvenskatagalogதமிழ்татарча/tatarçaతెలుగుไทยꮳꮃꭹtürkçeукраїнськаاردوئۇيغۇرچە / uyghurchevepsän kel’tiếng việt文言winaray吴语ייִדישyorùbá粵語中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 30 january 2019, at 18:43 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"2.980","walltime":"3.498","ppvisitednodes":{"value":41846,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":1073777,"limit":2097152},"templateargumentsize":{"value":68419,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":13,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":341465,"limit":5000000},"entityaccesscount":{"value":5,"limit":400},"timingprofile":["100.00% 2746.309      1 -total"," 28.72%  788.756      1 template:infobox_uranium"," 28.54%  783.806      1 template:infobox_element"," 28.00%  769.087      1 template:reflist"," 26.88%  738.148      1 template:infobox"," 14.33%  393.668     34 template:cite_journal"," 12.61%  346.433     18 template:navbox","  9.46%  259.792      1 template:compact_periodic_table","  7.28%  199.858    118 template:element_cell-compact","  7.22%  198.195     60 template:chem"]},"scribunto":{"limitreport-timeusage":{"value":"1.200","limit":"10.000"},"limitreport-memusage":{"value":14656391,"limit":52428800}},"cachereport":{"origin":"mw1271","timestamp":"20190219095611","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":130,"wghostname":"mw1262"});});
+
+

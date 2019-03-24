@@ -1,0 +1,314 @@
+
+
+
+
+wikipedia:good articles - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"project","wgcanonicalspecialpagename":false,"wgnamespacenumber":4,"wgpagename":"wikipedia:good_articles","wgtitle":"good articles","wgcurrevisionid":875762994,"wgrevisionid":875762994,"wgarticleid":2883214,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["wikipedia semi-protected project pages","wikiproject good articles"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"wikipedia:good_articles","wgrelevantarticleid":2883214,"wgrequestid":"xgvuxgpaideaaeyz-jaaaabi","wgcspnonce":false,"wgisprobablyeditable":false,"wgrelevantpageisprobablyeditable":false,"wgrestrictionedit":["autoconfirmed"],"wgrestrictionmove":["autoconfirmed"],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q19765","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+wikipedia:good articles 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+
+
+
+
+
+maincriterianominationsdiscussioninstructionsreassessmentreporthelp desk
+"wp:ga" redirects here. for the country of georgia wikiproject, see wikipedia:wikiproject georgia (country). for the u.s. state of georgia wikiproject, see wikipedia:wikiproject georgia (u.s. state).
+
+
+
+good articles in wikipedia
+
+
+a good article (ga) is an article that meets a core set of editorial standards but is not featured article quality. good articles meet the good article criteria, passing through the good article nomination process successfully. they are well written, contain factually accurate and verifiable information, are broad in coverage, neutral in point of view, stable, and illustrated, where possible, by relevant images with suitable copyright licenses. good articles do not have to be as comprehensive as featured articles, but they should not omit any major facets of the topic: a comparison of the criteria for good and featured articles describes further differences.
+currently, out of the 5,809,020 articles on wikipedia, 29,229 are categorized as good articles (about 1 in 199), most of which are listed below. an additional 5,464 are listed as featured articles (about 1 in 1,070) and 3,439 as featured lists (about 1 in 1,690). because articles are only included on one list, a good article that has been promoted to featured status is removed from the good articles list. adding good and featured articles and lists together gives a total of 38,132 articles (about 1 in 153). a small plus sign inside a circle () in the top-right corner of an article's page indicates that the article is good.
+the process for designating an article as a good article is intentionally straightforward. any editor, preferably one who creates or contributes to an article, who believes that the article meets the good article criteria, may nominate the article for an impartial reviewer to assess. another editor may review the article after selecting it from a queue of good article nominations then evaluating it against the good article criteria. if it is accepted by the reviewer, the nominated article is added to the list of good articles below. anyone may nominate or review an article by following the instructions. similarly, anyone who believes that an article no longer meets the good article criteria may propose to delist it by following the instructions for reassessment.
+more good content is available at wikipedia:good topics.
+
+
+
+.mw-parser-output .module-shortcutboxplain{float:right;border:1px solid #aaa;background:#fff;margin:0 0 0 1em;padding:.3em .6em .2em .6em;text-align:center;font-size:85%;font-weight:bold}.mw-parser-output .module-shortcutlist{display:inline-block;border-bottom:1px solid #aaa;margin-bottom:.2em;font-weight:normal}.mw-parser-output .module-shortcutanchordiv{position:relative;top:-3em}shortcutswp:gawp:good
+
+good article tools:
+
+good articles
+good article nominations
+good article reassessment
+good article instructions
+good article criteria
+good article report
+good article statistics
+delisted good articles
+project page
+
+wikiproject good articles
+gan backlog drives
+ga cup
+project quality task force
+related pages
+
+good topics
+featured articles
+former featured articles
+vital articles
+did you know
+
+
+
+recently listed good articles:
+typhoon flo (1990) —
+smythe's megalith —
+border roads engineering services —
+rado graph —
+contra celsum —
+st james's theatre —
+bradshaw, merrill —
+tamimi, ahed —
+groom mine —
+bang and whimper 2017 – the farewell tour —
+royal sovereign-class battleship —
+german submarine u-301 —
+no. 3 squadron rcaf —
+dream mine —
+lokrume helmet fragment
+
+random good article of the day: te quiero (ricardo arjona song)
+
+
+
+
+read a random good article
+view the entire list of all good articles
+
+
+list of good articles, arranged by topic
+agriculture, food, and drink
+agriculture, food, and drink
+art and architecture
+art ·
+architecture
+engineering and technology
+computing and engineering ·
+transport
+geography and places
+geography ·
+places
+history
+world history ·
+royalty, nobility, and heraldry
+language and literature
+language and literature
+mathematics
+mathematics and mathematicians
+media and drama
+film ·
+television ·
+media and drama
+music
+albums ·
+classical compositions ·
+songs ·
+other music articles
+natural sciences
+biology and medicine ·
+chemistry and materials science ·
+earth science ·
+physics and astronomy
+philosophy and religion
+philosophy ·
+religion
+social sciences and society
+culture, sociology, and psychology ·
+education ·
+economics and business ·
+law ·
+magazines and print journalism ·
+politics and government
+sports and recreation
+football ·
+baseball ·
+basketball ·
+cricket ·
+hockey ·
+pro wrestling ·
+recreation ·
+other sports
+video games
+video games
+warfare
+armies and military units ·
+battles, exercises, and conflicts ·
+military aircraft ·
+military decorations and memorials ·
+military people ·
+warships and naval units ·
+weapons, equipment, and buildings
+miscellaneous
+
+
+
+
+click any of the topics above for a list of good articles on that topic.
+
+cleanup listing for this project is available. see also the tool's wiki page and the index of wikiprojects.
+
+
+
+
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=wikipedia:good_articles&oldid=875762994"					
+categories: wikiproject good articleshidden categories: wikipedia semi-protected project pages 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+project pagetalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readview sourceview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata item 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikiquote 
+
+
+
+languages
+
+
+alemannischالعربيةঅসমীয়াazərbaycancaবাংলাbân-lâm-gúбашҡортсабеларускаябеларуская (тарашкевіца)‎भोजपुरीbislamaboarischbosanskibrezhonegcatalàcebuanočeštinadanskdeutscheestiελληνικάespañolesperantoeuskaraفارسیfrançaisfryskgalego한국어հայերենहिन्दीhornjoserbscebahasa indonesiaíslenskaitalianoಕನ್ನಡкъарачай-малкъарқазақшаkurdîladinolatviešuлезгиlietuviųliguremagyarमराठीمازِرونیbahasa melayumìng-dĕ̤ng-ngṳ̄nāhuatlनेपाली日本語нохчийнnordfriisknorskoccitanoʻzbekcha/ўзбекчаਪੰਜਾਬੀpolskiportuguêsromânăрусскийсаха тылаshqipසිංහලsimple englishسنڌيslovenčinasoomaaligaکوردیсрпски / srpskisuomisvenskaтатарча/tatarçaతెలుగుไทยтоҷикӣtürkçeукраїнськаاردوtiếng việt文言yorùbá粵語zazaki中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 28 december 2018, at 21:07 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.216","walltime":"0.304","ppvisitednodes":{"value":2523,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":29848,"limit":2097152},"templateargumentsize":{"value":7073,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":490,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  246.866      1 -total"," 46.39%  114.527      1 wikipedia:good_articles/summary"," 22.51%   55.559      1 template:pp-semi-vandalism"," 21.60%   53.315      1 wikipedia:good_article_nominations/tab_header"," 20.33%   50.190      1 template:start_tab"," 19.13%   47.218      1 template:shortcut","  8.15%   20.125      8 template:tab","  6.66%   16.435      4 template:fa_number","  5.68%   14.012      1 wikipedia:featured_articles","  5.21%   12.851      1 template:redirect"]},"scribunto":{"limitreport-timeusage":{"value":"0.062","limit":"10.000"},"limitreport-memusage":{"value":1195097,"limit":52428800}},"cachereport":{"origin":"mw1266","timestamp":"20190219095608","ttl":3600,"transientcontent":true}}});mw.config.set({"wgbackendresponsetime":93,"wghostname":"mw1328"});});
+
+

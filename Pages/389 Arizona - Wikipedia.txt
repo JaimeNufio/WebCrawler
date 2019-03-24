@@ -1,0 +1,3194 @@
+
+
+
+
+arizona - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"arizona","wgtitle":"arizona","wgcurrevisionid":883508375,"wgrevisionid":883508375,"wgarticleid":21883824,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["webarchive template wayback links","cs1 maint: archived copy as title","pages with citations lacking titles","articles with short description","use mdy dates from may 2017","articles with haudio microformats","pages including recorded pronunciations (english)","articles containing navajo-language text","articles containing o'odham-language text","articles needing additional references from february 2018","all articles needing additional references","all articles with unsourced statements","articles with unsourced statements from june 2017","articles containing potentially dated statements from 2011","all articles containing potentially dated statements","articles containing potentially dated statements from july 2017","articles containing potentially dated statements from 2009","articles containing potentially dated statements from 2010","articles containing potentially dated statements from march 2016","articles containing potentially dated statements from 2016","articles containing potentially dated statements from october 2016","articles with unsourced statements from september 2014","articles with unsourced statements from september 2013","articles with curlie links","coordinates on wikidata","wikipedia articles with bnf identifiers","wikipedia articles with gnd identifiers","wikipedia articles with isni identifiers","wikipedia articles with lccn identifiers","wikipedia articles with musicbrainz area identifiers","wikipedia articles with nara identifiers","wikipedia articles with nkc identifiers","wikipedia articles with snac-id identifiers","wikipedia articles with sudoc identifiers","wikipedia articles with viaf identifiers","wikipedia articles with worldcat-viaf identifiers","1912 establishments in the united states","arizona","former spanish colonies","states and territories established in 1912","states of the united states","u.s. states with multiple time zones","western united states"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"arizona","wgrelevantarticleid":21883824,"wgrequestid":"xgnqeqpaaeaaaacsummaaaax","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":["sysop"],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":883508375,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgcoordinates":{"lat":34,"lon":-112},"wgwikibaseitemid":"q816","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","jquery.makecollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","ext.flaggedrevs.basic":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","jquery.makecollapsible","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","ext.flaggedrevs.advanced","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+arizona 
+from wikipedia, the free encyclopedia 
+this is the latest accepted revision, reviewed on 15 february 2019.
+
+
+
+ jump to navigation
+jump to search
+this article is about the u.s. state of arizona. for other uses, see arizona (disambiguation).
+state of the united states of america
+
+
+state of arizona
+
+
+
+flag
+seal
+nickname(s): the grand canyon state;the copper state;the valentine statemotto(s): ditat deus (god enriches)state song(s): "the arizona march song" and "arizona"official languageenglishspoken languagesas of 2010
+english 74.1%
+spanish 19.5%
+navajo 1.9%
+other 4.5 %
+demonymarizonan[1]capital.mw-parser-output .nobold{font-weight:normal}(and largest city)phoenixlargest metrogreater phoenixarearanked 6th  • total113,990[2] sq mi (295,234 km2) • width310 miles (500 km) • length400 miles (645 km) • % water0.35 • latitude31°  20′ n to 37° n • longitude109°  03′ w to 114°  49′ w
+populationranked 14th  • total7,171,646 (2018) • density57/sq mi  (22/km2)ranked 33rd • median household income$52,248 [3] (33rd)
+elevation • highest pointhumphreys peak[4][5][6]12,637 ft (3852 m) • mean4,100 ft  (1250 m) • lowest pointcolorado river at the sonora border[5][6] 72 ft (22 m)
+before statehoodarizona territoryadmission to unionfebruary 14, 1912 (48th)governordoug ducey (r)secretary of statekatie hobbs (d)legislaturearizona legislature  • upper housesenate • lower househouse of representatives
+u.s. senatorskyrsten sinema (d)  martha mcsally (r)u.s. house delegation5 democrats4 republicans (list)time zones   • most of statemountain: utc −7 (no dst) • navajo nationmountain: utc −7/−6
+iso 3166us-azabbreviationsaz, ariz.websitewww.az.gov
+arizona state symbolsthe flag of arizonathe seal of arizonaliving insigniaamphibianarizona tree frogbirdcactus wrenbutterflytwo-tailed swallowtailfishapache troutflowersaguaro cactus blossommammalring-tailed catreptilearizona ridge-nosed rattlesnaketreepalo verdeinanimate insigniacolorsblue, old goldfirearmcolt single action army revolverfossilpetrified woodgemstoneturquoisemineralfire agaterockpetrified woodshipuss arizonasloganthe grand canyon statesoilcasa grandestate route markerstate quarterreleased in 2008lists of united states state symbols
+ saguaro cactus flowers and buds after a wet winter. this is arizona's official state flower.
+arizona (/ˌærɪˈzoʊnə/ (listen); navajo: hoozdo hahoodzo navajo pronunciation: [xòːztò xɑ̀xòːtsò]; o'odham: alĭ ṣonak uto-aztecan pronunciation: [ˡaɺi ˡʂonak]) is a state in the southwestern region of the united states. it is also part of the western and the mountain states. it is the sixth largest and the 14th most populous of the 50 states. its capital and largest city is phoenix. arizona, one of the four corners states, is bordered by new mexico to the east, utah to the north, nevada and california to the west, and mexico to the south, as well as the southwestern corner of colorado. arizona's border with mexico is 389 miles (626 km) long, on the northern border of the mexican states of sonora and baja california.
+arizona is the 48th state and last of the contiguous states to be admitted to the union, achieving statehood on february 14, 1912, coinciding with valentine's day. historically part of the territory of alta california in new spain, it became part of independent mexico in 1821. after being defeated in the mexican–american war, mexico ceded much of this territory to the united states in 1848. the southernmost portion of the state was acquired in 1853 through the gadsden purchase.
+southern arizona is known for its desert climate, with very hot summers and mild winters. northern arizona features forests of pine, douglas fir, and spruce trees; the colorado plateau; some mountain ranges (such as the san francisco mountains); as well as large, deep canyons, with much more moderate summer temperatures and significant winter snowfalls. there are ski resorts in the areas of flagstaff, alpine, and tucson. in addition to the grand canyon national park, there are several national forests, national parks, and national monuments.
+about one-quarter of the state[7] is made up of indian reservations that serve as the home of 27 federally recognized native american tribes, including the navajo nation, the largest in the state and the united states, with more than 300,000 citizens. although federal law gave all native americans the right to vote in 1924, arizona excluded those living on reservations in the state from voting until the state supreme court ruled in favor of native american plaintiffs in trujillo v. garley (1948).[8][9]
+
+contents
+
+1 etymology
+2 history
+
+2.1 20th century to present
+
+
+3 geography and geology
+
+3.1 earthquakes
+3.2 adjacent states
+
+
+4 climate
+5 demographics
+
+5.1 race and ethnicity
+5.2 languages
+5.3 cities and towns
+5.4 religion
+
+
+6 economy
+
+6.1 employment
+6.2 largest employers
+6.3 taxation
+
+
+7 transportation
+
+7.1 highways
+
+7.1.1 interstate highways
+7.1.2 u.s. routes
+
+
+7.2 public transportation, amtrak, and intercity bus
+7.3 aviation
+
+
+8 law and government
+
+8.1 capitol complex
+8.2 state legislative branch
+8.3 state executive branch
+8.4 state judicial branch
+8.5 counties
+8.6 federal representation
+8.7 political culture
+8.8 same-sex marriage and civil unions
+
+
+9 education
+
+9.1 elementary and secondary education
+9.2 higher education
+9.3 public universities in arizona
+9.4 private colleges and universities in arizona
+9.5 community colleges
+
+
+10 art and culture
+
+10.1 visual arts and museums
+10.2 film
+10.3 music
+10.4 sports
+
+10.4.1 college sports
+10.4.2 baseball
+
+
+
+
+11 miscellaneous topics
+
+11.1 notable people
+11.2 state symbols
+
+
+12 see also
+13 notes
+14 references
+15 further reading
+16 external links
+
+
+etymology[edit]
+the state's name appears to originate from an earlier spanish name, arizonac, derived from the o'odham name alĭ ṣonak, meaning "small spring", which initially applied only to an area near the silver mining camp of planchas de plata, sonora.[10][11][12][13] to the european settlers, their pronunciation sounded like "arissona".[14] the area is still known as alĭ ṣonak in the o'odham language.[15] another possible origin is the basque phrase haritz ona ("the good oak"), as there were numerous basque sheepherders in the area.[16][17][18]
+there is a misconception that the state's name originated from the spanish term árida zona ("arid zone").[14]
+
+history[edit]
+this section needs additional citations for verification. please help improve this article by adding citations to reliable sources. unsourced material may be challenged and removed.find sources: "arizona" – news · newspapers · books · scholar · jstor (february 2018) (learn how and when to remove this template message)
+main article: history of arizona
+ the north rim of the grand canyon
+ the south rim of the grand canyon
+for thousands of years before the modern era, arizona was home to numerous native american tribes. hohokam, mogollon and ancestral puebloan cultures were among the many that flourished throughout the state. many of their pueblos, cliffside dwellings, rock paintings and other prehistoric treasures have survived, attracting thousands of tourists each year.
+
+ la conquista del colorado, by augusto ferrer-dalmau, depicts francisco vázquez de coronado's 1540–1542 expedition
+the first european contact by native peoples was with marcos de niza, a spanish franciscan, in 1539. he explored parts of the present state and made contact with native inhabitants, probably the sobaipuri. the expedition of spanish explorer coronado entered the area in 1540–1542 during its search for cíbola. few spanish settlers migrated to arizona. one of the first settlers in arizona was josé romo de vivar.[19]
+father kino was the next european in the region. a member of the society of jesus ("jesuits"), he led the development of a chain of missions in the region. he converted many of the indians to christianity in the pimería alta (now southern arizona and northern sonora) in the 1690s and early 18th century. spain founded presidios ("fortified towns") at tubac in 1752 and tucson in 1775.
+when mexico achieved its independence from the kingdom of spain and its spanish empire in 1821, what is now arizona became part of its territory of nueva california, ("new california"), also known as alta california ("upper california").[20] descendants of ethnic spanish and mestizo settlers from the colonial years still lived in the area at the time of the arrival of later european-american migrants from the united states.
+
+ mexico in 1824. alta california is the northwestern-most state.
+during the mexican–american war (1847–1848), the u.s. army occupied the national capital of mexico city and pursued its claim to much of northern mexico, including what later became arizona territory in 1863 and later the state of arizona in 1912. the treaty of guadalupe hidalgo (1848) specified that, in addition to language and cultural rights of the existing inhabitants of former mexican citizens being considered as inviolable, the sum of us$15 million dollars in compensation (equivalent to $434,365,384.62 in 2018.) be paid to the republic of mexico.[21] in 1853, the u.s. acquired the land south below the gila river from mexico in the gadsden purchase along the southern border area as encompassing the best future southern route for a transcontinental railway.
+what is now known as the state of arizona was initially administered by the united states government as part of the territory of new mexico until the southern part of that region seceded from the union to form the territory of arizona.[22] this newly established territory was formally organized by the confederate states government on saturday, january 18, 1862, when president jefferson davis approved and signed an act to organize the territory of arizona,[23] marking the first official use of the name "territory of arizona". the southern territory supplied the confederate government with men, horses, and equipment. formed in 1862, arizona scout companies served with the confederate states army during the civil war. arizona has the westernmost military engagement on record during the civil war with the battle of picacho pass.
+
+ geronimo (far right) and his apache warriors fought against both mexican and american settlers.
+the federal government declared a new u.s. arizona territory, consisting of the western half of earlier new mexico territory, in washington, d.c., on february 24, 1863. these new boundaries would later form the basis of the state. the first territorial capital, prescott, was founded in 1864 following a gold rush to central arizona.[24] the capital was later moved to tucson, back to prescott, and then to its final location in phoenix in a series of controversial moves as different regions of the territory gained and lost political influence with the growth and development of the territory.[25]
+although names including "gadsonia," "pimeria," "montezuma" and "arizuma" had been considered for the territory,[26] when 16th president abraham lincoln signed the final bill, it read "arizona," and that name was adopted. (montezuma was not derived from the aztec emperor, but was the sacred name of a divine hero to the pima people of the gila river valley. it was probably considered—and rejected—for its sentimental value before congress settled on the name "arizona.")
+brigham young, patriarchal leader of the church of jesus christ of latter-day saints in salt lake city in utah, sent mormons to arizona in the mid- to late 19th century. they founded mesa, snowflake, heber, safford, and other towns. they also settled in the phoenix valley (or "valley of the sun"), tempe, prescott, and other areas. the mormons settled what became northern arizona and northern new mexico. at the time these areas were located in a part of the former new mexico territory.
+
+ children of depression-era migrant workers, pinal county, 1937
+20th century to present[edit]
+during the mexican revolution from 1910 to 1920, several battles were fought in the mexican towns just across the border from arizona settlements. throughout the revolution, numerous arizonans enlisted in one of the several armies fighting in mexico. only two significant engagements took place on u.s. soil between u.s. and mexican forces: pancho villa's 1916 columbus raid in new mexico, and the battle of ambos nogales in 1918 in arizona. the americans won the latter.
+after u.s. soldiers were fired on by mexican federal troops, the american garrison launched an assault into nogales, mexico. the mexicans eventually surrendered after both sides sustained heavy casualties. a few months earlier, just west of nogales, an indian war battle had occurred, considered the last engagement in the american indian wars, which lasted from 1775 to 1918. u.s. soldiers stationed on the border confronted yaqui indians who were using arizona as a base to raid the nearby mexican settlements, as part of their wars against mexico.
+arizona became a u.s. state on february 14, 1912. arizona was the 48th state admitted to the u.s. and the last of the contiguous states to be admitted.
+
+ eleanor roosevelt at the gila river relocation center, april 23, 1943
+cotton farming and copper mining, two of arizona's most important statewide industries, suffered heavily during the great depression. but during the 1920s and even the 1930s, tourism began to develop as the important arizonan industry it is today. dude ranches, such as the k l bar and remuda in wickenburg, along with the flying v and tanque verde in tucson, gave tourists the chance to take part in the flavor and activities of the "old west." several upscale hotels and resorts opened during this period, some of which are still top tourist draws. they include the arizona biltmore hotel in central phoenix (opened 1929) and the wigwam resort on the west side of the phoenix area (opened 1936).
+arizona was the site of german pow camps during world war ii and japanese-american internment camps. because of wartime fears of japanese invasion of the west coast, the government authorized the removal of all japanese-american residents from western washington, western oregon, all of california, and western arizona. from 1942 to 1945, they were forced to reside in internment camps built in the interior of the country. many lost their homes and businesses in the process. the camps were abolished after world war ii.
+the phoenix-area german p.o.w. site was purchased after the war by the maytag family (of major home appliance fame). it was developed as the site of the phoenix zoo. a japanese-american internment camp was located on mount lemmon, just outside the state's southeastern city of tucson. another pow camp was located near the gila river in eastern yuma county.
+arizona was also home to the phoenix indian school, one of several federal indian boarding schools designed to assimilate native american children into mainstream european-american culture. children were often enrolled into these schools against the wishes of their parents and families. attempts to suppress native identities included forcing the children to cut their hair, to take and use english names, to speak only english, and to practice christianity rather than their native religions.[27]
+numerous native americans from arizona fought for the united states during world war ii. their experiences resulted in a rising activism in the postwar years to achieve better treatment and civil rights after their return to the state. after maricopa county did not allow them to register to vote, in 1948 veteran frank harrison and harry austin, of the mojave-apache tribe at fort mcdowell indian reservation, brought a legal suit, harrison and austin v. laveen, to challenge this exclusion. the arizona supreme court ruled in their favor.[9]
+arizona's population grew tremendously with residential and business development after world war ii, aided by the widespread use of air conditioning, which made the intensely hot summers more comfortable. according to the arizona blue book (published by the arizona secretary of state's office each year), the state population in 1910 was 294,353. by 1970, it was 1,752,122. the percentage growth each decade averaged about 20% in the earlier decades, and about 60% each decade thereafter.
+in the 1960s, retirement communities were developed. these were special age-restricted subdivisions catering exclusively to the needs of senior citizens; they attracted many retirees who wanted to escape the harsh winters of the midwest and the northeast. sun city, established by developer del webb and opened in 1960, was one of the first such communities. green valley, south of tucson, was another such community, designed as a retirement subdivision for arizona's teachers. many senior citizens from across the u.s. and canada come to arizona each winter and stay only during the winter months; they are referred to as snowbirds.
+in march 2000, arizona was the site of the first legally binding election ever held over the internet to nominate a candidate for public office.[28] in the 2000 arizona democratic primary, under worldwide attention, al gore defeated bill bradley. voter turnout in this state primary increased more than 500% over the 1996 primary.
+three ships named uss arizona have been christened in honor of the state, although only uss arizona (bb-39) was so named after statehood was achieved.
+
+geography and geology[edit]
+main article: geography of arizona
+ köppen climate types of arizona
+ the horseshoe bend of the colorado river
+ west mitten at monument valley
+ blue mesa at petrified forest national park
+ the grand canyon
+ the san francisco peaks seen from bellemont
+ sonoran desert at saguaro national park
+ cathedral rock near red rock crossing in sedona
+see also lists of counties, islands, rivers, lakes, state parks, national parks, national forests, and volcanic craters.
+arizona is in the southwestern united states as one of the four corners states. arizona is the sixth largest state by area, ranked after new mexico and before nevada. of the state's 113,998 square miles (295,000 km2), approximately 15% is privately owned. the remaining area is public forest and park land, state trust land and native american reservations.
+arizona is well known for its desert basin and range region in the state's southern portions, which is rich in a landscape of xerophyte plants such as the cactus. this region's topography was shaped by prehistoric volcanism, followed by the cooling-off and related subsidence. its climate has exceptionally hot summers and mild winters. the state is less well known for its pine-covered north-central portion of the high country of the colorado plateau (see arizona mountains forests).
+like other states of the southwest united states, arizona has an abundance of mountains and plateaus. despite the state's aridity, 27% of arizona is forest,[29] a percentage comparable to modern-day france or germany[citation needed]. the world's largest stand of ponderosa pine trees is in arizona.[30]
+the mogollon rim, a 1,998-foot (609 m) escarpment, cuts across the state's central section and marks the southwestern edge of the colorado plateau. in 2002, this was an area of the rodeo–chediski fire, the worst fire in state history.
+located in northern arizona, the grand canyon is a colorful, deep, steep-sided gorge, carved by the colorado river. the canyon is one of the seven natural wonders of the world and is largely contained in the grand canyon national park—one of the first national parks in the united states. president theodore roosevelt was a major proponent of designating the grand canyon area as a national park, often visiting to hunt mountain lion and enjoy the scenery. the canyon was created by the colorado river cutting a channel over millions of years, and is about 277 miles (446 km) long, ranges in width from 4 to 18 miles (6 to 29 km) and attains a depth of more than 1 mile (1.6 km). nearly two billion years of the earth's history have been exposed as the colorado river and its tributaries cut through layer after layer of sediment as the colorado plateau uplifted.
+arizona is home to one of the most well-preserved meteorite impact sites in the world. created around 50,000 years ago, the barringer meteorite crater (better known simply as "meteor crater") is a gigantic hole in the middle of the high plains of the colorado plateau, about 25 miles (40 km) west of winslow. a rim of smashed and jumbled boulders, some of them the size of small houses, rises 150 feet (46 m) above the level of the surrounding plain. the crater itself is nearly 1 mile (1.6 kilometers) wide, and 570 feet (170 m) deep.
+arizona is one of two u.s. states that does not observe daylight saving time (the other being hawaii). the exception is within the large navajo nation (which observes daylight saving time), in the state's northeastern region.
+
+earthquakes[edit]
+generally, arizona is at low risk of earthquakes, except for the southwestern portion which is at moderate risk due to its proximity to southern california. on the other hand, northern arizona is at moderate risk due to numerous faults in the area. the regions near and west of phoenix have the lowest risk.[31]
+the earliest arizona earthquakes were recorded at fort yuma, on the california side of the colorado river. they were centered near the imperial valley, or mexico, back in the 1800s. residents in douglas felt the 1887 sonora earthquake with its epicenter 40 miles to the south in the mexican state of sonora.[32] the first damaging earthquake known to be centered within arizona occurred on january 25, 1906, also including a series of other earthquakes centered near socorro, new mexico. the shock was violent in flagstaff.
+in september 1910, a series of 52 earthquakes caused a construction crew near flagstaff to leave the area. in 1912, the year arizona achieved statehood, on august 18, an earthquake caused a 50-mile crack in the san francisco range. in early january 1935, the state experienced a series of earthquakes, in the yuma area and near the grand canyon. arizona experienced its largest earthquake in 1959, with a tremor of a magnitude 5.6. it was centered near fredonia, in the state's northwest near the border with utah. the tremor was felt across the border in nevada and utah.[32]
+
+adjacent states[edit]
+utah (north)
+colorado (northeast)
+nevada (northwest)
+sonora, mexico (south)
+baja california, mexico (southwest)
+new mexico (east)
+california (west)
+climate[edit]
+due to its large area and variations in elevation, the state has a wide variety of localized climate conditions. in the lower elevations, the climate is primarily desert, with mild winters and extremely hot summers. typically, from late fall to early spring, the weather is mild, averaging a minimum of 60 °f (16 °c). november through february are the coldest months, with temperatures typically ranging from 40 to 75 °f (4 to 24 °c), with occasional frosts.[33]
+about midway through february, the temperatures start to rise, with warm days, and cool, breezy nights. the summer months of june through september bring a dry heat from 90 to 120 °f (32 to 49 °c), with occasional high temperatures exceeding 125 °f (52 °c) having been observed in the desert area.[33] arizona's all-time record high is 128 °f (53 °c) recorded at lake havasu city on june 29, 1994, and july 5, 2007; the all-time record low of −40 °f (−40 °c) was recorded at hawley lake on january 7, 1971.
+due to the primarily dry climate, large diurnal temperature variations occur in less-developed areas of the desert above 2,500 ft (760 m). the swings can be as large as 83 °f (46 °c) in the summer months. in the state's urban centers, the effects of local warming result in much higher measured night-time lows than in the recent past.
+arizona has an average annual rainfall of 12.7 in (323 mm),[34] which comes during two rainy seasons, with cold fronts coming from the pacific ocean during the winter and a monsoon in the summer.[35] the monsoon season occurs toward the end of summer. in july or august, the dewpoint rises dramatically for a brief period. during this time, the air contains large amounts of water vapor. dewpoints as high as 81 °f (27 °c)[36] have been recorded during the phoenix monsoon season. this hot moisture brings lightning, thunderstorms, wind, and torrential, if usually brief, downpours. these downpours often cause flash floods, which can turn deadly. in an attempt to deter drivers from crossing flooding streams, the arizona legislature enacted the stupid motorist law. it is rare for tornadoes or hurricanes to occur in arizona.
+arizona's northern third is a plateau at significantly higher altitudes than the lower desert, and has an appreciably cooler climate, with cold winters and mild summers, though the climate remains semiarid to arid. extremely cold temperatures are not unknown; cold air systems from the northern states and canada occasionally push into the state, bringing temperatures below 0 °f (−18 °c) to the state's northern parts.
+indicative of the variation in climate, arizona is the state which has both the metropolitan area with the most days over 100 °f (38 °c) (phoenix), and the metropolitan area in the lower 48 states with the most days with a low temperature below freezing (flagstaff).[37]
+
+
+average daily maximum and minimum temperatures for selected cities in arizona[38]
+
+
+location
+
+july (°f)
+
+july (°c)
+
+december (°f)
+
+december (°c)
+
+
+phoenix
+106/83
+41/28
+66/45
+19/7
+
+
+tucson
+100/74
+38/23
+65/39
+18/4
+
+
+yuma
+107/82
+42/28
+68/46
+20/8
+
+
+flagstaff
+81/51
+27/11
+42/17
+6/–8
+
+
+prescott
+89/60
+32/16
+51/23
+11/–5
+
+
+kingman
+98/66
+37/19
+56/32
+13/0
+
+demographics[edit]
+main article: demographics of arizona
+ a population density map of arizona
+
+
+historical population
+
+
+census
+pop.
+
+%±
+18606,482—18709,65849.0%188040,440318.7%189088,243118.2%1900122,93139.3%1910204,35466.2%1920334,16263.5%1930435,57330.3%1940499,26114.6%1950749,58750.1%19601,302,16173.7%19701,745,94434.1%19802,718,21555.7%19903,665,22834.8%20005,130,63240.0%20106,392,01724.6%est. 20187,171,64612.2%sources: 1910–2010[39]2018 estimate[40]note that early censusesmay not includenative americans in arizona
+
+the united states census bureau estimates that the population of arizona was 7,171,646 on july 1, 2018, a 12.20% increase since the 2010 united states census.[40]
+arizona remained sparsely settled for most of the 19th century.[41] the 1860 census reported the population of "arizona county" to be 6,482, of whom 4,040 were listed as "indians", 21 as "free colored", and 2,421 as "white".[42][43] arizona's continued population growth puts an enormous stress on the state's water supply.[44] as of  2011[update], 61.3% of arizona's children under the age of 1 belonged to minority groups.[45]
+the population of metropolitan phoenix increased by 45.3% from 1991 through 2001, helping to make arizona the second fastest-growing state in the u.s. in the 1990s (the fastest was nevada).[46] as of  july 2017[update], the population of the phoenix area is estimated to be over 4.7 million.
+according to the 2010 united states census, arizona had a population of 6,392,017. in 2010, illegal immigrants constituted an estimated 7.9% of the population. this was the second highest percentage of any state in the u.s.[47][48]
+metropolitan phoenix (4.7 million) and tucson (1 million) are home to about five-sixths of arizona's people (as of the 2010 census). metro phoenix alone accounts for two-thirds of the state's population.
+
+race and ethnicity[edit]
+in 1980, the census bureau reported arizona's population as 16.2% hispanic, 5.6% native american, and 74.5% non-hispanic white.[49] in 2010, the racial makeup of the state was:
+
+73.0% white
+4.6% native american and alaska native
+4.1% black or african american
+2.8% asian
+0.2% native hawaiian and other pacific islander
+11.9% from some other race
+3.4% from two or more races.
+hispanics or latinos of any race made up 29.6% of the state's population. non-hispanic whites formed 57.8% of the total population.[50]
+
+
+arizona racial breakdown of population
+
+
+racial composition
+1970[51]
+1990[51]
+2000[52]
+2010[53]
+
+
+white
+90.6%
+80.8%
+75.5%
+73.0%
+
+
+native
+5.4%
+5.5%
+5.0%
+4.6%
+
+
+black
+3.0%
+3.0%
+3.1%
+4.1%
+
+
+asian
+0.5%
+1.5%
+1.8%
+2.8%
+
+
+native hawaiian and other pacific islander
+–
+–
+0.1%
+0.2%
+
+
+other race
+0.5%
+9.1%
+11.6%
+11.9%
+
+
+two or more races
+–
+–
+2.9%
+3.4%
+
+arizona's five largest ancestry groups, as of  2009[update], were:[54]
+
+mexican (27.4%);
+german (16.0%);
+irish (10.8%);
+english (10.1%);
+italian (4.6%).
+languages[edit]
+
+top 10 non-english languages spoken in arizona
+
+
+language
+percentage of population(as of 2010)[55]
+
+
+spanish
+20.80%
+
+
+navajo
+1.48%
+
+
+german
+0.39%
+
+
+chinese (including mandarin)
+0.39%
+
+
+tagalog
+0.33%
+
+
+vietnamese
+0.30%
+
+
+other north american indigenous languages (especially indigenous languages of arizona)
+0.27%
+
+
+french
+0.26%
+
+
+arabic
+0.24%
+
+
+apache
+0.18%
+
+
+korean
+0.17%
+
+ extent of the spanish language in the state of arizona
+as of  2010[update], 72.90% (4,215,749) of arizona residents age 5 and older spoke english at home as a primary language, while 20.80% (1,202,638) spoke spanish, 1.48% (85,602) navajo, 0.39% (22,592) german, 0.39% (22,426) chinese (which includes mandarin), 0.33% (19,015) tagalog, 0.30% (17,603) vietnamese, 0.27% (15,707) other north american indigenous languages (especially indigenous languages of arizona), and french was spoken as a main language by 0.26% (15,062) of the population over the age of five. in total, 27.10% (1,567,548) of arizona's population age 5 and older spoke a mother language other than english.[55]
+arizona is home to the largest number of speakers of native american languages in the 48 contiguous states, as over 85,000 individuals reported speaking navajo,[56] and 10,403 people reported apache, as a language spoken at home in 2005.[56] arizona's apache county has the highest concentration of speakers of native american indian languages in the united states.[57]
+
+cities and towns[edit]
+ view of suburban development in scottsdale, 2006
+ art deco doors of the cochise county courthouse in bisbee
+see also: list of places in arizona, list of cities and towns in arizona, and list of arizona counties
+phoenix, located in maricopa county, is the capital and the largest city in arizona. other prominent cities in the phoenix metro area include mesa (the third largest city in arizona), chandler (the fourth largest city in arizona), glendale, peoria, buckeye, sun city, sun city west, fountain hills, surprise, gilbert, el mirage, avondale, tempe, tolleson and scottsdale, with a total metropolitan population of just over 4.7 million.[58] the average high temperature in july, 106 °f (41 °c), is one of the highest of any metropolitan area in the united states, offset by an average january high temperature of 67 °f (19 °c), the basis of its winter appeal.
+tucson, with a metro population of just over one million, is the state's second-largest city. it is located in pima county, approximately 110 miles (180 km) southeast of phoenix. tucson was incorporated in 1877, making it the oldest incorporated city in arizona. it is home to the university of arizona. major incorporated suburbs of tucson include oro valley and marana northwest of the city, sahuarita south of the city, and south tucson in an enclave south of downtown. it has an average july temperature of 100 °f (38 °c) and winter temperatures averaging 65 °f (18 °c). saguaro national park, just west of the city in the tucson mountains, is the locale of the largest collection of saguaro cacti in the world.
+the prescott metropolitan area includes the cities of prescott, cottonwood, camp verde and numerous other towns spread out over the 8,123 square miles (21,000 km2) of yavapai county area. with 212,635 residents, this cluster of towns forms the third largest metropolitan area in the state. the city of prescott (population 41,528) lies approximately 100 miles (160 km) northwest of the phoenix metropolitan area. situated in pine tree forests at an elevation of about 5,500 feet (1,700 m), prescott enjoys a much cooler climate than phoenix, with average summer highs around 88 °f (31 °c) and winter temperatures averaging 50 °f (10 °c).
+yuma is center of the fourth-largest metropolitan area in arizona. located in yuma county, it is near the borders of california and mexico. it is one of the hottest cities in the united states, with an average july high of 107 °f (42 °c). (the same month's average in death valley is 115 °f (46 °c).) the city features sunny days about 90% of the year. the yuma metropolitan statistical area has a population of 160,000. yuma attracts many winter visitors from all over the united states.
+flagstaff, in coconino county, is the largest city in northern arizona, and is at an elevation of nearly 7,000 feet (2,100 m). with its large ponderosa pine forests, snowy winter weather and picturesque mountains, it is a stark contrast to the desert regions typically associated with arizona. it is sited at the base of the san francisco peaks, the highest mountain range in the state of arizona, which contain humphreys peak, the highest point in arizona at 12,633 feet (3,851 m). flagstaff has a strong tourism sector, due to its proximity to numerous tourist attractions including: grand canyon national park, sedona, and oak creek canyon. historic u.s. route 66 is the main east-west street in the town. the flagstaff metropolitan area is home to 134,421 residents and the main campus of northern arizona university.
+lake havasu city, in mohave county, known as "arizona's playground," was developed on the colorado river and is named after lake havasu. lake havasu city has a population of about 53,000 people. it is famous for huge spring break parties, sunsets and the london bridge, relocated from london, england. lake havasu city was founded by real estate developer robert p. mcculloch in 1963.[59] it has two colleges, mohave community college and asu colleges in lake havasu city.[60]
+
+
+
+ vte largest cities or towns in arizonasource:[61]
+
+
+
+rank
+
+name
+
+county
+
+pop.
+
+rank
+
+name
+
+county
+
+pop.
+
+
+
+phoenixtucson
+
+1
+phoenix
+maricopa
+1,626,078
+11
+yuma
+yuma
+95,502
+
+mesachandler
+
+
+2
+tucson
+pima
+535,677
+12
+san tan valley
+pinal
+93,000
+
+
+3
+mesa
+maricopa
+496,401
+13
+avondale
+maricopa
+84,025
+
+
+4
+chandler
+maricopa
+253,458
+14
+goodyear
+maricopa
+79,858
+
+
+5
+scottsdale
+maricopa
+249,950
+15
+casas adobes
+pima
+74,000
+
+
+6
+glendale
+maricopa
+246,709
+16
+flagstaff
+coconino
+71,975
+
+
+7
+gilbert
+maricopa
+242,354
+17
+buckeye
+maricopa
+68,453
+
+
+8
+tempe
+maricopa
+185,038
+18
+casa grande
+pinal
+55,477
+
+
+9
+peoria
+maricopa
+168,181
+19
+lake havasu city
+mohave
+54,411
+
+
+10
+surprise
+maricopa
+134,085
+20
+catalina foothills
+pima
+54,000
+
+
+religion[edit]
+ the spanish mission of san xavier del bac, founded in 1700
+
+
+
+religion in arizona (2014)[62]
+
+religion
+
+
+percent
+
+
+
+protestant
+ 
+39%
+
+
+none
+ 
+27%
+
+
+catholic
+ 
+21%
+
+
+mormon
+ 
+5%
+
+
+jewish
+ 
+2%
+
+
+jehovah's witness
+ 
+1%
+
+
+hindu
+ 
+1%
+
+
+buddhist
+ 
+1%
+
+
+muslim
+ 
+1%
+
+
+other
+ 
+2%
+
+
+
+
+as of the year 2010, the association of religion data archives reported that the three largest denominational groups in arizona were the catholic church, the church of jesus christ of latter-day saints and non-denominational evangelical protestants. the catholic church has the highest number of adherents in arizona (at 930,001), followed by the church of jesus christ of latter-day saints with 410,263 members reported[63] and then non-denominational evangelical protestants, reporting 281,105 adherents.[64] the religious body with the largest number of congregations is the church of jesus christ of latter-day saints (with 836 congregations[65]) followed by the southern baptist convention (with 323 congregations).
+according to the association of religion data archives, the fifteen largest denominations by number of adherents in 2010 and 2000 were:[66][67]
+
+
+
+religion
+
+2010 population
+
+2000 population
+
+
+catholic church
+
+930,001
+
+974,884
+
+
+the church of jesus christ of latter-day saints
+
+410,263
+
+251,974
+
+
+non-denominational christian
+
+281,105
+
+63,885[nb 1]
+
+
+southern baptist convention
+
+126,830
+
+138,516
+
+
+assemblies of god
+
+123,713
+
+82,802
+
+
+united methodist church
+
+54,977
+
+53,232
+
+
+christian churches and churches of christ
+
+48,386
+
+33,162
+
+
+evangelical lutheran church in america
+
+42,944
+
+69,393
+
+
+lutheran church–missouri synod
+
+26,322
+
+24,977
+
+
+presbyterian church (u.s.a.)
+
+26,078
+
+33,554
+
+
+episcopal church (united states)
+
+24,853
+
+31,104
+
+
+seventh-day adventist church
+
+20,924
+
+11,513
+
+
+church of the nazarene
+
+16,991
+
+18,143
+
+
+lutheran congregations in mission for christ
+
+14,350
+
+0
+
+
+churches of christ
+
+14,151
+
+14,471
+
+regarding non-christian denominations, hinduism became the largest non-christian religion (when combining all denominations) in 2010, with over 32,000 adherents in several denominations, followed by judaism with over 20,000 in three denominations, and buddhism with over 19,000 adherents in several denominations.[66][68][69]
+
+economy[edit]
+ arizona's meteor crater is a tourist attraction.
+see also: arizona locations by per capita income
+the 2011 total gross state product was $259 billion. this figure gives arizona a larger economy than such countries as ireland, finland, and new zealand. the composition of the state's economy is moderately diverse; although health care, transportation and the government remain the largest sectors.
+the state's per capita income is $40,828, ranking 39th in the u.s. the state had a median household income of $50,448, making it 22nd in the country and just below the u.s. national mean.[70] early in its history, arizona's economy relied on the "five c's": copper (see copper mining in arizona), cotton, cattle, citrus, and climate (tourism). copper is still extensively mined from many expansive open-pit and underground mines, accounting for two-thirds of the nation's output.
+
+employment[edit]
+the state government is arizona's largest employer, while banner health is the state's largest private employer, with over 39,000 employees (2016). as of  march 2016[update], the state's unemployment rate was 5.4%.[71]
+the top employment sectors in arizona are (august 2014, excludes agriculture):
+
+
+
+sector
+employees (thousands)
+
+
+trade, transportation, and utilities
+488.6
+
+
+government
+408.5
+
+
+education and health services
+392.1
+
+
+professional and business services
+384.2
+
+
+leisure and hospitality
+286.4
+
+
+financial activities
+193.2
+
+
+manufacturing
+156.0
+
+
+construction
+118.2
+
+
+other services
+88.2
+
+
+information
+41.8
+
+
+mining and logging
+13.7
+
+largest employers[edit]
+according to the arizona republic, the largest private employers in the state as of  2016[update] were:[72]
+
+
+
+rank
+
+company
+
+employees
+
+industry
+
+
+1
+
+banner health
+
+39,781
+
+health care
+
+
+2
+
+walmart stores, inc.
+
+34,856
+
+discount retailer
+
+
+3
+
+kroger co.
+
+16,856
+
+grocery stores
+
+
+4
+
+mcdonald's corp.
+
+15,781
+
+food service
+
+
+5
+
+wells fargo & co.
+
+15,071
+
+financial services
+
+
+6
+
+albertsons inc.
+
+14,490
+
+grocery stores, retail drugstores
+
+
+7
+
+intel corp.
+
+11,300
+
+semiconductor manufacturing
+
+
+8
+
+honorhealth
+
+10,600
+
+health care
+
+
+9 (tie)
+
+american airlines
+
+10,000
+
+airline
+
+
+home depot inc.
+
+10,000
+
+retail home improvement
+
+
+honeywell international inc.
+
+10,000
+
+aerospace manufacturing
+
+
+12
+
+bank of america corp.
+
+9,800
+
+financial services
+
+
+13
+
+raytheon co.
+
+9,600
+
+defense (missile manufacturing)
+
+
+14
+
+jp morgan chase & co.
+
+9,500
+
+financial services
+
+
+15
+
+bashas' supermarkets
+
+8,525
+
+grocery stores
+
+
+16
+
+target corp.
+
+8,241
+
+discount retailer
+
+
+17
+
+freeport-mcmoran copper & gold inc.
+
+8,030
+
+mining
+
+
+18
+
+dignity health
+
+8,000
+
+health care
+
+
+19
+
+cvs health
+
+7,200
+
+pharmaceutical services (including retail drugstores)
+
+
+20
+
+american express co.
+
+7,079
+
+financial services
+
+
+21
+
+circle k corp.
+
+6,800
+
+convenience stores
+
+
+22
+
+unitedhealthcare
+
+6,000
+
+health care
+
+
+23
+
+pinnacle west capital corp.
+
+6,407
+
+electric utility
+
+
+24
+
+mayo foundation
+
+6,274
+
+health care
+
+
+25
+
+amazon.com
+
+6,000
+
+online shopping
+
+taxation[edit]
+arizona collects personal income taxes in five brackets: 2.59%, 2.88%, 3.36%, 4.24% and 4.54%.[73] the state transaction privilege tax is 5.6%; however, county and municipal sales taxes generally add an additional 2%.
+the state rate on transient lodging (hotel/motel) is 7.27%. the state of arizona does not levy a state tax on food for home consumption or on drugs prescribed by a licensed physician or dentist. however, some cities in arizona do levy a tax on food for home consumption.
+all fifteen arizona counties levy a tax. incorporated municipalities also levy transaction privilege taxes which, with the exception of their hotel/motel tax, are generally in the range of 1-to-3%. these added assessments could push the combined sales tax rate to as high as 10.7%.
+
+
+
+single
+
+tax rate
+
+joint
+
+tax rate
+
+
+0 – $10,000
+
+2.590%
+
+0 – $20,000
+
+2.590%
+
+
+$10,000 – $25,000
+
+2.880%
+
+$20,001 – $50,000
+
+2.880%
+
+
+$25,000 – $50,000
+
+3.360%
+
+$50,001 – $100,000
+
+3.360%
+
+
+$50,000 – $150,001
+
+4.240%
+
+$100,000 – $300,001
+
+4.240%
+
+
+$150,001 +
+
+4.540%
+
+$300,001 +
+
+4.540%
+
+transportation[edit]
+main article: transportation in arizona
+ entering arizona on i-10 from new mexico
+highways[edit]
+interstate highways[edit]
+ i-8 |  i-10 |  future i-11 |  i-15 |  i‑17 |  i‑19 |  i-40
+
+u.s. routes[edit]
+ us 60 |  us 64 |  us 70 |  us 89 |  us 91 |  us 93 |  us 95 |  us 160 |  us 163 |  us 180 |  us 191
+main interstate routes include i-17, and i-19 traveling north-south, i-8, i-10, and i-40, traveling east-west, and a short stretch of i-15 traveling northeast–southwest through the extreme northwestern corner of the state. in addition, the various urban areas are served by complex networks of state routes and highways, such as the loop 101, which is part of phoenix's vast freeway system.
+
+public transportation, amtrak, and intercity bus[edit]
+the phoenix and tucson metropolitan areas are served by public bus transit systems. yuma and flagstaff also have public bus systems. greyhound lines serves phoenix, tucson, flagstaff, yuma, and several smaller communities statewide.
+
+ a navajo man on horseback in monument valley
+a light rail system, called valley metro rail, was completed in december 2008; it connects central phoenix with the nearby cities of mesa and tempe.
+in tucson, the sun link streetcar system travels through the downtown area, connecting the main university of arizona campus with mercado san agustin on the western edge of downtown tucson. sun link, loosely based on the portland streetcar, launched in july 2014.[74]
+amtrak southwest chief route serves the northern part of the state, stopping at winslow, flagstaff, williams and kingman. the texas eagle and sunset limited routes serve south-central arizona, stopping at tucson, maricopa, yuma and benson. phoenix lost amtrak service in 1996 with the discontinuation of the desert wind, and now an amtrak bus runs between phoenix and the station in maricopa.
+
+see also: list of passenger train stations in arizona
+aviation[edit]
+see also: list of airports in arizona
+airports with regularly scheduled commercial flights include: phoenix sky harbor international airport (iata: phx, icao: kphx) in phoenix (the largest airport and the major international airport in the state); tucson international airport (iata: tus, icao: ktus) in tucson; phoenix-mesa gateway airport (iata: aza, icao: kiwa) in mesa; yuma international airport (iata: nyl, icao: knyl) in yuma; prescott municipal airport (prc) in prescott; flagstaff pulliam airport (iata: flg, icao: kflg) in flagstaff, and grand canyon national park airport (iata: gcn, icao: kgcn, faa: gcn), a small, but busy, single-runway facility providing tourist flights, mostly from las vegas. phoenix sky harbor is currently 7th busiest airport in the world in terms of aircraft movements, and 17th for passenger traffic.[75][76]
+other significant airports without regularly scheduled commercial flights include scottsdale municipal airport (iata: scf, icao: ksdl) in scottsdale, and deer valley airport (iata: dvt, icao: kdvt, faa: dvt) home to two flight training academies and the nation's busiest general aviation airport.[77]
+
+law and government[edit]
+main article: government of arizona
+see also: arizona constitution, united states congressional delegations from arizona, list of arizona governors, political party strength in arizona, and arizona revised statutes
+capitol complex[edit]
+ the original arizona state capitol, phoenix
+the state capital of arizona is phoenix. the original capitol building, with its distinctive copper dome, was dedicated in 1901 (construction was completed for $136,000 in 1900), when the area was still a territory. phoenix became the official state capital with arizona's admission to the union in 1912.
+the house of representatives and senate buildings were dedicated in 1960, and an executive office building was dedicated in 1974 (the ninth floor of this building is where the office of the governor is located). the original capitol building was converted into a museum.
+the capitol complex is fronted and highlighted by the richly landscaped wesley bolin memorial plaza, named after wesley bolin, a governor who died in office in the 1970s. numerous monuments and memorials are on the site, including the anchor and signal mast from the uss arizona (one of the u.s. navy ships sunk in pearl harbor) and a granite version of the ten commandments.
+
+state legislative branch[edit]
+the arizona legislature is bicameral (like the legislature of every other state except nebraska) and consists of a thirty-member senate and a 60-member house of representatives. each of the thirty legislative districts has one senator and two representatives. legislators are elected for two-year terms.
+each legislature covers a two-year period. the first session following the general election is known as the first regular session, and the session convening in the second year is known as the second regular session. each regular session begins on the second monday in january and adjourns sine die (terminates for the year) no later than saturday of the week in which the 100th day from the beginning of the regular session falls. the president of the senate and speaker of the house, by rule, may extend the session up to seven additional days. thereafter, the session can only be extended by a majority vote of members present of each house.
+the current majority party is the republican party, which has held power in both houses since 1993.
+arizona state senators and representatives are elected for two-year terms and are limited to four consecutive terms in a chamber, though there is no limit on the total number of terms. when a lawmaker is term-limited from office, it is not uncommon for him or her to run for election in the other chamber.
+the fiscal year 2006–07 general fund budget, approved by the arizona legislature in june 2006, is slightly less than $10 billion. besides the money spent on state agencies, it also includes more than $500 million in income- and property tax cuts, pay raises for government employees, and additional funding for the k–12 education system.
+
+state executive branch[edit]
+
+
+state of arizona elected officials
+
+
+governor
+
+doug ducey (r)
+
+
+secretary of state
+
+katie hobbs (d)
+
+
+attorney general
+
+mark brnovich (r)
+
+
+state treasurer
+
+kimberley yee (r)
+
+
+superintendent of public instruction
+
+kathy hoffman (d)
+
+
+state mine inspector
+
+joe hart (r)
+
+
+corporation commissioner
+
+
+sandra kennedy (d)
+bob burns (r)
+andy tobin (r)
+boyd dunn (r)
+justin olson (r)
+
+arizona's executive branch is headed by a governor, who is elected to a four-year term. the governor may serve any number of terms, though no more than two in a row. arizona is one of the few states that does not maintain a governor's mansion. during office the governors reside within their private residence, and all executive offices are housed in the executive tower at the state capitol. the current governor of arizona is doug ducey (r).
+former governor jan brewer assumed office after janet napolitano had her nomination by barack obama for secretary of homeland security confirmed by the united states senate.[78] arizona has had four female governors, more than any other state.
+other elected executive officials include the secretary of state, state treasurer, state attorney general, superintendent of public instruction, state mine inspector and a five-member corporation commission. all elected officials hold a term of four years, and are limited to two consecutive terms (except the office of the state mine inspector, which is limited to 4 terms[79]).
+arizona is one of five states that do not have a specified lieutenant governor. the secretary of state is the first in line to succeed the governor in the event of death, disability, resignation, or removal from office. the line of succession also includes the attorney general, state treasurer and superintendent of public instruction. since 1977, four secretaries of state and one attorney general have risen to arizona's governorship through these means.
+
+state judicial branch[edit]
+the arizona supreme court is the highest court in arizona. the court currently consists of one chief justice, a vice chief justice, and three associate justices. justices are appointed by the governor from a list recommended by a bipartisan commission, and are re-elected after the initial two years following their appointment. subsequent re-elections occur every six years. the supreme court has appellate jurisdiction in death penalty cases, but almost all other appellate cases go through the arizona court of appeals beforehand. the court has original jurisdiction in a few other circumstances, as outlined in the state constitution. the court may also declare laws unconstitutional, but only while seated en banc. the court meets in the arizona supreme court building at the capitol complex (at the southern end of wesley bolin plaza).
+the arizona court of appeals, further divided into two divisions, is the intermediate court in the state. division one is based in phoenix, consists of sixteen judges, and has jurisdiction in the western and northern regions of the state, along with the greater phoenix area. division two is based in tucson, consists of six judges, and has jurisdiction over the southern regions of the state, including the tucson area. judges are selected in a method similar to the one used for state supreme court justices.
+each county of arizona has a superior court, the size and organization of which are varied and generally depend on the size of the particular county.
+
+counties[edit]
+arizona is divided into political jurisdictions designated as counties. there are 15 counties in the state, ranging in size from 1,238 square miles (3,210 km2) to 18,661 square miles (48,330 km2).
+
+
+
+arizona counties
+
+
+county name
+county seat
+year founded
+2010 population[80]
+percent of total
+area (sq. mi.)
+percent of total
+
+
+apache
+st. johns
+1879
+71,518
+1.12 %
+11,218
+9.84 %
+
+
+cochise
+bisbee
+1881
+131,346
+2.05 %
+6,219
+5.46 %
+
+
+coconino
+flagstaff
+1891
+134,421
+2.10 %
+18,661
+16.37 %
+
+
+gila
+globe
+1881
+53,597
+0.84 %
+4,796
+4.21 %
+
+
+graham
+safford
+1881
+37,220
+0.58 %
+4,641
+4.07 %
+
+
+greenlee
+clifton
+1909
+8,437
+0.13 %
+1,848
+1.62 %
+
+
+la paz
+parker
+1983
+20,489
+0.32 %
+4,513
+3.96 %
+
+
+maricopa
+phoenix
+1871
+3,817,117
+59.72 %
+9,224
+8.09 %
+
+
+mohave
+kingman
+1864
+200,186
+3.13 %
+13,470
+11.82 %
+
+
+navajo
+holbrook
+1895
+107,449
+1.68 %
+9,959
+8.74 %
+
+
+pima
+tucson
+1864
+980,263
+15.34 %
+9,189
+8.06 %
+
+
+pinal
+florence
+1875
+375,770
+5.88 %
+5,374
+4.71 %
+
+
+santa cruz
+nogales
+1899
+47,420
+0.74 %
+1,238
+1.09 %
+
+
+yavapai
+prescott
+1864
+211,033
+3.30 %
+8,128
+7.13 %
+
+
+yuma
+yuma
+1864
+195,751
+3.06 %
+5,519
+4.84 %
+
+
+totals: 15
+
+
+
+6,392,017
+
+
+
+113,997
+
+
+
+federal representation[edit]
+arizona's two united states senators are kyrsten sinema (d) and martha mcsally (r). mcsally was appointed by governor ducey to succeed acting senator jon kyl to fill the spot formerly occupied by the late six-term senior senator john mccain, who died august 25, 2018. senator mcsally, will serve in office until a special election in 2020.
+as of the start of the 115th congress, arizona's representatives in the united states house of representatives are tom o'halleran (d-1), ann kirkpatrick (d-2), raul grijalva (d-3), paul gosar (r-4), andy biggs (r-5), david schweikert (r-6), ruben gallego (d-7), debbie lesko (r-8), and greg stanton (d-9). arizona gained a ninth seat in the house of representatives due to redistricting based on census 2010.
+
+political culture[edit]
+
+presidential elections results
+
+
+year
+
+republican
+
+democratic
+
+
+2016
+
+49.15% 1,240,656
+
+45.35% 1,144,709
+
+
+2012
+
+53.65% 1,233,654
+
+44.59% 1,025,232
+
+
+2008
+
+53.60% 1,230,111
+
+45.12% 1,034,707
+
+
+2004
+
+54.87% 1,104,294
+
+44.40% 893,524
+
+
+2000
+
+50.95% 781,652
+
+44.67% 685,341
+
+
+1996
+
+44.29% 622,073
+
+46.52% 653,288
+
+
+1992
+
+38.47% 572,086
+
+36.52% 543,050
+
+
+1988
+
+59.95% 702,541
+
+38.74% 454,029
+
+
+1984
+
+66.42% 681,416
+
+32.54% 333,854
+
+
+1980
+
+60.61% 529,688
+
+28.24% 246,843
+
+
+1976
+
+56.37% 418,642
+
+39.80% 295,602
+
+
+1972
+
+61.64% 402,812
+
+30.38% 198,540
+
+
+1968
+
+54.78% 266,721
+
+35.02% 170,514
+
+
+1964
+
+50.45% 242,535
+
+49.45% 237,753
+
+
+1960
+
+55.52% 221,241
+
+44.36% 176,781
+
+see also: elections in arizona, political party strength in arizona
+
+ treemap of the popular vote by county, 2016 presidential election
+
+
+voter registration and party enrollment as of  october 28, 2016[update][81]
+
+
+party
+
+number of voters
+
+percentage
+
+
+
+
+republican
+
+1,239,614
+
+34.54%
+
+
+
+
+independent
+
+1,219,297
+
+33.98%
+
+
+
+
+democratic
+
+1,091,323
+
+30.41%
+
+
+
+
+libertarian party
+
+31,358
+
+0.87%
+
+
+
+
+green party
+
+6,894
+
+0.19%
+
+
+total
+
+3,588,466
+
+100%
+
+ party registration by county:   democrat >= 30%   democrat >= 40%   democrat >= 50%   republican >= 30%   republican >= 40%   unaffiliated—<30%
+from statehood through the late 1940s, arizona was primarily dominated by the democratic party. during this time period, the democratic candidate for the presidency carried the state each election, with the only exceptions being the elections of 1920, 1924 and 1928—all three of which were national republican landslides.
+in 1924, congress had passed a law granting citizenship and suffrage to all native americans, some of whom had previously been excluded as members of tribes on reservations. legal interpretations of arizona's constitution prohibited native americans living on reservations from voting, classifying them as being under "guardianship."[9] this interpretation was overturned as being incorrect and unconstitutional in 1948 by the arizona supreme court, following a suit by world war ii indian veterans frank harrison and harry austin, both of the fort mcdowell yavapai nation. the landmark case is harrison and austin v. laveen. after the men were refused the opportunity to register in maricopa county, they filed suit against the registrar. the national congress of american indians, the department of justice, the department of the interior, and the american civil liberties union all filed amicus curiae (friends of the court) briefs in the case. the state supreme court established the rights of native americans to vote in the state; at the time, they comprised about 11% of the population.[9] that year, a similar provision was overturned in new mexico when challenged by another indian veteran in court. these were the only two states that had continued to prohibit native americans from voting.[8][9]
+since the election of dwight d. eisenhower in 1952, the majority of state voters have favored republicans in presidential elections. arizona voted republican in every presidential election from 1952 to 1992, with richard nixon and ronald reagan winning the state by particularly large margins. during this forty-year span, it was the only state not to be carried by a democrat at least once.
+democrat lyndon johnson, in 1964, lost the state by less than 5,000 votes to arizona senator and native barry goldwater. (this was the most closely contested state in what was otherwise a landslide victory for johnson that year.) democrat bill clinton ended this streak in 1996, when he won arizona by a little over two percentage points (clinton had previously come within less than two percent of winning arizona's electoral votes in 1992). since then, the majority of the state has continued to support republican presidential candidates by solid margins.
+since the late 20th century, the republican party has also dominated arizona politics in general. the fast-growing phoenix and tucson suburbs became increasingly friendly to republicans from the 1950s onward. during this time, many "pinto democrats," or conservative democrats from rural areas, became increasingly willing to support republicans at the state and national level. while the state normally supports republicans at the federal level, democrats are often competitive in statewide elections. two of the last five governors have been democrats.
+on march 4, 2008, senator john mccain effectively clinched the republican nomination for 2008, becoming the first presidential nominee from the state since barry goldwater in 1964.
+arizona politics are dominated by a longstanding rivalry between its two largest counties, maricopa and pima—home to phoenix and tucson, respectively. the two counties have almost 75 percent of the state's population and cast almost 80 percent of the state's vote. they also elect a substantial majority of the state legislature.
+maricopa county is home to almost 60 percent of the state's population, and most of the state's elected officials live there. it has voted republican in every presidential election since 1948. this includes the 1964 run of native son barry goldwater; he would not have carried his home state without his 20,000-vote margin in maricopa county. similarly, while mccain won arizona by eight percentage points in 2008, aided by his 130,000-vote margin in maricopa county.
+in contrast, pima county, home to tucson, and most of southern arizona have historically voted more democratic. while tucson's suburbs lean republican, they hold to a somewhat more moderate brand of republicanism than is common in the phoenix area.
+arizona rejected a same-sex marriage ban in a referendum as part of the 2006 elections. arizona was the first state in the nation to do so. same-sex marriage was not recognized in arizona, but this amendment would have denied any legal or financial benefits to unmarried homosexual or heterosexual couples.[82] in 2008, arizona voters passed proposition 102, an amendment to the state constitution to define marriage as a union of one man and one woman. it passed by a more narrow majority than similar votes in a number of other states.[83]
+in 2010, arizona passed sb 1070, called the toughest illegal immigration legislation in the nation. a fierce debate erupted between supporters and detractors of the law.[84]
+the united states supreme court heard arguments march 18, 2013, regarding the validity of the arizona law, which requires individuals to show documents proving u.s. citizenship in order to register to vote in national elections.[85]
+
+same-sex marriage and civil unions[edit]
+in 2006, arizona became the first state in the united states to reject a proposition, prop 107, that would have banned same-sex marriage and civil unions.[86] however, in 2008, arizona voters approved of prop 102, a constitutional amendment that prohibited same-sex marriage but not other unions.[87] prior to same-sex marriage being legal, the city of bisbee became the first jurisdiction in arizona to approve of civil unions.[88] the state's attorney general at the time, tom horne, threatened to sue, but rescinded the threat once bisbee amended the ordinance; bisbee approved of civil unions in 2013.[89] the municipalities of clarkdale, cottonwood, jerome, sedona, and tucson also passed civil unions.[90]
+a november 2011 public policy polling survey found that 44% of arizona voters supported the legalization of same-sex marriage, while 45% opposed it and 12% were not sure. a separate question on the same survey found that 72% of respondents supported legal recognition of same-sex couples, with 40% supporting same-sex marriage, 32% supporting civil unions, 27% opposing all legal recognition and 1% not sure. arizona proposition 102, known by its supporters as the marriage protection amendment, appeared as a legislatively referred constitutional amendment on the november 4, 2008 ballot in arizona, where it was approved: 56.2%–43%. it amended the arizona constitution to define marriage as between one man and one woman.[91]
+on october 17, 2014, arizona attorney general tom horne announced that his office would no longer object to same-sex marriage, in response to a u.s. district court ruling on arizona proposition 102. on that day, each county's clerk of the superior court began to issue same-sex marriage licenses, and arizona became the 31st state to legalize same-sex marriage.
+
+education[edit]
+elementary and secondary education[edit]
+public schools in arizona are separated into about 220 local school districts which operate independently, but are governed in most cases by elected county school superintendents; these are in turn overseen by the arizona state board of education (a division of the arizona department of education) and the state superintendent of public instruction (elected in partisan elections every even-numbered year when there is not a presidential election, for a four-year term). in 2005, a school district redistricting commission was established with the goal of combining and consolidating many of these districts.
+
+higher education[edit]
+ the university of arizona (the mall) located in tucson
+ arizona state university (a biodesign building) located in tempe
+ northern arizona university (the skydome) located in flagstaff
+arizona is served by three public universities: the university of arizona, arizona state university, and northern arizona university. these schools are governed by the arizona board of regents.
+private higher education in arizona is dominated by a large number of for-profit and "chain" (multi-site) universities.[92]
+embry–riddle aeronautical university, prescott and prescott college are arizona's only non-profit four-year private colleges.[93]
+arizona has a wide network of two-year vocational schools and community colleges. these colleges were governed historically by a separate statewide board of directors but, in 2002, the state legislature transferred almost all oversight authority to individual community college districts.[94] the maricopa county community college district includes 11 community colleges throughout maricopa county and is one of the largest in the nation.
+
+public universities in arizona[edit]
+arizona state university, (sun devils) tempe/phoenix/mesa/glendale/lake havasu
+northern arizona university, (lumberjacks) flagstaff/yuma/prescott
+university of arizona, (wildcats) tucson/sierra vista, m.d. college in downtown phoenix and ua agricultural center in yuma/maricopa
+private colleges and universities in arizona[edit]
+
+
+
+american indian college
+carrington college
+argosy university
+arizona christian university
+art center college of design
+art institute of tucson
+art institute of phoenix
+a.t. still university
+brookline college
+brown mackie college
+collins college
+embry-riddle aeronautical university
+grand canyon university
+international baptist college
+
+
+midwestern university
+northcentral university
+ottawa university
+university of phoenix
+penn foster college[95]
+phoenix school of law
+prescott college
+southwest college of naturopathic medicine
+thunderbird school of global management
+university of advancing technology
+western governors university
+western international university
+
+community colleges[edit]
+
+
+
+arizona western college
+central arizona college
+cochise college
+coconino community college
+diné college
+eastern arizona college
+chandler-gilbert community college
+estrella mountain community college
+gateway community college
+glendale community college
+
+
+maricopa county community college district
+mesa community college
+mohave community college
+northland pioneer college
+paradise valley community college
+phoenix college
+pima community college
+rio salado community college
+scottsdale community college
+south mountain community college
+yavapai college
+
+art and culture[edit]
+visual arts and museums[edit]
+see also: list of museums in arizona
+phoenix art museum, located on the historic central avenue corridor in phoenix, is the southwest's largest collection of visual art from across the world. the museum displays international exhibitions alongside the museum's collection of more than 18,000 works of american, asian, european, latin american, western american, modern and contemporary art, and fashion design. with a community education mandate since 1951, phoenix art museum holds a year-round program of festivals, live performances, independent art films and educational programs. the museum also has phxartkids, an interactive space for children; photography exhibitions through the museum's partnership with the center for creative photography; the landscaped sculpture garden and dining at arcadia farms.
+arizona is a recognized center of native american art, with a number of galleries showcasing historical and contemporary works. the heard museum, also located in phoenix, is a major repository of native american art. some of the signature exhibits include a full navajo hogan, the mareen allen nichols collection containing 260 pieces of contemporary jewelry, the barry goldwater collection of 437 historic hopi kachina dolls, and an exhibit on the 19th century boarding school experiences of native americans. the heard museum has about 250,000 visitors a year.
+sedona, jerome, and tubac are known as a budding artist colonies, and small arts scenes exist in the larger cities and near the state universities.
+
+film[edit]
+see also: list of films shot in arizona
+ view of monument valley from john ford's point
+several major hollywood films, such as billy jack, u turn, waiting to exhale, just one of the guys, can't buy me love, bill & ted's excellent adventure, the scorpion king, the banger sisters, used cars, and raising arizona have been made there (as have many westerns). the 1993 science fiction movie fire in the sky, based on a reported alien abduction in the town of snowflake, was set in snowflake. it was filmed in the oregon towns of oakland, roseburg, and sutherlin.
+the 1974 film alice doesn't live here anymore, for which ellen burstyn won the academy award for best actress, and also starring kris kristofferson, was set in tucson. the climax of the 1977 clint eastwood film the gauntlet takes place in downtown phoenix. the final segments of the 1984 film starman take place at meteor crater outside winslow. the jeff foxworthy comedy documentary movie blue collar comedy tour was filmed almost entirely at the dodge theatre. some of alfred hitchcock's classic film psycho was shot in phoenix, the ostensible home town of the main character.
+some of the television shows filmed or set in arizona include the new dick van dyke show, medium, alice, the first 48, insomniac with dave attell, cops, and america's most wanted. the tv sitcom alice, which was based on the movie was set in phoenix. twilight had passages set in phoenix at the beginning and the end of the film.
+
+music[edit]
+main article: music of arizona
+arizona is prominently featured in the lyrics of many country and western songs, such as jamie o'neal's hit ballad "there is no arizona". george strait's "oceanfront property" uses "ocean front property in arizona" as a metaphor for a sucker proposition. the line "see you down in arizona bay" is used in a tool song in reference to the possibility (expressed as a hope by comedian bill hicks) that southern california will one day fall into the ocean. glen campbell, a notable resident, popularized the song "by the time i get to phoenix".
+
+ standin' on the corner park and mural in winslow, arizona
+"arizona" was the title of a popular song recorded by mark lindsay. arizona is mentioned by the hit song "take it easy", written by jackson browne and glenn frey and performed by the eagles. arizona is also mentioned in the beatles' song "get back", credited to john lennon and paul mccartney; mccartney sings: "jojo left his home in tucson, arizona, for some california grass." "carefree highway", released in 1974 by gordon lightfoot, takes its name from arizona state route 74 north of phoenix.[96]
+arizona's budding music scene is helped by emerging bands, as well as some well-known artists. the gin blossoms, chronic future, roger clyne and the peacemakers, jimmy eat world, caroline's spine, and others began their careers in arizona. also, a number of punk and rock bands got their start in arizona, including jfa, the feederz, sun city girls, the meat puppets, the maine, the summer set, and more recently authority zero and digital summer.
+arizona also has many singers and other musicians. singer, songwriter and guitarist michelle branch is from sedona. the late chester bennington, the former lead vocalist of linkin park, and mash-up artist dj z-trip are both from phoenix. one of arizona's better known musicians is shock rocker alice cooper, who helped define the genre. maynard james keenan, the lead singer of the bands tool, a perfect circle, and puscifer, calls the town of cornville his current home.
+other notable singers include country singers dierks bentley and marty robbins, folk singer katie lee, fleetwood mac's stevie nicks, cece peniston, rex allen, 2007 american idol winner jordin sparks, and linda ronstadt.
+arizona is also known for its heavy metal scene, which is centered in and around phoenix. in the early to mid-1990s, it included bands such as job for a cowboy, knights of the abyss, greeley estates, eyes set to kill, blessthefall, the word alive, the dead rabbitts, and abigail williams. the band soulfly calls phoenix home and megadeth lived in phoenix for about a decade. beginning in and around 2009, phoenix began to host a burgeoning
+desert rock and sludge metal underground, (ala' kyuss in 1990s california) led by bands like wolves of winter, asimov and dead canyon.
+american composer elliott carter composed his first string quartet (1950–51) while on sabbatical (from new york) in arizona. the quartet won a pulitzer prize and other awards and is now a staple of the string quartet repertoire.[citation needed]
+
+sports[edit]
+main article: sports in arizona
+professional sports teams in arizona include:
+
+
+
+club
+
+sport
+
+league
+
+championships
+
+
+arizona cardinals
+
+american football
+
+national football league
+
+2 (1925, 1947)
+
+
+arizona hotshots
+
+american football
+
+alliance of american football
+
+0
+
+
+phoenix suns
+
+basketball
+
+national basketball association
+
+0
+
+
+arizona diamondbacks
+
+baseball
+
+major league baseball
+
+1 (2001)
+
+
+arizona coyotes
+
+ice hockey
+
+national hockey league
+
+0
+
+
+arizona rattlers
+
+indoor football
+
+indoor football league
+
+6 (1994, 1997, 2012, 2013, 2014, 2017)
+
+
+phoenix rising fc
+
+soccer
+
+united soccer league
+
+0
+
+
+phoenix mercury
+
+basketball
+
+women's national basketball association
+
+3 (2007, 2009, 2014)
+
+
+tucson roadrunners
+
+ice hockey
+
+american hockey league
+
+0
+
+
+northern arizona suns
+
+basketball
+
+nba g league
+
+1
+
+the university of phoenix stadium hosted super bowl xlii on february 3, 2008, and super bowl xlix on february 1, 2015.
+due to its numerous golf courses, arizona is home to several stops on the pga tour, most notably the phoenix open, held at the tpc of scottsdale, and the wgc-accenture match play championship at the ritz-carlton golf club in marana.
+auto racing is another sport known in the state. phoenix international raceway in avondale is home to nascar race weekends twice a year. firebird international raceway near chandler is home to drag racing and other motorsport events.
+
+college sports[edit]
+college sports are also prevalent in arizona. the arizona state sun devils and the arizona wildcats belong to the pac-12 conference while the northern arizona lumberjacks compete in the big sky conference and the grand canyon antelopes compete for in the western athletic conference. the rivalry between arizona state sun devils and the arizona wildcats predates arizona's statehood, and is the oldest rivalry in the ncaa.[97] the territorial cup, first awarded in 1889 and certified as the oldest trophy in college football,[98] is awarded to the winner of the annual football game between the two schools.
+arizona also hosts several college football bowl games. the fiesta bowl, originally held at sun devil stadium, is now held at university of phoenix stadium in glendale. the fiesta bowl is part of the new college football playoff (cfp). university of phoenix stadium was also home to the 2007 and 2011 bcs national championship games.
+
+ a spring training game between the cubs and white sox at hohokam park
+baseball[edit]
+arizona is a popular location for major league baseball spring training, as it is the site of the cactus league. spring training was first started in arizona in 1947, when brewers owner veeck sold them in 1945 but went onto purchase the cleveland indians in 1946. he decided to train the cleveland indians in tucson and convinced the new york giants to give phoenix a try. thus the cactus league was born.[99]
+on march 9, 1995, arizona was awarded a franchise to begin play for the 1998 season. a $130 million franchise fee was paid to major league baseball and on january 16, 1997, the diamondbacks were officially voted into the national league.
+since their debut, the diamondbacks have won five national league west titles, one national league championship pennant, and the 2001 world series.
+
+miscellaneous topics[edit]
+notable people[edit]
+main article: list of people from arizona
+some notable arizonans involved in politics and government include:
+
+former arizona governor jan brewer
+former surgeon general of the united states richard carmona
+former united states secretary of transportation mary peters[100]
+former supreme court justice sandra day o'connor[101]
+former supreme court chief justice william rehnquist[102]
+former u.s. senator dennis deconcini[103]
+former maricopa county sheriff joe arpaio[citation needed]
+former graham county sheriff richard mack[citation needed]
+national education association president dennis van roekel[104]
+junior republican senator jon kyl, former senate minority whip.[105]
+presidential candidate (2000, 2008) and former u.s. senator john mccain[106]
+presidential candidate (1964) and former u.s. senator barry goldwater[107]
+former governor, secretary of the interior, and presidential candidate (1988) bruce babbitt[108]
+presidential candidate (1976) and former arizona congressman mo udall and his brother secretary of the interior stewart udall[citation needed]
+former u.s. senator carl hayden[citation needed]
+former united states solicitor general rex e. lee.[109]
+former governor and secretary of homeland security in the obama administration janet napolitano[110]
+former state senator jack taylor also served as mayor of mesa and was for one two-year term a member of the arizona house of representatives.[111]
+arizona notables in culture and the arts include:
+
+labor leader and civil rights pioneer cesar estrada chavez was from san luis, near yuma[112]
+actress emma stone is from scottsdale
+actress gail edwards resides in sedona
+athlete auston mathews (toronto maple leaf center)
+author zane grey
+architect frank lloyd wright
+disc sports (frisbee) pioneer ken westerfield currently lives in bisbee
+film director steven spielberg was raised in phoenix and attended arcadia high school
+actor david spade was raised in scottsdale and graduated from arizona state university
+actress lynda carter, star of wonder woman, is from phoenix and attended arizona state university
+horse owner and trainer bob baffert.
+musicians chester bennington of linkin park (phoenix), alice cooper (phoenix), stevie nicks of fleetwood mac (phoenix), (jerome), linda ronstadt (tucson), michelle branch (sedona), nate ruess of fun. (glendale)
+musicians in the bands meat puppets (phoenix/tempe), authority zero (mesa), gin blossoms (tempe), chronic future (scottsdale), jimmy eat world (mesa), the format (glendale), stellar kart (phoenix), malignus youth (sierra vista), and job for a cowboy (glendale).
+poet jim simmerman of flagstaff
+frederick sommer, an artist/photographer, moved to tucson in 1931 and lived in prescott from 1935 to 1999
+rancher and political insider john g.f. speiden – jay six ranch
+author diana gabaldon mostly known for outlander was born in and resides in arizona
+musician zella day is originally from pinetop, arizona
+state symbols[edit]
+ cactus wren, the arizona state bird
+arizona state amphibian: arizona treefrog (hyla eximia)
+arizona state bird: cactus wren (campylorhynchus brunneicapillus)
+arizona state butterfly: two-tailed swallowtail (papilio multicaudata)
+arizona state colors: federal blue and old gold
+arizona state dinosaur: sonorasaurus[113]
+arizona state fish: apache trout (oncorhynchus apache)[114]
+arizona state flag: flag of the state of arizona
+arizona state flower: saguaro blossom (carnegiea gigantea)
+arizona state fossil: petrified wood
+arizona state gemstone: turquoise
+arizona state mammal: ring-tailed cat (bassariscus astutus)
+arizona state motto: ditat deus (latin god enriches)
+arizona state neckwear: bolo tie
+arizona state reptile: arizona ridge-nosed rattlesnake (crotalus willardi)
+arizona state seal: great seal of the state of arizona
+arizona state slogan: grand canyon state
+arizona state songs: "arizona march song" (by margaret rowe clifford) and "arizona" (by rex allen, jr.)[115]
+arizona state tree: palo verde (parkinsonia)
+arizona state gun: colt single action army revolver[116]
+
+see also[edit]
+ arizona portal
+outline of arizona – organized list of topics about arizona
+index of arizona-related articles
+
+notes[edit]
+
+
+^ in 2000, this designation was broken into two groups: independent, non-charismatic churches (34,130 adherents) and independent, charismatic churches (29,755 adherents)
+
+
+references[edit]
+
+
+^ "arizona – definition and more from the free merriam-webster dictionary". merriam-webster.com. april 25, 2007. retrieved december 28, 2011..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ "2010 census state area measurements and internal point coordinates". u.s. census bureau. retrieved february 14, 2012.
+
+^ "median annual household income". the henry j. kaiser family foundation. retrieved december 9, 2016.
+
+^ "frisco". ngs data sheet. u.s. national geodetic survey. retrieved october 20, 2011.
+
+^ a b "elevations and distances in the united states". united states geological survey. 2001. archived from the original on october 15, 2011. retrieved december 28, 2011.
+
+^ a b elevation adjusted to north american vertical datum of 1988.
+
+^ all about arizona. sheppardsoftware.com. retrieved september 21, 2010.
+
+^ a b dr. dean chavers, "history of indian voting rights and why it's important" archived july 7, 2016, at the wayback machine, indian country today, october 29, 2012; accessed july 17, 2016. see trujillo v. garley (1948)
+
+^ a b c d e harrison v. laveen, july 1948, arizona supreme court
+
+^ bright, william (2004). native american place names of the united states. norman: university of oklahoma press, p. 47
+
+^ kitt, e. o.; pearce, t. m. (1952). "arizona place name records". western folklore. 11 (4): 284–287. doi:10.2307/1496233. jstor 1496233.
+
+^ harper, douglas. "arizona". online etymology dictionary. retrieved december 28, 2011.
+
+^ mcclintock, james (1916). arizona, prehistoric, aboriginal, pioneer, modern: the nation's youngest commonwealth within a land of ancient culture. chicago: the s.j. clarke publishing co.
+
+^ a b thompson, clay (february 11, 2007). "no, 'arid zone' not the basis of state's name". the arizona republic. retrieved december 29, 2014.
+
+^ saxton, dean, saxton, lucille, & enos, susie. (1983). dictionary: tohono o'odham/pima to english, english to tohono o'odham/pima. tucson, az: the university of arizona press
+
+^ thompson, clay (february 25, 2007). "a sorry state of affairs when views change". the arizona republic. archived from the original on august 1, 2007. retrieved march 3, 2007.
+
+^ jim turner. "how arizona did not get its name". arizona historical society. archived from the original on august 2, 2007. retrieved march 3, 2007.
+
+^ donald garate, 2005, "arizonac, a twentieth-century myth", journal of arizona history 46(2), pp. 161–184
+
+^ martínez laínez, fernando and canales torres, carlos. banderas lejanas: la exploración, conquista y defensa por parte de españa del territorio de los actuales estados unidos (in spanish: far flags. the exploration, conquest and defense by spain of the territory of the present united states). page 145-46. fourth edition: september 2009.
+
+^ timothy anna et al., historia de méxico. barcelona: critica, 2001, p. 10.
+
+^ mexican–american war as accessed on march 16, 2007, at 7:33 mst am
+
+^ "arizona ordinance of secession presented by the col. sherod hunter camp 1525, scv, phoenix, arizona". members.tripod.com. july 23, 2007. archived from the original on january 17, 2010. retrieved july 25, 2010.
+
+^ united states. cong. senate (1904) [1st pub. confederate states. cong.:1861–1862]. journal of the congress of the confederate states of america, 1861–1865. volume i. 58th cong. 2d sess. s. doc. 234. washington: government printing office. p. 691. lccn 05012700  – via internet archive.
+
+^ henson, pauline (1965). founding a wilderness capital, prescott, a. t., 1864. flagstaff, arizona: northland press. pp. passim.
+
+^ arroyo rodriguez, nadine (september 26, 2014). "did you know: capital of arizona moved 4 times before settling in phoenix". kjzz. retrieved january 9, 2019.
+
+^ "preserving cultural and historic resources – a conservation objective of the sonoran desert conservation plan". pima.gov. archived from the original on january 17, 2010. retrieved november 13, 2016.
+
+^ "archaeology of the phoenix indian school". archaeology.org. march 27, 1998. archived from the original on january 17, 2010. retrieved july 25, 2010.
+
+^ "arizona democrats authorize internet voting for march 11 advisory primary", the green papers
+
+^ "urban and community forestry division". arizona state forestry division. retrieved july 6, 2014.
+
+^ "prescott overview". ncsu.edu. may 15, 2002. archived from the original on january 17, 2010. retrieved july 25, 2010.
+
+^ "arizona". usgs earthquake hazards program earthquake.usgs.gov. archived from the original on january 6, 2013. retrieved october 12, 2012.
+
+^ a b "arizona". usgs earthquake hazards program earthquake.usgs.gov. archived from the original on september 1, 2012. retrieved october 12, 2012.
+
+^ a b "arizona climate". desert research institute, western regional climate center, reno, nevada. december 7, 2001. retrieved december 28, 2011.
+
+^ climate assessment for the southwest (december 1999). "the climate of the southwest". university of arizona. archived from the original on october 12, 2007. retrieved march 21, 2006.
+
+^ united states geological survey (september 2005). "hydrologic conditions in arizona during 1999–2004: a historical perspective" (pdf). retrieved december 28, 2011.
+
+^ "history for phoenix, az". weather underground. august 31, 2006.
+
+^ "mean number of days with minimum temperature below 32f national oceanic and atmospheric administration, retrieved march 24, 2007". lwf.ncdc.noaa.gov. august 20, 2008. archived from the original on december 17, 2001. retrieved december 28, 2011.
+
+^ "arizona climate averages". weatherbase. retrieved november 11, 2015.
+
+^ resident population data – 2010 census archived october 19, 2013, at the wayback machine
+
+^ a b "quickfacts arizona; united states". 2018 population estimates. united states census bureau, population division. february 1, 2019. retrieved february 2, 2019.
+
+^ arizona (state, united states). encyclopædia britannica online.
+
+^ "arizona – race and hispanic origin: 1860 to 1990." (pdf). u.s. census bureau.  archived february 9, 2018, at the wayback machine.
+
+^ census.gov arizona – race and hispanic origin: 1860 to 1990 archived january 12, 2012, at the wayback machine 
+
+^ "arizona at a crossroads over water and growth". the arizona republic. march 9, 2008.
+
+^ "americans under age 1 now mostly minorities, but not in ohio: statistical snapshot". the plain dealer. june 3, 2012.
+
+^ "ranking tables for metropolitan areas: 1990 and 2000." united states census bureau. april 2, 2001. retrieved on july 8, 2006.
+
+^ slevin, peter (april 30, 2010). "new arizona law puts police in 'tenuous' spot". washington post. washington, dc. p. a4. retrieved december 28, 2011.
+
+^ second to nevada with 8.8% in 2010
+
+^ "arizona – race and hispanic origin: 1860 to 1990". u.s. census bureau. archived from the original on july 25, 2008.
+
+^ american factfinder – results archived may 20, 2011, at the wayback machine
+
+^ a b historical census statistics on population totals by race, 1790 to 1990, and by hispanic origin, 1970 to 1990, for the united states, regions, divisions, and states archived december 24, 2014, at the wayback machine"table 17.  arizona – race and hispanic origin: 1860 to 1990". (pdf)
+
+^ "population of arizona – census 2010 and 2000 interactive map, demographics, statistics, quick facts – censusviewer". censusviewer.com.
+
+^ "2010 census data".
+
+^ american factfinder, united states census bureau. "arizona – selected social characteristics in the united states: 2007–2009". factfinder.census.gov. retrieved december 28, 2011.
+
+^ a b "arizona". modern language association. retrieved october 15, 2013.
+
+^ a b 2005 american community survey. retrieved from the data of the mla, july 13, 2010
+
+^ arizona has most indian language speakers. upi.com accessed december 12, 2011.
+
+^ phoenix business journal, september 2, 2011, page 4
+
+^ "archived copy". archived from the original on august 23, 2015. retrieved july 5, 2015.cs1 maint: archived copy as title (link)
+
+^ "home | colleges at lake havasu". havasu.asu.edu. retrieved september 9, 2016.
+
+^ "2017 population estimates". united states census bureau. retrieved february 2, 2019.
+
+^ "religious landscape study". may 11, 2015.
+
+^ "lds facts and statistics usa-arizona". mormon newsroom. the church of jesus christ of latter-day saints. retrieved november 30, 2014.
+
+^ "the association of religion data archives | state membership report". www.thearda.com. retrieved november 7, 2013.
+
+^ "facts and statistics usa-arizona". lds.org. retrieved april 30, 2012.
+
+^ a b "arizona – religious traditions, 2010". association of religion data archives. archived from the original on august  2, 2017. retrieved august  2, 2017.
+
+^ "arizona – religious traditions, 2010". association of religion data archives. archived from the original on august  2, 2017. retrieved august  2, 2017.
+
+^ "how hindus grew into second-largest faith in arizona & delaware". nbc news. june 24, 2014. archived from the original on august  2, 2017. retrieved august  2, 2017.
+
+^ "u.s. religion census 2010:  summary findings" (pdf). association of statisticians of american religious bodies. may  1, 2012. p. 16. archived from the original (pdf) on august  2, 2017. retrieved august  2, 2017.
+
+^ "news release" (pdf). archived from the original (pdf) on september 21, 2012. retrieved december 28, 2011.
+
+^ "arizona economy at a glance". bls.gov. retrieved september 9, 2016.
+
+^ "arizona republic 100: state's biggest employers". the arizona republic.
+
+^ "arizona income tax rates for 2017". www.tax-rates.org.
+
+^ "tucson: streetcar plan wins with 60% of vote". lightrailnow.org. retrieved december 28, 2011.
+
+^ world's busiest airports by traffic movements
+
+^ world's busiest airports by passenger traffic
+
+^ "deer valley airport". phoenix.gov. archived from the original on april 23, 2011. retrieved july 25, 2010.
+
+^ "ariz. gop would gain if napolitano gets obama post". ktar. associated press. november 20, 2008. retrieved december 28, 2011.
+
+^ "format document". azleg.gov. january 1, 1993. retrieved september 9, 2016.
+
+^ "table 1.  the counties and the most populous incorporated places in 2010 in arizona:  2000 and 2010". u.s. census bureau. retrieved january 8, 2012. archived october 17, 2011, at the wayback machine
+
+^ "voter registration statistics" (pdf). arizona secretary of state elections bureau. retrieved november 7, 2016.
+
+^ "arizona stands alone against marriage ban – queer lesbian gay news". gay.com. archived from the original on may 16, 2016. retrieved july 25, 2010.
+
+^ ban on gay unions solidly supported in most of arizona archived november 8, 2008, at the wayback machine
+
+^ archibold, randal c. (april 23, 2010). "arizona enacts stringent law on immigration". the new york times. retrieved december 28, 2011.
+
+^ "high court to weigh arizona voter registration case". reuters. march 15, 2013. retrieved march 17, 2013.
+
+^ "why arizona flipped on gay marriage". retrieved 2017-11-15.
+
+^ mckinley, jesse; goodstein, laurie (2008-11-05). "bans in 3 states on gay marriage". the new york times. issn 0362-4331. retrieved 2017-11-15.
+
+^ "arizona city poised to pass state's first civil union ordinance". reuters. 2013-04-02. retrieved 2017-11-15.
+
+^ press, associated (2013-06-05). "bisbee, arizona same-sex marriage: council approves civil unions measure". knxv. retrieved 2017-11-15.
+
+^ "legal recognition of same-sex relationships" (pdf). samesexrelationshipguide.com. august 31, 2015. archived from the original (pdf) on 2015-09-24. retrieved october 14, 2017.
+
+^ "az pro-civil unions, remembers goldwater fondly" (pdf).
+
+^ "college navigator - search results". nces.ed.gov.
+
+^ "college navigator – prescott college". nces.ed.gov.
+
+^ 2002 legislature – hb 2710, which later became ars 15-1444
+
+^ "az private postsecondary institutions". azhighered.org. retrieved september 9, 2016.
+
+^ crawdaddy (april 1975). missing or empty |title= (help)
+
+^ knauer, tom (november 22, 2006). "what is the territorial cup?". the wildcat online. archived from the original on october 8, 2008. retrieved april 2, 2007.
+
+^ official 2007 ncaa division i football records book (pdf). national collegiate athletic association. 2007. archived from the original (pdf) on june 25, 2008.
+
+^ "buckhorn baths: a unique mesa landmark". www.azcentral.com.
+
+^ "mary peters". ntl.bts.gov/. retrieved september 9, 2013.
+
+^ "sandra day o'connor". .law.cornell.edu. retrieved september 9, 2013.
+
+^ "william rehnquist". directory of federal judges. retrieved september 9, 2013.
+
+^ "dennis deconcini". biographical directory of the united states congress. retrieved september 9, 2013.
+
+^ "dennis van roekel". national education association. retrieved september 9, 2013.
+
+^ "jon kyl". biographical directory of the united states congress. retrieved september 9, 2013.
+
+^ "john mccain". mproject vote smart. retrieved september 9, 2013.
+
+^ "barry goldwater". biographical directory of the united states congress. retrieved september 9, 2013.
+
+^ "bruce babbitt". the washington post company. december 15, 1999. retrieved september 9, 2013.
+
+^ "rex e. lee". deseret news. retrieved september 9, 2013.
+
+^ "janet napolitano". mproject vote smart. retrieved september 9, 2013.
+
+^ "jerald jackson taylor". apnewsarchive.com. april 3, 1995. retrieved july 31, 2015.
+
+^ "the story of cesar chavez". ufw. retrieved 13 november 2018.
+
+^ "sonorasaurus officially named arizona's state dinosaur". april 11, 2018.
+
+^ carter, julie meka. "apache trout recovery:  a wildlife success story". wildlife & conservation. arizona game and fish department. archived from the original on september 20, 2013. retrieved september 28, 2013.
+
+^ "kids' page – arizona state songs".
+
+^ "arizona gets an official state gun – and it's manufactured in connecticut". retrieved april 15, 2017.
+
+
+further reading[edit]
+bayless, betsy, 1998, arizona blue book, 1997–1998. phoenix, arizona.
+mcintyre, allan j., 2008, the tohono o'odham and pimeria alta. arcadia publishing, charleston, south carolina. (isbn 978-0-7385-5633-8).
+miller, tom (editor), 1986, arizona: the land and the people. university of arizona press, tucson. (isbn 978-0-8165-1004-7).
+officer, james e., 1987, hispanic arizona, 1536–1856. university of arizona press, tucson. (isbn 978-0-8165-0981-2).
+thomas, david m. (editor), 2003, arizona legislative manual. in arizona phoenix, arizona, arizona legislative council. google print. retrieved january 16, 2006.
+trimble, marshall, 1998, arizona, a cavalcade of history. treasure chest publications, tucson, arizona. (isbn 978-0-918080-43-1).
+woosley, anne i., 2008, early tucson. arcadia publishing, charleston, south carolina. (isbn 978-0-7385-5646-8).
+external links[edit]
+
+arizonaat wikipedia's sister projects
+
+
+definitions from wiktionary
+media from wikimedia commons
+news from wikinews
+quotations from wikiquote
+texts from wikisource
+textbooks from wikibooks
+travel guide from wikivoyage
+resources from wikiversity
+
+
+
+official state government website
+
+official website of the state of arizona
+other reference links
+
+arizona state guide, from the library of congress
+arizona regional accounts data at the wayback machine (archived august 19, 2002)
+arizona demographic data from fedstats
+arizona usda state fact sheet
+arizona indicators, state's central resource for information on a wide range of topics
+energy data & statistics for arizona
+arizona state databases – annotated list of searchable databases produced by arizona state agencies and compiled by the government documents roundtable of the american library association.
+arizona state library, archives and public records
+arizona at ballotpedia
+arizona at curlie
+ geographic data related to arizona at openstreetmap
+tourism information links
+
+official arizona office of tourism
+arizona game & fish department (hunting, boating & fishing)
+arizona state parks
+american southwest, a national park service discover our shared heritage travel itinerary
+arizona at curlie
+
+
+
+
+preceded bynew mexico
+
+ list of u.s. states by date of admission to the unionadmitted on february 14, 1912 (48th)
+
+succeeded byalaska
+
+
+places adjacent to arizona
+ nevada
+ utah
+ colorado
+
+ california
+
+
+ arizona: outlineindex
+
+
+ new mexico
+
+ baja california,  mexico
+ sonora,  mexico
+
+
+topics related to arizonathe grand canyon state; the copper state
+vte state of arizonaphoenix (capital)topics
+index
+delegations
+senators
+representatives
+geography
+government
+constitution
+governor
+legislature
+history
+world war ii
+museums
+music
+people
+transportation
+tourist attractions
+society
+culture
+crime
+demographics
+economy
+education
+politics
+regions
+arizona strip
+arizona sun corridor
+coconino plateau
+colorado plateau
+grand canyon
+kaibab plateau
+mogollon plateau
+mogollon rim
+mojave desert
+monument valley
+north central arizona
+northeast arizona
+northern arizona
+oak creek canyon
+phoenix metropolitan area
+safford area
+san francisco volcanic field
+sonoran desert
+southern arizona (traditional arizona)
+transition zone
+verde valley
+white mountains
+counties
+apache
+cochise
+coconino
+gila
+graham
+greenlee
+la paz
+maricopa
+mohave
+navajo
+pima
+pinal
+santa cruz
+yavapai
+yuma
+cities
+avondale
+buckeye
+casa grande
+chandler
+flagstaff
+gilbert
+glendale
+goodyear
+kingman
+lake havasu city
+mesa
+peoria
+phoenix
+prescott
+scottsdale
+surprise
+sierra vista
+tempe
+tucson
+yuma
+
+vtemayors of cities with populations exceeding 100,000 in arizona
+greg stanton (d)(phoenix)
+jonathan rothschild (d)(tucson)
+john giles (r)(mesa)
+jay tibshraeny (r)(chandler)
+jerry weiers (np)(glendale)
+jim lane (r)(scottsdale)
+jenn daniels  (r)(gilbert)
+mark mitchell (d)(tempe)
+cathy carlat(peoria)
+sharon wolcott (d)(surprise)
+
+vteprotected areas of arizonafederalnational parks
+grand canyon
+petrified forest
+saguaro
+national historical parks,historic sites and memorials
+tumacácori nhp
+fort bowie nhs
+hubbell trading post nhs
+coronado nmem
+national monuments
+national park service
+canyon de chelly
+casa grande ruins
+chiricahua
+hohokam pima
+montezuma castle
+navajo
+organ pipe cactus
+pipe spring
+sunset crater
+tonto
+tuzigoot
+walnut canyon
+wupatki
+bureau of land management
+agua fria
+grand canyon-parashant
+ironwood forest
+sonoran desert
+vermilion cliffs
+national conservation areas
+gila box riparian
+las cienegas
+san pedro riparian
+national recreation areas
+glen canyon
+lake mead
+national trails
+arizona national scenic trail
+juan bautista de anza national historic trail
+old spanish national historic trail
+national forests
+apache-sitgreaves
+coconino
+elden pueblo
+honanki heritage site
+palatki heritage site
+v-bar-v heritage site
+coronado
+kaibab
+prescott
+tonto
+national wildlife refuges
+bill williams river
+buenos aires
+cabeza prieta
+cibola
+havasu
+imperial
+kofa
+leslie canyon
+san bernardino
+wilderness areassee list of arizona wilderness areaswild and scenic rivers
+fossil creek
+verde river
+statestate parks
+alamo lake
+boyce thompson arboretum
+buckskin mountain
+catalina
+cattail cove
+dead horse ranch
+fool hollow lake
+fort verde
+granite mountain hotshots memorial
+homolovi
+jerome
+kartchner caverns
+lake havasu
+lost dutchman
+lyman lake
+mcfarland
+oracle
+patagonia lake
+picacho peak
+red rock
+riordan mansion
+river island
+roper lake
+san rafael
+slide rock
+sonoita creek
+tombstone courthouse
+tonto natural bridge
+tubac presidio
+ verde river greenway
+yuma quartermaster depot
+yuma territorial prison
+wildlife areas
+becker lake
+cluff ranch
+luna lake
+mittry lake
+powers butte
+santa rita
+white mountain grasslands
+willcox playa
+municipalnature parks
+phoenix mountains park and recreation area
+south mountain park
+papago park
+othernational natural landmarkssee list of national natural landmarks in arizonanational historic landmarkssee list of national historic landmarks in arizonahistoric placessee national register of historic places listings in arizonaarizona state parks (web)
+vtesports teams based in arizonaaustralian rules football
+usafl
+arizona hawks
+arizona outlaws
+baseball
+mlb
+arizona diamondbacks
+azl
+angels
+athletics
+brewers
+cubs
+diamondbacks
+dodgers
+giants
+indians
+mariners
+padres
+padres 2
+rangers
+reds
+royals
+white sox
+afl
+glendale desert dogs
+peoria javelinas
+scottsdale scorpions
+mesa solar sox
+surprise saguaros
+salt river rafters
+pl
+tucson saguaros
+awl
+edmonton capitals
+laredo apaches
+team canada
+yuma tejanos
+basketball
+nba
+phoenix suns
+nba g league
+northern arizona suns
+wnba
+phoenix mercury
+football
+nfl
+arizona cardinals
+aaf
+arizona hotshots
+ifl
+arizona rattlers
+tucson sugar skulls (2019)
+iwfl
+phoenix phantomz
+hockey
+nhl
+arizona coyotes
+ahl
+tucson roadrunners
+soccer
+uslc
+phoenix rising fc
+usl1
+fc tucson
+npsl
+fc arizona
+upsl
+sporting arizona fc
+wpsl
+fc arizona women
+fc tucson women
+phoenix del sol
+roller derby
+wfdta
+arizona roller derby
+tucson roller derby
+rdcl
+arizona derby dames
+rugby
+aru
+camelback rugby club
+northern arizona rugby football club
+old pueblo lions rugby football club
+tempe rugby club
+tucson magpies rugby football club
+yuma rugby football club
+college athletics(ncaa division i)
+arizona wildcats
+arizona state sun devils
+grand canyon antelopes
+northern arizona lumberjacks
+college athletics(naia)
+arizona christian university
+benedictine university at mesa
+embry–riddle aeronautical university
+college athletics(njcaa)
+arizona western college
+central arizona college
+chandler-gilbert community college
+cochise college
+eastern arizona college
+estrella mountain community college
+gateway community college
+glendale community college
+mesa community college
+paradise valley community college
+phoenix college
+pima community college
+scottsdale community college
+south mountain community college
+tohono o'odham community college
+yavapai college
+
+vtewestern united statesregions
+rocky mountains
+great basin
+west coast
+pacific northwest
+mountain states
+states
+alaska
+arizona
+california
+colorado
+hawaii
+idaho
+montana
+nevada
+new mexico
+oregon
+utah
+washington
+wyoming
+major metropolitan areas
+los angeles
+greater la
+phoenix
+san francisco bay area
+san jose–oakland
+san bernardino-riverside
+seattle
+san diego
+denver
+portland
+las vegas
+paradise
+sacramento
+salt lake city
+honolulu
+oahu
+albuquerque
+santa fe
+anchorage
+major cities
+anchorage
+albuquerque
+denver
+honolulu
+las vegas
+los angeles
+long beach
+oakland
+phoenix
+portland
+reno
+riverside
+sacramento
+san bernardino
+san diego
+san francisco
+san jose
+salt lake city
+seattle
+spokane
+tucson
+state capitals
+boise
+carson city
+cheyenne
+denver
+helena
+honolulu
+juneau
+olympia
+phoenix
+sacramento
+salem
+salt lake city
+santa fe
+
+ portal
+
+vte new spain (1521–1821)conflicts
+spanish conquest of the aztec empire →
+spanish conquest of guatemala →
+spanish conquest of yucatán →
+anglo-spanish war (1585–1604) →
+anglo-spanish war (1625–30) →
+dutch revolt →
+anglo-spanish war (1654–60) →
+piracy in the caribbean →
+queen anne's war →
+war of jenkins' ear →
+seven years' war →
+spanish involvement in the american revolutionary war
+conflictswith indigenous peoplesduring colonial rule
+mixtón war →
+yaqui wars →
+chichimeca war →
+philippine revolts against spain →
+acaxee rebellion →
+spanish–moro conflict →
+acoma massacre →
+tepehuán revolt →
+tzeltal rebellion →
+pueblo revolt →
+pima revolt →
+spanish american wars of independence
+
+governmentand administrationcentralgovernmenthabsburg spain
+charles i
+joanna of castile
+philip ii
+philp iii
+philip iv
+charles ii
+bourbon spain
+philip v (also reigned after louis i)
+louis i
+ferdinand vi
+charles iii
+charles iv
+ferdinand vii of spain (also reigned after joseph i)
+viceroys ofnew spain
+list of viceroys of new spain
+audiencias
+guadalajara
+captaincy general of guatemala
+manila
+mexico
+santo domingo
+captancies general
+cuba
+guatemala
+philippines
+puerto rico
+santo domingo
+yucatán
+provincias internas
+intendancy
+havana
+new orleans
+state of mexico
+chiapas
+comayagua
+nicaragua
+camagüey
+santiago de cuba
+guanajuato
+valladolid
+guadalajara
+zacatecas
+san luis potosí
+veracruz
+puebla
+oaxaca
+durango
+sonora
+mérida, yucatán
+politics
+viceroy
+gobernaciones
+adelantado
+captain general
+corregidor (position)
+cabildo
+encomienda
+treaties
+treaty of tordesillas
+treaty of zaragoza
+peace of westphalia
+treaty of ryswick
+treaty of utrecht
+congress of breda
+treaty of fontainebleau (1762)
+treaty of paris (1783)
+treaty of córdoba
+adams–onís treaty
+notablecities,provinces,& territoriescities
+mexico city
+veracruz
+xalapa
+puebla
+toluca
+cuernavaca
+oaxaca
+morelia
+acapulco
+campeche
+mérida
+guadalajara
+durango
+monterrey
+león
+guanajuato
+zacatecas
+pachuca
+querétaro
+saltillo
+san luis potosí
+los ángeles
+yerba buena (san francisco)
+san josé
+san diego
+santa fe
+albuquerque
+el paso
+los adaes
+san antonio
+tucson
+pensacola
+st. augustine
+havana
+santo domingo
+san juan
+antigua guatemala
+cebu
+manila
+provinces& territories
+la florida
+las californias
+santa fe de nuevo méxico
+alta california
+baja california
+tejas
+nueva galicia
+nueva vizcaya
+nueva extremadura
+new kingdom of león
+cebu
+bulacan
+pampanga
+other areas
+spanish formosa
+explorers, adventurers & conquistadorspre-new spainexplorers
+christopher columbus
+ferdinand magellan
+juan sebastián elcano
+vasco núñez de balboa
+diego velázquez de cuéllar
+
+explorers &conquistadors
+hernán cortés
+juan ponce de león
+nuño de guzmán
+bernal díaz del castillo
+pedro de alvarado
+pánfilo de narváez
+hernando de soto
+francisco vásquez de coronado
+juan rodríguez cabrillo
+miguel lópez de legazpi
+ángel de villafañe
+álvar núñez cabeza de vaca
+pedro menéndez de avilés
+luis de carabajal y cueva
+juan de oñate
+juan josé pérez hernández
+gaspar de portolà
+manuel quimper
+cristóbal de oñate
+andrés de urdaneta
+ruy lópez de villalobos
+diego velázquez de cuéllar
+francisco hernández de córdoba (yucatán conquistador)
+francisco hernández de córdoba (founder of nicaragua)
+gil gonzález dávila
+francisco de ulloa
+juan josé pérez hernández
+dionisio alcalá galiano
+bruno de heceta
+juan francisco de la bodega y quadra
+alonso de león
+ignacio de arteaga y bazán
+josé de bustamante y guerra
+josé maría narváez
+pedro sarmiento de gamboa
+antonio gil y'barbo
+alexander von humboldt
+thomas gage
+catholic churchin new spainspanish missionsin the americas
+spanish missions in arizona
+spanish missions in baja california
+spanish missions in california
+spanish missions in the carolinas
+spanish missions in florida
+spanish missions in georgia
+spanish missions in louisiana
+spanish missions in mexico
+spanish missions in new mexico
+spanish missions in the sonoran desert
+spanish missions in texas
+spanish missions in virginia
+spanish missions in trinidad
+
+friars, fathers,priests, & bishops
+pedro de gante
+gerónimo de aguilar
+toribio de benavente motolinia
+bernardino de sahagún
+juan de zumárraga
+alonso de montúfar
+vasco de quiroga
+bartolomé de las casas
+alonso de molina
+diego durán
+diego de landa
+gerónimo de mendieta
+juan de torquemada
+juan de palafox y mendoza
+carlos de sigüenza y góngora
+eusebio kino
+francisco javier clavijero
+junípero serra
+francisco palóu
+fermín lasuén
+esteban tápis
+josé francisco de paula señan
+mariano payeras
+sebastián montero
+marcos de niza
+francisco de ayeta
+antonio margil
+francisco marroquín
+manuel abad y queipo
+miguel hidalgo y costilla
+josé maría morelos
+
+other events
+suppression of the jesuits
+california mission clash of cultures
+cargo system
+indian reductions
+societyand cultureindigenouspeoplesmesoamerican
+aztec
+maya
+huastec
+mixtec
+p'urhépecha
+totonac
+pipil
+kowoj
+k'iche'
+kaqchikel
+zapotec
+poqomam
+mam
+caribbean
+arawak
+ciboney
+guanajatabey
+california
+mission indians
+cahuilla
+chumash
+cupeño
+juaneño
+kumeyaay
+luiseño
+miwok
+mohave
+ohlone
+serrano
+tongva
+southwestern
+apache
+coahuiltecan
+cocopa
+comanche
+hopi
+hualapai
+la junta
+navajo
+pima
+puebloan
+quechan
+solano
+yaqui
+zuni
+north-northwestmexico
+acaxee
+chichimeca
+cochimi
+kiliwa
+ópata
+tepehuán
+florida & othersoutheastern tribes
+indigenous people during de soto's travels
+apalachee
+calusa
+creek
+jororo
+pensacola
+seminole
+timucua
+yustaga
+
+filipino people
+negrito
+igorot
+mangyan
+peoples of palawan
+ati
+panay
+lumad
+bajau
+tagalog
+cebuano
+
+others
+taiwanese aborigines
+chamorro people
+
+architecture
+spanish colonial style
+by country
+colonial baroque style
+forts
+missions
+
+trade & economy
+real
+columbian exchange
+manila galleon
+triangular trade
+
+people & classes
+casta
+peninsulars
+criollo
+indios
+mestizo
+castizo
+coyotes
+pardos
+zambo
+negros
+
+people
+juan bautista de anza
+juan rodríguez cabrillo
+francis drake
+miguel hidalgo y costilla
+eusebio kino
+la malinche
+fermín lasuén
+limahong
+moctezuma ii
+junípero serra
+hasekura tsunenaga
+
+ category
+ portal
+
+vte political divisions of the united statesstates
+alabama
+alaska
+arizona
+arkansas
+california
+colorado
+connecticut
+delaware
+florida
+georgia
+hawaii
+idaho
+illinois
+indiana
+iowa
+kansas
+kentucky
+louisiana
+maine
+maryland
+massachusetts
+michigan
+minnesota
+mississippi
+missouri
+montana
+nebraska
+nevada
+new hampshire
+new jersey
+new mexico
+new york
+north carolina
+north dakota
+ohio
+oklahoma
+oregon
+pennsylvania
+rhode island
+south carolina
+south dakota
+tennessee
+texas
+utah
+vermont
+virginia
+washington
+west virginia
+wisconsin
+wyoming
+federal districtwashington, d.c.insular areas
+american samoa
+guam
+northern mariana islands
+puerto rico 
+u.s. virgin islands
+outlying islands
+baker island
+howland island
+jarvis island
+johnston atoll
+kingman reef
+midway atoll
+navassa island
+palmyra atoll
+wake island
+indian reservations
+list of indian reservations
+other
+federal enclave
+
+coordinates: 34°n 112°w﻿ / ﻿34°n 112°w﻿ / 34; -112
+
+authority control 
+bnf: cb119773584 (data)
+gnd: 4002920-7
+isni: 0000 0004 0647 0417
+lccn: n79034873
+musicbrainz: bf9353d8-da52-4fd9-8645-52b2349b4914
+nara: 10045174
+nkc: ge128677
+snac: w6b09tzt
+sudoc: 176326391
+viaf: 125475793
+ worldcat identities (via viaf): 125475793
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=arizona&oldid=883508375"					
+categories: 1912 establishments in the united statesarizonaformer spanish coloniesstates and territories established in 1912states of the united statesu.s. states with multiple time zoneswestern united stateshidden categories: webarchive template wayback linkscs1 maint: archived copy as titlepages with citations lacking titlesarticles with short descriptionuse mdy dates from may 2017articles with haudio microformatspages including recorded pronunciations (english)articles containing navajo-language textarticles containing o'odham-language textarticles needing additional references from february 2018all articles needing additional referencesall articles with unsourced statementsarticles with unsourced statements from june 2017articles containing potentially dated statements from 2011all articles containing potentially dated statementsarticles containing potentially dated statements from july 2017articles containing potentially dated statements from 2009articles containing potentially dated statements from 2010articles containing potentially dated statements from march 2016articles containing potentially dated statements from 2016articles containing potentially dated statements from october 2016articles with unsourced statements from september 2014articles with unsourced statements from september 2013articles with curlie linkscoordinates on wikidatawikipedia articles with bnf identifierswikipedia articles with gnd identifierswikipedia articles with isni identifierswikipedia articles with lccn identifierswikipedia articles with musicbrainz area identifierswikipedia articles with nara identifierswikipedia articles with nkc identifierswikipedia articles with snac-id identifierswikipedia articles with sudoc identifierswikipedia articles with viaf identifierswikipedia articles with worldcat-viaf identifiers 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commonswikinewswikiquotewikivoyage 
+
+
+
+languages
+
+
+afrikaansአማርኛængliscالعربيةaragonésܐܪܡܝܐarpetanasturianuavañe'ẽaymar aruazərbaycancaتۆرکجهবাংলাbân-lâm-gúбашҡортсабеларускаябеларуская (тарашкевіца)‎भोजपुरीbikol centralbislamaбългарскиboarischབོད་ཡིགbosanskibrezhonegбуряадcatalàчӑвашлаcebuanočeštinachavacano de zamboangacorsucymraegdanskdavvisámegielladeutschdiné bizaadeestiελληνικάemiliàn e rumagnòlespañolesperantoeuskaraفارسیfiji hindiføroysktfrançaisfryskgaeilgegaelggagauzgàidhliggalego贛語𐌲𐌿𐍄𐌹𐍃𐌺客家語/hak-kâ-ngîхальмг한국어hausahawaiʻiհայերենहिन्दीhornjoserbscehrvatskiidoigboilokanoবিষ্ণুপ্রিয়া মণিপুরীbahasa indonesiainterlinguainterlingueᐃᓄᒃᑎᑐᑦ/inuktitutiñupiakиронisizuluíslenskaitalianoעבריתbasa jawakabɩyɛಕನ್ನಡkapampanganქართულიkaszëbscziқазақшаkernowekkiswahilikreyòl ayisyenkurdîкырык марыladinoلۊری شومالیlatinalatviešulëtzebuergeschлезгиlietuviųligurelimburgslingua franca novalumbaartmagyarमैथिलीмакедонскиmalagasyമലയാളംmāoriमराठीმარგალურიمصرىمازِرونیbahasa melayubaso minangkabaumìng-dĕ̤ng-ngṳ̄монголမြန်မာဘာသာdorerin naoeronederlandsnedersaksiesनेपालीनेपाल भाषा日本語нохчийнnordfriisknorsknorsk nynorskoccitanолык марийoʻzbekcha/ўзбекчаਪੰਜਾਬੀपालिپنجابیpapiamentupiemontèisplattdüütschpolskiportuguêsqaraqalpaqsharomânărumantschruna simiрусскийсаха тылаgagana samoaसंस्कृतम्sarduscotsseelterskshqipsicilianusimple englishسنڌيslovenčinaslovenščinaślůnskisoomaaligaکوردیсрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskatagalogதமிழ்taqbaylitтатарча/tatarçaతెలుగుไทยtsetsêhestâhesetürkçeукраїнськаاردوئۇيغۇرچە / uyghurchetiếng việtvolapük文言winaray吴语ייִדישyorùbá粵語zazakizeêuwsžemaitėška中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 15 february 2019, at 20:46 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"2.652","walltime":"3.289","ppvisitednodes":{"value":15866,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":630390,"limit":2097152},"templateargumentsize":{"value":158786,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":59,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":272410,"limit":5000000},"entityaccesscount":{"value":5,"limit":400},"timingprofile":["100.00% 2327.768      1 -total"," 28.44%  662.121      2 template:reflist"," 16.96%  394.747     68 template:cite_web"," 11.01%  256.274     29 template:navbox"," 10.65%  248.003      7 template:infobox","  8.14%  189.450      1 template:navboxes","  7.83%  182.334      1 template:lang-nv","  5.95%  138.402      1 template:infobox_u.s._state","  3.72%   86.512     34 template:convert","  3.49%   81.327     18 template:jct"]},"scribunto":{"limitreport-timeusage":{"value":"1.167","limit":"10.000"},"limitreport-memusage":{"value":29300985,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1266","timestamp":"20190217212142","ttl":86400,"transientcontent":true}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"arizona","url":"https:\/\/en.wikipedia.org\/wiki\/arizona","sameas":"http:\/\/www.wikidata.org\/entity\/q816","mainentity":"http:\/\/www.wikidata.org\/entity\/q816","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2001-10-11t21:53:59z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/9d\/flag_of_arizona.svg","headline":"state of the united states of america"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":158,"wghostname":"mw1269"});});
+
+

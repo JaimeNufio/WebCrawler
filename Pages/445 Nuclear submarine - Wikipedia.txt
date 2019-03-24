@@ -1,0 +1,655 @@
+
+
+
+
+nuclear submarine - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"nuclear_submarine","wgtitle":"nuclear submarine","wgcurrevisionid":877229872,"wgrevisionid":877229872,"wgarticleid":588250,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["all accuracy disputes","articles with disputed statements from march 2016","cs1 maint: archived copy as title","webarchive template webcite links","articles with short description","articles containing potentially dated statements from 2011","all articles containing potentially dated statements","all articles with unsourced statements","articles with unsourced statements from may 2012","all articles with dead external links","articles with dead external links from october 2010","commons category link is on wikidata","wikipedia articles with gnd identifiers","wikipedia articles with nara identifiers","wikipedia articles with ndl identifiers","american inventions","nuclear-powered submarines"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"nuclear_submarine","wgrelevantarticleid":588250,"wgrequestid":"xgngxapamfgaaatddhwaaaag","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q757554","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+nuclear submarine 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+submarine propelled by nuclear power
+this article is about submarines powered by nuclear energy. for submarines carrying strategic nuclear weapons, see ballistic missile submarine.
+a nuclear submarine is a submarine powered by a nuclear reactor.  the performance advantages of nuclear submarines over "conventional" (typically diesel-electric) submarines are considerable.  nuclear propulsion, being completely independent of air, frees the submarine from the need to surface frequently, as is necessary for conventional submarines.  the large amount of power generated by a nuclear reactor allows nuclear submarines to operate at high speed for long periods of time; and the long interval between refuelings grants a range virtually unlimited, making the only limits on voyage times being imposed by such factors as the need to restock food or other consumables.
+current generations of nuclear submarines never need to be refueled throughout their 25-year lifespans.[1] conversely, the limited power stored in electric batteries means that even the most advanced conventional submarine can only remain submerged for a few days at slow speed, and only a few hours at top speed, though recent advances in air-independent propulsion have somewhat ameliorated this disadvantage. the high cost of nuclear technology means that relatively few states have fielded nuclear submarines. some of the most serious nuclear and radiation accidents ever to occur have involved soviet nuclear submarine mishaps.[2][3]
+
+contents
+
+1 history
+2 technology
+3 lineage
+
+3.1 united states navy
+
+3.1.1 decommissioned
+3.1.2 operational
+3.1.3 under development
+
+
+3.2 soviet / russian navy
+
+3.2.1 decommissioned
+3.2.2 operational submarines
+3.2.3 under development
+
+
+3.3 royal navy
+
+3.3.1 decommissioned
+3.3.2 operational
+3.3.3 under development
+
+
+3.4 french navy
+
+3.4.1 decommissioned
+3.4.2 operational
+3.4.3 under development
+
+
+3.5 chinese people's liberation army navy
+
+3.5.1 operational
+3.5.2 under development
+
+
+3.6 indian navy
+
+3.6.1 decommissioned
+3.6.2 operational
+3.6.3 under development
+
+
+3.7 brazilian navy
+
+3.7.1 under development
+
+
+
+
+4 accidents
+
+4.1 reactor accidents
+4.2 other major accidents and sinkings
+
+
+5 see also
+6 notes
+7 references
+8 further reading
+9 external links
+
+
+history[edit]
+ uss nautilus, the first nuclear-powered submarine.
+ the smallest nuclear-powered submarine, the u.s. navy's nr-1.
+the idea for a nuclear-powered submarine was first proposed in the united states navy by the naval research laboratory's ross gunn[4] in 1939.
+construction of the world's first nuclear powered submarine was made possible by the successful development of a nuclear propulsion plant by a group of scientists and engineers at the naval reactors branch of the bureau of ships and the atomic energy commission. in july 1951 the u.s. congress authorized construction of the first nuclear-powered submarine, nautilus, under the leadership of captain hyman g. rickover, usn (sharing names with captain nemo's fictional submarine nautilus in jules verne's twenty thousand leagues under the sea, and another uss nautilus (ss-168) that served with distinction in world war ii).[5]
+the westinghouse corporation was assigned to build its reactor. after the submarine was completed at the electric boat company, first lady mamie eisenhower broke the traditional bottle of champagne on nautilus' bow, and she was commissioned uss nautilus (ssn-571), on 30 september 1954.[6] on 17 january 1955, she departed groton, connecticut to begin sea trials. the submarine was 320 feet (98 m) long, and cost about $55 million.
+the soviet union soon followed the united states in developing nuclear-powered submarines in the 1950s. stimulated by the u.s. development of nautilus, soviet work on nuclear propulsion reactors began in the early 1950s at the institute of physics and power engineering, in obninsk, under anatoliy p. alexandrov, later to become head of the kurchatov institute. in 1956, the first soviet propulsion reactor designed by his team began operational testing. meanwhile, a design team under vladimir n. peregudov worked on the vessel that would house the reactor.
+after overcoming many obstacles, including steam generation problems, radiation leaks, and other difficulties, the first nuclear submarine based on these combined efforts, k-3 leninskiy komsomol of the project 627 kit class, called a november-class submarine by nato, entered service in the soviet navy in 1958.[7]
+nuclear power proved ideal for the propulsion of strategic ballistic missile submarines (ssb), greatly improving their ability to remain submerged and undetected. the world's first operational nuclear-powered ballistic missile submarine (ssbn) was uss george washington with 16 polaris a-1 missiles, which conducted the first ssbn deterrent patrol november 1960 – january 1961. the soviets already had several ssbs of the project 629 (golf class), and were only a year behind the us with their first ssbn, ill-fated k-19 of project 658 (hotel class), commissioned in november 1960. however, this class carried the same three-missile armament as the golfs. the first soviet ssbn with 16 missiles was the project 667a (yankee class), the first of which entered service in 1967, by which time the us had commissioned 41 ssbns, nicknamed the "41 for freedom".[8][9]
+
+ the vmf typhoon-class submarine is nuclear-powered and the world's largest-displacement submarine.[10]
+at the height of the cold war, approximately five to ten nuclear submarines were being commissioned from each of the four soviet submarine yards (sevmash in severodvinsk, admiralteyskiye verfi in st. petersburg, krasnoye sormovo in nizhny novgorod, and amurskiy zavod in komsomolsk-on-amur).
+from the late 1950s through the end of 1997, the soviet union, and later russia, built a total of 245 nuclear submarines, more than all other nations combined.[11]
+today, six countries deploy some form of nuclear-powered strategic submarines: the united states, russia, france, the united kingdom, china, and india.[12] several other countries, including argentina and brazil,[13][14] have ongoing projects in different phases to build nuclear-powered submarines.
+in the united kingdom, all former and current nuclear submarines of the british royal navy (with the exception of three: hms conqueror, hms renown and hms revenge) have been constructed in barrow-in-furness (at bae systems submarine solutions or its predecessor vsel) where construction of nuclear submarines continues. conqueror is[update] the only nuclear-powered submarine ever to have engaged an enemy ship with torpedoes, sinking the cruiser ara general belgrano with two mark 8 torpedoes during the 1982 falklands war.[a]
+
+technology[edit]
+ hms astute, an advanced nuclear-powered attack submarine.[15]
+the main difference between conventional submarines and nuclear submarines is the power generation system. nuclear submarines employ nuclear reactors for this task. they either generate electricity that powers electric motors connected to the propeller shaft or rely on the reactor heat to produce steam that drives steam turbines (cf. nuclear marine propulsion). reactors used in submarines typically use highly enriched fuel (often greater than 20%) to enable them to deliver a large amount of power from a smaller reactor and operate longer between refuelings – which are difficult due to the reactor's position within the submarine's pressure hull.
+the nuclear reactor also supplies power to the submarine's other subsystems, such as for maintenance of air quality, fresh water production by distilling salt water from the ocean, temperature regulation, etc. all naval nuclear reactors currently in use are operated with diesel generators as a backup power system. these engines are able to provide emergency electrical power for reactor decay heat removal, as well as enough electric power to supply an emergency propulsion mechanism. submarines may carry nuclear fuel for up to 30 years of operation. the only resource that limits the time underwater is the food supply for the crew and maintenance of the vessel.
+the stealth technology weakness of nuclear submarines is the need to cool the reactor even when the submarine is not moving; about 70% of the reactor output heat is dissipated into the sea water. this leaves a "thermal wake", a plume of warm water of lower density which ascends to the sea surface and creates a "thermal scar" that is observable by thermal imaging systems, e.g., flir.[16] another problem is that the reactor is always running, creating steam noise, which can be heard on sonar, and the reactor pump (used to circulate reactor coolant), also creates noise, as opposed to a conventional submarine, which can move about on almost silent electric motors.[citation needed]
+
+lineage[edit]
+ united states navy[edit]
+see also: united states navy
+decommissioned[edit]
+scb-64: uss nautilus (ssn-571)
+scb-64a: uss seawolf (ssn-575)
+scb-121: skate-class attack submarines
+scb-132: uss triton (ssrn-586)
+scb-137a: uss halibut (ssgn-587)
+scb-154: skipjack-class attack submarines
+scb-178: uss tullibee (ssn-597)
+scb-180a: george washington-class ballistic missile submarines
+scb-180: ethan allen-class ballistic missile submarines
+scb-188: permit-class attack submarines
+scb-188a: sturgeon-class attack submarines
+scb-216: lafayette-class ballistic missile submarines
+scb-216: james madison-class ballistic missile submarines
+scb-216: benjamin franklin-class ballistic missile submarines
+nr-1
+scb-245: uss narwhal (ssn-671)
+scb-302: uss glenard p. lipscomb (ssn-685)
+operational[edit]
+scb-303: los angeles-class attack submarines
+scb-304: ohio-class ballistic missile submarines
+seawolf-class attack submarines
+virginia-class attack submarines
+under development[edit]
+columbia-class submarine (in development)
+soviet / russian navy[edit]
+see also: soviet navy and russian navy
+decommissioned[edit]
+project 627 (november) attack submarines
+project 645 test attack submarine k-27
+project 658 (hotel) ballistic missile submarines
+project 659/675 (echo) cruise missile submarines
+project 661 (papa) attack submarines
+project 667 (yankee) ballistic missile submarines
+project 667b, murena (delta i) ballistic missile submarines
+project 667bd, murena-m (delta ii) ballistic missile submarines
+project 670 (charlie) cruise missile submarines
+project 671 (victor) attack submarines
+project 678 (x-ray) research submersible
+project 685 (mike) attack submarine k-278 komsomolets
+project 705 (alfa) attack submarines
+operational submarines[edit]
+project 941 (typhoon) ballistic missile submarines
+project 945 (sierra) attack submarines
+project 949 (oscar) cruise missile submarines
+project 667bdr, kalmar (delta iii) ballistic missile submarines
+project 667bdrm, delfin (delta iv) ballistic missile submarines
+project 1910 kashalot-class (uniform) special purpose submarines
+project 1851.1 (paltus) special purpose submarines
+as-12 (losharik) special purpose submarine
+project 971 (akula) attack submarines
+project 671rtm shchuka (victor iii) attack submarines
+project 935 (borei) ballistic missile submarines
+project 885 (yasen) attack submarines
+under development[edit]
+ royal navy[edit]
+see also: royal navy
+decommissioned[edit]
+hms dreadnought (s101)
+valiant-class attack submarines
+resolution-class ballistic missile submarines
+churchill-class attack submarines
+swiftsure-class attack submarines
+operational[edit]
+trafalgar-class attack submarines
+vanguard-class ballistic missile submarines
+astute-class attack submarines
+under development[edit]
+dreadnought-class ballistic missile submarines (in development)
+ french navy[edit]
+see also: french navy
+decommissioned[edit]
+redoutable-class ballistic missile submarines
+operational[edit]
+rubis-class attack submarines
+triomphant-class ballistic missile submarines
+under development[edit]
+barracuda-class attack submarines (in development)
+ chinese people's liberation army navy[edit]
+see also: people's liberation army navy
+operational[edit]
+type 091 (han) attack submarines
+type 092 (xia) ballistic missile submarines
+type 093 (shang) attack submarines
+type 094 (jin) ballistic missile submarines
+under development[edit]
+type 095 attack submarines (in development)
+type 096 (tang) ballistic missile submarines (in development)
+ indian navy[edit]
+see also: indian navy
+decommissioned[edit]
+ins chakra  leased soviet charlie-class submarine commissioned between 1987 – 1991.
+operational[edit]
+ins chakra leased russian akula-class attack submarine, named after the previous ins chakra
+arihant-class submarine ins arihant commissioned in august 2016 in the indian navy.
+under development[edit]
+arihant-class submarine – ins arighat and two more boats under construction. to be followed by larger boats capable of carrying 12–16 ballistic missiles.[17](under construction)
+indian navy ssn programme – 6 submarines to be built.[18] (in development)
+s5 class– a large planned follow on class of arihant class submarines-3 to 6 submarines to be built (in development)[19]
+
+ brazilian navy[edit]
+see also: brazilian navy
+under development[edit]
+sn álvaro alberto (sn-10) – attack submarine, without ballistic missiles, displacement 6000 tons. laid down planned for 2023 with 100% national technology.[20][21] (planned)
+accidents[edit]
+see also: list of sunken nuclear submarines
+reactor accidents[edit]
+some of the most serious nuclear and radiation accidents by death toll in the world have involved nuclear submarine mishaps.  to date, all of these were units of the former soviet union.[2][3][22] reactor accidents that resulted in core damage and release of radioactivity from nuclear-powered submarines include:[2][23]
+
+k-8, 1960: suffered a loss-of-coolant accident; substantial radioactivity released.[24]
+k-14, 1961: the reactor compartment was replaced due to unspecified "breakdown of reactor protection systems".
+k-19, 1961: suffered a loss-of-coolant accident resulting in 8 deaths and more than 30 other people being over-exposed to radiation.[25] the events on board the submarine are dramatized by the film k-19: the widowmaker.
+k-11, 1965: both reactors were damaged during refueling while lifting the reactor vessel heads; reactor compartments scuttled off the east coast of novaya zemlya in the kara sea in 1966.
+k-27, 1968: experienced reactor core damage to one of its liquid metal (lead-bismuth) cooled vt-1 reactors, resulting in 9 fatalities and 83 other injuries; scuttled in the kara sea in 1982.[2]
+k-140, 1968: the reactor was damaged following an uncontrolled, automatic increase in power during shipyard work.[26]
+k-429, 1970: an uncontrolled start-up of the ship's reactor led to a fire and the release of radioactivity[26]
+k-116, 1970: suffered a loss-of-coolant accident in the port reactor; substantial radioactivity released.
+k-64, 1972: the first alfa-class liquid-metal cooled reactor failed; reactor compartment scrapped.
+k-222, 1980: the papa-class submarine had a reactor accident during maintenance in the shipyard while the ship's naval crew had left for lunch.[26]
+k-123, 1982: the alfa-class submarine reactor core damaged by liquid-metal coolant leak; the sub was forced out of commission for eight years.[26][27]
+k-431, 1985: a reactor accident while refueling resulted in 10 fatalities and 49 other people suffered radiation injuries.[3]
+k-219, 1986: suffered an explosion and fire in a missile tube, eventually leading to a reactor accident; a 20-year-old enlisted seaman, sergei preminin, sacrificed his life to secure one of the onboard reactors. the submarine sank three days later.
+k-192, 1989 (reclassified from k-131): suffered a loss-of-coolant accident due to a break in the starboard reactor loop.
+other major accidents and sinkings[edit]
+uss thresher (ssn-593), 1963: was lost during deep diving tests with 129 crew and shipyard personnel on board; later investigation concluded that failure of a brazed pipe joint and ice formation in the ballast blow valves prevented surfacing. the accident motivated a number of safety changes to the u.s. fleet. thresher was the first of only two submarines to exceed 100 onboard deaths, joined by the russian kursk's 118 lost in 2000.
+k-3, 1967: the first soviet nuclear submarine experienced a fire associated with the hydraulic system, killing 39 sailors.
+uss scorpion (ssn-589), 1968: was lost at sea, evidently due to implosion upon sinking. what caused scorpion to descend to its crush depth is not known.
+uss guitarro (ssn-665), 1969: sank while pier-side in shipyard due to improper ballasting. the submarine was eventually completed and commissioned.
+k-8, 1970: a fire and a towing accident resulted in the boat's sinking and loss of all 52 crewmen remaining aboard.
+k-56, 1973: a collision with another soviet vessel led to flooding of the battery well and many crew deaths due to chlorine gas.
+k-429, 1983: the sub survivably sank to the ocean bottom due to flooding from improper rig-for-dive and shipyard errors; 16 crewmen were killed.
+k-278 komsomolets, 1989: the soviet submarine sank in barents sea due to a fire.
+k-141 kursk, 2000: lost at sea with all 118 crewmen on board; the generally accepted theory is that a leak of hydrogen peroxide in the forward torpedo room led to the detonation of a torpedo warhead, which in turn triggered the explosion of half a dozen other warheads about two minutes later.
+ehime maru and uss greeneville, 2001: the american submarine surfaced underneath the japanese training vessel. nine japanese crewmembers, students, and teachers were killed when their ship sank as a result of the collision.[28]
+k-159, 2003: sank in the barents sea while being towed to be scrapped, killing nine crewmen.
+uss san francisco (ssn-711), 2005: collided with a seamount in the pacific ocean. a crew member was killed and 23 others were injured.
+uss miami (ssn-755), 2012: the submarine's forward compartment was destroyed by an arsonist-set fire while in shipyard, causing damage with an estimated $700 million in repair costs.  while repairs were initially planned upon, due to budget cuts the boat was subsequently scrapped.[29]
+see also[edit]
+ ballistic missile submarine – submarine able to launch ballistic missiles
+ attack submarine – submarine designed to destroy other ships
+ list of nuclear submarines
+ nuclear-powered icebreaker – ship type capable of navigating through waters covered with ice
+ nuclear marine propulsion
+ ssn (hull classification symbol)
+ submarine – watercraft capable of independent operation underwater
+ history of submarines
+ list of lost united states submarines
+notes[edit]
+
+
+^ the only other submarine to sink a warship since world war ii is the pakistani navy's pns hangor.
+
+
+references[edit]
+
+
+
+
+^ naval technology – ssn astute class – attack submarine[dubious  – discuss]
+
+^ a b c d johnston, robert (september 23, 2007). "deadliest radiation accidents and other events causing radiation casualties". database of radiological incidents and related events..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ a b c follow time facebook twitter google + tumblr (25 march 2009). "the worst nuclear disasters". time. retrieved 2 may 2012.
+
+^ "little book" (pdf). retrieved 2 may 2012.
+
+^ nuclear propulsion
+
+^ uss nautilus (ssn-571)
+
+^ submarine history 1945–2000: a timeline of development
+
+^ gardiner & chumbley, p. 403
+
+^ "nuclear-powered ballistic missile submarines – project 667a". retrieved 26 july 2015.
+
+^ submarine milestones – largest subs; 1981: typhoon class (soviet and russian) national geographic
+
+^ "archived copy". archived from the original on 2001-11-15. retrieved 2017-11-01.cs1 maint: archived copy as title (link)
+
+^ "archived copy". archived from the original on 2006-02-13. retrieved 2017-11-01.cs1 maint: archived copy as title (link)
+
+^ "argentina, brazil eye joint project for nuclear submarine". the times of india. 25 february 2008. archived from the original on 1 march 2008. retrieved 27 march 2008.
+
+^ sarah diehl & eduardo fujii (march 2008). brazil’s pursuit of a nuclear submarine raises proliferation concerns. wmd insights. archived from the original on 2008-03-16. retrieved 27 march 2008.
+
+^ "exclusive: royal navy's most advanced submarine hms astute set for home on the river clyde". daily record. 13 november 2009. retrieved 20 november 2009.
+
+^ samuel upton newtan nuclear war i and other major nuclear disasters of the 20th century p.291, authorhouse, 2007 isbn 978-1-4259-8511-0
+
+^ diplomat, saurav jha, the. "india's undersea deterrent". the diplomat. retrieved 2016-04-09.
+
+^ "india to build 6 nuclear-powered submarines - navy chief". sputnik international. sputnik. 4 december 2015.
+
+^ "from india today magazine: a peek into india's top secret and costliest defence project, nuclear submarines". india today. retrieved 2018-12-29.
+
+^ "à espera de submarino nuclear, marinha abre concurso para submarinistas". sputnik. 25 july 2018.
+
+^ "programa nuclear da marinha". brazilian navy. retrieved 9 december 2018.
+
+^ http://www.navy.mil/navydata/testimony/safety/bowman031029.txt
+
+^ kristin shrader-frechette (october 2011). "fukushima, flawed epistemology, and black-swan events" (pdf). ethics, policy and environment, vol. 14, no. 3.
+
+^ "k-8 submarine reactor accident, 1960". retrieved 26 july 2015.
+
+^ strengthening the safety of radiation sources archived 2009-06-08 at webcite p. 14.
+
+^ a b c d "chap. 8: nuclear submarine accidents – the russian northern fleet". retrieved 26 july 2015.
+
+^ "k-19 and other subs in peril". retrieved 26 july 2015.
+
+^ ehime maru and uss greeneville collision
+
+^ "how the fire-damaged uss miami will be scrapped". the washingtion times. retrieved 26 july 2015.
+
+
+friedman, norman (1984). submarine design and development. conway maritime. isbn 0-87021-954-5.
+friedman, norman (1994). u.s. submarines since 1945: an illustrated design history. naval institute press. isbn 1-55750-260-9.
+further reading[edit]
+erickson, andrew erickson; lyle goldstein (winter 2007). "china's future nuclear submarine force: insights from chinese writings" (pdf). naval war college review. 60 (1): 54–79. retrieved 25 august 2009.[dead link]
+offley, edward "ed" (2007). scorpion down (hardcover ed.). new york: basic books by perseus press. isbn 978-0-465-05185-4.
+polmar, norman & moore, j.k. (2004). cold war submarines: the design and construction of u.s. and soviet submarines (paperback ed.). washington, dc: potomac books, inc. isbn 1-57488-530-8.
+external links[edit]
+
+
+
+wikimedia commons has media related to nuclear submarines.
+nuclear propulsion – federation of american scientists
+v.m. bukhalov – atomic-powered submarine design
+fast attacks and boomers: submarines in the cold war an online exhibition from the national museum of american history, smithsonian institution
+on eternal patrol, website listing all us submarines and submariners lost on duty
+vteship classes of the indian navyaircraft carriers
+vikrant (majestic) +
+viraat (centaur) +
+vikramaditya (kiev)
+vikrant *
+destroyers
+hunt +
+q and r +
+rajput
+delhi
+kolkata
+visakhapatnam *
+frigates
+river +
+blackwood +
+whitby +
+leopard +
+nilgiri +
+leander +
+godavari
+brahmaputra
+talwar
+shivalik
+project 17a *
+corvettes
+bathurst +
+arnala +
+durg +
+veer
+abhay
+khukri
+kora
+kamorta
+abhay-class replacement *
+next generation missile vessels *
+fast attack craft
+vidyut +
+chamak +
+nuclear submarinesattack
+charlie +
+akula-ii
+indian ssn *
+ballistic missile
+arihant
+conventional submarines
+kalvari (1967) +
+vela +
+sindhughosh
+shishumar
+kalvari
+project 75i *
+midget submarines
+indian navy swimmer delivery vehicle *
+amphibious warfare ships
+kumbhir
+magar
+shardul
+jalashwa
+indian mrsv *
+research and survey vessels
+makar
+sandhayak
+sagardhwani
+grse class *
+patrol craft
+seaward
+sukanya
+super dvora mk ii
+trinkat
+bangaram
+car nicobar
+saryu
+project 21 *
+minesweeper
+bangor +
+ton +
+ham +
+mahe +
+pondicherry
+gsl mine counter-measure vessels *
+replenishment ship
+deepak
+komandarm fedko
+aditya
+ambika
+tugboats
+anand
+anjan
+arga
+balram
+bhim
+gaj
+madan singh
+ferries
+gsl
+manoram
+shalimar *
+barges
+poshak
+vipul *
+modest *
+corporated *
+hooghly *
+training
+tir
+abg-class cadet training ship
+
++ decommissioned
+* under construction/procurement
+** proposed/design phase
+list of active indian navy ships
+submarines of the indian navy
+list of ships of the indian navy
+future of the indian navy
+
+current and planned ssn classes people's liberation army navy
+han
+shang
+type 095
+ french navy
+rubis
+barracuda
+ indian navy
+akula
+indian ssn
+ russian navy
+victor iii
+sierra i & ii
+akula
+yasen
+ royal navy
+trafalgar
+astute
+ united states navy
+los angeles
+seawolf
+virginia
+
+vtessbn classes in service people's liberation army navy
+type 092 (xia)
+type 094 (jin)
+ french navy
+triomphant
+ indian navy
+arihant
+ russian navy
+delta iii
+typhoon
+delta iv
+borei
+ royal navy
+vanguard
+ united states navy
+ohio
+
+authority control 
+gnd: 4295778-3
+nara: 10662840
+ndl: 00562402
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=nuclear_submarine&oldid=877229872"					
+categories: american inventionsnuclear-powered submarineshidden categories: all accuracy disputesarticles with disputed statements from march 2016cs1 maint: archived copy as titlewebarchive template webcite linksarticles with short descriptionarticles containing potentially dated statements from 2011all articles containing potentially dated statementsall articles with unsourced statementsarticles with unsourced statements from may 2012all articles with dead external linksarticles with dead external links from october 2010commons category link is on wikidatawikipedia articles with gnd identifierswikipedia articles with nara identifierswikipedia articles with ndl identifiers 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+العربيةazərbaycancaবাংলাбългарскиcatalàčeštinadeutscheestiespañolesperantoeuskaraفارسیfrançaisgalego한국어हिन्दीbahasa indonesiaitalianoעבריתbahasa melayunederlands日本語polskiportuguêsрусскийslovenščinaсрпски / srpskisrpskohrvatski / српскохрватскиsvenskaதமிழ்татарча/tatarçatürkçeукраїнськаtiếng việt粵語中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 7 january 2019, at 10:57 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.892","walltime":"1.202","ppvisitednodes":{"value":13966,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":153742,"limit":2097152},"templateargumentsize":{"value":16029,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":73089,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  993.781      1 -total"," 24.35%  242.023      3 template:reflist"," 11.68%  116.047     13 template:cite_web"," 10.23%  101.645      9 template:annotated_link"," 10.00%   99.396     28 template:ship","  9.58%   95.227      4 template:military_navigation","  9.46%   94.004     22 template:template_parameter_value","  9.16%   91.045      1 template:commons_category","  7.37%   73.193      1 template:ship_classes_of_the_indian_navy","  7.26%   72.156      9 template:flagicon"]},"scribunto":{"limitreport-timeusage":{"value":"0.367","limit":"10.000"},"limitreport-memusage":{"value":8404563,"limit":52428800}},"cachereport":{"origin":"mw1253","timestamp":"20190217203853","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":1321,"wghostname":"mw1253"});});
+
+

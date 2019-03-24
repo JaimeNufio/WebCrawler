@@ -1,0 +1,570 @@
+
+
+
+
+duecento - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"duecento","wgtitle":"duecento","wgcurrevisionid":866659313,"wgrevisionid":866659313,"wgarticleid":30205647,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["italian renaissance","italian culture"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"duecento","wgrelevantarticleid":30205647,"wgrequestid":"xgmqcwpamesaaggksk8aaaar","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q1263842","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+duecento 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+ the gold florin of firenze started to be the main currency of european trade during the duecento
+art of italy
+periods
+
+etruscan
+ancient roman
+gothic
+renaissance and mannerism
+baroque and rococo
+neoclassical and 19th century
+modern and contemporary
+
+
+centennial divisions
+duecento
+trecento
+quattrocento
+cinquecento
+seicento
+settecento
+
+important art museums
+uffizi
+pinacoteca di brera
+vatican museums
+villa borghese
+sabauda gallery
+gallerie dell'accademia
+pitti palace
+accademia di belle arti firenze
+bargello
+
+important art festivals
+venice biennale
+rome quadriennale
+
+major works
+the tribute money (masaccio)
+the birth of venus
+primavera
+mona lisa
+the last supper
+annunciation (leonardo)
+sistine chapel ceiling
+sistine madonna
+pietà
+the last judgment
+the creation of adam
+david (michelangelo)
+the school of athens
+the battle of san romano
+venus of urbino
+david (donatello)
+the calling of st. matthew
+unique forms of continuity in space
+
+italian artists
+painters
+sculptors
+architects
+photographers
+illustrators
+
+italian art schools
+bolognese school
+ferrarese school
+forlivese school
+florentine school
+lucchese and pisan school
+sienese school
+venetian school
+
+art movements
+renaissance
+mannerism
+baroque
+macchiaioli
+metaphysical art
+futurism
+arte povera
+novecento italiano
+pittura infamante
+purismo
+transavantgarde
+scuola romana
+
+other topics
+italian architecture
+sculpture of italy
+timeline of italian artists to 1800
+raphael rooms
+vte
+duecento was the italian word for the italian culture during the 13th century.
+
+contents
+
+1 characteristics
+2 italian literature
+3 italian painting
+4 italian architecture
+5 see also
+6 notes
+7 bibliography
+
+
+characteristics[edit]
+in the 13th century, much of europe experienced strong economic growth. 
+
+ "pulpito del battistero di pisa", of nicola pisano.[1]
+the trade routes of the italian states linked with those of established mediterranean ports and eventually the hanseatic league of the baltic and northern regions of europe to create a network economy in europe for the first time since the 4th century. the city-states of italy expanded greatly during this period and grew in power to become de facto fully independent of the holy roman empire; outside european powers kept their armies out of italy.
+during this period, the modern commercial infrastructure developed, with the creation in italy of the double-entry book-keeping, joint stock companies, an international banking system, a systematized foreign exchange market, insurance, and government debt.[2] florence became the centre of this financial industry and the gold florin became the main currency of international trade. the republic of venice and the republic of genova dominated the trade in the mediterranean sea.
+many argue that the ideas that characterized the renaissance had their origin in late 13th century florence, in particular with the writings of dante alighieri (1265–1321) [3] as well as the painting of giotto (1267–1337).
+the duecento was followed by the beginning of the italian renaissance during the trecento.
+
+italian literature[edit]
+ vita di san francesco, of bonaventura berlinghieri, 1235
+the thirteenth-century italian literary revolution helped set the stage for the renaissance. prior to the renaissance, the italian language was not the literary language in italy.  
+it was only in the 13th century that italian authors began writing in their native language rather than latin, french, or provençal.  the 1250s saw a major change in italian poetry as the dolce stil novo (sweet new style, which emphasized platonic rather than courtly love) came into its own, pioneered by poets like guittone d'arezzo and guido guinizelli.  especially in poetry, major changes in italian literature had been taking place decades before the renaissance truly began.
+with the printing of books initiated in venice by aldus manutius, an increasing number of works began to be published in the italian language in addition to the flood of latin and greek texts that constituted the mainstream of the italian renaissance.
+the source for these works expanded beyond works of theology and towards the pre-christian eras of imperial rome and ancient greece.
+this is not to say that no religious works were published in this period:  dante alighieri's the divine comedy reflects a distinctly medieval world view.  this masterpiece helped establish the tuscan language, in which it is written (also in most present-day italian-market editions), as the standardized italian language.[4]
+christianity remained a major influence for artists and authors, with the classics coming into their own as a second primary influence.
+
+italian painting[edit]
+ madonna and child by duccio di buoninsegna, created in 1280
+the art of the region of tuscany (and northern italy) in the second half of the 13th century was dominated by two masters: cimabue of florence and duccio of siena. their commissions were mostly religious paintings, several of them being very large altarpieces showing the madonna and child. these two painters, with their contemporaries, guido of siena, coppo di marcovaldo and the mysterious painter upon whose style the school may have originated, the so-called master of st bernardino, all worked in a manner that was highly formalised and dependent upon the ancient tradition of icon painting.[5] cimabue and duccio both took steps in the direction of greater naturalism, as did their contemporary, pietro cavallini of rome.
+giotto (born in 1266) by tradition a shepherd boy from the hills north of florence, became cimabue's apprentice and emerged as the most outstanding painter of his time.[6] giotto, possibly influenced by pietro cavallini and other roman painters, did not base the figures that he painted upon any painterly tradition, but upon the observation of life. unlike those of his byzantine-related  contemporaries, giotto's figures are solidly three-dimensional; they stand squarely on the ground, have discernible anatomy and are clothed in garments with weight and structure. but more than anything, what set giotto's figures apart from those of his contemporaries are their emotions. in the faces of giotto's figures are joy, rage, despair, shame, spite and love. the cycle of frescoes of the life of christ and the life of the virgin that he painted in the scrovegni chapel in padua set a new standard for narrative pictures. his ognissanti madonna hangs in the uffizi gallery, florence, in the same room as cimabue's santa trinita madonna and duccio's ruccellai madonna where the stylistic comparisons between the three can easily be made.[7] one of the features apparent in giotto's work is his observation of naturalistic perspective. he is regarded as the herald of the renaissance.[8]
+
+italian architecture[edit]
+in the early duecento in italy started to appear the italian gothic. the first italian gothic edifices were cistercian abbeys. they spread in the whole italian territory, often adapting the construction techniques to the local traditions. there were in fact brickwork edifices in the pianura padana, while stone prevailed in central italy and tuscany. in the latter was sometimes present the by-chrome wall decoration from the local romanesque tradition.
+the most important edifices include the chiaravalle abbey in northern italy and the casamari abbey in central italy. among the non-cistercian buildings of this century which were influenced by the gothic style, though still presenting important romanesque features, are the parma baptistery by benedetto antelami and the church of sant'andrea in vercelli, also featuring antelami's influences.
+this century saw the construction of numerous gothic buildings for the mendicant orders. the most important ones include:
+
+basilica of san francesco of assisi (1228–1253)
+church of santa maria della spina, pisa (1230)
+basilica of sant'antonio of padua
+church of san francesco, bologna (1236–1263)
+church of santa maria novella, florence
+also notable is the civil and military construction program promoted by emperor and king of sicily frederick ii of hohenstaufen in southern italy at the beginning of the century. the most important works promoted by him include:
+
+castel del monte, in apulia
+castel maniace, in syracuse, sicily
+triumphal gate in capua (destroyed)
+in this period some cathedrals were also constructed or finished, such as the siena cathedral.
+
+see also[edit]
+trecento - the 14th century in italian culture
+quattrocento - the 15th century in italian culture
+cinquecento - the 16th century in italian culture
+seicento - the 17th century in italian culture
+settecento - the 18th century in italian culture
+italian renaissance
+history of italy
+notes[edit]
+
+
+^ de vecchi, pierluigi; necchi, elda cerchiari (1999). i tempi dell'arte. 1. milano: bompiani. p. 416. isbn 9788845171079..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ burke, peter (23 february 2014). the italian renaissance: culture and society in italy. princeton university press. p. 232. isbn 9780691162409.
+
+^ knight, kevin (2017). "dante and his time". catholic encyclopedia. retrieved 9 october 2018  – via new advent.
+
+^ lepschy, anna laura; lepschy, giulio c. (1977). the italian language today. hutchinson. p. 284. isbn 9780091280208. jstor 478819.
+
+^ white, john (1979). duccio: tuscan art and the medieval workshop. thames and hudson. p. 280. isbn 9780500091357. oclc 5976552.
+
+^ vasari, giorgio (1568). lives of the artists.
+
+^ all three are reproduced and compared at italian renaissance painting, development of themes
+
+^ eimerl, sarel (1967). the world of giotto. time, inc. p. 199. oclc 518807.
+
+
+bibliography[edit]
+burke, peter. the italian renaissance: culture and society in italy princeton university press. princeton, 1999.
+shaw, prue. reading dante: from here to eternity. liveright publishing. new york, 2014  isbn 978-1-63149-006-4.
+vteitaly articleshistorychronology
+prehistory
+italic peoples
+ancient peoples of italy
+pre-nuragic sardinia
+nuragic peoples
+etruscan civilization
+nuragic civilization
+phoenician/carthaginian colonies
+magna graecia
+ancient rome
+kingdom
+republic
+empire
+middle ages
+italy under odoacer
+ostrogoths
+byzantium
+lombards
+the holy roman empire
+the sardinian judicates
+arabs
+normans
+guelphs and ghibellines
+the italian city-states
+the maritime republics
+renaissance
+italian wars
+early modern period
+unification
+revolutions of 1820
+revolutions of 1830
+revolutions of 1848
+sicilian revolution of 1848
+first war of independence
+crimean war
+second war of independence
+expedition of the thousand
+third war of independence
+capture of rome
+monarchy and the world wars
+kingdom of italy
+colonial empire
+world war i
+fascist italy
+world war ii
+resistance
+civil war
+republic
+economic boom
+years of lead
+years of mud
+mani pulite
+by topic
+citizenship
+currency
+economy
+fashion
+flags
+genetic
+historic states
+military
+music
+postal
+railways
+geography
+peninsula
+northern
+northwest
+northeast
+central
+southern
+south
+insular
+climate
+fauna
+flora
+mountains
+prealps
+alps
+apennines
+volcanology
+volcanoes
+beaches
+canals
+caves
+earthquakes
+islands
+lakes
+national parks
+rivers
+valleys
+politics
+constitution
+elections
+referendums
+foreign relations
+missions
+judiciary
+law enforcement
+military
+parliament
+chamber of deputies
+senate
+political parties
+president
+prime minister
+council of ministers
+regions
+provinces
+metropolitan cities
+comune
+municipalities
+cities
+economy
+economic history
+milan
+naples
+rome
+turin
+regions by gdp
+automotive industry
+banking
+central bank
+companies
+energy
+government debt
+science and technology
+stock exchange
+taxation
+telecommunications
+internet
+tourism
+trade unions
+transportation
+welfare
+society
+abortion
+adoption
+billionaires
+capital punishment
+corruption
+crime
+demographics
+education
+secondary
+higher
+universities
+emigration
+fathers' rights movement
+feminism
+gambling
+health
+healthcare
+immigration
+lgbt rights
+nobility
+prostitution
+racism
+religion
+smoking
+social class
+terrorism
+women
+culture
+duecento
+trecento
+quattrocento
+cinquecento
+seicento
+settecento
+architecture
+art
+castles
+cinema
+cuisine
+beer
+wine
+cultural icons
+decorations
+design
+fashion
+festivals
+folklore
+italian language
+regional italian
+italian literature
+italophilia
+italophobia
+languages
+media
+newspapers
+radio
+tv
+monuments
+music
+classical
+folk
+opera
+popular
+mythology
+national symbols
+anthem
+emblem
+flag
+regions
+national monument
+personification
+people
+philosophy
+public holidays
+festa della repubblica
+sculpture
+sport
+traditions
+world heritage sites
+
+ italy portal
+ category
+ commons
+ news
+quotes
+travel
+ wikiproject
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=duecento&oldid=866659313"					
+categories: italian renaissanceitalian culture 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+беларускаяcatalàdeutschespañolfrançaisnederlandsрусскийsimple englishукраїнська 
+edit links 
+
+
+
+
+
+ this page was last edited on 31 october 2018, at 18:31 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.376","walltime":"0.514","ppvisitednodes":{"value":1481,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":109462,"limit":2097152},"templateargumentsize":{"value":21256,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":19,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":22699,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  364.512      1 -total"," 43.05%  156.915      1 template:reflist"," 35.03%  127.689      6 template:cite_book"," 30.37%  110.704      1 template:italy_topics"," 29.02%  105.768      6 template:navbox"," 28.99%  105.689      1 template:country_topics"," 13.53%   49.308      1 template:art_of_italy"," 12.35%   45.008      1 template:sidebar"," 11.71%   42.671      1 template:isbn","  5.28%   19.233      1 template:coat_of_arms"]},"scribunto":{"limitreport-timeusage":{"value":"0.143","limit":"10.000"},"limitreport-memusage":{"value":3700914,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1264","timestamp":"20190210121652","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"duecento","url":"https:\/\/en.wikipedia.org\/wiki\/duecento","sameas":"http:\/\/www.wikidata.org\/entity\/q1263842","mainentity":"http:\/\/www.wikidata.org\/entity\/q1263842","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2010-12-27t05:42:45z","datemodified":"2018-10-31t18:31:35z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1a\/1252-1303_fiorino_d%27oro_iii_serie.jpg","headline":"italian term for the 13th century"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":121,"wghostname":"mw1240"});});
+
+

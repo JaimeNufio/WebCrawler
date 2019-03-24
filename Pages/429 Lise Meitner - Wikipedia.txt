@@ -1,0 +1,468 @@
+
+
+
+
+lise meitner - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"lise_meitner","wgtitle":"lise meitner","wgcurrevisionid":882081841,"wgrevisionid":882081841,"wgarticleid":18070,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["pages containing links to subscription-only content","cs1 german-language sources (de)","cs1 french-language sources (fr)","articles with swedish-language external links","use british english from january 2015","interlanguage link template link number","biography with signature","infobox person using alma mater","articles with hcards","commons category link is on wikidata","use dmy dates from november 2018","wikipedia articles with bne identifiers","wikipedia articles with bnf identifiers","wikipedia articles with gnd identifiers","wikipedia articles with isni identifiers","wikipedia articles with lccn identifiers","wikipedia articles with mgp identifiers","wikipedia articles with ndl identifiers","wikipedia articles with nkc identifiers","wikipedia articles with selibr identifiers","wikipedia articles with snac-id identifiers","wikipedia articles with sudoc identifiers","wikipedia articles with viaf identifiers","wikipedia articles with worldcat-viaf identifiers","1878 births","1968 deaths","20th-century physicists","20th-century austrian scientists","20th-century swedish scientists","20th-century women scientists","austrian women physicists","swedish women physicists","austrian nuclear physicists","swedish nuclear physicists","women nuclear physicists","jewish physicists","discoverers of chemical elements","royal institute of technology academics","stockholm university academics","fellows of the american academy of arts and sciences","members of the royal swedish academy of sciences","foreign members of the royal society","enrico fermi award recipients","recipients of the austrian decoration for science and art","recipients of the order of merit of the federal republic of germany","recipients of the pour le mérite (civil class)","winners of the max planck medal","austrian jews","swedish jews","swedish people of austrian-jewish descent","austrian emigrants to sweden","jewish emigrants from austria after the anschluss","converts to lutheranism from judaism","austrian lutherans","people from leopoldstadt","otto hahn","catholic university of america faculty","members of the german academy of sciences at berlin"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"lise_meitner","wgrelevantarticleid":18070,"wgrequestid":"xgixnapaaeuaabljwrwaaadn","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q56189","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+lise meitner 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+
+
+lise meitnerlise meitner in 1946born7 november 1878[1][2]vienna, austria-hungarydied27 october 1968(1968-10-27) (aged 89)cambridge, englandresidenceaustria, germany, sweden, united kingdomcitizenshipaustria (pre-1949), sweden (post-1949)alma materuniversity of viennaknown fornuclear fissionawards
+lieben prize (1925)
+max planck medal (1949)
+otto hahn prize (1955)
+formemrs (1955)[3]
+wilhelm exner medal (1960)
+enrico fermi award (1966)
+scientific careerfieldsphysicsinstitutionskaiser wilhelm instituteuniversity of berlin,manne siegbahn laboratory [sv]university college of stockholmdoctoral advisorfranz s. exnerother academic advisorsludwig boltzmann max planckdoctoral studentsarnold flammersfeldkan-chang wangnikolaus riehlother notable studentsmax delbrückhans hellmanninfluencedotto hahn
+signature
+lise meitner (/ˈliːzə ˈmaɪtnər/; german: [ˈmaɪtnɐ]; 7 november 1878 – 27 october 1968) was an austrian-swedish physicist who worked on radioactivity and nuclear physics. meitner, otto hahn and otto robert frisch led the small group of scientists who first discovered nuclear fission of uranium when it absorbed an extra neutron; the results were published in early 1939.[4][5] meitner, hahn and frisch understood that the fission process, which splits the atomic nucleus of uranium into two smaller nuclei, must be accompanied by an enormous release of energy. nuclear fission is the process exploited by nuclear reactors to generate heat and, subsequently, electricity.[6] this process is also one of the basics of nuclear weapons that were developed in the u.s. during world war ii and used against japan in 1945. 
+meitner spent most of her scientific career in berlin, germany, where she was a physics professor and a department head at the kaiser wilhelm institute; she was the first woman to become a full professor of physics in germany. she lost these positions in the 1930s because of the anti-jewish nuremberg laws of nazi germany, and in 1938 she fled to sweden, where she lived for many years, ultimately becoming a swedish citizen.
+meitner received many awards and honors late in her life, but she and otto frisch, did not share in the 1944 nobel prize in chemistry for nuclear fission that was awarded exclusively to her long-time collaborator otto hahn. in the 1990s, the records of the committee that decided on that prize were opened. based on this information, several scientists and journalists have called her exclusion "unjust", and meitner has received many posthumous honors, including naming chemical element 109 meitnerium in 1992.[7][8][9][10][11] despite not having been awarded the nobel prize, lise meitner was invited to attend the lindau nobel laureate meeting in 1962.[12]
+
+contents
+
+1 early years
+2 education
+3 scientific career
+
+3.1 nuclear fission
+
+
+4 nobel prize for nuclear fission
+5 later years
+6 awards and honours
+7 see also
+8 references
+9 further reading
+10 external links
+
+
+early years[edit]
+ meitner in 1906
+she was born elise meitner on 7 november 1878 into a jewish upper-middle-class family in vienna, 2nd district (leopoldstadt), the third of eight children. her father philipp meitner[13] was one of the first jewish lawyers in austria.[14] she shortened her name from elise to lise.[15] the birth register of vienna's jewish community lists meitner as being born on 17 november 1878, but all other documents list her date of birth as 7 november, which is what she used.[1] as an adult, she converted to christianity, following lutheranism,[1][16] and was baptized in 1908.[17]
+
+education[edit]
+meitner's earliest research began at age 8, when she kept a notebook of her records underneath her pillow. she was particularly drawn to math and science, and first studied colors of an oil slick, thin films, and reflected light. women were not allowed to attend public institutions of higher education in vienna around 1900, but meitner was able to achieve a private education in physics in part because of her supportive parents, and she completed in 1901 with an "externe matura" examination at the akademisches gymnasium.[3][18]
+meitner studied physics and went on to become the second woman to obtain a doctoral degree in physics at the university of vienna in 1905 (her dissertation was on "heat conduction in an inhomogeneous body").[14] 
+while at the university, she took her studies very seriously. because she was unsure if she wanted to study mathematics or physics, she attended multiple lectures in both areas of study, "taking more notes than the registered students". 
+while studying a beam of alpha particles, she found that scattering increased with the atomic mass of the metal atoms, in her experiments with collimators and metal foil, which led ernest rutherford later on to the nuclear atom, and which had been her forte, submitting her report of same to the physikalische zeitschrift on 29 june 1907.[19]
+after she received her doctorate, meitner rejected an offer to work in a gas lamp factory. encouraged by her father and backed by his financial support, she went to the friedrich-wilhelms-universität in berlin where famous physicist max planck allowed her to attend his lectures, an unusual gesture by planck, who until then had rejected any woman wanting to attend his lectures.[20][21]
+
+scientific career[edit]
+after one year of attending planck's lectures, meitner became planck's assistant. during the first years she worked together with chemist otto hahn and together with him discovered several new isotopes. in 1909 she presented two papers on beta radiation. she also, together with otto hahn, discovered and developed a physical separation method known as radioactive recoil, in which a daughter nucleus is forcefully ejected from its matrix as it recoils at the moment of decay.
+in 1912, the research group hahn–meitner moved to the newly founded kaiser-wilhelm-institute (kwi) in berlin-dahlem, south west in berlin. she worked without salary as a "guest" in hahn's department of radiochemistry. it was not until 1913, at 35 years old and following an offer to go to prague as associate professor, that she got a permanent position at kwi.
+in the first part of world war i, she served as a nurse handling x-ray equipment. she returned to berlin and her research in 1916, but not without inner struggle. she felt in a way ashamed of wanting to continue her research efforts when thinking about the pain and suffering of the victims of war and their medical and emotional needs.[22]
+
+ lise meitner and otto hahn in their laboratory
+in 1917, she and hahn discovered the first long-lived isotope of the element protactinium, for which she was awarded the leibniz medal by the berlin academy of sciences. that year, meitner was given her own physics section at the kaiser wilhelm institute for chemistry.[14]
+in 1922, she discovered the cause of the emission of electrons from surfaces of atoms with 'signature' energies, known as the auger effect.[23] the effect is named for pierre victor auger, a french scientist who independently discovered the effect in 1923.[24][25]
+in 1926, meitner became the first woman in germany to assume a post of full professor in physics, at the university of berlin. in 1935, as head of the physics department of the kaiser wilhelm institute for chemistry in berlin-dahlem (today the hahn-meitner building of the free university) she and otto hahn, the director of the kwi, undertook the so-called "transuranium research" program.  this program eventually led to the unexpected discovery of nuclear fission of heavy nuclei in december 1938, half a year after she had left berlin. she was praised by albert einstein as the "german marie curie".[14][26]
+while at the kaiser wilhelm institute, meitner corresponded with james chadwick at the cavendish laboratory at cambridge. as chadwick and others were attempting to prove the existence of the neutron, meitner sent polonium to chadwick for his experiments. chadwick eventually required and received more polonium for his experiments from a hospital in baltimore, but he would remain grateful to meitner.[27] later, he said he was "quite convinced that [meitner] would have discovered the neutron if it had been firmly in her mind, if she had had the advantage of, say, living in the cavendish for years, as i had done."[28]
+in 1930, meitner taught a seminar on nuclear physics and chemistry with leó szilárd. after the discovery of the neutron in the early 1930s, the scientific community speculated that it might be possible to create elements heavier than uranium (atomic number 92) in the laboratory. a scientific race began between the teams of ernest rutherford in britain, irène joliot-curie in france, enrico fermi in italy, and meitner and hahn in berlin. at the time, all concerned believed that this was abstract research for the probable honour of a nobel prize. none suspected that this research would culminate in nuclear weapons.
+when adolf hitler came to power in 1933, meitner was still acting as head of the physics department of the kaiser wilhelm institute for chemistry. although she was protected by her austrian citizenship, all other jewish scientists, including szilárd, fritz haber, her nephew otto frisch, and many other eminent figures, were dismissed or forced to resign from their posts. most of them emigrated from germany. her response was to say nothing and bury herself in her work. after the anschluss in march 1938, her situation became difficult. on 13 july 1938, meitner, with the support of otto hahn and the help from the dutch physicists dirk coster and adriaan fokker, departed for the netherlands. she was forced to travel under cover to the dutch border, where coster persuaded german immigration officers that she had permission to travel to the netherlands. she reached safety, though without her possessions.[29] meitner later said that she left germany forever with 10 marks in her purse. before she left, otto hahn had given her a diamond ring he had inherited from his mother: this was to be used to bribe the frontier guards if required. it was not required, and meitner's nephew's wife later wore it.
+an appointment at the university of groningen did not come through, and with the help of eva von bahr and carl wilhelm oseen she went instead to stockholm, where she took up a post at manne siegbahn's laboratory [sv], despite the difficulty caused by siegbahn's prejudice against women in science. here she established a working relationship with niels bohr, who travelled regularly between copenhagen and stockholm. she continued to correspond with hahn and other german scientists.[30]
+
+nuclear fission[edit]
+on the occasion of a lecture by hahn in niels bohr's institute he, bohr, meitner and frisch met in copenhagen on 10 november 1938. later they continued to exchange a series of letters. in december hahn and his assistant fritz strassmann performed the difficult experiments which isolated the evidence for nuclear fission at their laboratory in berlin-dahlem. the surviving correspondence shows that hahn recognized that 'fission' was the only explanation for the presence of barium (at first he named the process a 'bursting' of the uranium), but, baffled by this remarkable conclusion, he wrote to meitner. the possibility that uranium nuclei might break up under neutron bombardment had been suggested years before, among others by ida noddack in 1934. however, by employing the existing "liquid-drop" model of the nucleus,[31] meitner and frisch, exclusively informed by hahn in advance, were therefore the first to articulate a theory of how the nucleus of an atom could be split into smaller parts: uranium nuclei had split to form barium and krypton, accompanied by the ejection of several neutrons and a large amount of energy (the latter two products accounting for the loss in mass). she and frisch had discovered the reason that no stable elements beyond uranium (in atomic number) existed naturally; the electrical repulsion of so many protons overcame the strong nuclear force.[31] they also first realized that einstein's famous equation, e = mc2, explained the source of the tremendous releases of energy in nuclear fission, by the conversion of rest mass into kinetic energy, popularly described as the conversion of mass into energy. ironically, meitner was motivated to begin these calculations in order to show that irène joliot-curie's interpretation of some experiments violated the liquid drop model.
+
+ nuclear fission experimental setup, reconstructed at the deutsches museum, munich
+a letter from bohr had sparked the above inspiration in december 1938: he commented on the fact that the amount of energy released when he bombarded uranium atoms was far larger than had been predicted by calculations based on a non-fissile core. but meitner and frisch later confirmed that chemistry had been solely responsible for the discovery, although hahn, as a chemist, was reluctant to explain the fission process in correct physical terms.
+in a later appreciation lise meitner wrote:[32]
+
+
+the discovery of nuclear fission by otto hahn and fritz strassmann opened up a new era in human history. it seems to me that what makes the science behind this discovery so remarkable is that it was achieved by purely chemical means.
+
+
+and in an interview with the west german television (ard, 8 march 1959) meitner said:[33]
+
+
+otto hahn and fritz strassmann were able to do this by exceptionally good chemistry, fantastically good chemistry, which was way ahead of what any one else was capable of at that time. the americans learned to do it later. but at that time, hahn and strassmann were really the only ones who could do it. and that was because they were such good chemists. somehow they really succeeded in using chemistry to demonstrate and prove a physical process.
+
+
+fritz strassmann responded in the same interview with this clarification:[33]
+
+
+professor meitner stated that the success could be attributed to chemistry. i have to make a slight correction. chemistry merely isolated the individual substances, it did not precisely identify them. it took professor hahn's method to do this. this is where his achievement lies.
+
+
+hahn and strassmann had sent the manuscript of their first paper to naturwissenschaften in december 1938, reporting they had detected and identified the element barium after bombarding uranium with neutrons;[34] simultaneously, hahn had communicated their results exclusively to meitner in several letters, and did not inform the physicists in his own institute.
+in their second publication on the evidence of barium (naturwissenschaften, 10 february 1939) hahn and strassmann used for the first time the name uranspaltung (uranium fission) and predicted the existence and liberation of additional neutrons during the fission process (which was proved later to be a chain reaction by frédéric joliot and his team). meitner and frisch were the first who correctly interpreted hahn's and strassmann's results as being nuclear fission, a term coined by frisch, and published their paper in nature.[4] frisch confirmed this experimentally on 13 january 1939.[5]
+these three reports, the first hahn-strassmann publication of 6 january 1939, the second hahn-strassmann publication of 10 february 1939, and the frisch-meitner publication of 11 february 1939, had electrifying effects on the scientific community. because there was a possibility that fission could be used as a weapon, and since the knowledge was in german hands, szilárd, edward teller, and eugene wigner jumped into action, persuading albert einstein, a celebrity, to write president franklin d. roosevelt a letter of caution. in 1940 frisch and rudolf peierls produced the frisch–peierls memorandum, which first set out how an atomic explosion could be generated, and this ultimately led to the establishment in 1942 of the manhattan project. meitner refused an offer to work on the project at los alamos, declaring "i will have nothing to do with a bomb!"[35] meitner said that hiroshima had come as a surprise to her, and that she was "sorry that the bomb had to be invented."[36]
+in sweden, meitner was first active at siegbahn's nobel institute for physics, and at the swedish national defence research institute (foa) and the royal institute of technology in stockholm, where she had a laboratory and participated in research on r1, sweden's first nuclear reactor. in 1947, a personal position was created for her at the university college of stockholm with the salary of a professor and funding from the council for atomic research.[37]
+
+nobel prize for nuclear fission[edit]
+the many honors that meitner received in her lifetime have long been overshadowed by the fact that she did not share the nobel prize for nuclear fission awarded to otto hahn. on 15 november 1945, the royal swedish academy of sciences announced that hahn had been awarded the 1944 nobel prize in chemistry for "his discovery of the fission of heavy atomic nuclei."[38]
+at the time meitner herself wrote in a letter, "surely hahn fully deserved the nobel prize for chemistry. there is really no doubt about it. but i believe that otto robert frisch and i contributed something not insignificant to the clarification of the process of uranium fission—how it originates and that it produces so much energy and that was something very remote to hahn."[39] in a similar vein, carl friedrich von weizsäcker, lise meitner's former assistant, later added that hahn "certainly did deserve this nobel prize. he would have deserved it even if he had not made this discovery. but everyone recognized that the splitting of the atomic nucleus merited a nobel prize."[40] frisch wrote similarly in a 1955 letter.[41]
+hahn's receipt of a nobel prize was long expected. both he and meitner had been nominated for both the chemistry and the physics prizes several times even before the discovery of nuclear fission.[42][43] in 1945 the committee in sweden that selected the nobel prize in chemistry decided to award that prize solely to hahn. in the 1990s, the long-sealed records of the nobel committee's proceedings became public, and the comprehensive biography of meitner published in 1996 by ruth lewin sime took advantage of this unsealing to reconsider meitner's exclusion.[44] in a 1997 article in the american physical society journal physics today, sime and her colleagues elisabeth crawford and mark walker wrote: "it appears that lise meitner did not share the 1944 prize because the structure of the nobel committees was ill-suited to assess interdisciplinary work; because the members of the chemistry committee were unable or unwilling to judge her contribution fairly; and because during the war the swedish scientists relied on their own limited expertise. meitner's exclusion from the chemistry award may well be summarized as a mixture of disciplinary bias, political obtuseness, ignorance, and haste."[45]
+max perutz, the 1962 nobel prizewinner in chemistry, reached a similar conclusion: "having been locked up in the nobel committee's files these fifty years, the documents leading to this unjust award now reveal that the protracted deliberations by the nobel jury were hampered by lack of appreciation both of the joint work that had preceded the discovery and of meitner's written and verbal contributions after her flight from berlin."[8]
+
+later years[edit]
+after the war, meitner, while acknowledging her own moral failing in staying in germany from 1933 to 1938, was bitterly critical of hahn, max von laue and other german scientists who, she thought, would have collaborated with the nazis and done nothing to protest against the crimes of hitler's regime. referring to the leading german nuclear physicist werner heisenberg, she said: "heisenberg and many millions with him should be forced to see these camps and the martyred people." in a june 1945 draft letter addressed to hahn, but never received by him, she wrote:
+
+ meitner's grave in bramley
+you all worked for nazi germany. and you tried to offer only a passive resistance. certainly, to buy off your conscience you helped here and there a persecuted person, but millions of innocent human beings were allowed to be murdered without any kind of protest being uttered ... [it is said that] first you betrayed your friends, then your children in that you let them stake their lives on a criminal war – and finally that you betrayed germany itself, because when the war was already quite hopeless, you did not once arm yourselves against the senseless destruction of germany.[46]
+after the war in the 1950s and 1960s, meitner again enjoyed visiting germany and staying with hahn and his family for several days on different occasions, particularly on 8 march 1959, to celebrate hahn's 80th birthday in göttingen, where she addressed recollections in his honour. also hahn wrote in his memoirs, which were published shortly after his death in 1968, that he and meitner had remained lifelong close friends.[47] even though their friendship was full of trials, arguably more so experienced by meitner, she "never voiced anything but deep affection for hahn."[48]
+in 1947, meitner retired from the siegbahn institute and started research in a new laboratory that was created specifically for her by the swedish atomic energy commission at the royal institute of technology. she became a swedish citizen in 1949. she retired in 1960 and moved to the uk where most of her relatives were, although she continued working part-time and giving lectures.
+a strenuous trip to the united states in 1964 led to meitner having a heart attack, from which she spent several months recovering. her physical and mental condition weakened by atherosclerosis, she was unable to travel to the us to receive the enrico fermi prize. president johnson sent glenn seaborg, the discoverer of plutonium, to present it to her. the presentation was made in the home of max perutz in cambridge. after breaking her hip in a fall and suffering several small strokes in 1967, meitner made a partial recovery, but eventually was weakened to the point where she moved into a cambridge nursing home.
+she died in her sleep on 27 october 1968 at the age of 89.[6] meitner was not informed of the deaths of otto hahn (d. july 1968) or his wife edith, as her family believed it would be too much for someone so frail.[6] as was her wish, she was buried in the village of bramley in hampshire, at st. james parish church, close to her younger brother walter, who had died in 1964. her nephew frisch composed the inscription on her headstone. it reads:
+
+lise meitner: a physicist who never lost her humanity.
+awards and honours[edit]
+ meitner with actress katharine cornell and physicist arthur compton on 6 june 1946, when meitner and cornell were receiving awards from the national conference of christians and jews
+on a visit to the usa in 1946, meitner received the honour of "woman of the year" by the national press club and had dinner with president harry truman and others at the women's national press club. she lectured at princeton, harvard and other us universities, and was awarded a number of honorary doctorates. she received jointly with hahn the max planck medal of the german physical society in 1949, and in 1955 she was awarded the first otto hahn prize of the german chemical society. in 1957 the german president theodor heuss awarded her the highest german order for scientists, the peace class of the pour le mérite. she was nominated by otto hahn for both honours. meitner's name was submitted, also by hahn, to the nobel prize committee more than ten times, but she was not accepted.
+meitner was elected a foreign member of the royal swedish academy of sciences in 1945, and had her status changed to that of a swedish member in 1951. four years later she was elected a foreign member of the royal society (formemrs).[3][49] she was elected a foreign honorary member of the american academy of arts and sciences in 1960.[50]
+meitner received 21 scientific honours and awards for her work (including 5 honorary doctorates and membership of 12 academies). in 1947 she received the award of the city of vienna for science. she was the first female member of the scientific class of the austrian academy of sciences. in 1960, meitner was awarded the wilhelm exner medal and in 1967, the austrian decoration for science and art.
+in 1966 hahn, fritz strassmann and meitner were jointly awarded the enrico fermi award by president lyndon b. johnson and the united states atomic energy commission (usaec) in washington d.c. lise meitner's diploma bears the words: "for pioneering research in the naturally occurring radioactivities and extensive experimental studies leading to the discovery of fission." otto hahn's diploma is different but essentially similar: "for pioneering research in the naturally occurring radioactivities and extensive experimental studies culminating in the discovery of fission."[51]
+
+ statue of meitner (anna franziska schwarzbach [de], 2014), humboldt university in berlin
+since meitner's 1968 death, she has received many naming honours. in 1997, element 109 was named meitnerium in her honour.[14][52][53] she is the first and so far only non-mythological woman thus honoured. (curium was named after both marie and pierre curie.) additional naming honours are the hahn–meitner-institut in berlin, craters on the moon and on venus, and the main-belt asteroid 6999 meitner.
+in 2000, the european physical society established the biannual "lise meitner prize" for excellent research in nuclear science.[54] in 2006 the "gothenburg lise meitner award" was established by the university of gothenburg in sweden; it is awarded annually to a scientist who has made a breakthrough in physics.[55] in 2008, the chemical, biological, radiological, and nuclear defense school of the austrian armed forces (nbc) established the lise meitner award.
+in october 2010, a building at the free university of berlin was named the hahn-meitner building; this was a renaming of a building previously known as the otto hahn building.[56] in july 2014 a statue of lise meitner was unveiled in the garden of the humboldt university of berlin next to similar statues of hermann von helmholtz and max planck.[57]
+a short residential street in bramley, her resting place, is named meitner close.[58] schools and streets were named after her in many cities in austria and germany.[59][60]
+since 2008 the austrian physical society together with the german physical society organize the lise-meitner lectures, a series of annual public talks given by distinguished female physicists, and since 2015 the albanova university centre in stockholm has an annual lise meitner distinguished lecture.
+in 2016, the institute of physics in the uk established the meitner medal for public engagement within physics.[61]
+in 2017, the advanced research projects agency-energy in the united states named a major nuclear energy research program in her honor.[62]
+
+see also[edit]
+list of austrian scientists
+hans-hermann hupfeld
+list of german inventors and discoverers
+lise meitner medal and prize
+timeline of women in science
+references[edit]
+
+
+^ a b c sime, ruth lewin (1996). lise meitner: a life in physics. california studies in the history of science. 13. berkeley, california: university of california press. p. 1. isbn 0-520-08906-5..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ "lise meitner | biography". atomicarchive.com. 27 october 1968. retrieved 9 april 2012.
+
+^ a b c frisch, o. r. (1970). "lise meitner. 1878–1968". biographical memoirs of fellows of the royal society. 16: 405–426. doi:10.1098/rsbm.1970.0016.
+
+^ a b meitner, l.; frisch, o. r. (1939). "disintegration of uranium by neutrons: a new type of nuclear reaction". nature. 143 (3615): 239. bibcode:1939natur.143..239m. doi:10.1038/143239a0.. meitner is identified as being at the physical institute, academy of sciences, stockholm. frisch is identified as being at the institute of theoretical physics, university of copenhagen.
+
+^ a b frisch, o. r. (1939). "physical evidence for the division of heavy nuclei under neutron bombardment". nature. 143 (3616): 276. bibcode:1939natur.143..276f. doi:10.1038/143276a0. [the experiment for this letter to the editor was conducted on 13 january 1939; see richard rhodes the making of the atomic bomb 263 and 268 (simon and schuster, 1986).]
+
+^ a b c "lise meitner dies; atomic pioneer, 89. lise meitner, physicist, is dead. paved way for splitting of atom". the new york times. 28 october 1968. retrieved 18 april 2008. dr. lise meitner, the austrian born nuclear physicist who first calculated the enormous energy released by splitting the uranium atom, died today in a cambridge nursing home. she was 89 years old.
+
+^ https://www.northernhighlands.org/cms/lib5/nj01000179/centricity/domain/32/history_sheets.pdf
+
+^ a b perutz, max f. (2002). "splitting the atom". i wish i'd made you angry earlier: essays on science, scientists, and humanity. p. 27. isbn 9780879695248. oclc 37721221. originally published as book review; see perutz, max (20 february 1997). "a passion for science". the new york review of books. (subscription required (help)).
+
+^ judson, horace freeland (20 october 2003). "no nobel prize for whining". the new york times. retrieved 3 august 2007. lise meitner, the physicist first to recognize that experiments reported by two former colleagues in berlin meant that atoms had been split, never got a prize, even though one of those colleagues, otto hahn, did in 1944.
+
+^ "otto hahn, lise meitner and fritz strassmann". science history institute. retrieved 20 march 2018.
+
+^ westly, erica (6 october 2008). "no nobel for you: top 10 nobel snubs". scientific american.
+
+^ burmester, ralph (2015). wissenschaft aus erster hand : 65 jahre lindauer nobelpreisträgertagungen [science at first hand : 65 years lindau nobel laureate meetings] (in german) (3rd extended ed.). isbn 9783940396501. oclc 935264435.
+
+^ "associated papers of lise meitner". janus. retrieved 8 january 2008.
+
+^ a b c d e bartusiak, marcia (17 march 1996). "the woman behind the bomb". the washington post.
+
+^ cornwell, john. hitler's scientists: science, war and the devil's pact. viking 2003. p. 66. isbn 0-670-03075-9. oclc 52761187.
+
+^ "lise meitner and nuclear fission". orlandoleibovitz.com. retrieved 9 april 2012.
+
+^ roqué, xavier. "meitner, lise (1878–1968), physicist". oxford dictionary of national biography. oxford, england: oxford university press. retrieved 27 october 2009.
+
+^ meitner was said to be inspired by her teacher, physicist ludwig boltzmann, and was said to often speak with contagious enthusiasm of his lectures.
+
+^ lise meitner 
+a life in physics [1]
+
+^ drezgic, marija. "lise meitner | famous women in physical sciences and engineering". bnrc.berkeley.edu. archived from the original on 12 november 2016. retrieved 28 october 2016.
+
+^ "lise meitner | jewish women's archive". jwa.org. retrieved 28 october 2016.
+
+^ kerner, charlotte (1999). lise, atomphysikerin. die lebensgeschichte der lise meitner [lise, atomic physicist. the life story of lise meitner.] (in german) (second ed.). weinheim: beltz & gelberg. isbn 978-3-407-78812-2. oclc 612209107. second edition of a 1986 book for secondary school students.
+
+^ meitner, l. (1922). "über die entstehung der β-strahl-spektren radioaktiver substanzen". zeitschrift für physik. 9: 131–144. bibcode:1922zphy....9..131m. doi:10.1007/bf01326962.
+
+^ auger, p. (1923). "sur les rayons β secondaires produits dans un gaz par des rayons x" [on the secondary β-rays produced in a gas by x-rays]. comptes rendus hebdomadaires des séances de l'académie des science (in french). 177: 169–171.
+
+^ meitner published before auger, but the effect does not bear her name. the issue of whether meitner's name should have been included is examined in: duparc, olivier hardouin (2009). "pierre auger – lise meitner: comparative contributions to the auger effect". international journal of materials research. 100 (9): 1162–1166. doi:10.3139/146.110163. ...the auger effect has rightly been attributed to auger.
+
+^ l'annunziata, michael f. radioactivity: introduction and history, elsevier, 2007, isbn 0-444-52715-x, p. 229
+
+^ rhodes, richard (1995). the making of the atomic bomb. simon & schuster. pp. 159–161. isbn 9781439126226.
+
+^ rhodes, richard (1995). the making of the atomic bomb. simon & schuster. p. 233. isbn 9781439126226.
+
+^ cornwell, hitler's scientists, 207–13
+
+^ cornwell, hitler's scientists, 214–15
+
+^ a b richard rhodes, the making of the atomic bomb (1986), simon & schuster, new york, pp. 257–60
+
+^ lise meitner: recollections of otto hahn. s. hirzel, stuttgart, 2005
+
+^ a b lise meitner: recollections of otto hahn. s. hirzel, stuttgart, 2005.
+
+^ o. hahn and f. strassmann über den nachweis und das verhalten der bei der bestrahlung des urans mittels neutronen entstehenden erdalkalimetalle (on the detection and characteristics of the alkaline earth metals formed by irradiation of uranium with neutrons), naturwissenschaften volume 27, number 1, 11–15 (1939). the authors were identified as being at the kaiser-wilhelm-institut für chemie, berlin-dahlem. received 22 december 1938.
+
+^ sime, ruth lewin. lise meitner: a life in physics university of california press, 1996, p. 305. isbn 9780520089068. oclc 32893857.
+
+^ dawidoff, nicholas. the catcher was a spy, new york 1994 p. 228
+
+^ entry for lise meitner in svensk uppslagsbok, volume 19 (1951), column 756. (in swedish)
+
+^ "the nobel prize in chemistry 1944". nobel foundation. retrieved 26 august 2011.
+
+^ letter to b. broomé-aminoff in november 1945; see hardy, anne; sexl, lore (2002). lise meitner. rowohlt verlag. p. 119. isbn 3-528-08934-2.
+
+^ meitner, lise (2005): in recollections of otto hahn. (ed.: dietrich hahn). s. hirzel, stuttgart 2005. p. 138. isbn 3-7776-1380-0.
+
+^ otto robert frisch letter to carl seelig, 14 september 1955. see: seelig, carl (ed.) |title=helle zeit – dunkle zeit in memoriam albert einstein. europa verlag, zurich 1956. p. 114. reprint: friedr. vieweg & sohn, braunschweig/wiesbaden 1986. p. 114.  isbn 3-528-08934-2.
+
+^ "nomination database: otto hahn". nobelprize.org.
+
+^ "nomination database: lise meitner". nobelprize.org.
+
+^ sime, ruth lewin (1996). lise meitner: a life in physics. university of california. isbn 9780520089068. oclc 32893857.
+
+^ crawford, elisabeth; sime, ruth lewin; walker, mark (1997). "a nobel tale of postwar injustice". physics today. 50 (9): 26–32. bibcode:1997pht....50i..26c. doi:10.1063/1.881933.
+
+^ cornwell, hitler's scientists, p. 411.
+
+^ hahn, otto (1970). my life. preface by sir james chadwick; translation of mein leben, munich, 1968. london: macdonald & co.
+
+^ cropper, william h. (2004). great physicists: the life and times of leading physicists from galileo to hawking. oxford (uk): oxford university press. p. 343. isbn 978-0-19-517324-6.
+
+^ record at the royal society's archive
+
+^ "book of members, 1780–2010: chapter m" (pdf). american academy of arts and sciences. retrieved 29 july 2014.
+
+^ hahn, dietrich, ed. (1979). otto hahn – eine biographie in bildern und dokumenten. munich: list. p. 334. isbn 3471778411.
+
+^ hahn, otto (13 december 1946). "from the natural transmutations of uranium to its artificial fission. nobel lecture" (pdf). nobel foundation. retrieved 24 september 2007.
+
+^ hardy, anne (4 march 2004). "otto hahn – entdecker der kernspaltung" (in german). pro physik, wiley interscience gmbh. retrieved 24 september 2007.
+
+^ "eps nuclear physics division – lise meitner prize". european physical society. retrieved 12 december 2015.
+
+^ "gothenburg lise meitner award". chalmers university of technology. retrieved 12 december 2015.
+
+^ neukam, viola (28 october 2010). "'more than just a name change': freie universität renames otto hahn building as hahn-meitner building". freie universität berlin.
+
+^ herbold, astrid (9 july 2014). "große physikerin, späte ehrung" [great physicist, belated honour]. der tagesspiegel (in german).
+
+^ "meitner close". streetlist.co.uk. retrieved 7 january 2017.
+
+^ "lise meitner gymnasium: hamburg". www.hh.schule.de (in german). offenes hamburger. retrieved 5 march 2016.
+
+^ "lise-meitner-gymnasium". hp.lise-meitner-gymnasium.de (in german). lmg falkensee. retrieved 5 march 2016.
+
+^ "physics education and widening participation within it and public engagement within physics". institute of physics access-date=23 august 2018.
+
+^ "meitner: modeling-enhanced innovations trailblazing nuclear energy reinvigoration". u. s. department of energy. 20 october 2017.
+
+
+further reading[edit]
+
+frisch, otto robert, ed. (1959). trends in atomic physics: essays dedicated to lise meitner, otto hahn, max von laue on the occasion of their 80th birthday. new york: interscience.
+goldberg, stanley (july 1996). "with friends like these . ..." bulletin of the atomic scientists. pp. 55–57. contemporaneous review of ruth lewin sime's biography of meitner.
+haber, louis. women pioneers of science. harcourt brace jovanovich, 1979, new york. isbn 9780152992026.
+hahn, otto (1966). a scientific autobiography. preface by glenn t. seaborg. charles scribner's sons, new york, 1966. english edition (1967): mcgibbon & kee, london.
+hahn, otto (1970). my life. preface by sir james chadwick. macdonald, london. american edition (1970): herder and herder, new york.
+hoffmann, klaus (2001). otto hahn – achievement and responsibility. new york: springer verlag. isbn 0-387-95057-5.
+meitner, lise (2005).  hahn, dietrich, ed. erinnerungen an otto hahn [recollections of otto hahn] (in german). stuttgart: s. hirzel. isbn 978-3-7776-1380-2. oclc 180889711.
+rhodes, richard (1995). the making of the atomic bomb. simon & schuster. isbn 9781439126226.
+rife, patricia (1999). lise meitner and the dawn of the nuclear age. john archibald wheeler (foreword). birkhäuser. isbn 9780817637323. oclc 38130718.
+sime, ruth lewin (2006). "lise meitner".  in byers, nina; williams, gary. out of the shadows: contributions of 20th-century women to physics. cambridge university press.
+sime, ruth lewin (1996). lise meitner: a life in physics. berkeley: university of california press. isbn 0-520-08906-5. oclc 32893857.
+sime, ruth lewin (2005). "from exceptional prominence to prominent exception: lise meitner at the kaiser wilhelm institute for chemistry" (pdf). geschichte der kaiser-wilhelm-gesellschaft im nationalsozialismus. retrieved 26 november 2015. for the first twenty years, hers is an expansive story of a woman who achieves exceptional prominence in physics; after 1933 her story gradually narrows until nothing is left for her as a person of jewish origin in germany. sime's article is the 24th publication in the series history of the kaiser wilhelm institute under national socialism.
+weston, tom (2011). fission. boston: tom weston media. isbn 978-0-9819413-5-6.
+bentzen, s. m. (2000). "lise meitner and niels bohr—a historical note". acta oncologica (stockholm, sweden). 39 (8): 1002–1003. doi:10.1080/02841860050216016. pmid 11206992.
+kyle, r. a.; shampo, m. a. (1981). "lise meitner". jama: the journal of the american medical association. 245 (20): 2021. doi:10.1001/jama.245.20.2021. pmid 7014939.
+frisch, o. r. (1973). "distinguished nuclear pioneer—1973. lise meitner". journal of nuclear medicine. 14 (6): 365–371. pmid 4573793.
+
+external links[edit]
+
+
+
+wikimedia commons has media related to lise meitner.
+"lise meitner", "contributions of 20th-century women to physics" (cwp), university of california, los angeles
+annotated bibliography for lise meitner from the alsos digital library for nuclear issues
+wired.com: "february 11, 1939: lise meitner, 'our madame curie'"
+"lise meitner," b. weintraub, chemistry in israel, no. 21, may 2006, p. 35.
+
+
+authority control 
+bne: xx5306921
+bnf: cb13494414w (data)
+gnd: 118580477
+isni: 0000 0001 0909 3889
+lccn: n81015638
+mgp: 110960
+ndl: 00621118
+nkc: nlk20010097115
+selibr: 211830
+snac: w6zg6v56
+sudoc: 028434390
+viaf: 64160163
+ worldcat identities (via viaf): 64160163
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=lise_meitner&oldid=882081841"					
+categories: 1878 births1968 deaths20th-century physicists20th-century austrian scientists20th-century swedish scientists20th-century women scientistsaustrian women physicistsswedish women physicistsaustrian nuclear physicistsswedish nuclear physicistswomen nuclear physicistsjewish physicistsdiscoverers of chemical elementsroyal institute of technology academicsstockholm university academicsfellows of the american academy of arts and sciencesmembers of the royal swedish academy of sciencesforeign members of the royal societyenrico fermi award recipientsrecipients of the austrian decoration for science and artrecipients of the order of merit of the federal republic of germanyrecipients of the pour le mérite (civil class)winners of the max planck medalaustrian jewsswedish jewsswedish people of austrian-jewish descentaustrian emigrants to swedenjewish emigrants from austria after the anschlussconverts to lutheranism from judaismaustrian lutheranspeople from leopoldstadtotto hahncatholic university of america facultymembers of the german academy of sciences at berlinhidden categories: pages containing links to subscription-only contentcs1 german-language sources (de)cs1 french-language sources (fr)articles with swedish-language external linksuse british english from january 2015interlanguage link template link numberbiography with signatureinfobox person using alma materarticles with hcardscommons category link is on wikidatause dmy dates from november 2018wikipedia articles with bne identifierswikipedia articles with bnf identifierswikipedia articles with gnd identifierswikipedia articles with isni identifierswikipedia articles with lccn identifierswikipedia articles with mgp identifierswikipedia articles with ndl identifierswikipedia articles with nkc identifierswikipedia articles with selibr identifierswikipedia articles with snac-id identifierswikipedia articles with sudoc identifierswikipedia articles with viaf identifierswikipedia articles with worldcat-viaf identifiers 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+العربيةasturianuazərbaycancaتۆرکجهবাংলাбашҡортсабеларускаябеларуская (тарашкевіца)‎българскиbosanskicatalàčeštinadanskdeutscheestiελληνικάespañolesperantoeuskaraفارسیfrançaisgaeilgegàidhliggalego한국어հայերենhrvatskiidobahasa indonesiainterlinguaíslenskaitalianoעבריתಕನ್ನಡქართულიқазақшаkreyòl ayisyenlatinalatviešulëtzebuergeschmagyarmalagasyമലയാളംnederlands日本語norsknorsk nynorskoccitanپنجابیpiemontèisplattdüütschpolskiportuguêsromânăruna simiрусскийscotsshqipsimple englishslovenčinaslovenščinaсрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskaไทยtürkçeукраїнськаtiếng việt中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 6 february 2019, at 18:33 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"1.192","walltime":"1.432","ppvisitednodes":{"value":5549,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":130585,"limit":2097152},"templateargumentsize":{"value":8253,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":19,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":183008,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00% 1253.153      1 -total"," 50.45%  632.247      1 template:reflist"," 15.88%  198.999      1 template:infobox_scientist"," 15.75%  197.310     20 template:cite_book"," 15.13%  189.632      1 template:infobox_person"," 13.02%  163.223      1 template:sv_icon"," 12.79%  160.265      1 template:link_language"," 11.88%  148.900      2 template:infobox","  7.77%   97.391     23 template:cite_web","  7.12%   89.276     10 template:cite_journal"]},"scribunto":{"limitreport-timeusage":{"value":"0.691","limit":"10.000"},"limitreport-memusage":{"value":20916976,"limit":52428800}},"cachereport":{"origin":"mw1274","timestamp":"20190216230710","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"lise meitner","url":"https:\/\/en.wikipedia.org\/wiki\/lise_meitner","sameas":"http:\/\/www.wikidata.org\/entity\/q56189","mainentity":"http:\/\/www.wikidata.org\/entity\/q56189","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2001-09-05t20:46:19z","datemodified":"2019-02-06t18:33:30z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/03\/lise_meitner_%281878-1968%29%2c_lecturing_at_catholic_university%2c_washington%2c_d.c.%2c_1946.jpg","headline":"austrian-swedish physicist"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":1563,"wghostname":"mw1274"});});
+
+

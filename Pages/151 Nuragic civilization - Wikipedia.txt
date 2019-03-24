@@ -1,0 +1,841 @@
+
+
+
+
+nuragic civilization - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"nuragic_civilization","wgtitle":"nuragic civilization","wgcurrevisionid":883000960,"wgrevisionid":883000960,"wgarticleid":26284176,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["articles with italian-language external links","webarchive template wayback links","cs1 italian-language sources (it)","all articles with unsourced statements","articles with unsourced statements from october 2018","nuraghe","archaeological cultures in sardinia","history of sardinia","archaeological cultures of southern europe","bronze age cultures of europe","iron age cultures of europe","pre-indo-europeans"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"nuragic_civilization","wgrelevantarticleid":26284176,"wgrequestid":"xgc6capamf0aaghxnuoaaaan","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q1421436","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+nuragic civilization 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+ su nuraxi of barumini, included in the unesco list of world heritage sites since 1997
+ nuraghe santu antine in torralba
+
+history of sardinia
+pre-nuragic sardinia
+nuragic civilization
+sardinia and corsica
+vandal sardinia
+byzantine sardinia
+sardinian judicates
+kingdom of sardinia
+vte
+the nuragic civilization, also known as the nuragic culture was a civilization or culture on the island of sardinia, the second largest island in the mediterranean sea, which lasted from the 18th century bc (bronze age) to 238 bc when the romans colonized the island.[1][2][3] others date the culture as lasting at least until the 2nd century ad[4] or possibly even to the 6th century ad.[5]
+the adjective "nuragic" derives from the island's most characteristic monument, the nuraghe, a tower-fortress type of construction the ancient sardinians built in large numbers starting from about 1800 bc.[6] today more than 7,000 nuraghes[7] dot the sardinian landscape.
+no written records of this civilization have been discovered,[8] apart from a few possible short epigraphic documents belonging to the last stages of the nuragic civilization.[9] the only written information there comes from classical literature of the greeks and romans, and may be considered more mythological than historical.[10]
+
+contents
+
+1 history
+
+1.1 pre-nuragic sardinia
+1.2 nuragic era
+
+1.2.1 early bronze age
+1.2.2 middle and late bronze age
+1.2.3 sea peoples connection
+1.2.4 iron age
+
+
+1.3 carthaginian and roman conquest
+
+
+2 society
+
+2.1 villages
+2.2 tribes
+
+
+3 culture
+
+3.1 religion
+
+3.1.1 holy wells
+3.1.2 roundhouses with basin
+3.1.3 megaron temples
+3.1.4 giant's graves
+
+
+3.2 art
+
+3.2.1 bronze statuettes
+3.2.2 giants of mont'e prama
+3.2.3 ceramics
+
+
+
+
+4 language
+5 economy
+6 see also
+7 notes
+8 references
+9 further reading
+
+
+history[edit]
+pre-nuragic sardinia[edit]
+see also: pre-nuragic sardinia and beaker culture in sardinia
+ one of the domus de janas of the necropolis of monte siseri, putifigari
+in the stone age the island was first inhabited by people who had arrived there in the paleolithic and neolithic ages from europe and the mediterranean area. the most ancient settlements have been discovered both in central and northern sardinia (anglona). several later cultures developed on the island, such as the ozieri culture (3200−2700 bc). the economy was based on agriculture, animal husbandry, fishing, and trading with the mainland. with the diffusion of metallurgy, silver and copper objects and weapons also appeared on the island.[11]
+remains from this period include hundreds of menhirs (called perdas fittas) [12] and dolmens, more than 2,400 hypogeum tombs called domus de janas, the statue menhirs, representing warriors or female figures, and the stepped pyramid of monte d'accoddi, near sassari, which show some similarities with the monumental complex of los millares (andalusia) and the later talaiots in the balearic islands. according to some scholars, the similarity between this structure and those found in mesopotamia are due to cultural influxes coming from the eastern mediterranean.[13][11]
+
+ pre-nuragic complex of monte d'accoddi
+the altar of monte d'accoddi fell out of use starting from c. 2000 bc, when the beaker culture, which at the time was widespread in almost all western europe, appeared on the island. the beakers arrived in sardinia from two different regions: firstly from spain and southern france, and secondly from central europe, through the italian peninsula.[14]
+
+nuragic era[edit]
+early bronze age[edit]
+ bonnanaro pottery
+ albucciu (arzachena), example of proto-nuraghe
+ swords of the bonnanaro culture (a2 phase) from sant'iroxi, decimoputzu
+the bonnanaro culture was the last evolution of the beaker culture in sardinia (c. 1800–1600 bc), and displayed several similarities with the contemporary polada culture of northern italy. these two cultures shared common features in the material culture such as undecorated pottery with axe-shaped handles.[15] these influences may have spread to sardinia via corsica, where they absorbed new architectural techniques (such as cyclopean masonry) that were already widespread on the island.[16]
+new peoples coming from the mainland arrived on the island at that time, bringing with them new religious philosophies, new technologies and new ways of life, making obsolete the previous ones or reinterpreting them.[17][18]
+
+.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}it is perhaps in virtue of stimuli and models (and - why not? - of some drop of blood) from the central european and polada-rhone areas, that the culture of bonnanaro i gives a jolt to the known and produces in step with the times.[...]from the generally severe, practical character and essentiality of the material equipment (in particular in the ceramics without any decoration), we understand the nature and the warlike habit of the newcomers and the conflictual thrust that they give to life on the island. this is confirmed by the presence of stone and metal weapons (copper and bronze). the metal also spreads in objects of use (copper and bronze awls), and ornamental objects (bronze rings and silver foil) [...] it seems to feel a fall of ideologies of the old pre-nuragic world corresponding to a new historical turning point— giovanni lilliu, la civiltà dei sardi p.362, la civiltà nuragica p.25-26-27
+
+the widespread diffusion of bronze brought numerous improvements. with the new alloy of copper and tin, or arsenic, a harder and more resistant metal was obtained, suitable for manufacturing tools used in agriculture, hunting and warfare. from this period dates the construction of the so-called proto-nuraghe, a platformlike structure that marks the first phase of the nuragic age. these buildings are very different from the classical nuraghe having an irregular planimetry and a very stocky appearance.
+
+
+middle and late bronze age[edit]
+main article: nuraghe
+ nuraghe losa, abbasanta
+dating to the middle of the 2nd millennium bc, the nuraghe, which evolved from the previous proto-nuraghe, are megalithic towers with a truncated cone shape; every nuragic tower had at least an inner tholos chamber and the biggest towers could have up to three superimposed tholos chambers. they are widespread in the whole of sardinia, about one nuraghe every three square kilometers.[19]
+early greek historians and geographers speculated about the mysterious nuraghe and their builders. they described the presence of fabulous edifices, called daidaleia, from the name of daedalus, who, after building his labyrinth in crete, would have moved to sicily and then to sardinia.[19]
+modern theories about their use have included social, military, religious, or astronomical roles, as furnaces, or as tombs. although the question has long been contentious among scholars, the modern consensus is that they were built as defensible homesites, and that included barns and silos.[20]
+
+ tholos of nuraghe is paras, isili
+ graphic reconstruction of a nuragic village
+ aerial view of the nuraghe genna maria, villanovaforru
+in the second half of the 2nd millennium bc, archaeological studies have proved the increasing size of the settlements built around some of these structures, which were often located at the summit of hills. perhaps for protection reasons, new towers were added to the original ones, connected by walls provided with slits forming a complex nuraghe.[21]
+
+ nuraghe santu antine, torralba, internal corridor
+among the most famous of the numerous existing nuraghe, are the su nuraxi at barumini, santu antine at torralba, nuraghe losa at abbasanta, nuraghe palmavera at alghero, nuraghe genna maria at villanovaforru, nuraghe seruci at gonnesa and arrubiu at orroli. the biggest nuraghe, such as nuraghe arrubiu, could reach a height of about 25–30 meters and could be made up of 5 main towers, protected by multiple layers of walls, for a total of dozens of additional towers.[22] it has been suggested that some of the current sardinian villages trace their origin directly from nuragic ones, including perhaps those containing the root nur-/nor- in their name (like nurachi, nuraminis, nurri, nurallao, noragugume[23]).
+soon sardinia, a land rich in mines, notably copper and lead, saw the construction of numerous furnaces for the production of alloys which were traded across the mediterranean basin and nuragic people became skilled metal workers; they were among the main metal producers in europe [24] and with bronze they produced a wide variety of objects and new weapons as swords, daggers, axes, and after drills, pins, rings, bracelets, typical bronze statuettes, and the votive bronze boats that show a close relationship with the sea. tin may have drawn bronze age traders from the aegean where copper is available but tin for bronze-making is scarce;[25]  the first verifiable smelting slag has come to light, its appearance in a hoard of ancient tin confirms local smelting as well as casting.[26]  the usually cited tin sources and trade in ancient times are those in the iberian peninsula or from cornwall. markets included civilizations living in regions with poor metal resources, such as the mycenaean civilization, cyprus and crete, as well as the iberian peninsula, a fact that can explain the cultural similarities between them and the nuraghe civilization and the presence in nuragic sites of late bronze age mycenaean, west and central cretan and cypriote ceramics, as well as locally made replicas, concentrated in half a dozen findspots that seem to have functioned as "gateway-communities.[27]
+
+sea peoples connection[edit]
+ sardinian warrior figure
+ model of nuragic ship from bultei, museo archeologico nazionale (cagliari)
+see also: sea peoples
+the late bronze age (14th-13th-12th centuries bc) saw a vast migration of the so-called sea peoples, described in ancient egyptian sources. they destroyed mycenaean and hittite sites and also attacked egypt. according to giovanni ugas, the sherden, one of the most important tribes of the sea peoples, are to be identified with the nuragic sardinians.[28][4][29] another hypothesis is that they arrived to the island around the 13th or 12th century after the failed invasion of egypt. however, these theories remain controversial.
+simonides of ceos and plutarch spoke of raids by sardinians against the island of crete, in the same period in which the sea people invaded egypt.[30][31] this would at least confirm that nuragic sardinians frequented the eastern mediterranean sea.
+further proofs come from 13th-century nuragic ceramics found at tiryns, kommos,[32] kokkinokremnos,[33]  and in sicily, at lipari,[34] and the agrigento area, along the sea route linking western to eastern mediterranean.
+
+ bronze model of nuraghe, 10th century bce
+recently the archaeologist adam zertal has proposed that the harosheth haggoyim of israel, home of the biblical figure sisera, is identifiable with the site of "el-ahwat" and that it was a nuragic site suggesting that he came from the people of the sherden of sardinia.[35]
+
+iron age[edit]
+archaeologists traditionally define the nuragic phase as ranging from 900 bc to 500 bc (iron age) as the era of the aristocracies. fine ceramics were produced along with more and more elaborate tools and the quality of weapons increased.
+with the flourishing of trade, metallurgical products and other manufactured goods were exported to every corner of the mediterranean, from the near east to spain and the atlantic. the huts in the villages increased in number and there was generally a large increase in population. the construction of the nuraghes stopped (many were abandoned or partially dismantled starting from 1150 bc[36][37]) and individual tombs replaced collective burials (giant's tombs).[38][39]
+but the real breakthrough of that period, according to archaeologist giovanni lilliu, was the political organization which revolved around the parliament of the village, composed by the heads and the most influential people, who gathered to discuss the most important issues.
+
+carthaginian and roman conquest[edit]
+around 900 bc the phoenicians began visiting sardinia with increasing frequency. the most common ports of call were caralis, nora, bithia, sulci, tharros, bosa and olbia.
+the roman historian justin describes a carthaginian expedition led by malco in 540 bc against a still strongly nuragic sardinia. the expedition failed and this caused a political revolution in carthage, from which mago emerged. he launched another expedition against the island, in 509 bc, after the sardinians attacked the phoenicians' coastal cities. according to piero bartoloni, it was carthage that attacked the phoenician cities in the coasts, rather than the natives who lived in those cities with the phoenicians, for the phoenician cities which were destroyed like sulky or monte sirai which he believes were inhabited mostly by native sardinians.[40] the carthaginians, after a number of military campaigns in which mago died and was replaced by his brother hamilcar, overcame the sardinians and conquered coastal sardinia, the iglesiente with its mines and the southern plains. the nuragic culture may have survived in the mountainous interior of the island.
+in 238 bc the carthaginians, as a result of their defeat by the romans in the first punic war, surrendered sardinia to rome. sardinia together with corsica became a roman province (corsica et sardinia), however the greek geographer strabo confirms the survival, in the interior of the island, of nuragic culture even in imperial times.[citation needed]
+
+society[edit]
+ bronze sculpture of a nuragic chief from uta.
+religion had a strong role in nuragic society, which has led scholars to the hypothesis that the nuragic civilization was a theocracy.
+some nuraghe bronzes clearly portray the figures of chief-kings, recognizable by their wearing a cloak and carrying a staff with bosses. also depicted are other classes, including miners, artisans, musicians, wrestlers (the latter similar to those of the minoan civilizations) and many fighting men, which has led scholars to think of a warlike society, with precise military divisions (archers, infantrymen). different uniforms could belong to different cantons or clans, or to different military units.the priestly role may have been fulfilled by women. some small bronzes also give clues about nuragic personal care and fashion. women generally had long hair; men sported two long braids on each side of the face, while their head hair was cut very short or else covered by a leather cap.
+
+villages[edit]
+ hut near the nuraghe palmavera, alghero
+the nuragic civilization was probably based on clans, each led by a chief, who resided in the complex nuraghe,[41] with common people living in the nearby villages of stone roundhouses with straw roofs, similar to the modern pinnettas of the barbagia shepherds.
+in the late final bronze age and in the early iron age phases, the houses were built with a more complex plan, with multiple rooms often positioned around a countryard; in the nuragic settlement of sant'imbenia, located by the coast, some structures were not used for living purposes, but for the storing of precious metals, food and other goods and they were built around a huge square, interpreted by archaeologists as a marketplace.[42][43]
+the construction of rectangular houses and structures built with dried bricks is attested in some sites across the island since the late bronze age.[44]
+water management was essential for the nuragic people, most complex nuraghi were provided with at least a well; nuraghe arrubiu, for example, presented a complex hydraulic implant for the drainage of water[45]
+another testimony to the nuragic prowess in the creation of hydraulic implants is the aqueduct of gremanu, the only known nuragic aqueduct yet.[46]
+during the final phase of the bronze age and the early iron age sardinia saw the development of proto urban settlements, with open spaces such as paved squares and streets, and structures devoted to specific functions such as metal workshops, the individual houses were provided with storing facilities and were served by infrastructures.[47][48]
+
+tribes[edit]
+main article: list of nuragic tribes
+ hypothetical distribution of the nuragic tribes
+the most celebrated peoples of this island are the ilienses, the balari, and the corsi...— pliny the elder, natural history, liber iii
+
+throughout the second millennium and into the first part of the 1st millennium bc, sardinia was inhabited by the single extensive and uniform cultural group represented by the nuragic people.
+centuries later, roman sources describe the island as inhabited by numerous tribes which had gradually merged culturally. they however maintained their political identities and the tribes often fought each other for control of the most valuable land. the most important nuragic populations mentioned include the balares, the corsi and the ilienses, the latter defying the romanization process and living in what had been called civitatas barbarie (now barbagia).
+
+the ilienses or iolaes (later diagesbes), identified by ancient writers as greek colonists led by iolaus (nephew of heracles) or trojan refugees, lived in what is now central-southern sardinia. greek historians reported also that they were repeatedly invaded by the carthaginians and the romans, but in vain.[49]
+the balares have been identified with the beaker culture.[50] they lived in what are now the nurra, coghinas and limbara traditional subdivisions of sardinia. they were probably of the same stock from which the talaiotic culture of the balearic islands originated.[50]
+the corsi lived in gallura and in corsica. they have been identified as the descendants of the arzachena culture. in southern corsica, in the 2nd millennium bc, the torrean civilization developed alongside the nuragic one.
+culture[edit]
+ bronze sculpture of a warrior with four eyes and four arms
+religion[edit]
+the representations of animals, such as the bull, belong most likely to pre-nuragic civilizations, however they kept their importance among the nuraghe people, and were frequently depicted on ships, bronze vases, used in religious rites. small bronze sculptures depicting half-man, half-bull figures have been found, as well as characters with four arms and eyes and two-headed deers: they probably had a mythological and religious significance. another holy animal which was frequently depicted is the dove. also having a religious role were perhaps the small chiseled discs, with geometrical patterns, known as pintadera, although their function has not been identified yet.
+a key element of the nuragic religion was that of fertility, connected to the male power of the bull-sun and the female one of water-moon. according to the scholars' studies, there existed a mediterranean-type mother goddess and a god-father (babai). an important role was that of mythological heroes such as norax, sardus, iolaos and aristeus, military leaders considered also as divinities.
+
+ s'arcu 'e is forros
+the excavations have proved that the nuragic people, in determinate periods of the year, gathered in common holy places, usually characterized by sitting steps and the presence of a holy pit. in some holy areas, such as gremanu at fonni, serra orrios at dorgali and s'arcu 'e is forros at villagrande strisaili, there were rectangular temples, with central holy room housing perhaps a holy fire.[51] the deities worshipped are unknown, but were perhaps connected to water, or to astronomical entities (sun, moon, solstices).
+
+ sacred "pool" of su romanzesu
+some structures could have a "federal" sardinian role, such as the sanctuary of santa vittoria near serri (one of the biggest nuragic sanctuaries, spanning over 20 hectares[52]), including both religious and civil buildings: here, according to italian historian giovanni lilliu, the main clans of the central island held their assemblies to sign alliances, decide wars or to stipulate commercial agreements.[53] spaces for trades were also present. at least twenty of such multirole structures are known, including those of santa cristina at paulilatino and of siligo; some have been re-used as christian temples (such as the cumbessias of san salvatore in sinis at cabras). some ritual pools and bathtubs were built in the sanctuaries such as the pool of nuraghe nurdole, which worked through a system of raceways.[47]
+
+holy wells[edit]
+ the holy well of santa cristina, paulilatino.
+main article: nuragic holy well
+the holy wells were structures dedicated to the cult of waters. though initially assigned to the 8th–6th centurie bc, due to their advanced building techniques, they most likely date to the earlier bronze age, when sardinia had strong relationships with the mycenaean kingdoms of greece and crete, around the 14–13th century bc.[54]
+the architecture of the nuragic holy wells follows the same pattern as that of the nuraghe, the main part consisting of a circular room with a tholos vault with a hole at the summit. a monumental staircase connected the entrance to this subterranean (hypogeum) room, whose main role is to collect the water of the sacred spring. the exterior walls feature stone benches where offerings and religious objects were placed by the faithful. some sites also had sacrificial altars. some scholars think that these could be dedicated to sardus, one of the main nuragic divinities.
+a sacred pit similar to those of sardinia has been found in western bulgaria, near the village of garlo.[55]
+
+ nuragic fountain at sa sedda e sos carros
+roundhouses with basin[edit]
+starting from the late bronze age, a peculiar type of circular structure with a central basin and benches located all around the circumference of the room start to appear in nuragic settlements, the best example of this type of structure is the ritual fountain of sa sedda e sos carros, near oliena, where thanks to a hydraulic implant of lead pipes water was poured down from the ram shaped protomes inside the basin.[56] some archaeologists interpreted these buildings, with ritual and religious function,[57] as thermal structures.[58]
+
+megaron temples[edit]
+ megaron temple of domu de orgia
+located in various parts of the island and dedicated to the cult of the healthy waters, these unique buildings are an architectural manifestation that reflects the cultural vitality of the nuragic peoples and their interaction with the coeval mediterranean civilizations. in fact, many scholars see in these buildings foreign aegean influences.[59]
+they have a rectilinear form with the side walls that extend outwardly. some, like that of malchittu at arzachena, are apsidal while others such as the temple of sa carcaredda at villagrande strisaili culminate with a circular room. they are surrounded by sacred precincts called temenos.
+sometimes multiple temples are found in the same location, such as in the case of the huge sanctuary of s'arcu e sos forros, where many megaron temples with a complex plant were excavated.
+the largest and best preserved sardinian mégara is that called domu de orgia at esterzili.
+
+giant's graves[edit]
+ giant's grave at arzachena
+main article: giants' grave
+the so-called "giant's graves" were collective funerary structures whose precise function is still unknown, and which perhaps evolved from elongated dolmens. they date to the whole nuragic era up to the iron age, when they were substituted by pit graves, and are more frequent in the central sector of the island. their plan was in the shape of the head of a bull.
+large stone sculptures known as betili (a kind of slender menhir, sometimes featuring crude depiction of male sexual organs, or of female breasts) were erected near the entrance. sometimes the tombs were built with an "opus isodomum" technique, where finely shaped stones were used, such as in the giant tombs of madau or at iloi.
+
+art[edit]
+bronze statuettes[edit]
+ nuragic bronze statuettes, archaeological and ethnographic national museum g. a. sanna (sassari)
+main article: nuragic bronze statuettes
+the so-called bronzetti (brunzittos or brunzittus in sardinian language) are small bronze statuettes obtained with the lost-wax casting technique; they can measure up to 39 cm and represent scenes of everyday life, characters from different social classes, animal figures, divinities, ships etc.
+most of them had been discovered in various sites of sardinia; however, a sizeable minority had also been found in etruscan sites, particularly tombs, of central italy (vulci, vetulonia, populonia, magione) and campania (pontecagnano) and further south in the greek colony of crotone. 
+
+ boxer statue from mont'e prama
+ warrior statue from mont'e prama
+giants of mont'e prama[edit]
+main article: giants of mont'e prama
+the giants of mont'e prama are a group of 32 (or 40) statues with a height of up to 2.5 m, found in 1974 near cabras, in the province of oristano. they depict warriors, archers, wrestlers, models of nuraghe and boxers with shield and armed glove.
+depending on the different hypotheses, the dating of the kolossoi – the name that archaeologist giovanni lilliu gave to the statues[60] – varies between the 11th and the 8th century bc.[61] if this is further confirmed by archaeologists, like the c-14 analysis already did, they would be the most ancient anthropomorphic sculptures of the mediterranean area, after the egyptian statues, preceding the kouroi of ancient greece.[62]
+they feature disc-shaped eyes and eastern-like garments. the statues probably depicted mythological heroes, guarding a sepulchre; according to another theory, they could be a sort of pantheon of the typical nuragic divinities.
+their finding proved that the nuragic civilization had maintained its peculiarities, and introduced new ones across the centuries, well into the phoenician colonization of part of sardinia.
+
+ceramics[edit]
+ nuragic vase from sardara
+in the ceramics, the skill and taste of the sardinian artisans are manifested mainly in decorating the surfaces of vessels, certainly used for ritual purposes in the course of complex ceremonies, perhaps in some cases even to be crushed at the end of the rite, as the jugs found in the bottom of the sacred wells.[63]
+ceramics also display geometric patterns in the lamps, in the pear-shaped vessels (exclusive of sardinia) and the askos. imported (e.g. mycenaeans) and local forms were found in several sites all over the island. also found in the italian peninsula, sicily, in spain and in crete everything points to a sardinia very well integrated in the ancient trade of the mediterranean sea.
+
+language[edit]
+main article: paleo-sardinian language
+the language (or the languages) spoken in sardinia during the bronze age is unknown since there are no written records of that period, although recent research suggests that around the 8th century bc, in the iron age, the nuragic populations may have adopted an alphabet similar to that used in euboea.[9]
+according to eduardo blasco ferrer the proto-sardinian language was akin to proto-basque and the ancient iberian with faint indoeuropean traces,[64] while others believe it was related to etruscan. some scholars theorize that there were actually various linguistic areas (two or more) in nuragic sardinia, possibly pre-indoeuropeans and indoeuropeans.[65]
+
+economy[edit]
+the nuragic economy, at least at the origins, was mostly based on agriculture (new studies suggest that they were the first to practice viticulture in the western mediterranean[66]) and animal husbandry, as well as on fishing.[67] alcoholic beverages like wine and beer were also produced, the cultivation of melons, probably imported from the eastern mediterranean, proves the practice of horticulture.[68] as in modern sardinia, 60% of the soil was suitable only for breeding cattle and sheep. probably, as in other human communities that have the cattle as traditional economic base, the property of this established social hierarchies. the existence of roads for wagons dating back to the 14th century bc gives the impression of a well organized society[69] the signs found in the metal ingots testify the existence of a number system used for accounting among the nuragic people.
+
+ oxhide ingot from nuragus
+navigation had an important role: historian pierluigi montalbano mentions the finding of nuragic anchors along the coast, some weighing 100 kg.[67] this has suggested that the nuragic people used efficient ships, which could perhaps reach lengths up to 15 meters. these allowed them to travel the whole mediterranean, establishing commercial links with the mycenaean civilization (attested by the common tholos tomb shape, and the adoration of bulls), spain, italy, cyprus, lebanon. items such as cyprus-type copper ingots have been found in sardinia, while bronze and early iron age nuragic ceramics have been found in the aegean region, cyprus,[70] in spain (huelva, tarragona, málaga, teruel and cádiz)[71] up to the gibraltar strait, and in etruscan centers of the italian peninsula such as vetulonia, vulci and populonia (known in the 9th to 6th centuries from nuragic statues found in their tombs).
+
+@media all and (max-width:720px){.mw-parser-output .tmulti>.thumbinner{width:100%!important;max-width:none!important}.mw-parser-output .tmulti .tsingle{float:none!important;max-width:none!important;width:100%!important;text-align:center}}swords from the monte idda hoard (decimoputzu)
+sardinia was rich in metals such as lead and copper. archaeological findings have proven the good quality of nuragic metallurgy, including numerous bronze weapons. the so-called "golden age" of the nuragic civilization (late 2nd millennium bc, early 1st millennium bc) coincided perhaps with the apex of the mining of metals in the island.
+the widespread use of bronze, an alloy which used tin, a metal which however was not present in sardinia if not in a single deposit, further proves the capability of the nuragic people to trade in the resources they needed. a 2013 study of 71 ancient swedish bronze objects dated to nordic bronze age, revealed that most of copper utilized at that time in scandinavia came from sardinia and the iberian peninsula.[72] iron working is attested on the island since the 13th century bc.[73]
+
+see also[edit]
+nuraghe
+history of sardinia
+list of nuragic tribes
+paleo-sardinian language
+nuragic bronze statuettes
+ancient peoples of italy
+prehistoric italy
+notes[edit]
+
+
+^ g.lilliu(1999)— p. 11.
+
+
+^ miriam s. belmuth (2012). "nuragic culture".  in fagan, brian m. the oxford companion to archaeology. 1. ache-hoho. oxford university press. p. 534. isbn 9780195076189..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ martini, i. peter; chesworth, ward (2010). landscapes and societies: selected cases. springer science & business media. p. 169. isbn 9789048194131.
+
+^ a b ugas, giovanni (2016). "shardana e sardegna. i popoli del mare, gli alleati del nordafrica e la fine dei grandi regni". cagliari, edizioni della torre.
+
+^ rowland, r. j. “when did the nuragic period in sardinia end.” sardinia antiqua. studi in onore di piero meloni in occasione del suo settantesimo compleanno, 1992, 165–175.
+
+^ giovanni lilliu (2006). "sardegna nuragica" (pdf). edizioni maestrali. archived from the original (pdf) on 3 march 2012.
+
+^ there is no complete census, but the figure of 7,000 in e. contu, "l'architettura nuraghica", in e. atzeni et al., ichnussa, 1985:5, is often repeated, and 'the provincia di cagliari website, estimates more than 7,000.
+
+^ parole di segni, l'alba della scrittura in sardegna, sardegna archeologica, guide e itinerari, m.monoja, c.cossu, m.migaleddu, carlo delfino editore, sassari, 2012
+
+^ a b giovanni ugas, i segni numerali e di scrittura in sardegna tra l'età del bronzo e il i ferro, in: tharros felix 5, a cura di attilio mastino, pier giorgio spanu, raimondo zucca. roma : carocci, 2013, pp. 295-377
+
+^ la sardegna nelle fonti classiche, m.perra, s'alvure editrice, oristano, 1993
+
+^ a b ugas 2005, p. 16.
+
+^ luca lai (2008). the interplay of economic, climatic and cultural change investigated through isotopic analyses of bone tissue: the case of sardinia 4000–1900 bc. proquest. p. 119. isbn 978-0-549-77286-6  – via google books.
+
+^ ercole contu, sardegna archeologica – l'altare preistorico di monte d'accoddi, p. 65
+
+^ giovanni lilliu, arte e religione della sardegna prenuragica, p.132
+
+^ "alberto moravetti, il complesso nuragico di palmavera" (pdf). sardegnacultura.it. retrieved 8 april 2018.
+
+^ paolo melis, i rapporti fra la sardegna settentrionale e la corsica nell'antica età del bronzo
+
+^ lilliu 2004, p. 362.
+
+^ lilliu 1982, p. 25-26-27.
+
+^ a b lilliu 1982, p. 9.
+
+^ the strict patterning in the landscape of tombs and nuraghes was analyzed by blake, emma (april 2001). "constructing a nuragic locale: the spatial relationship between tombs and towers in bronze age sardinia". american journal of archaeology. 105 (2): 145–161.
+
+^ giovanni lilliu. "sardegna nuragica" (pdf). sardegnadigitallibrary.it. archived from the original (pdf) on 2012-03-03. retrieved 8 april 2018.
+
+^ museo nazionale archeologico di nuoro, il sarcidano: orroli, nuraghe arrubiu(in italian)
+
+^ francesco cesare casula, abreve storia di sardegna, p. 25. isbn 88-7138-065-7
+
+^ "provinciadelsole.it". retrieved 3 may 2015.
+
+^ tin as a draw for traders was first suggested in the essay on sardinian metallurgy by n. gale and z, gale in miriam s. balmuth, ed. studies in sardinian archaeology 3 (oxford, 1987).
+
+^ r.f. tylecote, m.s. balmuth, r. massoli-novelli, "copper and bronze metallurgy in sardinia", historia metallica 17.2, (1983:63–77).
+
+^ miriam s. balmuth, ed. studies in sardinian archaeology 3: nuragic sardinia and the mycenaean world (oxford, 1987) presents papers from a colloquium in rome, september 1986; the view of "gateway-communities" from the mycenaean direction is explored in t.r. smith, mycenaean trade and interaction in the west central mediterranean, 1600-100 b.c., 1987.
+
+^ "sp intervista>giovanni ugas: shardana". retrieved 3 may 2015.
+
+^ "nuovo studio dell'archeologo ugas". “è certo, i nuragici erano gli shardana.”
+
+^ pallottino 2000, p. 119.
+
+^ "paola ruggeri - talos, l'automa bronzeo contro i sardi: le relazioni più antiche tra creta e la sardegna" (pdf). uniss.it. retrieved 8 april 2018.
+
+^ ceramiche. storia, linguaggio e prospettive in sardegna archived 2015-09-24 at the wayback machine - pg.34
+
+^ gale, n.h. 2011. 'source of the lead metal used to make a repair clamp on a nuragic vase recently excavated at pyla-kokkinokremos on cyprus'. in v. karageorghis and o. kouka (eds.), on cooking pots, drinking cups, loomweights and ethnicity in bronze age cyprus and neighbouring regions, nicosia.
+
+^ santoni, vincenzo; sabatini, donatella (2010) gonnesa, nuraghe serucci. ix campagna di scavo 2007/2008. relazione e analisi preliminare.
+
+^ [1]" long time archaeological riddle solved, canaanite general was based in wadi ara, judy siegel-itzkovich, 07/02/2010, jerusalem post.
+
+^ https://www.academia.edu/27564707/crisi_o_collasso_la_societ%c3%a0_indigena_fra_bronzo_finale_e_primo_ferro
+
+^ http://www.bollettinodiarcheologiaonline.beniculturali.it/documenti/generale/6_loschiavo.pdf
+
+^ carlo tronchetti. "quali aristocrazie nella sardegna dell'età del ferro? in istituto italiano di preistoria e protostoria. atti della xliv riunione scientifica. la preistoria e la protostoria della sardegna, firenze 2012, pp. 851-856". retrieved 3 may 2015.
+
+^ "paolo bernardini-necropoli della prima età del ferroin sardegna. una riflessione su alcuni secoli perdutio, meglio, perduti di vista (2011)". academia.edu. retrieved 8 april 2018.
+
+^ bartoloni, piero. monte sirai, sardegna archeologica, carlo delfino editore
+
+^ ugas 2005, p. 241.
+
+^ rendeli, marco. "il progetto sant'imbenia". academia.edu. retrieved 8 april 2018.
+
+^ beatrice alba lidia de rosa, sant'imbenia (alghero, ss). il contributo dell'archeometria nella ricostruzione della storia e delle attività dell'abitato nuragico(in italian)
+
+^ mossa, alberto (8 june 2017). "san sperate (ca-sardegna), via monastir. le ceramiche nuragiche del bronzo recente ii e finale: caratteristiche formali ed aspetti funzionali". layers. archeologia territorio contesti (2). doi:10.13125/2532-0289/2668. retrieved 8 april 2018  – via ojs.unica.it.
+
+^ f.lo schiavo, m.sanges, il nuraghe arrubiu di orroli
+
+^ maria ausilia fadda, gli architetti nuragici di gremanu
+
+^ a b http://www.sardegnadigitallibrary.it/documenti/17_27_20161222154027.pdf
+
+^ https://www.researchgate.net/profile/marco_rendeli/publication/323387944_sant'imbenia_in_a_moravetti_p_melis_l_foddai_e_alba_edd_la_sardegna_nuragica_storia_e_monumenti_carlo_delfino_editore_sassari_2017/links/5a9d263ca6fdcc3cbacda600/santimbenia-in-a-moravetti-p-melis-l-foddai-e-alba-edd-la-sardegna-nuragica-storia-e-monumenti-carlo-delfino-editore-sassari-2017.pdf
+
+^ pausanias, ix, 17, 5.
+
+^ a b ugas 2005, p. 22-32.
+
+^ giovanni lilliu, arte e religione della sardegna nuragica archived 2012-11-13 at the wayback machine
+
+^ paola mancini, il santuario di santa vittoria di serri. campagna di scavo 2011(in italian)
+
+^ lilliu, giovanni. "al tempo dei nuraghi". la civiltà in sardegna nei secoli. p. 22.
+
+^ franco campus, valentina leonelli, fulvia lo schiavo,la transizione culturale dall'età del bronzo all'età del ferro nella sardegna nuragicain relazione con l'italia tirrenica(in italian)
+
+^ mitova - dzonova , d.,; megalithischer brunnentempel protosardinischen typs vom dorf garlo, bez. pernik; sofia: komitee fur kultur,  1983
+
+^ gianfranco salis, sa sedda e sos carros di oliena(in italian)
+
+^ ministero dei beni e delle attività culturali e del turismo, complesso nuragico sa seddà e sos carros(in italian)
+
+^ giacomo paglietti, le rotonde con bacile di età nuragica(in italian)
+
+^ lilliu 1982, p. 109.
+
+^ quoted by lilliu 2006, pp. 84–86.
+
+^ 
+alice andreoli (2007). "l'armata sarda dei giganti di pietra". il venerdì di repubblica, july 27, 2007. rome: gruppo editoriale l'espresso: 82–83.
+
+^ 
+valentina leonelli (2012). "restauri mont'e prama, il mistero dei giganti". archeo. attualità del passato (in italian): 26–28. retrieved november 21, 2012.
+
+^ aa.vv., le sculture di mont'e prama - contesto, scavi e materiali, p.51
+
+^ eduardo blasco ferrer, ed. 2010. paleosardo: le radici linguistiche della sardegna neolitica (paleosardo: the linguistic roots of neolithic sardinian). de gruyter mouton
+
+^ ugas 2005, p. 241-254.
+
+^ "e' in sardegna il più antico vitigno del mediterraneo occidentale". www.unica.it. università degli studi di cagliari. retrieved 8 april 2018.
+
+^ a b montalbano, pierluigi (july 2009). shrdn, signori del mare e del metallo. nuoro: zenia. isbn 978-88-904157-1-5.
+
+^ https://www.researchgate.net/publication/311740669_l'insediamento_nuragico_di_sa_osa_cabras_or_il_sito_e_i_materiali_a
+
+^ http://www.quaderniarcheocaor.beniculturali.it/index.php/quaderni/article/view/336/198
+
+^ https://www.researchgate.net/publication/318723190_revisiting_late_bronze_age_oxhide_ingots_meanings_questions_and_perspectives
+
+^ giovanna fundoni. "le ceramiche nuragiche nella penisola iberica e le relazioni tra la sardegna e la penisola iberica nei primi secoli del i millennio a.c." retrieved 3 may 2015.
+
+^ "moving metals ii: provenancing scandinavian bronze age artefacts by lead isotope and elemental analyses". journal of archaeological science. 41: 106–132. doi:10.1016/j.jas.2013.07.018. retrieved 3 may 2015.
+
+^ mossa, alberto (21 december 2016). "la siderurgia quale indicatore di contatti tra la sardegna e cipro: il caso del settore nuragico di via monastir di san sperate (ca)". quaderni (27): 107–124. retrieved 8 april 2018  – via www.quaderniarcheocaor.beniculturali.it.
+
+
+references[edit]
+webster, g.s. (1996). a prehistory of sardinia 2300-500 bc. monographs in mediterranean archaeology. sheffield academic press. isbn 978-1850755081.
+atzeni enrico (1981). ichnussa. la sardegna dalle origini all'età classica. milan.
+aa.vv (1967). la civiltà in sardegna nei secoli. turin: eri.
+bernardini, paolo (2010). le torri, i metalli, il mare. sassari: carlo delfino editore.
+depalmas, anna (2005). le navicelle di bronzo della sardegna nuragica. cagliari: gasperini.
+dyson, stephen l.; rowland, robert j. (2007). shepherds, sailors, & conquerors - archeology and history in sardinia from the stone age to the middle ages. museum of archeology and anthropology. philadelphia: university of pennsylvania. isbn 978-1-934536-02-5.
+foddai, lavinia (2008). sculture zoomorfe. studi sulla bronzistica figurata nuragica. cargeghe: biblioteca di sardegna.
+laner, franco (2011). sardegna preistorica, dagli antropomorfi ai telamoni di monte prama, sa 'ena. cagliari: condaghes.
+lilliu, giovanni (1966). sculture della sardegna nuragica (pdf). cagliari: la zattera  – via book on line from sardegnadigitallibrary.it ed. 2008 illisso.
+lilliu, giovanni (2004). la civiltà dei sardi dal paleolitico all'età dei nuraghi. nuoro: il maestrale.
+lilliu, giovanni (1982). la civiltà nuragica (pdf). sassari: delfino  – via book on line from sardegnadigiltallibrary.it.
+lilliu, giovanni (2006). sardegna nuragica (pdf). nuoro: edizioni il maestrale. isbn 88-89801-11-5  – via book on line from sardegnadigitallibrary.it.
+melis, paolo (2003). civiltà nuragica. sassari: delfino editore.
+montalbano, pierluigi (july 2009). shrdn, signori del mare e del metallo. nuoro: zenia editrice. isbn 978-88-904157-1-5.
+navarro i barba, gustau (2010). la cultura nuràgica de sardenya. barcelona: edicions dels a.l.i.ll. isbn 978-84-613-9278-0.
+pallottino, massimo (2000). la sardegna nuragica. nuoro: edizioni ilisso. isbn 88-87825-10-6.
+perra, mario (1997). σαρδω, sardinia, sardegna (3 volumes). oristano: s'alvure.
+pittau, massimo (2001). la lingua sardiana o dei protosardi. cagliari: ettore gasperini editore.
+pittau, massimo (2007). storia dei sardi nuragici. selargius: domus de janas editrice.
+pittau, massimo (2008). il sardus pater e i guerrieri di monte prama. sassari: edes.
+pittau, massimo (2011). gli antichi sardi fra i "popoli del mare". selargius: domus de janas editrice.
+pittau, massimo (2013). la sardegna nuragica. cagliari: edizioni della torre.
+scintu, danilo (2003). le torri del cielo, architettura e simbolismo dei nuraghi di sardegna. mogoro: ptm editrice.
+ugas, giovanni (2005). l'alba dei nuraghi. cagliari: fabula editrice. isbn 88-89661-00-3.
+vacca, e.b. (1994). la civiltà nuragica e il mare. quartu sant'elena: asra editrice.
+further reading[edit]
+library resources about  nuragic civilization 
+online books
+resources in your library
+resources in other libraries
+
+balmuth, miriam s. (1987). nuragic sardinia and the mycenaean world. oxford, england: b.a.r.
+webster, gary s. (2015). the archaeology of nuragic sardinia. bristol, ct: equinox publishing ltd.
+zedda, mauro peppino (2016). "orientation of the sardinian nuragic 'meeting huts'". mediterranean archaeology & archaeometry. 16 (4): 195–201.
+vte sardiniaadministrative divisions
+communes
+provinces (cagliari • nuoro • oristano • sassari • south sardinia)
+history
+nuragic era
+sardinia and corsica
+judicatus
+kingdom (viceroys)
+monarchs
+mining
+politics
+elections in sardinia
+list of presidents of sardinia
+political parties
+nationalism
+culture
+flag
+music (anthem)
+sa die de sa sardigna
+tourist attractions
+archaeological and artistic sights
+people (sardinians • catalans • corsicans • italians)
+languages
+italian
+sardinian (logudorese, campidanese)
+corso-sardinian (gallurese • sassarese)
+catalan (algherese)
+ligurian (tabarchino)
+categories
+vteitaly articleshistorychronology
+prehistory
+italic peoples
+ancient peoples of italy
+pre-nuragic sardinia
+nuragic peoples
+etruscan civilization
+nuragic civilization
+phoenician/carthaginian colonies
+magna graecia
+ancient rome
+kingdom
+republic
+empire
+middle ages
+italy under odoacer
+ostrogoths
+byzantium
+lombards
+the holy roman empire
+the sardinian judicates
+arabs
+normans
+guelphs and ghibellines
+the italian city-states
+the maritime republics
+renaissance
+italian wars
+early modern period
+unification
+revolutions of 1820
+revolutions of 1830
+revolutions of 1848
+sicilian revolution of 1848
+first war of independence
+crimean war
+second war of independence
+expedition of the thousand
+third war of independence
+capture of rome
+monarchy and the world wars
+kingdom of italy
+colonial empire
+world war i
+fascist italy
+world war ii
+resistance
+civil war
+republic
+economic boom
+years of lead
+years of mud
+mani pulite
+by topic
+citizenship
+currency
+economy
+fashion
+flags
+genetic
+historic states
+military
+music
+postal
+railways
+geography
+peninsula
+northern
+northwest
+northeast
+central
+southern
+south
+insular
+climate
+fauna
+flora
+mountains
+prealps
+alps
+apennines
+volcanology
+volcanoes
+beaches
+canals
+caves
+earthquakes
+islands
+lakes
+national parks
+rivers
+valleys
+politics
+constitution
+elections
+referendums
+foreign relations
+missions
+judiciary
+law enforcement
+military
+parliament
+chamber of deputies
+senate
+political parties
+president
+prime minister
+council of ministers
+regions
+provinces
+metropolitan cities
+comune
+municipalities
+cities
+economy
+economic history
+milan
+naples
+rome
+turin
+regions by gdp
+automotive industry
+banking
+central bank
+companies
+energy
+government debt
+science and technology
+stock exchange
+taxation
+telecommunications
+internet
+tourism
+trade unions
+transportation
+welfare
+society
+abortion
+adoption
+billionaires
+capital punishment
+corruption
+crime
+demographics
+education
+secondary
+higher
+universities
+emigration
+fathers' rights movement
+feminism
+gambling
+health
+healthcare
+immigration
+lgbt rights
+nobility
+prostitution
+racism
+religion
+smoking
+social class
+terrorism
+women
+culture
+duecento
+trecento
+quattrocento
+cinquecento
+seicento
+settecento
+architecture
+art
+castles
+cinema
+cuisine
+beer
+wine
+cultural icons
+decorations
+design
+fashion
+festivals
+folklore
+italian language
+regional italian
+italian literature
+italophilia
+italophobia
+languages
+media
+newspapers
+radio
+tv
+monuments
+music
+classical
+folk
+opera
+popular
+mythology
+national symbols
+anthem
+emblem
+flag
+regions
+national monument
+personification
+people
+philosophy
+public holidays
+festa della repubblica
+sculpture
+sport
+traditions
+world heritage sites
+
+ italy portal
+ category
+ commons
+ news
+quotes
+travel
+ wikiproject
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=nuragic_civilization&oldid=883000960"					
+categories: nuraghearchaeological cultures in sardiniahistory of sardiniaarchaeological cultures of southern europebronze age cultures of europeiron age cultures of europepre-indo-europeanshidden categories: articles with italian-language external linkswebarchive template wayback linkscs1 italian-language sources (it)all articles with unsourced statementsarticles with unsourced statements from october 2018 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+aragonésбеларускаябългарскиcatalàčeštinacorsudeutschespañolfrançaisbahasa indonesiainterlinguaitalianoעבריתlingua franca novaoccitanpolskiportuguêssardusvenska 
+edit links 
+
+
+
+
+
+ this page was last edited on 12 february 2019, at 17:45 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"1.104","walltime":"1.397","ppvisitednodes":{"value":4515,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":189492,"limit":2097152},"templateargumentsize":{"value":22519,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":19,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":151706,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1030.076      1 -total"," 50.02%  515.249      1 template:reflist"," 20.79%  214.164     32 template:cite_book"," 13.92%  143.421      7 template:it"," 13.23%  136.271      1 template:link_language"," 12.28%  126.506      7 template:navbox"," 10.31%  106.175      1 template:italy_topics","  9.99%  102.902      1 template:country_topics","  7.54%   77.704      8 template:cite_journal","  6.38%   65.722     11 template:cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.547","limit":"10.000"},"limitreport-memusage":{"value":21975681,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1250","timestamp":"20190215211228","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"nuragic civilization","url":"https:\/\/en.wikipedia.org\/wiki\/nuragic_civilization","sameas":"http:\/\/www.wikidata.org\/entity\/q1421436","mainentity":"http:\/\/www.wikidata.org\/entity\/q1421436","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2010-02-21t17:50:24z","datemodified":"2019-02-12t17:45:27z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/9b\/il_nuraghe_su_nuraxi_incantato_%22_tra_fiaba_e_realt%c3%a0_%22_01.jpg","headline":"archaeological culture"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":104,"wghostname":"mw1258"});});
+
+

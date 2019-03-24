@@ -1,0 +1,631 @@
+
+
+
+
+italophilia - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"italophilia","wgtitle":"italophilia","wgcurrevisionid":872009635,"wgrevisionid":872009635,"wgarticleid":26367526,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["italian culture","european culture","admiration of foreign cultures"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"italophilia","wgrelevantarticleid":26367526,"wgrequestid":"xgf7wqpamfmaaalo@veaaabp","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfexpandallsectionsuseroption":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q573777","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+italophilia 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+italophilia is the admiration, appreciation or emulation of italy, its people, its ideals, its civilization or its culture. its opposite is italophobia.
+the extent to which italian civilization has shaped western civilization and, by extension, the civilization of the whole world, is widely recognized and acknowledged.  appreciation of the legacy of italic ideals, civilization and culture has existed for many centuries, into the present day.
+
+contents
+
+1 roman era
+2 medieval period
+3 the renaissance
+4 age of enlightenment
+5 modern era
+6 see also
+7 references
+8 bibliography
+9 external links
+
+
+roman era[edit]
+ statue of augustus, first roman emperor and creator of "italia" as an entity
+rome was the center of an empire that stretched across a large segment of the then-known world, and later became the center of the roman catholic faith. roman civilization was transplanted to many parts of europe, the mediterranean basin, north africa and the near east in the form of law, architecture, engineering, roads, aqueducts, public baths, sanitation, trade, literature, art, libraries, hospitals and agriculture.[1]  it was possible for the people in the provinces to attain roman citizenship, rise to the senate, and even to become roman emperor. the roman provinces, having received much of the benefit of roman civilization, became romanized to a large degree.  winston churchill states:[2]
+
+for nearly 300 years britain, reconciled to the roman system, enjoyed in many respects the happiest, most comfortable, and most enlightened times its inhabitants have ever had.
+the christian faith was viewed in rome as contrary to prevailing religious and political beliefs and, consequently, was suppressed.  many christians in rome and elsewhere were persecuted.  after the conversion of the emperor constantine to christianity in 312 ad, christianity flourished and became an integral part of roman life. roman catholicism, which combined christianity and roman administration, emerged in a form easily recognizable today, and took root in rome and much of the roman empire.[3] the church adopted many religious customs and forms common in pre-christian rome, such as the stole and other vestments, the use of incense and holy water in purifications, burning candles before the altar, the veneration of saints, the architecture of the basilica, the law of rome as a basis for canon law, the title pontifex maximus for the pope, and latin as the language of catholic ritual.[4]
+the cultural patrimony of roman literature, architecture and sculpture inspired many of the achievements of the middle ages and renaissance in italy and the rest of europe.  works by poets, authors and historians, such as ovid, horace, catullus, cicero, virgil, livy and tacitus had a far reaching impact on the western world.
+the legacy of rome is apparent in the western world, and elsewhere, in numerous ways, such as:
+
+the roman alphabet
+roman numerals
+names of the planets
+names of the months
+names of the days of the week (in romance-language countries)
+julian calendar (used for almost 1500 years), replaced in 1582 by the gregorian calendar
+systems of government and law based on roman models
+first modern concept of a hospital
+latin-derived languages in italy, france, spain, portugal and by extension, the languages of many latin american and african nations
+languages heavily influenced by latin, such as modern english (approximately half latin based)
+the roman arch
+techniques used in building roads, bridges, aqueducts, viaducts, etc.
+use of concrete as a building material
+the stadium
+wine-making cultures in italy, france, spain, portugal, austria and southern germany
+medieval period[edit]
+after the fall of the roman empire, its vast governmental network provided a structure for the roman catholic church’s ecclesiastic rule.  the bishops, rather than the roman prefects became the source of order and the seat of power.[4] in many important ways, the roman catholic church became the successor of the roman empire.  the church and its pope were major stabilizing influences in europe in the centuries that followed.  in the words of historian will durant (in his caesar and christ, the story of civilization):
+
+rome died in giving birth to the church; the church matured by inheriting and accepting the responsibilities of rome.
+the civilization of italy continued to be a cultural force that helped preserve greco-roman civilization and ideals during this period.  latin, the indigenous language of the italic people, became the universal language of the catholic church and, generally, of culture and learning in europe.
+western monasticism, as first practiced by the followers of saint benedict, born in nursia in 480 ad, spread from italy to all parts of europe.  the benedictine monks were a very important factor in preserving greco-roman culture and learning for later centuries.
+gregorian chant, an outgrowth of roman plain chant, strongly influenced both liturgical and secular music during the middle ages. an italian monk, guido of arezzo (born in 991), developed the form of musical notation that became the basis of western music and, subsequently, of music worldwide.
+saint francis of assisi (born giovanni di bernardone in assisi in 1181) was a friar who founded the men's order of friars minor and the women’s order of st. clare, both of which attracted many followers from all over europe. he became one of the most venerated religious figures in catholic church history.
+saint thomas aquinas, a dominican priest born in aquino in 1225, was a philosopher and theologian. he was one of the greatest minds of the middle ages, and he had a widespread influence on western thought.  he was considered then, as he is now, to be the greatest theologian and philosopher of the catholic church.  he is best known for his major work, the  summa theologica.
+educated people in europe were familiar with the works of dante and boccaccio, which dominated the literature of the middle ages, and with their contemporary petrarch, who had established the most important lyric poetry tradition in europe.  these works had a significant influence on shakespeare, chaucer and many other writers of the middle ages and renaissance.
+
+ statue of dante at the uffizi gallery, florence
+students and scholars came from all over europe to study at institutions of higher learning in italy.  the medical school at salerno, founded in the ninth century, was the world's first medical school, and unrivalled in the middle ages. the university of bologna, the first modern university, was founded in bologna in 1088. the university of padua, the second oldest university in italy, was founded in 1222 as a school of law.  the university of naples, founded in 1224, was the world's first state-supported university.
+during the middle ages, the vitality of italian merchants was evident throughout europe, and the resultant trade prompted their invention of financial and business practices which provided the foundation for modern banking, commerce and capitalism.[5] the original banks were "merchant banks" that italian grain merchants first invented in the middle ages. merchants and bankers grew in stature based on the strength of the lombard plains cereal crops, and capitalism evolved based on these banks.
+indeed, banking (from the italian word for "bench") can be traced to medieval and early renaissance italy, to the rich cities in the north such as florence, venice and genoa. the bardi and peruzzi families dominated banking in 14th century florence, establishing branches in many other parts of europe.[6] perhaps the most famous italian bank was the medici bank, established by giovanni medici in 1397.[7] the development of banking spread from northern italy through europe during the early renaissance and helped create modern capitalism.  luca pacioli is referred to as the "father of accounting"
+the bank of saint george (casa delle compere e dei banchi di san giorgio) was a bank of the republic of genoa, which was the main financer of the voyages of columbus to the new world by spain, founded in the 14th century.[8] it is the oldest chartered bank in europe and the world.
+
+the renaissance[edit]
+the italian renaissance was to a large extent an expression of humanism, that led to one of the most productive and significant periods in human history in the arts, literature, medicine and science. greeks fleeing the turkish invasion of the byzantine empire flocked to italy, and helped spur the renaissance and interest in ancient greek texts. the italian renaissance also transformed art and humanism across europe, and set the stage for the enlightenment.
+in the words of historian will durant:[9]
+
+from 1500 to 1600 all western europe acknowledged her as the mother and nurse of the new civilization of science and art and the humanities ... so the sixteenth century, when the renaissance declined in italy, was an age of exuberant germination in france, england, germany, flanders, and spain.
+giotto, born in 1267, is recognized as the first great artistic genius of the italian renaissance. his ability to portray human emotions distinguished him from the artists of the middle ages, and he established a style of painting that would be widely emulated in italy and, later, elsewhere in europe.  italian renaissance painters and sculptors, such as leonardo da vinci and michelangelo buonarroti, and scores of others of the first rank, were greatly admired and acclaimed, and had a widespread influence on artistic concepts and esthetic standards throughout europe.
+italian artists, beginning with giotto, mastered the use of perspective and chiaroscuro (light and shadow), which had a widespread influence on western art.  brunelleschi, an architect, was the first to explain perspective in terms of a well-defined set of geometric rules.  some science historians credit the mastery of chiaroscuro, together with the discovery of the rules of perspective, as of fundamental importance in the development of modern science.[10][11][12]
+aldus manutius (aldo manuzio) (1449 – 1515) was one of the foremost intellectuals and humanists of the renaissance, but is most renowned as an early entrepreneur and innovator in the new printing media.  in over 20 years in which his aldine press (established 1494) was in operation, he published many classic works from antiquity.  he was the first to publish pocket-size volumes, achieving this by using standardized typefaces.  he was the innovator of the first italic type, along with other typefaces and typographical characters.
+
+ michelangelo's pietà in st. peter's basilica
+leonardo da vinci, born in 1452 in vinci,  was a painter, sculptor, architect, musician, mathematician, engineer, inventor, anatomist, geologist, cartographer, botanist, and writer. his genius, perhaps more than that of any of his contemporaries, epitomized the creative energy of the renaissance. he is widely considered to be one of the greatest painters of all time, and his mona lisa is regarded by many to be the most famous painting in the world.  his anatomical drawings have never been surpassed in detail and accuracy, and are still in use today.[13]
+michelangelo was born in florence in 1475 and, like leonardo, was a true renaissance man.  he was a sculptor, painter, architect, poet, and engineer who exerted an unparalleled influence on the development of western art.  he was considered the greatest living artist in his lifetime and, since then, one of the greatest artists of all time. his two best-known sculptures, the pietà and david, are famous throughout the world. michelangelo also created two of the most famous and influential frescoes in the history of western art: the scenes from genesis covering the ceiling of the sistine chapel, and the last judgment on the altar wall of the chapel.
+renaissance architecture of the 15th and 16th centuries was a revival of elements of ancient greek and roman architecture.[14] it first developed in florence, with brunelleschi, alberti and palladio being among its innovators, and soon spread to other italian cities, and later to france, germany, england, russia and other parts of europe.  the renaissance style placed emphasis on symmetry, proportion, geometry and the regularity of parts as exemplified in the architecture of classical antiquity and in particular in the architecture of ancient rome, of which many examples remained.  it was succeeded by baroque architecture.
+italian singers, composers, dancers and actors had a great impact on music and the performing arts. palestrina, monteverdi and frescobaldi were responsible for musical innovations that were seminal in the development of western music.  italian commedia dell'arte was an art form that had a great influence in the performing arts, not only in italy but in many other parts of europe as well.
+ballet began in 15th-century renaissance italy.  the foot positions and steps that make up classic ballet were created by renaissance dance masters in the 1400s.  wealthy italian nobles staged elaborate court dances to celebrate events such as weddings or the birth of an heir. the choreographers of these renaissance spectacles became known as ballet masters. one of the earliest ballet masters, domenico da piacenza, wrote dance manuals describing the steps, with diagrams of the figures and patterns created by the movements, which allowed the dances to be recreated in other courts throughout europe.  he used the word "ballo", the italian word for dance, to describe his choreography.  when catherine de medici married king henry ii of france, she brought the italian dance tradition with her to france.[15]
+the flourishing of arts in tudor england during the english renaissance attracted many italian artists and musicians to the country.[16] william shakespeare is said to have exhibited italophilia in his many works with an italian setting, such as romeo and juliet and the merchant of venice.[17] spenser's epic poem, the faerie queene, was greatly influenced by italian epic poems, particularly ludovico ariosto's orlando furioso (1532), and torquato tasso's gerusalemme liberata (1581). francis i, king of france, initiated the french renaissance by attracting many italian artists, including leonardo da vinci, to his court. french theatre of the 17th century was rooted in the theatre of 16th-century italy. poland was strongly influenced by italian artisans, painters, sculptors and architects, such as the sculptor, giammaria mosca,[18] whose many commissions included the tomb of the king of poland.  the spanish writer, cervantes, was greatly influenced by italian literature, which is readily discernible in his own works.[19]  spanish theatre of the 17th century was strongly influenced by italian models.
+the university of bologna, the first modern university, was a leading center of mathematical studies in the 16th century, and it was there that niccolò fontana tartaglia developed the method of solving cubic equations, an achievement previously considered impossible.  extending tartaglia’s work, lodovico ferrari devised a similar method to solve quartic equations, and both solutions were published by gerolamo cardano.  the solutions to the cubic and quartic equations used, for the first time, what are now known as complex numbers, although it was another bologna mathematician, rafael bombelli, who first  explained what complex numbers are, and how they could be used.  complex numbers have since found practical applications in many fields, including physics, chemistry, biology, economics, electrical engineering, and statistics.  later, cardano published the first systematic treatment of probability.
+italy was a center of commerce and italian explorers and merchants, such as the venetian marco polo, and the italian maritime republics moved all around the known world. the genoese explorer cristoforo colombo discovered america in 1492, changing world history forever.  another italian navigator, amerigo vespucci, was the source of the name given to the new world.  they were followed by other new world navigators from the italian peninsula, notably the venetians giovanni caboto (john cabot) and  sebastiano caboto (sebastian cabot), and the florentine giovanni da verrazzano.
+
+age of enlightenment[edit]
+beginning in the 16th century, italian states came under the political control of more powerful european monarchies; however, italy continued to be a source of creative energy in art, science, music and medicine.  enlightenment thinkers, like renaissance thinkers, were interested in pre-christian greek and roman thought.
+galileo, born in 1564 in pisa, was the most famous scientist of his age, and played a major role in the scientific revolution.  he is often referred to as the “father of modern science.”  his achievements include a greatly improved telescope, which he employed in making astronomical observations supporting the heliocentric theory of copernicus; and also the experiments he carried out leading to his law of falling bodies, which was of key importance in newton’s synthesis of his own famous three laws of motion.
+bonaventura cavalieri, a jesuit priest and mathematician, born in 1598, is known for his work on indivisibles, a precursor of infinitesimal calculus, and for cavalieri's principle in geometry, which partially anticipated integral calculus.
+
+ galileo galilei, the founder of modern science.
+alessandro volta, born in como in 1745, invented the first true electrical battery, known as the voltaic pile. it provided a continuous source of electric current, which greatly benefitted ampere, ohm and other electrical experimenters in their development of basic electrical theory.  a unit of electricity (volt) is named in his honor.
+italians such as fallopio, eustachi, malpighi, morgagni and valsalva were important pioneers of modern anatomy at the university of bologna and university of padua, which drew students from all over europe.  padua's famous anatomical theatre was renowned in europe at the time, and the great english medical scientist william harvey received his education there.[20]
+cesare beccaria, a philosopher, jurist and marquis wrote on crimes and punishments (1754), dealing with the abolition of torture and capital punishment, which had a great impact throughout europe and in the united states.  it strongly influenced intellectuals and politicians in the age of enlightenment, and led to a revolution and reform of judiciary systems to the prevailing modern concept.  in 1786, grand duchy of tuscany was the first to abolish capital punishment.
+giordano bruno had a great influence on 17th-century scientific and philosophical thought and, ever since, his ideals have been absorbed by many philosophers.  bruno's freedom of thought inspired european liberal movements of the 19th century.  the significance of bruno’s work lies in his cosmological theories, which anticipated some fundamental aspects of the modern concept of the universe; his ethical ideas, in contrast with religious ascetical ethics, which appealed to modern humanistic activism; and his ideals of religious and philosophical tolerance. 
+giambattista vico was a political philosopher, rhetorician, historian, and jurist, who is recognized as one of the great enlightenment thinkers. he criticized the expansion and development of modern rationalism and was an apologist of classical antiquity.  his major work, scienza nuova, published in 1725, has been highly influential in the philosophy of history, into the 20th-century.
+opera originated in italy at the end of the 16th century (with the opera dafne, which was composed by jacopo peri, and produced in florence in 1598), and soon spread to the rest of europe. italian opera was adapted by french, german and russian composers, who developed their own national schools of opera.
+italian instrumental music was studied and emulated all over europe.  the sonata, concerto, sinfonia, oratorio and other musical forms all originated in italy.  italian terminology defining the tempo and mood of a musical passage was universally adopted in western music.  the music of italian composers, such as corelli, scarlatti, and vivaldi, was studied or transcribed by many other composers of the day, most notably bach.  in addition, many composers, such as handel, gluck and mozart studied or worked in italy, and subsequently became famous for their instrumental music and operas.
+the fortepiano, the fore-runner of the modern piano, was invented by bartolomeo cristofori in florence around 1725, and soon replaced the harpsichord as a solo and ensemble keyboard instrument.
+the family of stringed instruments, consisting of the violin, viola, cello and contrabass evolved in italy in the mid 16th century.  antonio stradivari, andrea guarneri, nicolo amati and other master instrument makers crafted stringed instruments that were highly prized, widely imitated, but never equaled.
+the education of upper-class young man was expected to be completed by a "grand tour" of italy to be exposed to the visible legacies of its classical culture, as well as to its contemporary culture of music, literature, art and architecture. famous examples included goethe, keats, lord byron and shelley.  many of the nobility and royalty of the time visited italy as a part of their education. keats said that the country was a "paradise of exiles”.[21] john ruskin was a victorian italophile who respected the concepts of morality held in italy.[22]
+italian universities and medical schools attracted students and scholars from across europe.  luminaries, such as copernicus and harvey, were educated in italy.
+at the end of the eighteenth century, italiophilia was not uncommon among the founders of the united states, and some of the creators of the u.s. constitution, such as thomas jefferson and benjamin franklin, looked to roman models upon which to base the american systems of government and law.[23] the founding fathers were also interested in renaissance political thinkers and humanists like machiavelli, and how italian republics functioned.  jefferson was among the most conspicuous of the early american italophiles.[24] he was especially impressed with italian architecture, and based the design of his virginia residence, monticello, on prints by palladio, the 16th-century italian architect.[25] the jefferson memorial in washington dc, erected in honor of jefferson, is a neo-palladian imitation of the pantheon in rome.  the palladian style of architecture appears elsewhere in the u.s. capital, and the white house itself was inspired by it.  (congressional resolution n. 259 of 6 december 2010 recognized palladio as father of american architecture.)
+the influence of italian culture and artistry during this era is expressed by barzini:[26]
+
+italian architects and masons built part of the kremlin in moscow, and the winter palace in leningrad.  italian artists embellished the capital in washington.  they have strewn churches, princely palaces and stately villas all over catholic europe, especially in vienna, madrid, prague and warsaw.  their influence on architecture was felt almost everywhere.  they taught poetry, statesmanship and trade to the english; military art to the germans; cuisine to the french; acting and ballet to the russians; and music to everyone.
+modern era[edit]
+ guglielmo marconi, a pioneer in the development of wireless telegraphy and long-distance radio transmissions.
+in 1861 italy was united for the first time since the fall of the roman empire and became a modern industrialized country, where the tradition of creativity, scientific achievement and excellence in manufacturing continued.
+
+ enrico fermi, pioneer of nuclear power.
+giuseppe garibaldi, a central figure in achieving italian independence, was called the "hero of two worlds" because of his military enterprises to achieve independence for countries in south america as well. garibaldi was admired by many of the greatest intellectuals of his time, such as victor hugo, alexandre dumas, and george sand.
+maria montessori, born in 1870, was a physician and educator who became known around the world for the educational method that bears her name, and for her writings on pedagogy. her methods are in use today in schools throughout the world.
+toward the end of the 19th century, mathematicians gregorio ricci-curbastro and tullio levi-civita developed tensor calculus, which provided the mathematical framework for einstein's general theory of relativity in the early 20th century.
+in the early 20th century pirandello, a nobel laureate, was the first european playwright to radically question the structures of traditional theatre. since then, film directors and writers such as fellini, antonioni, pasolini, calvino, eco and fo have been recognized around the world.  italian neorealism in films, beginning after the second world war, had a great impact on audiences around the world, and established a new philosophy of filmmaking adopted worldwide.
+the legacy of italian scientists fermi (nuclear power), meucci (telephone), and marconi (radio), whose discoveries and inventions transformed the world, is widely recognized. at the same time that german scientists were making major advancements in physics, beginning with max planck, italian scientists like fermi's via panisperna group in rome were making important fundamental discoveries in physics as well.  
+the first public flight of a jet-engined aircraft was that of the italian caproni campini n.1 prototype on august 27, 1940.  italy was the fourth country in the world to build nuclear power plants, starting in 1955 (now decommissioned due to a popular referendum in 1987), and the third, after the united states and the soviet union, to launch a scientific earth satellite in the 1964 san marco programme, using an american scout missile as the launch vehicle. the broglio space centre, located on a sea platform offshore the kenya coast is the only example of a spacecraft launch center built on a floating sea platform. 
+italian companies have developed products that are of fundamental importance in contemporary society, such as the olivetti-developed transistorized mainframe computer systems (olivetti elea) and, in 1964, the world's first commercial desktop computer, the programma 101, invented by pier giorgio perotto.
+today, italy is admired throughout the world for its design, particularly in the areas of fashion and manufactured goods. italian fashions by gucci, benetton, armani, valentino, prada, dolce & gabbana, ferragamo and versace are known worldwide.  in automobile design, the brand names ferrari, lamborghini and maserati are known and admired throughout the world.[27] in britain in the 1960s the emerging mod subculture championed italian and french design, with mods adopting the vespa gs and the lambretta li 150 motor scooters as their preferred means of transport as well as wearing italian-designed clothes and shoes, and had a lasting effect - britain remains vespa's largest market outside of italy.[28][29] italian design and manufacturing in furniture, architecture and interior design is appreciated worldwide.  architects like renzo piano have designed important modern buildings such as centre pompidou in paris and kansai international airport in osaka. architect and designer giò ponti was a pioneer in industrial design, and inspired many other italian designers who have established the italian image of design excellence in the world.  designers such as ettore sottsass, and his memphis group of designers, are famous for creating postmodern furniture, fabrics, ceramics, glass and metal objects; and lighting manufacturer artemide is famous for lamps which transcend their common use as objects, and are nowadays considered cult manufacturing artworks, collected in museums of modern art.
+italy ranks among the world’s most popular tourist destinations, with about 45 million tourists visiting the country every year.  italy has forty-seven unesco world heritage sites, more than any other country.  it is also home to a large number of religious sites that draw people from all parts of the world.  according to unesco, the cultural and educational agency for the united nations, over 60 percent of the entire world’s art treasures are found in italy, [30] which draws tourists, scholars, artists and art historians from everywhere in the world. many are drawn to rome, still known as the "eternal city," for its history, culture and the fact that vatican city, the center of world-wide catholicism, is located there. other places in italy that attract many tourists are venice, florence, and sites associated with padre pio and francis of assisi.
+the descendants of italian immigrants to the countries of north and south america, in many cases, still retain an appreciation of their italian roots, culture and traditions.  italophilia is actively fostered by organizations such as the order sons of italy in america, the national italian american foundation, the dante alighieri society and the italic institute of america.[31]
+giorgio silvestri (director of the "assemblea legislativa della liguria") has conjectured that there are nearly 250 million italophiles in the world.[32]
+
+see also[edit]
+italians
+culture of italy
+references[edit]
+
+
+^ hayes, c., baldwin, m. and cole, c.; history of western civilization, the macmillan company, new york, 1968
+
+^ churchill, winston, history of the english speaking peoples, barnes and noble, 1994, pg. 8
+
+^ durant, will, caesar and christ, the story of civilization, simon & schuster, new york, 1953, pg. 618
+
+^ a b caesar and christ, the story of civilization, pg. 619
+
+^ lopez, robert, the commercial revolution of the middle ages, 950-1350, cambridge university press, 1976
+
+^ hoggson, n. f, banking through the ages, dodd, mead & company, new york, 1926.
+
+^ goldthwaite, r. a., banks, places and entrepreneurs in renaissance florence, aldershot, hampshire, great britain, variorum, 1995
+
+^ george macesich, issues in money and banking, p42. greenwood publishing, 2000. .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}isbn 978-0-275-96777-2
+
+^ durant, will, the renaissance, the story of civilization, simon & schuster, new york, 1953, pg. 718
+
+^ edgerton, samuel, the heritage of giotto's geometry: art and science on the eve of the scientific revolution, cornell university press, 1991, pg. 10
+
+^ tarnas, richard, passions of the western mind, penguin random house, 2011, pg. 230
+
+^ kemp, martin the science of art: optical themes in western art from brunelleschi to seurat, yale university press, 1992.
+
+^ wells, francis, the heart of leonardo, springer, 2013
+
+^ http://www.metmuseum.org/toah/hd/itar/hd_itar.htm
+
+^ "ballet in the renaissance period - synonym".
+
+^ "england in the italian renaissance - history today". www.historytoday.com.
+
+^ clubb, louise george, italian drama in shakespeare's time (new haven and london, yale university press, 1989), p. 33.
+
+^ schultz, anne markham, giammaria mosca, called padovano: a renaissance sculptor in italy and poland, pennsylvania state university press, 1998
+
+^ dearmas, frederick, ed.,the cambridge companion to cervantes, chapter 3: cervantes and the italian renaissance, cambridge university press, 2002, pp. 32-57
+
+^ boorstin, daniel, the discoverers, vintage books, new york, 1985, pp. 376-83
+
+^ "john f. kennedy: remarks in naples at nato headquarters". www.presidency.ucsb.edu.
+
+^ wilson, a. n. the victorians. new york, new york, usa: w. w. norton & company, ltd, 2003. pp. 86.
+
+^ https://news.yahoo.com/italys-role-us-independence-honored-170938982.html
+
+^ the italian american experience, salvatore lagumina, ed., garland publishing, inc., new york, 2000, pg. 305
+
+^ mangione, jerre and morreale, ben, la storia, five centuries of the italian american experience, harper perennial, 1992
+
+^ barzini, luigi, the italians, a bantom book, 1965
+
+^ "ferrari (ferrari sports cars)". www.yourguidetoitaly.com.
+
+^ glancey, jonathan (22 november 2013). "the vespa: how a motor scooter became stylish". bbc.co.uk. retrieved 19 june 2016.
+
+^ wheeler, brad (13 august 2012). "the mods are back, but who were they?". theglobeandmail.com. retrieved 19 june 2016.
+
+^ http://www.aboutflorence.com/art-and-culture-of-florence.html
+
+^ "italic institute of america, italian heritage, italian american heritage". www.italic.org.
+
+^ "the italics project". www.globusetlocuseng.org.
+
+
+bibliography[edit]
+durant, will, caesar and christ, the story of civilization, simon & schuster, new york, 1944.
+durant, will, the age of faith, the story of civilization, simon & schuster, new york, 1950.
+durant, will, the renaissance, the story of civilization, simon & schuster, new york, 1953.
+burckhardt, jacob, the civilization of the renaissance in italy, volume 1, harper & row publishers, 1958.
+burckhardt, jacob, the civilization of the renaissance in italy, volume 2, harper & row publishers, 1958.
+holmes, george, the oxford illustrated history of italy, edition 1, oxford university press, 2001.
+sells, lytton, the italian influence in english poetry, allen & unwin ed., london, 1955.
+berenson, bernard, the italian painters of the renaissance, cornell university press, 1980.
+clendenin, william, history of music, littlefield, adams and company, totawa n.j., 1980.
+veinus, abraham, the concerto, dover publications, new york, 1964.
+simon, henry, ed., the victor book of the opera, simon & schuster, new york, 1968.
+mason, stephen, a history of the sciences, collier books, new york, 1962.
+goldstein, thomas, dawn of modern science, houghton mifflin company, boston, 1980.
+ferguson, niall, the ascent of money, a financial history of the world, the penguin press, new york, 2008.
+woods, thomas, how the catholic church build western civilization, regnery publishing, inc., washington d.c., 2005.
+greenblatt, stephan, the swerve: how the world became modern, w.w. norton & company, inc., new york, 2011
+
+
+external links[edit]
+italophile italophile.com is a community for italophiles, those of us who love italy and all things italian
+vteitaly articleshistorychronology
+prehistory
+italic peoples
+ancient peoples of italy
+pre-nuragic sardinia
+nuragic peoples
+etruscan civilization
+nuragic civilization
+phoenician/carthaginian colonies
+magna graecia
+ancient rome
+kingdom
+republic
+empire
+middle ages
+italy under odoacer
+ostrogoths
+byzantium
+lombards
+the holy roman empire
+the sardinian judicates
+arabs
+normans
+guelphs and ghibellines
+the italian city-states
+the maritime republics
+renaissance
+italian wars
+early modern period
+unification
+revolutions of 1820
+revolutions of 1830
+revolutions of 1848
+sicilian revolution of 1848
+first war of independence
+crimean war
+second war of independence
+expedition of the thousand
+third war of independence
+capture of rome
+monarchy and the world wars
+kingdom of italy
+colonial empire
+world war i
+fascist italy
+world war ii
+resistance
+civil war
+republic
+economic boom
+years of lead
+years of mud
+mani pulite
+by topic
+citizenship
+currency
+economy
+fashion
+flags
+genetic
+historic states
+military
+music
+postal
+railways
+geography
+peninsula
+northern
+northwest
+northeast
+central
+southern
+south
+insular
+climate
+fauna
+flora
+mountains
+prealps
+alps
+apennines
+volcanology
+volcanoes
+beaches
+canals
+caves
+earthquakes
+islands
+lakes
+national parks
+rivers
+valleys
+politics
+constitution
+elections
+referendums
+foreign relations
+missions
+judiciary
+law enforcement
+military
+parliament
+chamber of deputies
+senate
+political parties
+president
+prime minister
+council of ministers
+regions
+provinces
+metropolitan cities
+comune
+municipalities
+cities
+economy
+economic history
+milan
+naples
+rome
+turin
+regions by gdp
+automotive industry
+banking
+central bank
+companies
+energy
+government debt
+science and technology
+stock exchange
+taxation
+telecommunications
+internet
+tourism
+trade unions
+transportation
+welfare
+society
+abortion
+adoption
+billionaires
+capital punishment
+corruption
+crime
+demographics
+education
+secondary
+higher
+universities
+emigration
+fathers' rights movement
+feminism
+gambling
+health
+healthcare
+immigration
+lgbt rights
+nobility
+prostitution
+racism
+religion
+smoking
+social class
+terrorism
+women
+culture
+duecento
+trecento
+quattrocento
+cinquecento
+seicento
+settecento
+architecture
+art
+castles
+cinema
+cuisine
+beer
+wine
+cultural icons
+decorations
+design
+fashion
+festivals
+folklore
+italian language
+regional italian
+italian literature
+italophilia
+italophobia
+languages
+media
+newspapers
+radio
+tv
+monuments
+music
+classical
+folk
+opera
+popular
+mythology
+national symbols
+anthem
+emblem
+flag
+regions
+national monument
+personification
+people
+philosophy
+public holidays
+festa della repubblica
+sculpture
+sport
+traditions
+world heritage sites
+
+ italy portal
+ category
+ commons
+ news
+quotes
+travel
+ wikiproject
+
+vtecultural appreciationeurope
+armenian
+austrian
+english/british
+estonian
+finnish
+french
+german
+georgian
+greek
+spartan
+irish
+italian
+scandinavian
+swedish
+slavic
+russian
+serbian
+ukrainian
+africa
+egyptian
+americas
+american
+asia
+asian
+arab
+chinese
+indian
+iranian/persian
+japanese
+jewish
+korean
+pakistani
+taiwanese
+turkish
+vietnamese
+oceania
+australian
+see also: acculturation • allophilia • enculturation • cultural appropriation • racial fetishism • xenophilia
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=italophilia&oldid=872009635"					
+categories: italian cultureeuropean cultureadmiration of foreign cultures 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+languages
+
+
+العربيةcatalàespañolفارسیfrançaisitalianoportuguêssimple english 
+edit links 
+
+
+
+
+
+ this page was last edited on 4 december 2018, at 18:33 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.400","walltime":"0.518","ppvisitednodes":{"value":1806,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":105871,"limit":2097152},"templateargumentsize":{"value":20536,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":17,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":32798,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  326.298      1 -total"," 65.03%  212.185      1 template:reflist"," 34.35%  112.078      7 template:navbox"," 33.11%  108.030      1 template:italy_topics"," 31.98%  104.344      1 template:country_topics"," 31.76%  103.646      1 template:isbn"," 23.81%   77.689      8 template:cite_web"," 23.33%   76.118      1 template:catalog_lookup_link","  5.62%   18.345      1 template:coat_of_arms","  4.44%   14.491      6 template:icon"]},"scribunto":{"limitreport-timeusage":{"value":"0.092","limit":"10.000"},"limitreport-memusage":{"value":3751861,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1326","timestamp":"20190210121702","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"italophilia","url":"https:\/\/en.wikipedia.org\/wiki\/italophilia","sameas":"http:\/\/www.wikidata.org\/entity\/q573777","mainentity":"http:\/\/www.wikidata.org\/entity\/q573777","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2010-02-28t03:10:29z","datemodified":"2018-12-04t18:33:50z","headline":"admiration, general appreciation or love of italy, its culture, society, arts and people"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":91,"wghostname":"mw1248"});});
+
+

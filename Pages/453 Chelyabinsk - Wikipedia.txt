@@ -1,0 +1,987 @@
+
+
+
+
+chelyabinsk - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"chelyabinsk","wgtitle":"chelyabinsk","wgcurrevisionid":882210638,"wgrevisionid":882210638,"wgarticleid":244749,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["cs1 russian-language sources (ru)","all articles with dead external links","articles with dead external links from august 2017","articles with permanently dead external links","cs1 uses russian-language script (ru)","articles with short description","infobox mapframe without osm relation id on wikidata","coordinates on wikidata","articles containing russian-language text","articles with haudio microformats","articles containing bashkir-language text","all accuracy disputes","articles with disputed statements from march 2013","articles with russian-language external links","wikipedia articles incorporating a citation from the 1911 encyclopaedia britannica with wikisource reference","wikipedia articles with gnd identifiers","wikipedia articles with musicbrainz area identifiers","use mdy dates from april 2013","pages with maps","chelyabinsk","history of ural","orenburg governorate","populated places established in 1736"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"chelyabinsk","wgrelevantarticleid":244749,"wgrequestid":"xgs@qapamfqaal9wtbgaaabh","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgkartographerlivedata":{"_7ad81ac6e22b9102e51ebf78cdcd3ca8de882ffa":[{"type":"externaldata","service":"geoshape","url":"https://maps.wikimedia.org/geoshape?getgeojson=1\u0026ids=q906","properties":{"stroke-width":3,"stroke":"#ff0000","title":"chelyabinsk"}},{"type":"externaldata","service":"geoline","url":"https://maps.wikimedia.org/geoline?getgeojson=1\u0026ids=q906","properties":{"stroke-width":5,"stroke":"#ff0000","title":"chelyabinsk"}},{"type":"feature","geometry":{"coordinates":[61.4,55.15],"type":"point"},"properties":{"title":"chelyabinsk","marker-color":"#5e74f3"}},{"type":"externaldata","service":"geoshape","url":"https://maps.wikimedia.org/geoshape?getgeojson=1\u0026ids=q906","properties":{"stroke-width":3,"stroke":"#ff0000","title":"chelyabinsk"}},{"type":"externaldata","service":"geoline","url":"https://maps.wikimedia.org/geoline?getgeojson=1\u0026ids=q906","properties":{"stroke-width":5,"stroke":"#ff0000","title":"chelyabinsk"}},{"type":"feature","geometry":{"coordinates":[61.4,55.15],"type":"point"},"properties":{"title":"chelyabinsk","marker-color":"#5e74f3"}}]},"wgcoordinates":{"lat":55.154722222222,"lon":61.375833333333},"wgwikibaseitemid":"q906","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.kartographer.style":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","jquery.makecollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","ext.kartographer.staticframe","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makecollapsible","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+chelyabinsk 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+this article is about a major city in russia. for the town previously known as chelyabinsk-40 and chelyabinsk-65, see ozyorsk, chelyabinsk oblast.
+city in chelyabinsk oblast, russiachelyabinskчелябинскcity[1]chelyabinsk opera theater and vicinity
+flagcoat of armslocation of chelyabinsk
+chelyabinsklocation of chelyabinskshow map of russiachelyabinskchelyabinsk (chelyabinsk oblast)show map of chelyabinsk oblastcoordinates: 55°09′17″n 61°22′33″e﻿ / ﻿55.15472°n 61.37583°e﻿ / 55.15472; 61.37583coordinates: 55°09′17″n 61°22′33″e﻿ / ﻿55.15472°n 61.37583°e﻿ / 55.15472; 61.37583countryrussiafederal subjectchelyabinsk oblastfounded1736[2]city status since1787[2]government • bodycouncil • headvladimir elistratov (acting)area[3] • total530 km2 (200 sq mi)elevation220 m (720 ft)population (2010 census)[4] • total1,130,132 • estimate (2018)[5]1,202,371 (+6.4%) • rank9th in 2010 • density2,100/km2 (5,500/sq mi)administrative status • subordinated tocity of chelyabinsk[1] • capital ofchelyabinsk oblast[1], city of chelyabinsk[1]municipal status • urban okrugchelyabinsky urban okrug[1] • capital ofchelyabinsky urban okrug[1]time zoneutc+5 (msk+2 [6])postal code(s)[7]454xxxdialing code(s)+7 351[8]city dayseptember 13twin townscolumbia, omskoktmo id75701000001websitewww.cheladmin.ru
+chelyabinsk (russian: челя́бинск, ipa: [tɕɪˈlʲæbʲɪnsk] (listen)) is a city and the administrative center of chelyabinsk oblast, russia, located in the northeast of the oblast, 210 kilometers (130 mi) south of yekaterinburg, just to the east of the ural mountains, on the miass river, on the border of europe and asia.[9][10][11] population: 1,130,132 (2010 census);[4] 1,077,174 (2002 census);[12] 1,141,777 (1989 census).[13]
+
+contents
+
+1 history
+
+1.1 2013 meteor
+
+
+2 administrative and municipal status
+3 geography
+
+3.1 climate
+
+
+4 cityscape
+
+4.1 architecture
+4.2 parks and gardens
+
+
+5 education
+6 economy
+
+6.1 transportation
+
+
+7 sports
+8 culture
+9 notable people
+
+9.1 ice hockey players
+
+
+10 twin towns and sister cities
+
+10.1 diplomatic and consular missions and visa centers
+
+
+11 see also
+12 references
+
+12.1 notes
+12.2 sources
+
+
+13 external links
+
+
+history[edit]
+the fortress of chelyaba, from which the city takes its name, was founded at the location of the bashkir village of chelyaby (bashkir: силәбе, siläbe) by colonel alexey (kutlu-muhammed) tevkelev in 1736[2] to protect the surrounding trade routes from possible attacks by bashkir outlaws. during pugachev's rebellion, the fortress withstood a siege by the rebel forces in 1774, but was eventually captured for several months in 1775. in 1782, as a part of ufa viceroyalty that was later reformed into orenburg governorate, chelyabinsk became a seat of a its own uyezd and finally was granted town status and its current name in 1787.
+
+ tea-packing factory kuznetsov (1898)
+ trading house negotiant valeyev (1911)
+until the late 19th century, chelyabinsk was a small provincial town. in 1892, the samara-zlatoust railway was completed which connected it with moscow and the rest of european russia. also in 1892, construction of the trans-siberian railway from chelyabinsk started and in 1896 the city was linked to ekaterinburg. chelyabinsk became the hub for relocation to siberia. for fifteen years more than fifteen million people - a tenth of russia - passed through chelyabinsk. some of them remained in chelyabinsk, which contributed to its rapid growth. in addition, in chelyabinsk was organized custom office set "customs fracture" the bounding duty-free grain and tea to the european part of the country that led to the emergence in mills and set the tea-packing factory. soon chelyabinsk started turning into a major trade center, its population reached 20,000 inhabitants by 1897, 45,000 by 1913, and 70,000 by 1917. for rapid growth at the turn of the 20th century, similar to american cities, chelyabinsk called "behind the urals chicago".[14]
+during the first five-year plans of the 1930s, chelyabinsk experienced rapid industrial growth. several establishments, including the chelyabinsk tractor plant and the chelyabinsk metallurgical plant, were built at this time. during world war ii, joseph stalin decided to move a large part of soviet factory production to places out of the way of the advancing german armies in late 1941. this brought new industries and thousands of workers to chelyabinsk. facilities for the production of t-34 tanks and katyusha rocket launchers existed in chelyabinsk. during world war ii, it produced 18,000 tanks, and 48,500 tank diesel engines as well as over 17 million units of ammunition. in the press of the time chelyabinsk was informally called "tankograd" or "tank city". the s.m. kirov factory no. 185 moved here from leningrad to produce heavy tanks; it was transferred to omsk after 1962.
+
+2013 meteor[edit]
+main article: chelyabinsk meteor
+shortly after dawn on february 15, 2013, a superbolide meteor descended at over 55,000 kilometers per hour (34,000 mph) over the ural mountains, exploding at an altitude of 25–30 kilometers (16–19 mi).[15][dubious  – discuss]
+the meteor created a momentary flash as bright as the sun and generated a shock wave that injured over a thousand people. fragments fell in and around chelyabinsk. interior ministry spokesman vadim kolesnikov said 1,100 people had called for medical assistance following the incident, mostly for treatment of injuries from glass broken by the explosions. one woman suffered a broken spine.[16] kolesnikov also said about 600 square meters (6,000 sq ft) of a roof at a zinc factory had collapsed. a spokeswoman for the emergency ministry told the associated press that there was a meteor shower; however, another ministry spokeswoman was quoted by the interfax news agency as saying it was a single meteor.[17][18][19] the size has been estimated at 17 meters (56 ft) diameter with a mass of 10,000[20][21] or 11,000[22] metric tons. the power of the explosion was about 500 kilotons of tnt (about 1.8 pj), which is 20–30 times more energy than was released from the atomic bomb exploded in hiroshima. luckily, thanks to the high altitude of the explosion the city managed to avoid large casualties and destruction.
+
+administrative and municipal status[edit]
+ the building of the legislative assembly of chelyabinsk oblast
+chelyabinsk is the administrative center of the oblast.[1] within the framework of administrative divisions, it is incorporated as the city of chelyabinsk—an administrative unit with the status equal to that of the districts.[1] as a municipal division, the city of chelyabinsk is incorporated as chelyabinsky urban okrug.[1] in june 2014, chelyabinsk's seven city districts were granted municipal status.[23]
+
+geography[edit]
+chelyabinsk is located east of the ural mountains, 199 km south of yekaterinburg.
+its elevation is 200–250 meters.
+the city is bisected by the river miass which is regarded as the border between the urals and siberia. this is reflected in the geology of the place, with low granite hills of the urals on the western side and lower sedimentary rock of the west siberian plain on the eastern side.
+the "leningrad bridge" connects the two sides, so it is called the "bridge of the urals to siberia". chelyabinsk itself is therefore also known as "the gateway to siberia".[24]
+like rome, constantinople, and moscow, chelyabinsk is said to be located on seven hills.[25]
+
+climate[edit]
+the city has a warm summer humid continental climate (köppen: dfb) farther north than found on canadian prairies. the average temperature in january is well below the freezing point (-14°c/6.6 °f), but july has a relatively cool average (19°c/66.7 °f), and the annual average is a few degrees above zero celsius (3°c/37.8 °f), indicating still some moderation. the range of extremes reaches 70°c/158 °f, typical of a mid-latitude climate on a large continent such as eurasia.[26]
+the highest precipitation is concentrated in the summer, reducing in the winter. july, month with higher precipitation is 87mm/3.44'' and january, driest month is 15mm/0.6''. altogether they are 16.9" of annual precipitation and therefore approaching with a semi-arid climate. it is 119 rainy days a year, but the first month of the year records only one tenth of a day.[26]
+
+
+
+climate data for chelyabinsk
+
+
+month
+
+jan
+
+feb
+
+mar
+
+apr
+
+may
+
+jun
+
+jul
+
+aug
+
+sep
+
+oct
+
+nov
+
+dec
+
+year
+
+
+record high °c (°f)
+
+4.9(40.8)
+
+5.6(42.1)
+
+19.9(67.8)
+
+34.9(94.8)
+
+39.9(103.8)
+
+39.9(103.8)
+
+39.9(103.8)
+
+39.9(103.8)
+
+34.9(94.8)
+
+24.9(76.8)
+
+14.9(58.8)
+
+9.9(49.8)
+
+39.9(103.8)
+
+
+average high °c (°f)
+
+−10.5(13.1)
+
+−7.9(17.8)
+
+1.0(33.8)
+
+10.6(51.1)
+
+20.3(68.5)
+
+23.9(75.0)
+
+25.2(77.4)
+
+23.6(74.5)
+
+17.2(63.0)
+
+9.3(48.7)
+
+−0.4(31.3)
+
+−6.9(19.6)
+
+8.8(47.8)
+
+
+daily mean °c (°f)
+
+−14.9(5.2)
+
+−13.4(7.9)
+
+−4.8(23.4)
+
+4.7(40.5)
+
+12.1(53.8)
+
+18.3(64.9)
+
+19.3(66.7)
+
+17.1(62.8)
+
+10.9(51.6)
+
+4.1(39.4)
+
+−5.2(22.6)
+
+−11.1(12.0)
+
+3.0(37.4)
+
+
+average low °c (°f)
+
+−19.0(−2.2)
+
+−18.9(−2.0)
+
+−9.3(15.3)
+
+−0.3(31.5)
+
+7.9(46.2)
+
+12.9(55.2)
+
+14.5(58.1)
+
+13.5(56.3)
+
+7.6(45.7)
+
+1.3(34.3)
+
+−5.9(21.4)
+
+−14.6(5.7)
+
+−0.9(30.4)
+
+
+record low °c (°f)
+
+−49.9(−57.8)
+
+−44.9(−48.8)
+
+−44.9(−48.8)
+
+−29.9(−21.8)
+
+−19.9(−3.8)
+
+−4.9(23.2)
+
+0.1(32.2)
+
+0.1(32.2)
+
+−9.9(14.2)
+
+−24.9(−12.8)
+
+−39.9(−39.8)
+
+−44.9(−48.8)
+
+−49.9(−57.8)
+
+
+average precipitation mm (inches)
+
+17(0.7)
+
+16(0.6)
+
+19(0.7)
+
+27(1.1)
+
+47(1.9)
+
+55(2.2)
+
+87(3.4)
+
+44(1.7)
+
+41(1.6)
+
+30(1.2)
+
+26(1.0)
+
+21(0.8)
+
+430(16.9)
+
+
+average rainy days
+
+0.1
+
+0.3
+
+4
+
+10
+
+15
+
+19
+
+17
+
+16
+
+16
+
+10
+
+6
+
+1
+
+114
+
+
+average snowy days
+
+18
+
+16
+
+15
+
+6
+
+1
+
+0.3
+
+0
+
+0
+
+1
+
+6
+
+15
+
+19
+
+97
+
+
+average relative humidity (%)
+
+85
+
+77
+
+76
+
+66
+
+61
+
+64
+
+69
+
+71
+
+73
+
+73
+
+82
+
+83
+
+73
+
+
+source #1: pogoda.ru.net[27]
+
+
+source #2: world meteorological organization (precipitation days only)[28]
+
+cityscape[edit]
+ chelyabinsk skyline with the river miass in the center.
+architecture[edit]
+the architecture of chelyabinsk has been shaped through its history by the change of historical eras in the development of russia. before the revolution of 1917 the city was a trading centre, with numerous merchant buildings in the eclectic and modern styles with elements of russian revival architecture, some of which are preserved on kirovka st., a street reserved for pedestrians.
+
+ residential building on revolution square (1938)
+industrialization started in the late 1920s. the construction of large plants was accompanied by the construction of a brand new residential and public buildings in the constructivist style. entire constructivist neighborhoods can be seen in the area of the chelyabinsk tractor plant (ctz, chtz).[29]
+in the late 1930s  a new era began in the city, came associated with construction of monumental buildings in stalinist style. the city center and central avenue are constructed in substantially this style.[30]
+the next 60 years saw intensive construction of housing  tower blocks as the city's population rose to about one million; note on the map the large residential area calle "severo-zapad" (english: north-west).
+
+ square aloe pole (scarlet field)
+with the market reforms of the '90s the city began intensive construction of office buildings for business and major shopping malls in postmodern and high-tech styles.
+
+parks and gardens[edit]
+chelyabinsk has seventeen public parks. the largest of them is one of the best in russia - chelyabinsk central park, named after gagarin.[31] its territory is saved in the urban forest, where, among pine trees and granite rocks there are several picturesque ex-quarries now flooded with water.
+
+education[edit]
+ south ural state university
+there are over a dozen universities in chelyabinsk. the oldest, chelyabinsk state agroengineering academy, was founded in 1930. it was followed by the chelyabinsk state pedagogical university in 1934. the main ones are south ural state university, chelyabinsk state university, and chelyabinsk medical academy. after world war ii, chelyabinsk became the main center of vocational education of the entire ural region.[32]
+
+economy[edit]
+ chelyabinsk-city office center. tallest building in chelyabinsk.
+ radisson blu hotel
+chelyabinsk is one of the major industrial centers of russia. heavy industry predominates, especially metallurgy and military machinery, notably the chelyabinsk metallurgical combinate (cmk, chmk) belongs to the company "mechel", chelyabinsk tractor plant (ctz, chtz), chelyabinsk electrode plant (chez), chelyabinsk tube rolling plant (chtpz) included in the "big eight" pipe producers in russia, produces large-diameter pipes for pipelines, and chelyabinsk forge-and-press plant (chkpz) manufacturer of parts for various machines. chelyabinsk zinc plant, owned by the ural mining and metallurgical company, produces about 2% of the world and over 60% of russian zinc. chelyabinsk mechanical plant produces automotive and industrial cranes trademark "chelyabinets". chelyabinsk road machinery plant name kolyuschenko produces road construction machinery and dump trucks terex.[33]
+chelyabinsk watch factory "molnija" produces pocket, souvenir watches and technical watches for aircraft and ships. in 1980, the clock "molnija" were given as gifts to participants of the moscow olympic games.[34]
+agro-industrial company "makfa", russia's largest producer of pasta, one of the five largest world producers of pasta. "unichel" shoe firm is the largest manufacturer of footwear in russia. agricultural firm "ariant" - leader in the production of meat products in the urals federal district of russia, produces alcoholic and non-alcoholic beverages. american multinational corporation emerson buying up shares of local businesses "metran" organized in chelyabinsk engineering center, building a factory for the production of industrial devices and equipment.[35]
+
+ sinegorye shopping mall
+ tram and trolleybus in chelyabinsk
+in recent years, chelyabinsk significant role in the economy of the early play services, banking and insurance activities, logistics centers, tourism. the city is the central offices of major regional banks as "chelindbank" and "chelyabinvestbank".
+there are several large shopping malls. the largest of them are gorky (english: hills) (2007), with an area of 55,000 meters2, and rodnik (english:spring) (2011), 135,000 meters2. at least two more are under construction: almaz (english: diamond) (2015), 220,000 meters2, and cloud (2018), 350,000 meters2.
+
+transportation[edit]
+ chelyabinsk airport terminal
+ planned metro network
+public transport of chelyabinsk is represented by a bus lines network (since 1925), tram (1932) and trolleybus (1942) systems, as well as private marshrutka (routed cab) services. the city has several taxi companies.
+in 2014 in chelyabinsk began to run electric buses (hybrid trolleybus and electric car).[36]
+beeline and chelyabinsk city electric transport in 2011 signed an agreement to provide passengers free internet. currently wi-fi is available in some public trams and trolleybuses in chelyabinsk.
+chelyabinsk started construction of a three-line subway network in 1992.[37]
+the city is served by the chelyabinsk airport.
+
+sports[edit]
+ traktor arena
+ uralskaya molniya, one of a few indoor speed skating arenas in russia
+several sports clubs are active in the city:
+
+
+
+club
+sport
+founded
+current league
+leaguerank
+stadium
+
+
+traktor chelyabinsk
+
+ice hockey
+
+1947
+
+kontinental hockey league
+
+1st
+
+traktor arena
+
+
+chelmet chelyabinsk
+
+ice hockey
+
+1948
+
+higher hockey league
+
+2nd
+
+yunost sports palace
+
+
+belye medvedi chelyabinsk
+
+ice hockey
+
+2009
+
+junior hockey league
+
+jr. 1st
+
+traktor arena
+
+
+mechel chelyabinsk
+
+ice hockey
+
+2011
+
+junior hockey league division b
+
+jr. 2nd
+
+mechel ice palace
+
+
+fc chelyabinsk
+
+football
+
+1977
+
+russian second division
+
+3rd
+
+central stadium
+
+
+sintur chelyabinsk
+
+futsal
+
+1997
+
+futsal supreme league
+
+2nd
+
+usurt sports complex
+
+
+metar chelyabinsk
+
+volleyball
+
+1976
+
+women's volleyball superleague
+
+1st
+
+metar-sport sports palace
+
+
+torpedo chelyabinsk
+
+volleyball
+
+?
+
+men's volleyball supreme league
+
+2nd
+
+metar-sport sports palace
+
+
+dynamo chelyabinsk
+
+basketball
+
+?
+
+men's basketball superleague - b
+
+3rd
+
+dpsh im.krupskoy
+
+in 2012, for the first time in russia, chelyabinsk hosted the european judo championship (euro 2012). in 2014 the world championship in judo were held and in 2015 the european speed skating championships as well as the world taekwondo championships held. iihf world u18 championship was held in 2018 (along with magnitogorsk).
+
+culture[edit]
+ chelyabinsk regional universal scientific library
+the city has several libraries, including chelyabinsk regional universal scientific library, with more than 2 million books, including more than 12,000 rare books and monuments (17th to 19th centuries), is the largest public library in the chelyabinsk oblast.
+
+ chelyabinsk state academic drama theater named after nakhum orlov
+chelyabinsk is home to several popular theaters: chelyabinsk state academic drama theatre named nahum orlov, chelyabinsk state academic opera and ballet theatre named glinka, chelyabinsk state chamber theater drama, chelyabinsk state puppet theater, chelyabinsk state youth theatre, theater "mannequin", chelyabinsk new arts theatre, chelyabinsk contemporary dance theatre.
+
+ concert hall of the glinka state academic opera and ballet theatre
+ chelyabinsk regional museum
+there are nine museums in chelyabinsk. chelyabinsk regional museum was founded in 1913, and holds about 300 thousand exhibits. there are expositions of the ancient settlement arkaim age 3rd to 2nd millennium bc relating to the "land of cities", the largest fragment of the chelyabinsk meteor, weighing 570 kg, famous decorated edged weapons of the 19th and 20th centuries, made by zlatoust arms factory, exhibits kasli artistic cast iron and much more.
+chelyabinsk region picture gallery has more than 11,000 works. meeting up collections of art in europe and the east (international art), the national art of the middle ages, modern and contemporary, modern art. the peculiarity of the meeting are collections of icons (16th to 20th centuries), early printed books and manuscripts.
+the museum of railway equipment of the south ural railway presented more than 30 exhibits of vehicles used on the rail after it in chelyabinsk in 1892.
+
+ museum of military equipment in the victory garden
+ sika deer in the chelyabinsk zoo
+ holy trinity church (1914)
+museum of military equipment in the garden of victory was founded in 2007. it is 16 eksponantov, including t-34, is-3 tanks and multiple rocket launchers "katyusha" produced in chelyabinsk during the world war ii.
+in addition, the city has the chelyabinsk regional geological museum, museum of military glory of labor and the chelyabinsk tractor plant, museum postal service chelyabinsk region, entertaining science museum "eksperimentus".
+chelyabinsk zoo is located in the central region of chelyabinsk. has an area of 30 hectares with more than 110 species, of which more than 80 listed in the red book. zoo participates in international programs for the conservation of endangered species, including amur (siberian) tigers, far eastern leopards and polar bears. the zoo regular sightseeing tours, lectures, exhibitions and celebrations.
+city also has a circus building and a concert hall. prokofiev hall of organ and chamber music with organ-known german company "hermann eule". the instrument consists of 2504 pipes, 37 registers, three manuals and pedal keyboard. its sound is a rare gentleness and generosity sound basic votes. 
+in the city of chelyabinsk there are several churches built in the 19th to 21st centuries.
+
+notable people[edit]
+main article: list of people from chelyabinsk
+further information: category:people from chelyabinsk
+ariel, soviet pop rock band
+kauan, russian atmospheric doom/post rock band
+lera auerbach (born 1973), composer and musician, born and grew up in chelyabinsk
+svyatoslav belza (1942–2014), musical scholar, critic and essayist, born in chelyabinsk
+zhan bush (born 1993), figure skater
+yekaterina gamova (born 1980), olympic volleyball player, born and grew up in chelyabinsk
+makhmut gareev (born 1923), historian and military scientist, born and grew up in chelyabinsk
+viktor khristenko (born 1957), politician, minister of industry of the russian federation, born and grew up in chelyabinsk
+igor kurnosov (1985–2013), chess grandmaster, born in chelyabinsk
+oleg mityaev (born 1956), singer-songwriter and actor, born, grew up, and came into prominence in chelyabinsk
+vadim muntagirov (born 1990), ballet dancer, born in chelyabinsk
+staņislavs olijars (born 1979), latvian 110m hurdler, gold medallist at the 2006 european athletics championships, born in chelyabinsk
+georgy ratner (1923–2001), surgeon, born in chelyabinsk
+nelli rokita (born 1957), polish politician, born in chelyabinsk
+eugene roshal, software developer, born in chelyabinsk
+mariya savinova, olympic athlete, born in chelyabinsk
+galina starovoytova (1946–1998), politician and human rights activist, born in chelyabinsk
+maksim surayev (born 1972), cosmonaut, born in chelyabinsk
+evgeny sveshnikov (born 1950), chess grandmaster and writer, born and grew up in chelyabinsk
+anna trebunskaya (born 1980), ballroom and latin dancer, born in chelyabinsk
+ivan ukhov (born 1986), olympic high jumper, born in chelyabinsk
+mikhail yurevich (born 1969), businessman, politician, born in chelyabinsk
+ice hockey players[edit]
+sergei babinov (born 1955),  soviet player, canada cup champion
+vyacheslav bykov (born 1960), soviet player
+stanislav chistov (born 1983), nhl and khl player
+evgeny davydov (born 1967),  nhl player, ussr champion
+sergei gonchar (born 1974),  nhl player, stanley cup champion
+dmitri kalinin (born 1980),  nhl and khl player, gagarin cup champion
+alexandra vafina (born 1990), russian olympic ice hockey player (2010, 2014)
+evgeny kuznetsov (born 1992), nhl and khl player, stanley cup champion
+sergei makarov (born 1958),  nhl player
+andrei nazarov (born 1974),  nhl player and khl coach
+nikita nesterov (born 1993), nhl and khl player
+valeri nichushkin (born 1995), nhl and khl player
+valeri karpov (1971–2014), russian superleague and nhl player
+dmitri tertyshny (1976–1999), russian superleague and nhl player
+slava voynov (born 1990),  nhl player, stanley cup champion
+danil yerdakov (born 1989),  khl player
+danis zaripov (born 1981),  khl player, gagarin cup champion
+twin towns and sister cities[edit]
+see also: list of twin towns and sister cities in russia
+chelyabinsk is twinned with:
+
+ changchun, china
+ petropavl, kazakhstan
+ nottinghamshire, united kingdom
+ ramla, israel
+ ürümqi, china
+ columbia, south carolina, united states[38]
+ antalya, turkey
+diplomatic and consular missions and visa centers[edit]
+ italy: honorary consulate, visa center[39][40]
+ poland: visa center
+see also[edit]
+chelyabinsk trade center
+references[edit]
+notes[edit]
+
+
+^ a b c d e f g h i resolution #161
+
+^ a b c "chelyabinsk - russia". retrieved september 21, 2017..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ "челябинск сегодня – визитная карточка". администрация г. челябинска. archived from the original on february 3, 2012.
+
+^ a b russian federal state statistics service (2011). "всероссийская перепись населения 2010 года. том 1" [2010 all-russian population census, vol. 1]. всероссийская перепись населения 2010 года [2010 all-russia population census] (in russian). federal state statistics service.
+
+^ "26. численность постоянного населения российской федерации по муниципальным образованиям на 1 января 2018 года". federal state statistics service. retrieved 23 january 2019.
+
+^ "об исчислении времени". официальный интернет-портал правовой информации (in russian). 3 june 2011. retrieved 19 january 2019.
+
+^ "information about central postal office" (in russian). archived from the original on 2016-03-03.
+
+^ "russian federation cities dialing codes" (zip 34.4kb) (in russian).[permanent dead link]
+
+^ "investing in chelyabinsk city". invest in russia. retrieved february 14, 2013.
+
+^ "murzina" (pdf).
+
+^ "invest in ural". invest in ural. archived from the original on february 24, 2013. retrieved february 14, 2013.
+
+^ russian federal state statistics service (21 may 2004). "численность населения россии, субъектов российской федерации в составе федеральных округов, районов, городских поселений, сельских населённых пунктов – районных центров и сельских населённых пунктов с населением 3 тысячи и более человек" [population of russia, its federal districts, federal subjects, districts, urban localities, rural localities—administrative centers, and rural localities with population of over 3,000] (xls). всероссийская перепись населения 2002 года [all-russia population census of 2002] (in russian).
+
+^ "всесоюзная перепись населения 1989 г. численность наличного населения союзных и автономных республик, автономных областей и округов, краёв, областей, районов, городских поселений и сёл-райцентров" [all union population census of 1989: present population of union and autonomous republics, autonomous oblasts and okrugs, krais, oblasts, districts, urban settlements, and villages serving as district administrative centers]. всесоюзная перепись населения 1989 года [all-union population census of 1989] (in russian). институт демографии национального исследовательского университета: высшая школа экономики [institute of demography at the national research university: higher school of economics]. 1989  – via demoscope weekly.
+
+^ "челябинск: ворота в сибирь и зауральский чикаго". портал челябинская область.
+
+^ campbell-brown, margaret. "what do we know about the russian meteor? meteor researcher margaret campbell-brown recaps the latest research into the cause of this morning's fireball over chelyabinsk". scientific american (interview). interviewed by john matson. retrieved 24 december 2017. [interviewer:] where was most of the energy released as this object made its way through the atmosphere? [subject:]in this case the final destination, which seems to have been the largest deposit of energy, was somewhere around 15 to 20 kilometers altitude. the actual fireball probably started significantly higher than that, maybe 50 kilometers, but most of the energy was apparently deposited during that last explosion lower in the atmosphere.
+
+^ "meteorite hits russian urals: fireball explosion wreaks havoc, up to 1,200 injured (photos, video)". rt. february 15, 2013.
+
+^ plait, phil (february 15, 2013). "breaking: huge meteor blazes across sky over russia; sonic boom shatters windows [updated]". slate. retrieved february 15, 2013.
+
+^ "meteor strikes earth in russia's urals". pravda. retrieved february 15, 2013.
+
+^ "400 injured by meteorite falls in russian urals". associated press. retrieved february 15, 2013.
+
+^ agle, d. c. (february 13, 2013). "russia meteor not linked to asteroid flyby". nasa news. nasa. retrieved february 15, 2013.
+
+^ sreeja, vn (march 4, 2013). "new asteroid '2013 ec' similar to russian meteor to pass earth at a distance less than moon's orbit". international business times. retrieved march 9, 2013.
+
+^ yeomans, don; chodas, paul (march 1, 2013). "additional details on the large fireball event over russia on feb. 15, 2013". nasa/jpl near-earth object program office. retrieved march 2, 2013.
+
+^ law #706-zo
+
+^ 
+история челябинска - от крепости до железнодорожной станции (in russian). портал челябинская область.
+
+^ "холмы челябинска". электронное периодическое издание mediazavod.ru.
+
+^ a b "chelyabinsk, russia köppen climate classification (weatherbase)". weatherbase. retrieved 2018-11-13.
+
+^ "weather and climate (погода и климат – климат челябинска)" (in russian). pogoda.ru.net. retrieved december 13, 2012.
+
+^ "world weather information service – cheljabinsk". world meteorological organization. retrieved december 13, 2012.
+
+^ "конструктивизм в архитектуре челябинска" (in russian).
+
+^ "сталинский ампир".
+
+^ "парк гагарина в челябинске попал в топ-5 лучших в россии".
+
+^ "на урале".
+
+^ "в челябинске начали производство 100-тонных самосвалов".
+
+^ "часовой завод "молния"". archived from the original on july 11, 2014.
+
+^ "вице-президент emerson process management в восточной европе: "в челябинске есть свой маленький центр «сколково"".
+
+^ "в челябинске начал курсировать электробус".
+
+^ "chelyabinsk". urbanrail.net. archived from the original on may 17, 2013. retrieved january 31, 2014.
+
+^ "sister cities". archived from the original on september 8, 2013. retrieved july 5, 2013.
+
+^ www.pinstudio.ru. "филиалы - visa management service". www.italyvms.ru. retrieved september 21, 2017.
+
+^ "la rete consolare". www.ambmosca.esteri.it. retrieved september 21, 2017.
+
+
+sources[edit]
+законодательное собрание челябинской области. постановление №161 от 25 мая 2006 г. «об утверждении перечня муниципальных образований (административно-территориальных единиц) челябинской области и населённых пунктов, входящих в их состав», в ред. постановления №2255 от 23 октября 2014 г. «о внесении изменений в перечень муниципальных образований (административно-территориальных единиц) челябинской области и населённых пунктов, входящих в их состав». вступил в силу со дня официального опубликования. опубликован: "южноуральская панорама", №111–112, 14 июня 2006 г. (legislative assembly of chelyabinsk oblast. resolution #161 of november 25, 2006 on adoption of the registry of the municipal formations (administrative-territorial units) of chelyabinsk oblast and of the inhabited localities they comprise, as amended by the resolution #2255 of october 23, 2014 on amending the registry of the municipal formations (administrative-territorial units) of chelyabinsk oblast and of the inhabited localities they comprise. effective as of the official publication date.).
+законодательное собрание челябинской области. закон №706-зо от 10 июня 2014 г. «о статусе и границах челябинского городского округа и внутригородских районов в его составе». вступил в силу со дня официального опубликования. опубликован: "южноуральская панорама", №87 (спецвыпуск №24), 14 июня 2014 г. (legislative assembly of chelyabinsk oblast. law #706-zo of june 10, 2014 on the status and borders of chelyabinsky urban okrug and the city districts it comprises. effective as of the day of the official publication.).
+anne garrels, putin country: a journey into the real russia (new york: farrar, straus and giroux, 2016).
+lennart samuelson, tankograd: the formation of a soviet company town: cheliabinsk, 1900s–1950s (basingstoke, palgrave macmillan, 2011).
+external links[edit]
+
+
+
+wikivoyage has a travel guide for chelyabinsk.
+website about chelyabinsk
+chelyabinsk city portal (in russian)
+chelyabinsk news agency (in russian)
+ chisholm, hugh, ed. (1911). "chelyabinsk" . encyclopædia britannica (11th ed.). cambridge university press.
+interactive book about chelyabinsk in ibooks store
+vteadministrative divisions of chelyabinsk oblastadministrative center: chelyabinsk • rural localitiesdistricts
+agapovsky
+argayashsky
+ashinsky
+bredinsky
+chebarkulsky
+chesmensky
+kartalinsky
+kaslinsky
+katav-ivanovsky
+kizilsky
+korkinsky
+krasnoarmeysky
+kunashaksky
+kusinsky
+nagaybaksky
+nyazepetrovsky
+oktyabrsky
+plastovsky
+satkinsky
+sosnovsky
+troitsky
+uvelsky
+uysky
+varnensky
+verkhneuralsky
+yemanzhelinsky
+yetkulsky
+urban-type settlementsof oblast significance
+lokomotivny
+cities and towns
+asha
+bakal
+chebarkul
+chelyabinsk
+karabash
+kartaly
+kasli
+katav-ivanovsk
+kopeysk
+korkino
+kusa
+kyshtym
+magnitogorsk
+miass
+minyar
+nyazepetrovsk
+ozyorsk
+plast
+satka
+sim
+snezhinsk
+troitsk
+tryokhgorny
+ust-katav
+verkhneuralsk
+verkhny ufaley
+yemanzhelinsk
+yuryuzan
+yuzhnouralsk
+zlatoust
+urban-type settlements
+berdyaush
+krasnogorsky
+kropachyovo
+magnitka
+mezhevoy
+mezhozyorny
+pervomaysky
+roza
+suleya
+vishnyovogorsk
+yuzhny
+zauralsky
+
+authority control 
+gnd: 4122739-6
+musicbrainz: fe18a7f3-1788-434e-95a7-8397c75f9137
+
+
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=chelyabinsk&oldid=882210638"					
+categories: chelyabinskhistory of uralorenburg governoratepopulated places established in 1736hidden categories: cs1 russian-language sources (ru)all articles with dead external linksarticles with dead external links from august 2017articles with permanently dead external linkscs1 uses russian-language script (ru)articles with short descriptioninfobox mapframe without osm relation id on wikidatacoordinates on wikidataarticles containing russian-language textarticles with haudio microformatsarticles containing bashkir-language textall accuracy disputesarticles with disputed statements from march 2013articles with russian-language external linkswikipedia articles incorporating a citation from the 1911 encyclopaedia britannica with wikisource referencewikipedia articles with gnd identifierswikipedia articles with musicbrainz area identifiersuse mdy dates from april 2013pages with maps 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commonswikivoyage 
+
+
+
+languages
+
+
+afrikaansالعربيةazərbaycancaتۆرکجهবাংলাбашҡортсабеларускаябеларуская (тарашкевіца)‎българскиbrezhonegбуряадcatalàчӑвашлаcebuanočeštinachitumbukacymraegdanskdeutscheestiελληνικάэрзяньespañolesperantoeuskaraفارسیfrançaisgaeilgegalego한국어հայերենहिन्दीhornjoserbscehrvatskibahasa indonesiaиронíslenskaitalianoעבריתbasa jawakalaallisutქართულიқазақшаkiswahiliкомикыргызчаladinolatinalatviešuлезгиlietuviųlumbaartmagyarмакедонскиमराठीმარგალურიbaso minangkabauмокшеньмонголnederlands日本語нохчийнnorsknorsk nynorskолык марийoʻzbekcha/ўзбекчаپنجابیперем комиpicardpolskiportuguêsromânăрусскийscotssicilianusimple englishslovenčinaslovenščinaсловѣньскъ / ⱄⰾⱁⰲⱑⱀⱐⱄⰽⱏślůnskiсрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskatagalogтатарча/tatarçaไทยtürkçeудмуртукраїнськаاردوvepsän kel’tiếng việtvolapükwinaraywolof吴语ייִדיש粵語中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 7 february 2019, at 15:17 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"1.592","walltime":"2.000","ppvisitednodes":{"value":10653,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":251047,"limit":2097152},"templateargumentsize":{"value":35070,"limit":2097152},"expansiondepth":{"value":27,"limit":40},"expensivefunctioncount":{"value":12,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":123057,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00% 1683.675      1 -total"," 49.57%  834.580      1 template:infobox_russian_inhabited_locality"," 48.57%  817.759      1 template:infobox_settlement"," 40.57%  683.055      1 template:infobox"," 20.69%  348.426     22 template:wikidata"," 15.08%  253.968      1 template:reflist"," 10.62%  178.856     34 template:cite_web"," 10.60%  178.449      1 template:lang-rus","  9.74%  164.041      3 template:lang","  9.62%  162.024      1 template:language_with_name"]},"scribunto":{"limitreport-timeusage":{"value":"0.922","limit":"10.000"},"limitreport-memusage":{"value":23866633,"limit":52428800}},"cachereport":{"origin":"mw1249","timestamp":"20190218232426","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"chelyabinsk","url":"https:\/\/en.wikipedia.org\/wiki\/chelyabinsk","sameas":"http:\/\/www.wikidata.org\/entity\/q906","mainentity":"http:\/\/www.wikidata.org\/entity\/q906","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2003-06-12t18:23:07z","datemodified":"2019-02-07t15:17:38z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/18\/chelyabinsk_opera_theater_from_nw_far.jpg","headline":"city in russia"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":2186,"wghostname":"mw1249"});});
+
+

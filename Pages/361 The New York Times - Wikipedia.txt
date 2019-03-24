@@ -1,0 +1,1820 @@
+
+
+
+
+the new york times - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"the_new_york_times","wgtitle":"the new york times","wgcurrevisionid":883988950,"wgrevisionid":883988950,"wgarticleid":30680,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["pages with login required references or sources","cs1: julian–gregorian uncertainty","all articles with dead external links","articles with dead external links from december 2017","articles with permanently dead external links","articles with dead external links from july 2018","articles with dead external links from june 2016","articles with dead external links from december 2016","webarchive template wayback links","cs1 maint: uses authors parameter","wikipedia indefinitely semi-protected pages","wikipedia indefinitely move-protected pages","articles with short description","use mdy dates from january 2019","pages using deprecated image syntax","articles to be expanded from may 2017","all articles to be expanded","articles using small message boxes","all articles with unsourced statements","articles with unsourced statements from december 2017","articles containing potentially dated statements from may 2009","all articles containing potentially dated statements","articles containing potentially dated statements from march 2012","articles containing potentially dated statements from october 2010","articles with internet archive links","articles with librivox links","wikipedia articles with gnd identifiers","wikipedia articles with lccn identifiers","wikipedia articles with sudoc identifiers","wikipedia articles with viaf identifiers","wikipedia articles with worldcat-viaf identifiers","the new york times","1851 establishments in new york (state)","companies based in manhattan","daily newspapers published in the united states","national newspapers published in the united states","newspapers published in new york city","peabody award winners","publications established in 1851","pulitzer prize-winning newspapers","websites utilizing paywalls","missouri lifestyle journalism award winners","pulitzer prize for national reporting winners","pulitzer prize for international reporting winners","pulitzer prize for explanatory journalism winners","gerald loeb award winners for deadline and beat reporting"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"the_new_york_times","wgrelevantarticleid":30680,"wgrequestid":"xgsn4apamfuaafmrj-uaaacd","wgcspnonce":false,"wgisprobablyeditable":false,"wgrelevantpageisprobablyeditable":false,"wgrestrictionedit":["autoconfirmed"],"wgrestrictionmove":["sysop"],"wgredirectedfrom":"new_york_times","wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wginternalredirecttargeturl":"/wiki/the_new_york_times","wgwikibaseitemid":"q9684","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+the new york times 
+from wikipedia, the free encyclopedia   (redirected from new york times)
+ jump to navigation
+jump to search
+not to be confused with the times (of london). see also nyt (disambiguation).
+
+
+daily broadsheet newspaper based in new york city
+
+
+cover of the new york times (november 15, 2012), with the headline story reporting on operation pillar of defensetypedaily newspaperformatbroadsheetowner(s)the new york times company(carlos slim (17%))[1]founder(s)
+henry jarvis raymond
+george jones
+publishera.g. sulzbergeropinion editorjames bennetsports editorjason stallman[2]photo editormichele mcnallystaff writers1,300 news staff (2016)[3]foundedseptember 18, 1851; 167 years ago (1851-09-18) (as new-york daily times)headquartersthe new york times building620 eighth avenuenew york city, new york 10018countryunited statescirculation
+571,500 daily[4]
+1,087,500 sunday[4]
+2,900,000 digital-only[5]
+ (as of may (sunday) / november (daily) 2016 / (digital-only) aug 2018)issn0362-4331 (print) 1553-8095 (web)oclc number1645522 websitewww.nytimes.commedia of the united stateslist of newspapers
+the new york times (sometimes abbreviated as the nyt and nytimes) is an american newspaper based in new york city with worldwide influence and readership.[6][7][8] founded in 1851, the paper has won 125 pulitzer prizes, more than any other newspaper.[9][10] the times is ranked 17th in the world by circulation and 2nd in the u.s.
+the paper is owned by the new york times company, which is publicly traded and is controlled by the sulzberger family through a dual-class share structure.[11] it has been owned by the family since 1896; a.g. sulzberger, the paper's publisher, and his father, arthur ochs sulzberger jr., the company's chairman, are the fourth and fifth generation of the family to helm the paper.[12]
+nicknamed "the gray lady",[13] the times has long been regarded within the industry as a national "newspaper of record".[14] the paper's motto, "all the news that's fit to print", appears in the upper left-hand corner of the front page.
+since the mid-1970s, the new york times has greatly expanded its layout and organization, adding special weekly sections on various topics supplementing the regular news, editorials, sports, and features. since 2008,[15] the times has been organized into the following sections: news, editorials/opinions-columns/op-ed, new york (metropolitan), business, sports of the times, arts, science, styles, home, travel, and other features.[16] on sunday, the times is supplemented by the sunday review (formerly the week in review),[17] the new york times book review,[18] the new york times magazine[19] and t: the new york times style magazine.[20] the times stayed with the broadsheet full-page set-up and an eight-column format for several years after most papers switched to six,[21] and was one of the last newspapers to adopt color photography, especially on the front page.[22]
+
+.mw-parser-output .toclimit-2 .toclevel-1 ul,.mw-parser-output .toclimit-3 .toclevel-2 ul,.mw-parser-output .toclimit-4 .toclevel-3 ul,.mw-parser-output .toclimit-5 .toclevel-4 ul,.mw-parser-output .toclimit-6 .toclevel-5 ul,.mw-parser-output .toclimit-7 .toclevel-6 ul{display:none}contents
+
+1 history
+
+1.1 origins
+1.2 ochs era
+1.3 post-war expansion
+1.4 new york times v. sullivan
+1.5 the pentagon papers
+1.6 1970s and 1980s
+1.7 1990s and 2000s
+1.8 digital era
+1.9 headquarters building
+1.10 discrimination in employment
+1.11 slogan
+
+
+2 organization
+
+2.1 news staff
+2.2 ochs-sulzberger family
+2.3 public editors
+
+
+3 content
+
+3.1 style
+
+
+4 products
+
+4.1 print newspaper
+4.2 international print edition
+4.3 website
+4.4 mobile presence
+4.5 podcasts
+4.6 spanish-language version
+4.7 chinese-language version
+4.8 timesmachine
+
+
+5 interruptions
+6 editorial stance
+7 criticism and controversies
+
+7.1 failure to report famine in ukraine
+7.2 world war ii
+7.3 iraq war
+7.4 jayson blair plagiarism
+7.5 duke university lacrosse case
+7.6 israeli–palestinian conflict
+7.7 m.i.a. quotes out of context
+7.8 delayed publication of 2005 nsa warrantless surveillance story
+7.9 irish student controversy
+7.10 nail salon series
+7.11 iran
+7.12 hiring practices
+7.13 accusations of bias
+
+
+8 reputation
+
+8.1 awards
+
+
+9 see also
+10 references
+
+10.1 notes
+10.2 citations
+10.3 further reading
+
+
+11 external links
+
+
+
+history
+ first published issue of new-york daily times, on september 18, 1851
+origins
+ front page of the new york times on july 29, 1914, announcing austria-hungary's declaration of war against serbia
+the new york times was founded as the new-york daily times on september 18, 1851.[a] founded by journalist and politician henry jarvis raymond and former banker george jones, the times was initially published by raymond, jones & company.[24]  early investors in the company included edwin b. morgan,[25] christopher morgan,[26]  and edward b. wesley.[27] sold for a penny (equivalent to 30 cents today), the inaugural edition attempted to address various speculations on its purpose and positions that preceded its release:[28]
+
+.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}we shall be conservative, in all cases where we think conservatism essential to the public good;—and we shall be radical in everything which may seem to us to require radical treatment and radical reform. we do not believe that everything in society is either exactly right or exactly wrong;—what is good we desire to preserve and improve;—what is evil, to exterminate, or reform.
+
+in 1852, the newspaper started a western division, the times of california, which arrived whenever a mail boat from new york docked in california. however, the effort failed once local california newspapers came into prominence.[29]
+on september 14, 1857, the newspaper officially shortened its name to the new-york times. (the hyphen in the city name was dropped on december 1, 1896.)[30] on april 21, 1861, the new york times began publishing a sunday edition to offer daily coverage of the civil war. one of the earliest public controversies it was involved with was the mortara affair, the subject of twenty editorials in the times alone.[31]
+the main office of the new york times was attacked during the new york city draft riots. the riots, sparked by the beginning of drafting for the union army, began on july 13, 1863. on "newspaper row", across from city hall, henry raymond stopped the rioters with gatling guns, early machine guns, one of which he manned himself. the mob diverted, instead attacking the headquarters of abolitionist publisher horace greeley's new york tribune until being forced to flee by the brooklyn city police, who had crossed the east river to help the manhattan authorities.[32]
+in 1869, henry raymond died, and george jones took over as publisher.[33]
+
+ the times square building, the new york times' publishing headquarters, 1913–2007
+the newspaper's influence grew in 1870 and 1871, when it published a series of exposés on william tweed, leader of the city's democratic party—popularly known as "tammany hall" (from its early 19th century meeting headquarters)—that led to the end of the tweed ring's domination of new york's city hall.[34] tweed had offered the new york times five million dollars (equivalent to more than 100 million dollars today) to not publish the story.[25]
+in the 1880s, the new york times gradually transitioned from supporting republican party candidates in its editorials to becoming more politically independent and analytical.[35] in 1884, the paper supported democrat grover cleveland (former mayor of buffalo and governor of new york state) in his first presidential campaign.[36] while this move cost the new york times a portion of its readership among its more progressive and republican readers (revenue declined from $188,000 to $56,000 from 1883-1884), the paper eventually regained most of its lost ground within a few years.[37]
+
+ochs era
+after george jones died in 1891, charles ransom miller and other new york times editors raised $1 million dollars to buy the times, printing it under the new york times publishing company.[38][39] however, the newspaper was financially crippled by the panic of 1893,[37] and by 1896, the newspaper had a circulation of less than 9,000, and was losing $1,000 a day. that year, adolph ochs, the publisher of the chattanooga times, gained a controlling interest in the company for $75,000.[40]
+shortly after assuming control of the paper, ochs coined the paper's slogan, "all the news that's fit to print". the slogan has appeared in the paper since september 1896,[41] and has been printed in a box in the upper left hand corner of the front page since early 1897.[36] the slogan was a jab at competing papers, such as joseph pulitzer's new york world and william randolph hearst's new york journal, which were known for a lurid, sensationalist and often inaccurate reporting of facts and opinions, described by the end of the century as "yellow journalism".[42] under ochs' guidance, aided by carr van anda, the new york times achieved international scope, circulation, and reputation; sunday circulation went from under 9,000 in 1896 to 780,000 in 1934.[40] in 1904, during the russo-japanese war, the new york times, along with the times, received the first on-the-spot wireless telegraph transmission from a naval battle: a report of the destruction of the russian navy's baltic fleet, at the battle of port arthur, from the press-boat haimun.[43] in 1910, the first air delivery of the new york times to philadelphia began.[36] in 1919, the new york times' first trans-atlantic delivery to london occurred by dirigible balloon. in 1920, during the 1920 republican national convention, a "4 a.m. airplane edition" was sent to chicago by plane, so it could be in the hands of convention delegates by evening.[44]
+
+post-war expansion
+ the new york times newsroom, 1942
+ochs died in 1935,[45] and was succeeded as publisher by his son-in-law, arthur hays sulzberger.[46] under his leadership, and that of his son-in-law (and successor[47]), orvil dryfoos,[48] the paper extended its breadth and reach, beginning in the 1940s. the crossword began appearing regularly in 1942, and the fashion section first appeared in 1946. the new york times began an international edition in 1946. (the international edition stopped publishing in 1967, when the new york times joined the owners of the new york herald tribune and the washington post to publish the international herald tribune in paris.)
+dryfoos died in 1963,[49] and was succeeded as publisher[50] by his brother-in-law, arthur ochs "punch" sulzberger, who led the times until 1992, and continued the expansion of the paper.[51]
+
+new york times v. sullivan
+main article: new york times co. v. sullivan
+the paper's involvement in a 1964 libel case helped bring one of the key united states supreme court decisions supporting freedom of the press, new york times co. v. sullivan. in it, the united states supreme court established the "actual malice" standard for press reports about public officials or public figures to be considered defamatory or libelous. the malice standard requires the plaintiff in a defamation or libel case prove the publisher of the statement knew the statement was false or acted in reckless disregard of its truth or falsity. because of the high burden of proof on the plaintiff, and difficulty in proving malicious intent, such cases by public figures rarely succeed.[52]
+the case foreshadowed another major libel case, steven j. hatfill v. the new york times company, and nicholas kristof,[53] resulting from the 2001 anthrax attacks (which included powder in an envelope opened by reporter judith miller inside the times newsroom).[54] dr. hatfill became a public figure as a result of insinuations that he was the "likely culprit" put forth in kristof's columns, which referenced the f.b.i. investigation of the case.[55][56][57] dr. hatfill sued him and the times for defamation and intentional infliction of emotional distress. after years of proceedings, the supreme court declined to grant certiorari in the case, leaving dr. hatfill's case dismissed since he had not proved malice on the part of the times.[58]
+the times was involved in a similar case in which it agreed to pay a settlement to dr. wen ho lee who was falsely accused of espionage.[59][60][61][62][63]
+
+the pentagon papers
+main article: pentagon papers
+in 1971, the pentagon papers, a secret united states department of defense history of the united states' political and military involvement in the vietnam war from 1945 to 1967, were given ("leaked") to neil sheehan of the new york times by former state department official daniel ellsberg, with his friend anthony russo assisting in copying them. the new york times began publishing excerpts as a series of articles on june 13. controversy and lawsuits followed. the papers revealed, among other things, that the government had deliberately expanded its role in the war by conducting air strikes over laos, raids along the coast of north vietnam, and offensive actions taken by u.s. marines well before the public was told about the actions, all while president lyndon b. johnson had been promising not to expand the war. the document increased the credibility gap for the u.s. government, and hurt efforts by the nixon administration to fight the ongoing war.[64]
+when the new york times began publishing its series, president richard nixon became incensed. his words to national security advisor henry kissinger included "people have gotta be put to the torch for this sort of thing..." and "let's get the son-of-a-bitch in jail."[65] after failing to get the new york times to stop publishing, attorney general john mitchell and president nixon obtained a federal court injunction that the new york times cease publication of excerpts. the newspaper appealed and the case began working through the court system. on june 18, 1971, the washington post began publishing its own series. ben bagdikian, a post editor, had obtained portions of the papers from ellsberg. that day the post received a call from the assistant attorney general, william rehnquist, asking them to stop publishing. when the post refused, the u.s. justice department sought another injunction. the u.s. district court judge refused, and the government appealed. on june 26, 1971, the u.s. supreme court agreed to take both cases, merging them into new york times co. v. united states, 403 u.s. 713 (1971). on june 30, 1971, the supreme court held in a 6–3 decision that the injunctions were unconstitutional prior restraints and that the government had not met the burden of proof required. the justices wrote nine separate opinions, disagreeing on significant substantive issues. while it was generally seen as a victory for those who claim the first amendment enshrines an absolute right to free speech, many felt it a lukewarm victory, offering little protection for future publishers when claims of national security were at stake.[64]
+
+1970s and 1980s
+in the 1970s, the paper introduced a number of new lifestyle sections including weekend and home, with the aim of attracting more advertisers and readers. many criticized the move for betraying the paper's mission.[66]
+on september 7, 1976, the paper switched from an eight-column format to a six-column format. the overall page width stayed the same, with each column becoming wider.[21] on september 14, 1987, the times printed the heaviest ever newspaper, at over 12 pounds (5.4 kg) and 1,612 pages.[67]
+
+1990s and 2000s
+in 1992, "punch" sulzberger stepped down as publisher; his son, arthur ochs sulzberger jr., succeeded him, first as publisher,[68] and then as chairman of the board in 1997.[69]
+the times was one of the last newspapers to adopt color photography, with the first color photograph on the front page appearing on october 16, 1997.[22]
+
+digital era
+ a speech in the newsroom after announcement of pulitzer prize winners, 2009this section needs expansion. you can help by adding to it. (may 2017)
+the new york times switched to a digital production process sometime before 1980, but only began preserving the resulting digital text that year.[70]
+in september 2008, the new york times announced that it would be combining certain sections effective october 6, 2008, in editions printed in the new york metropolitan area. the changes folded the metro section into the main international / national news section and combined sports and business (except saturday through monday, when sports is still printed as a standalone section). this change also included having the name of the metro section be called new york outside of the tri-state area. the presses used by the new york times allow four sections to be printed simultaneously; as the paper had included more than four sections all days except saturday, the sections had to be printed separately in an early press run and collated together. the changes will allow the new york times to print in four sections monday through wednesday, in addition to saturday. the new york times' announcement stated that the number of news pages and employee positions will remain unchanged, with the paper realizing cost savings by cutting overtime expenses.[15]
+in 2009, the newspaper began production of local inserts in regions outside of the new york area. beginning october 16, 2009, a two-page "bay area" insert was added to copies of the northern california edition on fridays and sundays. the newspaper commenced production of a similar friday and sunday insert to the chicago edition on november 20, 2009. the inserts consist of local news, policy, sports, and culture pieces, usually supported by local advertisements.
+following industry trends, its weekday circulation had fallen in 2009 to fewer than one million.[71]
+in august 2007, the paper reduced the physical size of its print edition, cutting the page width from 13.5 inches (34 cm) to a 12 inches (30 cm). this followed similar moves by a roster of other newspapers in the previous ten years, including usa today, the wall street journal, and the washington post. the move resulted in a 5% reduction in news space, but (in an era of dwindling circulation and significant advertising revenue losses) also saved about  $12 million a year.[72][73][74][75]
+because of its steadily declining sales attributed to the rise of online alternative media and social media, the newspaper has been going through a downsizing for several years, offering buyouts to workers and cutting expenses,[76] in common with a general trend among print news media.[77]
+in december 2012, the times published "snow fall", a six-part article about the 2012 tunnel creek avalanche which integrated videos, photos, and interactive graphics and was hailed as a watershed moment for online journalism.[78][79]
+in 2016, reporters for the newspaper were reportedly the target of cyber security breaches. the federal bureau of investigation was reportedly investigating the attacks. the cyber security breaches have been described as possibly being related to cyberattacks that targeted other institutions, such as the democratic national committee.[80]
+in october 2018, the times published a 14,218-word investigation into donald trump's "self-made" fortune and alleged tax fraud, an 18-month project based on examination of 100,000 pages of documents. the lengthy article ran as an eight-page feature in the print edition and also was adapted into a shortened 2,500 word listicle featuring its key takeaways.[81] after the midweek front-page story, the times also republished the piece as a 12-page "special report" section in the sunday paper.[82] during the lengthy investigation, showtime cameras followed the times' three investigative reporters for a half-hour documentary called the family business: trump and taxes, which aired the following sunday.[83][84][85]
+
+headquarters building
+the newspaper's first building was located at 113 nassau street in new york city. in 1854, it moved to 138 nassau street, and in 1858 to 41 park row, making it the first newspaper in new york city housed in a building built specifically for its use.[86]
+the newspaper moved its headquarters to the times tower, located at 1475 broadway in 1904,[87] in an area called longacre square, that was later renamed times square in honor of the newspaper.[88] the top of the building –  now known as one times square –  is the site of the new year's eve tradition of lowering a lighted ball, which was started by the paper.[89] the building is also notable for its electronic news ticker –  popularly known as "the zipper" –  where headlines crawl around the outside of the building.[90] it is still in use, but has been operated by dow jones & company since 1995.[91] after nine years in its times square tower the newspaper had an annex built at 229 west 43rd street.[92] after several expansions, the 43rd street building became the newspaper's main headquarters in 1960 and the times tower on broadway was sold the following year.[93] it served as the newspaper's main printing plant until 1997, when the newspaper opened a state-of-the-art printing plant in the college point section of the borough of queens.[94]
+a decade later, the new york times moved its newsroom and businesses headquarters from west 43rd street to a new tower at 620 eighth avenue between west 40th and 41st streets, in manhattan –  directly across eighth avenue from the port authority bus terminal. the new headquarters for the newspaper, known officially as the new york times building but unofficially called the new "times tower" by many new yorkers, is a skyscraper designed by renzo piano.[95][96]
+
+discrimination in employment
+discriminatory practices restricting women in editorial positions were previously employed by the paper. the newspaper's first general woman reporter was jane grant, who described her experience afterwards. she wrote, "in the beginning i was charged not to reveal the fact that a female had been hired". other reporters nicknamed her fluff and she was subjected to considerable hazing. because of her gender, promotions were out of the question, according to the then-managing editor. she was there for fifteen years, interrupted by world war i.[97]
+in 1935, anne mccormick wrote to arthur hays sulzberger, "i hope you won't expect me to revert to 'woman's-point-of-view' stuff."[98] later, she interviewed major political leaders and appears to have had easier access than her colleagues did. even those who witnessed her in action were unable to explain how she got the interviews she did.[99] clifton daniel said, "[after world war ii,] i'm sure adenauer called her up and invited her to lunch. she never had to grovel for an appointment."[100] covering world leaders' speeches after world war ii at the national press club was limited to men by a club rule. when women were eventually allowed in to hear the speeches, they still were not allowed to ask the speakers questions, although men were allowed and did ask, even though some of the women had won pulitzer prizes for prior work.[101] times reporter maggie hunter refused to return to the club after covering one speech on assignment.[102] nan robertson's article on the union stock yards, chicago, was read aloud as anonymous by a professor, who then said, "'it will come as a surprise to you, perhaps, that the reporter is a girl,' he began... [g]asps; amazement in the ranks. 'she had used all her senses, not just her eyes, to convey the smell and feel of the stockyards. she chose a difficult subject, an offensive subject. her imagery was strong enough to revolt you.'"[103] the new york times hired kathleen mclaughlin after ten years at the chicago tribune, where "[s]he did a series on maids, going out herself to apply for housekeeping jobs."[104]
+
+slogan
+the new york times has had one slogan. since 1896, the newspaper's slogan has been "all the news that's fit to print." in 1896, adolph ochs held a competition to attempt to find a replacement slogan, offering a $100 prize for the best one. entries included "news, not nausea"; "in one word: adequate"; "news without noise"; "out heralds the herald, informs the world, and extinguishes the sun"; "the public press is a public trust"; and the winner of the competition, "all the world's news, but not a school for scandal."[105][106][107][108] on may 10, 1960, wright patman asked the ftc to investigate whether the new york times's slogan was misleading or false advertising. within 10 days, the ftc responded that it was not.[109]
+again in 1996, a competition was held to find a new slogan, this time for nytimes.com. over 8,000 entries were submitted. again however, "all the news that's fit to print," was found to be the best.[110]
+
+organization
+ the new york times headquarters 620 eighth avenue
+news staff
+in addition to its new york city headquarters, the paper has newsrooms in london and hong kong.[111][112] its paris newsroom, which had been the headquarters of the paper's international edition, was closed in 2016, although the city remains home to a news bureau and an advertising office.[113][114] the paper also has an editing and wire service center in gainesville, florida.[115]
+as of 2013, the newspaper had 6 news bureaus in the new york region, 14 elsewhere in the united states, and 24 in other countries.[116]
+in 2009, russ stanton, editor of the los angeles times, a competitor, stated that the newsroom of the new york times was twice the size of the los angeles times, which had a newsroom of 600 at the time.[117]
+
+ochs-sulzberger family
+in 1896, adolph ochs bought the new york times, a money-losing newspaper, and formed the new york times company. the ochs-sulzberger family, one of the united states' newspaper dynasties, has owned the new york times ever since.[36] the publisher went public on january 14, 1969, trading at $42 a share on the american stock exchange.[118] after this, the family continued to exert control through its ownership of the vast majority of class b voting shares. class a shareholders are permitted restrictive voting rights while class b shareholders are allowed open voting rights.
+the ochs-sulzberger family trust controls roughly 88 percent of the company's class b shares. any alteration to the dual-class structure must be ratified by six of eight directors who sit on the board of the ochs-sulzberger family trust. the trust board members are daniel h. cohen, james m. cohen, lynn g. dolnick, susan w. dryfoos, michael golden, eric m. a. lax, arthur o. sulzberger jr., and cathy j. sulzberger.[119]
+turner catledge, the top editor at the new york times from 1952 to 1968, wanted to hide the ownership influence. arthur sulzberger routinely wrote memos to his editor, each containing suggestions, instructions, complaints, and orders. when catledge would receive these memos he would erase the publisher's identity before passing them to his subordinates. catledge thought that if he removed the publisher's name from the memos it would protect reporters from feeling pressured by the owner.[120]
+
+public editors
+the position of public editor was established in 2003 to "investigate matters of journalistic integrity"; each public editor was to serve a two-year term.[121] the post "was established to receive reader complaints and question times journalists on how they make decisions."[122] the impetus for the creation of the public editor position was the jayson blair affair. public editors were: daniel okrent (2003–2005), byron calame (2005–2007), clark hoyt (2007–2010) (served an extra year), arthur s. brisbane (2010–2012), margaret sullivan (2012–2016) (served a four-year term), and elizabeth spayd (2016–2017). in 2017, the times eliminated the position of public editor.[122][123]
+
+content
+style
+when referring to people, the new york times generally uses honorifics, rather than unadorned last names (except in the sports pages, book review and magazine).[124]
+the new york times printed a display advertisement on its first page on january 6, 2009, breaking tradition at the paper.[125] the advertisement, for cbs, was in color and ran the entire width of the page.[126] the newspaper promised it would place first-page advertisements on only the lower half of the page.[125]
+in august 2014, the times decided to use the word "torture" to describe incidents in which interrogators "inflicted pain on a prisoner in an effort to get information." this was a shift from the paper's previous practice of describe such practices as "harsh" or "brutal" interrogations.[127]
+the paper maintains a strict profanity policy. a 2007 review of a concert by punk band fucked up, for example, completely avoided mention of the group's name.[128] however, the times has on occasion published unfiltered video content that includes profanity and slurs where it has determined that such video has news value.[129] during the 2016 u.s. presidential election campaign, the times did print the words "fuck" and "pussy," among others, when reporting on the vulgar statements made by donald trump in a 2005 recording. times politics editor carolyn ryan said: "it's a rare thing for us to use this language in our stories, even in quotes, and we discussed it at length," ultimately deciding to publish it because of its news value and because "[t]o leave it out or simply describe it seemed awkward and less than forthright to us, especially given that we would be running a video that showed our readers exactly what was said."[130]
+
+products
+print newspaper
+in the absence of a major headline, the day's most important story generally appears in the top-right column, on the main page. the typefaces used for the headlines are custom variations of cheltenham. the running text is set at 8.7 point imperial.[131][132]
+the newspaper is organized in three sections, including the magazine.
+
+news: includes international, national, washington, business, technology, science, health, sports, the metro section, education, weather, and obituaries.  in 2018, the new york times  began an inclusion project to add more 'overlooked' women to its ongoing obituary column.[133]  many prominent women are being added and there is an open call for the public to suggest further additions.[134]  there is also an online interactive update to the obituaries[135] as well as several articles explaining the reasoning and process of these new updates.[136][137][138]
+opinion: includes editorials, op-eds and letters to the editor.
+features: includes arts, movies, theater, travel, nyc guide, food, home & garden, fashion & style, crossword, the new york times book review,  t: the new york times style magazine, the new york times magazine, and sunday review.
+some sections, such as metro, are only found in the editions of the paper distributed in the new york–new jersey–connecticut tri-state area and not in the national or washington, d.c. editions.[139] aside from a weekly roundup of reprints of editorial cartoons from other newspapers, the new york times does not have its own staff editorial cartoonist, nor does it feature a comics page or sunday comics section.[140]
+from 1851 to 2017, the new york times published around 60,000 print issues containing about 3.5 million pages and 15 million articles.[70]
+like most other american newspapers,[141] the new york times has experienced a decline in circulation. its printed weekday circulation dropped by 50 percent to 540,000 copies from 2005 to 2017.[142]
+
+monday to friday[142]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+250,000
+
+500,000
+
+750,000
+
+1,000,000
+
+1,250,000
+
+1,500,000
+
+
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2014
+
+2015
+
+2016
+
+2017
+
+
+
+
+international print edition
+the new york times international edition is a print version of the paper tailored for readers outside the united states. formerly a joint venture with the washington post named the international herald tribune, the new york times took full ownership of the paper in 2002 and has gradually integrated it more closely into its domestic operations.
+
+website
+the new york times began publishing daily on the world wide web on january 22, 1996, "offering readers around the world immediate access to most of the daily newspaper's contents."[143] the website had 555 million pageviews in march 2005.[144] the domain nytimes.com attracted at least 146 million visitors annually by 2008 according to a compete.com study.[citation needed] in march 2009, the new york times web site ranked 59th by number of unique visitors, with over 20 million unique visitors, making it the most visited newspaper site with more than twice the number of unique visitors as the next most popular site.[145]  as of  may 2009[update], nytimes.com produced 22 of the 50 most popular newspaper blogs.[146] nytimes.com was ranked 118 in the world, and 32 in the u.s. by alexa on june 4, 2017.[147]
+in september 2005, the paper decided to begin subscription-based service for daily columns in a program known as timesselect, which encompassed many previously free columns. until being discontinued two years later, timesselect cost $7.95 per month or $49.95 per year,[148] though it was free for print copy subscribers and university students and faculty.[149][150] to avoid this charge, bloggers often reposted timesselect material,[151] and at least one site once compiled links of reprinted material.[152] on september 17, 2007, the new york times announced that it would stop charging for access to parts of its web site, effective at midnight the following day, reflecting a growing view in the industry that subscription fees cannot outweigh the potential ad revenue from increased traffic on a free site.[153] in addition to opening almost the entire site to all readers, the new york times news archives from 1987 to the present are available at no charge, as well as those from 1851 to 1922, which are in the public domain.[154][155] access to the premium crosswords section continues to require either home delivery or a subscription for $6.95 per month or $39.95 per year. times columnists including nicholas kristof and thomas friedman had criticized timesselect,[156] with friedman going so far as to say "i hate it. it pains me enormously because it's cut me off from a lot, a lot of people, especially because i have a lot of people reading me overseas, like in india ... i feel totally cut off from my audience."[157]
+the new york times was made available on the iphone and ipod touch in 2008,[158] and on the ipad mobile devices in 2010.[159] it was also the first newspaper to offer a video game as part of its editorial content, food import folly by persuasive games.[160] in 2010, the new york times editors collaborated with students and faculty from new york university's studio 20 journalism masters program to launch and produce "the local east village", a hyperlocal blog designed to offer news "by, for and about the residents of the east village".[161] that same year, recaptcha helped to digitize old editions of the new york times.[162]
+in 2012, the new york times introduced a chinese-language news site, cn.nytimes.com, with content created by staff based in shanghai, beijing and hong kong, though the server was placed outside of china to avoid censorship issues.[163] in march 2013, the new york times and national film board of canada announced a partnership titled a short history of the highrise, which will create four short documentaries for the internet about life in highrise buildings as part of the nfb's highrise project, utilizing images from the newspaper's photo archives for the first three films, and user-submitted images for the final film.[164] the third project in the series, "a short history of the highrise", won a peabody award in 2013.[165]
+falling print advertising revenue and projections of continued decline resulted in a "metered paywall" being instituted in 2011, regarded as modestly successful after garnering several hundred thousand subscriptions and about $100 million in revenue as of  march 2012[update].[166][167] as announced in march 2011, the paywall would charge frequent readers for access to its online content.[168] readers would be able to access up to 20 articles each month without charge. (although beginning in april 2012, the number of free-access articles was halved to just ten articles per month.) any reader who wanted to access more would have to pay for a digital subscription. this plan would allow free access for occasional readers, but produce revenue from "heavy" readers. digital subscriptions rates for four weeks range from $15 to $35 depending on the package selected, with periodic new subscriber promotions offering four-week all-digital access for as low as 99¢. subscribers to the paper's print edition get full access without any additional fee. some content, such as the front page and section fronts remained free, as well as the top news page on mobile apps.[169] in january 2013, the new york times' public editor margaret m. sullivan announced that for the first time in many decades, the paper generated more revenue through subscriptions than through advertising.[170] in december 2017, the number of free articles per month was reduced from ten to five, as the first change to the metered paywall since 2012.[167] an executive of the new york times company stated that the decision was motivated by "an all-time high" in the demand for journalism.[167]
+the newspaper's website was hacked on august 29, 2013, by the syrian electronic army, a hacking group that supports the government of syrian president bashar al-assad. the sea managed to penetrate the paper's domain name registrar, melbourne it, and alter dns records for the new york times, putting some of its websites out of service for hours.[171]
+the food section is supplemented on the web by properties for home cooks and for out-of-home dining. new york times cooking (cooking.nytimes.com; also available via ios app) provides access to more than 17,000 recipes on file as of november 2016,[172] and availability of saving recipes from other sites around the web. the newspaper's restaurant search (nytimes.com/reviews/dining) allows online readers to search nyc area restaurants by cuisine, neighborhood, price, and reviewer rating. the new york times has also published several cookbooks, including the essential new york times cookbook: classic recipes for a new century, published in late 2010.
+as of december 2017, the new york times has a total of 3.5 million paid subscriptions in both print and digital versions, and more than 130 million monthly readers, more than double its audience two years previously.[173]
+in february 2018, the new york times company reported increased revenue from the digital-only subscriptions, adding 157,000 new subscribers to a total of 2.6 million digital-only subscribers. digital advertising also saw growth during this period. at the same time, advertising for the print version of the journal fell.[174][175]
+
+mobile presence
+the times reader is a digital version of the new york times. it was created via a collaboration between the newspaper and microsoft. times reader takes the principles of print journalism and applies them to the technique of online reporting. times reader uses a series of technologies developed by microsoft and their windows presentation foundation team. it was announced in seattle in april 2006, by arthur ochs sulzberger jr., bill gates, and tom bodkin.[176] in 2009, the times reader 2.0 was rewritten in adobe air.[177] in december 2013, the newspaper announced that the times reader app would be discontinued on january 6, 2014, urging readers of the app to instead begin using the subscription-only "today's paper" app.[178]
+in 2008, the new york times created an app for the iphone and ipod touch which allowed users to download articles to their mobile device enabling them to read the paper even when they were unable to receive a signal.[179] in april 2010, the new york times announced it would begin publishing daily content through an ipad app.[180] as of  october 2010[update], the new york times ipad app is ad-supported and available for free without a paid subscription, but translated into a subscription-based model in 2011.[159]
+in 2010, the newspaper also launched an app for android smartphones, followed later by an app for windows phones.[181]
+
+podcasts
+the new york times began producing podcasts in 2006. among the early podcasts were inside the times and inside the new york times book review. several of the times podcasts were cancelled in 2012.[182][183] the times returned to launching new podcasts in 2016, including modern love with wbur.[184] on january 30, 2017, the new york times launched a news podcast, the daily.[185][186]
+
+spanish-language version
+in february 2016, the new york times launched a spanish language edition, the new york times en español. the spanish language version features increased coverage of news and events in latin america and spain. the expansion into spanish language news content allows the newspaper to expand its audience into the spanish speaking world and increase its revenue. the spanish language version was seen as a way to compete with the established el país newspaper of spain, which bills itself the "global newspaper in spanish".[187] the spanish version has a team of journalists in mexico city as well as correspondents in venezuela, brazil, argentina, miami, and madrid, spain.[188][189]
+
+chinese-language version
+in june 2012, the new york times launched its first official foreign-language variant, cn.nytimes.com, in chinese,[190] viewable in both traditional and simplified chinese characters. the project was led by craig s. smith on the business side and philip p. pan on the editorial side.
+the site's initial success was interrupted in october that year following the publication of an investigative article[b] by david barboza about the finances of chinese premier wen jiabao's family.[191] in retaliation for the article, the chinese government blocked access to both nytimes.com and cn.nytimes.com inside the people's republic of china (prc).
+despite chinese government interference, however, the chinese-language operations have continued to develop, adding a second site, cn.nytstyle.com, ios and android apps and newsletters, all of which are accessible inside the prc. the china operations also produce three print publications in chinese. traffic to cn.nytimes.com, meanwhile, has risen due to the widespread use of vpn technology in the prc and to a growing chinese audience outside mainland china.[192] new york times articles are also available to users in china via the use of mirror websites, apps, domestic newspapers, and social media.[192][193] the chinese platforms now represent one of the new york times' top five digital markets globally. the editor-in-chief of the chinese platforms is ching-ching ni.[194]
+
+timesmachine
+the timesmachine is a web-based archive of scanned issues of the new york times from 1851 through 2002.[195]
+unlike the new york times online archive, the timesmachine presents scanned images of the actual newspaper.[196] all non-advertising content can be displayed on a per-story basis in a separate pdf display page and saved for future reference.[197] the archive is available to new york times subscribers, home delivery and/or digital.[195]
+
+interruptions
+because of holidays, no editions were printed on november 23, 1851; january 2, 1852; july 4, 1852; january 2, 1853; and january 1, 1854.[198]
+because of strikes, the regular edition of the new york times was not printed during the following periods:[199]
+
+december 9, 1962, to march 31, 1963. only a western edition was printed because of the 1962–63 new york city newspaper strike.
+september 17, 1965, to october 10, 1965. an international edition was printed, and a weekend edition replaced the saturday and sunday papers.
+august 10, 1978, to november 5, 1978. a multi-union strike shut down the three major new york city newspapers. no editions of the new york times were printed.[198] two months into the strike, a parody of the new york times called not the new york times was distributed in the city, with contributors such as carl bernstein, christopher cerf, tony hendra and george plimpton.[200][201]
+editorial stance
+the new york times editorial page is often regarded as liberal.[202][203] in mid-2004, the newspaper's then public editor (ombudsman), daniel okrent, wrote that "the op-ed page editors do an evenhanded job of representing a range of views in the essays from outsiders they publish – but you need an awfully heavy counterweight to balance a page that also bears the work of seven opinionated columnists, only two of whom could be classified as conservative (and, even then, of the conservative subspecies that supports legalization of gay unions and, in the case of william safire, opposes some central provisions of the patriot act)."[204]
+the new york times has not endorsed a republican party member for president since dwight d. eisenhower in 1956; since 1960, it has endorsed the democratic party nominee in every presidential election (see new york times presidential endorsements).[205] however, the new york times did endorse incumbent moderate republican mayors of new york city rudy giuliani in 1997[206] and michael bloomberg in 2005[207] and 2009.[208] the times also endorsed republican new york state governor george pataki for re-election in 2002.[209]
+
+criticism and controversies
+main article: new york times controversies
+failure to report famine in ukraine
+the new york times was criticized for the work of reporter walter duranty, who served as its moscow bureau chief from 1922 through 1936. duranty wrote a series of stories in 1931 on the soviet union and won a pulitzer prize for his work at that time; however, he has been criticized for his denial of widespread famine, most particularly the ukrainian famine in the 1930s.[210][211][212][213] in 2003, after the pulitzer board began a renewed inquiry, the times hired mark von hagen, professor of russian history at columbia university, to review duranty's work. von hagen found duranty's reports to be unbalanced and uncritical, and that they far too often gave voice to stalinist propaganda. in comments to the press he stated, "for the sake of the new york times' honor, they should take the prize away."[214]
+
+world war ii
+on november 14, 2001, in the new york times' 150th anniversary issue, former executive editor max frankel wrote that before and during world war ii, the times had maintained a consistent policy to minimize reports on the holocaust in their news pages.[215] laurel leff, associate professor of journalism at northeastern university, concluded that the newspaper had downplayed the third reich targeting of jews for genocide. her 2005 book buried by the times documents the paper's tendency before, during and after world war ii to place deep inside its daily editions the news stories about the ongoing persecution and extermination of jews, while obscuring in those stories the special impact of the nazis' crimes on jews in particular. leff attributes this dearth in part to the complex personal and political views of the newspaper's jewish publisher, arthur hays sulzberger, concerning jewishness, antisemitism, and zionism.[216]
+during the war, the new york times journalist william l. laurence was "on the payroll of the war department".[217][218]
+
+iraq war
+main article: judith miller § the iraq war
+the times supported the 2003 invasion of iraq.[219] on may 26, 2004, more than a year after the war started, the newspaper asserted that some of its articles had not been as rigorous as they should have been, and were insufficiently qualified, frequently overly dependent upon information from iraqi exiles desiring regime change.[220] reporter judith miller retired after criticisms that her reporting of the lead-up to the iraq war was factually inaccurate and overly favorable to the george w. bush administration's position, for which the new york times later apologized.[221][222] one of miller's prime sources was ahmed chalabi, an iraqi expatriate who returned to iraq after the u.s. invasion and held a number of governmental positions culminating in acting oil minister and deputy prime minister from may 2005 until may 2006.[223][224][225][226]
+
+jayson blair plagiarism
+main article: jayson blair § plagiarism and fabrication scandal
+in may 2003, the new york times reporter jayson blair was forced to resign from the newspaper after he was caught plagiarizing and fabricating elements of his stories. some critics contended that african-american blair's race was a major factor in his hiring and in the new york times' initial reluctance to fire him.[227]
+
+duke university lacrosse case
+the newspaper was criticized for largely reporting the prosecutors' version of events in the 2006 duke lacrosse case.[228][229] suzanne smalley of newsweek criticized the newspaper for its "credulous"[230] coverage of the charges of rape against duke university lacrosse players. stuart taylor jr. and kc johnson, in their book until proven innocent: political correctness and the shameful injustices of the duke lacrosse rape case, write: "at the head of the guilt-presuming pack, the new york times vied in a race to the journalistic bottom with trash-tv talk shows."[229]
+
+israeli–palestinian conflict
+a 2003 study in the harvard international journal of press/politics concluded that the new york times reporting was more favorable to israelis than to palestinians.[231] a 2002 study published in the journal journalism examined middle east coverage of the second intifada over a one-month period in the times, washington post and chicago tribune. the study authors said that the times was "the most slanted in a pro-israeli direction" with a bias "reflected ... in its use of headlines, photographs, graphics, sourcing practices and lead paragraphs."[232]
+for its coverage of the israeli–palestinian conflict, some (such as ed koch) have claimed that the paper is pro-palestinian, while others (such as as'ad abukhalil) have insisted that it is pro-israel.[233][234] the israel lobby and u.s. foreign policy, by political science professors john mearsheimer and stephen walt, alleges that the new york times sometimes criticizes israeli policies but is not even-handed and is generally pro-israel.[235] on the other hand, the simon wiesenthal center has criticized the new york times for printing cartoons regarding the israeli-palestinian conflict that were claimed to be anti-semitic.[236]
+israeli prime minister benjamin netanyahu rejected a proposal to write an article for the paper on grounds of lack of objectivity. a piece in which thomas friedman commented that praise awarded to netanyahu during a speech at congress was "paid for by the israel lobby" elicited an apology and clarification from its writer.[237]
+the new york times' public editor clark hoyt concluded in his january 10, 2009, column, "though the most vociferous supporters of israel and the palestinians do not agree, i think the new york times, largely barred from the battlefield and reporting amid the chaos of war, has tried its best to do a fair, balanced and complete job — and has largely succeeded."[238]
+
+m.i.a. quotes out of context
+in february 2009, a village voice music blogger accused the newspaper of using "chintzy, ad-hominem allegations" in an article on british tamil music artist m.i.a. concerning her activism against the sinhala-tamil conflict in sri lanka.[239][240] m.i.a. criticized the paper in january 2010 after a travel piece rated post-conflict sri lanka the "#1 place to go in 2010".[241][242] in june 2010, the new york times magazine published a correction on its cover article of m.i.a., acknowledging that the interview conducted by current w editor and then-times magazine contributor lynn hirschberg contained a recontextualization of two quotes.[243][244] in response to the piece, m.i.a. broadcast hirschberg's phone number and secret audio recordings from the interview via her twitter and website.[245][246]
+
+delayed publication of 2005 nsa warrantless surveillance story
+the new york times was criticized for the 13-month delay of the december 2005 story revealing the u.s. national security agency warrantless surveillance program.[247] ex-nsa officials blew the whistle on the program to journalists james risen and eric lichtblau, who presented an investigative article to the newspaper in november 2004, weeks before america's presidential election. contact with former agency officials began the previous summer.[248]
+former the new york times executive editor bill keller decided not to report the piece after being pressured by the bush administration and being advised not to do so by new york times washington bureau chief philip taubman. keller explained the silence's rationale in an interview with the newspaper in 2013, stating "three years after 9/11, we, as a country, were still under the influence of that trauma, and we, as a newspaper, were not immune".[249]
+in 2014, pbs frontline interviewed risen and lichtblau, who said that the newspaper's plan was to not publish the story at all. "the editors were furious at me", risen said to the program. "they thought i was being insubordinate." risen wrote a book about the mass surveillance revelations after the new york times declined the piece's publication, and only released it after risen told them that he would publish the book. another reporter told npr that the newspaper "avoided disaster" by ultimately publishing the story.[250]
+
+irish student controversy
+on june 16, 2015, the new york times published an article reporting the deaths of six irish students staying in berkeley, california when the balcony they were standing on collapsed, the paper's story insinuating that they were to blame for the collapse. the paper stated that the behavior of irish students coming to the u.s. on j1 visas was an "embarrassment to ireland".[251] the irish taoiseach and former president of ireland criticized the newspaper for "being insensitive and inaccurate" in its handling of the story.[252]
+
+nail salon series
+in may 2015, a new york times exposé by sarah maslin nir on the working conditions of manicurists in new york city and elsewhere[253] and the health hazards to which they are exposed[254] attracted wide attention, resulting in emergency workplace enforcement actions by new york governor andrew m. cuomo.[255] in july 2015, the story's claims of widespread illegally low wages were challenged by former new york times reporter richard bernstein, in the new york review of books. bernstein, whose wife owns two nail salons, asserted that such illegally low wages were inconsistent with his personal experience, and were not evidenced by ads in the chinese-language papers cited by the story.[256] the new york times editorial staff subsequently answered bernstein's criticisms with examples of several published ads and stating that his response was industry advocacy.[257] the independent nyt public editor also reported that she had previously corresponded with bernstein and looked into his complaints, and expressed her belief that the story's reporting was sound.[258]
+in september and october 2015, nail salon owners and workers protested at the new york times offices several times, in response to the story and the ensuing new york state crackdown.[259][260] in october 2015, reason magazine published a three part re-reporting of the story by jim epstein, charging that the series was filled with misquotes and factual errors respecting both its claims of illegally low wages and health hazards. epstein additionally argued that the new york times had mistranslated the ads cited in its answer to bernstein, and that those ads actually validated bernstein's argument.[261][262][263] in november 2015, the new york times' public editor concluded that the exposé's "findings, and the language used to express them, should have been dialed back — in some instances substantially" and recommended that "the times write further follow-up stories, including some that re-examine its original findings and that take on the criticism from salon owners and others — not defensively but with an open mind."[264]
+
+iran
+a 2015 study found that the new york times fed into an overarching tendency towards national bias. during the iranian nuclear crisis the newspaper minimized the "negative processes" of the united states while overemphasizing similar processes of iran. this tendency was shared by other papers such as the guardian, tehran times, and the fars news agency, while xinhua news agency was found to be more neutral while at the same time mimicking the foreign policy of the people's republic of china.[265]
+
+hiring practices
+in april 2016, two black female employees in their sixties filed a federal class action lawsuit against the new york times company ceo mark thompson and chief revenue officer meredith levien, claiming age, gender, and racial discrimination. the plaintiffs claimed that the times advertising department favored younger white employees over older black employees in making firing and promotion decisions.[266][267] the times said that the suit was "entirely without merit" and was "a series of recycled, scurrilous and unjustified attacks."[267]
+
+accusations of bias
+the new york times public editor (ombudsman) elizabeth spayd wrote in 2016 that "conservatives and even many moderates, see in the times a blue-state worldview" and accuse it of harboring a liberal bias. spayd did not analyze the substance of the claim, but did opine that the times is "part of a fracturing media environment that reflects a fractured country. that in turn leads liberals and conservatives toward separate news sources."[268] times executive editor dean baquet stated that he does not believe coverage has a liberal bias, but that: "we have to be really careful that people feel like they can see themselves in the new york times. i want us to be perceived as fair and honest to the world, not just a segment of it. it's a really difficult goal. do we pull it off all the time? no."[268]
+times public editor arthur brisbane wrote in 2012: "when the times covers a national presidential campaign, i have found that the lead editors and reporters are disciplined about enforcing fairness and balance, and usually succeed in doing so. across the paper's many departments, though, so many share a kind of political and cultural progressivism — for lack of a better term — that this worldview virtually bleeds through the fabric of the times."[269]
+in mid-2004, the newspaper's then-public editor daniel okrent, wrote an opinion piece in which he said that the new york times did have a liberal bias in news coverage of certain social issues such as abortion and same-sex marriage. he stated that this bias reflected the paper's cosmopolitanism, which arose naturally from its roots as a hometown paper of new york city.[204] he wrote, "if you're examining the paper's coverage of these subjects from a perspective that is neither urban nor northeastern nor culturally seen-it-all; if you are among the groups the times treats as strange objects to be examined on a laboratory slide (devout catholics, gun owners, orthodox jews, texans); if your value system wouldn't wear well on a composite new york times journalist, then a walk through this paper can make you feel you're traveling in a strange and forbidding world."[204] okrent wrote that the time's arts & leisure; the sunday times magazine, and culture coverage trend to the left.[270]
+donald trump has frequently criticized the new york times on his twitter account before and during his presidency; since november 2015, trump has referred to the times as "the failing new york times" in a series of tweets.[271] despite trump's criticism, new york times editor mark thompson noted that the paper had enjoyed soaring digital readership, with the fourth quarter of 2016 seeing the highest number of new digital subscribers to the newspaper since 2011.[272][273][274]
+critic matt taibbi accused the new york times of favoring hillary clinton over bernie sanders in the paper's news coverage of the 2016 democratic presidential primaries.[275] responding to the complaints of many readers, new york times public editor margaret sullivan wrote that "the times has not ignored mr. sanders's campaign, but it hasn't always taken it very seriously. the tone of some stories is regrettably dismissive, even mocking at times. some of that is focused on the candidate's age, appearance and style, rather than what he has to say."[276] times senior editor carolyn ryan defended both the volume of new york times coverage (noting that sanders had received about the same amount of article coverage as jeb bush and marco rubio) and its tone.[277]
+
+reputation
+the times has developed a national and international "reputation for thoroughness" over time.[278] among journalists, the paper is held in high regard; a 1999 survey of newspaper editors conducted by the columbia journalism review found that the times was the "best" american paper, ahead of the washington post, the wall street journal, and los angeles times.[279] the times also was ranked #1 in a 2011 "quality" ranking of u.s. newspapers by daniel de vise of the washington post; the objective ranking took into account the number of recent pulitzer prizes won, circulation, and perceived web site quality.[279] a 2012 report in wnyc called the times "the most respected newspaper in the world."[280] noam chomsky, co-author of manufacturing consent, said that the new york times was the first thing he looked at in the morning. "despite all its flaws — and they're real — it still has the broadest, the most comprehensive coverage of i think any newspaper in the world.[281]
+nevertheless, like many other u.s. media sources, the times had suffered from a decline in public perceptions of credibility in the u.s. from 2004 to 2012.[282] a pew research center survey in 2012 asked respondents about their views on credibility of various news organizations. among respondents who gave a rating, 49% said that they believed "all or most" of the  times's reporting, while 50% disagreed. a large percentage (19%) of respondents were unable to rate believability. the times's score was comparable to that of usa today.[282] media analyst brooke gladstone of wnyc's on the media, writing for the new york times, says that the decline in u.s. public trust of the mass media can be explained (1) by the rise of the polarized internet-driven news; (2) by a decline in trust in u.s. institutions more generally; and (3) by the fact that "americans say they want accuracy and impartiality, but the polls suggest that, actually, most of us are seeking affirmation."[283]
+
+awards
+main article: list of awards won by the new york times
+the new york times has won 125 pulitzer prizes, more than any other newspaper. the prize is awarded for excellence in journalism in a range of categories.[284]
+it has also, as of 2014, won three peabody awards and jointly received two.[285]
+
+see also
+list of new york city newspapers and magazines
+list of newspapers in the united states
+list of pulitzer prizes awarded to the new york times
+list of the new york times employees
+new york times building (disambiguation)
+new york times index
+the new york times best seller list
+the new york times guide to essential knowledge
+new york times presidential endorsements
+journalism portalnew york city portal
+references
+notes
+
+
+^ seven different newspapers have been published under the new york times name, with the earliest being published by a david longworth and nicholas van riper in 1813, but they all died out within a few years.[23]
+
+^ the article is located at:
+barboza, david (october 26, 2012). "billions in hidden riches for family of chinese leader". the new york times. retrieved april 26, 2016..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+
+citations
+
+
+^ vinton, kate. "these 15 billionaires own america's news media companies".
+
+^ "jason stallman – times insider". the new york times.
+
+^ rogers, katie (may 25, 2016). "new york times co. to offer buyouts to employees". the new york times.
+
+^ a b "new york times company 10-k" (pdf). nypost.com. february 22, 2017.
+
+^ "press release 7.1.2018" (pdf).
+
+^ "the new york times". encyclopædia britannica. retrieved september 27, 2011.
+
+^ "is the washington post closing in on the times?". politico media. retrieved november 5, 2017.
+
+^ "news of the world". the economist. march 17, 2012. issn 0013-0613. retrieved november 5, 2017.
+
+^ "pulitzer prizes". the new york times company. retrieved november 5, 2017.
+
+^ victor, daniel (april 16, 2018). "the times just won 3 pulitzers. read the winning work". the new york times. retrieved july 16, 2018.
+
+^ dash, eric (2009). "mexican billionaire invests in the new york times company". the new york times. issn 0362-4331. retrieved november 5, 2017.
+
+^ levitz, eric (october 19, 2016). "a.g. sulzberger vanquishes his cousins, becomes deputy publisher of the new york times". new york.
+
+^ berger, meyer (september 17, 1951). "the gray lady reaches 100". life. retrieved march 12, 2016.
+
+^ "the new york times". encyclopædia britannica. retrieved september 27, 2011.
+
+^ a b pérez-peña, richard (september 5, 2008). "times plans to combine sections of the paper". the new york times. retrieved september 16, 2008.
+
+^ "the new york times site index". the new york times. retrieved february 25, 2017.
+
+^ "a letter to our readers about the sunday review". the new york times. june 18, 2011. issn 0362-4331. retrieved january 26, 2017.
+
+^ "inside the new york times book review". c-span.org. retrieved january 26, 2017.
+
+^ silverstein, jake (february 18, 2015). "behind the relaunch of the new york times magazine". the new york times. issn 0362-4331. retrieved january 26, 2017.
+
+^ "the new york times company – redesigned t magazine franchise to launch in 2013". investors.nytco.com. retrieved january 26, 2017.
+
+^ a b "the new york times to change to a 6-column format sept. 7". the new york times. june 15, 1976. retrieved september 16, 2008.
+
+^ a b "new york times timeline 1971–2000". the new york times company. archived from the original on september 18, 2008. retrieved september 19, 2008.
+
+^ berger, myer (1951). the story of the new york times 1851-1951. simon and schuster. pp. 3–4.
+
+^ pederson, jay p. (january 2012). "the new york times company". international directory of company histories. gale. retrieved january 8, 2017.(password-protected)
+
+^ a b dunlap, david w. "a happy 200th to the times's first publisher, whom boss tweed couldn't buy or kill". city room. retrieved march 12, 2017.
+
+^ elmer holmes davis (1921). history of the new york times, 1851-1921. the new york times. p. 17.
+
+^ "the case of hoffman.; the prisoner finds bail". the new york times. july 24, 1860. issn 0362-4331. retrieved march 12, 2017.
+
+^ "a word about ourselves". new-york daily times. september 18, 1851. retrieved march 5, 2009.
+
+^ the new york times company. "our history | the new york times company". www.nytco.com. retrieved january 7, 2017.
+
+^ "it can hyphen here: why the new-york historical society includes a hyphen" » new-york historical society. blog.nyhistory.org (february 13, 2013). retrieved on july 21, 2013.
+
+^ cornwell, 2004, p. 151.
+
+^ on this day: august 1, 1863 the new york times. retrieved december 13, 2016.
+
+^ adler, john with draper hill (2008). doomed by cartoon: how cartoonist thomas nast and the new york times brought down boss tweed and his ring of thieves. garden city, ny: morgan james publishing. isbn 978-1-60037-443-2.
+
+^ "new york times timeline 1851–1880". the new york times company. archived from the original on september 14, 2008. retrieved september 15, 2008.
+
+^ elmer holmes davis (1921). history of the new york times, 1851-1921. the new york times. pp. 215–218.
+
+^ a b c d "new york times timeline 1881–1910". the new york times company. retrieved january 22, 2014.
+
+^ a b elmer holmes davis (1921). history of the new york times, 1851-1921. the new york times. pp. 155–178.
+
+^ "the new york times company". gale. november 30, 1990. retrieved january 11, 2017.
+
+^ editor and publisher. editor & publisher company. 1922. p. 4.
+
+^ a b "adolph s. ochs dead at 77; publisher of times since 1896". www.nytimes.com. retrieved january 8, 2017.
+
+^ jensen-brown, peter (april 12, 2017). "decent and dignified journalism - a history of "all the news that's fit to print". early sports 'n' pop-culture history blog. retrieved may 6, 2017.
+
+^ elmer holmes davis (1921). history of the new york times, 1851-1921. the new york times. pp. 274–277.
+
+^ the world's work ...: a history of our time. doubleday, page. 1905. pp. 5844–5845.
+
+^ "new york times timeline 1911–1940". the new york times company. archived from the original on july 20, 2008. retrieved september 16, 2008.
+
+^ "adolph s. ochs dead at 77; publisher of times since 1896". new york times. april 9, 1935. retrieved april 13, 2018.
+
+^ sherman, gabriel (august 24, 2015). "inside the 3-way family contest to become the next publisher of the times". new york.
+
+^ talese, gay (2007). the kingdom and the power : behind the scenes at the new york times : the institution that influences the world (random house trade paperback ed.). new york: random house trade paperbacks. p. 23. isbn 9780812977684. oclc 74492264.
+
+^ zalaznick, sheldon (may 6, 1974). "the evolution of 'times' publisher arthur sulzberger -- new york magazine". new york. retrieved april 17, 2018.
+
+^ "orvil e. dryfoos dies at 50; new york times publisher; orvil e. dryfoos, president and publisher of the new york times, is dead at 50 he joined staff of paper in 1942 served as a reporter for a year--succeeded sulzberger in 1961". the new york times. may 26, 1963. issn 0362-4331. retrieved april 17, 2018.
+
+^ jones, alex s. (september 29, 2012). "the best of times". the new yorker. issn 0028-792x. retrieved april 17, 2018.
+
+^ "ex-ny times publisher 'punch' sulzberger dies". usa today. september 30, 2012. retrieved april 17, 2018.
+
+^ new york times co. v. sullivan, 376 u.s. 254 (supreme court of the united states 1964). 
+
+^ steven j. hatfill v. the new york times company, and nicholas kristof, 416 f.3d 320, courtlistener.com
+
+^ judith miller (october 14, 2001), "a nation challenged: the letter; fear hits newsroom in a cloud of powder, the new york times
+
+^ nicholas kristof (july 2, 2002), "anthrax? the f.b.i. yawns", the new york times
+
+^ nicholas kristof (august 13, 2002), "the anthrax files", the new york times
+
+^ louie gohmert (may 15, 2018), the history of robert mueller, house speech in congressional record
+
+^ kathleen cullinan (december 15, 2008), "supreme court won't hear hatfill's libel suit", reporters committee for freedom of the press
+
+^ paul farhi (june 3, 2006), "u.s., media settle with wen ho lee", the washington post, p. a1
+
+^ matthew purdy (february 4, 2001), "the making of a suspect: the case of wen ho lee", the new york times
+
+^ matthew purdy with james sterngold (february 5, 2001), "the prosecution unravels: the case of wen ho lee", the new york times
+
+^ patsy t. mink, george miller, nancy pelosi, maxine waters (october 12, 2000), 146 cong. rec. (bound) 22416 - investigation and treatment of wen ho lee, u.s. house of representatives proceedings in congressional record
+
+^ james risen and jeff gerth (march 6, 1999), "breach at los alamos: a special report.; china stole nuclear secrets for bombs, u.s. aides say" (includes extensive corrections), the new york times
+
+^ a b cohen, noam. "pentagon papers". the new york times. retrieved september 18, 2008.
+
+^ "audio tapes from the nixon white house". national security archive. retrieved january 20, 2009.
+
+^ snyder, gabriel (february 2017). "how the new york times is clawing its way into the future". wired. retrieved november 5, 2017.
+
+^ "heaviest ever newspaper". guinness world records. retrieved february 4, 2017.
+
+^ tifft, susan e. (july 19, 1999). "scion of the times (w/alex s. jones)". the new yorker. issn 0028-792x. retrieved april 17, 2018.
+
+^ haberman, clyde (september 29, 2012). "arthur o. sulzberger, publisher who transformed times, dies at 86". the new york times. issn 0362-4331. retrieved april 17, 2018.
+
+^ a b "panel: the future of the past: modernizing the new york times archive". www.rjionline.org. reynolds journalism institute. july 12, 2012. retrieved december 11, 2017.
+
+^ perez-peña, richard (october 26, 2009). "u.s. newspaper circulation falls 10%". the new york times.
+
+^ seelye, katharine q. (july 18, 2006). "times to reduce page size and close a plant in 2008". the new york times. retrieved september 15, 2008.
+
+^ "new york times to cut size 5 percent; keller says paper better off smaller | the new york observer". the new york observer. july 17, 2006. retrieved september 15, 2008.
+
+^ "new york times trims paper size to cut costs". press gazette. august 7, 2007. archived from the original on december 28, 2008. retrieved september 18, 2008.
+
+^ seelye, katharine q. (december 4, 2006). "in tough times, a redesigned journal". the new york times. retrieved september 15, 2008.
+
+^ joyner, james (september 21, 2005). "new york times fires 500 staffers". outside the beltway. retrieved july 4, 2006.
+
+^ "new york times co. to offer buyouts to employees". the new york times. may 25, 2016. retrieved may 25, 2016.
+
+^ williams, paige (march 29, 2013). "inside "snow fall," the new york times multimedia storytelling sensation". nieman storyboard. retrieved april 8, 2017.
+
+^ greenfield, rebecca (december 20, 2012). "what the new york times's 'snow fall' means to online journalism's future". the atlantic. retrieved february 11, 2017.
+
+^ perez, evan; prokupecz, shimon (august 23, 2016). "fbi investigating russian hack of new york times reporters, others". cnn. retrieved august 23, 2016.
+
+^ owen, laura hazard (october 2, 2018). "why the new york times tl;dr'd its own 14,218-word trump investigation". nieman journalism lab. retrieved october 3, 2018.
+
+^ "what's next from the new york times' trump tax team?". cnn wire. october 8, 2018. retrieved october 8, 2018.
+
+^ miller, julie (october 2, 2018). "donald trump's shifty taxes are getting the documentary treatment". vanity fair. retrieved october 8, 2018.
+
+^ d'addario, daniel (october 7, 2018). "'family business: trump and taxes' exposes relentless pace of news". variety. retrieved october 8, 2018.
+
+^ o'falt, chris (october 3, 2018). "how showtime made a secret documentary about the new york times' big story on trump's tax evasion". indiewire. retrieved october 8, 2018.
+
+^ dunlap, david w. (november 14, 2001). "150th anniversary: 1851–2001; six buildings that share one story". the new york times. retrieved october 10, 2008. surely the most remarkable of these survivors is 113 nassau street, where the new-york daily times was born in 1851.... after three years at 113 nassau street and four years at 138 nassau street, the new york times moved to a five-story romanesque headquarters at 41 park row, designed by thomas r. jackson. for the first time, a new york newspaper occupied a structure built for its own use.
+
+^ barron, james (april 8, 2004). "100 years ago, an intersection's new name: times square"] the new york times. archived from the original on december 24, 2015.
+
+^ mckendry, joe (2011). one times square: a century of change at the crossroads of the world. david r. godine publisher. pp. 10–14. isbn 9781567923643.
+
+^ boxer, sarah b. (december 31, 2007). "nyc ball drop goes 'green' on 100th anniversary". cnn. archived from the original on january 3, 2014.
+
+^ poulin, richard (2012). graphic design and architecture, a 20th century history: a guide to type, image, symbol, and visual storytelling in the modern world. rockport publishers. p. 53. isbn 9781592537792.
+
+^ "dow jones taking over news 'zipper'". portsmouth daily times. archived from the original on february 16, 2013. retrieved february 26, 2017.
+
+^ kazaz, tamir. "appraisal of real property 229 west 43rd street between seventh and eighth avenues new york, new york county, ny 10036 in a restricted appraisal report" (pdf). archived from the original (pdf) on october 10, 2017.
+
+^ josephs, larewnce (january 3, 1982). "a new owner takes the reins in times square". the new york times. archived from the original on july 14, 2014.
+
+^ dunlap, david w. (june 10, 2007). "the new york times building – 229 west 43rd street". the new york times. issn 0362-4331. retrieved february 28, 2017.
+
+^ "timeline of the new york times building" (pdf). the new york times company. archived from the original (pdf) on october 1, 2008. retrieved september 25, 2008.
+
+^ "new york times headquarters". skyscraperpage.com. 2007. retrieved september 16, 2008.
+
+^ grant, jane, confession of a feminist, in the american mercury, vol. lvii, no. 240, dec. 1943 (microfilm), pp. 684–691, esp. pp. 684–686.
+
+^ robertson, nan, the girls in the balcony: women, men, and the new york times (n.y.: random house, [2nd printing?] 1992 (isbn 0-394-58452-x)), p. 35.
+
+^ robertson, nan, the girls in the balcony, p. 27.
+
+^ robertson, nan, the girls in the balcony, p. 28.
+
+^ robertson, nan, the girls in the balcony, pp. 100–101.
+
+^ robertson, nan, the girls in the balcony, pp. 101–102.
+
+^ robertson, nan, the girls in the balcony, p. 76 (italics in original).
+
+^ robertson, nan, the girls in the balcony, p. 61.
+
+^ dunlap, david w. (january 5, 2017). "1896 | 'news, not nausea'". the new york times. issn 0362-4331. retrieved march 14, 2017.
+
+^ campbell, professor w. joseph (february 10, 2012). "story of the most famous seven words in us journalism". bbc news. retrieved march 14, 2017.
+
+^ lafrance, adrienne. "118 years ago, the new york times crowdsourced a new motto". the atlantic. retrieved march 14, 2017.
+
+^ "" all the world's news, but not a school for scandal."" (pdf). retrieved march 14, 2017.
+
+^ congressional record: proceedings and debates of the ... congress. u.s. government printing office. 1960. pp. 11311–11312.
+
+^ "slogan for the times on the web:               'all the news that's fit to print'". partners.nytimes.com. retrieved march 14, 2017.
+
+^ turvill, william (july 15, 2015). "new york times london office may exceed 100 staff but it is 'not looking to compete with local media'". press gazette. retrieved november 10, 2017.
+
+^ bradsher, keith (june 30, 2017). "in hong kong, a bureau evolves with its city". the new york times. issn 0362-4331. retrieved november 10, 2017.
+
+^ bond, shannon; thomson, adam (april 26, 2016). "new york times to shut paris hq of international edition". financial times. retrieved november 11, 2017.[permanent dead link]
+
+^ ember, sydney (april 26, 2016). "new york times co. plans to close paris editing and press operations". the new york times. issn 0362-4331. retrieved november 11, 2017.
+
+^ clark, anthony (november 13, 2009). "some n.y.t. news service jobs moving to gainesville". ocala.com. retrieved november 10, 2017.
+
+^ "the new york times media group". the new york times company. archived from the original on october 13, 2013.
+
+^ friedman, jon (august 21, 2009). "can russ stanton turn around the l.a. times?". marketwatch. retrieved august 21, 2009.
+
+^ lucey, bill. "the new york times: a chronology: 1851-2010". new york state library.
+
+^ ellison, sarah (march 21, 2007). "how a money manager battled new york times". the wall street journal. archived from the original on march 28, 2007. retrieved september 16, 2008.
+
+^ chomsky, daniel(2006) "'an interested reader': measuring ownership control at the new york times", critical studies in media communication, 23(1): 1–18
+
+^ "margaret sullivan". the new york times. september 24, 2014. retrieved september 28, 2014. margaret sullivan is the fifth public editor appointed by the new york times. ... the public editor's office also handles questions and comments from readers and investigates matters of journalistic integrity. the public editor works independently, outside of the reporting and editing structure of the newspaper; her opinions are her own.
+
+^ a b daniel victor, new york times will offer employee buyouts and eliminate public editor role, the new york times (may 31, 2017).
+
+^ liz spayd, the public editor signs off, the new york times (june 2, 2017).
+
+^ hoyt, clark. "a question of honorifics". new york times-public editor's journal. retrieved january 26, 2017.
+
+^ a b pinkington, ed (january 6, 2009). "all the news fit to print. (and a page 1 advert)". the guardian. london.
+
+^ rabil, sarah (january 5, 2009). "new york times starts selling ad space on front page". bloomberg l.p. archived from the original on june 26, 2009.
+
+^ byers, dylan (august 7, 2014). "n.y. times broadens use of 'torture'". politico. retrieved august 8, 2014.
+
+^ peters, justin (dec 10, 2014). "the new york times' obscene profanity policy". slate. issn 1091-2339. retrieved april 12, 2015.
+
+^ david m. halbfinger, profanity, vitriol, slurs: why the times published unfiltered trump rally video, the new york times (august 5, 2016).
+
+^ hadas gold, new york times, cnn report trump's vulgarities in full: media grapple with whether to use offensive terms in unaltered state, politico (october 7, 2016).
+
+^ kurz, stephan (april 28, 2006). "history of the nyt nameplate". typophile. archived from the original on september 15, 2008. retrieved september 16, 2008.
+
+^ "the media business; a face-lift for the times, typographically, that is". the new york times. october 21, 2003. retrieved october 11, 2016.
+
+^ padnani, amisha (march 8, 2018). "how an obits project on overlooked women was born". the new york times. issn 0362-4331. retrieved march 24, 2018.
+
+^ "have a suggestion for an overlooked obit? we want to hear from you". the new york times. march 8, 2018. issn 0362-4331. retrieved march 24, 2018.
+
+^ padnani, amisha (march 8, 2018). "remarkable women we overlooked in our obituaries". the new york times. issn 0362-4331. retrieved march 24, 2018.
+
+^ sun, albert (march 14, 2018). "in death as in life, women count. here's how the times counted them". the new york times. issn 0362-4331. retrieved march 24, 2018.
+
+^ sondern, andrew (march 10, 2018). "a cover design that renders overlooked women visible". the new york times. issn 0362-4331. retrieved march 24, 2018.
+
+^ mcdonald, william (march 8, 2018). "from the death desk: why most obituaries are still of white men". the new york times. issn 0362-4331. retrieved march 24, 2018.
+
+^ "new york times to discontinue new jersey edition of sunday metropolitan section". planet princeton. august 3, 2016. retrieved january 26, 2017.
+
+^ "new york times syndicate – cartoons". www.nytsyn.com. retrieved january 26, 2017.
+
+^ "despite subscription surges for largest u.s. newspapers, circulation and revenue fall for industry overall". pew research center. june 1, 2017. retrieved december 17, 2017.
+
+^ a b source: the new york times company. annual reports 2005–2017 (2008, 2014, 2015, 2016, 2017[permanent dead link], etc.). figures for 2011, 2012, and 2013 are omitted. in these years the alliance for audited media added the digital circulation to that of print before it resumed the previous practice.
+
+^ lichterman, joseph (january 22, 2016). "20 years ago today, nytimes.com debuted "on-line" on the web". nieman journalism lab. retrieved february 11, 2017.
+
+^ "the new york times company reports nytimes.com's record-breaking traffic for march". the new york times. april 18, 2005. retrieved september 15, 2008.
+
+^ "top 30 newspaper sites for march". editor & publisher. retrieved april 22, 2009.[dead link]
+
+^ "the 50 most popular newspaper blogs". business insider. retrieved april 22, 2009.
+
+^ "nytimes.com traffic, demographics and competitors – alexa". alexa internet. retrieved june 4, 2017.
+
+^ "frequently asked questions about timesselect". the new york times. retrieved september 15, 2008.
+
+^ "can i get timesselect for free". the new york times. september 9, 2005. retrieved september 15, 2008.
+
+^ "the new york times introduces timesselect university; program offers college students and faculty special access to timesselect". business wire. january 24, 2006. archived from the original on october 6, 2008. retrieved september 15, 2008.
+
+^ farivar, cyrus (september 22, 2006). "goof lets times' content go free". wired. archived from the original on september 18, 2008. retrieved july 4, 2006.
+
+^ tabin, john. "never pay retail". john tabin. retrieved september 16, 2008.
+
+^ "why the new york times is free". blorge. archived from the original on october 12, 2008. retrieved september 16, 2008.
+
+^ pérez-peña, richard (september 18, 2007). "times to stop charging for parts of its web site". the new york times. retrieved april 14, 2008.
+
+^ raab, selwyn. "archive 1851–1980: advanced search". the new york times. retrieved september 16, 2008.
+
+^ kaus, mickey (june 18, 2006). "touting mark warner – suellentrop's secret scooplet". slate. retrieved september 16, 2008.
+
+^ "thomas friedman at webbys". youtube. retrieved september 16, 2008.
+
+^ bray, hiawatha (july 11, 2008). "sure the new iphone is cool, but those apps..." the boston globe.
+
+^ a b albanesius, chloe (october 15, 2010). "new york times ipad app gets overhaul, more content". pc magazine.
+
+^ mccauley, dennis (may 25, 2007). "cultural milestone: new york times to carry newsgames". gamepolitics.com. archived from the original on may 28, 2007. retrieved june 2, 2007.
+
+^ roy, jessica (february 22, 2010). "nyu and new york times collaborate on east village local blog". the local east village. retrieved may 4, 2014.
+
+^ "what is recaptcha?". recaptcha.net. archived from the original on may 24, 2007. retrieved april 16, 2010.
+
+^ haughney, christine (june 27, 2012). "the times is introducing a chinese-language news site". the new york times. retrieved june 27, 2012.
+
+^ newton, sarah (march 12, 2013). "nfb's highrise series builds new foundations in new york". cbc news. retrieved april 9, 2013.
+
+^ 73rd annual peabody awards, may 2014.
+
+^ sass, erik (march 12, 2012). "'nyt' pay wall could bring $100m annually". media daily news. retrieved march 13, 2012.
+
+^ a b c guaglione, sara (december 1, 2017). "'new york times' tightens metered paywall". mediapost. retrieved december 11, 2017.
+
+^ sulzberger, arthur ochs jr. (march 17, 2011). "a letter to our readers about digital subscriptions". the new york times. retrieved march 17, 2011.
+
+^ kramer, staci d. (march 17, 2011). "nytimes.com paywall picture about to get much clearer". archived from the original on march 18, 2011. retrieved march 17, 2011.
+
+^ margaret sullivan, "a milestone behind, a mountain ahead", the new york times, january 19, 2013. retrieved february 10, 2013.
+
+^ gerry shih and joseph menn (august 28, 2013). "new york times, twitter hacked by syrian group". reuters.
+
+^ "itunes preview: nyt cooking – recipes from the new york times". itunes.apple.com. apple inc. november 16, 2016. retrieved november 28, 2016.
+
+^ "year of audience". new york times. december 7, 2017. retrieved december 19, 2017.
+
+^ ember, sdyney (february 8, 2018). "new york times co. subscription revenue surpassed $1 billion in 2017". the new york times. retrieved february 15, 2018.
+
+^ bond, shannon (february 8, 2018). "new york times sees boom in online subscribers". financial times. retrieved february 15, 2018.
+
+^ seelye, katharine q. (april 29, 2006). "microsoft software will let times readers download paper". the new york times. issn 0362-4331. retrieved february 21, 2017.
+
+^ "times reader 2.0 is now available". the new york times. may 12, 2009.
+
+^ "important information about times reader". the new york times. december 25, 2013. archived from the original on october 13, 2010.
+
+^ "nytimes iphone app". the new york times. retrieved january 26, 2017.
+
+^ robin wauters (april 2, 2010). "the new york times launches free ipad app (for real now), paid app on the way". techcrunch. retrieved january 22, 2011.
+
+^ "nytimes mobile apps". the new york times. retrieved january 7, 2017.
+
+^ romenesco, jim. "new york times drops many podcasts". archived from the original on february 22, 2017. retrieved march 19, 2017.
+
+^ doctor, ken. "the new york times gets serious about podcasting". politico.
+
+^ "the new york times launches a podcast team to create a new batch of wide-reaching shows". nieman lab. retrieved march 19, 2017.
+
+^ barbaro, michael (january 30, 2017). "get ready for the daily, your audio news report". the new york times. issn 0362-4331. retrieved march 19, 2017.
+
+^ "sensing an opening in audio, the new york times is launching a daily news podcast this week". nieman lab. retrieved march 19, 2017.
+
+^ garcía, mario r. (august 25, 2016).  "and now the new york times app en español." garciamedia.com.  retrieved january 11, 2019.
+
+^ pompeo, joe (february 8, 2016).  "new york times launches spanish-language digital edition." politico.  retrieved january 10, 2019.
+
+^ sass, erik (february 8, 2016).  "'new york times en espanol' launches." mediapost.com.  retrieved january 11, 2019.
+
+^ tania branigan (june 28, 2012). "new york times launches website in chinese language". the guardian. retrieved april 26, 2016.
+
+^ anthony tao (april 16, 2013). "david barboza wins pulitzer for the wen jiabao story that got the new york times blocked in china". beijing cream. retrieved april 26, 2016.
+
+^ a b "how the new york times is eluding censors in china". quartz. april 5, 2015. retrieved april 26, 2016.
+
+^ calderone, michael (november 19, 2013). "how the new york times gets around censors in china". the huffington post. retrieved april 26, 2016.
+
+^ "ching-ching ni 倪青青: training and working with millennials | us-china institute". china.usc.edu. retrieved january 26, 2017.
+
+^ a b "archives – the new york times". www.nytimes.com. retrieved january 26, 2017.
+
+^ sandhaus, jane cotler and evan. "how to build a timesmachine". open blog. retrieved june 18, 2018.
+
+^ "timesmachine – browse the new york times archive – nytimes.com". timesmachine.nytimes.com. retrieved january 8, 2017.
+
+^ a b "about new york times store page reprints". the new york times. retrieved february 20, 2014.
+
+^ the new york times (2008). the new york times: the complete front pages: 1851–2008. black dog & leventhal publishers. isbn 978-1-57912-749-7.
+
+^ "'not the new york times' from 1978 remains the best nyt parody". poynter. may 10, 2011. archived from the original on february 11, 2017. retrieved february 11, 2017.
+
+^ dwyer, jim (november 14, 2008). "in 1978, a faux paper was real genius". the new york times. issn 0362-4331. retrieved february 11, 2017.
+
+^ "cnbc exclusive: cnbc transcript: new york times ceo mark thompson discusses media in the trump era on cnbc's "power lunch" today". cnbc. february 2, 2017. retrieved february 8, 2017.
+
+^ * okrent daniel, (july 25, 2004) public editor; is the new york times a liberal newspaper? (nyt article)
+sullivan margaret, (august 18, 2013) margaret sullivan web extra (cnn interview)
+spayd liz, (july 23, 2016) why readers see the times as liberal (nyt article)
+
+^ a b c okrent, daniel (july 25, 2004). ""is the new york times a liberal newspaper?" (public editor column)". the new york times. retrieved september 16, 2008.
+
+^ brennan, allison (october 27, 2012). "the new york times endorses obama again". political ticker (blog of cnn). retrieved october 27, 2012.
+
+^ "re-elect mayor giuliani". the new york times. october 26, 1997. retrieved april 11, 2015.
+
+^ "an endorsement for mayor". the new york times. october 23, 2005. retrieved april 11, 2014.
+
+^ "for mayor of new york city". the new york times. october 23, 2009. retrieved april 11, 2015.
+
+^ george pataki for governor, the new york times (october 27, 2017).
+
+^ lyons, eugene (1938). assignment in utopia. greenwood press reprint. isbn 9781412817608. retrieved april 23, 2012.
+
+^ conquest, r. reflections on a ravaged century. w.w. norton & company. new york. 2000.
+
+^ stuttaford, andrew (may 7, 2003). "prize specimen – the campaign to revoke walter duranty's pulitzer". national review. archived from the original on may 19, 2003.
+
+^ "the foreign office and the famine: british documents on ukraine and the great famine of 1932–1933". studies in east european nationalisms.
+
+^ "n.y. times urged to rescind 1932 pulitzer". usa today. retrieved february 2, 2008.
+
+^ max frankel (november 14, 2001). "turning away from the holocaust". the new york times.
+
+^ leff, laurel (2005). buried by the times: the holocaust and america's most important newspaper. new york: cambridge university press. isbn 978-0-521-81287-0.
+
+^ leslie r. groves. "now it can be told: the story of the manhattan project"[dead link]da capo press, 1983, p. 326. "it seemed desirable for security reasons, as well as easier for the employer, to have laurence continue on the payroll of the new york times, but with his expenses covered by the med"
+
+^ goodman, amy; goodman, david (august 5, 2005). "the hiroshima cover-up" archived march 26, 2014, at the wayback machine. the baltimore sun.
+
+^ antony loewenstein (march 23, 2004), "the new york times' role in promoting war on iraq", the sydney morning herald
+
+^ nytimes editors (may 26, 2004), "from the editors; the times and iraq", the new york times
+
+^ ricks, thomas e. (2006). fiasco. penguin press. isbn 978-1-59420-103-5.
+
+^ james moore (august 1, 2005). "that awful power: how judy miller screwed us all". the huffington post. retrieved september 15, 2008.
+
+^ chris shumway (april 29, 2005). "chalabi named iraqi deputy prime minister, acting oil minister". newstandardnews.net. retrieved may 22, 2014.
+
+^ james c. moore (may 27, 2004), "not fit to print: how ahmed chalabi and the iraq war lobby used new york times reporter judith miller to make the case for invasion", salon
+
+^ kurtz, howard (may 26, 2004). "n.y. times cites defects in its reports on iraq". the washington post. retrieved october 20, 2008.
+
+^ nytimes editorial (may 21, 2004), "friends like this", the new york times
+
+^ "jayson blair: a case study of what went wrong at the new york times". pbs newshour. december 10, 2004. archived from the original on august 19, 2008. retrieved september 15, 2008.
+
+^ taylor, stuart jr. (august 29, 2006). "witness for the prosecution? – the new york times is still victimizing innocent dukies". slate. retrieved december 28, 2012.
+
+^ a b stuart taylor jr. & kc johnson (2007). until proven innocent: political correctness and the shameful injustices of the duke lacrosse rape case. thomas dunne books.cs1 maint: uses authors parameter (link)
+
+^ smalley, suzanne (may 18, 2010). "would bloggers have cracked chandra's case?". newsweek. retrieved september 8, 2010.
+
+^ matt viser (september 2003). "attempted objectivity: an analysis of the new york times and ha'aretz and their portrayals of the palestinian-israeli conflict". the international journal of press/politics. 8 (4): 114–120. doi:10.1177/1081180x03256999. this study explores the biases, pro-israeli and pro-palestinian, by looking at quantitative indicators of news coverage in the new york times and ha'aretz. several time periods were examined (1987–88, 2000–01, and post-september 11, 2001), using multiple indicators. by these measures, the new york times is more favorable toward the israelis than the palestinians, and the partiality has become more pronounced with time.
+
+^ zelizer, barbie; park, david; gudelunas, david (december 2002). "how bias shapes the news: challenging the new york times' status as a newspaper of record on the middle east". journalism. 3 (3): 283–307. doi:10.1177/146488490200300305.
+
+^ as`ad abukhalil (december 31, 2008). "a new low for the new york times: ethan bronner on gaza". pressaction.com. archived from the original on july 20, 2009. retrieved april 16, 2010.
+
+^ ed koch (june 1, 2006). "the new york times' anti-israel bias". real clear politics.
+
+^ "editorial bias is also found in papers like the new york times. the new york times occasionally criticizes israeli policies and sometimes concedes that the palestinians have legitimate grievances, but it is not even‐handed." mearsheimer and walt paper hosted at university of chicago "the israel lobby and u.s. foreign policy", kennedy school of government working paper no. rwp06-011 (pdf format).
+
+^ "jewish groups slam 'hideously anti-semitic' cartoon on gaza". haaretz. march 26, 2009.
+
+^ לאון, אלי. ""מתחרט על ניסוח הביקורת על נאום רה"מ בקונגרס"". ישראל היום. retrieved december 18, 2011.
+
+^ hoyt, clark (january 10, 2009). "standing between enemies". the new york times.
+
+^ baron, zach. "the sri lankan government's war with m.i.a. continues". the village voice. archived from the original on september 3, 2009. retrieved april 7, 2009.
+
+^ fuller, thomas (february 11, 2009). "the dissonant undertones of m.i.a". the new york times.
+
+^ "the 31 places to go in 2010". the new york times. january 10, 2010.
+
+^ escobedo shepherd, julianne (january 13, 2010). "that new mia track is actually a protest song called 'space odyssey'". the fader. retrieved may 26, 2010.
+
+^ hirschberg, lynn (may 25, 2010). "m.i.a.'s agitprop pop". the new york times magazine.
+
+^ montgomery, james (june 3, 2010). "m.i.a. quotes were out of context, ny times editor's note says – paper's website now concedes that two quotes in controversial feature were rearranged". mtv news. retrieved december 28, 2012.
+
+^ empire, kitty (july 10, 2010). "mia: /\/\ /\ y /\". the observer. retrieved december 28, 2012.
+
+^ dolan, jon (july 20, 2010). "understanding m.i.a.: 5 things you need to know". spin. retrieved july 22, 2010.
+
+^ grieve, tim (august 14, 2006). "what the times knew, and when it knew it". salon. retrieved july 26, 2014.
+
+^ "ny times, justice dept. under fire for concealing info on nsa snooping". rt. may 14, 2014. retrieved july 18, 2014.
+
+^ sullivan, margaret (november 9, 2013). "lessons in a surveillance drama redux". the new york times. retrieved july 18, 2014.
+
+^ folkenflik, david (june 5, 2014). "'new york times' editor: losing snowden scoop 'really painful'". npr. retrieved july 18, 2014.
+
+^ adam nagourney, mitch smith and quentin hardy, "deaths of irish students in berkeley balcony collapse cast pall on program", new york times, june 16, 2015.
+
+^ terry prone: "the 'new york times' apology was a sorry attempt to right a wrong", irish examiner, june 22, 2015.
+
+^ nir, sarah maslin (may 7, 2015). "the price of nice nails". the new york times. issn 0362-4331. retrieved november 4, 2015.
+
+^ nir, sarah maslin (may 8, 2015). "perfect nails, poisoned workers". the new york times. issn 0362-4331. retrieved november 4, 2015.
+
+^ "cuomo orders emergency measures to protect workers at nail salons". the new york times. may 11, 2015. retrieved december 5, 2015  – via new york times.
+
+^ richard bernstein (july 25, 2015). "what the 'times' got wrong about nail salons". the new york review of books. retrieved december 5, 2015.
+
+^ "rebuttal to the nyrb's article on nyt nail salon series – the new york times company". july 28, 2015. retrieved december 5, 2015.
+
+^ sullivan, margaret (july 29, 2015). "criticism of 'unvarnished' brings a strong times defense".
+
+^ sage lazzaro (september 21, 2015). "nail salon industry stages protest outside nyt building". observer. retrieved december 5, 2015.
+
+^ helen holmes. "here's why hundreds of nail salon owners are protesting the new york times". jezebel. retrieved december 5, 2015.
+
+^ "the new york times' nail salons series was filled with misquotes and factual errors. here's why that matters. (part 1)". reason. october 27, 2015. retrieved december 5, 2015.
+
+^ "how the new york times' flawed reporting on nail salons closed opportunities for undocumented immigrants (part 2)". reason. october 28, 2015. retrieved december 5, 2015.
+
+^ "the new york times says working in nail salons causes cancer and miscarriages. the evidence says otherwise. (part 3)". reason. october 29, 2015. retrieved december 5, 2015.
+
+^ "new questions on nail salon investigation, and a times response". public editor's journal. november 6, 2015. retrieved november 17, 2015.
+
+^ hearns-branaman, jesse owen (2017). "official enemies in commercial and soft power media". journalism studies. 18 (4): 449–469. doi:10.1080/1461670x.2015.1074865.
+
+^ hannon, elliot (april 28, 2016). "new york times ceo sued for allegedly promoting age, gender, and racial discrimination". slate.
+
+^ a b rupert neate (april 28, 2016). "new york times boss sued over alleged ageist, racist and sexist hiring practices". the guardian.
+
+^ a b spayd, liz (july 23, 2016). "why readers see the times as liberal". the new york times. issn 0362-4331. retrieved february 28, 2017.
+
+^ brisbane arthur s., (august 25, 2012) success and risk as the times transforms.
+
+^ okrent daniel, (july 25, 2004) public editor; is the new york times a liberal newspaper? (nyt article).
+
+^ maggie coughlan (march 13, 2017). "'failing nyt' editor: trump just wants our approval". new york post. trump has infamously dubbed the newspaper the "failing new york times" in a series of tweets that began as early as november 2015
+
+^ michelle fox (february 2, 2017). "the new york times not 'failing,' trump taken in by 'fake news,' nyt ceo says". cnbc.
+
+^ chris d'angelo, the 'failing' new york times reports record digital growth, huffington post (february 2, 2017).
+
+^ joe pompeo, new york times ceo takes on trump's 'failing' claims, politico (february 2, 2017).
+
+^ "how the 'new york times' sandbagged bernie sanders". rolling stone. retrieved january 25, 2017.
+
+^ sullivan, margaret (september 9, 2016). "has the times dismissed bernie sanders?". new york times public editor's journal.
+
+^ margaret sullivan, times senior editor carolyn ryan on sanders coverage, the new york times (september 9, 2015).
+
+^ scholarly vs. popular sources, yale center for teaching and learning, yale university (last accessed february 8, 2017).
+
+^ a b daniel de vise, what if the rankers ranked newspapers?, (october 4, 2011).
+
+^ jessica bennett, inside the new york times' photo morgue, a possible new life for print, wnyc news (may 7, 2012).
+
+^ the listening post. noam chomsky's manufacturing consent revisited. al-jazeera. december 22, 2018
+
+^ a b "further decline in credibility ratings for most news organizations". pew research center for the people and the press. august 16, 2012.
+
+^ brooke gladstone (december 21, 2015). "'trust' in the news media has come to mean affirmation". the new york times.
+
+^ "pulitzer prizes – the new york times company". the new york times company. retrieved june 23, 2015.
+
+^ unruh, wes (september 15, 2014). "a short history of the new york times' peabody awards". peadbodyawards.com.
+
+
+further reading
+davis, elmer holmes (1921). history of the new york times, 1851–1921. the new york times.
+durham, meenakshi g. (february 2013). "vicious assault shakes texas town: the politics of gender violence in the new york times' coverage of a schoolgirl's gang rape". journalism studies. 14 (1): 1–12. doi:10.1080/1461670x.2012.657907.
+knox, edward c. (2002). "the "new york times" looks at france". the french review. 75 (6): 1172–1180. jstor 3132941.
+leff, laurel (march 1, 2000). "a tragic "fight in the family": the new york times, reform judaism and the holocaust". american jewish history. 88 (1): 3–51. doi:10.1353/ajh.2000.0016. issn 1086-3141.
+schwarz, daniel r. (2012). endtimes? : crises and turmoil at the new york times, 1999-2009. albany: excelsior editions. isbn 978-1438438962. oclc 802059662.
+salisbury, harrison e. (1980). without fear or favor: the new york times and its times (first ed.). new york: times books. isbn 9780812908855.
+taylor, s. j. (march 29, 1990). stalin's apologist: walter duranty: the new york times's man in moscow (1st ed.). new york u.a: oxford university press. isbn 9780195057003.
+external links
+
+new york timesat wikipedia's sister projects
+
+
+definitions from wiktionary
+media from wikimedia commons
+news from wikinews
+quotations from wikiquote
+texts from wikisource
+textbooks from wikibooks
+resources from wikiversity
+
+
+
+official website (mobile)
+the new york times company
+curated collection of most pre-1923 issues at online books page
+the new york times company records (1836–2000) – the new york public library
+works by or about the new york times at internet archive (archives)
+works by the new york times at librivox (public domain audiobooks) 
+vtecurrent white house james s. brady press briefing room seating chartrowpodium
+1 2 3 4 5 6 7
+
+
+nbc wall street journal agence france-presse msnbc bloomberg bna washington examiner univision
+
+
+fox news cbs radio ap radio foreign pool time yahoo! news dallas morning news
+
+
+cbs news bloomberg mcclatchy washington times siriusxm salem radio globe/roll call
+
+
+ap npr aurn the hill regionals newsmax cbn
+
+
+abc news washington post politico fox news radio csm/ny post daily mail bbc/oan
+
+
+reuters ny times chicago tribune voa realclearpolitics huffpost/ny daily news buzzfeed/daily beast
+
+
+cnn usa today abc radio national journal al jazeera/pbs westwood one financial times/guardian
+
+white house correspondents' association
+vtethe new york times companychairman of the boardarthur ochs sulzberger jr.executives
+mark thompson (president and ceo)
+dean baquet
+james bennet
+meredith kopit levien
+arthur gregg sulzberger
+joseph kahn
+newspapers
+the new york times
+the new york times international edition
+the new york times international weekly
+magazines
+the new york times magazine
+the new york times book review
+t: the new york times style magazine
+other assets
+the daily
+donohue malbaie inc.
+the new york times syndicate & news service
+the takeaway
+times books
+the wirecutter
+full list
+publishers
+adolph ochs
+arthur hays sulzberger
+orvil dryfoos
+arthur ochs sulzberger
+arthur ochs sulzberger jr.
+headquarters
+new york times building (41 park row) (1889–1903)
+one times square (1903–1913)
+the times square building (1913–2007)
+the new york times building (2007–present)
+related articles
+pulitzer prizes awarded to the new york times staff
+the new york times best seller list
+list of employees
+controversies
+carlos slim (largest shareholder)
+
+vtegerald loeb awards for deadline and beat reportinggerald loeb award for deadline and/or beat writing (1984–2000)(1984-1989)
+al delugach (1984 shared)
+ronald soble (1984 shared)
+robert j. cole (1985)
+laura landro (1986)
+daniel hertzberg (1987 shared)
+james b. stewart (1987 shared)
+ralph vartabedian (1988)
+john helyar (1989 shared)
+bryan burrough (1989 shared)
+thomas petzinger jr. (hm) (1989 shared)
+paulette thomas (hm) (1989 shared)
+(1990-1999)
+kathryn harris (1990 shared)
+paul richter (1990 shared)
+neil barsky (1991)
+alan murray (1992)
+joseph b. white (1993 shared)
+paul ingrassia (1993 shared)
+kathryn harris (1994)
+michael siconolfi (1995)
+laura jereski (1995)
+geraldine fabrikant (1996)
+scott thurm (1997)
+alix m. freedman (1998 shared)
+suein l. hwang (1998 shared)
+staff of the new york times (1999)
+(2000)
+ianthe jeanne dugan (2000)
+lawrence messina (hm) (2000)
+gerald loeb award for deadline or beat writing (2002)(2002)
+rebecca smith (2002 shared)
+john emshwiller (2002 shared)
+gerald loeb award for deadline writing (2003–2007)(2003–2007)
+rebecca blumenstein (2003 shared)
+gregory zuckerman (2003 shared)
+jared sandberg (2003 shared)
+shawn young (2003 shared)
+susan pulliam (2003 shared)
+deborah solomon (2003 shared)
+carrick mollenkamp (2003 shared)
+susanne craig (2004 shared)
+ianthe jeanne dugan (2004 shared)
+theo francis (2004 shared)
+kate kelly (2004 shared)
+andrew ross sorkin (2005 shared)
+steve lohr (2005 shared)
+david barboza (2005 shared)
+gary rivlin (2005 shared)
+john markoff (2005 shared)
+maureen milford (2006 shared)
+ted griffith (2006 shared)
+luladey b. tadesse (2006 shared)
+robin brown (2006 shared)
+gary soulsman (2006 shared)
+christopher yasiejko (2006 shared)
+michele besso (2006 shared)
+steven church (2006 shared)
+jeff montgomery (2006 shared)
+peter bothum (2006 shared)
+ann davis (2007 shared)
+henny sender (2007 shared)
+gregory zuckerman (2007 shared)
+gerald loeb award for beat writing (2001, 2003–2010)(2001)(2003–2009)
+rebecca smith (2001)
+stephen labaton (2003)
+j. lynn lunsford (2004 shared)
+andy pasztor (2004 shared)
+anne marie squeo (2004 shared)
+ellen e. schultz (2005 shared)
+theo francis (2005 shared)
+geeta anand (2006)
+heather landy (2007)
+kate kelly (2008 shared)
+serena ng (2008 shared)
+susanne craig (2008 shared)
+david reilly (2008 shared)
+charles duhigg (hm) (2008)
+rick rothacker (2009 shared)
+gretchen morgenson (2009 shared)
+(2010)
+ralph vartabedian (2010 shared)
+ken bensinger (2010 shared)
+gerald loeb award for beat reporting (2011–2018)(2011–2018)
+daniel golden (2011 shared)
+john hechinger (2011 shared)
+john lauerman (2011 shared)
+john fauber (2012)
+tom bergin (2013)
+ivan penn (2014)
+eric lipton (2015 shared)
+ben protess (2015 shared)
+nicholas confessore (2015 shared)
+brooke williams (2015 shared)
+john carreyrou (2016 shared)
+michael siconolfi (2016 shared)
+christopher weaver (2016 shared)
+david zahniser (2017 shared)
+emily alpert reyes (2017 shared)
+joe fox (2017 shared)
+len de groot (2017 shared)
+julia angwin (2018 shared)
+je larson (2018 shared)
+ariana tobin (2018 shared)
+madeleine varner (2018 shared)
+noam scheiber (2018 shared)
+hannes grassegger (2018 shared)
+
+vtepulitzer prize for breaking news reporting (1985–2000)
+thomas turcol (1985)
+edna buchanan (1986)
+akron beacon journal (1987)
+alabama journal/lawrence eagle-tribune (1988)
+louisville courier-journal (1989)
+san jose mercury news (1990)
+miami herald (1991)
+newsday (1992)
+los angeles times (1993)
+new york times (1994)
+los angeles times (1995)
+robert d. mcfadden (1996)
+newsday (1997)
+los angeles times (1998)
+hartford courant (1999)
+denver post (2000)
+
+complete list
+(1985–2000)
+(2001–2025)
+* from 1985 to 1990: pulitzer prize for general news reporting; from 1991 to 1997: pulitzer prize for spot news reporting; from 1998 to present: pulitzer prize for breaking news reporting
+
+
+vtepulitzer prize for breaking news reporting (2001–2025)
+miami herald (2001)
+wall street journal (2002)
+eagle-tribune (2003)
+los angeles times (2004)
+star-ledger (2005)
+times-picayune (2006)
+oregonian (2007)
+washington post (2008)
+new york times (2009)
+seattle times (2010)
+the tuscaloosa news (2012)
+the denver post (2013)
+the boston globe (2014)
+the seattle times (2015)
+los angeles times (2016)
+east bay times (2017)
+the press democrat (2018)
+
+complete list
+(1985–2000)
+(2001–2025)
+
+vtepulitzer prize for explanatory reportingas pulitzer prize for explanatory journalism (1985–1997)1985–1989)
+jon franklin (1985)
+staff of the new york times (1986)
+jeff lyon (1987 shared)
+peter gorne (1987 shared)
+daniel hertzberg (1988 shared)
+james b. stewart (1988 shared)
+david hanners (1989 shared)
+william snyder (1989 shared)
+karen blessen (1989 shared)
+1990–1999)
+david a. vise (1990 shared)
+steve coll (1990 shared)
+susan c. faludi (1991)
+robert s. capers (1992 shared)
+eric lipton (1992 shared)
+mike toner (1993)
+ronald kotulak (1994)
+leon dash (1995 shared)
+lucian perkins (1995 shared)
+laurie garrett (1996)
+michael vitez (1997 shared)
+april saul (1997 shared)
+ron cortes (1997 shared)
+as pulitzer prize for explanatory reporting (1998–2018)1998–1999)
+paul salopek (1998)
+richard read (1999)
+2000–2009)
+eric newhouse (2000)
+staff of the chicago tribune (2001)
+staff of the new york times (2002)
+staff of the wall street journal (2003)
+kevin helliker (2004 shared)
+thomas m. burton (2004 shared)
+gareth cook (2005)
+david finkel (2006)
+kenneth r. weiss (2007 shared)
+usha lee mcfarling (2007 shared)
+rick loomis (2007 shared)
+amy harmon (2008)
+bettina boxall (2009 shared)
+julie cart (2009 shared)
+2010–2018)
+michael moss (2010 shared)
+staff of the new york times (2010 shared)
+mark johnson (2011 shared)
+kathleen gallagher (2011 shared)
+gary porter (2011 shared)
+lou saldivar (2011 shared)
+alison sherwood (2011 shared)
+david kocieniewski (2012)
+staff of the new york times (2013 shared)
+david barboza (2013 shared)
+charles duhigg (2013 shared)
+david kocieniewski (2013 shared)
+steve lohr (2013 shared)
+john markoff (2013 shared)
+david segal (2013 shared)
+david streitfeld (2013 shared)
+hiroko tabuchi (2013 shared)
+bill vlasic (2013 shared)
+eli saslow (2014)
+zachary r. mider  (2015)
+t. christian miller (2016 shared)
+ken armstrong (2016 shared)
+international consortium of investigative journalists (2017 shared)
+mcclatchy (2017 shared)
+miami herald  (2017 shared)
+staff of the arizona republic (2018 shared)
+staff of usa today network (2018 shared)
+
+vtepulitzer prize for international reportingas pulitzer prize for telegraphic reporting - international (1942-1947)(1942–1947)
+laurence edmund allen (1942)
+ira wolfert (1943)
+daniel de luce (1944)
+mark s. watson (1945)
+homer bigart (1946)
+eddy gilmore (1947)
+as pulitzer prize for international reporting (1948-2018)(1948–1949)
+paul w. ward (1948)
+price day (1949)
+(1950–1959)
+edmund stevens (1950)
+keyes beech (1951 shared)
+homer bigart (1951 shared)
+marguerite higgins (1951 shared)
+relman morin (1951 shared)
+fred sparks (1951 shared)
+don whitehead (1951 shared)
+john m. hightower (1952)
+austin wehrwein (1953)
+jim g. lucas (1954)
+harrison e. salisbury (1955)
+william randolph hearst jr. (1956 shared)
+j. kingsbury-smith (1956 shared)
+frank conniff (1956 shared)
+russell jones (1957)
+staff of the new york times (1958)
+joseph martin (1959 shared)
+philip santora (1959 shared)
+(1960–1969)
+a. m. rosenthal (1960)
+lynn heinzerling (1961)
+walter lippmann (1962)
+hal hendrix (1963)
+malcolm w. browne (1964 shared)
+david halberstam (1964 shared)
+j. a. livingston (1965)
+peter arnett (1966)
+r. john hughes (1967)
+alfred friendly (1968)
+william tuohy (1969)
+(1970–1979)
+seymour m. hersh (1970)
+jimmie lee hoagland (1971)
+peter r. kann (1972)
+max frankel (1973)
+hedrick smith (1974)
+william mullen (1975 shared)
+ovie carter (1975 shared)
+sydney h. schanberg (1976)
+henry kamm (1978)
+richard ben cramer (1979)
+(1980–1989)
+joel brinkley (1980 shared)
+jay mather (1980 shared)
+shirley christian (1981)
+john darnton (1982)
+thomas l. friedman (1983 shared)
+loren jenkins (1983 shared)
+karen elliott house (1984 shared)
+josh friedman (1985 shared)
+dennis bell (1985 shared)
+ozier muhammad (1985 shared)
+lewis m. simons (1986 shared)
+pete carey (1986 shared)
+katherine ellison (1986 shared)
+michael parks (1987)
+thomas l. friedman (1988)
+bill keller (1989 shared)
+glenn frankel (1989 shared)
+(1990–1999)
+nicholas d. kristof (1990 shared)
+sheryl wudunn (1990 shared)
+caryle murphy (1991 shared)
+serge schmemann (1991 shared)
+patrick j. sloyan (1992)
+john f. burns (1993 shared)
+roy gutman (1993 shared)
+staff of the dallas morning news (1994)
+mark fritz (1995)
+david rohde (1996)
+john f. burns (1997)
+staff of the new york times (1998)
+staff of the wall street journal (1999)
+(2000–2009)
+mark schoofs (2000)
+ian denis johnson (2001 shared)
+paul salopek (2001 shared)
+barry bearak (2002)
+kevin sullivan (2003 shared)
+mary jordan (2003 shared)
+anthony shadid (2004)
+kim murphy (2005 shared)
+dele olojede (2005 shared)
+joseph kahn (2006 shared)
+jim yardley (2006 shared)
+staff of the wall street journal (2007)
+steve fainaru (2008)
+staff of the new york times (2009)
+(2010-2018)
+anthony shadid (2010)
+clifford j. levy (2011 shared)
+ellen barry (2011 shared)
+jeffrey gettleman (2012)
+david barboza (2013)
+jason szep (2014 shared)
+andrew r. c. marshall (2014 shared)
+staff of the new york times (2015)
+alissa j. rubin (2016)
+staff of the new york times (2017)
+clare baldwin (2018 shared)
+andrew r.c. marshall (2018 shared)
+manuel mogato (2018 shared)
+
+vtepulitzer prize for national reportingas pulitzer prize for telegraphic reporting – national (1942-1947)(1942–1947)
+louis stark (1942)
+dewey l. fleming (1944)
+james reston (1945)
+edward a. harris (1946)
+edward t. folliard (1947)
+as pulitzer prize for national reporting (1948-2018)(1948–1949)
+bert andrews (1948 shared)
+nat s. finney (1948 shared)
+c. p. trussell (1949)
+(1950–1959)
+edwin o. guthman (1950)
+anthony leviero (1952)
+don whitehead (1953)
+richard wilson (1954)
+anthony lewis (1955)
+charles l. bartlett (1956)
+james reston (1957)
+clark mollenhoff (1958 shared)
+relman morin (1958 shared)
+howard van smith (1959)
+(1960–1969)
+vance trimble (1960)
+edward r. cony (1961)
+nathan g. caldwell (1962 shared)
+gene s. graham (1962 shared)
+anthony lewis (1963)
+merriman smith (1964)
+louis m. kohlmeier jr. (1965)
+haynes johnson (1966)
+stanley penn (1967 shared)
+monroe karmin (1967 shared)
+nathan k. (nick) kotz (1968 shared)
+howard james (1968 shared)
+robert cahn (1969)
+(1970–1979)
+william j. eaton (1970)
+lucinda franks  (1971)
+jack anderson (1972)
+robert boyd (1973 shared)
+clark hoyt (1973 shared)
+jack white (1974 shared)
+james r. polk (1974 shared)
+donald l. barlett (1975 shared)
+james b. steele (1975 shared)
+james risser (1976)
+walter mears (1977)
+gaylord d. shaw (1978)
+james risser (1979)
+(1980–1989)
+bette swenson orsini (1980 shared)
+charles stafford (1980 shared)
+john m. crewdson (1981)
+rick atkinson (1982)
+the boston globe (1983)
+john noble wilford (1984)
+thomas j. knudson (1985)
+craig flournoy (1986 shared)
+george rodrigues (1986 shared)
+arthur howe (1986 shared)
+staff of the miami herald (1987 shared)
+staff of the new york times (1987 shared)
+tim weiner (1988)
+donald l. barlett (1989 shared)
+james b. steele (1989 shared)
+(1990–1999)
+ross anderson (1990 shared)
+bill dietrich (1990 shared)
+mary ann gwinn (1990 shared)
+eric nalder (1990 shared)
+marjie lundstrom (1991 shared)
+rochelle sharpe (1991 shared)
+gannett news service (1991 shared)
+jeff taylor (1992 shared)
+mike mcgraw (1992 shared)
+the kansas city star (1992 shared)
+david maraniss (1993)
+eileen welsome (1994)
+tony horwitz (1995)
+alix m. freedman (1996)
+staff of the wall street journal (1997)
+russell carollo (1998 shared)
+jeff nesmith (1998 shared)
+staff of the new york times (1999)
+jeff gerth (1999)
+(2000–2009)
+staff of the wall street journal (2000)
+staff of the new york times (2001)
+staff of the washington post (2002)
+alan miller (2003 shared)
+kevin sack (2003 shared)
+staff of los angeles times (2004 shared)
+walt bogdanich (2005)
+james risen (2006 shared)
+eric lichtblau (2006 shared)
+staff of the san diego union-tribune (2006 shared)
+staff of copley news service (2006 shared)
+marcus stern (2006 shared)
+jerry kammer (2006 shared)
+charlie savage (2007)
+jo becker (2008 shared)
+barton gellman (2008 shared)
+staff of st. petersburg times (2009)
+(2010-2018)
+matt richtel (2010 shared)
+staff of the new york times  (2010 shared)
+jesse eisinger (2011 shared)
+jake bernstein (2011 shared)
+david wood (2012)
+lisa song (2013 shared)
+elizabeth mcgowan (2013 shared)
+david hasemyer (2013 shared)
+david philipps (2014)
+carol d. leonnig (2015)
+staff of the washington post (2016)
+david fahrenthold (2017)
+staff of the new york times  (2018 shared)
+staff of the washington post (2018 shared)
+
+vtepulitzer prize for public service1918–1925
+new york times (1918)
+milwaukee journal (1919)
+boston post (1921)
+new york world (1922)
+memphis commercial appeal (1923)
+new york world (1924)
+1926–1950
+columbus enquirer sun (1926)
+canton daily news (1927)
+indianapolis times (1928)
+new york evening world (1929)
+atlanta constitution (1931)
+indianapolis news (1932)
+new york world-telegram (1933)
+medford mail tribune (1934)
+the sacramento bee (1935)
+cedar rapids gazette (1936)
+st. louis post-dispatch (1937)
+bismarck tribune (1938)
+miami daily news (1939)
+waterbury republican & american (1940)
+st. louis post-dispatch (1941)
+los angeles times (1942)
+omaha world-herald (1943)
+new york times (1944)
+detroit free press (1945)
+scranton times (1946)
+baltimore sun (1947)
+st. louis post-dispatch (1948)
+nebraska state journal (1949)
+chicago daily news and st. louis post-dispatch (1950)
+1951–1975
+miami herald and brooklyn eagle (1951)
+st. louis post-dispatch (1952)
+whiteville news reporter (1953)
+newsday (1954)
+columbus ledger and sunday ledger-enquirer (1955)
+watsonville register-pajaronian (1956)
+chicago daily news (1957)
+arkansas gazette (1958)
+utica observer-dispatch and utica daily press (1959)
+los angeles times (1960)
+amarillo globe-times (1961)
+panama city news-herald (1962)
+chicago daily news (1963)
+st. petersburg times (1964)
+hutchinson news (1965)
+boston globe (1966)
+milwaukee journal (1967)
+riverside press-enterprise (1968)
+los angeles times (1969)
+newsday (1970)
+winston-salem journal (1971)
+the new york times (1972)
+washington post (1973)
+newsday (1974)
+boston globe (1975)
+1976–2000
+anchorage daily news (1976)
+lufkin daily news (1977)
+philadelphia inquirer (1978)
+point reyes light (1979)
+gannett news service (1980)
+charlotte observer (1981)
+detroit news (1982)
+jackson clarion-ledger (1983)
+los angeles times (1984)
+fort worth star-telegram (1985)
+denver post (1986)
+pittsburgh press (1987)
+charlotte observer (1988)
+anchorage daily news (1989)
+washington daily news / philadelphia inquirer (1990)
+des moines register (1991)
+sacramento bee (1992)
+miami herald (1993)
+akron beacon journal (1994)
+virgin islands daily news (1995)
+news & observer (1996)
+new orleans times-picayune (1997)
+grand forks herald (1998)
+washington post (1999)
+washington post (2000)
+2001–2025
+the oregonian (2001)
+the new york times (2002)
+the boston globe (2003)
+the new york times (2004)
+los angeles times (2005)
+biloxi sun herald and new orleans times-picayune (2006)
+the wall street journal (2007)
+the washington post (2008)
+las vegas sun (2009)
+bristol herald courier (2010)
+los angeles times (2011)
+the philadelphia inquirer (2012)
+fort lauderdale sun-sentinel (2013)
+the washington post and the guardian (2014)
+charleston post and courier (2015)
+associated press (2016)
+new york daily news and propublica (2017)
+the new york times and the new yorker (2018)
+
+complete list
+(1918–1925)
+(1926–1950)
+(1951–1975)
+(1976–2000)
+(2001–2025)
+
+vtepulitzer prize special citations and awards (journalism)
+frank i. cobb (1924 award to his widow)
+william o. dapping (1930)
+edmonton journal (1938)
+the new york times (1941)
+byron price (1944)
+american press cartographers (1945)
+st. louis post-dispatch (1947)
+cyrus leo sulzberger ii (1951)
+arthur krock (1951)
+max kase (1952)
+the kansas city star (1952)
+the new york times (1953)
+walter lippmann (1958)
+gannett newspapers (1964)
+richard strout (1978)
+herb caen (1996)
+
+complete list
+(journalism)
+(letters)
+(arts)
+(service)
+
+authority control 
+gnd: 4171689-9
+lccn: no2002041097
+sudoc: 027326403
+viaf: 186133057
+ worldcat identities (via viaf): 186133057
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=the_new_york_times&oldid=883988950"					
+categories: the new york times1851 establishments in new york (state)companies based in manhattandaily newspapers published in the united statesnational newspapers published in the united statesnewspapers published in new york citypeabody award winnerspublications established in 1851pulitzer prize-winning newspaperswebsites utilizing paywallsmissouri lifestyle journalism award winnerspulitzer prize for national reporting winnerspulitzer prize for international reporting winnerspulitzer prize for explanatory journalism winnersgerald loeb award winners for deadline and beat reportinghidden categories: pages with login required references or sourcescs1: julian–gregorian uncertaintyall articles with dead external linksarticles with dead external links from december 2017articles with permanently dead external linksarticles with dead external links from july 2018articles with dead external links from june 2016articles with dead external links from december 2016webarchive template wayback linkscs1 maint: uses authors parameterwikipedia indefinitely semi-protected pageswikipedia indefinitely move-protected pagesarticles with short descriptionuse mdy dates from january 2019pages using deprecated image syntaxarticles to be expanded from may 2017all articles to be expandedarticles using small message boxesall articles with unsourced statementsarticles with unsourced statements from december 2017articles containing potentially dated statements from may 2009all articles containing potentially dated statementsarticles containing potentially dated statements from march 2012articles containing potentially dated statements from october 2010articles with internet archive linksarticles with librivox linkswikipedia articles with gnd identifierswikipedia articles with lccn identifierswikipedia articles with sudoc identifierswikipedia articles with viaf identifierswikipedia articles with worldcat-viaf identifiers 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readview sourceview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commonswikinewswikisource 
+
+
+
+languages
+
+
+afrikaansالعربيةaragonésasturianuazərbaycancaবাংলাbân-lâm-gúбеларускаяभोजपुरीбългарскиboarischbosanskibrezhonegcatalàчӑвашлаčeštinacymraegdanskdeutscheestiελληνικάespañolesperantoeuskaraفارسیføroysktfrançaisfryskgaeilgegalego한국어հայերենहिन्दीhrvatskibahasa indonesiainterlinguaíslenskaitalianoעבריתქართულიқазақшаkiswahilikurdîlatinalatviešulëtzebuergeschlietuviųmagyarмакедонскиമലയാളംमराठीbahasa melayunederlandsनेपाल भाषा日本語norsknorsk nynorskoccitanoʻzbekcha/ўзбекчаਪੰਜਾਬੀpiemontèispolskiportuguêsromânăрусскийсаха тылаscotsshqipsicilianusimple englishslovenčinaslovenščinaکوردیсрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskaதமிழ்ไทยтоҷикӣtürkçeукраїнськаاردوtiếng việtייִדישyorùbá粵語zazaki中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 18 february 2019, at 21:34 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"2.796","walltime":"3.208","ppvisitednodes":{"value":15509,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":710623,"limit":2097152},"templateargumentsize":{"value":14490,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":28,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":731622,"limit":5000000},"entityaccesscount":{"value":5,"limit":400},"timingprofile":["100.00% 2562.113      1 -total"," 58.03% 1486.920      2 template:reflist"," 24.22%  620.499    113 template:cite_news"," 15.00%  384.275     85 template:cite_web","  5.67%  145.263      1 template:infobox_newspaper","  5.15%  131.998      1 template:infobox","  4.58%  117.334     23 template:navbox","  4.50%  115.302     19 template:cite_book","  3.18%   81.509      2 template:efn","  2.38%   60.861      7 template:cite_journal"]},"scribunto":{"limitreport-timeusage":{"value":"1.398","limit":"10.000"},"limitreport-memusage":{"value":13485483,"limit":52428800}},"cachereport":{"origin":"mw1263","timestamp":"20190218213440","ttl":86400,"transientcontent":true}}});mw.config.set({"wgbackendresponsetime":136,"wghostname":"mw1250"});});
+
+

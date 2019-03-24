@@ -1,0 +1,605 @@
+
+
+
+
+superpower - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"superpower","wgtitle":"superpower","wgcurrevisionid":883493173,"wgrevisionid":883493173,"wgarticleid":61398,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["cs1 maint: bot: original-url status unknown","cs1 errors: external links","webarchive template wayback links","articles with short description","wikipedia articles needing context from march 2016","all articles with unsourced statements","articles with unsourced statements from august 2008","commons category link is on wikidata","superpowers","military terminology","international relations","hegemony","international relations theory","states by power status","political science terminology","words coined in the 1940s","political terminology"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"superpower","wgrelevantarticleid":61398,"wgrequestid":"xgcnigpaad4aaaxrwq0aaaav","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q1489259","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+superpower 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+this article is about the geographic and political term. for the powers of superheroes, see superpower (ability). for other uses, see superpower (disambiguation).
+very powerful nationthis article focuses too much on specific examples without explaining their importance to its main subject. please help improve this article by citing reliable, secondary sources that evaluate and synthesize these or similar examples within a broader context. (march 2016)
+ u.s. president ronald reagan and soviet general secretary mikhail gorbachev, the leaders of the cold war's rival superpowers, meeting in geneva, switzerland in november 1985
+a superpower is a state with a dominant position characterised by its extensive ability to exert influence or project power on a global scale. this is done through the combined-means of economic, military, technological, and cultural strength, as well as diplomatic and soft power influence. traditionally, superpowers are preeminent among the great powers.
+the term was first applied post world war ii to the united states and the soviet union. for the duration of the cold war the united states and the soviet union came to be generally regarded as the two remaining superpowers, dominating world affairs. at the end of the cold war and the dissolution of the soviet union in 1991, only the united states appeared to be the world's superpower.[1][2][3]
+alice lyman miller defines a superpower as "a country that has the capacity to project dominating power and influence anywhere in the world, and sometimes, in more than one region of the globe at a time, and so may plausibly attain the status of global hegemony."[4]
+
+contents
+
+1 terminology and origin
+2 history
+
+2.1 superpowers of the past
+2.2 cold war
+
+
+3 post–cold war era
+
+3.1 potential superpowers
+
+
+4 see also
+5 references
+6 bibliography
+7 external links
+
+
+terminology and origin[edit]
+ a world map in 1945. according to william t.r. fox, the united states (blue), the soviet union (red) and the british empire (teal) were superpowers.
+ countries with united states military bases and facilities. the united states remains the world's sole superpower.
+no agreed definition of what is a 'superpower' exists, and may differ between sources.[2] however, a fundamental characteristic that is consistent with all definitions of a superpower is a nation or state that has mastered the seven dimensions of state power: geography, population, economy, resources, military, diplomacy and national identity.[5]
+the term was first used to describe nations with greater than great power status as early as 1944, but only gained its specific meaning with regard to the united states and the soviet union after world war ii. this was because the united states and the soviet union had proved themselves to be capable of casting great influence in global politics and military dominance. the term in its current political meaning was coined by dutch-american geostrategist nicholas spykman in a series of lectures in 1943 about the potential shape of a new post-war world order. this formed the foundation for the book the geography of the peace, which referred primarily to the unmatched maritime global supremacy of the british empire and united states as essential for peace and prosperity in the world.
+a year later, in 1944, william t. r. fox, an american foreign policy professor, elaborated on the concept in the book the superpowers: the united states, britain and the soviet union — their responsibility for peace, which spoke of the global reach of a super-empowered nation.[6] fox used the word superpower to identify a new category of power able to occupy the highest status in a world in which, as the war then raging demonstrated, states could challenge and fight each other on a global scale. according to him, there were (at that moment) three states that were superpowers: the united kingdom, the united states, and the soviet union. the british empire was the most extensive empire in world history and considered the foremost great power, holding sway over 25% of the world's population[7] and controlling about 25% of the earth's total land area, while the united states and the soviet union grew in power before and during world war ii.
+according to lyman miller, "the basic components of superpower stature may be measured along four axes of power: military, economic, political, and cultural (or what political scientist joseph nye has termed “soft power”)".[4]
+in the opinion of kim richard nossal of queen's university in canada, "generally this term was used to signify a political community that occupied a continental-sized landmass, had a sizable population (relative at least to other major powers); a superordinate economic capacity, including ample indigenous supplies of food and natural resources; enjoyed a high degree of non-dependence on international intercourse; and, most importantly, had a well-developed nuclear capacity (eventually normally defined as second strike capability)."[2]
+in the opinion of professor paul dukes, "a superpower must be able to conduct a global strategy including the possibility of destroying the world; to command vast economic potential and influence; and to present a universal ideology". although, "many modifications may be made to this basic definition".[8] according to professor june teufel dreyer, "a superpower must be able to project its power, soft and hard, globally."[9] in his book, superpower: three choices for america's role in the world, dr. ian bremmer, president of the eurasia group, argues that a superpower is "a country that can exert enough military, political, and economic power to persuade nations in every region of the world to take important actions they would not otherwise take."[10]
+
+history[edit]
+superpowers of the past[edit]
+ major economies from 1 ad to 2003 ad according to angus maddison's estimates[11]
+there have been many attempts by historians to apply the term superpower retrospectively, and sometimes very loosely, to a variety of entities in the past. recognition by historians of these older states as superpowers may focus on various superlative traits exhibited by them. examples of these ancient or historical superpowers include the british empire,[6] ancient egypt,[12] the hittite empire,[13] the median empire, the achaemenid empire,[14] the parthian empire,[15][16] the sassanian empire,[17][18][19] the safavid empire, the afsharid empire,[20][21] the hellenistic empire of alexander the great,[22] the roman empire,[23] the maurya empire,[24][25] the byzantine empire, the russian empire, the han empire, the tang empire,[26] the rashidun caliphate, the umayyad caliphate,[27] the abbasid caliphate, the mongol empire, the ottoman empire,[28] the spanish empire,[29] and the first french empire of napoleon.[30]
+according to historical statistics and research from the oecd, until the early modern period, western europe, china, and india accounted for roughly ​2⁄3 of the world's gdp.[31]
+
+cold war[edit]
+main article: cold war
+ this map shows two essentially global spheres during the cold war in 1980.   nato member states   other allies of the u.s. and nato × anti-communist guerrillas   warsaw pact member states   socialist country allied with the warsaw pact   other allies of the ussr × communist guerrillas   socialist country not allied with the ussr and the warsaw pact   neutral nations × other conflicts
+the 1956 suez crisis suggested that britain, financially weakened by two world wars, could not then pursue its foreign policy objectives on an equal footing with the new superpowers without sacrificing convertibility of its reserve currency as a central goal of policy.[32] as the majority of world war ii had been fought far from its national boundaries, the united states had not suffered the industrial destruction nor massive civilian casualties that marked the wartime situation of the countries in europe or asia. the war had reinforced the position of the united states as the world's largest long-term creditor nation[33] and its principal supplier of goods; moreover it had built up a strong industrial and technological infrastructure that had greatly advanced its military strength into a primary position on the global stage.[34] despite attempts to create multinational coalitions or legislative bodies (such as the united nations), it became increasingly clear that the superpowers had very different visions about what the post-war world ought to look like, and after the withdrawal of british aid to greece in 1947, the united states took the lead in containing soviet expansion in the cold war.[35]
+the two countries opposed each other ideologically, politically, militarily, and economically. the soviet union promoted the ideology of communism: planned economy and a one-party state, whilst the united states promoted the ideologies of liberal democracy and the free market. this was reflected in the warsaw pact and nato military alliances, respectively, as most of europe became aligned with either the united states or the soviet union. these alliances implied that these two nations were part of an emerging bipolar world, in contrast with a previously multipolar world.[citation needed]
+the idea that the cold war period revolved around only two blocs, or even only two nations, has been challenged by some scholars in the post–cold war era, who have noted that the bipolar world only exists if one ignores all of the various movements and conflicts that occurred without influence from either of the two superpowers.[36] additionally, much of the conflict between the superpowers was fought in "proxy wars", which more often than not involved issues more complex than the standard cold war oppositions.[37]
+after the soviet union disintegrated in the early 1990s, the term hyperpower began to be applied to the united states, as the sole remaining superpower of the cold war era.[2] this term, popularized by french foreign minister hubert védrine in the late 1990s, is controversial and the validity of classifying the united states in this way is disputed. one notable opponent to this theory, samuel p. huntington, rejects this theory in favor of a multipolar balance of power. other international relations theorists, such as henry kissinger, theorize that because the threat of the soviet union no longer exists to formerly american-dominated regions such as western europe and japan, american influence is only declining since the end of the cold war, because such regions no longer need protection or have necessarily similar foreign policies as the united states.[38]
+the soviet union and the united states fulfilled the superpower criteria in the following ways:
+
+
+
+
+
+
+ soviet union
+
+ united states
+
+
+demography
+
+had a population of 286.7 million in 1989, the third largest on earth behind china and india.[39]
+
+had a population of 248.7 million in 1990, at that time the fourth largest on earth behind china, india and the soviet union.[40]
+
+
+geography
+
+largest state in the world (actually a federal superstate), with a surface area of 22,270,000 km2 (8,600,000 sq mi).[39]
+
+fourth largest country in the world, with an area of 9,147,593 km2 (3,531,905 sq mi).[41]
+
+
+economy
+
+gnp of $2.7 trillion in 1990 (equivalent to $5.2 trillion in 2018). second largest economy in the world.[42] enormous mineral energy resources and fuel supply. generally self-sufficient using a minimal amount of imports, though suffered resource inadequacies such as in agriculture. marxist economic theory based primarily on production: large-scale industrial production directed by centralised state organs leading to a high degree of inefficiency. five-year plans frequently used to accomplish economic goals. economic benefits such as guaranteed employment, free healthcare, free education provided to all levels of society, though were frequently below western standards such as in health care. economy tied to central and eastern-european satellite states.
+
+gnp of $5.2 trillion in 1990 (equivalent to $10.0 trillion in 2018). largest economy in the world.[42] capitalist free market economic theory based on supply and demand: production determined by customers' demands, though it also included rising income inequality since 1979.[43] enormous industrial base and a large and modernized farming industry. large volume of imports and exports. large resources of minerals, energy resources, metals, and timber. high standard of living with accessibility to many manufactured goods. home to a multitude of the largest global corporations. u.s. dollar served as the dominant world reserve currency under bretton woods conference. allied with g7 major economies. supported allied countries' economies via such programmes as the marshall plan.
+
+
+politics
+
+strong communist state with extensive secret police apparatus, organized under a quasi-parliamentary system with strong fusion of powers, with checks and balances for both the executive and (unusually) the judiciary primarily based on commanding the legislature's confidence. the supreme soviet enjoyed de facto parliamentary sovereignty, despite a written constitution and nominal federalism, as no court was vested with judicial review. no formal office of president has existed; the standing legislature also served as a collective head of state. the only national-level popular elections were the quinquennial elections to the supreme soviet, which were yes-or-no votes on candidates handpicked beforehand. however, radical government reforms in 1989 introduced competitive elections, a directly-elected executive president and a constitutional court, both having rudimentary separation of powers from the existing components of the system. one-party system with the far-left communist party having an institutionalized monopoly of power. permanent seat on the united nations security council.
+
+strong capitalist constitutional republic, organized under a presidential system with strong separation of powers, with a complicated system of checks and balances exercised between the legislature, the executive, and the judiciary. the legislative powers of the united states congress were limited both by the written constitution and by the federal nature of the national government. despite the lack of a dedicated constitutional court, judicial review of laws has been vested in the supreme court by judicial precedent. the president was not only head of state, but also head of government, and his cabinet was not required to command congressional confidence. the only national popular elections were the biennial congressional elections; however the quadrennial presidential election has de facto changed from an indirect election by an electoral college into a direct, though weighted, popular election. two-party system between left-wing democrats and right-wing republicans. permanent seat on the united nations security council plus two allies (france and the uk) with permanent seats.
+
+
+foreign relations
+
+strong ties with central and eastern europe, countries in latin america, southeast asia, and africa. also had an alliance with china up until 1961. supported communist and socialist countries around the world.
+
+strong ties with western europe, some countries in latin america, the commonwealth of nations, and several east asian countries. supported democracies and anti-communist dictatorships around the world.
+
+
+military
+
+possessed largest armed forces and air force in the world, and the second of the world's largest navies. possessed bases around the world. held the world's largest stockpile of nuclear weapons for the second half of the cold war. founder of warsaw pact with satellite states in central and eastern europe. global intelligence network with the gru and the first chief directorate of the kgb. ties with paramilitary and guerrilla groups in the developing world. large arms industry production with global distribution.
+
+highest military expenditure in the world,[44] with the world's largest navy surpassing the next 13 largest navies combined,[45][46] and an army and air force rivaled only by that of the soviet union. possessed bases around the world, particularly in an incomplete "ring" bordering the warsaw pact to the west, south and east. largest nuclear arsenal in the world during the first half of the cold war. powerful military allies in western europe (nato) with their own nuclear capabilities. global intelligence networks with the united states intelligence community (ic). ties with paramilitary and guerrilla groups in the developing world. large armament production through defense contractors along with its developed allies for the global market.
+
+
+media
+
+constitutional guarantees for freedom of speech and freedom of the press were made conditional both for fulfilling one's citizen's duties and for conformity with the interests of the government, thereby turning them into effective dead letters. press explicitly controlled and censored. promoted, through the use of propaganda, its communist and socialist ideal that workers of all countries should unite to overthrow capitalist society and what they called the dictatorship of the bourgeoisie and replace it with a socialist society where all means of production are publicly owned.
+
+maintained constitutional guarantees for freedom of speech and freedom of the press, though the ongoing cold war did lead to a degree of censorship, particularly during the vietnam war and the second red scare when censorship was the heaviest.
+
+
+culture
+
+rich tradition in literature, film, classical music, and ballet.
+
+rich tradition and worldwide cultural influence in music, literature, film, television, cuisine, art, and fashion.
+
+
+post–cold war era[edit]
+ the new york stock exchange trading floor. economic power such as a large nominal gdp and a world reserve currency are important factors in projection of hard power.
+after the dissolution of the soviet union in 1991 which ended the cold war, the post–cold war world has in the past been considered by some to be a unipolar world,[47][48] with the united states as the world's sole remaining superpower.[49] in 1999, samuel p. huntington wrote, "the united states, of course, is the sole state with preeminence in every domain of power – economic, military, diplomatic, ideological, technological, and cultural – with the reach and capabilities to promote its interests in virtually every part of the world." however, he rejected the claim that the world was unipolar: "there is now only one superpower. but that does not mean that the world is unipolar," describing it instead as "a strange hybrid, a uni-multipolar system with one superpower and several major powers." he further wrote that "washington is blind to the fact that it no longer enjoys the dominance it had at the end of the cold war. it must relearn the game of international politics as a major power, not a superpower, and make compromises."[50]
+experts argue that this older assessment of global politics is too simplified, in part because of the difficulty in classifying the european union at its current stage of development. others argue that the notion of a superpower is outdated, considering complex global economic interdependencies, and propose that the world is multipolar.[51][52][53][54]
+a 2012 report by the national intelligence council said that america's superpower status will have eroded to merely being first among equals by 2030, but that the us would remain highest among the world's most powerful countries because of its influence in many different fields and global connections that the great regional powers of the time would not match.[55] additionally, some experts have suggested the possibility of the united states losing its superpower status completely in the future. citing speculation of the united states relative decline in power to the rest of the world, economic hardships, a declining dollar, cold war allies becoming less dependent on the united states and the emergence of future powers around the world.[56][57][58][59]
+some people doubt the existence of superpowers in the post–cold war era altogether, stating that today's complex global marketplace and the rising interdependency between the world's nations has made the concept of a superpower an idea of the past and that the world is now multipolar. however, while the military dominance of the united states remains unquestioned for now and its international influence has made it an eminent world power, countries such as china, india, brazil and russia are inventing new ways to counter us military supremacy (namely space) and are making great strides in science, literature, soft power, and diplomacy.[51][52][53][54]
+
+potential superpowers[edit]
+main article: potential superpowers
+ a map showing the united states as the current superpower, along with other political entities that have varying degrees of academic support as potential superpowers    brazil   china   european union   india   russia   united states
+the term 'potential superpowers' has been applied by scholars and other qualified commentators to the possibility of several states achieving superpower status in the 21st century. due to their large markets, growing military strength, economic potential, and influence in international affairs, china,[60][61][62] the european union,[63][64] india,[65] and russia[66] are among the political entities most cited as having the potential of achieving superpower status in the 21st century. many historians, writers, and critics have expressed doubts, however, whether any of these countries would ever emerge as a new superpower.[67][68] some political scientists and other commentators have even suggested that such countries might simply be emerging powers, as opposed to potential superpowers.[69]
+besides those mentioned above, a limited number of observers have also discussed, though ultimately dismissed, brazil having the potential to emerge as a superpower.[70]
+the record of such predictions has admittedly not been perfect. for example, in the 1980s, some commentators thought japan would become a superpower, due to its large gdp and high economic growth at the time.[71] however, japan's economy crashed in 1991, creating a long period of economic slump in the country which has become known as the lost years. as of august 2012, japan had yet to fully recover from the 1991 crash.[72]
+
+see also[edit]
+
+
+international relations portal
+
+emerging power
+great power
+group of two
+hegemony
+international relations theory
+list of modern great powers
+middle power
+monroe doctrine
+nato
+shanghai cooperation organisation
+second superpower
+small power
+unipolarity
+hyperpower
+references[edit]
+
+
+^ bremer, ian (may 28, 2015). "these are the 5 reasons why the u.s. remains the world's only superpower". time..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ a b c d kim richard nossal. lonely superpower or unapologetic hyperpower? analyzing american power in the post–cold war era. biennial meeting, south african political studies association, 29 june-2 july 1999. retrieved 2007-02-28.
+
+^ from colony to superpower: u.s. foreign relations since 1776 (published 2008), by professor george c. herring (professor of history at kentucky university)
+
+^ a b miller, lyman. "www.stanford.edu". stanford.edu. retrieved 2010-08-27.
+
+^ the rise and fall of the great powers (1987) written by paul kennedy
+
+^ a b "china superpower" (pdf). retrieved 2010-08-27.
+
+^ angus maddison. the world economy: a millennial perspective (p. 98, 242). oecd, paris, 2001.
+
+^ "the superpowers – a short history". 8 december 2008. archived from the original on 8 december 2008.cs1 maint: bot: original-url status unknown (link)
+
+^ "pdf version - foreign policy research institute" (pdf). www.fpri.org. retrieved 2015-05-31.
+
+^ bremmer, ian. 2015. [1] portfolio (penguin group): new york.
+
+^ data table in maddison a (2007), contours of the world economy i-2030ad, oxford university press, isbn 978-0199227204
+
+^ christensen, wendy (2009). empire of ancient egypt. united states: infobase publishing. isbn 1604131608.
+
+^ bierbrier l, morris (2008). "introduction". historical dictionary of ancient egypt. scarecrow press. retrieved 4 november 2015.
+
+^ holland, tom (2011). persian fire: the first world empire, battle for the west. united kingdom: hachette. isbn 0748131035.
+
+^ m. collins, steven (30 june 2002). parthia: the forgotten ancient "superpower" and its role in biblical history. united states: bible blessings.net; 1st edition (june 30, 2002). isbn 978-0972584920.
+
+^ waters, kenneth h. (1974). the reign of trajan, part vii: trajanic wars and frontiers. the danube and the east. pp. 415–427.
+
+^ shahbazi, a. shahbazi. "sassanian dynasty". http://www.iranicaonline.org. extensive biography of all sources listed on original website external link in |website= (help)
+
+^ stillman, norman a. (1979). the jews of arab lands. jewish publication society. p. 22. isbn 0827611552.
+
+^ international congress of byzantine studies proceedings of the 21st international congress of byzantine studies, london, 21–26 august 2006, volumes 1-3 pp 29. ashgate pub co, 30 sep. 2006 isbn 075465740x
+
+^ c. tucker, spencer (2017). modern conflict in the greater middle east: a country-by-country guide. p. 84. isbn 978-1440843600. under its great ruler and military leader nader shah (1736-1747), persia was arguably the world's most powerful empire
+
+^ axworthy, michael (15 february 2009). the sword of persia: nader shah, from tribal warrior to conquering tyrant. united kingdom: i.b. tauris; 1 edition. isbn 978-1845119829.
+
+^ skelton, debra. empire of alexander the great. 2009: infobase publishing. isbn 1604131624.
+
+^ goldsworthy, adrian (1 september 2010). how rome fell: death of a superpower. united states: yale university press. isbn 0300164262.
+
+^ kulke, hermann; rothermund, dietmar (2004). a history of india. 4th edition. routledge, pp. xii, 448. isbn 0-415-32920-5.
+
+^ thapar, romila (1990). a history of india, volume 1. new delhi and london: penguin books. pp. 384. isbn 0-14-013835-8.
+
+^ lockard, craig. professor. "tang civilization and the chinese centuries" (pdf). ccnmtl.columbia.edu. university of wisconsin and columbia university. retrieved 4 november 2015.
+
+^ cooper, jane burbank & frederick (2011). empires in world history: power and the politics of difference. princeton, n.j.: princeton university press. isbn 0691152365.
+
+^ stone, norman (2010). turkey: a short history. london: thames & hudson. isbn 0500251754.
+
+^ kamen, h., spain's road to empire: the making of a world power, 1492–1763, 2003, penguin, 640p.
+
+^ steven englund, napoleon: a political life, 2005, harvard university press, page 254
+
+^ maddison, angus (2006). the world economy - volume 1: a millennial perspective and volume 2: historical statistics. oecd publishing by organisation for economic co-operation and development. p. 656. isbn 9789264022621.
+
+^ adam klug and gregor w. smith, 'suez and sterling', explorations in economic history, vol. 36, no. 3 (july 1999), pp. 181–203.
+
+^ "getting serious about the twin deficits "by author: menzie d. chinn - september 2005 by council on foreign relations press [2]
+
+^ the cold war: the geography of containment gary e. oldenburger by oldenburger independent studies; december 2002
+
+^ robert frazier, 'did britain start the cold war? bevin and the truman doctrine', historical journal, vol. 27, no. 3 (sep., 1984), pp. 715–727.
+
+^ conflicts of superpower by signal alpha news achieve press 2005
+
+^ economic interests, party, and ideology in early cold war era u.s. foreign policy archived 2012-09-28 at the wayback machine benjamin o. fordham by world peace foundation; massachusetts institute of technology april 1998
+
+^ henry kissinger, diplomacy, pp. 24, 26
+
+^ a b "library of congress country studies". lcweb2.loc.gov. retrieved 2010-08-27.
+
+^ "www.census.gov" (pdf). retrieved 2010-08-27.
+
+^ "united states". encyclopædia britannica. retrieved 31 january 2010.
+
+^ a b "1990 cia world factbook". central intelligence agency. retrieved 2009-10-12.
+
+^ stone, c.; shaw, h.; trisi, d.; sherman, a. "a guide to statistics on historical trends in income inequality" (pdf). center on budget and policy priorities. pp. 7–11. archived from the original (pdf) on 31 march 2015. retrieved 2 october 2012.
+
+^ john pike. "world wide military expenditures". globalsecurity.org. retrieved 2010-08-27.
+
+^ gates, robert m. "a balanced strategy: reprogramming the pentagon or a new age". council on foreign relations. retrieved 31 may 2015.
+
+^ weighing the us navy defense & security analysis, volume 17, issue 3 december 2001, pages 259–265
+
+^ charles krauthammer, the unipolar moment, foreign policy magazine (1991).
+
+^ "www.gaikoforum.com" (pdf). retrieved 2010-08-27.
+
+^ country profile: united states of america, bbc news. retrieved march 11, 2007.
+
+^ samuel p. huntington (27 april 2006). "the lonely superpower". foreign affairs. archived from the original on 27 april 2006.cs1 maint: bot: original-url status unknown (link)
+
+^ a b sherle schwenninger (december 5, 2003). "the multipolar world vs. the superpower". the globalist. archived from the original on 2006-06-13. retrieved 2006-06-10.
+
+^ a b von drehle, david (5 march 2006). "the multipolar unilateralist". the washington post. retrieved 2006-06-10.
+
+^ a b "no longer the "lone" superpower". retrieved 2006-06-11.
+
+^ a b henry c k liu (april 5, 2003). "the war that may end the age of superpower". asia times. retrieved 2006-06-11.
+
+^ pike, john. "forecast sees eroded u.s. power".
+
+^ unger j (2008), u.s. no longer superpower, now a besieged global power, scholars say university of illinois
+
+^ almond, steve (2007-08-22). "seizing american supremacy". salon.com. retrieved 2010-08-27.
+
+^ "the coming end of the american superpower". counterpunch.org. 2005-03-01. retrieved 2010-08-27.
+
+^ leonardo martinez-diaz (2007-04-28). "u.s.: a losing superpower?". brookings.edu. archived from the original on 2010-06-02. retrieved 2010-08-27.
+
+^ "what kind of superpower could china be?". 19 october 2012  – via www.bbc.co.uk.
+
+^ "china as a global power". china.usc.edu. 2007-11-13. retrieved 2010-08-27.
+
+^ cnn (1999). visions of china. cnn specials, 1999. retrieved on 2007-03-11 from http://www.cnn.com/specials/1999/china.50/asian.superpower/.
+
+^ leonard, mark (2005-02-18). europe: the new superpower. irish times, 28 february 2005. retrieved on 31-05-2015
+
+^ john mccormick,(2007). the european superpower. palgrave macmillan.
+
+^ meredith, r (2008) the elephant and the dragon: the rise of india and china and what it means for all of us, "w.w norton and company" isbn 978-0-393-33193-6
+
+^ rosefielde, steven (february 2005). russia in the 21st century. unc press. isbn 978-0-521-54529-7.
+
+^ biswas, soutik (2012-03-13). "why india will not become a superpower". bbc india. retrieved 2012-04-29.
+
+^ yuanan, zhang (2013-07-31). "why china is still no superpower". retrieved 2014-03-14.
+
+^ "the centre for chinese studies – study of china and east asia on the african continent" (pdf). www.ccs.org.za. archived from the original (pdf) on 2013-12-04.
+
+^ peter collecott (29 october 2011). "brazil's quest for superpower status". the diplomatic courier. retrieved 10 august 2014.
+
+^ time.com 1988 article "japan from superrich to superpower"
+
+^ leika kihara (august 17, 2012). "japan eyes end to decades long deflation". reuters. retrieved 2012-09-07.
+
+
+bibliography[edit]
+belt, don (2004). "europe's big gamble". national geographic. pp. 54–65.
+brzezinski, zbigniew (1997). the grand chessboard: american primacy and its geostrategic imperatives. new york: basic books. isbn 0-465-02726-1.
+fox, william (1944). the super-powers: the united states, britain, and the soviet union—their responsibility for peace. harcourt, brace a. co.
+kamen, henry (2003). spain's road to empire: the making of a world power, 1492–1763. penguin640 pages
+kennedy, paul (1988). the rise and fall of the great powers. isbn 0-679-72019-7.
+mccormick, john, john (2007). the european superpower. palgrave macmillan.
+todd, emanuel (200x). after the empire – the breakdown of the american order.
+rosefielde, steven (2005). russia in the 21st century: the prodigal superpower (pdf). cambridge, uk: cambridge university press. isbn 0-521-83678-6. retrieved 2007-10-07.
+erik ringmar, "the recognition game: soviet russia against the west," cooperation & conflict, 37:2, 2002. pp. 115–36. – an explanation of the relations between the superpowers in the 20th century based on the notion of recognition.
+litwin henryk, central european superpower, bum magazine, october 2016.
+external links[edit]
+
+
+
+wikimedia commons has media related to superpowers.
+"to paris, u.s. looks like a 'hyperpower'". the international herald tribune. february 5, 1999. archived from the original on october 26, 2006. retrieved august 20, 2006.
+last, jonathan (october 21, 2005). "rule america?". the weekly standard. news america incorporated. archived from the original on 2007-03-11. retrieved 2006-09-15.
+védrine, hubert. france in an age of globalization, brookings institution press, 2001. isbn 0-8157-0007-5
+"word spy - hyper-power". retrieved 2006-09-15.
+li, bo; zheng yin (chinese) (2001) 5000 years of chinese history, inner mongolian people's publishing corp, isbn 7-204-04420-7
+chapter four. world hegemony, 900-300 bce
+vtepower in international relationstypes
+economic
+energy
+food
+hard
+national
+power politics
+realpolitik
+smart
+soft
+sharp
+status
+small
+middle
+regional
+emerging
+great
+potential
+super
+hyper
+geopolitics
+american (pax)
+asian
+british
+chinese
+indian
+pacific
+history
+list of ancient great powers
+list of medieval great powers
+list of modern great powers
+international relations of the great powers (1814–1919)
+theory
+balance of power
+european
+center of power
+hegemonic stability theory
+philosophy of power
+polarity
+power projection
+power transition theory
+second superpower
+sphere of influence
+superpower collapse
+superpower disengagement
+studies
+composite index of national capability
+comprehensive national power
+organizations and groups by region or regions affectedafrica
+african union
+union for the mediterranean
+africa–asia
+arab league
+cooperation council for the arab states of the gulf (gcc)
+organization of islamic cooperation (oic)
+americas
+community of latin american and caribbean states
+mercosur
+north atlantic treaty organization (nato)
+organization of american states (oas)
+union of south american nations (unasur)
+asia
+asia cooperation dialogue (acd)
+asia-pacific economic cooperation (apec)
+association of southeast asian nations (asean)
+china–japan–south korea trilateral summits
+economic cooperation organization (eco)
+south asian association for regional cooperation (saarc)
+shanghai cooperation organisation (sco)
+europe
+council of europe (ce)
+european union (eu)
+nordic council
+visegrád group
+eurasia
+commonwealth of independent states (cis)
+collective security treaty organization (csto)
+economic cooperation organization (eco)
+eurasian economic union (eaeu)
+turkic council
+north america–europe
+north atlantic treaty organization (nato)
+arctic council
+africa–asia–europe
+union for the mediterranean
+africa–south america
+south atlantic peace and cooperation zone
+oceania–pacific
+australia–new zealand–united states security treaty (anzus)
+asia-pacific economic cooperation (apec)
+melanesian spearhead group (msg)
+pacific islands forum (pif)
+polynesian leaders group (plg)
+non–regional
+brazil–russia–india–china–south africa (brics)
+commonwealth of nations
+francophonie
+colombia–indonesia–vietnam–egypt–turkey–south africa (civets)
+e7
+e9
+g4
+g7
+g8
+g8+5
+g20
+g24
+g77
+india–brazil–south africa dialogue forum (ibsa)
+mexico–indonesia–nigeria–turkey (mint)
+non-aligned movement (nam)
+organisation for economic co-operation and development (oecd)
+uniting for consensus
+global
+united nations (un)
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=superpower&oldid=883493173"					
+categories: superpowersmilitary terminologyinternational relationshegemonyinternational relations theorystates by power statuspolitical science terminologywords coined in the 1940spolitical terminologyhidden categories: cs1 maint: bot: original-url status unknowncs1 errors: external linkswebarchive template wayback linksarticles with short descriptionwikipedia articles needing context from march 2016all articles with unsourced statementsarticles with unsourced statements from august 2008commons category link is on wikidata 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+afrikaansالعربيةasturianuazərbaycancaবাংলাбеларускаяcatalàčeštinachishonacymraegdanskdeutscheestiελληνικάespañolesperantoeuskaraفارسیfrançais한국어հայերենहिन्दीbahasa indonesiaitalianoעבריתқазақшаkurdîlatinalietuviųmagyarമലയാളംnederlandsनेपाल भाषा日本語norsknorsk nynorskoccitanpolskiportuguêsromânăрусскийscotssimple englishslovenščinasrpskohrvatski / српскохрватскиsuomisvenskatagalogதமிழ்తెలుగుไทยтоҷикӣtürkçeукраїнськаاردوtiếng việt吴语粵語中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 15 february 2019, at 19:04 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.932","walltime":"1.135","ppvisitednodes":{"value":6297,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":161042,"limit":2097152},"templateargumentsize":{"value":5945,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":183366,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  940.423      1 -total"," 46.10%  433.499      1 template:reflist"," 13.73%  129.111     27 template:cite_web"," 13.25%  124.579     24 template:cite_book","  7.87%   74.002      1 template:cite_journal","  7.25%   68.176      1 template:commons_category","  5.28%   49.622      2 template:convert","  5.23%   49.229      5 template:isbn","  5.22%   49.123      2 template:inflation","  4.28%   40.284      1 template:about"]},"scribunto":{"limitreport-timeusage":{"value":"0.458","limit":"10.000"},"limitreport-memusage":{"value":10626484,"limit":52428800}},"cachereport":{"origin":"mw1289","timestamp":"20190215190445","ttl":86400,"transientcontent":true}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"superpower","url":"https:\/\/en.wikipedia.org\/wiki\/superpower","sameas":"http:\/\/www.wikidata.org\/entity\/q1489259","mainentity":"http:\/\/www.wikidata.org\/entity\/q1489259","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2002-07-11t02:07:19z","datemodified":"2019-02-15t19:04:59z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/66\/reagan_and_gorbachev_hold_discussions.jpg","headline":"state with a leading position in the international system and the ability to influence events in its own interest by global projection of power"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":109,"wghostname":"mw1267"});});
+
+

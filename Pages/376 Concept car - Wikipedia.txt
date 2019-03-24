@@ -1,0 +1,364 @@
+
+
+
+
+concept car - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"concept_car","wgtitle":"concept car","wgcurrevisionid":882680027,"wgrevisionid":882680027,"wgarticleid":390885,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["webarchive template wayback links","cs1 swedish-language sources (sv)","use mdy dates from april 2018","all articles with unsourced statements","articles with unsourced statements from march 2007","commons category link is locally defined","concept cars"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"concept_car","wgrelevantarticleid":390885,"wgrequestid":"xgydpwpamfsaajtdtogaaacu","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q850270","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+concept car 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+
+
+ 1938 buick y-job, often considered the first concept car
+a concept car (also known for as concept vehicle, show vehicle or prototype) is a car made to showcase new styling and/or new technology. they are often shown at motor shows to gauge customer reaction to new and radical designs which may or may not be mass-produced. general motors designer harley earl is generally credited with inventing the concept car, and did much to popularize it through its traveling motorama shows of the 1950s.
+concept cars never go into production directly. in modern times all would have to undergo many changes before the design is finalized for the sake of practicality, safety, regulatory compliance, and cost. a "production-intent" prototype, as opposed to a concept vehicle, serves this purpose.[1]
+
+contents
+
+1 design
+2 notable concept cars
+3 see also
+4 references
+5 external links
+
+
+design[edit]
+concept cars are often radical in engine or design. some use non-traditional, exotic, or expensive materials, ranging from paper to carbon fiber to refined alloys. others have unique layouts, such as gullwing doors, 3 or 5 (or more) wheels, or special abilities not usually found on cars. because of these often impractical or unprofitable leanings, many concept cars never get past scale models, or even drawings in computer design. other more traditional concepts can be developed into fully drivable (operational) vehicles with a working drivetrain and accessories. the state of most concept cars lies somewhere in between and does not represent the final product. a very small proportion of concept cars are functional to any useful extent, some cannot move safely at anything above 10 mph.[2]
+inoperative "mock-ups" are usually made of wax, clay, metal, fiberglass, plastic or a combination thereof.
+if drivable, the drivetrain is often borrowed from a production vehicle from the same company, or may have defects and imperfections in design. they can also be quite refined,[citation needed] such as general motors' cadillac sixteen concept.[3]
+after a concept car's useful life is over, the cars are usually destroyed. some survive, however, either in a company's museum or hidden away in storage. one unused but operational concept car that languished for years in the north hollywood, california, shop of car customizer george barris, ford motor company's "lincoln futura" from 1954, received a new lease on life as the batmobile in the batman series that debuted in 1966 on the abc television network.
+
+notable concept cars[edit]
+
+
+model
+notes
+
+
+alfa romeo bat cars
+1950s aerodynamic studies by bertone.
+
+
+aston martin atom
+designed in 1939 by claude hill. fully functional and still in road-worthy condition, it was adopted by aston martin owner david brown into a racing car that won outright at the 1948 spa 24 hours and became the basis for the db1.
+
+
+auburn cabin speedster
+considered the first concept car,[4] it was built in 1929 and used for publicity, touring the car show circuit until it was destroyed in a fire at a los angeles exhibit that also consumed about 320 other cars on display.[5]
+
+
+bmw gina
+a fabric-skinned shape-shifting sports car. this platform (aside from the body material and changing shape) was adopted in 2012 for the bmw i3 and bmw i8 electric vehicles.
+
+
+buick y-job
+designed in the late 1930s by the famous general motors designer harley earl. considered by most to be the first concept car.[6] inspired many other buick vehicles, including the buick blackhawk concept.
+
+
+general motors le sabre
+built by harley earl in 1951, it helped introduce 12 volt electrics and the aluminum 215 ci v8 to gm. this nameplate was transferred over to be a production vehicle.
+
+
+cadillac cyclone
+built in 1959, it is one of harley earl's last designs. its futuristic styling was heavily influenced by 1950s aviation and rocketry.
+
+
+cadillac debutante
+considered the most luxurious car ever built, the cadillac debutante came with leopard skin interior with a 24 karat gold instrument panel and fittings.
+
+
+chevrolet corvette mako shark
+previewed the design of the 1968–1982 production corvette.
+
+
+chevrolet volt
+one of the first plug-in hybrid electric vehicle concept cars. this vehicle was launched with limited availability in certain states in early 2011, with availability in all of the united states, as well as parts of europe by the end of 2012. the production car is the successor to the failed gm ev-1, originally leased through saturn dealerships.
+
+
+chevrolet corvair monza gt
+1962 mid-engined experimental prototype.
+
+
+dodge tomahawk
+a 2003 v10-powered four-wheel motorcycle-like design that drew attention for its audacity, and the debunked claim that it could hypothetically reach speeds of 300 to 420 mph (480 to 680 km/h).
+
+
+ferrari modulo
+designed by paolo martin of the italian carozzeria pininfarina, unveiled at the 1970 geneva motor show.
+
+
+ford nucleon
+a nuclear-powered car.
+
+
+ford probe
+a series of four designs between 1979 and 1983 of which the probe iii was eventually developed into the ford sierra.
+
+
+ford synus
+first shown in 2005. this design was developed to explore the creation of an ultra-safe roadgoing environment.
+
+
+general motors firebird
+a series of gas turbine-powered cars. pontiac adopted this nameplate based on the chevrolet camaro. the nameplate was retired in 2002, along with the chevrolet camaro, which was revived in 2010.
+
+
+holden efijy
+based around the holden fj, named the united states concept car of the year for 2007.[7]
+
+
+lancia megagamma
+the prototype for the modern mpv (minivan).[8][9]
+
+
+mercedes-benz f700
+its pre-scan road scanning suspension allows you to not feel any bumps and humps on the road (developed later into magic body control). this design will lead to the development of the next-generation mercedes-benz a-class, mercedes-benz b-class, and mercedes-benz c-class.
+
+
+mit car
+the massachusetts institute of technology concept car with frank gehry.[10]
+
+
+phantom corsair
+a 1930s concept car, developed by rust heinz.
+
+
+pontiac bonneville special
+pontiac's first 2-seater sportscar that debuted at the 1954 motorama. this nameplate carried over to a pontiac sports car of the 1950s.
+
+
+pontiac club de mer
+pontiac's all stainless steel sportscar that debuted at the 1956 motorama.
+
+
+porsche 989
+porsche's first 4-door car, a predecessor of the porsche panamera.
+
+
+rolls-royce 1ex
+the first in a series of 'experimental models', the 1ex was built by rolls royce in 1919 on a 40/50 h.p. chassis to test and develop their cars. individual ex models were produced for over 40 years ending with the 45ex in 1958.the ghost name rolls royce ghost was adopted in 2011 as a production vehicle. 1ex was also used for the concept version of this rolls-royce vehicle.[11]
+
+
+volvo vesc
+used as testbed in the development of safety features incorporated into the volvo 240 series cars, used by the nhtsa as a basis for later safety standards, including self-retracting three-point seatbelts, crumple zones, head restraints, rollover protection, and shock-absorbing zero-damage bumpers.[12][13]
+
+
+see also[edit]
+
+
+
+wikimedia commons has media related to concept vehicles.
+auto show
+car design
+concept art
+pre-production car
+production vehicle
+product lifecycle management
+proof-of-concept
+prototype
+serial production
+show car
+references[edit]
+
+
+^ chrysler "jolts" phev race; phev ads; v2green acquired archived december 19, 2008, at the wayback machine, september 24, 2008, calcars (california cars initiative)
+
+^ "what is a concept car? - kelley blue book". kbb.com..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ cadillac sixteen archived november 26, 2005, at the wayback machine, by nick hull, detroit auto show 2003 highlights, car design news, inc.
+
+^ smith, karl (24 november 2017). "ccotw: auburn cabin speedster (1929)". car design news. retrieved 29 june 2018.
+
+^ lamm, michael (17 may  2015). "the sensational auburn 1929 cabin speedster". the old motor. retrieved 29 june 2018.
+
+^ wilkinson, stephan (2005), man and machine: the best of stephan wilkinson, rowman & littlefield, p. 83, isbn 9781599216799, retrieved august 2, 2016
+
+^ "bold holden wins top us award". news limited. june 22, 2007. retrieved july 15, 2007.
+
+^ tumminelli, paolo (2004). car design. teneues. p. 66. isbn 3-8238-4561-6.
+
+^ "30 years of italdesign". jack yan & associates. 1998. retrieved january 3, 2008.
+
+^ concept car w/ gm & frank o. gehry
+
+^ mosher, david (july 10, 2004). "australian international motor show – rolls-royce speech". maybach. archived from the original on december  5, 2004. retrieved may 21, 2011.
+
+^ lasse swärd (april 24, 2012). "ett säkert kort från hisingen" [a safe bet from hisingen]. dagens nyheter (in swedish). retrieved august 10, 2015.
+
+^ "volvo questions need for safety vehicles...". new scientist. vol. 58 no. 842. april 19, 1973. p. 160.
+
+
+external links[edit]
+
+
+
+look up concept car in wiktionary, the free dictionary.
+concept cars at howstuffworks
+old concept cars
+concept cars & car design information
+information on over 250 concept cars
+comparison of concept car and production version
+concept cars index
+car concepts
+concept car
+concept cars at www.allcarindex.com - the index of concept cars is dedicated to the showcars and concept automobiles
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=concept_car&oldid=882680027"					
+categories: concept carshidden categories: webarchive template wayback linkscs1 swedish-language sources (sv)use mdy dates from april 2018all articles with unsourced statementsarticles with unsourced statements from march 2007commons category link is locally defined 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+العربيةasturianucatalàčeštinadeutschespañolesperantoفارسیfrançais한국어bahasa indonesiaitalianoעבריתქართულიlietuviųbahasa melayunederlands日本語norskpolskiportuguêsрусскийslovenčinasuomisvenskatürkçeукраїнська中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 10 february 2019, at 18:25 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.360","walltime":"0.500","ppvisitednodes":{"value":1109,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":22778,"limit":2097152},"templateargumentsize":{"value":1137,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":30443,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  424.225      1 -total"," 47.49%  201.473      1 template:reflist"," 27.14%  115.130      6 template:cite_web"," 20.17%   85.545      1 template:commons_category"," 12.94%   54.908      1 template:citation_needed"," 12.13%   51.438      1 template:fix","  8.07%   34.256      2 template:category_handler","  7.65%   32.446      1 template:convert","  7.61%   32.283      1 template:use_mdy_dates","  3.89%   16.517      1 template:dmca"]},"scribunto":{"limitreport-timeusage":{"value":"0.191","limit":"10.000"},"limitreport-memusage":{"value":6253461,"limit":52428800}},"cachereport":{"origin":"mw1256","timestamp":"20190215000936","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"concept car","url":"https:\/\/en.wikipedia.org\/wiki\/concept_car","sameas":"http:\/\/www.wikidata.org\/entity\/q850270","mainentity":"http:\/\/www.wikidata.org\/entity\/q850270","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2003-12-06t19:15:23z","datemodified":"2019-02-10t18:25:45z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e5\/buick_y.jpg","headline":"an automobile manufactured to showcase design features that may be present in a future production model"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":621,"wghostname":"mw1256"});});
+
+

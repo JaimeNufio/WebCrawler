@@ -1,0 +1,908 @@
+
+
+
+
+italian philosophy - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"italian_philosophy","wgtitle":"italian philosophy","wgcurrevisionid":883682860,"wgrevisionid":883682860,"wgarticleid":25739189,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["cs1 italian-language sources (it)","articles to be expanded from january 2010","all articles to be expanded","articles using small message boxes","use dmy dates from april 2012","italian culture","italian philosophy","italian literature"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"italian_philosophy","wgrelevantarticleid":25739189,"wgrequestid":"xgmyogpamfeaajq5jjwaaacc","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q4205248","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+italian philosophy 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+this article is part of the series on theitalian language
+italo-dalmatian languages
+tuscan
+florentine
+languages of italy
+regional italian
+accademia della crusca
+enciclopedia italiana
+
+history
+veronese riddle
+placiti cassinesi
+sicilian school
+dolce stil novo
+la commedia
+accademia degli arcadi
+italian purism
+the last letters of jacopo ortis
+i promessi sposi
+
+literature and other
+literature
+poetry
+music
+comics
+philosophy
+
+grammar
+verb conjugation
+
+alphabet
+orthography
+braille
+
+phonologyvte
+italy over the ages has had a vast influence on western philosophy, beginning with the greeks and romans, and going onto renaissance humanism, the age of enlightenment and modern philosophy.
+
+contents
+
+1 greek origins
+2 ancient rome
+3 medieval
+4 renaissance
+
+4.1 humanism
+4.2 neoplatonism
+4.3 machiavelli
+
+
+5 age of enlightenment
+6 early modern and 19th-century philosophy
+7 modern, contemporary and 20th-century philosophy
+8 see also
+9 references
+
+
+greek origins[edit]
+philosophy was brought to italy by pythagoras, founder of the italian school of philosophy in crotone. major italian philosophers of the greek period include xenophanes, parmenides, zeno, empedocles and lastly gorgias, responsible for bringing philosophy to athens.
+
+ancient rome[edit]
+there were several formidable roman philosophers, such as cicero (106–43 bc), lucretius (94–55 bc), seneca (4 bc – 65 ad), musonius rufus (30 ad – 100 ad), plutarch (45–120 ad), epictetus (55–135 ad), marcus aurelius (121–180 ad), clement of alexandria (150–215 ad), alcinous (2nd century ad), sextus empiricus (3rd century ad), alexander of aphrodisias (3rd century ad), ammonius saccas (3rd century ad), plotinus (205–270 ad), porphyry (232–304 ad), iamblichus (242–327 ad), themistius (317–388 ad), augustine of hippo (354–430 ad), proclus (411–485 ad), philoponus of alexandria (490–570 ad), damascius (462–540 ad), boethius (472–524 ad), and simplicius of cilicia (490–560 ad). roman philosophy was heavily influenced by that of greece.
+
+medieval[edit]
+ st thomas aquinas.
+italian medieval philosophy was mainly christian, and included several important philosophers and theologians such as st thomas aquinas. aquinas was the student of albert the great, a brilliant dominican experimentalist, much like the franciscan, roger bacon of oxford in the 13th century. aquinas reintroduced aristotelian philosophy to christianity. he believed that there was no contradiction between faith and secular reason. he believed that aristotle had achieved the pinnacle in the human striving for truth and thus adopted aristotle's philosophy as a framework in constructing his theological and philosophical outlook. he was a professor at the prestigious university of paris.
+
+renaissance[edit]
+the renaissance was an essentially italian (florentine) movement, and also a great period of the arts and philosophy. among the distinctive elements of renaissance philosophy are the revival (renaissance means "rebirth") of classical civilization and learning; a partial return to the authority of plato over aristotle, who had come to dominate later medieval philosophy; and, among some philosophers, enthusiasm for the occult and hermeticism.
+as with all periods, there is a wide drift of dates, reasons for categorization and boundaries. in particular, the renaissance, more than later periods, is thought to begin in italy with the italian renaissance and roll through europe.
+
+humanism[edit]
+renaissance humanism was a european intellectual movement that was a crucial component of the renaissance, beginning in florence in the latter half of the 14th century, and affected most of italy. the humanist movement developed from the rediscovery by european scholars of latin literary and greek literary texts. initially, a humanist was simply a scholar or teacher of latin literature. by the mid-15th century humanism described a curriculum – the studia humanitatis – consisting of grammar, rhetoric, moral philosophy, poetry, and history as studied via latin and greek literary authors.
+humanism offered the necessary intellectual and philological tools for the first critical analysis of texts. an early triumph of textual criticism by lorenzo valla revealed the donation of constantine to be an early medieval forgery produced in the curia. this textual criticism created sharper controversy when erasmus followed valla in criticizing the accuracy of the vulgate translation of the new testament, and promoting readings from the original greek manuscripts of the new testament.[1]
+italian renaissance humanists believed that the liberal arts (art, music, grammar, rhetoric, oratory, history, poetry, using classical texts, and the studies of all of the above) should be practiced by all levels of "richness". they also approved of self, human worth and individual dignity.
+they hold the belief that everything in life has a determinate nature, but man's privilege is to be able to choose his own path. pico della mirandola wrote the following concerning the creation of the universe and man's place in it:
+
+.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}but when the work was finished, the craftsman kept wishing that there were someone to ponder the plan of so great a work, to love its beauty, and to wonder at its vastness. therefore, when everything was done... he finally took thought concerning the creation of man... he therefore took man as a creature of indeterminate nature and, assigning him a place in the middle of the world, addressed him thus: "neither a fixed abode nor a form that is thine alone nor any function peculiar to thyself have we given thee, adam, to the end that according to thy longing and according to thy judgement thou mayest have and possess what abode, what form and what functions thou thyself shalt desire. the nature of all other beings is limited and constrained within the bounds of law. thou shalt have the power to degenerate into the lower forms of life, which are brutish. thou shalt have the power, out of thy soul's judgement, to be born into the higher forms, which are divine."[2]
+
+neoplatonism[edit]
+italy was also affected by a movement called neoplatonism, which was a movement which had a general revival of interest in classical antiquity. interest in platonism was especially strong in florence under the medici.
+during the sessions at florence of the council of ferrara-florence in 1438–1445, during the failed attempts to heal the schism of the orthodox and catholic churches, cosimo de' medici and his intellectual circle had made acquaintance with the neoplatonic philosopher george gemistos plethon, whose discourses upon plato and the alexandrian mystics so fascinated the learned society of florence that they named him the second plato. in 1459 john argyropoulos was lecturing on greek language and literature at florence, and marsilio ficino became his pupil. when cosimo decided to refound plato's academy at florence, his choice to head it was ficino, who made the classic translation of plato from greek to latin (published in 1484), as well as a translation of a collection of hellenistic greek documents of the hermetic corpus,[3] and the writings of many of the neoplatonists, for example porphyry, iamblichus, plotinus, et al.. following suggestions laid out by gemistos plethon, ficino tried to synthesize christianity and platonism.
+
+machiavelli[edit]
+ niccolò machiavelli (1469–1527).
+niccolò di bernardo dei machiavelli (3 may 1469 – 21 june 1527) was an italian philosopher /writer, and is considered one of the most influential italian renaissance philosophers and one of the main founders of modern political science.[4] his most famous work was the prince. the prince's contribution to the history of political thought is the fundamental break between political realism and political idealism. niccolò machiavelli’s best-known book exposits and describes the arts with which a ruling prince can maintain control of his realm.  it concentrates on the "new prince", under the presumption that a hereditary prince has an easier task in ruling, since the people are accustomed to him. to retain power, the hereditary prince must carefully maintain the socio-political institutions to which the people are accustomed; whereas a new prince has the more difficult task in ruling, since he must first stabilize his new-found power in order to build an enduring political structure. that requires the prince being a public figure above reproach, whilst privately acting immorally to maintain his state. the examples are those princes who most successfully obtain and maintain power, drawn from his observations as a florentine diplomat, and his ancient history readings; thus, the latin phrases and classic examples.
+the prince politically defines “virtu”—as in the criteria for expedient cruel action—it must be decisive: swift, effective, and short-lived. machiavelli is aware of the irony of good results coming from evil actions, and because of this, the catholic church proscribed the prince, registering it to the index librorum prohibitorum, moreover, the humanists also viewed the book negatively, among them, erasmus of rotterdam. as a treatise, its primary intellectual contribution to the history of political thought is the fundamental break between political realism and political idealism—thus, the prince is a manual to acquiring and keeping political power. in contrast with plato and aristotle, a classical ideal society is not the aim of the prince’s will to power. as a political scientist, machiavelli emphasises necessary, methodical exercise of brute force punishment-and-reward (patronage, clientelism, et cetera) to preserve the status quo.
+as there seems to be a difference between machiavelli's advice to ruthless and tyrannical princes in the prince and his more republican exhortations in discorsi, some have concluded that the prince is actually only a satire. jean-jacques rousseau, for instance, admired machiavelli the republican and consequently argued that the prince is a book for the republicans as it exposes the methods used by princes. if the book was only intended as a manual for tyrannical rulers, it contains a paradox: it would apparently be more effective if the secrets it contains would not be made publicly available. also antonio gramsci argued that machiavelli's audience was the common people because the rulers already knew these methods through their education. this interpretation is supported by the fact that machiavelli wrote in italian, not in latin (which would have been the language of the ruling elite). although machiavelli is supposed to be a realist, many of his heroes in the prince are in fact mythical or semi-mythical, and his goal (i.e. the unification of italy) essentially utopian at the time of writing.
+etymologically, his 16th-century contemporaries adopted and used the adjective machiavellian (elaborately cunning), often in the introductions of political tracts offering more than government by “reasons of state”, most notably those of jean bodin and giovanni botero; while contemporary usage of machiavellian is an adjective describing someone who is "marked by cunning, duplicty, or bad faith"[5]. the prince is the treatise that is most responsible for the term being brought about.[6] to this day, "machiavellian" remains a popular term used in casual and political contexts, while in psychology, it denotes a personality type.[7]
+
+age of enlightenment[edit]
+ cesare beccaria (1738–1794) was one of the greatest writers of the italian age of enlightenment.
+ of crimes and punishments (1764) by cesare beccaria.
+italy was also affected by the enlightenment, a movement which was a consequence of the renaissance and changed the road of italian philosophy.[8] followers of the group often met to discuss in private salons and coffeehouses, notably in the cities of milan, rome and venice. cities with important universities such as padua, bologna and naples, however, also remained great centres of scholarship and the intellect, with several philosophers such as giambattista vico (1668–1744) (who is widely regarded as being the founder of modern italian philosophy)[9] and antonio genovesi.[8] italian society also dramatically changed during the enlightenment, with rulers such as leopold ii of tuscany abolishing the death penalty. the church's power was significantly reduced, and it was a period of great thought and invention, with scientists such as alessandro volta and luigi galvani discovering new things and greatly contributing to western science.[8] cesare beccaria was also one of the greatest italian enlightenment writers, who was famous for his masterpiece of crimes and punishments (1764), which was later translated into 22 languages.[8]
+
+early modern and 19th-century philosophy[edit]
+italy also had a renowned philosophical movement in the 1800s, with idealism, sensism and empiricism. the main sensist italian philosophers were gioja (1767–1829) and romagnosi (1761–1835).[9] criticism of the sensist movement came from other philosophers such as pasquale galluppi (1770–1846), who affirmed that a priori relationships were synthetic.[9] antonio rosmini, instead, was the founder of italian idealism. the most comprehensive view of rosmini's philosophical standpoint is to be found in his sistema filosofico, in which he set forth the conception of a complete encyclopaedia of the human knowable, synthetically conjoined, according to the order of ideas, in a perfectly harmonious whole. contemplating the position of recent philosophy from locke to hegel, and having his eye directed to the ancient and fundamental problem of the origin, truth and certainty of our ideas, he wrote: "if philosophy is to be restored to love and respect, i think it will be necessary, in part, to return to the teachings of the ancients, and in part to give those teachings the benefit of modern methods" (theodicy, a. 148). he examined and analysed the fact of human knowledge, and obtained the following results:
+
+that the notion or idea of being or existence in general enters into, and is presupposed by, all our acquired cognitions, so that, without it, they would be impossible
+that this idea is essentially objective, inasmuch as what is seen in it is as distinct from and opposed to the mind that sees it as the light is from the eye that looks at it
+that it is essentially true, because being and truth are convertible terms, and because in the vision of it the mind cannot err, since error could only be committed by a judgment, and here there is no judgment, but a pure intuition affirming nothing and denying nothing
+that by the application of this essentially objective and true idea the human being intellectually perceives, first, the animal body individually conjoined with him, and then, on occasion of the sensations produced in him not by himself, the causes of those sensations, that is, from the action felt he perceives and affirms an agent, a being, and therefore a true thing, that acts on him, and he thus gets at the external world, these are the true primitive judgments, containing
+the subsistence of the particular being (subject), and
+its essence or species as determined by the quality of the action felt from it (predicate)
+that reflection, by separating the essence or species from the subsistence, obtains the full specific idea (universalization), and then from this, by leaving aside some of its elements, the abstract specific idea (abstraction)
+that the mind, having reached this stage of development, can proceed to further and further abstracts, including the first principles of reasoning, the principles of the several sciences, complex ideas, groups of ideas, and so on without end
+finally, that the same most universal idea of being, this generator and formal element of all acquired cognitions, cannot itself be acquired, but must be innate in us, implanted by god in our nature. being, as naturally shining to our mind, must therefore be what men call the light of reason. hence the name rosmini gives it of ideal being; and this he laid down as the fundamental principle of all philosophy and the supreme criterion of truth and certainty. this he believed to be the teaching of st augustine, as well as of st thomas, of whom he was an ardent admirer and defender.
+in the 19th century, there were also several other movements which gained some form of popularity in italy, such as ontologism. the main italian son of this philosophical movement was vincenzo gioberti (1801–1852), who was a priest and a metaphysician. gioberti's writings are more important than his political career. in the general history of european philosophy they stand apart. as the speculations of rosmini-serbati, against which he wrote, have been called the last link added to medieval thought, so the system of gioberti, known as ontologism, more especially in his greater and earlier works, is unrelated to other modern schools of thought. it shows a harmony with the roman catholic faith which caused cousin to declare that italian philosophy was still in the bonds of theology, and that gioberti was no philosopher.
+method is with him a synthetic, subjective and psychological instrument. he reconstructs, as he declares, ontology, and begins with the ideal formula, the "ens" creates ex nihilo the existent. god is the only being (ens); all other things are merely existences. god is the origin of all human knowledge (called lidea, thought), which is one and so to say identical with god himself. it is directly beheld (intuited) by reason, but in order to be of use it has to be reflected on, and this by means of language. a knowledge of being and existences (concrete, not abstract) and their mutual relations, is necessary as the beginning of philosophy.
+gioberti is in some respects a platonist. he identifies religion with civilization, and in his treatise del primato morale e civile degli italiani arrives at the conclusion that the church is the axis on which the well-being of human life revolves. in it he affirms the idea of the supremacy of italy, brought about by the restoration of the papacy as a moral dominion, founded on religion and public opinion. in his later works, the rinnovamento and the protologia, he is thought by some to have shifted his ground under the influence of events.
+his first work, written when he was thirty-seven, had a personal reason for its existence. a young fellow-exile and friend, paolo pallia, having many doubts and misgivings as to the reality of revelation and a future life, gioberti at once set to work with la teorica del sovrannaturale, which was his first publication (1838). after this, philosophical treatises followed in rapid succession. the teorica was followed by introduzione allo studio della filosofia in three volumes (1839–1840). in this work he states his reasons for requiring a new method and new terminology. here he brings out the doctrine that religion is the direct expression of the idea in this life, and is one with true civilization in history. civilization is a conditioned mediate tendency to perfection, to which religion is the final completion if carried out; it is the end of the second cycle expressed by the second formula, the ens redeems existences.
+essays (not published till 1846) on the lighter and more popular subjects, del bello and del buono, followed the introduzione. del primato morale e civile degli italiani and the prolegomeni to the same, and soon afterwards his triumphant exposure of the jesuits, il gesuita moderno, no doubt hastened the transfer of rule from clerical to civil hands. it was the popularity of these semi-political works, increased by other occasional political articles, and his rinnovamento civile d'italia, that caused gioberti to be welcomed with such enthusiasm on his return to his native country. all these works were perfectly orthodox, and aided in drawing the liberal clergy into the movement which has resulted since his time in the unification of italy. the jesuits, however, closed round the pope more firmly after his return to rome, and in the end gioberti's writings were placed on the index. the remainder of his works, especially la filosofia della rivelazione and the prolologia, give his mature views on many points.
+other ontological philosophers include terenzio mamiani (1800–1885), ferri (1826–1895), and ausonio franchi (1821–1895).[9]
+hegelianism, scholasticism and positivism. augusto vera (1813–1885) was probably the greatest italian hegelianist philosopher, who composed works in both french and italian. it was during his studies, with his cousin in paris, that he came to know about philosophy and through them he acquired knowledge of hegelianism and it culminated during the events of the 1848–49 french revolution. in england he continued his studies of hegelian philosophy.[10] during his years in naples, he would maintain relationships with the philosophical society of berlin, which originally consisted of hegelians, and kept up to date with both the german and the french hegelian literature. as a teacher, he undertook the translation of hegel's introduzione alla filosofia (introduction to philosophy) in french.[11] a lot of his work on neo-hegelian theories were undertaken with bertrando spaventa.[12] some works see the italian hegelian doctrine as having led to italian fascism.[13]
+
+modern, contemporary and 20th-century philosophy[edit]
+this section needs expansion. you can help by adding to it. (january 2010)
+see also: italian idealism
+some of the most prominent philosophies and ideologies in italy during the late 19th and 20th centuries included anarchism, communism, socialism, futurism, fascism, and christian democracy. both futurism and fascism (in its original form, now often distinguished as italian fascism) were developed in italy at this time. from the 1920s to the 1940s, italian fascism was the official philosophy and ideology of the italian government. giovanni gentile was one of the greatest italian 20th-century idealist/fascist philosophers, who greatly supported benito mussolini. he had great a number of developments within his thought and career which defined his philosophy.
+
+the discovery of actual idealism in his work theory of the pure act (1903)
+the political favour he felt for the invasion of libya (1911) and the entry of italy into world war i (1915)
+the dispute with benedetto croce over the historic inevitability of fascism.
+his role as education minister (1923)
+his belief that fascism could be made to be subservient to his thought and the gathering of influence through the work of such students as ugo spirito.
+benedetto croce wrote that gentile "...holds the honor of having been the most rigorous neo–hegelian in the entire history of western philosophy and the dishonor of having been the official philosopher of fascism in italy."[14] his philosophical basis for fascism was rooted in his understanding of ontology and epistemology, in which he found vindication for the rejection of individualism, acceptance of collectivism, with the state as the ultimate location of authority and loyalty to which the individual found in the conception of individuality no meaning outside of the state (which in turn justified totalitarianism). ultimately, gentile foresaw a social order wherein opposites of all kinds weren't to be given sanction as existing independently from each other; that 'publicness' and 'privateness' as broad interpretations were currently false as imposed by all former kinds of government; capitalism, communism, and that only the reciprocal totalitarian state of corporative syndicalism, a fascist state, could defeat these problems made from reifying as an external that which is in fact to gentile only a thinking reality. whereas it was common in the philosophy of the time to see conditional subject as abstract and object as concrete, gentile postulated the opposite, that subject was the concrete and objectification was abstraction (or rather; that what was conventionally dubbed "subject" was in fact only conditional object, and that true subject was the 'act of' being or essence above any object). gentile was a notable philosophical theorist of his time throughout europe, since having developed his 'actual idealism' system of idealism, sometimes called 'actualism.' it was especially in which his ideas put subject to the position of a transcending truth above positivism that garnered attention; by way that all senses about the world only take the form of ideas within one's mind in any real sense; to gentile even the analogy between the function & location of the physical brain with the functions of the physical body were a consistent creation of the mind (and not brain; which was a creation of the mind and not the other way around). an example of actual idealism in theology is the idea that although man may have invented the concept of god, it does not make god any less real in any sense possible as far as it is not presupposed to exist as abstraction and except in case qualities about what existence actually entails (i.e. being invented apart from the thinking making it) are presupposed. benedetto croce objected that gentile's "pure act" is nothing other than schopenhauer's will.[15] therefore, gentile proposed a form of what he called 'absolute immanentism' in which the divine was the present conception of reality in the totality of one's individual thinking as an evolving, growing and dynamic process. many times accused of solipsism, gentile maintained his philosophy to be a humanism that sensed the possibility of nothing beyond what was contingent; the self's human thinking, in order to communicate as immanence is to be human like oneself, made a cohesive empathy of the self-same, without an external division, and therefore not modeled as objects to one's own thinking.
+meanwhile, anarchism, communism, and socialism, though not originating in italy, took significant hold in italy during the early 20th century, with the country producing numerous significant figures in anarchist, socialist, and communist thought. in addition, anarcho-communism first fully formed into its modern strain within the italian section of the first international.[16] italian anarchists often adhered to forms of anarcho-communism, illegalist or insurrectionary anarchism, collectivist anarchism, anarcho-syndicalism, and platformism. some of the most important figures in the late 19th and 20th century anarchist movement include italians such as errico malatesta, giuseppe fanelli, carlo cafiero, alfredo m. bonanno, pietro gori, luigi galleani, severino di giovanni, giuseppe ciancabilla, luigi fabbri, camillo berneri, and sacco and vanzetti. other italian figures influential in both the anarchist and socialist movements include carlo tresca and andrea costa, as well as the author, director, and intellectual pier paolo pasolini. antonio gramsci remains an important philosopher within marxist and communist theory, credited with creating the theory of cultural hegemony. italian philosophers were also influential in the development of the non-marxist liberal socialism philosophy, including carlo rosselli, norberto bobbio, piero gobetti, aldo capitini, and guido calogero. in the 1960s, many italian left-wing activists adopted the anti-authoritarian pro-working class leftist theories that would become known as autonomism and operaismo.
+early and important italian feminists include sibilla aleramo, alaide gualberta beccari, and anna maria mozzoni, though proto-feminist philosophies had previously been touched upon by earlier italian writers such as christine de pizan, moderata fonte, lucrezia marinella. the italian physician and educator maria montessori is credited with the creation of the philosophy of education that bears her name, an educational philosophy now practiced throughout the world.
+
+see also[edit]
+list of italian philosophers
+references[edit]
+
+
+^ see jerry bentley, humanists and holy writ princeton university, 1983, 32–69, 137–193.
+
+^ pico 224–225
+
+^ yates, frances a. (1964) giordano bruno and the hermetic tradition. university of chicago press 1991 edition: .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}isbn 0-226-95007-7
+
+^ moschovitis group inc, christian d. von dehsen and scott l. harris, philosophers and religious leaders, (the oryx press, 1999), 117.
+
+^ "definition of machiavellian". www.merriam-webster.com. retrieved 2018-08-10.
+
+^ skinner, quentin (2000-10-12). machiavelli: a very short introduction. oup oxford. isbn 9780191540349.
+
+^ christie, richard; geis, florence l. (2013-10-22). studies in machiavellianism. academic press. isbn 9781483260600.
+
+^ a b c d "the enlightenment throughout europe". history-world.org.
+
+^ a b c d "history of philosophy 70". maritain.nd.edu.
+
+^ "augusto vera". facoltà lettere e filosofia (in italian). retrieved 10 november 2006.
+
+^ "10. la rinascita hegeliana a napoli". ex-regno delle due sicilie (in italian). retrieved 10 november 2006.
+
+^ "l'escatologia pitagorica nella tradizione occidentale". rito simbolico italiano (in italian). retrieved 10 november 2006.
+
+^ "idealismo. idealistas". enciclopedia ger (in italian). retrieved 10 november 2006.
+
+^ benedetto croce, guide to aesthetics, translated by patrick romanell, "translator's introduction," the library of liberal arts, the bobbs–merrill co., inc., 1965
+
+^ runes, dagobert, editor, treasure of philosophy, "gentile, giovanni"
+
+^ nunzio pernicone, "italian anarchism 1864–1892", pp. 111–13, ak press 2009.
+
+
+vteitaly articleshistorychronology
+prehistory
+italic peoples
+ancient peoples of italy
+pre-nuragic sardinia
+nuragic peoples
+etruscan civilization
+nuragic civilization
+phoenician/carthaginian colonies
+magna graecia
+ancient rome
+kingdom
+republic
+empire
+middle ages
+italy under odoacer
+ostrogoths
+byzantium
+lombards
+the holy roman empire
+the sardinian judicates
+arabs
+normans
+guelphs and ghibellines
+the italian city-states
+the maritime republics
+renaissance
+italian wars
+early modern period
+unification
+revolutions of 1820
+revolutions of 1830
+revolutions of 1848
+sicilian revolution of 1848
+first war of independence
+crimean war
+second war of independence
+expedition of the thousand
+third war of independence
+capture of rome
+monarchy and the world wars
+kingdom of italy
+colonial empire
+world war i
+fascist italy
+world war ii
+resistance
+civil war
+republic
+economic boom
+years of lead
+years of mud
+mani pulite
+by topic
+citizenship
+currency
+economy
+fashion
+flags
+genetic
+historic states
+military
+music
+postal
+railways
+geography
+peninsula
+northern
+northwest
+northeast
+central
+southern
+south
+insular
+climate
+fauna
+flora
+mountains
+prealps
+alps
+apennines
+volcanology
+volcanoes
+beaches
+canals
+caves
+earthquakes
+islands
+lakes
+national parks
+rivers
+valleys
+politics
+constitution
+elections
+referendums
+foreign relations
+missions
+judiciary
+law enforcement
+military
+parliament
+chamber of deputies
+senate
+political parties
+president
+prime minister
+council of ministers
+regions
+provinces
+metropolitan cities
+comune
+municipalities
+cities
+economy
+economic history
+milan
+naples
+rome
+turin
+regions by gdp
+automotive industry
+banking
+central bank
+companies
+energy
+government debt
+science and technology
+stock exchange
+taxation
+telecommunications
+internet
+tourism
+trade unions
+transportation
+welfare
+society
+abortion
+adoption
+billionaires
+capital punishment
+corruption
+crime
+demographics
+education
+secondary
+higher
+universities
+emigration
+fathers' rights movement
+feminism
+gambling
+health
+healthcare
+immigration
+lgbt rights
+nobility
+prostitution
+racism
+religion
+smoking
+social class
+terrorism
+women
+culture
+duecento
+trecento
+quattrocento
+cinquecento
+seicento
+settecento
+architecture
+art
+castles
+cinema
+cuisine
+beer
+wine
+cultural icons
+decorations
+design
+fashion
+festivals
+folklore
+italian language
+regional italian
+italian literature
+italophilia
+italophobia
+languages
+media
+newspapers
+radio
+tv
+monuments
+music
+classical
+folk
+opera
+popular
+mythology
+national symbols
+anthem
+emblem
+flag
+regions
+national monument
+personification
+people
+philosophy
+public holidays
+festa della repubblica
+sculpture
+sport
+traditions
+world heritage sites
+
+ italy portal
+ category
+ commons
+ news
+quotes
+travel
+ wikiproject
+
+vtephilosophybranchestraditional
+metaphysics
+ontology
+epistemology
+logic
+ethics
+aesthetics
+philosophy of
+action
+art
+culture
+design
+music
+film
+business
+color
+cosmos
+dialogue
+education
+environment
+futility
+happiness
+healthcare
+history
+human nature
+humor
+feminism
+language
+life
+literature
+mathematics
+mind
+pain
+psychology
+philosophy of psychiatry
+philosophy of perception
+philosophy
+religion
+science
+physics
+chemistry
+biology
+geography
+sexuality
+social science
+culture
+economics
+justice
+law
+politics
+society
+space and time
+sport
+technology
+artificial intelligence
+computer science
+engineering
+information
+war
+schools of thoughtby era
+ancient
+western
+medieval
+renaissance
+early modern
+modern
+contemporary
+ancientchinese
+agriculturalism
+confucianism
+legalism
+logicians
+mohism
+chinese naturalism
+neotaoism
+taoism
+yangism
+zen
+greco-roman 
+aristotelianism
+atomism
+cynicism
+cyrenaics
+eleatics
+eretrian school
+epicureanism
+hermeneutics
+ionian
+ephesian
+milesian
+megarian school
+neoplatonism
+peripatetic
+platonism
+pluralism
+presocratic
+pyrrhonism
+pythagoreanism
+neopythagoreanism
+sophistic
+stoicism
+indian
+samkhya
+nyaya
+vaisheshika
+yoga
+mīmāṃsā
+ājīvika
+ajñana
+cārvāka
+jain
+anekantavada
+syādvāda
+buddhist
+śūnyatā
+madhyamaka
+yogacara
+sautrāntika
+svatantrika
+persian
+mazdakism
+zoroastrianism
+zurvanism
+medievaleuropean
+christian philosophy
+scholasticism
+thomism
+renaissance humanism
+east asian
+korean confucianism
+edo neo-confucianism
+neo-confucianism
+indian
+vedanta
+acintya bheda abheda
+advaita
+bhedabheda
+dvaita
+dvaitadvaita
+shuddhadvaita
+vishishtadvaita
+navya-nyāya
+islamic
+averroism
+avicennism
+illuminationism
+ʿilm al-kalām
+sufi
+jewish
+judeo-islamic
+modernpeople
+cartesianism
+kantianism
+neo-kantianism
+hegelianism
+marxism
+spinozism
+0
+anarchism
+classical realism
+liberalism
+collectivism
+conservatism
+determinism
+dualism
+empiricism
+existentialism
+foundationalism
+historicism
+holism
+humanism
+anti-
+idealism
+absolute
+british
+german
+objective
+subjective
+transcendental
+individualism
+kokugaku
+materialism
+modernism
+monism
+naturalism
+natural law
+nihilism
+new confucianism
+neo-scholasticism
+pragmatism
+phenomenology
+positivism
+reductionism
+rationalism
+social contract
+socialism
+transcendentalism
+utilitarianism
+contemporaryanalytic
+applied ethics
+analytic feminism
+analytical marxism
+communitarianism
+consequentialism
+critical rationalism
+experimental philosophy
+falsificationism
+foundationalism / coherentism
+generative linguistics
+internalism and externalism
+logical positivism
+legal positivism
+normative ethics
+meta-ethics
+moral realism
+quinean naturalism
+ordinary language philosophy
+postanalytic philosophy
+quietism
+rawlsian
+reformed epistemology
+systemics
+scientism
+scientific realism
+scientific skepticism
+contemporary utilitarianism
+vienna circle
+wittgensteinian
+continental
+critical theory
+deconstruction
+existentialism
+feminist
+frankfurt school
+new historicism
+hermeneutics
+neo-marxism
+phenomenology
+posthumanism
+postmodernism
+post-structuralism
+social constructionism
+structuralism
+western marxism
+other
+kyoto school
+objectivism
+russian cosmism
+more...
+positionsaesthetics
+formalism
+institutionalism
+aesthetic response
+ethics
+consequentialism
+deontology
+virtue
+free will
+compatibilism
+determinism
+hard
+incompatibilism
+hard
+libertarianism
+metaphysics
+atomism
+dualism
+monism
+naturalism
+epistemology
+constructivism
+empiricism
+idealism
+particularism
+fideism
+rationalism / reasonism
+skepticism
+solipsism
+mind
+behaviorism
+emergentism
+eliminativism
+epiphenomenalism
+functionalism
+objectivism
+subjectivism
+normativity
+absolutism
+particularism
+relativism
+nihilism
+skepticism
+universalism
+ontology
+action
+event
+process
+reality
+anti-realism
+conceptualism
+idealism
+materialism
+naturalism
+nominalism
+physicalism
+realism
+by regionrelated listsmiscellaneousby region
+african
+ethiopian
+aztec
+native america
+eastern
+chinese
+egyptian
+czech
+indian
+indonesian
+iranian
+japanese
+korean
+vietnam
+pakistani
+western
+american
+australian
+british
+danish
+french
+german
+greek
+italian
+polish
+romanian
+russian
+slovene
+spanish
+turkish
+lists
+outline
+index
+years
+problems
+schools
+glossary
+philosophers
+movements
+publications
+miscellaneous
+natural law
+women in philosophy
+sage (philosophy)
+
+ portal
+ category
+ book
+
+
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=italian_philosophy&oldid=883682860"					
+categories: italian cultureitalian philosophyitalian literaturehidden categories: cs1 italian-language sources (it)articles to be expanded from january 2010all articles to be expandedarticles using small message boxesuse dmy dates from april 2012 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+languages
+
+
+русскийslovenčina粵語 
+edit links 
+
+
+
+
+
+ this page was last edited on 16 february 2019, at 22:44 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.628","walltime":"0.786","ppvisitednodes":{"value":2363,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":237145,"limit":2097152},"templateargumentsize":{"value":21864,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":19,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":32175,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  528.113      1 -total"," 39.48%  208.510      1 template:reflist"," 29.01%  153.217     14 template:navbox"," 19.67%  103.889      1 template:italy_topics"," 19.03%  100.524      1 template:country_topics"," 17.29%   91.310      1 template:isbn"," 14.37%   75.897      7 template:cite_web"," 12.04%   63.605      1 template:catalog_lookup_link"," 11.46%   60.540      1 template:philosophy_topics"," 10.50%   55.440      1 template:navbox_with_collapsible_groups"]},"scribunto":{"limitreport-timeusage":{"value":"0.160","limit":"10.000"},"limitreport-memusage":{"value":5262314,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1304","timestamp":"20190217123325","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":106,"wghostname":"mw1246"});});
+
+

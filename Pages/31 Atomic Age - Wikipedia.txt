@@ -1,0 +1,591 @@
+
+
+
+
+atomic age - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"atomic_age","wgtitle":"atomic age","wgcurrevisionid":883859488,"wgrevisionid":883859488,"wgarticleid":209584,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["all articles with dead external links","articles with dead external links from october 2016","articles with permanently dead external links","webarchive template wayback links","commons category link is on wikidata","20th century","historical eras","nuclear history","nuclear warfare"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"atomic_age","wgrelevantarticleid":209584,"wgrequestid":"xgowdgpamfeaaa0al0eaaaai","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q757669","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+atomic age 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+this article is about the historical era. for the comic-book miniseries, see atomic age (comics).
+ an early nuclear power plant that used atomic energy to generate electricity.
+the atomic age, also known as the atomic era, is the period of history following the detonation of the first nuclear ("atomic") bomb, trinity, on july 16, 1945, during world war ii. although nuclear chain reactions had been hypothesized in 1933 and the first artificial self-sustaining nuclear chain reaction (chicago pile-1) had taken place in december 1942,[1] the trinity test and the ensuing bombings of hiroshima and nagasaki that ended world war ii represented the first large-scale use of nuclear technology and ushered in profound changes in sociopolitical thinking and the course of technology development.
+while atomic power was promoted for a time as the epitome of progress and modernity,[2] entering into the nuclear power era also entailed frightful implications of nuclear warfare, the cold war, mutual assured destruction, nuclear proliferation, the risk of nuclear disaster (potentially as extreme as anthropogenic global nuclear winter), as well as beneficial civilian applications in nuclear medicine.  it is no easy matter to fully segregate peaceful uses of nuclear technology from military or terrorist uses (such as the fabrication of dirty bombs from radioactive waste), which complicated the development of a global nuclear-power export industry right from the outset.
+in 1973, concerning a flourishing nuclear power industry, the united states atomic energy commission predicted that, by the turn of the 21st century, one thousand reactors would be producing electricity for homes and businesses across the u.s. however, the "nuclear dream" fell far short of what was promised because nuclear technology produced a range of social problems, from the nuclear arms race to nuclear meltdowns, and the unresolved difficulties of bomb plant cleanup and civilian plant waste disposal and decommissioning.[3] since 1973, reactor orders declined sharply as electricity demand fell and construction costs rose. many orders and partially completed plants were cancelled.[4]
+by the late 1970s, nuclear power had suffered a remarkable international destabilization, as it was faced with economic difficulties and widespread public opposition, coming to a head with the three mile island accident in 1979, and the chernobyl disaster in 1986, both of which adversely affected the nuclear power industry for many decades.[5]
+
+contents
+
+1 early years
+2 world war ii
+3 1950s
+
+3.1 atomic city
+
+
+4 1960s
+5 1970 to 2000
+6 21st century
+7 chronology
+
+7.1 discovery and development
+7.2 nuclear arms deployment
+7.3 "atoms for peace"
+7.4 three mile island and chernobyl
+7.5 nuclear arms reduction
+7.6 fukushima
+
+
+8 the atomic age in popular culture
+9 see also
+10 references
+11 further reading
+12 external links
+
+
+early years[edit]
+in 1901, frederick soddy and ernest rutherford discovered that radioactivity was part of the process by which atoms changed from one kind to another, involving the release of energy. soddy wrote in popular magazines that radioactivity was a potentially “inexhaustible” source of energy, and offered a vision of an atomic future where it would be possible to “transform a desert continent, thaw the frozen poles, and make the whole earth one smiling garden of eden.” the promise of an “atomic age,” with nuclear energy as the global, utopian technology for the satisfaction of human needs, has been a recurring theme ever since. but "soddy also saw that atomic energy could possibly be used to create terrible new weapons".[6][7]
+the concept of a nuclear chain reaction was hypothesized in 1933, shortly after chadwick's discovery of the neutron. only a few years later, in december 1938 nuclear fission was discovered by otto hahn and his assistant fritz strassmann, and proved with hahn's radiochemical methods. the first artificial self-sustaining nuclear chain reaction (chicago pile-1, or cp-1) took place in december 1942 under the leadership of enrico fermi.[1]
+in 1945, the pocketbook the atomic age heralded the untapped atomic power in everyday objects and depicted a future where fossil fuels would go unused. one science writer, david dietz, wrote that instead of filling the gas tank of your car two or three times a week, you will travel for a year on a pellet of atomic energy the size of a vitamin pill. glenn t. seaborg, who chaired the atomic energy commission, wrote "there will be nuclear powered earth-to-moon shuttles, nuclear powered artificial hearts, plutonium heated swimming pools for scuba divers, and much more".[8]
+
+world war ii[edit]
+the phrase "atomic age" was coined by william l. laurence, a new york times journalist who became the official journalist for the manhattan project which developed the first nuclear weapons.[9][10] he witnessed both the trinity test and the bombing of nagasaki and went on to write a series of articles extolling the virtues of the new weapon. his reporting before and after the bombings helped to spur public awareness of the potential of nuclear technology and in part motivated development of the technology in the u.s. and in the soviet union.[11] the soviet union would go on to test its first nuclear weapon in 1949.
+in 1949, u.s. atomic energy commission chairman, david lilienthal stated that "atomic energy is not simply a search for new energy, but more significantly a beginning of human history in which faith in knowledge can vitalize man's whole life".[12]
+
+1950s[edit]
+further information: atomic age (design)
+ this view of downtown las vegas shows a mushroom cloud in the background. scenes such as this were typical during the 1950s. from 1951 to 1962 the government conducted 100 atmospheric tests at the nearby nevada test site.[13]
+the phrase gained popularity as a feeling of nuclear optimism emerged in the 1950s in which it was believed that all power generators in the future would be atomic in nature. the atomic bomb would render all conventional explosives obsolete and nuclear power plants would do the same for power sources such as coal and oil. there was a general feeling that everything would use a nuclear power source of some sort, in a positive and productive way, from irradiating food to preserve it, to the development of nuclear medicine. there would be an age of peace and plenty in which atomic energy would "provide the power needed to desalinate water for the thirsty, irrigate the deserts for the hungry, and fuel interstellar travel deep into outer space".[2] this use would render the atomic age as significant a step in technological progress as the first smelting of bronze, of iron, or the commencement of the industrial revolution.
+this included even cars, leading ford to display the ford nucleon concept car to the public in 1958. there was also the promise of golf balls which could always be found and nuclear-powered aircraft, which the us federal government even spent us $1.5 billion researching.[2] nuclear policymaking became almost a collective technocratic fantasy, or at least was driven by fantasy:[14]
+
+
+the very idea of splitting the atom had an almost magical grip on the imaginations of inventors and policymakers. as soon as someone said – in an even mildly credible way – that these things could be done, then people quickly convinced themselves ... that they would be done.[14]
+
+
+in the usa, military planners "believed that demonstrating the civilian applications of the atom would also affirm the american system of private enterprise, showcase the expertise of scientists, increase personal living standards, and defend the democratic lifestyle against communism".[15]
+some media reports predicted that thanks to the giant nuclear power stations of the near future electricity would soon become much cheaper and that electricity meters would be removed, because power would be "too cheap to meter."[16]
+when the shippingport reactor went online in 1957 it produced electricity at a cost roughly ten times that of coal-fired generation. scientists at the aec's own brookhaven laboratory "wrote a 1958 report describing accident scenarios in which 3,000 people would die immediately, with another 40,000 injured".[17]
+however shippingport was an experimental reactor using highly enriched uranium (unlike most power reactors) and originally intended for a (cancelled) nuclear-powered aircraft carrier. kenneth nichols was a consultant for the connecticut yankee and yankee rowe nuclear power stations wrote that while considered "experimental" and not expected to be competitive with coal and oil, they "became competitive because of inflation... and the large increase in price of coal and oil." he wrote that for nuclear power stations the capital cost is the major cost factor over the life of the plant, hence "antinukes" try to increase costs and building time with changing regulations and lengthy hearings, so that "it takes almost twice as long to build a (us-designed boiling-water or pressurised water) atomic power plant  in the united states as in france, japan, taiwan or south korea." french pressurised-water nuclear plants produce 60% of their electric power, and have proven to be much cheaper than oil or coal.[18]
+fear of possible atomic attack from the soviet union caused u.s. school children to participate in "duck and cover" civil defense drills.[19]
+
+atomic city[edit]
+during the 1950s, las vegas, nevada, earned the nickname "atomic city" for becoming a hotspot where tourists would gather to watch above-ground nuclear weapons tests taking place at nevada test site. following the detonation of able, one of the first atomic bombs dropped at the nevada test site, the las vegas chamber of commerce began advertising the tests as an entertainment spectacle to tourists. 
+the detonations proved popular and casinos throughout the city capitalised on the tests by advertising hotel rooms or rooftops which offered views of the testing site or by planning "dawn bomb parties"[20] where people would come together to celebrate the detonations. most parties started at midnight and musicians would perform at the venues until 4.00am when the party would briefly stop so guests could silently watch the detonation. some casinos  capitalised on the tests further by creating so called "atomic cocktails", a mixture of vodka, cognac, sherry and champagne.[21]
+meanwhile, groups of tourists would drive out into the desert with family or friends to watch the detonations. 
+despite the health risks associated with nuclear fallout, tourists and viewers were told to simply "shower". later on, however, anyone who had worked at the testing site or lived in areas exposed to nuclear fallout fell ill and had higher chances of developing cancer or suffering pre-mature deaths.[22]
+
+1960s[edit]
+by exploiting the peaceful uses of the "friendly atom" in medical applications, earth removal and, subsequently, in nuclear power plants, the nuclear industry and government sought to allay public fears about nuclear technology and promote the acceptance of nuclear weapons. at the peak of the atomic age, the united states government initiated operation plowshare, involving "peaceful nuclear explosions". the united states atomic energy commission chairman announced that the plowshares project was intended to "highlight the peaceful applications of nuclear explosive devices and thereby create a climate of world opinion that is more favorable to weapons development and tests".[23]
+project plowshare “was named directly from the bible itself, specifically micah 4:3, which states that god will beat swords into ploughshares, and spears into pruning hooks, so that no country could lift up weapons against another”.[24] proposed uses included widening the panama canal, constructing a new sea-level waterway through nicaragua nicknamed the pan-atomic canal, cutting paths through mountainous areas for highways, and connecting inland river systems. other proposals involved blasting underground caverns for water, natural gas, and petroleum storage. it was proposed to plant underground atomic bombs to extract shale oil in eastern utah and western colorado. serious consideration was also given to using these explosives for various mining operations. one proposal suggested using nuclear blasts to connect underground aquifers in arizona. another plan involved surface blasting on the western slope of california's sacramento valley for a water transport project.[24] however, there were many negative impacts from project plowshare’s 27 nuclear explosions.[24] consequences included blighted land, relocated communities, tritium-contaminated water, radioactivity, and fallout from debris being hurled high into the atmosphere. these were ignored and downplayed until the program was terminated in 1977, due in large part to public opposition, after $770 million had been spent on the project.[24]
+in the thunderbirds tv series, a set of vehicles was presented that were imagined to be completely nuclear, as shown in cutaways presented in their comic-books.
+the term "atomic age" was initially used in a positive, futuristic sense, but by the 1960s the threats posed by nuclear weapons had begun to edge out nuclear power as the dominant motif of the atom.
+
+1970 to 2000[edit]
+ a photograph taken in the abandoned city of pripyat. the chernobyl nuclear power plant can be seen on the horizon.
+french advocates of nuclear power developed an aesthetic vision of nuclear technology as art to bolster support for the technology. leclerq compares the nuclear cooling tower to some of the grandest architectural monuments of western culture:[25]
+
+
+the age in which we live has, for the public, been marked by the nuclear engineer and the gigantic edifices he has created. for builders and visitors alike, nuclear power plants will be considered the cathedrals of the 20th century. their syncretism mingles the conscious and the unconscious, religious fulfilment and industrial achievement, the limitations of uses of materials and boundless artistic inspiration, utopia come true and the continued search for harmony.[25]
+
+
+in 1973, the united states atomic energy commission predicted that, by the turn of the 21st century, one thousand reactors would be producing electricity for homes and businesses across the usa. but after 1973, reactor orders declined sharply as electricity demand fell and construction costs rose. many orders and partially completed plants were cancelled.[4]
+nuclear power has proved controversial since the 1970s. highly radioactive materials may overheat and escape from the reactor building. nuclear waste (spent nuclear fuel) needs to be regularly removed from the reactors and disposed of safely for up to a million years, so that it does not pollute the environment. recycling of nuclear waste has been discussed, but it creates plutonium which can be used in weapons, and in any case still leaves much unwanted waste to be stored and disposed of. large, purpose-built facilities for long-term disposal of nuclear waste have been difficult to site, and have not yet reached fruition.[26]
+by the late 1970s, nuclear power suffered a remarkable international destabilization, as it was faced with economic difficulties and widespread public opposition, coming to a head with the three mile island accident in 1979, and the chernobyl disaster in 1986, both of which adversely affected the nuclear power industry for decades thereafter. a cover story in the february 11, 1985, issue of forbes magazine commented on the overall management of the nuclear power program in the united states:
+
+
+the failure of the u.s. nuclear power program ranks as the largest managerial disaster in business history, a disaster on a monumental scale … only the blind, or the biased, can now think that the money has been well spent. it is a defeat for the u.s. consumer and for the competitiveness of u.s. industry, for the utilities that undertook the program and for the private enterprise system that made it possible.[27]
+
+
+so, in a period just over 30 years, the early dramatic rise of nuclear power went into equally meteoric reverse. with no other energy technology has there been a conjunction of such rapid and revolutionary international emergence, followed so quickly by equally transformative demise.[28]
+
+21st century[edit]
+ the 2011 fukushima daiichi nuclear disaster in japan, the worst nuclear accident in 25 years, displaced 50,000 households after radiation leaked into the air, soil and sea.[29]
+in the 21st century, the label of the "atomic age" connotes either a sense of nostalgia or naïveté, and is considered by many to have ended with the fall of the soviet union in 1991, though the term continues to be used by many historians to describe the era following the conclusion of the second world war. atomic energy and weapons continue to have a strong effect on world politics in the 21st century. the term is used by some science fiction fans to describe not only the era following the conclusion of the second world war but also contemporary history up to the present day.
+the nuclear power industry has improved the safety and performance of reactors, and has proposed new safer (but generally untested) reactor designs but there is no guarantee that the reactors will be designed, built and operated correctly.[30] mistakes do occur and the designers of reactors at fukushima in japan did not anticipate that a tsunami generated by an earthquake would disable the backup systems that were supposed to stabilize the reactor after the earthquake.[31] according to ubs ag, the fukushima i nuclear accidents have cast doubt on whether even an advanced economy like japan can master nuclear safety.[32] catastrophic scenarios involving terrorist attacks are also conceivable.[30] an interdisciplinary team from mit has estimated that if nuclear power use tripled from 2005–2055 (from 2%[33] to 7%), at least four serious nuclear accidents would be expected in that period.[34][35]
+in september 2012, japan announced that it would completely phase out nuclear power by 2030, although under the abe administration this is now unlikely, with germany, and other countries in reaction to the accident at fukushima.[36] germany plans to completely phase-out nuclear energy by 2022.[37]
+
+chronology[edit]
+a large anti-nuclear demonstration was held on may 6, 1979, in washington d.c., when 125,000 people[38] including the governor of california, attended a march and rally against nuclear power.[39] in new york city on september 23, 1979, almost 200,000 people attended a protest against nuclear power.[40] anti-nuclear power protests preceded the shutdown of the shoreham, yankee rowe, millstone i, rancho seco, maine yankee, and about a dozen other nuclear power plants.[41]
+on june 12, 1982, one million people demonstrated in new york city's central park against nuclear weapons and for an end to the cold war arms race. it was the largest anti-nuclear protest and the largest political demonstration in american history.[42][43] international day of nuclear disarmament protests were held on june 20, 1983 at 50 sites across the united states.[44][45]
+in 1986, hundreds of people walked from los angeles to washington, d.c. in the great peace march for global nuclear disarmament.[46] there were many nevada desert experience protests and peace camps at the nevada test site during the 1980s and 1990s.[47][48]
+on may 1, 2005, 40,000 anti-nuclear/anti-war protesters marched past the united nations in new york, 60 years after the atomic bombings of hiroshima and nagasaki.[49][50] this was the largest anti-nuclear rally in the u.s. for several decades.[51]
+
+discovery and development[edit]
+1896 – henri becquerel notices that uranium gives off an unknown radiation which fogs photographic film.[52]
+1898 – marie curie discovers thorium gives off a similar radiation. she calls it radioactivity.[52]
+1903 – ernest rutherford begins to speak of the possibility of atomic energy.[53]
+1905 – albert einstein formulates the special theory of relativity which explains the phenomenon of radioactivity as mass-energy equivalence.[53]
+1911 – ernest rutherford formulates a theory about the structure of the atomic nucleus based on his experiments with alpha particles.[54]
+1930 – otto hahn writes an article with his prophecy "the atom – the source of power of the future?" in the newspaper 'deutsche allgemeine zeitung'.[55]
+1932 – james chadwick discovers the neutron.[56]
+1934 – enrico fermi begins bombarding uranium with slow neutrons; ida noddack predicts that uranium nuclei will break up under bombardment by fast neutrons (fermi does not pursue this because his theoretical mathematical predictions do not predict this result.).
+17 december 1938 – otto hahn and his assistant fritz strassmann by bombarding uranium with fast neutrons discover experimentally and prove nuclear fission with radiochemical methods.[57]
+6 january 1939 – otto hahn and fritz strassmann publish the first paper about their discovery in the german review "die naturwissenschaften."[58]
+10 february 1939 – otto hahn and fritz strassmann publish the second paper about their discovery in "die naturwissenschaften", using for the first time the term uranium fission, and predict the liberation of additional neutrons in the fission process.[59]
+11 february 1939 – lise meitner and her nephew otto frisch publish the first theoretical interpretation of nuclear fission, a term coined by frisch, in the british review "nature."[60]
+11 october 1939 – the einstein–szilárd letter, suggesting that the united states construct a nuclear weapon, is delivered to president franklin delano roosevelt. roosevelt signs the order to build a nuclear weapon on 6 december 1941.[61]
+26 february 1941 – discovery of plutonium by glenn seaborg and arthur wahl.
+september 1942 – general leslie groves takes charge of the manhattan project.
+2 december 1942 – under the leadership of fermi, the first self-sustaining nuclear chain reaction takes place in chicago, united states, at the chicago pile – 1.
+nuclear arms deployment[edit]
+16 july 1945 – the first nuclear weapon is detonated in a plutonium form near alamogordo, new mexico, united states in the successful trinity test.
+6 august 1945 – the second nuclear weapon is detonated and the first to be deployed in combat when the little boy uranium bomb was dropped on the japanese city of hiroshima.
+9 august 1945 – the third nuclear weapon is detonated and the second (and last so far) to be deployed in combat, when the fat man plutonium bomb was dropped on the japanese city of nagasaki.
+5 september 1951 – the u.s. air force announces the awarding of a contract for the development of an "atomic-powered airplane".
+1 november 1952 – the first hydrogen bomb, largely designed by edward teller, is tested at eniwetok atoll.
+"atoms for peace"[edit]
+8 december 1953 – u.s. president dwight d. eisenhower, in a speech before the un general assembly, announces the atoms for peace program to provide nuclear power to developing countries.
+21 january 1954 – the first nuclear submarine, the uss nautilus (ssn-571), is launched into the thames river near new london, connecticut, united states.
+27 june 1954 – the first nuclear power plant begins operation near obninsk, ussr.
+17 september 1954 – lewis l. strauss, chairman of the u.s. atomic energy commission, states that nuclear energy will be "too cheap to meter".[62]
+29 september 1957 – 200+ people die as a result of the mayak nuclear waste storage tank explosion in chelyabinsk, soviet union. 270,000 people were exposed to dangerous radiation levels.[63]
+1957 to 1959 – the soviet union and the united states both begin deployment of icbms.
+1958 – the neutron bomb, a special type of tactical nuclear weapon developed specifically to release a relatively large portion of its energy as energetic neutron radiation, is invented by samuel cohen of the lawrence livermore national laboratory.
+1960 – herman kahn publishes the book on thermonuclear war.
+november 1961 – in fortune magazine, an article by gilbert burck appears outlining the plans of nelson rockefeller, edward teller, herman kahn, and chet holifield for the construction of an enormous network of concrete-lined underground fallout shelters throughout the united states sufficient to shelter millions of people to serve as a refuge in case of nuclear war.[64]
+12 october 1962 to 28 october 1962 – the cuban missile crisis brings earth to the brink of nuclear war.
+10 october 1963 – the partial test ban treaty goes into effect, banning above ground nuclear testing.
+26 august 1966 – the first pebble bed reactor goes on line in julich, west germany (some nuclear engineers think that the pebble bed reactor design can be adapted for atomic powered vehicles).
+27 january 1967–the outer space treaty bans the deployment of nuclear weapons in space.
+1968 – physicist freeman j. dyson proposes building a space ark using an orion nuclear pulse propulsion rocket powered by hydrogen bombs. the rocket would have a payload of 50,000 tonnes, a crew of 240, and be able to travel at 3.3% of the speed of light and would reach alpha centauri in 133 years. it would cost $367 billion in 1968 dollars, which is the equivalent of about $2.2 trillion in 2012 dollars.[65][66]
+three mile island and chernobyl[edit]
+28 march 1979 – the three mile island accident occurs at the three mile island nuclear generating station near harrisburg, pennsylvania, dampening enthusiasm in the united states for nuclear power, and causing a dramatic shift in the growth of nuclear power in the united states.
+6 may 1979 – a large anti-nuclear demonstration was held in washington d.c., when 125,000 people[38] including the governor of california, attended a march and rally against nuclear power.[39]
+23 september 1979 – in new york city, almost 200,000 people attended a protest against nuclear power.[40]
+26 april 1986 – the chernobyl disaster occurs at the chernobyl nuclear power plant near pripyat, ukraine, ussr, reducing enthusiasm for nuclear power among many people in the world, and causing a dramatic shift in the growth of nuclear power.
+nuclear arms reduction[edit]
+8 december 1987 – the intermediate-range nuclear forces treaty is signed in washington 1987. ronald reagan and mikhail gorbachev agreed after negotiations following the october 11–12, 1986 reykjavík summit to go farther than a nuclear freeze – they agreed to reduce nuclear arsenals. irbms and srbms were eliminated.
+1990–present – nuclear power is the primary source of electricity in france. throughout the 1990s and 2000s (decade), france produces over three quarters of its power from nuclear sources (78.8%), the highest percentage in the world during these 2 decades.[67][68]
+31 july 1991 – as the cold war ends, the start i treaty is signed by the united states and the soviet union, reducing the deployed nuclear warheads of each side to no more than 6,000 each.
+1993 – the megatons to megawatts program is agreed upon by russia and the united states and begins to be implemented in 1995. when it is completed in 2013, 500 tonnes of uranium derived from 20,000 nuclear warheads from russia will have been converted from weapons grade to reactor grade uranium and used in united states nuclear plants to generate electricity. this has provided 10% of the electrical power of the u.s. (50% of its nuclear power) during the 1995–2013 period.[69]
+2006 – patrick moore, a founder of greenpeace and other environmentalists such as stewart brand[70] suggest the deployment of more advanced nuclear power technology for electric power generation (such as pebble bed reactors) to combat global warming.
+21 november 2006 – implementation of the iter fusion power reactor project near cadarache, france is begun. construction is to be completed in 2016 with the hope that the research conducted there will allow the introduction of practical commercial fusion power plants by 2050.
+2006–2009 – a number of nuclear engineers begin to suggest that, to combat global warming, it would be more efficient to build nuclear reactors that operate on the thorium cycle.[71][72]
+8 april 2010 – the new start treaty is signed by the united states and russia in prague. it mandates the eventual reduction by both sides to no more than 1,550 deployed strategic nuclear weapons each.
+fukushima[edit]
+11 march 2011 – a tsunami resulting from the tōhoku earthquake causes severe damage to the fukushima i nuclear power plant in japan, causing partial nuclear meltdowns in several of the reactors. many international leaders express concerns about the accidents and some countries re-evaluate existing nuclear energy programs. on 11 april 2011 this event was rated level 7 on the international nuclear event scale by the japanese government's nuclear safety agency.[73][74] other than the chernobyl disaster, it is the only nuclear accident to be rated at level 7, the highest level on the scale, and caused the most dramatic shift in nuclear policy to date.
+the atomic age in popular culture[edit]
+ cover of atomic war number one, november, 1952.
+1895 – robert cromie published the crack of doom (1895), which gives a plausible description of an atomic bomb.[75]
+1914 – h. g. wells publishes science fiction novel the world set free, describing how scientists discover potentially limitless energy locked inside of atoms, and describes the deployment of atomic bombs.
+october 1939 – amazing stories published a painting of an atomic power plant by science fiction artist howard m. duffin on its back cover.[76]
+1940 – robert a. heinlein published the science fiction short story "blowups happen" about an accident at an atomic power plant.
+1940 – robert a. heinlein published the short story "solution unsatisfactory" which posits radioactive dust as a weapon that the us develops in a crash program to end world war ii.
+1945 – the atomaton chapter of sweet adelines was formed by edna mae anderson after she and her sister singers decided, "we have an atom of an idea and a ton of energy." the name also recognized the atomic age – just three days after sweet adelines was founded (july 13, 1945), the first nuclear bomb, trinity, was detonated.
+5 july 1946 – the bikini swimsuit, named after bikini atoll, where an atomic bomb test called operation crossroads had taken place a few days earlier on 1 july 1946, was introduced at a fashion show in paris.[77]
+1946 – virgil jordan published: "manifesto for atomic age" rutgers university press.
+1948 – voltolino fontani published : manifesto of eaismo, società editrice italiana, livorno.
+1951 – isaac asimov's science fiction novel foundation (consisting mostly of stories originally published between 1942 and 1944) is published. in this novel, the first novel of the foundation series, the foundation on terminus, guided by psychohistory, invents a religion called scientism which has an atomic priesthood based on the scientific use of atomic energy to pacify, impress, and control the masses of the barbarian inhabitants of the stellar kingdoms surrounding terminus as the galactic empire breaks up.
+1954 – them!, a science fiction film about humanity's battle with a nest of giant mutant ants, was one of the first of the "nuclear monster" movies.
+1954 – the science fiction film godzilla was released, about an iconic fictional monster that is a gigantic irradiated dinosaur, transformed from the fallout of an h-bomb test.
+23 january 1957 – walt disney productions released the film our friend the atom describing the marvelous benefits of atomic power. as well as being presented on the tv show disneyland, this film was also shown to almost all baby boomers in their public school auditoriums or their science classes and was instrumental in creating within that generation a mostly favorable attitude toward nuclear power.[78]
+1957–the current leader of the nizari sect of ismaili shia islam, shah karim al-husayni, the aga khan iv, acceded to the imamship at age 20. one of the titles bestowed on him by his followers was his designation as the imam of the atomic age.[79]
+1958 – the atomium was constructed for the brussels world's fair.
+1958 –the peace symbol was designed for the british nuclear disarmament movement by gerald holtom.[80]
+1959 – the popular film on the beach shows the last remnants of humanity in australia awaiting the end of the human race after a nuclear war.
+1959 – the novel alas, babylon focuses on a community in florida after a nuclear apocalypse.
+23 september 1962 – the jetsons animated tv series began on abc, attempting to humorously depict life in the fully developed atomic age of 2062.
+1964 – the film dr. strangelove, or: how i learned to stop worrying and love the bomb (aka dr. strangelove), a black comedy directed by stanley kubrick about an accidentally triggered nuclear war, was released.
+1970 – the underground comic book hydrogen bomb funnies is published.[81]
+1982 – the documentary film the atomic cafe, detailing society's attitudes toward the atomic bomb in the early atomic age, debuted to widespread acclaim.
+1982 – jonathan schell’s book fate of the earth, about the consequences of nuclear war, is published. the book "forces even the most reluctant person to confront the unthinkable: the destruction of humanity and possibly most life on earth". the best-selling book instigated the nuclear freeze movement.
+1983 – the cartoon book the end by cartoonist skip morrow, about the lighter side of nuclear apocalypse, is published.[82]
+20 november 1983 – the day after, an american television movie was aired on the abc television network, and also in the soviet union. the film portrays a fictional nuclear war between the united states/nato and the soviet union/warsaw pact. after the film, a panel discussion is presented in which carl sagan suggested that we need to reduce the number of nuclear weapons as a matter of "planetary hygiene". this film was seen by over 100,000,000 people and was instrumental in greatly increasing public support for the nuclear freeze movement.
+1985 – 1990 in the film series back to the future, references to the atomic age and uses of nuclear energy are broadly explored; for example the use of plutonium in the time machine, the concept of "mr. fusion" (a futuristic small scale fusion reactor for domestic use that can use garbage as fuel) and references to the common 1950s conceptions of the atomic age.
+17 december 1989 – the animated cartoon series the simpsons debuted on television on the fox network, providing a humorous look at the atomic age, since the main protagonist, homer simpson, is employed as an operator at a nuclear power plant.
+beginning in the 1990s, nostalgia stores that specialize in selling modern furniture or artifacts from the 1950s often have included the words atomic age as part of the name of, or advertising for the store.
+1997 – the first installment of the fallout series, a video game series set in an alternate earth post-apocalyptic world, is released by black isle studios/interplay. both the visual style and many inseries references deal with the atomic age optimism towards nuclear power and the stark contrast it creates to the post-apocalyptic wasteland.
+1999 – blast from the past was released. it is a romantic comedy film about a nuclear physicist, his wife, and son that enter a well-equipped spacious fallout shelter during the 1962 cuban missile crisis. they do not emerge until 35 years later, in 1997. the film shows their reaction to contemporary society.
+1999 – larry niven published the science fiction novel rainbow mars. in this novel, in the 31st century, earth uses a dating system based on what is called the atomic era, in which the year one is 1945. thus, what we call the year 3053 a.d. (the year the novel begins) is in the novel the year 1108 a.e.
+autumn 2007 – bachelor pad magazine, "the new digest of atomic age culture" began publication.[83]
+23 november 2010 – civilization v, the fifth game in a long-running popular turn-based strategy game series, was released. one of the many eras in the game is the atomic era where players can make icbm's, nuclear reactors and submarines and even sci-fi style giant nuclear-powered robots.
+see also[edit]
+ the atomic age – wikipedia book
+atomic age (comics)
+atomic age (design)
+eaismo
+googie architecture
+information age
+jet age
+machine age
+nuclear art
+nuclear electric rocket
+nuclear power debate
+nuclear program of iran
+nuclear weapons in popular culture
+retro-futurism
+space age
+space age pop
+timeline of nuclear weapons development
+references[edit]
+
+
+^ a b holl, jack (1997). argonne national laboratory, 1946–96. university of illinois press. isbn 0-252-02341-2..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ a b c benjamin k. sovacool (2011). contesting the future of nuclear power: a critical global assessment of atomic energy, world scientific, p. 259.
+
+^ john byrne and steven m. hoffman (1996). governing the atom: the politics of risk, transaction publishers, p. 99.
+
+^ a b stephanie cooke (2009). in mortal hands: a cautionary history of the nuclear age, black inc., p. 283.
+
+^ "nuclear follies", february 11, 1985 cover story in forbes magazine.
+
+^ zia mian & alexander glaser (june 2006). "life in a nuclear powered crowd" (pdf). inesap information bulletin no.26.
+
+^ the two words atomic and nuclear are synonymous in the context of atomic power and weapons. the atom consists of a nucleus and one or more electrons. all atomic reactions involve changing one atom into another by changing the nucleus. historically atomic power is an older term, and nuclear power is newer.president eisenhower's "atoms for peace" speech
+
+^ benjamin k. sovacool, the national politics of nuclear power, routledge, p. 68.
+
+^ laurence, william l. (1945-09-26). "drama of the atomic bomb found climax in july 16 test". the new york times.
+
+^ gonzalez, juan (9 august 2005). "atomic truths plague prize coverup". new york daily news. laurence, the only journalist the u.s. government permitted to witness the bombing of nagasaki, is also the reporter who first coined the term "atomic age." ...  nagasaki, laurence launched his times series, where he extolled the bomb and sought to discredit other accounts about effects of the bomb.[permanent dead link]
+
+^ on this incident, see david holloway, stalin and the bomb: the soviet union and atomic energy, 1939–1956 (new haven, ct: yale university press, 1994): 59–60.
+
+^ john byrne and steven m. hoffman (1996). governing the atom: the politics of risk, transaction publishers, p. 85.
+
+^ simon, steven; bouville, andre (2006). "fallout from nuclear weapons tests and cancer risks". american scientist. american scientist.org. retrieved 27 march 2016. exposures 50 years ago still have health implications today that will continue into the future.
+
+^ a b john byrne and steven m. hoffman (1996). governing the atom: the politics of risk, transaction publishers, pp. 50–51.
+
+^ benjamin k. sovacool (2011). contesting the future of nuclear power: a critical global assessment of atomic energy, world scientific, p. 266.
+
+^ "too cheap to meter?". canadian nuclear society. 2007-03-30. archived from the original on 2007-02-04. retrieved 2007-06-17.
+
+^ john byrne and steven m. hoffman (1996). governing the atom: the politics of risk, transaction publishers, p. 55.
+
+^ nichols, kenneth david. the road to trinity: a personal account of how america's nuclear policies were made. new york: william morrow and company. p. 344. isbn 0-688-06910-x. oclc 15223648.
+
+^ remember duck and cover? what safety experts may have been thinking
+
+^ "atomic city: las vegas' deadly obsession with atomic bombs – best uk online casino sites 2018 - licensed by gambling commission". best uk online casino sites 2018 - licensed by gambling commission. retrieved 2018-10-04.
+
+^ bosker, gideon (1998). atomic cocktails. san francisco: chronicle books. p. 8.
+
+^ loria, kevin (august 17, 2017). "nuclear explosions from the past are still causing cancer and health problems today". business insider. retrieved 24 october 2018.
+
+^ charles perrow (september–october 2013). "nuclear denial: from hiroshima to fukushima". bulletin of the atomic scientists.
+
+^ a b c d benjamin k. sovacool (2011). contesting the future of nuclear power: a critical global assessment of atomic energy, world scientific, pp. 171–172.
+
+^ a b john byrne and steven m. hoffman (1996). governing the atom: the politics of risk, transaction publishers, pp. 20–21.
+
+^ congressional research report, nuclear energy: overview of congressional issues, crs report, 2015.
+
+^ "nuclear follies", a february 11, 1985 cover story in forbes magazine.
+
+^ andy stirling (2014). "transforming power". energy research and social science. 1: 83. doi:10.1016/j.erss.2014.02.001.
+
+^ tomoko yamazaki & shunichi ozasa (june 27, 2011). "fukushima retiree leads anti-nuclear shareholders at tepco annual meeting". bloomberg.
+
+^ a b jacobson, mark z. & delucchi, mark a. (2010). "providing all global energy with wind, water, and solar power, part i: technologies, energy resources, quantities and areas of infrastructure, and materials" (pdf). energy policy. p. 6.[permanent dead link]
+
+^ hugh gusterson (16 march 2011). "the lessons of fukushima". bulletin of the atomic scientists. archived from the original on 6 june 2013.
+
+^ james paton (april 4, 2011). "fukushima crisis worse for atomic power than chernobyl, ubs says". bloomberg businessweek. archived from the original on 2011-05-15.
+
+^ world energy outlook 2007 pp 74,360
+
+^ benjamin k. sovacool (january 2011). "second thoughts about nuclear power" (pdf). national university of singapore. p. 8. archived from the original (pdf) on 2013-01-16. retrieved 2012-12-04.
+
+^ massachusetts institute of technology (2003). "the future of nuclear power" (pdf). p. 48.
+
+^ japan plans to abandon nuclear power
+
+^ "the history behind germany's nuclear phase-out". clean energy wire. retrieved 2015-11-20.
+
+^ a b "d.c. anti-nuke rally draws 125,000", wrl news, july–august 1979, war resisters league, new york, ny
+
+^ a b giugni, marco (2004). social protest and policy change: ecology, antinuclear, and peace movements in comparative perspective. rowman & littlefield. p. 45. isbn 978-0-7425-1827-8.
+
+^ a b herman, robin (september 24, 1979). "nearly 200,000 rally to protest nuclear energy". the new york times. p. b1.
+
+^ williams, estha. nuke fight nears decisive moment valley advocate, august 28, 2008.
+
+^ jonathan schell. the spirit of june 12 the nation, july 2, 2007.
+
+^ 1982 – a million people march in new york city archived 2008-05-16 at the wayback machine
+
+^ klehr, harvey (1988). far left of center: the american radical left today. transaction publishers. p. 150. isbn 978-1-4128-2343-2.
+
+^ 1,400 anti-nuclear protesters arrested miami herald, june 21, 1983.
+
+^ hundreds of marchers hit washington in finale of nationwaide peace march gainesville sun, november 16, 1986.
+
+^ robert lindsey. 438 protesters are arrested at nevada nuclear test site the new york times, february 6, 1987.
+
+^ 493 arrested at nevada nuclear test site the new york times, april 20, 1992.
+
+^ lance murdoch. pictures: new york mayday anti-nuke/war march archived 2011-07-28 at the wayback machine  indymedia, 2 may 2005.
+
+^ anti-nuke protests in new york archived 2010-10-31 at the wayback machine fox news, may 2, 2005.
+
+^ lawrence s. wittner. nuclear disarmament activism in asia and the pacific, 1971–1996 the asia-pacific journal, vol. 25-5-09, june 22, 2009.
+
+^ a b asimov, isaac atom: journey across the sub-atomic cosmos new york:1992 plume page 92
+
+^ a b asimov, isaac atom: journey across the sub-atomic cosmos new york:1992 plume page 125
+
+^ asimov, isaac atom: journey across the sub-atomic cosmos new york:1992 plume page 95
+
+^ klaus hoffmann:  otto hahn – achievement and responsibility. springer verlag, inc., new york-berlin-london-tokyo etc. 2001. p. 81. isbn 0-387-95057-5.
+
+^ asimov, isaac atom: journey across the sub-atomic cosmos new york:1992 plume page 154
+
+^ otto hahn: a scientific autobiography. charles scribner's, new york 1966.
+
+^ klaus hoffmann: otto hahn – achievement and responsibility. springer verlag, inc., new york-berlin-barcelona-hong kong-milan-paris-singapore-tokyo 2001. isbn 0-387-95057-5.
+
+^ lise meitner: erinnerungen an otto hahn. s. hirzel, stuttgart 2005. isbn 3-7776-1380-0.
+
+^ lise meitner: otto hahn – the discoverer of nuclear fission. in: forscher und wissenschaftler im heutigen europa. stalling, oldenburg-hamburg 1955.
+
+^ asimov, isaac atom: journey across the sub-atomic cosmos new york:1992 plume page 182
+
+^ too cheap to meter?: archived february 4, 2007, at the wayback machine
+
+^ samuel upton newtan (2007). nuclear war i and other major nuclear disasters of the 20th century. authorhouse. pp. 237–240. isbn 978-1-4259-8512-7.
+
+^ fortune magazine november 1961 pages 112–115 et al
+
+^ "nuclear pulse propulsion: a historical review" by martin and bond, journal of the british interplanetary society, 1979 (p.301)
+
+^ interstellar transport physics today october 1968
+
+^ enerpub (2007-06-08). "france: energy profile". spero news. archived from the original on 2007-10-04. retrieved 2007-08-25.
+
+^ world nuclear association (august 2007). "nuclear power in france". archived from the original on 7 august 2007. retrieved 2007-08-25. (alternate copy archived 2008-03-03 at the wayback machine)
+
+^ usec progress report on megatons to megawatts program: archived october 8, 2012, at the wayback machine
+
+^ tierney, john (2007-02-27). "findings; an early environmentalist, embracing new 'heresies'". the new york times. the new york times company. retrieved 2008-03-23.
+
+^ "scientist urges switch to thorium:". archived from the original on 2010-03-28. retrieved 2010-01-20.
+
+^ wired magazine—december 2009—“uranium is so last century—enter thorium, the new green nuke”:
+
+^ "japan to raise fukushima crisis level to worst". archived from the original on 12 april 2011. retrieved 12 april 2011.
+
+^ "japan raises nuclear crisis to same level as chernobyl". reuters. 12 april 2011.
+
+^ h. g. wells and the atom bomb – trove
+
+^ brosterman, norman out of time: designs for the twentieth century future new york:2000 henry n. abrams, inc. page 79 shows howard m. duffin's 1939 painting of his impression of what an atomic power plant would look like; see "the atomic age" pages 78–83
+
+^ the bikini turns 60:
+
+^ animation world magazine issue 3.1, april 1998 — the making of our friend the atom
+
+^ "aly khan's son, 20, new aga khan", the new york times, 13 july 1957, p. 1
+
+^ breyer, melissa (2010-09-21). "where did the peace sign come from?". shine. yahoo!. archived from the original on 4 october 2010. retrieved 2010-09-30.
+
+^ image of the cover of the 1970 underground comic book hydrogen bomb funnies:
+
+^ the end:
+
+^ bachelor pad: the new digest of atomic age culture:
+
+
+further reading[edit]
+"presidency in the nuclear age", conference and forum at the jfk library, boston, october 12, 2009. four panels: "the race to build the bomb and the decision to use it", "cuban missile crisis and the first nuclear test ban treaty", "the cold war and the nuclear arms race", and "nuclear weapons, terrorism, and the presidency".
+external links[edit]
+
+
+
+wikimedia commons has media related to atomic age.
+
+
+
+look up atomic age in wiktionary, the free dictionary.
+annotated bibliography on the nuclear age at the alsos digital library for nuclear issues.
+atomic age alliance, a volunteer group dedicated to preserving atomic age culture and architecture.
+the nation in the nuclear age, a slideshow by the nation.
+vtehistory of technology
+history of technology cultures
+prehistoric technology
+neolithic
+ancient egypt
+mayan
+ancient greek
+roman
+chinese
+indian
+byzantine
+medieval islam
+medieval europe
+renaissance
+ottoman
+great divergence
+industrial revolution
+modern
+
+history of technology domains
+history of biotechnology
+history of communication
+history of computing hardware
+history of electrical engineering
+history of materials science
+history of measurement
+history of medicine
+history of nuclear technology
+history of transport
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=atomic_age&oldid=883859488"					
+categories: 20th centuryhistorical erasnuclear historynuclear warfarehidden categories: all articles with dead external linksarticles with dead external links from october 2016articles with permanently dead external linkswebarchive template wayback linkscommons category link is on wikidata 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+العربيةbân-lâm-gúcatalàčeštinacymraegdeutschespañolfrançais한국어italianoქართული日本語polskiportuguêsscotssuomitürkçe中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 18 february 2019, at 02:20 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.640","walltime":"0.810","ppvisitednodes":{"value":3568,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":70776,"limit":2097152},"templateargumentsize":{"value":3101,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":122029,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  633.214      1 -total"," 64.90%  410.943      1 template:reflist"," 20.06%  127.008      6 template:cite_book"," 10.40%   65.831     15 template:cite_web","  9.65%   61.113      1 template:commons_category","  8.26%   52.319      1 template:about","  6.91%   43.754      3 template:isbn","  6.07%   38.432      2 template:dead_link","  5.67%   35.929      8 template:cite_news","  4.81%   30.431      2 template:fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.276","limit":"10.000"},"limitreport-memusage":{"value":5953394,"limit":52428800}},"cachereport":{"origin":"mw1340","timestamp":"20190218022001","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":102,"wghostname":"mw1246"});});
+
+

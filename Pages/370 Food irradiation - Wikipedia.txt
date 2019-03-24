@@ -1,0 +1,947 @@
+
+
+
+
+food irradiation - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"food_irradiation","wgtitle":"food irradiation","wgcurrevisionid":880355337,"wgrevisionid":880355337,"wgarticleid":15374,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["cs1: long volume value","webarchive template wayback links","articles with short description","use mdy dates from october 2015","webarchive template other archives","all articles with dead external links","articles with dead external links from march 2017","food preservation","foodborne illnesses","pasteurized foods","pest control techniques","radiation","radiobiology","intensive farming","environmental controversies","scientific controversies"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"food_irradiation","wgrelevantarticleid":15374,"wgrequestid":"xgd5egpaideaac5pc7oaaabj","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q1330911","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+food irradiation 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+sterilization of food with ionizing radiations for enhanced preservation and longer shelflife
+
+
+ cobalt-60 irradiation facility is used to test irradiation as a tool to ensure food safety.
+ the international radura logo, used to show a food has been treated with ionizing radiation.
+ a portable, trailer-mounted food irradiation machine, circa 1968
+food irradiation is the process of exposing food and food packaging to ionizing radiation. ionizing radiation, such as from gamma rays, x-rays, or electron beams, is energy that can be transmitted without direct contact to the source of the energy (radiation) capable of freeing electrons from their atomic bonds (ionization) in the targeted food.[1][2] the radiation can be emitted by a radioactive substance or generated electrically. this treatment is used to improve food safety by extending product shelf-life (preservation), reducing the risk of foodborne illness, delaying or eliminating sprouting or ripening, by sterilization of foods, and as a means of controlling insects and invasive pests.[3] food irradiation primarily extends the shelf-life of irradiated foods by effectively destroying organisms responsible for spoilage and foodborne illness and inhibiting sprouting.[3]
+although consumer perception of foods treated with irradiation is more negative than those processed by other means, because people imagine that the food is radioactive or mutated,[4] all independent research, the u.s. food and drug administration (fda), the world health organization (who), the centers for disease control and prevention (cdc), and u.s. department of agriculture (usda) have confirmed irradiation to be safe.[3][5][6][7][8][9]
+food irradiation is permitted by over 60 countries, with about 500,000 metric tons of food annually processed worldwide.[10] the regulations that dictate how food is to be irradiated, as well as the food allowed to be irradiated, vary greatly from country to country. in austria, germany, and many other countries of the european union only dried herbs, spices, and seasonings can be processed with irradiation and only at a specific dose, while in brazil all foods are allowed at any dose.[11][12][13][14][15]
+
+contents
+
+1 uses
+2 impact
+
+2.1 immediate effects
+
+2.1.1 misconceptions
+2.1.2 chemical changes
+2.1.3 food quality
+
+2.1.3.1 quality impact on minimally processed vegetables
+
+
+
+
+2.2 long-term impacts
+
+2.2.1 misconceptions
+
+
+2.3 indirect effects of irradiation
+
+
+3 treatment
+
+3.1 packaging
+3.2 dosimetry
+3.3 processes
+
+3.3.1 gamma irradiation
+3.3.2 electron beam
+3.3.3 x-ray
+
+
+3.4 cost
+
+
+4 public perception
+5 standards & regulations
+
+5.1 labeling
+5.2 packaging
+5.3 food safety
+
+5.3.1 united states
+5.3.2 european union
+5.3.3 australia
+
+
+5.4 nuclear safety and security
+
+
+6 irradiated food supply
+
+6.1 united states
+
+
+7 timeline of the history of food irradiation
+8 see also
+9 notes
+10 references
+11 further reading
+12 external links
+
+
+uses[edit]
+irradiation is used to reduce or eliminate the risk of food-borne illnesses, prevent or slow down spoilage, arrest maturation or sprouting and as a treatment against pests. depending on the dose, some or all of the pathogenic organisms, microorganisms, bacteria, and viruses present are destroyed, slowed down, or rendered incapable of reproduction. irradiation cannot return spoiled or over-ripe food to a fresh state. if this food was processed by irradiation, further spoilage would cease and ripening would slow down, yet the irradiation would not destroy the toxins or repair the texture, color, or taste of the food.[16] when targeting bacteria, most foods are irradiated to significantly reduce the number of active microbes, not to sterilize all microbes in the product. in this respect it is similar to pasteurization.
+irradiation is used to create safe foods for people at high risk of infection, or for conditions where food must be stored for long periods of time and proper storage conditions are not available. foods that can tolerate irradiation at sufficient doses are treated to ensure that the product is completely sterilized. this is most commonly done with rations for astronauts, and special diets for hospital patients.
+irradiation is used to create shelf-stable products. since irradiation reduces the populations of spoilage microorganisms, and because pre-packed food can be irradiated, the packaging prevents recontamination of the final product.[1]
+irradiation is used to reduce post-harvest losses. it reduces populations of spoilage micro-organisms in the food and can slow down the speed at which enzymes change the food, and therefore slows spoilage and ripening, and inhibits sprouting (e.g., of potato, onion, and garlic).[17]
+food is also irradiated to prevent the spread of invasive pest species through trade in fresh vegetables and fruits, either within countries, or trade across international boundaries. pests such as insects could be transported to new habitats through trade in fresh produce which could significantly affect agricultural production and the environment were they to establish themselves. this "phytosanitary irradiation"[18] aims to render any hitch-hiking pest incapable of breeding. the pests are sterilized when the food is treated by low doses of irradiation. in general, the higher doses required to destroy pests such as insects, mealybugs, mites, moths, and butterflies either affect the look or taste, or cannot be tolerated by fresh produce.[19] low dosage treatments (less than 1000 gray) enables trade across quarantine boundaries[20] and may also help reduce spoilage.
+
+impact[edit]
+irradiation reduces the risk of infection and spoilage, does not make food radioactive, and the food is shown to be safe, but it does cause chemical reactions that alter the food and therefore alters the chemical makeup, nutritional content, and the sensory qualities of the food.[21] some of the potential secondary impacts of irradiation are hypothetical, while others are demonstrated. these effects include cumulative impacts to pathogens, people, and the environment due to the reduction of food quality, the transportation and storage of radioactive goods, and destruction of pathogens, changes in the way we relate to food and how irradiation changes the food production and shipping industries.
+
+immediate effects[edit]
+the radiation source supplies energetic particles or waves. as these waves/particles pass through a target material they collide with other particles. around the sites of these collisions chemical bonds are broken, creating short lived radicals (e.g. the hydroxyl radical, the hydrogen atom and solvated electrons). these radicals cause further chemical changes by bonding with and or stripping particles from nearby molecules. when collisions damage dna or rna, effective reproduction becomes unlikely, also when collisions occur in cells, cell division is often suppressed.[1]
+irradiation (within the accepted energy limits, as 10 mev for electrons, 5 mev for x-rays [us 7.5 mev] and gamma rays from cobalt-60) can not make food radioactive, but it does produce radiolytic products, and free radicals in the food. a few of these products are unique, but not considered dangerous.[22]
+irradiation can also alter the nutritional content and flavor of foods, much like cooking.[22] the scale of these chemical changes is not unique. cooking, smoking, salting, and other less novel techniques, cause the food to be altered so drastically that its original nature is almost unrecognizable, and must be called by a different name. storage of food also causes dramatic chemical changes, ones that eventually lead to deterioration and spoilage.[23]
+
+misconceptions[edit]
+a major concern is that irradiation might cause chemical changes that are harmful to the consumer. several national expert groups and two international expert groups evaluated the available data and concluded that any food at any dose is wholesome and safe to consume as long as it remains palatable and maintains its technical properties (e.g. feel, texture, or color).[6][7]
+irradiated food does not become radioactive, just as an object exposed to light does not start producing light. radioactivity is the ability of a substance to emit high energy particles. when particles hit the target materials they may free other highly energetic particles. this ends shortly after the end of the exposure, much like objects stop reflecting light when the source is turned off and warm objects emit heat until they cool down but do not continue to produce their own heat. to modify a material so that it keeps emitting radiation (induce radiation) the atomic cores (nucleus) of the atoms in the target material must be modified.
+it is impossible for food irradiators to induce radiation in a product. irradiators emit electrons or photons and the radiation is intrinsically radiated at precisely known strengths (wavelengths for photons, and speeds for electrons). these radiated particles at these strengths can never be strong enough to modify the nucleus of the targeted atom in the food, regardless of how many particles hit the target material, and radioactivity can not be induced without modifying the nucleus.[22]
+
+chemical changes[edit]
+compounds known as free radicals form when food is irradiated. most of these are oxidizers (i.e., accept electrons) and some react very strongly. according to the free-radical theory of aging excessive amounts of these free radicals can lead to cell injury and cell death, which may contribute to many diseases.[24] however, this generally relates to the free radicals generated in the body, not the free radicals consumed by the individual, as much of these are destroyed in the digestive process.
+
+further information: free-radical theory of aging and oxidative stress
+most of the substances found in irradiated food are also found in food that has been subjected to other food processing treatments, and are therefore not unique. one family of chemicals (2acb's) are uniquely formed by irradiation (unique radiolytic products), and this product is nontoxic. when fatty acids are irradiated, a family of compounds called 2-alkylcyclobutanones (2-acbs) are produced. these are thought to be unique radiolytic products.
+when irradiating food, all other chemicals occur in a lower or comparable frequency to other food processing techniques.[6][7][25][26] furthermore, the quantities in which they occur in irradiated food are lower or similar to the quantities formed in heat treatments.[6][7][25][26]
+the radiation doses to cause toxic changes are much higher than the doses used during irradiation, and taking into account the presence of 2-acbs along with what is known of free radicals, these results lead to the conclusion that there is no significant risk from radiolytic products.[5]
+
+food quality[edit]
+ionizing radiation can change food quality but in general very high levels of radiation treatment (many thousands of gray) are necessary to adversely change nutritional content, as well as the sensory qualities (taste, appearance, and texture). irradiation to the doses used commercially to treat food have very little negative impact on the sensory qualities and nutrient content in foods. when irradiation is used to maintain food quality for a longer period of time (improve the shelf stability of some sensory qualities and nutrients) the improvement means that more consumers have access to the original taste, texture, appearance, and nutrients.[27][28][29] the changes in quality and nutrition depend on the degree of treatment and may vary greatly from food to food.[17]
+there has been low level gamma irradiation that has been attempted on arugula,[30] spinach,[31] cauliflower,[32] ash gourd,[33] bamboo shoots,[34] coriander, parsley, and watercress.[35]  there has been limited information, however, regarding the physical, chemical and/or bioactive properties and the shelf life on these minimally processed vegetables.[29]
+there is some degradation of vitamins caused by irradiation, but is similar to or even less than the loss caused by other processes that achieve the same result. other processes like chilling, freezing, drying, and heating also result in some vitamin loss.[17]
+the changes in the flavor of fatty foods like meats, nuts and oils are sometimes noticeable, while the changes in lean products like fruits and vegetables are less so. some studies by the irradiation industry show that for some properly treated fruits and vegetables irradiation is seen by consumers to improve the sensory qualities of the product compared to untreated fruits and vegetables.[17]
+
+quality impact on minimally processed vegetables[edit]
+watercress (nasturtium officinale) is a rapidly growing aquatic or semi aquatic perennial plant. because chemical agents do not provide efficient microbial reductions, watercress has been tested with gamma irradiation treatment in order to improve both safety and the shelf life of the product.[36]  it is traditionally used on horticultural products to prevent sprouting and post-packaging contamination, delay post-harvest ripening, maturation and senescence.[29]
+in a food chemistry food journal, scientists studied the suitability of gamma irradiation of 1, 2, and 5 kgy for preserving quality parameters of the fresh cut watercress at around 4 degrees celsius for 7 days.  they determined that a 2 kgy dose of irradiation was the dose that contained most similar qualities to non-stored control samples, which is one of the goals of irradiation.[27]  2 kgy preserved high levels of reducing sugars and favoured polyunsaturated fatty acids (pufa); while samples of the 5 kgy dose revealed high contents of sucrose and monounsaturated fat (mufa).  both cases the watercress samples obtained healthier fatty acids profiles.[28]  however, a 5kgy dose better preserved the antioxidant activity and total flavonoids.[29]
+
+long-term impacts[edit]
+if the majority of food was irradiated at high-enough levels to significantly decrease its nutritional content, there would be an increased risk of developing nutritionally-based illnesses if additional steps, such as changes in eating habits, were not taken to mitigate this.[37] furthermore, for at least three studies on cats, the consumption of irradiated food was associated with a loss of tissue in the myelin sheath, leading to reversible paralysis. researchers suspect that reduced levels of vitamin a and high levels of free radicals may be the cause.[38] this effect is thought to be specific to cats and has not been reproduced in any other animal. to produce these effects, the cats were fed solely on food that was irradiated at a dose at least five times higher than the maximum allowable dose.[38]
+it may seem reasonable to assume that irradiating food might lead to radiation-tolerant strains, similar to the way that strains of bacteria have developed resistance to antibiotics. bacteria develop a resistance to antibiotics after an individual uses antibiotics repeatedly. much like pasteurization plants, products that pass through irradiation plants are processed once, and are not processed and reprocessed. cycles of heat treatment have been shown to produce heat-tolerant bacteria, yet no problems have appeared so far in pasteurization plants. furthermore, when the irradiation dose is chosen to target a specific species of microbe, it is calibrated to doses several times the value required to target the species. this ensures that the process randomly destroys all members of a target species.[39] therefore, the more irradiation-tolerant members of the target species are not given any evolutionary advantage. without evolutionary advantage, selection does not occur. as to the irradiation process directly producing mutations that lead to more virulent, radiation-resistant strains, the european commission's scientific committee on food found that there is no evidence; on the contrary, irradiation has been found to cause loss of virulence and infectivity, as mutants are usually less competitive and less adapted.[40]
+
+misconceptions[edit]
+some who advocate against food irradiation argue the safety of irradiated food is not scientifically proven because there are a lack of long-term studies [41][42] in spite of the fact that hundreds of animal feeding studies of irradiated food, including multigenerational studies, have been performed since 1950.[5] endpoints investigated have included subchronic and chronic changes in metabolism, histopathology, function of most systems, reproductive effects, growth, teratogenicity, and mutagenicity. a large number of studies have been performed; meta-studies have supported the safety of irradiated food.[5][6][7][8][9]
+the below experiments are cited by food irradiation opponents, but either could not be verified in later experiments, could not be clearly attributed to the radiation effect, or could be attributed to an inappropriate design of the experiment.[5][17]
+
+india's national institute of nutrition (nin) found an elevated rate of cells with more than one set of genes (polyploidy) in humans and animals when fed wheat that was irradiated recently (within 12 weeks). upon analysis, scientists determined that the techniques used by the nin allowed for too much human error and statistical variation; therefore, the results were unreliable. after multiple studies by independent agencies and scientists, no correlation between polyploidy and irradiation of food could be found.[17]
+indirect effects of irradiation[edit]
+the indirect effects of irradiation are the concerns and benefits of irradiation that are related to how making food irradiation a common process will change the world, with emphasis on the system of food production.
+if irradiation were to become common in the food handling process there would be a reduction of the prevalence of foodborne illness and potentially the eradication of specific pathogens.[43] however, multiple studies suggest that an increased rate of pathogen growth may occur when irradiated food is cross-contaminated with a pathogen, as the competing spoilage organisms are no longer present.[44] this being said, cross contamination itself becomes less prevalent with an increase in usage of irradiated foods.[45]
+the ability to remove bacterial contamination through post-processing by irradiation may reduce the fear of mishandling food which could cultivate a cavalier attitude toward hygiene and result in contaminants other than bacteria. however, concerns that the pasteurization of milk would lead to increased contamination of milk were prevalent when mandatory pasteurization was introduced, but these fears never materialized after adoption of this law. therefore, it is unlikely for irradiation to cause an increase of illness due to nonbacteria-based contamination.[46]
+
+treatment[edit]
+up to the point where the food is processed by irradiation, the food is processed in the same way as all other food. to treat the food, they are exposed to a radioactive source, for a set period of time to achieve a desired dose. radiation may be emitted by a radioactive substance, or by x-ray and electron beam accelerators. special precautions are taken to ensure the food stuffs never come in contact with the radioactive substances and that the personnel and the environment are protected from exposure radiation.[47]
+irradiation treatments are typically classified by dose (high, medium, and low), but are sometimes classified by the effects of the treatment[48] (radappertization, radicidation and radurization). food irradiation is sometimes referred to as "cold pasteurization"[49] or "electronic pasteurization"[50] because ionizing the food does not heat the food to high temperatures during the process, and the effect is similar to heat pasteurization. the term "cold pasteurization" is controversial because the term may be used to disguise the fact the food has been irradiated and pasteurization and irradiation are fundamentally different processes.
+treatment costs vary as a function of dose and facility usage. a pallet or tote is typically exposed for several minutes to hours depending on dose. low-dose applications such as disinfestation of fruit range between us$0.01/lbs and us$0.08/lbs while higher-dose applications can cost as much as us$0.20/lbs.[51]
+
+packaging[edit]
+food processors and manufacturers today struggle with using affordable, efficient packaging materials for irradiation based processing. the implementation of irradiation on prepackaged foods has been found to impact foods by inducing specific chemical alterations to the food packaging material that migrates into the food. cross-linking in various plastics can lead to physical and chemical modifications that can increase the overall molecular weight. on the other hand, chain scission is fragmentation of polymer chains that leads to a molecular weight reduction.[3]
+
+dosimetry[edit]
+the radiation absorbed dose is the amount energy absorbed per unit weight of the target material. dose is used because, when the same substance is given the same dose, similar changes are observed in the target material. the si unit for dose is grays (gy or j/kg). dosimeters are used to measure dose, and are small components that, when exposed to ionizing radiation, change measurable physical attributes to a degree that can be correlated to the dose received. measuring dose (dosimetry) involves exposing one or more dosimeters along with the target material.[52][53]
+for purposes of legislation doses are divided into low (up to 1 kgy), medium (1 kgy to 10 kgy), and high-dose applications (above 10 kgy).[54] high-dose applications are above those currently permitted in the us for commercial food items by the fda and other regulators around the world.[55] though these doses are approved for non commercial applications, such as sterilizing frozen meat for nasa astronauts (doses of 44 kgy)[56] and food for hospital patients.
+
+
+applications of food irradiation[54][57]
+
+
+
+
+application
+
+dose (kgy)
+
+
+low dose (up to 1 kgy)
+
+inhibit sprouting (potatoes, onions, yams, garlic)
+
+0.06 - 0.2
+
+
+delay in ripening (strawberries, potatoes)
+
+0.5 - 1.0
+
+
+prevent insect infestation (grains, cereals, coffee beans, spices, dried nuts, dried fruits, dried fish, mangoes, papayas)
+
+0.15 - 1.0
+
+
+parasite control and inactivation (tape worm, trichina)
+
+0.3 - 1.0
+
+
+medium dose (1 kgy to 10 kgy)
+
+extend shelf-life (raw and fresh fish, seafood, fresh produce, refrigerated and frozen meat products)
+
+1.0 - 7.0
+
+
+reduce risk of pathogenic and spoilage microbes (meat, seafood, spices, and poultry)
+
+1.0 - 7.0
+
+
+increased juice yield, reduction in cooking time of dried vegetables
+
+3.0 - 7.0
+
+
+high dose (above 10 kgy)
+
+enzymes (dehydrated)
+
+10.0
+
+
+sterilization of spices, dry vegetable seasonings
+
+30.0 max
+
+
+sterilization of packaging material
+
+10.0 - 25.0
+
+
+sterilization of foods (nasa and hospitals)
+
+44.0
+
+processes[edit]
+gamma irradiation[edit]
+gamma irradiation is produced from the radioisotopes cobalt-60 and caesium-137, which are derived by neutron bombardment of cobalt-59 and as a nuclear source by-product, respectively.[54] cobalt-60 is the most common source of gamma rays for food irradiation in commercial scale facilities as it is water insoluble and hence has little risk of environmental contamination by leakage into the water systems.[54] as for transportation of the radiation source, cobalt-60 is transported in special trucks that prevent release of radiation and meet standards mentioned in the regulations for safe transport of radioactive materials of the international atomic energy act.[58] the special trucks must meet high safety standards and pass extensive tests to be approved to ship radiation sources. conversely, caesium-137, is water soluble and poses a risk of environmental contamination. insufficient quantities are available for large scale commercial use. an incident where water-soluble caesium-137 leaked into the source storage pool requiring nrc intervention[59] has led to near elimination of this radioisotope.
+
+ cobalt 60 stored in gamma irradiation machine
+gamma irradiation is widely used due to its high penetration depth and dose uniformity, allowing for large-scale applications with high through puts.[54] additionally, gamma irradiation is significantly less expensive than using an x-ray source  in most designs, the radioisotope, contained in stainless steel pencils, is stored in a water-filled storage pool which absorbs the radiation energy when not in use. for treatment, the source is lifted out of the storage tank, and product contained in totes is passed around the pencils to achieve required processing.[54]
+
+electron beam[edit]
+see also: electron beam processing
+treatment of electron beams is created as a result of high energy electrons in an accelerator that generates electrons accelerated to 99% the speed of light.[54] this system uses electrical energy and can be powered on and off. the high power correlates with a higher throughput and lower unit cost, but electron beams have low dose uniformity and a penetration depth of centimeters.[54] therefore, electron beam treatment works for products that have low thickness.
+
+ irradiated guava: spring valley fruits,mexico
+x-ray[edit]
+x-rays are produced by bombardment of dense target material with high energy accelerated electrons(this process is known as bremsstrahlung-conversion), giving rise to a continuous energy spectrum.[54] heavy metals, such as tantalum and tungsten, are used because of their high atomic numbers and high melting temperatures.tantalum is usually preferred versus tungsten for industrial, large-area, high-power targets because it is more workable than tungsten and has a higher threshold energy for induced reactions.[60]  like electron beams, x-rays do not require the use of radioactive materials and can be turned off when not in use. x-rays have high penetration depths and high dose uniformity but they are a very expensive source of irradiation as only 8% of the incident energy is converted into x-rays.[54]
+
+cost[edit]
+ efficiency illustration of the different radiation technologies (electron beam, x-ray, gamma rays)
+the cost of food irradiation is influenced by dose requirements, the food's tolerance of radiation, handling conditions, i.e., packaging and stacking requirements, construction costs, financing arrangements, and other variables particular to the situation.[61] irradiation is a capital-intensive technology requiring a substantial initial investment, ranging from $1 million to $5 million. in the case of large research or contract irradiation facilities, major capital costs include a radiation source, hardware (irradiator, totes and conveyors, control systems, and other auxiliary equipment), land (1 to 1.5 acres), radiation shield, and warehouse. operating costs include salaries (for fixed and variable labor), utilities, maintenance, taxes/insurance, cobalt-60 replenishment, general utilities, and miscellaneous operating costs.[51][62] perishable food items, like fruits, vegetables and meats would still require to be handled in the cold chain, so all other supply chain costs remain the same.
+
+public perception[edit]
+negative connotations associated with the word "radiation" are thought to be responsible for low consumer acceptance. several national expert groups and two international expert groups evaluated the available data and concluded that any food at any dose is wholesome and safe to consume.[63]
+irradiation has been approved by many countries. for example, in the u.s. the fda has approved food irradiation for over fifty years. however, in the past decade the major growth area is for fruits and vegetables that are irradiated to prevent the spread of pests. in the early 2000s in the us, irradiated meat was common at some grocery stores, but because of lack of consumer demand, it is no longer common. because consumer demand for irradiated food is low, reducing the spoilage between manufacturer and consumer purchase and reducing the risk of food borne illness is currently not sufficient incentive for most manufacturers to supplement their process with irradiation.[21] nevertheless, food irradiation does take place commercially and volumes are in general increasing at a slow rate, even in the european union where all member countries allow the irradiation of dried herbs spices and vegetable seasonings but only a few allow other foods to be sold as irradiated.[64]
+although there are some consumers who choose not to purchase irradiated food, a sufficient market has existed for retailers to have continuously stocked irradiated products for years.[65] when labeled irradiated food is offered for retail sale, these consumers buy it and re-purchase it, indicating that it is possible to successfully market irradiated foods, therefore retailers not stocking irradiated foods might be a major bottleneck to the wider adoption of irradiated foods.[65] it is however, widely believed that consumer perception of foods treated with irradiation is more negative than those processed by other means[4] and some industry studies indicate the number of consumers concerned about the safety of irradiated food decreased between 1985 and 1995 to levels comparable to those of people concerned about food additives and preservatives.[66] even though is it is untrue "people think the product is radioactive," said harlan clemmons, president of sadex, a food irradiation company based in sioux city, iowa.[67] because of these concerns and the increased cost of irradiated foods, there is not a widespread public demand for the irradiation of foods for human consumption.[21] irradiated food does not become radioactive.
+
+standards & regulations[edit]
+the codex alimentarius represents the global standard for irradiation of food, in particular under the wto-agreement. regardless of treatment source, all processing facilities must adhere to safety standards set by the international atomic energy agency (iaea), codex code of practice for the radiation processing of food, nuclear regulatory commission (nrc), and the international organization for standardization (iso).[68] more specifically, iso 14470 and iso 9001 provide in-depth information regarding safety in irradiation facilities.[68]
+all commercial irradiation facilities contain safety systems are designed to prevent exposure of personnel to radiation. the radiation source is constantly shielded by water, concrete, or metal. irradiation facilities are designed with overlapping layers of protection, interlocks, and safeguards to prevent accidental radiation exposure.[58] additionally, "melt-downs" do not occur in facilities because the radiation source gives off radiation and decay heat; however, the heat is not sufficient to melt any material.[58]
+
+labeling[edit]
+ the radura symbol, as required by u.s. food and drug administration regulations to show a food has been treated with ionizing radiation.
+the provisions of the codex alimentarius are that any "first generation" product must be labeled "irradiated" as any product derived directly from an irradiated raw material; for ingredients the provision is that even the last molecule of an irradiated ingredient must be listed with the ingredients even in cases where the unirradiated ingredient does not appear on the label. the radura-logo is optional; several countries use a graphical version that differs from the codex-version. the suggested rules for labeling is published at codex-stan – 1 (2005),[69] and includes the usage of the radura symbol for all products that contain irradiated foods. the radura symbol is not a designator of quality. the amount of pathogens remaining is based upon dose and the original content and the dose applied can vary on a product by product basis.[70]
+the european union follows the codex's provision to label irradiated ingredients down to the last molecule of irradiated food. the european community does not provide for the use of the radura logo and relies exclusively on labeling by the appropriate phrases in the respective languages of the member states. the european union enforces its irradiation labeling laws by requiring its member countries to perform tests on a cross section of food items in the market-place and to report to the european commission. the results are published annually in the oj of the european communities.[71]
+the us defines irradiated foods as foods in which the irradiation causes a material change in the food, or a material change in the consequences that may result from the use of the food. therefore, food that is processed as an ingredient by a restaurant or food processor is exempt from the labeling requirement in the us. all irradiated foods must include a prominent radura symbol followed in addition to the statement "treated with irradiation" or "treated by irradiation.[62] bulk foods must be individually labeled with the symbol and statement or, alternatively, the radura and statement should be located next to the sale container.[3]
+
+packaging[edit]
+under section 409 of the federal food, drug, and cosmetic act, irradiation of prepackaged foods requires premarket approval for not only the irradiation source for a specific food but also for the food packaging material. approved packaging materials include various plastic films, yet does not cover a variety of polymers and adhesive based materials that have been found to meet specific standards. the lack of packaging material approval limits manufacturers production and expansion of irradiated prepackaged foods.[54]
+approved materials by fda for irradiation according to 21 cfr 179.45:[54]
+
+
+
+material
+
+paper (kraft)
+
+paper (glassine)
+
+paperboard
+
+cellophane (coated)
+
+polyolefin film
+
+polyestyrene film
+
+nylon-6
+
+vegetable parchment
+
+nylon 11
+
+
+irradiation (kgy)
+
+.05
+
+10
+
+10
+
+10
+
+10
+
+10
+
+10
+
+60
+
+60
+
+food safety[edit]
+in 2003, the codex alimentarius removed any upper dose limit for food irradiation as well as clearances for specific foods, declaring that all are safe to irradiate. countries such as pakistan and brazil have adopted the codex without any reservation or restriction.
+standards that describe calibration and operation for radiation dosimetry, as well as procedures to relate the measured dose to the effects achieved and to report and document such results, are maintained by the american society for testing and materials (astm international) and are also available as iso/astm standards.[72]
+all of the rules involved in processing food are applied to all foods before they are irradiated.
+
+united states[edit]
+the u.s. food and drug administration (fda) is the agency responsible for regulation of radiation sources in the united states.[3] irradiation, as defined by the fda is a "food additive" as opposed to a food process and therefore falls under the food additive regulations. each food approved for irradiation has specific guidelines in terms of minimum and maximum dosage as determined safe by the fda.[3] packaging materials containing the food processed by irradiation must also undergo approval. the united states department of agriculture (usda) amends these rules for use with meat, poultry, and fresh fruit.[73]
+the united states department of agriculture (usda) has approved the use of low-level irradiation as an alternative treatment to pesticides for fruits and vegetables that are considered hosts to a number of insect pests, including fruit flies and seed weevils. under bilateral agreements that allows less-developed countries to earn income through food exports agreements are made to allow them to irradiate fruits and vegetables at low doses to kill insects, so that the food can avoid quarantine.
+
+european union[edit]
+european law dictates that all member countries must allow the sale of irradiated dried aromatic herbs, spices and vegetable seasonings.[74] however, these directives allow member states to maintain previous clearances food categories the ec's scientific committee on food (scf) had previously approved (the approval body is now the european food safety authority). presently, belgium, czech republic, france, italy, netherlands, poland, and the united kingdom allow the sale of many different types of irradiated foods.[75] before individual items in an approved class can be added to the approved list, studies into the toxicology of each of such food and for each of the proposed dose ranges are requested. it also states that irradiation shall not be used "as a substitute for hygiene or health practices or good manufacturing or agricultural practice". these directives only control food irradiation for food retail and their conditions and controls are not applicable to the irradiation of food for patients requiring sterile diets.
+because of the single market of the ec any food, even if irradiated, must be allowed to be marketed in any other member state even if a general ban of food irradiation prevails, under the condition that the food has been irradiated legally in the state of origin.
+furthermore, imports into the ec are possible from third countries if the irradiation facility had been inspected and approved by the ec and the treatment is legal within the ec or some member state.[76][77][78][79][80]
+
+australia[edit]
+australia banned irradiated cat food after a national scare where cats suffered from paralyzation after eating a specific brand of highly irradiated catfood for an extended period of time. the suspected culprit was malnutrition from consuming food depleted of vitamin a by the irradiation process.[81][82] the incident was linked only to a single batch of one brand's product and no illness was linked to any of that brand's other irradiated batches of the same product or to any other brand of irradiated cat food. this, along with incomplete evidence indicating that the cat food was not sufficiently depleted of vitamin a[83] makes irradiation a less likely cause.[84] further research has been able to experimentally induce the paralyzation of cats by via vitamin a deficiency by feeding highly irradiated food.[38] for more details see the long term impacts section.
+
+nuclear safety and security[edit]
+interlocks and safeguards are mandated to minimize this risk. there have been radiation-related accidents, deaths, and injury at such facilities, many of them caused by operators overriding the safety related interlocks.[85] in a radiation processing facility, radiation specific concerns are supervised by special authorities, while "ordinary" occupational safety regulations are handled much like other businesses.
+the safety of irradiation facilities is regulated by the united nations international atomic energy agency and monitored by the different national nuclear regulatory commissions. the regulators enforce a safety culture that mandates that all incidents that occur are documented and thoroughly analyzed to determine the cause and improvement potential. such incidents are studied by personnel at multiple facilities, and improvements are mandated to retrofit existing facilities and future design.
+in the us the nuclear regulatory commission (nrc) regulates the safety of the processing facility, and the united states department of transportation (dot) regulates the safe transport of the radioactive sources.
+
+irradiated food supply[edit]
+as of 2010, the quantities of foods irradiated in asia, the eu and the us were 285,200, 9,300, and 103,000 tons.[86] authorities in some countries use tests that can detect the irradiation of food items to enforce labeling standards and to bolster consumer confidence.[87][88][89] the european union monitors the market to determine the quantity of irradiated foods, if irradiated foods are labeled as irradiated, and if the irradiation is performed at approved facilities.
+irradiation of fruits and vegetables to prevent the spread of pest and diseases across borders has been increasing globally. in 2010, 18,446 tonnes of fruits and vegetables were irradiated in six countries for export quarantine control. 97% of this was exported to the united states.[86]
+in total, 103 000 tonnes of food products were irradiated on mainland united states in 2010. the three types of foods irradiated the most were spices (77.7%), fruits and vegetables (14.6%) and meat and poultry (7.77%). 17 953 tonnes of irradiated fruits and vegetables were exported to the mainland united states.[86] mexico, the united states' state of hawaii, thailand, vietnam and india export irradiated produce to the mainland u.s.[86][90][91] mexico, followed by the united states' state of hawaii, is the largest exporter of irradiated produce to the mainland u.s.[86]
+in total, 6 876 tonnes of food products were irradiated in european union countries in 2013; mainly in four member state countries: belgium (49.4%), the netherlands (24.4%), spain (12.7%) and france (10.0%). the two types of foods irradiated the most were frog legs (46%), and dried herbs and spices (25%). there has been a decrease of 14% in the total quantity of products irradiated in the eu compared to the previous year 2012 (7 972 tonnes).[92]
+
+united states[edit]
+the u.s. food and drug administration and the u.s. department of agriculture have approved irradiation of the following foods and purposes:
+
+packaged refrigerated or frozen red meat[93] — to control pathogens (e. coli o157:h7 and salmonella) and to extend shelf life.[94]
+packaged poultry — control pathogens (salmonella and camplylobacter).[94]
+fresh fruits, vegetables, and grains — to control insects and inhibit growth, ripening and sprouting.[94]
+pork — to control trichinosis.[94]
+herbs, spices and vegetable seasonings[95] — to control insects and microorganisms.[94]
+dry or dehydrated enzyme preparations — to control insects and microorganisms.[94]
+white potatoes — to inhibit sprout development.[94]
+wheat and wheat flour — to control insects.[94]
+loose or bagged fresh iceberg lettuce and spinach[96]
+crustaceans (lobster, shrimp, and crab)[3]
+shellfish (oysters, clams, mussels, and scallops)[3]
+timeline of the history of food irradiation[edit]
+1895 wilhelm conrad röntgen discovers x-rays ("bremsstrahlung", from german for radiation produced by deceleration)
+1896 antoine henri becquerel discovers natural radioactivity; minck proposes the therapeutic use[97]
+1904 samuel prescott describes the bactericide effects massachusetts institute of technology (mit)[98]
+1906 appleby & banks: uk patent to use radioactive isotopes to irradiate particulate food in a flowing bed[99]
+1918 gillett: u.s. patent to use x-rays for the preservation of food[100]
+1921 schwartz describes the elimination of trichinella from food[101]
+1930 wuest: french patent on food irradiation[102]
+1943 mit becomes active in the field of food preservation for the u.s. army[103]
+1951 u.s. atomic energy commission begins to co-ordinate national research activities
+1958 world first commercial food irradiation (spices) at stuttgart, germany[104]
+1970 establishment of the international food irradiation project (ifip), headquarters at the federal research centre for food preservation, karlsruhe, germany
+1980 fao/iaea/who joint expert committee on food irradiation recommends the clearance generally up to 10 kgy "overall average dose"[6]
+1981/1983 end of ifip after reaching its goals
+1983 codex alimentarius general standard for irradiated foods: any food at a maximum "overall average dose" of 10 kgy
+1984 international consultative group on food irradiation (icgfi) becomes the successor of ifip
+1998 the european union's scientific committee on food (scf) voted "positive" on eight categories of irradiation applications[105]
+1997 fao/iaea/who joint study group on high-dose irradiation recommends to lift any upper dose limit[7]
+1999 the european union issues directives 1999/2/ec (framework directive) and 1999/3/ec (implementing directive) limiting irradiation a positive list whose sole content is one of the eight categories approved by the sfc, but allowing the individual states to give clearances for any food previously approved by the sfc.
+2000 germany leads a veto on a measure to provide a final draft for the positive list.
+2003 codex alimentarius general standard for irradiated foods: no longer any upper dose limit
+2003 the scf adopts a "revised opinion" that recommends against the cancellation of the upper dose limit.[40]
+2004 icgfi ends
+2011 the successor to the sfc, european food safety authority (efsa), reexamines the sfc's list and makes further recommendations for inclusion.[106]
+see also[edit]
+
+
+food portal
+technology portal
+deinococcus radiodurans
+food labeling regulations
+food and cooking hygiene
+irradiated mail
+chemical sterilization
+radurization
+notes[edit]
+
+
+references[edit]
+
+
+^ a b c who (1988). food irradiation: a technique for preserving and improving the safety of food. geneva, switzerland: world health organization. isbn 978-924-154240-1..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ "food irradiation" canadian food inspection agency. march 22, 2014.
+
+^ a b c d e f g h i nutrition, center for food safety and applied. "irradiated food & packaging - food irradiation: what you need to know". www.fda.gov. retrieved 2018-04-14.
+
+^ a b conley, s.t., what do consumers think about irradiated foods, fsis food safety review (fall 1992), 11-15
+
+^ a b c d e diehl, j.f., safety of irradiated foods, marcel dekker, n.y., 1995 (2. ed.)
+
+^ a b c d e f world health organization. wholesomeness of irradiated food. geneva, technical report series no. 659, 1981
+
+^ a b c d e f world health organization. high-dose irradiation: wholesomeness of food irradiated with doses above 10 kgy. report of a joint fao/iaea/who study group. geneva, switzerland: world health organization; 1999. who technical report series no. 890
+
+^ a b world health organization. safety and nutritional adequacy of irradiated food. geneva, switzerland: world health organization; 1994
+
+^ a b us department of health, and human services, food, and drug administration irradiation in the production, processing, and handling of food. federal register 1986; 51:13376-13399
+
+^ "irradiation testing for correct labelling you can trust". eurofins scientific. january 2015. retrieved february 9, 2015.
+
+^ "food irradiation clearances". nucleus.iaea.org. retrieved march 19, 2014.
+
+^ "food irradiation, position of ada". j am diet assoc. archived from the original on february 16, 2016. retrieved february  5, 2016. retrieved november 15, 2007
+
+^ c.m. deeley, m. gao, r. hunter, d.a.e. ehlermann, the development of food irradiation in the asia pacific, the americas and europe; tutorial presented to the international meeting on radiation processing, kuala lumpur, 2006. https://web.archive.org/web/20110726172416/http://www.iiaglobal.org/index.php?mact=news%2ccntnt01%2cdetail%2c0&cntnt01articleid=488&cntnt01detailtemplate=resourcecenter-publication-detail-template&cntnt01returnid=231&hl=en_us last visited february 18, 2010
+
+^ kume, t. et al., status of food irradiation in the world, radiat.phys.chem. 78(2009), 222-226
+
+^ farkas, j. et al., history and future of food irradiation, trends food sci. technol. 22 (2011), 121-126
+
+^ loaharanu, paisan (1990). "food irradiation: facts or fiction?" (pdf). iaea bulletin (32.2): 44–48. archived from the original (pdf) on march  4, 2014. retrieved march  3, 2014.
+
+^ a b c d e f loaharanu, paisan (1990). "food irradiation: facts or fiction?" (pdf). iaea bulletin (32.2): 44–48. archived from the original (pdf) on march  4, 2014. retrieved march  3, 2014.
+
+^ blackburn, carl m.; parker, andrew g.; hénon, yves m.; hallman, guy j. (2016-11-20). "phytosanitary irradiation: an overview". florida entomologist. 99 (6): 1–13.
+
+^ joint fao/iaea division of nuclear techniques in food and agriculture, iaea, international database on insect disinfestation and sterilization – ididas – http://www-ididas.iaea.org/ididas/default.htm last visited november 16, 2007
+
+^ "australia export programmes for irradiated fresh produce to new zealand".
+
+^ a b c martin, andrew. spinach and peanuts, with a dash of radiation. the new york times. february 1, 2009.
+
+^ a b c "radiation protection-food safety". epa.gov. retrieved may 19, 2014.
+
+^ "kid question rotting". retrieved may 19, 2014.
+
+^ rajamani karthikeyan; manivasagam t; anantharaman p; balasubramanian t; somasundaram st (2011). "chemopreventive effect of padina boergesenii extracts on ferric nitrilotriacetate (fe-nta)-induced oxidative damage in wistar rats". j. appl. phycol. 23, issue 2, page 257 (2): 257–263. doi:10.1007/s10811-010-9564-0.
+
+^ a b anon., safety and nutritional adequacy of irradiated food, who, geneva, 1994
+
+^ a b "scientific opinion on the chemical safety of irradiation of food". efsa journal. 9 (4): 1930. 2011. doi:10.2903/j.efsa.2011.1930.
+
+^ a b bahramikia s., yazdanparast r. (2010). "antioxidant efficacy of nasturtium officinale extracts using various in vitro assay systems". journal of acupuncture and meridian studies. 3 (4): 283–290. doi:10.1016/s2005-2901(10)60049-0. pmid 21185544.
+
+^ a b bhat r.; sridhar k. r.; tomita y.; tomita-yokotanib k. (2007). "effect of ionizing radiation on antinutritional features of velvet bean seeds (mucuna pruriens)". food chemistry. 103 (3): 860–866. doi:10.1016/j.foodchem.2006.09.037.
+
+^ a b c d pinela, josé; barreira, joão c. m.; barros, lillian; verde, sandra cabo; antonio, amilcar l.; carvalho, ana maria; oliveira, m. beatriz p. p.; ferreira, isabel c. f. r. (2016-09-01). "suitability of gamma irradiation for preserving fresh-cut watercress quality during cold storage". food chemistry. 206: 50–58. doi:10.1016/j.foodchem.2016.03.050. hdl:10198/13361. pmid 27041297.
+
+^ nunes, t. p.; martins, c. g.; faria, a. f.; bíscola, v.; souza, k. l. o.; mercadante, a. z.;  et al. (2013). "changes in total ascorbic acid and caroteniods in minimally processed irradiated arugula". radiation physics and chemistry. 90: 125–130. doi:10.1016/j.radphyschem.2013.03.044. changes in total ascorbic acid and carotenoids in minimally processed irradiated arugula (eruca sativa mill) stored under refrigeration. radiation physics and chemistry, 90, 125–130.
+
+^ fan xuetong (2011). "changes in quality, liking, and purchase intent of irradiated fresh-cut spinach during storage". journal of food science (submitted manuscript). 76 (6): s363–s368. doi:10.1111/j.1750-3841.2011.02207.x. pmid 21623783.
+
+^ vaishnav, j., adiani, v., & variyar, p. s. (2015). radiation processing for enhancing shelf life and quality characteristics of minimally processed ready-to-cook (rtc) cauliflower (brassica oleracea). food packaging and shelf life, 5, 50–55.
+
+^ tripathi, j., chatterjee, s., vaishnav, j., variyar, p. s., & sharma, a. (2013). gamma irradiation increases storability and shelf life of minimally processed ready-tocook (rtc) ash gourd (benincasa hispida) cubes. postharvest biology and technology, 76, 17–25.
+
+^ zeng, f., luo, z., xie, j., & feng, s. (2015). gamma radiation control quality and lignification of bamboo shoots (phyllostachys praecox f. prevernalis.) stored at low temperature. postharvest biology and technology, 102, 17–24.
+
+^ trigo m. j.; sousa m. b.; sapata m. m.; ferreira a.; curado t.; andrada l.; veloso m. g. (2009). "radiation processing of minimally processed vegetables and aromatic plants". radiation physics and chemistry. 78 (7–8): 659–663. doi:10.1016/j.radphyschem.2009.03.052.
+
+^ ramos, b., miller, f. a., brandão, t. r. s., teixeira, p., & silva, c. l. m. (2013). fresh fruits and vegetables – an overview on applied methodologies to improve its quality and safety. innovative food science and emerging technologies, 20, 1–15.
+
+^ louria, donald b. (august 1, 2001). "food irradiation: unresolved issues" (pdf). clinical infectious diseases. 33 (3): 378–380. doi:10.1086/321907. pmid 11438907.
+
+^ a b c caulfield cd, kelly jp, jones br, worrall s, conlon l, palmer ac, cassidy jp (2009). "the experimental induction of leukoencephalomyelopathy in cats". vet pathol. 46 (6): 1258–69. doi:10.1354/vp.08-vp-0336-c-fl. pmid 19605900.
+
+^ "food irradiation: why aren't we using it?". harvard.edu. 2001.
+
+^ a b scientific committee on food. revised opinion #193. archived september 3, 2014, at the wayback machine
+
+^ "what's wrong with food irradiation?". www.organicconsumers.org. archived from the original on april 17, 2017. retrieved april 17, 2017.
+
+^ r.l. wolke, what einstein told his cook – kitchen science explained, w.w. norton & company inc., new york, 2002; see p.310 "some illumination on irradiation"
+
+^ "ethiopia is using radiation to eradicate tsetse flies". voanews.com. november 14, 2012. retrieved june 18, 2014.
+
+^ applegate, k. l.; chipley, j. r. (march 31, 1976). "production of ochratoxin a by aspergillus ochraceus nrrl-3174 before and after exposures to 60co irradiation". applied and environmental microbiology. 31 (3): 349–353. pmc 169778. pmid 938031.
+
+^ "scientific status summary irradiation of food". institute of food technologists’ expert panel on food safety and nutrition in food technology. january 1998. retrieved may 30, 2015.
+
+^ "does the xl foods e-coli scare make the case for irradiation?". issuu.com. february 11, 2001. retrieved june 18, 2014.
+
+^ "food irradiation: questions & answers" (pdf). archived from the original (pdf) on 18 november 2017.
+
+^ ehlermann, dieter a.e. (2009). "the radura-terminology and food irradiation". food control. 20 (5): 526–528. doi:10.1016/j.foodcont.2008.07.023.
+
+^ tim roberts (august 1998). "cold pasteurization of food by irradiation". archived from the original on january  2, 2007. retrieved june  1, 2016.
+
+^ see, e.g., the truth about irradiated meat, consumer reports 34-37 (august 2003).
+
+^ a b "the use of irradiation for post-harvest and quarantine commodity control | ozone depletion – regulatory programs | u.s. epa". archived from the original on april 21, 2006. retrieved march 19, 2014.
+
+^ "anon., dosimetry for food irradiation, iaea, vienna, 2002, technical reports series no. 409" (pdf). retrieved march 19, 2014.
+
+^ k. mehta, radiation processing dosimetry – a practical manual, 2006, gex corporation, centennial, us
+
+^ a b c d e f g h i j k l fellows, p.j. (2018). food processing technology: principles and practices. elsevier. pp. 279–280. isbn 9780081019078.
+
+^ "irradiated food authorization database (ifa)". archived from the original on march 19, 2014. retrieved march 19, 2014.
+
+^ "u. s. food and drug administration. center for food safety & applied nutrition. office of premarket approval. food irradiation: the treatment of foods with ionizing radiation kim m. morehouse, phd published in food testing & analysis, june/july 1998 edition (vol. 4, no. 3, pages 9, 32, 35)". march 29, 2007. archived from the original on march 29, 2007. retrieved march 19, 2014.
+
+^ xuetong, fan (2018-05-29). food irradiation research and technology. wiley-blackwell. isbn 978-0-8138-0209-1.
+
+^ a b c "food irradiation q and a" (pdf). food irradiation processing alliance. 2018-05-29.
+
+^ "information notice no. 89-82: recent safety-related incidents at large irradiators". nrc.gov. retrieved march 19, 2014.
+
+^ "radiation processing with high-energy x-rays" (pdf).
+
+^ (forsythe and evangel 1993, usda 1989)
+
+^ a b (kunstadt et al., usda 1989)
+
+^ "food irradiation guide" (pdf).
+
+^ "annual reports - food safety - european commission".
+
+^ a b p. b. roberts and y. m. hénon, consumer response to irradiated food: purchase versus perception, stewart postharvest review, september 2015, vol. 11 (3:5), issn 1745-9656. http://www.foodirradiation.org/pages/stewart/roberts.pdf
+
+^ consumer attitudes and market response to irradiated food, author: bruhn, christine m.1 journal of food protection, volume 58, number 2, february 1995, pp. 175–181(7), publisher: international association for food protection
+
+^ harris, gardinier, "f.d.a. allows irradiation of some produce", the new york times, august 22, 2008.
+
+^ a b roberts, peter (december 2016). "food irradiation: standards, reguations, and world-wide trade". radiation physics and chemistry. 129: 30–34.
+
+^ "general standard for the labelling of prepackaged foods. codex stan 1-1985" (pdf). retrieved march 19, 2014.
+
+^ "cfr - code of federal regulations title 21". accessdata.fda.gov. retrieved march 19, 2014.
+
+^ http://ec.europa.eu/food/food/biosafety/irradiation/scientific_advices_reports_en.htm
+ expand "food irradiation reports" and select respective annual report and language
+
+^ (see annual book of astm standards, vol. 12.02, west conshohocken, pa, us)
+
+^ usda/fsis and usda/aphis, various final rules on pork, poultry and fresh fruits: fed.reg. 51:1769–1771 (1986); 54:387-393 (1989); 57:43588-43600 (1992); and others more
+
+^ eu: food irradiation – community legislation http://ec.europa.eu/food/food/biosafety/irradiation/comm_legisl_en.htm
+
+^ "official journal of the european communities. 24 november, 2009. list of member states' authorisations of food and food ingredients which may be treated with ionizing radiation.". retrieved march 19, 2014.
+
+^ "official journal of the european communities. 23 october 2002. commission decision of 23 october 2004 adopting the list of approved facilities in third countries for the irradiation of foods.". retrieved march 19, 2014.
+
+^ "official journal of the european communities. october 13, 2004. commission decision of october 7, 2004 amending decision 2002/840/ec adopting the list of approved facilities in third countries for the irradiation of foods." (pdf). retrieved march 19, 2014.
+
+^ "official journal of the european communities. 23 october 2007. commission decision of 4 december 2007 amending decision 2002/840/ec as regards the list of approved facilities in third countries for the irradiation of foods." (pdf). retrieved march 19, 2014.
+
+^ "official journal of the european communities. 23 march 2010 commission decision of 22 march 2010 amending decision 2002/840/ec as regards the list of approved facilities in third countries for the irradiation of foods.". retrieved march 19, 2014.
+
+^ "official journal of the european communities of 24 may 2012 commission implementing decision of 21 may 2012 amending decision 2002/840/ec adopting the list of approved facilities in third countries for the irradiation of foods.". retrieved march 19, 2014.
+
+^ "cat-food irradiation banned as pet theory proved". 2009-05-29.
+
+^ "rspca australia knowledgebase". archived from the original on may 21, 2018. retrieved june 27, 2015.
+
+^ burke, kelly (november 28, 2008). "cat food firm blames death on quarantine controls". the sydney morning herald. retrieved april 29, 2013.
+
+^ dickson, james. "radiation meets food". physics today. archived from the original on april 15, 2013. retrieved march 22, 2013.
+
+^ international atomic energy agency. the radiological accident in soreq
+
+^ a b c d e "food irradiation in asia, the european union, and the united states" (pdf). japan radioisotope association. may 2013. archived from the original (pdf) on february  9, 2015. retrieved january  6, 2015.
+
+^ mcmurray, c.h., gray, r., stewart, e.m., pearce, j., detection methods for irradiated foods, royal society of chemistry; cambridge (gb); 1996
+
+^ raffi, j., delincée, h., marchioni, e., hasselmann, c., sjöberg, a.-m., leonardi, m., kent, m., bögl, k.-w., schreiber, g., stevenson, h., meier, w., concerted action of the community bureau of reference on methods of identification of irradiated foods; bcr information; european commission; luxembourg; 1994, 119 p.; eur--15261
+
+^ "general codex methods for the detection of irradiated foods, codex stan 231-2001, rev.1 2003" (pdf). retrieved march 19, 2014.
+
+^ "aphis factsheet" (pdf). united states department of agriculture • animal and plant health inspection service. december 2008. retrieved march 19, 2014.
+
+^ "guidance for importing mangoes into the united states from pakistan" (pdf). retrieved march 19, 2014.
+
+^ "report from the commission to the european parliament and the council on food and food ingredients treated with ionising radiation for the year 2013" (pdf). european commission. february 25, 2015. retrieved july 18, 2015.
+
+^ anon.,is this technology being used in other countries? archived november 5, 2007, at the wayback machine retrieved on november 15, 2007
+
+^ a b c d e f g h "food irradiation-fmi background" (pdf). food marketing institute. february  5, 2003. archived from the original (pdf) on july 14, 2014. retrieved june  2, 2014.
+
+^ anon., are irradiated foods in the u.s. supermarkets now? archived november 5, 2007, at the wayback machine retrieved on november 15, 2007
+
+^ "irradiation: a safe measure for safer iceberg lettuce and spinach". us fda. august 22, 2008. retrieved december 31, 2009.
+
+^ minck, f. (1896) zur frage über die einwirkung der röntgen'schen strahlen auf bacterien und ihre eventuelle therapeutische verwendbarkeit. münchener medicinische wochenschrift 43 (5), 101-102.
+
+^ s.c. prescott, the effect of radium rays on the colon bacillus, the diphtheria bacillus and yeast. science xx(1904) no.503, 246-248
+
+^ appleby, j. and banks, a. j. improvements in or relating to the treatment of food, more especially cereals and their products. british patent gb 1609 (january 4, 1906).
+
+^ d.c. gillet, apparatus for preserving organic materials by the use of x-rays, us patent no. 1,275,417 (august 13, 1918)
+
+^ schwartz b (1921). "effect of x-rays on trichinae". journal of agricultural research. 20: 845–854.
+
+^ o. wüst, procédé pour la conservation d'aliments en tous genres, brevet d'invention no.701302 (july 17, 1930)
+
+^ physical principles of food preservation: von marcus karel, daryl b. lund, crc press, 2003 isbn 0-8247-4063-7, s. 462 ff.
+
+^ k.f. maurer, zur keimfreimachung von gewürzen, ernährungswirtschaft 5(1958) nr.1, 45-47
+
+^ scientific committee on food. 15. archived may 16, 2014, at the wayback machine
+
+^ european food safety authority (2011). "statement summarising the conclusions and recommendations from the opinions on the safety of irradiation of food adopted by the biohaz and cef panels". efsa journal. 9 (4): 2107. doi:10.2903/j.efsa.2011.2107.
+
+
+further reading[edit]
+world health organization publications:
+safety and nutritional adequacy of irradiated food, who, geneva, 1994
+high-dose irradiation: wholesomeness of food irradiated with doses above 10 kgy, who, geneva, 1999, technical report series no. 890
+facts about food irradiation, a series of fact sheets from the international consultative group on food irradiation (icgfi), 1999, iaea, vienna, austria at the wayback machine (archived 2006-03-16)
+diehl, j.f., safety of irradiated foods, marcel dekker, n.y., 1995 (2. ed.)
+satin, m., food irradiation, technomic, lancaster, 1996 (2. ed.)
+urbain, w.m., food irradiation, academic press, orlando, 1986
+molins, r. (ed.), food irradiation – principles and applications, wiley interscience, n.y., 2001
+sommers, c.h. and fan, x. (eds.), food irradiation research and technology, blackwell publishing, ames, ia, 2006
+hauter, w. and worth, m., zapped! irradiation and the death of food, food & water watch press, washington, dc, 2008. at the library of congress web archives (archived 2010-08-06)
+the food that would last forever : understanding the dangers of food irradiation, by gary gibbs, garden city park, n.y. : avery pub. group, c1993
+anon., food irradiation: available research indicates that benefits outweigh risks, rced-00-217, august 24, 2000, government accountability office, united states general accounting office, resources, community, and economic development division, washington, d.c. 20548 "food irradiation"
+farkas, j. and mohácsi-farkas, c., history and future of food irradiation, food sci. technol. 22(2011),121-128
+who statement on 2-dodecylcyclobutanone and related compounds, 2003 at the wayback machine (archived 2013-04-29)
+evaluation of the significance of 2-dodecylcyclobutanone and other alkylcyclobutanones
+external links[edit]
+
+
+
+wikimedia commons has media related to food irradiation.
+
+
+
+wikibooks has more on the topic of: food irradiation
+
+
+
+look up food irradiation in wiktionary, the free dictionary.
+codex alimentarius
+codex alimentarius general standard for irradiated foods (cac/stan 106-1983, rev.1 2003) at the wayback machine (archived 2007-09-26)
+codex alimentarius recommended international code of practice code for radiation processing of foods (cac/rcp 19-1979, rev.2 – 2003)[dead link]
+general standard for the labelling of prepacked foods (codex stan 1-1985)
+food irradiation processing alliance fipa represents the irradiation service industry, manufacturers of food irradiators and suppliers of cobalt-60 sources.
+food & water watch – food irradiation page at the wayback machine (archived 2010-02-09)
+u.s. food irradiation faq at the wayback machine (archived 2007-10-15), food and water watch
+irradiation of food and food packaging at the wayback machine (archived 2009-03-04), center for food safety and applied nutrition (us government)
+irradiation fact sheet at the wayback machine (archived 2007-07-31), center for food safety (us non-profit organisation)
+facts about food irradiation at the wayback machine (archived 2006-03-16), a series of 14 fact sheets, international consultative group on food irradiation, international atomic energy agency, vienna, 1991
+bibliography on food irradiation, federal research centre for nutrition and food, karlsruhe, germany
+should we irradiate fruit and vegetables? dateline nbc investigation
+irradiation faq at the wayback machine (archived 2010-09-05), provided by benebion of mexico
+anon. what's wrong with food irradiation, revised february 2001, organic consumers association, us
+comment by dr. henry delincée on an affidavit misrepresenting the conclusions of his studies on unique radiolytical byproducts at the wayback machine (archived 2007-07-09)
+the basics on the foodfight over irradiation | health.usnews.com
+vtefood preservation
+biopreservation
+canning
+cold chain
+curing
+drying
+fermentation
+freeze-drying
+freezing
+hurdle technology
+irradiation
+jamming
+jellying
+jugging
+modified atmosphere
+pascalization
+pickling
+potting
+confit
+potjevleesch
+salting
+smoking
+sugaring
+tyndallization
+vacuum packing
+ food preservation portal •   category: food preservation
+vtefood safetyadulterants, food contaminants
+3-mcpd
+aldicarb
+cyanide
+formaldehyde
+lead poisoning
+melamine
+mercury in fish
+sudan i
+flavorings
+monosodium glutamate (msg)
+salt
+sugar
+high-fructose corn syrup
+microorganisms
+botulism
+campylobacter jejuni
+clostridium perfringens
+escherichia coli o104:h4
+escherichia coli o157:h7
+hepatitis a
+hepatitis e
+listeria
+norovirus
+rotavirus
+salmonella
+parasitic infections through food
+amoebiasis
+anisakiasis
+cryptosporidiosis
+cyclosporiasis
+diphyllobothriasis
+enterobiasis
+fasciolopsiasis
+fasciolosis
+giardiasis
+gnathostomiasis
+paragonimiasis
+toxoplasmosis
+trichinosis
+trichuriasis
+pesticides
+chlorpyrifos
+ddt
+lindane
+malathion
+methamidophos
+preservatives
+benzoic acid
+ethylenediaminetetraacetic acid (edta)
+sodium benzoate
+sugar substitutes
+acesulfame potassium
+aspartame
+saccharin
+sodium cyclamate
+sorbitol
+sucralose
+toxins, poisons, environment pollution
+aflatoxin
+arsenic contamination of groundwater
+benzene in soft drinks
+bisphenol a
+dieldrin
+diethylstilbestrol
+dioxin
+mycotoxins
+nonylphenol
+shellfish poisoning
+food contamination incidents
+devon colic
+swill milk scandal
+1858 bradford sweets poisoning
+1900 english beer poisoning
+morinaga milk arsenic poisoning incident
+minamata disease
+1971 iraq poison grain disaster
+toxic oil syndrome
+1993 jack in the box e. coli outbreak
+1996 odwalla e. coli outbreak
+2006 north american e. coli outbreaks
+ica meat repackaging controversy
+2008 canada listeriosis outbreak
+2008 chinese milk scandal
+2008 irish pork crisis
+2008 united states salmonellosis outbreak
+2011 germany e. coli outbreak
+2011 taiwan food scandal
+2011 united states listeriosis outbreak
+2013 bihar school meal poisoning
+2013 horse meat scandal
+2013 taiwan food scandal
+2014 taiwan food scandal
+2017 brazil weak meat scandal
+2017–18 south african listeriosis outbreak
+2018 australian rockmelon listeriosis outbreak
+2018 australian strawberry contamination
+food safety incidents in china
+food safety in australia
+foodborne illness
+outbreaks
+death toll
+united states
+regulation, standards, watchdogs
+acceptable daily intake
+e number
+food labeling regulations
+food libel laws
+international food safety network
+iso 22000
+quality assurance international
+institutions
+centre for food safety
+european food safety authority
+institute for food safety and health
+international food safety network
+ministry of food and drug safety
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=food_irradiation&oldid=880355337"					
+categories: food preservationfoodborne illnessespasteurized foodspest control techniquesradiationradiobiologyintensive farmingenvironmental controversiesscientific controversieshidden categories: cs1: long volume valuewebarchive template wayback linksarticles with short descriptionuse mdy dates from october 2015webarchive template other archivesall articles with dead external linksarticles with dead external links from march 2017 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+العربيةcatalàdeutschespañolفارسیfrançaisgaeilgeहिन्दीitalianoעבריתnederlands日本語polskiportuguêsromânăрусскийsuomiукраїнськаtiếng việtwinaray中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 26 january 2019, at 23:59 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.996","walltime":"1.147","ppvisitednodes":{"value":4712,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":156766,"limit":2097152},"templateargumentsize":{"value":2405,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":227952,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  925.780      1 -total"," 64.06%  593.039      2 template:reflist"," 19.47%  180.292     40 template:cite_web"," 16.21%  150.048     19 template:cite_journal"," 10.08%   93.326      3 template:cite_book","  4.35%   40.242      1 template:dead_link","  4.02%   37.256      1 template:short_description","  3.89%   36.014      2 template:navbox","  3.73%   34.525      1 template:pagetype","  3.71%   34.382     15 template:webarchive"]},"scribunto":{"limitreport-timeusage":{"value":"0.461","limit":"10.000"},"limitreport-memusage":{"value":6655080,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1328","timestamp":"20190216024620","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"food irradiation","url":"https:\/\/en.wikipedia.org\/wiki\/food_irradiation","sameas":"http:\/\/www.wikidata.org\/entity\/q1330911","mainentity":"http:\/\/www.wikidata.org\/entity\/q1330911","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2001-12-14t13:07:42z","datemodified":"2019-01-26t23:59:08z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/43\/cobalt-60_irradiator.tif","headline":"process of treating food and other consumer products with gamma rays, x-rays, or high voltage electrons to kill potential harmful bacteria"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":1309,"wghostname":"mw1328"});});
+
+

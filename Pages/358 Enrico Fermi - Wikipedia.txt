@@ -1,0 +1,1159 @@
+
+
+
+
+enrico fermi - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"enrico_fermi","wgtitle":"enrico fermi","wgcurrevisionid":880365190,"wgrevisionid":880365190,"wgarticleid":10264,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["cs1 italian-language sources (it)","cs1 german-language sources (de)","cs1 french-language sources (fr)","cs1: long volume value","articles with short description","featured articles","use dmy dates from january 2013","biography with signature","infobox person using alma mater","articles with hcards","articles containing italian-language text","articles containing german-language text","wikipedia articles with bibsys identifiers","wikipedia articles with bne identifiers","wikipedia articles with bnf identifiers","wikipedia articles with cinii identifiers","wikipedia articles with gnd identifiers","wikipedia articles with isni identifiers","wikipedia articles with lccn identifiers","wikipedia articles with lnb identifiers","wikipedia articles with mgp identifiers","wikipedia articles with nara identifiers","wikipedia articles with ndl identifiers","wikipedia articles with nkc identifiers","wikipedia articles with nla identifiers","wikipedia articles with sbn identifiers","wikipedia articles with selibr identifiers","wikipedia articles with snac-id identifiers","wikipedia articles with sudoc identifiers","wikipedia articles with viaf identifiers","wikipedia articles with worldcat-viaf identifiers","ac with 18 elements","1901 births","1954 deaths","enrico fermi","italian physicists","american nuclear physicists","italian nuclear physicists","experimental physicists","theoretical physicists","quantum physicists","relativity theorists","thermodynamicists","20th-century american physicists","manhattan project people","italian inventors","nobel laureates in physics","italian nobel laureates","medal for merit recipients","national inventors hall of fame inductees","members of the american physical society","foreign members of the royal society","corresponding members of the ussr academy of sciences","members of the royal academy of italy","members of the lincean academy","participants in the les houches physics summer school","american scientists of italian descent","italian emigrants to the united states","monte carlo methodologists","university of chicago faculty","columbia university faculty","university of göttingen faculty","sapienza university of rome faculty","university of pisa alumni","american agnostics","italian agnostics","italian freemasons","people from leonia, new jersey","people from rome","deaths from stomach cancer","deaths from cancer in illinois","burials in illinois"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"enrico_fermi","wgrelevantarticleid":10264,"wgrequestid":"xgrjmwpamfaaabgq2y0aaacf","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q8753","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","ext.math.scripts","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+enrico fermi 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+"fermi" redirects here. for other uses, see fermi (disambiguation).
+nuclear physicist
+
+
+enrico fermienrico fermi (1901–1954)born(1901-09-29)29 september 1901rome, italydied28 november 1954(1954-11-28) (aged 53)chicago, illinois, united statescitizenshipitalian (1901–44)american (1944–54)alma materscuola normale superioreknown for
+demonstrating first self-sustaining nuclear chain reaction
+fermi–dirac statistics
+fermi's golden rule
+fermi paradox
+fermi method
+fermi theory of beta decay
+spouse(s)laura capon fermiawards
+matteucci medal (1926)
+nobel prize (1938)
+hughes medal (1942)
+medal for merit (1946)
+franklin medal (1947)
+formemrs (1950)
+barnard medal for meritorious service to science (1950)
+rumford prize (1953)
+max planck medal (1954)
+scientific careerfieldsphysicsinstitutionsscuola normale superioreuniversity of göttingenleiden universityuniversity of florencesapienza university of romecolumbia universityuniversity of chicagoacademic advisors
+luigi puccianti
+max born
+paul ehrenfest
+doctoral students
+harold agnew
+edoardo amaldi
+owen chamberlain
+geoffrey chew
+mildred dresselhaus
+jerome friedman
+richard garwin
+marvin goldberger
+tsung-dao lee
+ettore majorana
+arthur rosenfeld
+emilio segrè
+sam treiman
+other notable students
+jack steinberger
+chen ning yang
+
+signature
+enrico fermi (italian: [enˈriːko ˈfermi]; 29 september 1901 – 28 november 1954) was an italian and naturalized-american physicist and the creator of the world's first nuclear reactor, the chicago pile-1. he has been called the "architect of the nuclear age"[1] and the "architect of the atomic bomb".[2] he was one of very few physicists to excel in both theoretical physics and experimental physics. fermi held several patents related to the use of nuclear power, and was awarded the 1938 nobel prize in physics for his work on induced radioactivity by neutron bombardment and for the discovery of transuranium elements.  he made significant contributions to the development of statistical mechanics, quantum theory, and nuclear and particle physics.
+fermi's first major contribution was to statistical mechanics. after wolfgang pauli formulated his exclusion principle in 1925, fermi followed with a paper in which he applied the principle to an ideal gas, employing a statistical formulation now known as fermi–dirac statistics. today, particles that obey the exclusion principle are called "fermions". pauli later postulated the existence of an uncharged invisible particle emitted along with an electron during beta decay, to satisfy the law of conservation of energy. fermi took up this idea, developing a model that incorporated the postulated particle, which he named the "neutrino". his theory, later referred to as fermi's interaction and now called weak interaction, described one of the four fundamental interactions in nature. through experiments inducing radioactivity with the recently discovered neutron, fermi discovered that slow neutrons were more easily captured by atomic nuclei than fast ones, and he developed the fermi age equation to describe this. after bombarding thorium and uranium with slow neutrons, he concluded that he had created new elements. although he was awarded the nobel prize for this discovery, the new elements were later revealed to be nuclear fission products.
+fermi left italy in 1938 to escape new italian racial laws that affected his jewish wife, laura capon. he emigrated to the united states, where he worked on the manhattan project during world war ii. fermi led the team that designed and built chicago pile-1, which went critical on 2 december 1942, demonstrating the first human-created, self-sustaining nuclear chain reaction. he was on hand when the x-10 graphite reactor at oak ridge, tennessee, went critical in 1943, and when the b reactor at the hanford site did so the next year. at los alamos, he headed f division, part of which worked on edward teller's thermonuclear "super" bomb. he was present at the trinity test on 16 july 1945, where he used his fermi method to estimate the bomb's yield.
+after the war, fermi served under j. robert oppenheimer on the general advisory committee, which advised the atomic energy commission on nuclear matters. following the detonation of the first soviet fission bomb in august 1949, he strongly opposed the development of a hydrogen bomb on both moral and technical grounds. he was among the scientists who testified on oppenheimer's behalf at the 1954 hearing that resulted in the denial of oppenheimer's security clearance. fermi did important work in particle physics, especially related to pions and muons, and he speculated that cosmic rays arose when material was accelerated by magnetic fields in interstellar space. many awards, concepts, and institutions are named after fermi, including the enrico fermi award, the enrico fermi institute, the fermi national accelerator laboratory, the fermi gamma-ray space telescope, the enrico fermi nuclear generating station, and the synthetic element fermium, making him one of 16 scientists who have elements named after them.
+
+contents
+
+1 early life
+2 scuola normale superiore in pisa
+3 professor in rome
+4 manhattan project
+5 post-war work
+6 death
+7 impact and legacy
+
+7.1 legacy
+7.2 things named in fermi's honor
+
+
+8 bibliography
+9 patents
+10 notes
+11 references
+12 external links
+
+
+early life[edit]
+ via gaeta 19, rome, where fermi was born
+enrico fermi was born in rome, italy, on 29 september 1901. he was the third child of alberto fermi, a division head (capo divisione) in the ministry of railways, and ida de gattis, an elementary school teacher.[3][4] his sister, maria, was two years older than him, and his brother giulio was a year older. after the two boys were sent to a rural community to be wet nursed, enrico rejoined his family in rome when he was two and a half.[5]  although he was baptised a roman catholic in accordance with his grandparents' wishes, his family was not particularly religious; enrico was an agnostic throughout his adult life. as a young boy he shared the same interests as his brother giulio, building electric motors and playing with electrical and mechanical toys.[6] giulio died during the administration of an anesthetic for an operation on a throat abscess in 1915.[7] maria died in an airplane crash near milano in 1959.[8]
+one of fermi's first sources for his study of physics was a book he found at the local market at campo de' fiori in rome. published in 1840, the 900-page elementorum physicae mathematicae, was written in latin by jesuit father andrea caraffa, a professor at the collegio romano. it covered mathematics, classical mechanics, astronomy, optics, and acoustics, insofar as these disciplines were understood when the book was written.[9][10] fermi befriended another scientifically inclined student, enrico persico,[11] and together the two worked on scientific projects such as building gyroscopes and trying to accurately measure the acceleration of earth's gravity.[12] fermi's interest in physics was further encouraged by his father's colleague adolfo amidei, who gave him several books on physics and mathematics, which he read and assimilated quickly.[13]
+
+scuola normale superiore in pisa[edit]
+ enrico fermi as a student in pisa
+fermi graduated from high school in july 1918 and, at amidei's urging, applied to the scuola normale superiore in pisa. having lost one son, his parents were reluctant to let him move away from home for four years while attending it, but in the end they acquiesced. the school provided free lodging for students, but candidates had to take a difficult entrance exam that included an essay. the given theme was "specific characteristics of sounds". the 17-year-old fermi chose to derive and solve the partial differential equation for a vibrating rod, applying fourier analysis in the solution. the examiner, professor giulio pittarelli from the sapienza university of rome, interviewed fermi and praised him, saying that he would become an outstanding physicist in the future. fermi achieved first place in the classification of the entrance exam.[14][15]
+during his years at the scuola normale superiore, fermi teamed up with a fellow student named franco rasetti with whom he would indulge in light-hearted pranks and who would later become fermi's close friend and collaborator. in pisa, fermi was advised by the director of the physics laboratory, luigi puccianti, who acknowledged that there was little that he could teach fermi, and frequently asked fermi to teach him something instead. fermi's knowledge of quantum physics reached such a high level that puccianti asked him to organize seminars on the topic.[16] during this time fermi learned tensor calculus, a mathematical technique invented by gregorio ricci and tullio levi-civita that was needed to demonstrate the principles of general relativity.[17] fermi initially chose mathematics as his major, but soon switched to physics. he remained largely self-taught, studying general relativity, quantum mechanics, and atomic physics.[18]
+in september 1920, fermi was admitted to the physics department. since there were only three students in the department—fermi, rasetti, and nello carrara—puccianti let them freely use the laboratory for whatever purposes they chose. fermi decided that they should research x-ray crystallography, and the three worked to produce a laue photograph—an x-ray photograph of a crystal.[19] during 1921, his third year at the university, fermi published his first scientific works in the italian journal nuovo cimento. the first was entitled "on the dynamics of a rigid system of electrical charges in translational motion" (sulla dinamica di un sistema rigido di cariche elettriche in moto traslatorio). a sign of things to come was that the mass was expressed as a tensor—a mathematical construct commonly used to describe something moving and changing in three-dimensional space. in classical mechanics, mass is a scalar quantity, but in relativity it changes with velocity. the second paper was "on the electrostatics of a uniform gravitational field of electromagnetic charges and on the weight of electromagnetic charges" (sull'elettrostatica di un campo gravitazionale uniforme e sul peso delle masse elettromagnetiche). using general relativity, fermi showed that a charge has a weight equal to u/c2, where u was the electrostatic energy of the system, and c is the speed of light.[18]
+the first paper seemed to point out a contradiction between the electrodynamic theory and the relativistic one concerning the calculation of the electromagnetic masses, as the former predicted a value of 4/3 u/c2. fermi addressed this the next year in a paper "concerning a contradiction between electrodynamic and the relativistic theory of electromagnetic mass" in which he showed that the apparent contradiction was a consequence of relativity. this paper was sufficiently well-regarded that it was translated into german and published in the german scientific journal physikalische zeitschrift in 1922.[20] that year, fermi submitted his article "on the phenomena occurring near a world line" (sopra i fenomeni che avvengono in vicinanza di una linea oraria) to the italian journal i rendiconti dell'accademia dei lincei. in this article he examined the principle of equivalence, and introduced the so-called "fermi coordinates". he proved that on a world line close to the time line, space behaves as if it were a euclidean space.[21][22]
+
+ a light cone is a three-dimensional surface of all possible light rays arriving at and departing from a point in spacetime. here, it is depicted with one spatial dimension suppressed. the time line is the vertical axis.
+fermi submitted his thesis, "a theorem on probability and some of its applications" (un teorema di calcolo delle probabilità ed alcune sue applicazioni), to the scuola normale superiore in july 1922, and received his laurea at the unusually young age of 20. the thesis was on x-ray diffraction images. theoretical physics was not yet considered a discipline in italy, and the only thesis that would have been accepted was one on experimental physics. for this reason, italian physicists were slow in embracing the new ideas like relativity coming from germany. since fermi was quite at home in the lab doing experimental work, this did not pose insurmountable problems for him.[22]
+while writing the appendix for the italian edition of the book fundamentals of einstein relativity by august kopff in 1923, fermi was the first to point out that hidden inside the famous einstein equation (e = mc2) was an enormous amount of nuclear potential energy to be exploited. "it does not seem possible, at least in the near future", he wrote, "to find a way to release these dreadful amounts of energy—which is all to the good because the first effect of an explosion of such a dreadful amount of energy would be to smash into smithereens the physicist who had the misfortune to find a way to do it."[22]
+in 1924 fermi was initiated into freemasonry in the masonic lodge "adriano lemmi" of the grand orient of italy.[23]
+fermi decided to travel abroad, and spent a semester studying under max born at the university of göttingen, where he met werner heisenberg and pascual jordan. fermi then studied in leiden with paul ehrenfest from september to december 1924 on a fellowship from the rockefeller foundation obtained through the intercession of the mathematician vito volterra. here fermi met hendrik lorentz and albert einstein, and became good friends with samuel goudsmit and jan tinbergen.  from january 1925 to late 1926, fermi taught mathematical physics and theoretical mechanics at the university of florence, where he teamed up with rasetti to conduct a series of experiments on the effects of magnetic fields on mercury vapour. he also participated in seminars at the sapienza university of rome, giving lectures on quantum mechanics and solid state physics.[24] while giving lectures on the new quantum mechanics based on the remarkable accuracy of predictions of the schrödinger equation, the italian physicist would often say, "it has no business to fit so well!"[25]
+after wolfgang pauli announced his exclusion principle in 1925, fermi responded with a paper "on the quantisation of the perfect monoatomic gas" (sulla quantizzazione del gas perfetto monoatomico), in which he applied the exclusion principle to an ideal gas. the paper was especially notable for fermi's statistical formulation, which  describes the distribution of particles in systems of many identical particles that obey the exclusion principle. this was independently developed soon after by the british physicist paul dirac, who also showed how it was related to the bose–einstein statistics. accordingly, it is now known as fermi–dirac statistics.[26] following dirac, particles that obey the exclusion principle are today called "fermions", while those that do not are called "bosons".[27]
+
+professor in rome[edit]
+ fermi and his students (the via panisperna boys) in the courtyard of rome university's physics institute in via panisperna, about 1934. from left to right: oscar d'agostino, emilio segrè, edoardo amaldi, franco rasetti and fermi
+professorships in italy were granted by competition (concorso) for a vacant chair, the applicants being rated on their publications by a committee of professors. fermi applied for a chair of mathematical physics at the university of cagliari on sardinia, but was narrowly passed over in favour of giovanni giorgi.[28] in 1926, at the age of 24, he applied for a professorship at the sapienza university of rome. this was a new chair, one of the first three in theoretical physics in italy, that had been created by the minister of education at the urging of professor orso mario corbino, who was the university's professor of experimental physics, the director of the institute of physics, and a member of benito mussolini's cabinet. corbino, who also chaired the selection committee, hoped that the new chair would raise the standard and reputation of physics in italy.[29] the committee chose fermi ahead of enrico persico and aldo pontremoli,[30] and corbino helped fermi recruit his team, which was soon joined by notable students such as edoardo amaldi, bruno pontecorvo, ettore majorana and emilio segrè, and by franco rasetti, whom fermi had appointed as his assistant.[31] they were soon nicknamed the "via panisperna boys" after the street where the institute of physics was located.[32]
+fermi married laura capon, a science student at the university, on 19 july 1928.[33] they had two children: nella, born in january 1931, and giulio, born in february 1936.[34] on 18 march 1929, fermi was appointed a member of the royal academy of italy by  mussolini, and on 27 april he joined the fascist party. he later opposed fascism when the 1938 racial laws were promulgated by mussolini in order to bring italian fascism ideologically closer to german national socialism. these laws threatened laura, who was jewish, and put many of fermi's research assistants out of work.[35][36][37][38][39]
+during their time in rome, fermi and his group made important contributions to many practical and theoretical aspects of physics. in 1928, he published his introduction to atomic physics (introduzione alla fisica atomica), which provided italian university students with an up-to-date and accessible text. fermi also conducted public lectures and wrote popular articles for scientists and teachers in order to spread knowledge of the new physics as widely as possible.[40] part of his teaching method was to gather his colleagues and graduate students together at the end of the day and go over a problem, often from his own research.[40][41] a sign of success was that foreign students now began to come to italy. the most notable of these was the german physicist hans bethe,[42] who came to rome as a rockefeller foundation fellow, and collaborated with fermi on a 1932 paper "on the interaction between two electrons" (german: über die wechselwirkung von zwei elektronen).[40]
+at this time, physicists were puzzled by beta decay, in which an electron was emitted from the atomic nucleus. to satisfy the law of conservation of energy, pauli postulated the existence of an invisible particle with no charge and little or no mass that was also emitted at the same time. fermi took up this idea, which he developed in a tentative paper in 1933, and then a longer paper the next year that incorporated the postulated particle, which fermi called a "neutrino".[43][44][45] his theory, later referred to as fermi's interaction, and still later as the theory of the weak interaction, described one of the four fundamental forces of nature. the neutrino was detected after his death, and his interaction theory showed why it was so difficult to detect. when he submitted his paper to the british journal nature, that journal's editor turned it down because it contained speculations which were "too remote from physical reality to be of interest to readers".[44] thus fermi saw the theory published in italian and german before it was published in english.[31]
+
+in the introduction to the 1968 english translation, physicist fred l. wilson noted that:.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}fermi's theory, aside from bolstering pauli's proposal of the neutrino, has a special significance in the history of modern physics. one must remember that only the naturally occurring β emitters were known at the time the theory was proposed. later when positron decay was discovered, the process was easily incorporated within fermi's original framework. on the basis of his theory, the capture of an orbital electron by a nucleus was predicted and eventually observed. with time much experimental data has accumulated. although peculiarities have been observed many times in β decay, fermi's theory always has been equal to the challenge.the consequences of the fermi theory are vast. for example, β spectroscopy was established as a powerful tool for the study of nuclear structure. but perhaps the most influential aspect of this work of fermi is that his particular form of the β interaction established a pattern which has been appropriate for the study of other types of interactions. it was the first successful theory of the creation and annihilation of material particles. previously, only photons had been known to be created and destroyed.[45]
+
+in january 1934, irène joliot-curie and frédéric joliot announced that they had bombarded elements with alpha particles and induced radioactivity in them.[46][47] by march, fermi's assistant gian-carlo wick had provided a theoretical explanation using fermi's theory of beta decay. fermi decided to switch to experimental physics, using the neutron, which james chadwick had discovered in 1932.[48] in march 1934, fermi wanted to see if he could induce radioactivity with rasetti's polonium-beryllium neutron source. neutrons had no electric charge, and so would not be deflected by the positively charged nucleus. this meant that they needed much less energy to penetrate the nucleus than charged particles, and so would not require a particle accelerator, which the via panisperna boys did not have.[49][50]
+
+ enrico fermi between franco rasetti (left) and emilio segrè in academic dress
+fermi had the idea to resort to replacing the polonium-beryllium neutron source with a radon-beryllium one, which he created by filling a glass bulb with beryllium powder, evacuating the air, and then adding 50 mci of radon gas, supplied by giulio cesare trabacchi.[51][52] this created a much stronger neutron source, the effectiveness of which declined with the 3.8-day half-life of radon. he knew that this source would also emit gamma rays, but, on the basis of his theory, he believed that this would not affect the results of the experiment. he started by bombarding platinum, an element with a high atomic number that was readily available, without success. he turned to aluminium, which emitted an alpha particle and produced sodium, which then decayed into magnesium by beta particle emission. he tried lead, without success, and then fluorine in the form of calcium fluoride, which emitted an alpha particle and produced nitrogen, decaying into oxygen by beta particle emission. in all, he induced radioactivity in 22 different elements.[53] fermi rapidly reported the discovery of neutron-induced radioactivity in the italian journal la ricerca scientifica on 25 march 1934.[52][54][55]
+the natural radioactivity of thorium and uranium made it hard to determine what was happening when these elements were bombarded with neutrons but, after correctly eliminating the presence of elements lighter than uranium but heavier than lead, fermi concluded that they had created new elements, which he called hesperium and ausonium.[56][50] the chemist ida noddack suggesting that some of the experiments could have produced lighter elements than lead rather than new, heavier elements. her suggestion was not taken seriously at the time because her team had not carried out any experiments with uranium or build the theoretical basis for this possibility. at that time, fission was thought to be improbable if not impossible on theoretical grounds. while physicists expected elements with higher atomic numbers to form from neutron bombardment of lighter elements, nobody expected neutrons to have enough energy to split a heavier atom into two light element fragments in the manner that noddack suggested.[57][56]
+
+ beta decay. a neutron decays into a proton, and an electron is emitted. in order for the total energy in the system to remain the same, pauli and fermi postulated that a neutrino (
+
+
+
+
+
+
+
+ν
+¯
+
+
+
+
+e
+
+
+
+
+{\displaystyle {\bar {\nu }}_{e}}
+
+) was also emitted
+the via panisperna boys also noticed some unexplained effects. the experiment seemed to work better on a wooden table than a marble table top. fermi remembered that joliot-curie and chadwick had noted that paraffin wax was effective at slowing neutrons, so he decided to try that. when neutrons were passed through paraffin wax, they induced a hundred times as much radioactivity in silver compared with when it was bombarded without the paraffin. fermi guessed that this was due to the hydrogen atoms in the paraffin. those in wood similarly explained the difference between the wooden and the marble table tops. this was confirmed by repeating the effect with water. he concluded that collisions with hydrogen atoms slowed the neutrons.[58][50] the lower the atomic number of the nucleus it collides with, the more energy a neutron loses per collision, and therefore the fewer collisions that are required to slow a neutron down by a given amount.[59] fermi realised that this induced more radioactivity because slow neutrons were more easily captured than fast ones. he developed a diffusion equation to describe this, which became known as the fermi age equation.[58][50]
+in 1938 fermi received the nobel prize in physics at the age of 37 for his "demonstrations of the existence of new radioactive elements produced by neutron irradiation, and for his related discovery of nuclear reactions brought about by slow neutrons".[60] after fermi received the prize in stockholm, he did not return home to italy, but rather continued to new york city with his family in december 1938, where they applied for permanent residency. the decision to move to america and become u.s. citizens was due primarily to the racial laws in italy.[35]
+
+manhattan project[edit]
+fermi arrived in new york city on 2 january 1939.[61] he was immediately offered posts at five universities, and accepted a post at columbia university,[62] where he had already given summer lectures in 1936.[63] he received the news that in december 1938, the german chemists otto hahn and fritz strassmann had detected the element barium after bombarding uranium with neutrons,[64] which lise meitner and her nephew otto frisch correctly interpreted as the result of nuclear fission. frisch confirmed this experimentally on 13 january 1939.[65][66] the news of meitner and frisch's interpretation of hahn and strassmann's discovery crossed the atlantic with niels bohr, who was to lecture at princeton university. isidor isaac rabi and willis lamb, two columbia university physicists working at princeton, found out about it and carried it back to columbia. rabi said he told enrico fermi, but fermi later gave the credit to lamb:[67]
+
+i remember very vividly the first month, january, 1939, that i started working at the pupin laboratories because things began happening very fast. in that period, niels bohr was on a lecture engagement at the princeton university and i remember one afternoon willis lamb came back very excited and said that bohr had leaked out great news. the great news that had leaked out was the discovery of fission and at least the outline of its interpretation. then, somewhat later that same month, there was a meeting in washington where the possible importance of the newly discovered phenomenon of fission was first discussed in semi-jocular earnest as a possible source of nuclear power.[68]
+
+noddack was proven right after all. fermi had dismissed the possibility of fission on the basis of his calculations, but he had not taken into account the binding energy that would appear when a nuclide with an odd number of neutrons absorbed an extra neutron.[57] for fermi, the news came as a profound embarrassment, as the transuranic elements that he had partly been awarded the nobel prize for discovering had not been transuranic elements at all, but fission products. he added a footnote to this effect to his nobel prize acceptance speech.[67][69]
+
+ illustration of chicago pile-1, the first nuclear reactor to achieve a self-sustaining chain reaction. designed by fermi, it consisted of uranium and uranium oxide in a cubic lattice embedded in graphite.
+the scientists at columbia decided that they should try to detect the energy released in the nuclear fission of uranium when bombarded by neutrons. on 25 january 1939, in the basement of pupin hall at columbia, an experimental team including fermi conducted the first nuclear fission experiment in the united states. the other members of the team were herbert l. anderson, eugene t. booth, john r. dunning, g. norris glasoe, and francis g. slack.[70] the next day, the fifth washington conference on theoretical physics began in washington, d.c. under the joint auspices of george washington university and the carnegie institution of washington. there, the news on nuclear fission was spread even further, fostering many more experimental demonstrations.[71]
+french scientists hans von halban, lew kowarski, and frédéric joliot-curie had demonstrated that uranium bombarded by neutrons emitted more neutrons than it absorbed, suggesting the possibility of a chain reaction.[72] fermi and anderson did so too a few weeks later.[73][74] leó szilárd obtained 200 kilograms (440 lb) of uranium oxide from canadian radium producer eldorado gold mines limited, allowing fermi and anderson to conduct experiments with fission on a much larger scale.[75] fermi and szilárd collaborated on a design of a device to achieve a self-sustaining nuclear reaction—a nuclear reactor. owing to the rate of absorption of neutrons by the hydrogen in water, it was unlikely that a self-sustaining reaction could be achieved with natural uranium and water as a neutron moderator. fermi suggested, based on his work with neutrons, that the reaction could be achieved with uranium oxide blocks and graphite as a moderator instead of water. this would reduce the neutron capture rate, and in theory make a self-sustaining chain reaction possible. szilárd came up with a workable design: a pile of uranium oxide blocks interspersed with graphite bricks.[76] szilárd, anderson, and fermi published a paper on "neutron production in uranium".[75] but their work habits and personalities were different, and fermi had trouble working with szilárd.[77]
+fermi was among the first to warn military leaders about the potential impact of nuclear energy, giving a lecture on the subject at the navy department on 18 march 1939. the response fell short of what he had hoped for, although the navy agreed to provide $1,500 towards further research at columbia.[78] later that year, szilárd, eugene wigner, and edward teller sent the famous letter signed by einstein to u.s. president roosevelt, warning that nazi germany was likely to build an atomic bomb. in response, roosevelt formed the advisory committee on uranium to investigate the matter.[79]
+
+ fermi's id badge photo from los alamos
+the advisory committee on uranium provided money for fermi to buy graphite,[80] and he built a pile of graphite bricks on the seventh floor of the pupin hall laboratory.[81] by august 1941, he had six tons of uranium oxide and thirty tons of graphite, which he used to build a still larger pile in schermerhorn hall at columbia.[82]
+the s-1 section of the office of scientific research and development, as the advisory committee on uranium was now known, met on 18 december 1941, with the u.s. now engaged in world war ii, making its work urgent. most of the effort sponsored by the committee had been directed at producing enriched uranium, but committee member arthur compton determined that a feasible alternative was plutonium, which could be mass-produced in nuclear reactors by the end of 1944.[83] he decided to concentrate the plutonium work at the university of chicago. fermi reluctantly moved, and his team became part of the new metallurgical laboratory there.[84]
+the possible results of a self-sustaining nuclear reaction were unknown, so it seemed inadvisable to build the first nuclear reactor on the university of chicago campus in the middle of the city. compton found a location in the argonne woods forest preserve, about 20 miles (32 km) from chicago. stone & webster was contracted to develop the site, but the work was halted by an industrial dispute. fermi then persuaded compton that he could build the reactor in the squash court under the stands of the university of chicago's stagg field. construction of the pile began on 6 november 1942, and chicago pile-1 went critical on 2 december.[85]  the shape of the pile was intended to be roughly spherical, but as work proceeded fermi calculated that criticality could be achieved without finishing the entire pile as planned.[86]
+
+this experiment was a landmark in the quest for energy, and it was typical of fermi's approach. every step was carefully planned, every calculation meticulously done.[85]  when the first self-sustained nuclear chain reaction was achieved, compton made a coded phone call to james b. conant, the chairman of the national defense research committee.
+i picked up the phone and called conant. he was reached at the president's office at harvard university.
+"jim," i said, "you'll be interested to know that the italian navigator has just landed in the new world." then, half apologetically, because i had led the s-l committee to believe that it would be another week or more before the pile could be completed, i added, "the earth was not as large as he had estimated, and he arrived at the new world sooner than he had expected."
+"is that so," was conant's excited response. "were the natives friendly?"
+"everyone landed safe and happy."[87]
+
+
+ fermi (centre), with ernest o. lawrence (left) and isidor isaac rabi (right)
+to continue the research where it would not pose a public health hazard, the reactor was disassembled and moved to the argonne woods site. there fermi directed experiments on nuclear reactions, revelling in the opportunities provided by the reactor's abundant production of free neutrons.[88] the laboratory soon branched out from physics and engineering into using the reactor for biological and medical research. initially, argonne was run by fermi as part of the university of chicago, but it became a separate entity with fermi as its director in may 1944.[89]
+when the air-cooled x-10 graphite reactor at oak ridge went critical on 4 november 1943, fermi was on hand just in case something went wrong. the technicians woke him early so that he could see it happen.[90] getting x-10 operational was another milestone in the plutonium project. it provided data on reactor design, training for dupont staff in reactor operation, and produced the first small quantities of reactor-bred plutonium.[91] fermi became an american citizen in july 1944, the earliest date the law allowed.[92]
+in september 1944, fermi inserted the first uranium fuel slug into the b reactor at the hanford site, the production reactor designed to breed plutonium in large quantities. like x-10, it had been designed by fermi's team at the metallurgical laboratory, and built by dupont, but it was much larger, and was water-cooled. over the next few days, 838 tubes were loaded, and the reactor went critical. shortly after midnight on 27 september, the operators began to withdraw the control rods to initiate production. at first all appeared to be well, but around 03:00, the power level started to drop and by 06:30 the reactor had shut down completely. the army and dupont turned to fermi's team for answers. the cooling water was investigated to see if there was a leak or contamination. the next day the reactor suddenly started up again, only to shut down once more a few hours later. the problem was traced to neutron poisoning from xenon-135, a fission product with a half-life of 9.2 hours. dupont had deviated from the metallurgical laboratory's original design in which the reactor had 1,500 tubes arranged in a circle, and had added 504 tubes to fill in the corners. the scientists had originally considered this over-engineering a waste of time and money, but fermi realized that if all 2,004 tubes were loaded, the reactor could reach the required power level and efficiently produce plutonium.[93][94]
+
+ the fermiac, an analog device invented by enrico fermi to implement studies of neutron transport
+in mid-1944, robert oppenheimer persuaded fermi to join his project y at los alamos, new mexico.[95] arriving in september, fermi was appointed an associate director of the laboratory, with broad responsibility for nuclear and theoretical physics, and was placed in charge of f division, which was named after him. f division had four branches: f-1 super and general theory under teller, which investigated the "super" (thermonuclear) bomb; f-2 water boiler under l. d. p. king, which looked after the "water boiler" aqueous homogeneous research reactor; f-3 super experimentation under egon bretscher; and f-4 fission studies under anderson.[96] fermi observed the trinity test on 16 july 1945, and conducted an experiment to estimate the bomb's yield by dropping strips of paper into the blast wave. he paced off the distance they were blown by the explosion, and calculated the yield as ten kilotons of tnt; the actual yield was about 18.6 kilotons.[97]
+along with oppenheimer, compton, and ernest lawrence, fermi was part of the scientific panel that advised the interim committee on target selection. the panel agreed with the committee that atomic bombs would be used without warning against an industrial target.[98] like others at the los alamos laboratory, fermi found out about the atomic bombings of hiroshima and nagasaki from the public address system in the technical area. fermi did not believe that atomic bombs would deter nations from starting wars, nor did he think that the time was ripe for world government. he therefore did not join the association of los alamos scientists.[99]
+
+post-war work[edit]
+fermi became the charles h. swift distinguished professor of physics at the university of chicago on 1 july 1945,[100] although he did not depart the los alamos laboratory with his family until 31 december 1945.[101] he was elected a member of the u.s. national academy of sciences in 1945.[102] the metallurgical laboratory became the argonne national laboratory on 1 july 1946, the first of the national laboratories established by the manhattan project.[103] the short distance between chicago and argonne allowed fermi to work at both places. at argonne he continued experimental physics, investigating neutron scattering with leona marshall.[104] he also discussed theoretical physics with maria mayer, helping her develop insights into spin–orbit coupling that would lead to her receiving the nobel prize.[105]
+the manhattan project was replaced by the atomic energy commission (aec) on 1 january 1947.[106] fermi served on the aec general advisory committee, an influential scientific committee chaired by robert oppenheimer.[107] he also liked to spend a few weeks of each year at the los alamos national laboratory,[108] where he collaborated with nicholas metropolis,[109] and with john von neumann on rayleigh–taylor instability, the science of what occurs at the border between two fluids of different densities.[110]
+
+ laura and enrico fermi at the institute for nuclear studies, los alamos, 1954
+following the detonation of the first soviet fission bomb in august 1949, fermi, along with isidor rabi, wrote a strongly worded report for the committee, opposing the development of a hydrogen bomb on moral and technical grounds.[111] nonetheless, fermi continued to participate in work on the hydrogen bomb at los alamos as a consultant. along with stanislaw ulam, he calculated that not only would the amount of tritium needed for teller's model of a thermonuclear weapon be prohibitive, but a fusion reaction could still not be assured to propagate even with this large quantity of tritium.[112] fermi was among the scientists who testified on oppenheimer's behalf at the oppenheimer security hearing in 1954 that resulted in denial of oppenheimer's security clearance.[113]
+in his later years, fermi continued teaching at the university of chicago. his phd students in the post-war period included owen chamberlain, geoffrey chew, jerome friedman, marvin goldberger, tsung-dao lee, arthur rosenfeld and sam treiman.[114][115] jack steinberger was a graduate student, and mildred dresselhaus was highly influenced by fermi during the year she overlapped with him as a phd student.[116][117] fermi conducted important research in particle physics, especially related to pions and muons. he made the first predictions of pion-nucleon resonance,[109] relying on statistical methods, since he reasoned that exact answers were not required when the theory was wrong anyway.[118] in a paper co-authored with chen ning yang, he speculated that pions might actually be composite particles.[119] the idea was elaborated by shoichi sakata. it has since been supplanted by the quark model, in which the pion is made up of quarks, which completed fermi's model, and vindicated his approach.[120]
+fermi wrote a paper "on the origin of cosmic radiation" in which he proposed that cosmic rays arose through material being accelerated by magnetic fields in interstellar space, which led to a difference of opinion with teller.[118] fermi examined the issues surrounding magnetic fields in the arms of a spiral galaxy.[121] he mused about what is now referred to as the "fermi paradox": the contradiction between the presumed probability of the existence of extraterrestrial life and the fact that contact has not been made.[122]
+
+ fermi's grave in chicago, illinois
+toward the end of his life, fermi questioned his faith in society at large to make wise choices about nuclear technology. he said:
+
+some of you may ask, what is the good of working so hard merely to collect a few facts which will bring no pleasure except to a few long-haired professors who love to collect such things and will be of no use to anybody because only few specialists at best will be able to understand them? in answer to such question[s] i may venture a fairly safe prediction.
+history of science and technology has consistently taught us that scientific advances in basic understanding have sooner or later led to technical and industrial applications that have revolutionized our way of life. it seems to me improbable that this effort to get at the structure of matter should be an exception to this rule. what is less certain, and what we all fervently hope, is that man will soon grow sufficiently adult to make good use of the powers that he acquires over nature.[123]
+
+
+death[edit]
+fermi underwent an exploratory operation in billings memorial hospital on 9 october 1954, after which he returned home. 50 days later, fermi died at age 53 of stomach cancer in his home in chicago.[2] his memorial service was held at the university of chicago chapel, where colleagues, samuel k. allison, emilio segrè, and herbert l. anderson spoke, mourning the loss of one of the world's "most brilliant and productive physicists."[124] his body was interred at oak woods cemetery.[125]
+
+impact and legacy[edit]
+legacy[edit]
+.mw-parser-output .quotebox{background-color:#f9f9f9;border:1px solid #aaa;box-sizing:border-box;padding:10px;font-size:88%}.mw-parser-output .quotebox.floatleft{margin:0.5em 1.4em 0.8em 0}.mw-parser-output .quotebox.floatright{margin:0.5em 0 0.8em 1.4em}.mw-parser-output .quotebox.centered{margin:0.5em auto 0.8em auto}.mw-parser-output .quotebox.floatleft p,.mw-parser-output .quotebox.floatright p{font-style:inherit}.mw-parser-output .quotebox-title{background-color:#f9f9f9;text-align:center;font-size:larger;font-weight:bold}.mw-parser-output .quotebox-quote.quoted:before{font-family:"times new roman",serif;font-weight:bold;font-size:large;color:gray;content:" “ ";vertical-align:-45%;line-height:0}.mw-parser-output .quotebox-quote.quoted:after{font-family:"times new roman",serif;font-weight:bold;font-size:large;color:gray;content:" ” ";line-height:0}.mw-parser-output .quotebox .left-aligned{text-align:left}.mw-parser-output .quotebox .right-aligned{text-align:right}.mw-parser-output .quotebox .center-aligned{text-align:center}.mw-parser-output .quotebox cite{display:block;font-style:normal}@media screen and (max-width:360px){.mw-parser-output .quotebox{min-width:100%;margin:0 0 0.8em!important;float:none!important}}
+as a person, fermi seemed simplicity itself. he was extraordinarily vigorous and loved games and sport. on such occasions his ambitious nature became apparent. he played tennis with considerable ferocity and when climbing mountains acted rather as a guide. one might have called him a benevolent dictator. i remember once at the top of a mountain fermi got up and said: "well, it is two minutes to two, let's all leave at two o'clock"; and of course, everybody got up faithfully and obediently. this leadership and self-assurance gave fermi the name of "the pope" whose pronouncements were infallible in physics. he once said: "i can calculate anything in physics within a factor 2 on a few sheets; to get the numerical factor in front of the formula right may well take a physicist a year to calculate, but i am not interested in that." his leadership could go so far that it was a danger to the independence of the person working with him. i recollect once, at a party at his house when my wife cut the bread, fermi came along and said he had a different philosophy on bread-cutting and took the knife out of my wife's hand and proceeded with the job because he was convinced that his own method was superior. but all this did not offend at all, but rather charmed everybody into liking fermi. he had very few interests outside physics and when he once heard me play on teller's piano he confessed that his interest in music was restricted to simple tunes.
+egon bretscher[126]
+
+
+fermi received numerous awards in recognition of his achievements, including the matteucci medal in 1926, the nobel prize for physics in 1938, the hughes medal in 1942, the franklin medal in 1947, and the rumford prize in 1953. he was awarded the medal for merit in 1946 for his contribution to the manhattan project.[127] fermi was elected a foreign member of the royal society (frs) in 1950.[126] the basilica of santa croce, florence, known as the temple of italian glories for its many graves of artists, scientists and prominent figures in italian history, has a plaque commemorating fermi.[128] in 1999, time named fermi on its list of the top 100 persons of the twentieth century.[129] fermi was widely regarded as an unusual case of a 20th-century  physicist who excelled both theoretically and experimentally. the historian of physics, c. p. snow, wrote that "if fermi had been born a few years earlier, one could well imagine him discovering rutherford's atomic nucleus, and then developing bohr's theory of the hydrogen atom. if this sounds like hyperbole, anything about fermi is likely to sound like hyperbole".[130]
+fermi was known as an inspiring teacher, and was noted for his attention to detail, simplicity, and careful preparation of his lectures.[131] later, his lecture notes were transcribed into books.[132] his papers and notebooks are today in the university of chicago.[133] victor weisskopf noted how fermi "always managed to find the simplest and most direct approach, with the minimum of complication and sophistication."[134] fermi's ability and success stemmed as much from his appraisal of the art of the possible, as from his innate skill and intelligence. he disliked complicated theories, and while he had great mathematical ability, he would never use it when the job could be done much more simply. he was famous for getting quick and accurate answers to problems that would stump other people. later on, his method of getting approximate and quick answers through back-of-the-envelope calculations became informally known as the "fermi method", and is widely taught.[135]
+fermi was fond of pointing out that alessandro volta, working in his laboratory, could have had no idea where the study of electricity would lead.[136] fermi is generally remembered for his work on nuclear power and nuclear weapons, especially the creation of the first nuclear reactor, and the development of the first atomic and hydrogen bombs. his scientific work has stood the test of time. this includes his theory of beta decay, his work with non-linear systems, his discovery of the effects of slow neutrons, his study of pion-nucleon collisions, and his fermi–dirac statistics. his speculation that a pion was not a fundamental particle pointed the way towards the study of quarks and leptons.[137]
+
+things named in fermi's honor[edit]
+ the sign at enrico fermi street in rome
+ memorial plaque in the basilica santa croce, florence. italy
+main article: list of things named after enrico fermi
+many things bear fermi's name. these include the fermilab particle accelerator and physics lab in batavia, illinois, which was renamed in his honor in 1974,[138] and the fermi gamma-ray space telescope, which was named after him in 2008, in recognition of his work on cosmic rays.[139] three nuclear reactor installations have been named after him: the fermi 1 and fermi 2 nuclear power plants in newport, michigan, the enrico fermi nuclear power plant at trino vercellese in italy,[140] and the ra-1 enrico fermi research reactor in argentina.[141]  a synthetic element isolated from the debris of the 1952 ivy mike nuclear test was named fermium, in honor of fermi's contributions to the scientific community.[142][143] this makes him one of 16 scientists who have elements named after them.[144]
+since 1956, the united states atomic energy commission has named its highest honor, the fermi award, after him. recipients of the award include well-known scientists like otto hahn, robert oppenheimer, edward teller and hans bethe.[145]
+
+bibliography[edit]
+introduzione alla fisica atomica (in italian). bologna: n. zanichelli. 1928. oclc 9653646..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+fisica per i licei (in italian). bologna: n. zanichelli. 1929. oclc 9653646.
+molecole e cristalli (in italian). bologna: n. zanichelli. 1934. oclc 19918218.
+thermodynamics. new york: prentice hall. 1937. oclc 2379038.
+fisica per istituti tecnici (in italian). bologna: n. zanichelli. 1938.
+fisica per licei scientifici (in italian). bologna: n. zanichelli. 1938. (with edoardo amaldi)
+elementary particles. new haven: yale university press. 1951. oclc 362513.
+notes on quantum mechanics. chicago: the university of chicago press. 1961. oclc 1448078.
+for a full list of his papers, see pages 75–78 in ref.[126]
+
+patents[edit]
+us patent 2206634, "process for the production of radioactive substances", issued july 1940 
+us patent 2836554, "air cooled neutronic reactor", issued april 1950 
+us patent 2524379, "neutron velocity selector", issued october 1950 
+us patent 2852461, "neutronic reactor", issued september 1953 
+us patent 2708656, "neutronic reactor", issued may 1955 
+us patent 2768134, "testing material in a neutronic reactor", issued october 1956 
+us patent 2780595, "test exponential pile", issued february 1957 
+us patent 2798847, "method of operating a neutronic reactor", issued july 1957 
+us patent 2807581, "neutronic reactor", issued september 1957 
+us patent 2807727, "neutronic reactor shield", issued september 1957 
+us patent 2813070, "method of sustaining a neutronic chain reacting system", issued november 1957 
+us patent 2837477, "chain reacting system", issued june 1958 
+us patent 2931762, "neutronic reactor", issued april 1960 
+us patent 2969307, "method of testing thermal neutron fissionable material for purity", issued january 1961 
+notes[edit]
+
+
+^ "enrico fermi, architect of the nuclear age, dies". autumn 1954.
+
+^ a b "enrico fermi dead at 53; architect of atomic bomb". the new york times. 29 november 1954. retrieved 21 january 2013.
+
+^ segrè 1970, pp. 3–4, 8.
+
+^ amaldi 2001, p. 23.
+
+^ cooper 1999, p. 19.
+
+^ segrè 1970, pp. 5–6.
+
+^ fermi 1954, pp. 15–16.
+
+^ "maria fermi sacchetti (1899–1959)". www.olgiateolona26giugno1959.org (in italian). archived from the original on 30 august 2017. retrieved 6 may 2017.
+
+^ segrè 1970, p. 7.
+
+^ bonolis 2001, p. 315.
+
+^ amaldi 2001, p. 24.
+
+^ segrè 1970, pp. 11–12.
+
+^ segrè 1970, pp. 8–10.
+
+^ segrè 1970, pp. 11–13.
+
+^ "edizione nazionale mathematica italiana – giulio pittarelli" (in italian). scuola normale superiore. retrieved 6 may 2017.
+
+^ segrè 1970, pp. 15–18.
+
+^ bonolis 2001, p. 320.
+
+^ a b bonolis 2001, pp. 317–319.
+
+^ segrè 1970, p. 20.
+
+^ "über einen widerspruch zwischen der elektrodynamischen und relativistischen theorie der elektromagnetischen masse". physikalische zeitschrift (in german). 23: 340–344. retrieved 17 january 2013.
+
+^ bertotti 2001, p. 115.
+
+^ a b c bonolis 2001, p. 321.
+
+^ "enrico fermi l'uomo, lo scienziato e il massone" (in italian). retrieved 4 march 2015.
+
+^ bonolis 2001, pp. 321–324.
+
+^ hey & walters 2003, p. 61.
+
+^ bonolis 2001, pp. 329–330.
+
+^ cooper 1999, p. 31.
+
+^ fermi 1954, pp. 37–38.
+
+^ segrè 1970, p. 45.
+
+^ fermi 1954, p. 38.
+
+^ a b alison 1957, p. 127.
+
+^ "enrico fermi e i ragazzi di via panisperna" (in italian). university of rome. retrieved 20 january 2013.
+
+^ segrè 1970, p. 61.
+
+^ cooper 1999, pp. 38–39.
+
+^ a b alison 1957, p. 130.
+
+^ "about enrico fermi". university of chicago. retrieved 20 january 2013.
+
+^ mieli, paolo (2 october 2001). "così fermi scoprì la natura vessatoria del fascismo". corriere della sera (in italian). archived from the original on 19 october 2013. retrieved 20 january 2013.
+
+^ direzione generale per gli archivi (2005). "reale accademia d'italia:inventario dell'archivio" (pdf) (in italian). rome: ministero per i beni culturali e ambientali. p. xxxix. archived from the original (pdf) on 7 september 2012. retrieved 20 january 2013.
+
+^ "a legal examination of mussolini's race laws". printed matter. centro primo levi. retrieved 7 august 2015.
+
+^ a b c bonolis 2001, pp. 333–335.
+
+^ amaldi 2001, p. 38.
+
+^ fermi 1954, p. 217.
+
+^ amaldi 2001, pp. 50–51.
+
+^ a b bonolis 2001, p. 346.
+
+^ a b fermi, e. (1968). "fermi's theory of beta decay (english translation by fred l. wilson, 1968)". american journal of physics. 36 (12): 1150. bibcode:1968amjph..36.1150w. doi:10.1119/1.1974382. retrieved 20 january 2013.
+
+^ joliot-curie, irène; joliot, frédéric (15 january 1934). "un nouveau type de radioactivité" [a new type of radioactivity]. comptes rendus hebdomadaires des séances de l'académie des sciences (in french). 198 (january–june 1934): 254–256.
+
+^ joliot, frédéric; joliot-curie, irène (1934). "artificial production of a new kind of radio-element" (pdf). nature. 133 (3354): 201–202. bibcode:1934natur.133..201j. doi:10.1038/133201a0.
+
+^ amaldi 2001a, pp. 152–153.
+
+^ bonolis 2001, pp. 347–351.
+
+^ a b c d amaldi 2001a, pp. 153–156.
+
+^ segrè 1970, p. 73.
+
+^ a b de gregorio, alberto g. (2005). "neutron physics in the early 1930s". historical studies in the physical and biological sciences. 35 (2): 293–340. arxiv:physics/0510044. doi:10.1525/hsps.2005.35.2.293.
+
+^ guerra, francesco; robotti, nadia (december 2009). "enrico fermi's discovery of neutron-induced artificial radioactivity: the influence of his theory of beta decay". physics in perspective. 11 (4): 379–404. bibcode:2009php....11..379g. doi:10.1007/s00016-008-0415-1.
+
+^ fermi, enrico (25 march 1934). "radioattività indotta da bombardamento di neutroni". la ricerca scientifica (in italian). 1 (5): 283.
+
+^ fermi, e.; amaldi, e.; d'agostino, o.; rasetti, f.; segre, e. (1934). "artificial radioactivity produced by neutron bombardment". proceedings of the royal society a: mathematical, physical and engineering sciences. 146 (857): 483. bibcode:1934rspsa.146..483f. doi:10.1098/rspa.1934.0168.
+
+^ a b bonolis 2001, pp. 347–349.
+
+^ a b amaldi 2001a, pp. 161–162.
+
+^ a b bonolis 2001, pp. 347–352.
+
+^ "a few good moderators: the numbers". the energy from thorium foundation. 13 february 2007. retrieved 24 september 2013.
+
+^ cooper 1999, p. 51.
+
+^ cooper 1999, p. 52.
+
+^ persico 2001, p. 40.
+
+^ bonolis 2001, p. 352.
+
+^ hahn, o.; strassmann, f. (1939). "über den nachweis und das verhalten der bei der bestrahlung des urans mittels neutronen entstehenden erdalkalimetalle" [on the detection and characteristics of the alkaline earth metals formed by irradiation of uranium with neutrons]. naturwissenschaften (in german). 27 (1): 11–15. bibcode:1939nw.....27...11h. doi:10.1007/bf01488241.
+
+^ frisch, o. r. (1939). "physical evidence for the division of heavy nuclei under neutron bombardment". nature. 143 (3616): 276. bibcode:1939natur.143..276f. doi:10.1038/143276a0. archived from the original on 23 january 2009.
+
+^ meitner, l.; frisch, o.r. (1939). "disintegration of uranium by neutrons: a new type of nuclear reaction". nature. 143 (3615): 239–240. bibcode:1939natur.143..239m. doi:10.1038/143239a0.
+
+^ a b rhodes 1986, p. 267.
+
+^ segrè 1970, pp. 222–223.
+
+^ fermi, enrico (12 december 1938). "artificial radioactivity produced by neutron bombardment (nobel lecture)" (pdf). archived from the original (pdf) on 9 august 2018. retrieved 19 october 2013.
+
+^ anderson, h.l.; booth, e.; dunning, j.; fermi, e.; glasoe, g.; slack, f. (16 february 1939). "the fission of uranium". physical review. 55 (5): 511–512. bibcode:1939phrv...55..511a. doi:10.1103/physrev.55.511.2.
+
+^ rhodes 1986, pp. 269–270.
+
+^ von halban, h.; joliot, f.; kowarski, l. (22 april 1939). "number of neutrons liberated in the nuclear fission of uranium". nature. 143 (3625): 680. bibcode:1939natur.143..680v. doi:10.1038/143680a0.
+
+^ anderson, h.; fermi, e.; hanstein, h. (16 march 1939). "production of neutrons in uranium bombarded by neutrons". physical review. 55 (8): 797–798. bibcode:1939phrv...55..797a. doi:10.1103/physrev.55.797.2.
+
+^ anderson, h.l. (april 1973). "early days of chain reaction". bulletin of the atomic scientists.
+
+^ a b anderson, h.; fermi, e.; szilárd, l. (1 august 1939). "neutron production and absorption in uranium". physical review. 56 (3): 284–286. bibcode:1939phrv...56..284a. doi:10.1103/physrev.56.284.
+
+^ salvetti 2001, pp. 186–188.
+
+^ bonolis 2001, pp. 356–357.
+
+^ salvetti 2001, p. 185.
+
+^ salvetti 2001, pp. 188–189.
+
+^ rhodes 1986, pp. 314–317.
+
+^ salvetti 2001, p. 190.
+
+^ salvetti 2001, p. 195.
+
+^ salvetti 2001, pp. 194–196.
+
+^ rhodes 1986, pp. 399–400.
+
+^ a b salvetti 2001, pp. 198–202.
+
+^ fermi, e. (1946). "the development of the first chain reaction pile". proc. am. philos. soc. 90 (1): 20–24. jstor 3301034.
+
+^ compton 1956, p. 144.
+
+^ bonolis 2001, p. 366.
+
+^ hewlett & anderson 1962, p. 207.
+
+^ hewlett & anderson 1962, pp. 208–211.
+
+^ jones 1985, p. 205.
+
+^ segrè 1970, p. 104.
+
+^ hewlett & anderson 1962, pp. 304–307.
+
+^ jones 1985, pp. 220–223.
+
+^ bonolis 2001, pp. 368–369.
+
+^ hawkins 1961, p. 213.
+
+^ rhodes 1986, pp. 674–677.
+
+^ jones 1985, pp. 531–532.
+
+^ fermi 1954, pp. 244–245.
+
+^ segrè 1970, p. 157.
+
+^ segrè 1970, p. 167.
+
+^ "enrico fermi" on nasonline.org
+
+^ holl, hewlett & harris 1997, pp. xix–xx.
+
+^ segrè 1970, p. 171.
+
+^ segrè 1970, p. 172.
+
+^ hewlett & anderson 1962, p. 643.
+
+^ hewlett & anderson 1962, p. 648.
+
+^ segrè 1970, p. 175.
+
+^ a b segrè 1970, p. 179.
+
+^ bonolis 2001, p. 381.
+
+^ hewlett & duncan 1969, pp. 380–385.
+
+^ hewlett & duncan 1969, pp. 527–530.
+
+^ cooper 1999, pp. 102–103.
+
+^ enrico fermi at the mathematics genealogy project
+
+^ "jerome i. friedman – autobiography". the nobel foundation. 1990. archived from the original on 19 january 2013. retrieved 16 march 2013.
+
+^ "jack steinberger – biographical". nobel foundation. retrieved 15 august 2013.
+
+^ cornish, audie (24 november 2014). "'queen of carbon' among medal of freedom honorees". all things considered. npr. retrieved 30 september 2018.
+
+^ a b bonolis 2001, pp. 374–379.
+
+^ fermi, e.; yang, c. (1949). "are mesons elementary particles?". physical review. 76 (12): 1739. bibcode:1949phrv...76.1739f. doi:10.1103/physrev.76.1739.
+
+^ jacob & maiani 2001, pp. 254–258.
+
+^ bonolis 2001, p. 386.
+
+^ jones 1985a, pp. 1–3.
+
+^ fermi 2004, p. 142.
+
+^ "enrico fermi 1901–1954". physics today. 01 january 1955: 9. doi:10.1063/1.3061909.
+
+^ hucke & bielski 1999, pp. 147, 150.
+
+^ a b c bretscher, e.; cockcroft, j.d. (1955). "enrico fermi. 1901–1954". biographical memoirs of fellows of the royal society. 1: 69–78. doi:10.1098/rsbm.1955.0006. jstor 769243.
+
+^ alison 1957, pp. 135–136.
+
+^ "enrico fermi in santa croce, florence". gotterdammerung.org. retrieved 10 may 2015.
+
+^ "time 100 persons of the century". time. 6 june 1999. retrieved 2 march 2013.
+
+^ snow 1981, p. 79.
+
+^ ricci 2001, pp. 297–302.
+
+^ ricci 2001, p. 286.
+
+^ "enrico fermi collection". university of chicago. retrieved 22 january 2013.
+
+^ salvini 2001, p. 5.
+
+^ von baeyer 1993, pp. 3–8.
+
+^ fermi 1954, p. 242.
+
+^ salvini 2001, p. 17.
+
+^ "about fermilab – history". fermilab. retrieved 21 january 2013.
+
+^ "first light for the fermi space telescope". national aeronautics and space administration. retrieved 21 january 2013.
+
+^ "nuclear power in italy". world nuclear association. retrieved 21 january 2013.
+
+^ "report of the national atomic energy commission of argentina (cnea)" (pdf). cnea. november 2004. archived from the original (pdf) on 14 may 2013. retrieved 21 january 2013.
+
+^ seaborg 1978, p. 2.
+
+^ hoff 1978, pp. 39–48.
+
+^ kevin a. boudreaux. "derivations of the names and symbols of the elements". angelo state university.
+
+^ "the enrico fermi award". united states department of energy. retrieved 25 august 2010.
+
+
+references[edit]
+.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}
+alison, samuel king (1957). "enrico fermi, 1901–1954". biographical memoirs of the national academy of sciences. 30: 125–155. oclc 11772127.
+amaldi, edoardo (2001). "commemoration of the academy fellow enrico fermi".  in bernardini, c.; bonolis, luisa. enrico fermi: his work and legacy. bologna: società italiana di fisica: springer. pp. 23–35. isbn 978-88-7438-015-2. oclc 56686431.
+amaldi, ugo (2001). "nuclear physics from the nineteen thirties to the present day".  in bernardini, c.; bonolis, luisa. enrico fermi: his work and legacy. bologna: società italiana di fisica: springer. pp. 151–176. isbn 978-88-7438-015-2. oclc 56686431.
+bertotti, bruno (2001). "fermi's coordinates and the principle of equivalence".  in bernardini, c.; bonolis, luisa. enrico fermi: his work and legacy. bologna: società italiana di fisica: springer. pp. 115–125. isbn 978-88-7438-015-2. oclc 56686431.
+bonolis, luisa (2001). "enrico fermi's scientific work".  in bernardini, c.; bonolis, luisa. enrico fermi: his work and legacy. bologna: società italiana di fisica: springer. pp. 314–394. isbn 978-88-7438-015-2. oclc 56686431.
+compton, arthur (1956). atomic quest. new york: oxford university press. oclc 173307.
+cooper, dan (1999). enrico fermi: and the revolutions in modern physics. new york: oxford university press. isbn 978-0-19-511762-2. oclc 39508200.
+fermi, enrico (2004). "the future of nuclear physics".  in cronin, j.w. fermi remembered. chicago: university of chicago press. isbn 978-0-226-12111-6.
+fermi, laura (1954). atoms in the family: my life with enrico fermi. chicago: university of chicago press. oclc 537507.
+hawkins, david (1961). manhattan district history: project y – the los alamos project. volume i: inception until august 1945. los alamos: los alamos national laboratory. lams 2532.
+hoff, richard (23 january 1978). "production of eisteinium and fermium in nuclear explosions".  in seaborg, glenn t. proceedings of the symposium commemorating the 25th anniversary of elements 99 and 100 (pdf). los alamos: los alamos national laboratory. pp. 39–49. report lbl-7701.
+hewlett, richard g.; anderson, oscar e. (1962). the new world, 1939–1946 (pdf). university park: pennsylvania state university press. isbn 978-0-520-07186-5. oclc 637004643.
+hewlett, richard g.; duncan, francis (1969). atomic shield, 1947–1952. a history of the united states atomic energy commission. university park: pennsylvania state university press. isbn 978-0-520-07187-2. oclc 3717478.
+hey, anthony j. g.; walters, patrick (2003). the new quantum universe. cambridge, u.k.: cambridge university press. isbn 978-0-521-56418-2. oclc 50252084.
+holl, jack m.; hewlett, richard g.; harris, ruth r. (1997). argonne national laboratory, 1946–96. urbana: university of illinois press. isbn 978-0-252-02341-5.
+hucke, matt; bielski, ursula (1999). graveyards of chicago: the people, history, art, and lore of cook county cemeteries. chicago: lake claremont press. isbn 978-0-9642426-4-7. oclc 42849992.
+jacob, maurice; maiani, luciano (2001). "the scientific legacy of fermi in particle physics".  in bernardini, c.; bonolis, luisa. enrico fermi: his work and legacy. bologna: società italiana di fisica: springer. pp. 241–270. isbn 978-88-7438-015-2. oclc 56686431.
+jones, eric m. (march 1985). "where is everybody?", an account of fermi's question (pdf). los alamos: los alamos national laboratory. oclc 4434691994. la-10311-ms.
+jones, vincent (1985). manhattan: the army and the atomic bomb. washington, d.c.: united states army center of military history. oclc 10913875.
+persico, enrico (2001). "commemoration of enrico fermi".  in bernardini, c.; bonolis, luisa. enrico fermi: his work and legacy. bologna: società italiana di fisica: springer. pp. 36–44. isbn 978-88-7438-015-2. oclc 56686431.
+rhodes, richard (1986). the making of the atomic bomb. new york: simon & schuster. isbn 978-0-684-81378-3. oclc 13793436.
+ricci, renato angelo (2001). "fermi's last lessons".  in bernardini, c.; bonolis, luisa. enrico fermi: his work and legacy. bologna: società italiana di fisica: springer. pp. 286–313. isbn 978-88-7438-015-2. oclc 56686431.
+salvini, giorgio (2001). "enrico fermi: his life and comment on his work".  in bernardini, c.; bonolis, luisa. enrico fermi: his work and legacy. bologna: società italiana di fisica: springer. pp. 1–20. isbn 978-88-7438-015-2. oclc 56686431.
+salvetti, carlo (2001). "the birth of nuclear energy: fermi's pile".  in bernardini, c.; bonolis, luisa. enrico fermi: his work and legacy. bologna: società italiana di fisica: springer. pp. 177–203. isbn 978-88-7438-015-2. oclc 56686431.
+seaborg, glenn t. (23 january 1978). "introductory remarks".  in seaborg, glenn t. proceedings of the symposium commemorating the 25th anniversary of elements 99 and 100 (pdf). los alamos: los alamos national laboratory. pp. 1–3. report lbl-7701.
+segrè, emilio (1970). enrico fermi, physicist. chicago: university of chicago press. isbn 978-0-226-74473-5. oclc 118467.
+snow, c. p. (1981). the physicists: a generation that changed the world. boston: little brown. isbn 978-1-84232-436-3. oclc 7722354.
+von baeyer, h. c. (1993). the fermi solution: essays on science. new york: random house. isbn 978-0-679-40031-8. oclc 27266040.
+
+external links[edit]
+"to fermi – with love  – part 1". voices of the manhattan project 1971 radio segment
+"the first reactor: 40th anniversary commemorative edition", united states department of energy, (december 1982).
+nobel prize page for the 1938 physics' prize
+the story of the first pile
+enrico fermi's case file at the franklin institute with information about his contributions to theoretical and experimental physics.
+"remembering enrico fermi". session j1. aps april meeting 2010, american physical society.
+time 100: enrico fermi by richard rhodes 29 march 1999
+fermi's stay with ehrenfest in leiden.
+vtelaureates of the nobel prize in physics1901–1925
+1901 röntgen
+1902 lorentz / zeeman
+1903 becquerel / p. curie / m. curie
+1904 rayleigh
+1905 lenard
+1906 j. j. thomson
+1907 michelson
+1908 lippmann
+1909 marconi / braun
+1910 van der waals
+1911 wien
+1912 dalén
+1913 kamerlingh onnes
+1914 laue
+1915 w. l. bragg / w. h. bragg
+1916
+1917 barkla
+1918 planck
+1919 stark
+1920 guillaume
+1921 einstein
+1922 n. bohr
+1923 millikan
+1924 m. siegbahn
+1925 franck / hertz
+1926–1950
+1926 perrin
+1927 compton / c. wilson
+1928 o. richardson
+1929 de broglie
+1930 raman
+1931
+1932 heisenberg
+1933 schrödinger / dirac
+1934
+1935 chadwick
+1936 hess / c. d. anderson
+1937 davisson / g. p. thomson
+1938 fermi
+1939 lawrence
+1940
+1941
+1942
+1943 stern
+1944 rabi
+1945 pauli
+1946 bridgman
+1947 appleton
+1948 blackett
+1949 yukawa
+1950 powell
+1951–1975
+1951 cockcroft / walton
+1952 bloch / purcell
+1953 zernike
+1954 born / bothe
+1955 lamb / kusch
+1956 shockley / bardeen / brattain
+1957 c. n. yang / t. d. lee
+1958 cherenkov / frank / tamm
+1959 segrè / chamberlain
+1960 glaser
+1961 hofstadter / mössbauer
+1962 landau
+1963 wigner / goeppert mayer / jensen
+1964 townes / basov / prokhorov
+1965 tomonaga / schwinger / feynman
+1966 kastler
+1967 bethe
+1968 alvarez
+1969 gell-mann
+1970 alfvén / néel
+1971 gabor
+1972 bardeen / cooper / schrieffer
+1973 esaki / giaever / josephson
+1974 ryle / hewish
+1975 a. bohr / mottelson / rainwater
+1976–2000
+1976 richter / ting
+1977 p. w. anderson / mott / van vleck
+1978 kapitsa / penzias / r. wilson
+1979 glashow / salam / weinberg
+1980 cronin / fitch
+1981 bloembergen / schawlow / k. siegbahn
+1982 k. wilson
+1983 chandrasekhar / fowler
+1984 rubbia / van der meer
+1985 von klitzing
+1986 ruska / binnig / rohrer
+1987 bednorz / müller
+1988 lederman / schwartz / steinberger
+1989 ramsey / dehmelt / paul
+1990 friedman / kendall / r. taylor
+1991 de gennes
+1992 charpak
+1993 hulse / j. taylor
+1994 brockhouse / shull
+1995 perl / reines
+1996 d. lee / osheroff / r. richardson
+1997 chu / cohen-tannoudji / phillips
+1998 laughlin / störmer / tsui
+1999 't hooft / veltman
+2000 alferov / kroemer / kilby
+2001–present
+2001 cornell / ketterle / wieman
+2002 davis / koshiba / giacconi
+2003 abrikosov / ginzburg / leggett
+2004 gross / politzer / wilczek
+2005 glauber / hall / hänsch
+2006 mather / smoot
+2007 fert / grünberg
+2008 nambu / kobayashi / maskawa
+2009 kao / boyle / smith
+2010 geim / novoselov
+2011 perlmutter / riess / schmidt
+2012 wineland / haroche
+2013 englert / higgs
+2014 akasaki / amano / nakamura
+2015 kajita / mcdonald
+2016 thouless / haldane / kosterlitz
+2017 weiss / barish / thorne
+2018 ashkin / mourou / strickland
+
+vtepresidents of the american physical society1899–1925
+henry augustus rowland (1899)
+albert a. michelson (1901)
+arthur gordon webster (1903)
+carl barus (1905)
+edward leamington nichols (1907)
+henry crew (1909)
+william francis magie (1911)
+benjamin osgood peirce (1913)
+ernest merritt (1914)
+robert andrews millikan (1916)
+henry andrews bumstead (1918)
+joseph sweetman ames (1919)
+theodore lyman (1921)
+thomas corwin mendenhall (1923)
+dayton miller (1925)
+1926–1950
+karl taylor compton (1927)
+henry gale (1929)
+william francis gray swann (1931)
+paul d. foote (1933)
+arthur compton (1934)
+robert w. wood (1935)
+floyd k. richtmyer (1936)
+harrison m. randall (1937)
+lyman james briggs (1938)
+john torrence tate, sr. (1939)
+john zeleny (1940)
+george braxton pegram (1941)
+g. stewart (1941)
+percy williams bridgman (1942)
+albert hull (1943)
+arthur jeffrey dempster (1944)
+harvey fletcher (1945)
+edward condon (1946)
+lee alvin dubridge (1947)
+j. robert oppenheimer (1948)
+francis wheeler loomis (1949)
+isidor isaac rabi (1950)
+1951–1975
+charles christian lauritsen (1951)
+john hasbrouck van vleck (1952)
+enrico fermi (1953)
+h. bethe (1954)
+raymond thayer birge (1955)
+e. wigner (1956)
+henry dewolf smyth (1957)
+jesse beams (1958)
+george eugene uhlenbeck (1959)
+victor frederick weisskopf (1960)
+frederick seitz (1961)
+william v. houston (1962)
+john harry williams (1963)
+robert bacher (1964)
+felix bloch (1965)
+john archibald wheeler (1966)
+charles h. townes (1967)
+john bardeen (1968)
+luis walter alvarez (1969)
+edward mills purcell (1970)
+robert serber (1971)
+philip m. morse (1972)
+joseph edward mayer (1973)
+wolfgang k. h. panofsky (1974)
+chien-shiung wu (1975)
+1976–2000
+william a. fowler (1976)
+george pake (1977)
+norman foster ramsey, jr. (1978)
+lewis m. branscomb (1979)
+herman feshbach (1980)
+arthur leonard schawlow (1981)
+maurice goldhaber (1982)
+robert marshak (1983)
+mildred dresselhaus (1984)
+robert r. wilson (1985)
+sidney drell (1986)
+val logsdon fitch (1987)
+james a. krumhansl (1989)
+eugen merzbacher (1990)
+nicolaas bloembergen (1991)
+ernest m. henley (1992)
+donald n. langenberg (1993)
+burton richter (1994)
+c. kumar patel (1995)
+j.r. schrieffer (1996)
+d. allan bromley (1997)
+andrew sessler (1998)
+jerome i. friedman (1999)
+james s. langer (2000)
+2001–future
+george trilling (2001)
+william brinkman (2002)
+myriam sarachik (2003)
+helen quinn (2004)
+marvin cohen (2005)
+john hopfield (2006)
+leo kadanoff (2007)
+arthur bienenstock (2008)
+cherry a. murray (2009)
+curtis callan (2010)
+barry barish (2011)
+robert l. byer (2012)
+michael turner (2013)
+malcolm r. beasley (2014)
+sam aronson (2015)
+homer neal (2016)
+laura greene (2017)
+roger falcone (2018)
+david gross (2019)
+philip h. bucksbaum (2020)
+
+vtemanhattan projecttimelinesites
+ames
+berkeley
+chicago
+dayton
+hanford
+inyokern
+los alamos
+montreal
+new york
+oak ridge
+trinity
+wendover
+heavy water sites
+administrators
+vannevar bush
+arthur compton
+james b. conant
+priscilla duffield
+thomas farrell
+leslie groves
+john lansdale
+ernest lawrence
+james marshall
+franklin matthias
+dorothy mckibbin
+kenneth nichols
+robert oppenheimer
+deak parsons
+william purnell
+frank spedding
+charles thomas
+paul tibbets
+bud uanna
+harold urey
+stafford warren
+ed westcott
+roscoe wilson
+scientists
+luis alvarez
+robert bacher
+hans bethe
+aage bohr
+niels bohr
+norris bradbury
+james chadwick
+john cockcroft
+harry daghlian
+enrico fermi
+richard feynman
+val fitch
+james franck
+klaus fuchs
+maria goeppert mayer
+george kistiakowsky
+george koval
+willard libby
+edwin mcmillan
+mark oliphant
+norman ramsey
+isidor isaac rabi
+james rainwater
+bruno rossi
+glenn seaborg
+emilio segrè
+louis slotin
+henry dewolf smyth
+leo szilard
+edward teller
+stanisław ulam
+john von neumann
+john wheeler
+eugene wigner
+robert wilson
+leona woods
+operations
+alsos mission
+bombings of hiroshima and nagasaki
+operation crossroads
+operation peppermint
+project alberta
+silverplate
+509th composite group
+enola gay
+bockscar
+the great artiste
+weapons
+fat man
+little boy
+pumpkin bomb
+thin man
+related topics
+atomic energy act of 1946
+british contribution
+chicago pile-1
+demon core
+einstein–szilárd letter
+interim committee
+oppenheimer security hearing
+plutonium
+quebec agreement
+rala experiment
+s-1 executive committee
+s-50 project
+smyth report
+uranium
+x-10 graphite reactor
+ manhattan project
+vtepeople whose names are used in chemical element names
+vasili samarsky-bykhovets
+johan gadolin
+amerigo vespucci
+marie curie
+pierre curie
+george berkeley
+albert einstein
+enrico fermi
+dmitri mendeleev
+alfred nobel
+ernest lawrence
+ernest rutherford
+glenn t. seaborg
+niels bohr
+lise meitner
+nicolaus copernicus
+georgy flyorov
+robert livermore
+yuri oganessian
+scientists whose names are used as si units · non si units · physical constants
+vtenew mexico during world war iipeople
+jack aeby
+jerry c. begay
+john j. dempsey
+thomas farrell
+enrico fermi
+leslie groves
+john e. miles
+chester nez
+lloyd oliver
+willard varnell oliver
+j. robert oppenheimer
+merril sandoval
+emilio g. segrè
+frank tsosie thompson
+military installations
+alamogordo army airfield
+camp lordsburg
+clovis army airfield
+carlsbad army airfield
+deming army airfield
+fort stanton
+fort sumner army aifield
+hobbs army airfield
+kirtland field
+los alamos national laboratory
+roswell army airfield
+white sands proving ground
+see also
+200th coast artillery
+american theater
+arizona during world war ii
+bat bomb
+code talker
+escape from fort stanton
+lordsburg killings
+manhattan project
+military history of the united states during world war ii
+nevada during world war ii
+new mexico world war ii army airfields
+santa fe riot
+trinity
+
+booksview or order collections of articlesvia panisperna boysportalsaccess related topicsworld war ii portalnuclear technology portalphysics portalhistory of science portalunited states portalbiography portalitaly portalfind out more on wikipedia'ssister projectsmediafrom commonsquotationsfrom wikiquotesource textsfrom wikisource
+authority control 
+bibsys: 90057569
+bne: xx886394
+bnf: cb12275443t (data)
+cinii: da01376238
+gnd: 118683322
+isni: 0000 0001 2134 1777
+lccn: n50026886
+lnb: 000141246
+mgp: 14167
+nara: 10582037
+ndl: 00439406
+nkc: jn20000720070
+nla: 35081390
+iccu: it\iccu\ravv\024664
+selibr: 186771
+snac: w6736s35
+sudoc: 031563716
+viaf: 56670056
+ worldcat identities (via viaf): 56670056
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=enrico_fermi&oldid=880365190"					
+categories: 1901 births1954 deathsenrico fermiitalian physicistsamerican nuclear physicistsitalian nuclear physicistsexperimental physiciststheoretical physicistsquantum physicistsrelativity theoriststhermodynamicists20th-century american physicistsmanhattan project peopleitalian inventorsnobel laureates in physicsitalian nobel laureatesmedal for merit recipientsnational inventors hall of fame inducteesmembers of the american physical societyforeign members of the royal societycorresponding members of the ussr academy of sciencesmembers of the royal academy of italymembers of the lincean academyparticipants in the les houches physics summer schoolamerican scientists of italian descentitalian emigrants to the united statesmonte carlo methodologistsuniversity of chicago facultycolumbia university facultyuniversity of göttingen facultysapienza university of rome facultyuniversity of pisa alumniamerican agnosticsitalian agnosticsitalian freemasonspeople from leonia, new jerseypeople from romedeaths from stomach cancerdeaths from cancer in illinoisburials in illinoishidden categories: cs1 italian-language sources (it)cs1 german-language sources (de)cs1 french-language sources (fr)cs1: long volume valuearticles with short descriptionfeatured articlesuse dmy dates from january 2013biography with signatureinfobox person using alma materarticles with hcardsarticles containing italian-language textarticles containing german-language textwikipedia articles with bibsys identifierswikipedia articles with bne identifierswikipedia articles with bnf identifierswikipedia articles with cinii identifierswikipedia articles with gnd identifierswikipedia articles with isni identifierswikipedia articles with lccn identifierswikipedia articles with lnb identifierswikipedia articles with mgp identifierswikipedia articles with nara identifierswikipedia articles with ndl identifierswikipedia articles with nkc identifierswikipedia articles with nla identifierswikipedia articles with sbn identifierswikipedia articles with selibr identifierswikipedia articles with snac-id identifierswikipedia articles with sudoc identifierswikipedia articles with viaf identifierswikipedia articles with worldcat-viaf identifiersac with 18 elements 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commonswikiquotewikisource 
+
+
+
+languages
+
+
+afrikaansalemannischአማርኛالعربيةaragonésasturianuazərbaycancaتۆرکجهবাংলাbân-lâm-gúбашҡортсабеларускаябеларуская (тарашкевіца)‎българскиbosanskibrezhonegcatalàчӑвашлаčeštinacorsucymraegdanskdeutscheestiελληνικάespañolesperantoeuskaraفارسیfiji hindifrançaisfryskgaeilgegàidhliggalego한국어հայերենहिन्दीhrvatskiidoilokanobahasa indonesiainterlinguaíslenskaitalianoעבריתbasa jawaಕನ್ನಡkapampanganქართულიқазақшаkiswahilikreyòl ayisyenkurdîкыргызчаladinolatinalatviešulëtzebuergeschlietuviųligurelimburgslumbaartmagyarмакедонскиmalagasyമലയാളംमराठीმარგალურიمصرىbahasa melayumìng-dĕ̤ng-ngṳ̄монголမြန်မာဘာသာnederlandsनेपाल भाषा日本語нохчийнnorsknorsk nynorskoccitanолык марийଓଡ଼ିଆoʻzbekcha/ўзбекчаਪੰਜਾਬੀپنجابیភាសាខ្មែរpiemontèispolskiportuguêsromânăruna simiрусиньскыйрусскийсаха тылаᱥᱟᱱᱛᱟᱲᱤसंस्कृतम्scotsshqipsicilianusimple englishslovenčinaslovenščinaکوردیсрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskatagalogதமிழ்татарча/tatarçaతెలుగుไทยtürkçeукраїнськаاردوtiếng việtvolapükwinaray吴语ייִדישyorùbá粵語žemaitėška中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 27 january 2019, at 01:15 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"2.204","walltime":"2.608","ppvisitednodes":{"value":12302,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":322389,"limit":2097152},"templateargumentsize":{"value":21368,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":26,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":250865,"limit":5000000},"entityaccesscount":{"value":6,"limit":400},"timingprofile":["100.00% 2002.093      1 -total"," 22.29%  446.198      1 template:reflist"," 18.51%  370.502     35 template:cite_book"," 13.03%  260.841      1 template:infobox_scientist"," 12.54%  251.104      1 template:infobox_person"," 12.04%  240.961      2 template:infobox"," 10.99%  220.046    117 template:sfn","  9.53%  190.700     21 template:cite_journal","  8.39%  167.983      8 template:lang","  7.40%  148.075      5 template:br_separated_entries"]},"scribunto":{"limitreport-timeusage":{"value":"1.221","limit":"10.000"},"limitreport-memusage":{"value":29488459,"limit":52428800}},"cachereport":{"origin":"mw1238","timestamp":"20190218150119","ttl":86400,"transientcontent":true}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"enrico fermi","url":"https:\/\/en.wikipedia.org\/wiki\/enrico_fermi","sameas":"http:\/\/www.wikidata.org\/entity\/q8753","mainentity":"http:\/\/www.wikidata.org\/entity\/q8753","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2001-12-13t23:53:26z","datemodified":"2019-01-27t01:15:29z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/d4\/enrico_fermi_1943-49.jpg","headline":"italian physicist"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":135,"wghostname":"mw1245"});});
+
+

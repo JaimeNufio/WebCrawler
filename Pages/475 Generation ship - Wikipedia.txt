@@ -1,0 +1,270 @@
+
+
+
+
+generation ship - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"generation_ship","wgtitle":"generation ship","wgcurrevisionid":881787969,"wgrevisionid":881787969,"wgarticleid":85620,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["cs1 maint: multiple names: authors list","webarchive template wayback links","articles needing additional references from may 2016","all articles needing additional references","space colonization","hypothetical spacecraft","fictional spacecraft by type","interstellar travel","generation ships in fiction","science fiction themes","space farming"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"generation_ship","wgrelevantarticleid":85620,"wgrequestid":"xgwu7wpaadgaafbmsogaaaah","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgredirectedfrom":"generation_starship","wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wginternalredirecttargeturl":"/wiki/generation_ship","wgwikibaseitemid":"q964131","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+generation ship 
+from wikipedia, the free encyclopedia   (redirected from generation starship)
+ jump to navigation
+jump to search
+this article needs additional citations for verification. please help improve this article by adding citations to reliable sources. unsourced material may be challenged and removed.find sources: "generation ship" – news · newspapers · books · scholar · jstor (may 2016) (learn how and when to remove this template message)
+a generation ship, or generation starship, is a hypothetical type of interstellar ark starship that travels at sub-light speed.
+since such a ship might take centuries to thousands of years to reach even nearby stars, the original occupants of a generation ship would grow old and die, leaving their descendants to continue traveling.
+
+contents
+
+1 origin
+2 obstacles
+
+2.1 biosphere
+2.2 biology and society
+2.3 size
+2.4 social breakdown
+2.5 cosmic rays
+2.6 technological progress
+
+
+3 see also
+4 notes
+5 references
+6 further reading
+7 external links
+
+
+origin[edit]
+the concept of a generation starship is a good example of how science and fiction influence each other. many space scientists and engineers who contributed to the concept of a generation starship were also science fiction writers.[1] perhaps the earliest description of a generation ship is in the 1929 essay "the world, the flesh, & the devil" by j. d. bernal.[2]
+robert h. goddard, the rocket pioneer, was the first to write about very long duration interstellar journeys in his "the last migration" (1918).[note 1] in this he described the death of the sun and the necessity of an "interstellar ark". the crew would face the centuries of travel by sleeping and would be awakened when they reached another star system.
+konstantin e. tsiolkovsky, father of astronautic theory, first described the need for multiple generations of passengers in his essay, "the future of earth and mankind" (1928), a space colony equipped with engines that travels thousands of years which he called "noah's ark".
+bernal's essay was the first publication to reach the public and influence other writers. he wrote about the concept of human evolution and mankind's future in space through methods of living that we now describe as a generation starship, and which could be seen in the generic word "globes".[2]
+the enzmann starship is categorised as "slow boat" because of the astronomy magazine title “slow boat to centauri” (1977).[3] gregory matloff's concept is called a "colony ship" and alan bond called his concept a "world ship".[4]
+
+obstacles[edit]
+biosphere[edit]
+such a ship would have to be entirely self-sustaining, providing energy, food, air, and water for everyone on board. it must also have extraordinarily reliable systems that could be maintained by the ship's inhabitants over long periods of time. this would require testing whether thousands of humans could survive on their own before sending them beyond the reach of help. small artificial closed ecosystems, such as the biosphere 2, have been built in an attempt to work out the engineering difficulties in such a system, with mixed results. [5]
+
+biology and society[edit]
+generation ships would have to anticipate possible biological, social and morale problems,[6] and would also need to deal with matters of self-worth and purpose for the various crews involved. as an example, a moral quandary exists regarding how intermediate generations, those destined to be born and die in transit without actually seeing tangible results of their efforts, might feel about their forced existence on such a ship.
+estimates of the minimum reasonable population for a generation ship vary. anthropologist john moore has estimated that, even in the absence of cryonics or sperm banks, a population capacity of 160 people would allow normal family life (with the average individual having ten potential marriage partners) throughout a 200-year space journey, with little loss of genetic diversity; social engineering can reduce this estimate to 80 people.[7] in 2013 anthropologist cameron smith reviewed existing literature and created a new computer model to estimate a minimum reasonable population in the tens of thousands. smith's numbers were much larger than previous estimates such as moore's, in part because smith takes the risk of accidents and disease into consideration, and assumes at least one severe population catastrophe over the course of a 150-year journey.[8]
+in light of the multiple generations that it could take to reach even our nearest neighboring star systems such as proxima centauri, further issues on the viability of such interstellar arks include:
+
+the possibility of humans dramatically evolving in directions unacceptable to the sponsors
+the minimum population required to maintain in isolation a culture acceptable to the sponsors; this could include such aspects as
+ability to maintain and operate the ship
+ability to accomplish the purpose (planetary colonization, research, building new interstellar arks) contemplated
+sharing the values of the sponsors, which may not be likely to be empirically demonstrated to be viable beyond the home planet unless, once the ship is away from earth and on its way, survival of one's offspring until the ship reaches the target star is one motivation.
+size[edit]
+in order for a spacecraft to maintain a stable environment for multiple generations, it would have to be large enough to support a community of humans and a fully recycling ecosystem. however, a spacecraft of such a size would require a lot of energy to accelerate and decelerate. a smaller spacecraft, while able to accelerate more easily and thus make higher cruise velocities more practical, would reduce exposure to cosmic radiation and the time for malfunctions to develop in the craft, but would have challenges with resource metabolic flow and ecologic balance.[9]
+
+social breakdown[edit]
+generation ships travelling for long periods of time may see breakdowns in social structures. changes in society (for example, mutiny) could occur over such periods and may prevent the ship from reaching its destination. this state was described by algis budrys in a 1966 book review:[10]
+
+.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}the slower-than-light interstellar spaceship, pursuing its way through the weary centuries, its crew losing touch with all reality save the interior of the vessel ... well, you know the story, and its unhappy downhill round, its exciting struggles between the barbarian tribes which develop in its disparate compartments, and then, if the writer is so minded, the ultimate flash of hope as the good guys win out and prepare to meet their future on some noble, if erroneous basis.
+
+robert a. heinlein's orphans of the sky (the "impeccable statement of this theme", budrys said)[10] and brian aldiss's non-stop (u.s. title starship) discussed such societies.
+
+cosmic rays[edit]
+main article: health threat from cosmic rays
+the radiation environment of deep space is very different from that on the earth's surface, or in low earth orbit, due to the much larger influx of high-energy galactic cosmic rays (gcrs). like other ionizing radiation, high-energy cosmic rays can damage dna and increase the risk of cancer, cataracts, and neurological disorders.[11] one known practical solution to this problem is surrounding the crewed parts of the ship with a thick enough shielding such as a thick layer of maintained ice as proposed in the songs of distant earth, a science fiction novel by arthur c. clarke (note: in this book the ship's mammoth ice shield is only in the forward part of the ship, preventing micrometeors from damaging the ship during its interstellar journey).
+
+technological progress[edit]
+main article: wait calculation
+if a generation ship is sent to a star system 20 light years away, and is expected to reach its destination in 200 years, a better ship may be later developed that can reach it in 50 years. thus, the first generation ship may find a century-old human colony after its arrival at its destination.
+
+see also[edit]
+embryo space colonization
+interstellar ark
+o'neill cylinder
+self-replicating spacecraft
+sleeper ship
+notes[edit]
+
+
+^ the maximum speed of generation starships was marked, in 1905, when albert einstein published his "special theory of relativity" and defined the maximum speed in the universe to be the speed of light known as the principle of invariant light speed.
+
+
+references[edit]
+
+
+^ simone caroti (2011). the generation starship in science fiction: a critical history, 1934-2001. mcfarland. p. 275. isbn 978-0-7864-6067-0..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ a b j. d. bernal. "the world, the flesh & the devil - an enquiry into the future of the three enemies of the rational soul". retrieved 20 january 2016.
+
+^ k.f.long, a.crowl, r.obousy. "the enzmann starship: history & engineering appraisal" (pdf). archived from the original (pdf) on 24 january 2013. retrieved 7 february 2013.cs1 maint: multiple names: authors list (link)
+
+^ hein, andreas;  et al. "world ships – architectures & feasibility revisited". retrieved 7 february 2013.
+
+^ merchant, brian (june 10, 2013). "biosphere 2: how a sci-fi stunt turned into the world's biggest earth science lab". motherboard. vice media llc. archived from the original on august 19, 2016.
+
+^ malik, tariq (27 january 2005). "sex and society aboard the first starships". space adventures. retrieved 13 february 2015. [original reference is dead link archived 2002-04-07 at the wayback machine: space.com, 19 march 2002.]
+
+^ damian carrington (15 february 2002). ""magic number" for space pioneers calculated". newscientist.
+
+^ "smith, c.m., "estimation of a genetically viable population for multigenerational interstellar voyaging: review and data for project hyperion"". sciencedirect. 2013-12-13. bibcode:2014acaau..97...16s. doi:10.1016/j.actaastro.2013.12.013. retrieved 2013-02-18.
+
+^ kim stanley robinson (january 13, 2016). "what will it take for humans to colonize the milky way?". scientificamerican.com. scientific american. retrieved january 31, 2019.
+
+^ a b budrys, algis (august 1966). "galaxy bookshelf". galaxy science fiction. pp. 186–194.
+
+^ "nasa facts: understanding space radiation" (pdf). retrieved 2010-04-01.
+
+
+further reading[edit]
+caroti, simone (2011). “the generation starship in science fiction: a critical history, 1934-2001” mcfarland. isbn 978-0-7864-6067-0.
+andreas hein;  et al. "world ships – architectures & feasibility revisited". retrieved 7 february 2013.
+external links[edit]
+"gilgamesh" (14 february 2007). "interstellar ark". strange paths: physics, computation, philosophy. retrieved 13 february 2015.
+gilster, paul (17 august 2011). "worldships: a interview with greg matloff". centauri dreams: imagining and planning interstellar exploration. retrieved 9 february 2013.
+hein, andreas (13 may 2012). "project hyperion: the hollow asteroid starship – dissemination of an idea". icarus interstellar. retrieved 13 february 2015. brief summary of the evolution of generation ship concepts.
+nicholls, peter; langford, david (5 april 2014). "generation starships". the encyclopedia of science fiction. london: gollancz. retrieved 13 february 2015.
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=generation_ship&oldid=881787969"					
+categories: space colonizationhypothetical spacecraftfictional spacecraft by typeinterstellar travelgeneration ships in fictionscience fiction themesspace farminghidden categories: cs1 maint: multiple names: authors listwebarchive template wayback linksarticles needing additional references from may 2016all articles needing additional references 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+languages
+
+
+deutschespañoleuskaraفارسیfrançaisgalegoitalianonederlands日本語polskiportuguêsromânăрусскийsuomisvenskaукраїнська中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 4 february 2019, at 20:36 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.332","walltime":"0.421","ppvisitednodes":{"value":1116,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":37677,"limit":2097152},"templateargumentsize":{"value":1135,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":46348,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  382.392      1 -total"," 47.90%  183.182      2 template:reflist"," 24.97%   95.473      1 template:refimprove"," 20.45%   78.202      1 template:ambox"," 17.95%   68.626      1 template:cite_book"," 16.12%   61.624     13 template:cite_web","  9.12%   34.869      1 template:find_sources_mainspace","  8.60%   32.895      1 template:isbn","  7.66%   29.283      1 template:cite_journal","  4.13%   15.809      2 template:main_article"]},"scribunto":{"limitreport-timeusage":{"value":"0.190","limit":"10.000"},"limitreport-memusage":{"value":5768003,"limit":52428800}},"cachereport":{"origin":"mw1263","timestamp":"20190215041601","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"generation ship","url":"https:\/\/en.wikipedia.org\/wiki\/generation_ship","sameas":"http:\/\/www.wikidata.org\/entity\/q964131","mainentity":"http:\/\/www.wikidata.org\/entity\/q964131","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2002-09-15t04:27:57z","datemodified":"2019-02-04t20:36:51z","headline":"hypothetical type of interstellar ark starship"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":117,"wghostname":"mw1261"});});
+
+

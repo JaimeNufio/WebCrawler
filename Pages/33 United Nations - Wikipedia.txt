@@ -1,0 +1,1965 @@
+
+
+
+
+united nations - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"united_nations","wgtitle":"united nations","wgcurrevisionid":884065510,"wgrevisionid":884065510,"wgarticleid":31769,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["cs1 french-language sources (fr)","webarchive template wayback links","wikipedia indefinitely semi-protected pages","wikipedia indefinitely move-protected pages","articles with short description","good articles","use british english oxford spelling from february 2014","use dmy dates from july 2018","articles containing arabic-language text","articles containing chinese-language text","articles containing french-language text","articles containing russian-language text","articles containing spanish-language text","pages using infobox country or infobox former country with the symbol caption or type parameters","use dmy dates from february 2014","cs1: long volume value","articles with internet archive links","articles with librivox links","wikipedia articles with bibsys identifiers","wikipedia articles with bne identifiers","wikipedia articles with bnf identifiers","wikipedia articles with gnd identifiers","wikipedia articles with hds identifiers","wikipedia articles with isni identifiers","wikipedia articles with lccn identifiers","wikipedia articles with ndl identifiers","wikipedia articles with nkc identifiers","wikipedia articles with nla identifiers","wikipedia articles with selibr identifiers","wikipedia articles with sudoc identifiers","wikipedia articles with ulan identifiers","wikipedia articles with viaf identifiers","wikipedia articles with worldcat-viaf identifiers","ac with 14 elements","united nations","intergovernmental organizations established by treaty","organizations awarded nobel peace prizes","organizations based in new york city","organizations established in 1945","1945 establishments in the united states"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"united_nations","wgrelevantarticleid":31769,"wgrequestid":"xgvtpapaad8aacau1jgaaada","wgcspnonce":false,"wgisprobablyeditable":false,"wgrelevantpageisprobablyeditable":false,"wgrestrictionedit":["autoconfirmed"],"wgrestrictionmove":["sysop"],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q1065","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+united nations 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+
+
+
+this article contains arabic text. without proper rendering support, you may see question marks, boxes, or other symbols.
+for a list of united nations member states, see member states of the united nations. for other uses, see united nations (disambiguation) and un (disambiguation).
+
+
+intergovernmental organization
+
+
+
+united nations
+ arabic:الأمم المتحدة‎chinese:联合国french:organisation des nations uniesrussian:организация объединённых нацийspanish:organización de las naciones unidas
+
+
+
+flag
+
+
+
+emblem
+
+map showing the member states of the united nations[a]headquartersnew york city (international territory)official languagesarabicchineseenglishfrenchrussianspanish[2]typeintergovernmental organizationmembership193 member states2 observer statesleaders• secretary‑general antónio guterres• deputy secretary-general amina j. mohammed• general assembly president maria fernanda espinosa• economic and social council president marie chatardová• security council president francisco antonio cortorreal
+establishment• un charter signed 26 june 1945 (73 years ago) (1945-06-26)• charter entered into force 24 october 1945 (73 years ago) (1945-10-24)
+websitewww.un.orgwww.un.int
+the united nations (un) is an intergovernmental organization that was tasked to maintain international peace and security, develop friendly relations among nations, achieve international co-operation and be a centre for harmonizing the actions of nations.[3] the headquarters of the un is in manhattan, new york city, and is subject to extraterritoriality. further main offices are situated in geneva, nairobi, and vienna. the organization is financed by assessed and voluntary contributions from its member states. its objectives include maintaining international peace and security, protecting human rights, delivering humanitarian aid, promoting sustainable development and upholding international law.[4] the un is the largest, most familiar, most internationally represented and most powerful intergovernmental organization in the world.  in 24 october 1945, at the end of world war ii, the organization was established with the aim of preventing future wars.[5] at its founding, the un had 51 member states; there are now 193. the un is the successor of the ineffective league of nations.
+on 25 april 1945, 50 governments met in san francisco for a conference and started drafting the un charter, which was adopted on 25 june 1945 in the san francisco opera house, and signed on 26 june 1945 in the herbst theatre auditorium in the veterans war memorial building. this charter took effect on 24 october 1945, when the un began operation.
+the un's mission to preserve world peace was complicated in its early decades during the cold war between the united states and soviet union and their respective allies. its missions have consisted primarily of unarmed military observers and lightly armed troops with primarily monitoring, reporting and confidence-building roles.[6] the organization's membership grew significantly following widespread decolonization which started in the 1960s. since then, 80 former colonies had gained independence, including 11 trust territories, which were monitored by the trusteeship council.[7] by the 1970s its budget for economic and social development programmes far outstripped its spending on peacekeeping. after the end of the cold war, the un shifted and expanded its field operations, undertaking a wide variety of complex tasks.[8]
+the un has six principal organs: the general assembly; the security council; the economic and social council; the trusteeship council; the international court of justice; and the un secretariat. the un system agencies include the world bank group, the world health organization, the world food programme, unesco, and unicef. the un's most prominent officer is the secretary-general, an office held by portuguese politician and diplomat antónio guterres since 1 january 2017. non-governmental organizations may be granted consultative status with ecosoc and other agencies to participate in the un's work.
+the organization, its officers and its agencies have won many nobel peace prizes.
+other evaluations of the un's effectiveness have been mixed. some commentators believe the organization to be an important force for peace and human development, while others have called the organization ineffective, corrupt, or biased.
+
+contents
+
+1 history
+
+1.1 background
+1.2 1942 "declaration of united nations" by the allies of world war ii
+1.3 founding
+1.4 cold war era
+1.5 post-cold war
+
+
+2 structure
+
+2.1 general assembly
+2.2 security council
+2.3 un secretariat
+2.4 international court of justice
+2.5 economic and social council
+2.6 specialized agencies
+
+
+3 membership
+
+3.1 group of 77
+
+
+4 objectives
+
+4.1 peacekeeping and security
+4.2 human rights
+4.3 economic development and humanitarian assistance
+4.4 other
+
+
+5 funding
+6 evaluations, awards, and criticism
+7 see also
+8 notes
+9 references
+
+9.1 citations
+9.2 bibliography
+
+
+10 further reading
+11 external links
+
+
+history
+main article: history of the united nations
+background
+in the century prior to the un's creation, several international treaty organizations such as the international committee of the red cross was formed to ensure protection and assistance for victims of armed conflict and strife.[9]
+in 1914, a political assassination in sarajevo set off a chain of events that led to the outbreak of world war i as more and more young men were sent down into the trenches, influential voices in the united states and britain began calling for the establishment of a permanent international body to maintain peace in the postwar world. president woodrow wilson became a vocal advocate of this concept, and in 1918 he included a sketch of the international body in his 14-point proposal to end the war. in november 1918, the central powers agreed to an armistice to halt the killing in world war i. two months later, the allies met with germany and austria-hungary at versailles to hammer out formal peace terms. president wilson wanted peace, but england and france disagreed, forcing harsh war reparations on their former enemies. the league of nations was approved, and in the summer of 1919 wilson presented the treaty of versailles and the covenant of the league of nations to the us senate for ratification. on january 10, 1920, the league of nations formally comes into being when the covenant of the league of nations, ratified by 42 nations in 1919, takes effect.[10] 
+however, at some point the league became ineffective when it failed to act against the japanese invasion of manchuria as in february 1933, 40 nations voted for japan to withdraw  from manchuria but japan voted against it and walked out of the league instead of withdrawing from manchuria.[11] it also failed against the second italo-ethiopian war despite trying to talk to benito mussolini as he used the time to send an army to africa, so the league had a plan for mussolini to just take a part of ethiopia, but he ignored the league and invaded ethiopia, the league tried putting sanctions on italy, but italy had already conquered ethiopia and the league had failed.[12] after italy conquered ethiopia, italy and other nations left the league. but all of them realised that it had failed and they began to re-arm as fast as possible.
+during 1938, britain and france tried negotiating directly with hitler but this failed in 1939 when hitler invaded czechoslovakia.
+when war broke out in 1939, the league closed down and its headquarters in geneva remained empty throughout the war.[13]
+
+1942 "declaration of united nations" by the allies of world war ii
+main article: declaration by united nations
+ 1943 sketch by franklin roosevelt of the un original three branches: the four policemen, an executive branch, and an international assembly of forty un member states
+the earliest concrete plan for a new world organization began under the aegis of the u.s. state department in 1939.[14] the text of the "declaration by united nations" was drafted at the white house on december 29, 1941, by president franklin d. roosevelt, prime minister winston churchill, and roosevelt aide harry hopkins. it incorporated soviet suggestions, but left no role for france. "four policemen" was coined to refer to four major allied countries, united states, united kingdom, soviet union, and republic of china, which emerged in the declaration by united nations.[15] roosevelt first coined the term united nations to describe the allied countries.[b]  "on new year's day 1942, president roosevelt, prime minister churchill, maxim litvinov, of the ussr, and t. v. soong, of china, signed a short document which later came to be known as the united nations declaration and the next day the representatives of twenty-two other nations added their signatures."[16] the term united nations was first officially used when 26 governments signed this declaration. one major change from the atlantic charter was the addition of a provision for religious freedom, which stalin approved after roosevelt insisted.[17][18] by 1 march 1945, 21 additional states had signed.[19]
+
+.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}
+a joint declaration by the united states of america, the united kingdom of great britain and northern ireland, the union of soviet socialist republics, china, australia, belgium, canada, costa rica, cuba, czechoslovakia, dominican republic, el salvador, greece, guatemala, haiti, honduras, india, luxembourg, netherlands, new zealand, nicaragua, norway, panama, poland, south africa, yugoslavia
+the governments signatory hereto,
+having subscribed to a common program of purposes and principles embodied in the joint declaration of the president of the united states of america and the prime minister of great britain dated august 14, 1941, known as the atlantic charter,
+being convinced that complete victory over their enemies is essential to defend life, liberty, independence and religious freedom, and to preserve human rights and justice in their own lands as well as in other lands, and that they are now engaged in a common struggle against savage and brutal forces seeking to subjugate the world,
+declare:
+
+each government pledges itself to employ its full resources, military or economic, against those members of the tripartite pact and its adherents with which such government is at war.
+each government pledges itself to cooperate with the governments signatory hereto and not to make a separate armistice or peace with the enemies.
+the foregoing declaration may be adhered to by other nations which are, or which may be, rendering material assistance and contributions in the struggle for victory over hitlerism.
+
+— the washington conference 1941–1942
+
+during the war, "the united nations" became the official term for the allies. to join, countries had to sign the declaration and declare war on the axis.[20]
+
+founding
+ the un in 1945: founding members in light blue, protectorates and territories of the founding members in dark blue
+the un was formulated and negotiated among the delegations from the allied big four (the united states, the united kingdom, the soviet union and china) at the dumbarton oaks conference from 21 september 1944 to october 7, 1944 and they agreed on the aims, structure and functioning of the un.[21][22][23] after months of planning, the un conference on international organization opened in san francisco, 25 april 1945, attended by 50 governments and a number of non-governmental organizations involved in drafting the un charter.[24][25][26] "the heads of the delegations of the sponsoring countries took turns as chairman of the plenary meetings: anthony eden, of britain, edward stettinius, of the united states, t. v. soong, of china, and vyacheslav molotov, of the soviet union. at the later meetings, lord halifax deputized for mister eden, wellington koo for t. v. soong, and mister gromyko for mister molotov."[27] the un officially came into existence 24 october 1945, upon ratification of the charter by the five permanent members of the security council—france, the republic of china, the soviet union, the uk and the us—and by a majority of the other 46 signatories.[28]
+the first meetings of the general assembly, with 51 nations represented,[c] and the security council took place in methodist central hall, westminster, london beginning on 10 january 1946.[28] the general assembly selected new york city as the site for the headquarters of the un, construction began on 14 september 1948 and the facility was completed on 9 october 1952. its site—like un headquarters buildings in geneva, vienna, and nairobi—is designated as international territory.[31] the norwegian foreign minister, trygve lie, was elected as the first un secretary-general.[28]
+
+cold war era
+ dag hammarskjöld was a particularly active secretary-general from 1953 until his death in 1961.
+though the un's primary mandate was peacekeeping, the division between the us and ussr often paralysed the organization, generally allowing it to intervene only in conflicts distant from the cold war.[32] two notable exceptions were a security council resolution on 7 july 1950 authorizing a us-led coalition to repel the north korean invasion of south korea, passed in the absence of the ussr,[28][33] and the signing of the korean armistice agreement in 27 july 1953.[34]
+on 29 november 1947, the general assembly approved a resolution to partition palestine, approving the creation of the state of israel.[35] two years later, ralph bunche, a un official, negotiated an armistice to the resulting conflict.[36] on november 7, 1956, the first un peacekeeping force was established to end the suez crisis;[37] however, the un was unable to intervene against the ussr's simultaneous invasion of hungary following that country's revolution.[38]
+on 14 july 1960, the un established united nations operation in the congo (unoc), the largest military force of its early decades, to bring order to the breakaway state of katanga, restoring it to the control of the democratic republic of the congo by 11 may 1964.[39] while travelling to meet rebel leader moise tshombe during the conflict, dag hammarskjöld, often named as one of the un's most effective secretaries-general,[40] died in a plane crash; months later he was posthumously awarded the nobel peace prize.[41] in 1964, hammarskjöld's successor, u thant, deployed the un peacekeeping force in cyprus, which would become one of the un's longest-running peacekeeping missions.[42]
+with the spread of decolonization in the 1960s, the organization's membership saw an influx of newly independent nations. in 1960 alone, 17 new states joined the un, 16 of them from africa.[37] on 25 october 1971, with opposition from the united states, but with the support of many third world nations, the mainland, communist people's republic of china was given the chinese seat on the security council in place of the republic of china that occupied taiwan; the vote was widely seen as a sign of waning us influence in the organization.[43] third world nations organized into the group of 77 coalition under the leadership of algeria, which briefly became a dominant power at the un.[44] on 10 november 1975, a bloc comprising the ussr and third world nations passed a resolution, over strenuous us and israeli opposition, declaring zionism to be racism; the resolution was repealed on 16 december 1991, shortly after the end of the cold war.[45]
+with an increasing third world presence and the failure of un mediation in conflicts in the middle east, vietnam, and kashmir, the un increasingly shifted its attention to its ostensibly secondary goals of economic development and cultural exchange.[46] by the 1970s, the un budget for social and economic development was far greater than its peacekeeping budget.
+
+post-cold war
+ kofi annan, secretary-general from 1997 to 2006
+after the cold war, the un saw a radical expansion in its peacekeeping duties, taking on more missions in ten years than it had in the previous four decades.[47] between 1988 and 2000, the number of adopted security council resolutions more than doubled, and the peacekeeping budget increased more than tenfold.[48][49][50] the un negotiated an end to the salvadoran civil war, launched a successful peacekeeping mission in namibia, and oversaw democratic elections in post-apartheid south africa and post-khmer rouge cambodia.[51] in 1991, the un authorized a us-led coalition that repulsed the iraqi invasion of kuwait.[52] brian urquhart, under-secretary-general from 1971 to 1985, later described the hopes raised by these successes as a "false renaissance" for the organization, given the more troubled missions that followed.[53]
+though the un charter had been written primarily to prevent aggression by one nation against another, in the early 1990s the un faced a number of simultaneous, serious crises within nations such as somalia, haiti, mozambique, and the former yugoslavia.[54] the un mission in somalia was widely viewed as a failure after the us withdrawal following casualties in the battle of mogadishu, and the un mission to bosnia faced "worldwide ridicule" for its indecisive and confused mission in the face of ethnic cleansing.[55] in 1994, the un assistance mission for rwanda failed to intervene in the rwandan genocide amid indecision in the security council.[56]
+beginning in the last decades of the cold war, american and european critics of the un condemned the organization for perceived mismanagement and corruption.[57] in 1984, the us president, ronald reagan, withdrew his nation's funding from unesco (the united nations educational, scientific and cultural organization, founded 1946) over allegations of mismanagement, followed by britain and singapore.[58][59] boutros boutros-ghali, secretary-general from 1992 to 1996, initiated a reform of the secretariat, reducing the size of the organization somewhat.[60][61] his successor, kofi annan (1997–2006), initiated further management reforms in the face of threats from the united states to withhold its un dues.[61]
+in the late 1990s and 2000s, international interventions authorized by the un took a wider variety of forms. the un mission in the sierra leone civil war of 1991–2002 was supplemented by british royal marines, and the invasion of afghanistan in 2001 was overseen by nato.[62]in 2003, the united states invaded iraq despite failing to pass a un security council resolution for authorization, prompting a new round of questioning of the organization's effectiveness.[63] under the eighth secretary-general, ban ki-moon, the un has intervened with peacekeepers in crises including the war in darfur in sudan and the kivu conflict in the democratic republic of congo and sent observers and chemical weapons inspectors to the syrian civil war.[64] in 2013, an internal review of un actions in the final battles of the sri lankan civil war in 2009 concluded that the organization had suffered "systemic failure".[65] one hundred and one un personnel died in the 2010 haiti earthquake, the worst loss of life in the organization's history.[66]
+the millennium summit was held in 2000 to discuss the un's role in the 21st century.[67] the three day meeting was the largest gathering of world leaders in history, and culminated in the adoption by all member states of the millennium development goals (mdgs), a commitment to achieve international development in areas such as poverty reduction, gender equality, and public health. progress towards these goals, which were to be met by 2015, was ultimately uneven. the 2005 world summit reaffirmed the un's focus on promoting development, peacekeeping, human rights, and global security.[68] the sustainable development goals were launched in 2015 to succeed the millennium development goals.[69]
+in addition to addressing global challenges, the un has sought to improve its accountability and democratic legitimacy by engaging more with civil society and fostering a global constituency.[70] in an effort to enhance transparency, in 2016 the organization held its first public debate between candidates for secretary-general.[71] on 1 january 2017, portuguese diplomat antónio guterres, who previously served as un high commissioner for refugees, became the ninth secretary-general. guterres has highlighted several key goals for his administration, including an emphasis on diplomacy for preventing conflicts, more effective peacekeeping efforts, and streamlining the organization to be more responsive and versatile to global needs.[72]
+
+structure
+main article: united nations system
+the un system is based on five principal organs: the general assembly, the security council, the economic and social council (ecosoc), the international court of justice and the un secretariat.[73] a sixth principal organ, the trusteeship council, suspended operations on 1 november 1994, upon the independence of palau, the last remaining un trustee territory.[74]
+four of the five principal organs are located at the main un headquarters in new york city.[75] the international court of justice is located in the hague, while other major agencies are based in the un offices at geneva,[76] vienna,[77] and nairobi.[78] other un institutions are located throughout the world. the six official languages of the un, used in intergovernmental meetings and documents, are arabic, chinese, english, french, russian, and spanish.[79] on the basis of the convention on the privileges and immunities of the united nations, the un and its agencies are immune from the laws of the countries where they operate, safeguarding the un's impartiality with regard to the host and member countries.[80]
+below the six organs sit, in the words of the author linda fasulo, "an amazing collection of entities and organizations, some of which are actually older than the un itself and operate with almost complete independence from it".[81] these include specialized agencies, research and training institutions, programmes and funds, and other un entities.[82]
+the un obey the noblemaire principle, which is binding on any organization that belongs to the un system. this principle calls for salaries that will draw and keep citizens of countries where salaries are highest, and also calls for equal pay for work of equal value independent of the employee's nationality.[83][84] in practice, the icsc takes reference to the highest-paying national civil service.[85] staff salaries are subject to an internal tax that is administered by the un organizations.[83][86]
+
+
+
+principal organs of the united nations [87] vte
+
+
+
+un general assembly— deliberative assembly of all un member states —
+
+
+
+un secretariat— administrative organ of the un —
+
+
+
+international court of justice— universal court for international law —
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+may resolve non-compulsory recommendations to states or suggestions to the security council (unsc);
+decides on the admission of new members, following proposal by the unsc;
+adopts the budget;
+elects the non-permanent members of the unsc; all members of ecosoc; the un secretary general (following his/her proposal by the unsc); and the fifteen judges of the international court of justice (icj). each country has one vote.
+
+
+supports the other un bodies administratively (for example, in the organization of conferences, the writing of reports and studies and the preparation of the budget);
+its chairperson – the un secretary general – is elected by the general assembly for a five-year mandate and is the un's foremost representative.
+
+
+decides disputes between states that recognize its jurisdiction;
+issues legal opinions;
+renders judgement by relative majority. its fifteen judges are elected by the un general assembly for nine-year terms.
+
+
+
+
+
+un security council— for international security issues —
+
+un economic and social council— for global economic and social affairs —
+
+un trusteeship council— for administering trust territories (currently inactive) —
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+responsible for the maintenance of international peace and security;
+may adopt compulsory resolutions;
+has fifteen members: five permanent members with veto power and ten elected members.
+
+
+responsible for co-operation between states as regards economic and social matters;
+co-ordinates co-operation between the un's numerous specialized agencies;
+has 54 members, elected by the general assembly to serve staggered three-year mandates.
+
+
+was originally designed to manage colonial possessions that were former league of nations mandates;
+has been inactive since 1994, when palau, the last trust territory, attained independence.
+
+
+general assembly
+main article: united nations general assembly
+ mikhail gorbachev, soviet general secretary, addresses the un general assembly in december 1988.
+the general assembly is the main deliberative assembly of the un. composed of all un member states, the assembly meets in regular yearly sessions, but emergency sessions can also be called.[88] the assembly is led by a president, elected from among the member states on a rotating regional basis, and 21 vice-presidents.[89] the first session convened 10 january 1946 in the methodist central hall in london and included representatives of 51 nations.[28]
+when the general assembly decides on important questions such as those on peace and security, admission of new members and budgetary matters, a two-thirds majority of those present and voting is required.[90][91] all other questions are decided by a majority vote. each member country has one vote. apart from approval of budgetary matters, resolutions are not binding on the members. the assembly may make recommendations on any matters within the scope of the un, except matters of peace and security that are under consideration by the security council.[88]
+draft resolutions can be forwarded to the general assembly by its six main committees:[92]
+
+first committee (disarmament and international security)
+second committee (economic and financial)
+third committee (social, humanitarian, and cultural)
+fourth committee (special political and decolonization)
+fifth committee (administrative and budgetary)
+sixth committee (legal)
+as well as by the following two committees:
+
+general committee – a supervisory committee consisting of the assembly's president, vice-president, and committee heads
+credentials committee – responsible for determining the credentials of each member nation's un representatives
+security council
+main article: united nations security council
+ colin powell, the us secretary of state, demonstrates a vial with alleged iraqi chemical weapon probes to the un security council on iraq war hearings, 5 february 2003.
+the security council is charged with maintaining peace and security among countries. while other organs of the un can only make "recommendations" to member states, the security council has the power to make binding decisions that member states have agreed to carry out, under the terms of charter article 25.[93] the decisions of the council are known as united nations security council resolutions.[94]
+the security council is made up of fifteen member states, consisting of five permanent members—china, france, russia, the united kingdom, and the united states—and ten non-permanent members elected for two-year terms by the general assembly (with end of term date)—bolivia (term ends 2018), côte d'ivoire (2019), equatorial guinea (2019), ethiopia (2018), kazakhstan (2018), kuwait (2019), netherlands (2018), peru (2019), poland (2019), and sweden (2018).[95] the five permanent members hold veto power over un resolutions, allowing a permanent member to block adoption of a resolution, though not debate. the ten temporary seats are held for two-year terms, with five member states per year voted in by the general assembly on a regional basis.[96] the presidency of the security council rotates alphabetically each month.[97]
+
+un secretariat
+main articles: united nations secretariat and secretary-general of the united nations
+ the current secretary-general, antónio guterres
+the un secretariat is headed by the secretary-general, assisted by the deputy secretary-general and a staff of international civil servants worldwide.[98] it provides studies, information, and facilities needed by un bodies for their meetings. it also carries out tasks as directed by the security council, the general assembly, the economic and social council, and other un bodies.[99]
+the secretary-general acts as the de facto spokesperson and leader of the un. the position is defined in the un charter as the organization's "chief administrative officer".[100] article 99 of the charter states that the secretary-general can bring to the security council's attention "any matter which in his opinion may threaten the maintenance of international peace and security", a phrase that secretaries-general since trygve lie have interpreted as giving the position broad scope for action on the world stage.[101] the office has evolved into a dual role of an administrator of the un organization and a diplomat and mediator addressing disputes between member states and finding consensus to global issues.[102]
+the secretary-general is appointed by the general assembly, after being recommended by the security council, where the permanent members have veto power. there are no specific criteria for the post, but over the years it has become accepted that the post shall be held for one or two terms of five years.[103] the current secretary-general is antónio guterres, who replaced ban ki-moon in 2017.
+
+
+secretaries-general of the united nations[104]
+
+
+no.
+name
+country of origin
+took office
+left office
+notes
+
+
+1
+trygve lie
+ norway
+2 february 1946
+10 november 1952
+resigned
+
+
+2
+dag hammarskjöld
+ sweden
+10 april 1953
+18 september 1961
+died in office
+
+
+3
+u thant
+ burma
+30 november 1961
+31 december 1971
+
+
+
+4
+kurt waldheim
+ austria
+1 january 1972
+31 december 1981
+
+
+
+5
+javier pérez de cuéllar
+ peru
+1 january 1982
+31 december 1991
+
+
+
+6
+boutros boutros-ghali
+ egypt
+1 january 1992
+31 december 1996
+
+
+
+7
+kofi annan
+ ghana
+1 january 1997
+31 december 2006
+
+
+
+8
+ban ki-moon
+ south korea
+1 january 2007
+31 december 2016
+
+
+
+9
+antónio guterres
+ portugal
+1 january 2017
+–
+
+
+international court of justice
+main article: international court of justice
+ the court ruled that kosovo's unilateral declaration of independence from serbia in 2008 did not violate international law.
+the international court of justice (icj), located in the hague, in the netherlands, is the primary judicial organ of the un. established in 1945 by the un charter, the court began work in 1946 as the successor to the permanent court of international justice. the icj is composed of 15 judges who serve 9-year terms and are appointed by the general assembly; every sitting judge must be from a different nation.[105][106]
+it is based in the peace palace in the hague, sharing the building with the hague academy of international law, a private centre for the study of international law. the icj's primary purpose is to adjudicate disputes among states. the court has heard cases related to war crimes, illegal state interference, ethnic cleansing, and other issues.[107] the icj can also be called upon by other un organs to provide advisory opinions.[105]
+it is the only organ that is not located in new york.
+
+economic and social council
+main article: united nations economic and social council
+the economic and social council (ecosoc) assists the general assembly in promoting international economic and social co-operation and development. ecosoc has 54 members, which are elected by the general assembly for a three-year term. the president is elected for a one-year term and chosen amongst the small or middle powers represented on ecosoc. the council has one annual meeting in july, held in either new york or geneva. viewed as separate from the specialized bodies it co-ordinates, ecosoc's functions include information gathering, advising member nations, and making recommendations.[108][109] owing to its broad mandate of co-ordinating many agencies, ecosoc has at times been criticized as unfocused or irrelevant.[108][110]
+ecosoc's subsidiary bodies include the united nations permanent forum on indigenous issues, which advises un agencies on issues relating to indigenous peoples; the united nations forum on forests, which co-ordinates and promotes sustainable forest management; the united nations statistical commission, which co-ordinates information-gathering efforts between agencies; and the commission on sustainable development, which co-ordinates efforts between un agencies and ngos working towards sustainable development. ecosoc may also grant consultative status to non-governmental organizations;[108] by 2004, more than 2,200 organizations had received this status.[111]
+
+specialized agencies
+main article: list of specialized agencies of the united nations
+the un charter stipulates that each primary organ of the united nations can establish various specialized agencies to fulfil its duties.[112] some best-known agencies are the international atomic energy agency, the food and agriculture organization, unesco (united nations educational, scientific and cultural organization), the world bank, and the world health organization (who). the un performs most of its humanitarian work through these agencies. examples include mass vaccination programmes (through who), the avoidance of famine and malnutrition (through the work of the wfp), and the protection of vulnerable and displaced people (for example, by unhcr).[113]
+
+
+organizations and specialized agencies of the united nations
+
+
+no.
+acronym
+agency
+headquarters
+head
+established in
+
+
+1
+fao
+food and agriculture organization
+ rome, italy
+ josé graziano da silva
+1945
+
+
+2
+iaea
+international atomic energy agency
+ vienna, austria
+ yukiya amano
+1957
+
+
+3
+icao
+international civil aviation organization
+ montreal, quebec, canada
+ fang liu
+1947
+
+
+4
+ifad
+international fund for agricultural development
+ rome, italy
+ kanayo f. nwanze
+1977
+
+
+5
+ilo
+international labour organization
+ geneva, switzerland
+ guy ryder
+1946 (1919)
+
+
+6
+imo
+international maritime organization
+ london, united kingdom
+ kitack lim
+1948
+
+
+7
+imf
+international monetary fund
+ washington, d.c., united states
+ christine lagarde
+1945 (1944)
+
+
+8
+itu
+international telecommunication union
+ geneva, switzerland
+ houlin zhao
+1947 (1865)
+
+
+9
+unesco
+united nations educational, scientific and cultural organization
+ paris, france
+ audrey azoulay
+1946
+
+
+10
+unido
+united nations industrial development organization
+ vienna, austria
+ li yong
+1967
+
+
+11
+unwto
+world tourism organization
+ madrid, spain
+ taleb rifai
+1974
+
+
+12
+upu
+universal postal union
+ bern, switzerland
+ bishar abdirahman hussein
+1947 (1874)
+
+
+13
+wbg
+world bank group
+ washington, d.c., united states
+ jim y. kim
+1945 (1944)
+
+
+14
+wfp
+world food programme
+ rome, italy
+ ertharin cousin
+1963
+
+
+15
+who
+world health organization
+ geneva, switzerland
+ tedros adhanom
+1948
+
+
+16
+wipo
+world intellectual property organization
+ geneva, switzerland
+ francis gurry
+1974
+
+
+17
+wmo
+world meteorological organization
+ geneva, switzerland
+ petteri taalas (secretary-general) michel jarraud (president)
+1950 (1873)
+
+membership
+main article: member states of the united nations
+ map of the current un member states by their dates of admission[114]   1945 (original members)   1946–1959   1960–1989   1990–present   non-member observer states
+with the addition of south sudan 14 july 2011,[115] there are 193 un member states, including all undisputed independent states apart from vatican city.[116][d]
+the un charter outlines the rules for membership:
+
+
+membership in the united nations is open to all other peace-loving states that accept the obligations contained in the present charter and, in the judgment of the organization, are able and willing to carry out these obligations.
+the admission of any such state to membership in the united nations will be effected by a decision of the general assembly upon the recommendation of the security council. chapter ii, article 4.[117]
+
+in addition, there are two non-member observer states of the united nations general assembly: the holy see (which holds sovereignty over vatican city) and the state of palestine.[118] the cook islands and niue, both states in free association with new zealand, are full members of several un specialized agencies and have had their "full treaty-making capacity" recognized by the secretariat.[119]
+
+group of 77
+main article: group of 77
+the group of 77 at the un is a loose coalition of developing nations, designed to promote its members' collective economic interests and create an enhanced joint negotiating capacity in the un. seventy-seven nations founded the organization, but by november 2013 the organization had since expanded to 133 member countries.[120] the group was founded 15 june 1964 by the "joint declaration of the seventy-seven countries" issued at the united nations conference on trade and development (unctad). the group held its first major meeting in algiers in 1967, where it adopted the charter of algiers and established the basis for permanent institutional structures.[121]
+
+objectives
+peacekeeping and security
+main articles: united nations peacekeeping and list of united nations peacekeeping missions
+ bolivian "blue helmet" at an exercise in chile, 21 october 2002
+the un, after approval by the security council, sends peacekeepers to regions where armed conflict has recently ceased or paused to enforce the terms of peace agreements and to discourage combatants from resuming hostilities. since the un does not maintain its own military, peacekeeping forces are voluntarily provided by member states. these soldiers are sometimes nicknamed "blue helmets" for their distinctive gear.[122][123] the peacekeeping force as a whole received the nobel peace prize in 1988.[124]
+in september 2013, the un had peacekeeping soldiers deployed on 15 missions. the largest was the united nations organization stabilization mission in the democratic republic of the congo (monusco), which included 20,688 uniformed personnel. the smallest, united nations military observer group in india and pakistan (unmogip), included 42 uniformed personnel responsible for monitoring the ceasefire in jammu and kashmir. un peacekeepers with the united nations truce supervision organization (untso) have been stationed in the middle east since 1948, the longest-running active peacekeeping mission.[125]
+a study by the rand corporation in 2005 found the un to be successful in two out of three peacekeeping efforts. it compared efforts at nation-building by the un to those of the united states, and found that seven out of eight un cases are at peace, as compared with four out of eight us cases at peace.[126] also in 2005, the human security report documented a decline in the number of wars, genocides, and human rights abuses since the end of the cold war, and presented evidence, albeit circumstantial, that international activism—mostly spearheaded by the un—has been the main cause of the decline in armed conflict in that period.[127] situations in which the un has not only acted to keep the peace but also intervened include the korean war (1950–53) and the authorization of intervention in iraq after the gulf war (1990–91).[128]
+
+
+ un buffer zone in cyprus was established in 1974 following the turkish invasion of cyprus.
+the un has also drawn criticism for perceived failures. in many cases, member states have shown reluctance to achieve or enforce security council resolutions. disagreements in the security council about military action and intervention are seen as having failed to prevent the bangladesh genocide in 1971,[129] the cambodian genocide in the 1970s,[130] and the rwandan genocide in 1994.[131] similarly, un inaction is blamed for failing to either prevent the srebrenica massacre in 1995 or complete the peacekeeping operations in 1992–93 during the somali civil war.[132] un peacekeepers have also been accused of child rape, soliciting prostitutes, and sexual abuse during various peacekeeping missions in the democratic republic of the congo,[133] haiti,[134] liberia,[135] sudan and what is now south sudan,[136] burundi, and ivory coast.[137] scientists cited un peacekeepers from nepal as the likely source of the 2010–13 haiti cholera outbreak, which killed more than 8,000 haitians following the 2010 haiti earthquake.[138]
+in addition to peacekeeping, the un is also active in encouraging disarmament. regulation of armaments was included in the writing of the un charter in 1945 and was envisioned as a way of limiting the use of human and economic resources for their creation.[93] the advent of nuclear weapons came only weeks after the signing of the charter, resulting in the first resolution of the first general assembly meeting calling for specific proposals for "the elimination from national armaments of atomic weapons and of all other major weapons adaptable to mass destruction".[139] the un has been involved with arms-limitation treaties, such as the outer space treaty (1967), the treaty on the non-proliferation of nuclear weapons (1968), the seabed arms control treaty (1971), the biological weapons convention (1972), the chemical weapons convention (1992), and the ottawa treaty (1997), which prohibits landmines.[140] three un bodies oversee arms proliferation issues: the international atomic energy agency, the organisation for the prohibition of chemical weapons, and the comprehensive nuclear-test-ban treaty organization preparatory commission.[141]
+
+human rights
+one of the un's primary purposes is "promoting and encouraging respect for human rights and for fundamental freedoms for all without distinction as to race, sex, language, or religion", and member states pledge to undertake "joint and separate action" to protect these rights.[112][142]
+
+ eleanor roosevelt with the universal declaration of human rights in spanish, 1949
+in 1948, the general assembly adopted a universal declaration of human rights, drafted by a committee headed by american diplomat and activist eleanor roosevelt, and including the french lawyer rené cassin. the document proclaims basic civil, political, and economic rights common to all human beings, though its effectiveness towards achieving these ends has been disputed since its drafting.[143] the declaration serves as a "common standard of achievement for all peoples and all nations" rather than a legally binding document, but it has become the basis of two binding treaties, the 1966 international covenant on civil and political rights and international covenant on economic, social and cultural rights.[144] in practice, the un is unable to take significant action against human rights abuses without a security council resolution, though it does substantial work in investigating and reporting abuses.[145]
+in 1979, the general assembly adopted the convention on the elimination of all forms of discrimination against women, followed by the convention on the rights of the child in 1989.[146] with the end of the cold war, the push for human rights action took on new impetus.[147] the united nations commission on human rights was formed in 1993 to oversee human rights issues for the un, following the recommendation of that year's world conference on human rights. jacques fomerand, a scholar of the un, describes this organization's mandate as "broad and vague", with only "meagre" resources to carry it out.[148] in 2006, it was replaced by a human rights council consisting of 47 nations.[149] also in 2006, the general assembly passed a declaration on the rights of indigenous peoples,[150] and in 2011 it passed its first resolution recognizing the rights of lgbt people.[151]
+other un bodies responsible for women's rights issues include united nations commission on the status of women, a commission of ecosoc founded in 1946; the united nations development fund for women, created in 1976; and the united nations international research and training institute for the advancement of women, founded in 1979.[152] the un permanent forum on indigenous issues, one of three bodies with a mandate to oversee issues related to indigenous peoples, held its first session in 2002.[153]
+
+economic development and humanitarian assistance
+
+
+
+millennium development goals[154]
+
+
+
+
+eradicate extreme poverty and hunger
+achieve universal primary education
+promote gender equality and empower women
+reduce child mortality
+improve maternal health
+combat hiv/aids, malaria, and other diseases
+ensure environmental sustainability
+develop a global partnership for development
+
+another primary purpose of the un is "to achieve international co-operation in solving international problems of an economic, social, cultural, or humanitarian character".[142] numerous bodies have been created to work towards this goal, primarily under the authority of the general assembly and ecosoc.[155] in 2000, the 192 un member states agreed to achieve eight millennium development goals by 2015.[156] the sustainable development goals were launched in 2015 to succeed the millennium development goals.[69] the sdgs have an associated financing framework called the addis ababa action agenda.
+the un development programme (undp), an organization for grant-based technical assistance founded in 1945, is one of the leading bodies in the field of international development. the organization also publishes the un human development index, a comparative measure ranking countries by poverty, literacy, education, life expectancy, and other factors.[157][158] the food and agriculture organization (fao), also founded in 1945, promotes agricultural development and food security.[159] unicef (the united nations children's fund) was created in 1946 to aid european children after the second world war and expanded its mission to provide aid around the world and to uphold the convention on the rights of the child.[160][161]
+
+ three former directors of the global smallpox eradication programme read the news that smallpox had been globally eradicated, 1980.
+the world bank group and international monetary fund (imf) are independent, specialized agencies and observers within the un framework, according to a 1947 agreement. they were initially formed separately from the un through the bretton woods agreement in 1944.[162] the world bank provides loans for international development, while the imf promotes international economic co-operation and gives emergency loans to indebted countries.[163]
+
+ in jordan, unhcr remains responsible for the syrian refugees and the zaatari refugee camp.
+the world health organization (who), which focuses on international health issues and disease eradication, is another of the un's largest agencies. in 1980, the agency announced that the eradication of smallpox had been completed. in subsequent decades, who largely eradicated polio, river blindness, and leprosy.[164] the joint united nations programme on hiv/aids (unaids), begun in 1996, co-ordinates the organization's response to the aids epidemic.[165] the un population fund, which also dedicates part of its resources to combating hiv, is the world's largest source of funding for reproductive health and family planning services.[166]
+along with the international red cross and red crescent movement, the un often takes a leading role in co-ordinating emergency relief.[167] the world food programme (wfp), created in 1961, provides food aid in response to famine, natural disasters, and armed conflict. the organization reports that it feeds an average of 90 million people in 80 nations each year.[167][168] the office of the united nations high commissioner for refugees (unhcr), established in 1950, works to protect the rights of refugees, asylum seekers, and stateless people.[169] unhcr and wfp programmes are funded by voluntary contributions from governments, corporations, and individuals, though the unhcr's administrative costs are paid for by the un's primary budget.[170]
+
+other
+since the un's creation, over 80 colonies have attained independence. the general assembly adopted the declaration on the granting of independence to colonial countries and peoples in 1960 with no votes against but abstentions from all major colonial powers. the un works towards decolonization through groups including the un committee on decolonization, created in 1962.[171] the committee lists seventeen remaining "non-self-governing territories", the largest and most populous of which is western sahara.[172]
+beginning with the formation of the un environmental programme (unep) in 1972, the un has made environmental issues a prominent part of its agenda. a lack of success in the first two decades of un work in this area led to the 1992 earth summit in rio de janeiro, brazil, which sought to give new impetus to these efforts.[173] in 1988, the unep and the world meteorological organization (wmo), another un organization, established the intergovernmental panel on climate change, which assesses and reports on research on global warming.[174] the un-sponsored kyoto protocol, signed in 1997, set legally binding emissions reduction targets for ratifying states.[175]
+the un also declares and co-ordinates international observances, periods of time to observe issues of international interest or concern. examples include world tuberculosis day, earth day, and the international year of deserts and desertification.[176]
+
+funding
+
+top 25 contributors to the united nations budget for the period 2019 - 2021[177]
+
+
+member state
+
+contribution(% of un budget)
+
+
+ united states
+
+22.000
+
+
+ china
+
+12.005
+
+
+ japan
+
+8.564
+
+
+ germany
+
+6.090
+
+
+ united kingdom
+
+4.567
+
+
+ france
+
+4.427
+
+
+ italy
+
+3.307
+
+
+ brazil
+
+2.948
+
+
+ canada
+
+2.734
+
+
+ russia
+
+2.405
+
+
+ south korea
+
+2.267
+
+
+ australia
+
+2.210
+
+
+ spain
+
+2.146
+
+
+ turkey
+
+1.371
+
+
+ netherlands
+
+1.356
+
+
+ mexico
+
+1.292
+
+
+ saudi arabia
+
+1.172
+
+
+  switzerland
+
+1.151
+
+
+ argentina
+
+0.915
+
+
+ sweden
+
+0.906
+
+
+ india
+
+0.834
+
+
+ belgium
+
+0.821
+
+
+ poland
+
+0.802
+
+
+ algeria
+
+0.788
+
+
+ norway
+
+0.754
+
+
+the un is financed from assessed and voluntary contributions from member states. the general assembly approves the regular budget and determines the assessment for each member. this is broadly based on the relative capacity of each country to pay, as measured by its gross national income (gni), with adjustments for external debt and low per capita income.[178] the two-year budget for 2012–13 was $5.512 billion in total.[179]
+the assembly has established the principle that the un should not be unduly dependent on any one member to finance its operations. thus, there is a "ceiling" rate, setting the maximum amount that any member can be assessed for the regular budget. in december 2000, the assembly revised the scale of assessments in response to pressure from the united states. as part of that revision, the regular budget ceiling was reduced from 25% to 22%.[180] for the least developed countries (ldcs), a ceiling rate of 0.01% is applied.[178] in addition to the ceiling rates, the minimum amount assessed to any member nation (or "floor" rate) is set at 0.001% of the un budget ($55,120 for the two year budget 2013–2014).[181]
+a large share of the un's expenditure addresses its core mission of peace and security, and this budget is assessed separately from the main organizational budget.[182] the peacekeeping budget for the 2015–16 fiscal year was $8.27 billion, supporting 82,318 troops deployed in 15 missions around the world.[125] un peace operations are funded by assessments, using a formula derived from the regular funding scale that includes a weighted surcharge for the five permanent security council members, who must approve all peacekeeping operations. this surcharge serves to offset discounted peacekeeping assessment rates for less developed countries. in 2017, the top eight providers of assessed financial contributions to un peacekeeping operations were the united states  (28.47%), china  (10.25%), japan  (9.68%), germany  (6.39%), france  (6.28%), united kingdom  (5.77%), russian federation  (3.99%) and italy  (3.75%).[183]
+special un programmes not included in the regular budget, such as unicef and the world food programme, are financed by voluntary contributions from member governments, corporations, and private individuals.[184][185]
+
+evaluations, awards, and criticism
+main articles: reform of the united nations and reform of the united nations security council
+see also: criticism of the united nations
+ the 2001 nobel peace prize to the un—diploma in the lobby of the un headquarters in new york city
+a number of agencies and individuals associated with the un have won the nobel peace prize in recognition of their work. two secretaries-general, dag hammarskjöld and kofi annan, were each awarded the prize (in 1961 and 2001, respectively), as were ralph bunche (1950), a un negotiator, rené cassin (1968), a contributor to the universal declaration of human rights, and the us secretary of state cordell hull (1945), the latter for his role in the organization's founding. lester b. pearson, the canadian secretary of state for external affairs, was awarded the prize in 1957 for his role in organizing the un's first peacekeeping force to resolve the suez crisis. unicef won the prize in 1965, the international labour organization in 1969, the un peace-keeping forces in 1988, the international atomic energy agency (which reports to the un) in 2005, and the un-supported organisation for the prohibition of chemical weapons in 2013. the un high commissioner for refugees was awarded in 1954 and 1981, becoming one of only two recipients to win the prize twice. the un as a whole was awarded the prize in 2001, sharing it with annan.[186] in 2007, ipcc received the prize "for their efforts to build up and disseminate greater knowledge about man-made climate change, and to lay the foundations for the measures that are needed to counteract such change."[187]
+
+ to mark the un's 70th anniversary – budapest, 2015
+since its founding, there have been many calls for reform of the un but little consensus on how to do so. some want the un to play a greater or more effective role in world affairs, while others want its role reduced to humanitarian work. there have also been numerous calls for the un security council's membership to be increased, for different ways of electing the un's secretary-general, and for a un parliamentary assembly. jacques fomerand states the most enduring divide in views of the un is "the north–south split" between richer northern nations and developing southern nations. southern nations tend to favour a more empowered un with a stronger general assembly, allowing them a greater voice in world affairs, while northern nations prefer an economically laissez-faire un that focuses on transnational threats such as terrorism.[188]
+after world war ii, the french committee of national liberation was late to be recognized by the us as the government of france, and so the country was initially excluded from the conferences that created the new organization. the future french president charles de gaulle criticized the un, famously calling it a machin ("contraption"), and was not convinced that a global security alliance would help maintain world peace, preferring direct defence treaties between countries.[189] throughout the cold war, both the us and ussr repeatedly accused the un of favouring the other. in 1953, the ussr effectively forced the resignation of trygve lie, the secretary-general, through its refusal to deal with him, while in the 1950s and 1960s, a popular us bumper sticker read, "you can't spell communism without u.n."[190] in a sometimes-misquoted statement, president george w. bush stated in february 2003 (referring to un uncertainty towards iraqi provocations under the saddam hussein regime) that "free nations will not allow the un to fade into history as an ineffective, irrelevant debating society."[191][192][193] in contrast, the french president, françois hollande, stated in 2012 that "france trusts the united nations. she knows that no state, no matter how powerful, can solve urgent problems, fight for development and bring an end to all crises ... france wants the un to be the centre of global governance."[194] critics such as dore gold, an israeli diplomat, robert s. wistrich, a british scholar, alan dershowitz, an american legal scholar, mark dreyfus, an australian politician, and the anti-defamation league consider un attention to israel's treatment of palestinians to be excessive.[195] in september 2015, saudi arabia's faisal bin hassan trad has been elected chair of the un human rights council panel that appoints independent experts,[196] a move criticized by human rights groups.[197][198]
+since 1971, the republic of china on taiwan has been excluded from the un and since then has always been rejected in new applications. taiwanese citizens are also not allowed to enter the buildings of the united nations with roc passports. in this way, critics agree that the un is failing its own development goals and guidelines. this criticism also brought pressure from the people's republic of china, which regards the territories administered by the roc as their own territory.[199][200]
+critics have also accused the un of bureaucratic inefficiency, waste, and corruption. in 1976, the general assembly established the joint inspection unit to seek out inefficiencies within the un system. during the 1990s, the us withheld dues citing inefficiency and only started repayment on the condition that a major reforms initiative was introduced. in 1994, the office of internal oversight services (oios) was established by the general assembly to serve as an efficiency watchdog.[201] in 1994, former special representative of the secretary-general of the un to somalia mohamed sahnoun published "somalia: the missed opportunities",[202] a book in which he analyses the reasons for the failure of the 1992 un intervention in somalia, showing that, between the start of the somali civil war in 1988 and the fall of the siad barre regime in january 1991, the un missed at least three opportunities to prevent major human tragedies; when the un tried to provide humanitarian assistance, they were totally outperformed by ngos, whose competence and dedication sharply contrasted with the un's excessive caution and bureaucratic inefficiencies. if radical reform was not undertaken, warned mohamed sahnoun, then the un would continue to respond to such crisis with inept improvization.[203] in 2004, the un faced accusations that its recently ended oil-for-food programme—in which iraq had been allowed to trade oil for basic needs to relieve the pressure of sanctions—had suffered from widespread corruption, including billions of dollars of kickbacks. an independent inquiry created by the un found that many of its officials had been involved, as well as raising "significant" questions about the role of kojo annan, the son of kofi annan.[204]
+in evaluating the un as a whole, jacques fomerand writes that the "accomplishments of the united nations in the last 60 years are impressive in their own terms. progress in human development during the 20th century has been dramatic and the un and its agencies have certainly helped the world become a more hospitable and livable place for millions."[205] evaluating the first 50 years of the un's history, the author stanley meisler writes that "the united nations never fulfilled the hopes of its founders, but it accomplished a great deal nevertheless", citing its role in decolonization and its many successful peacekeeping efforts.[206] the british historian paul kennedy states that while the organization has suffered some major setbacks, "when all its aspects are considered, the un has brought great benefits to our generation and ... will bring benefits to our children's and grandchildren's generations as well."[207]
+
+see also
+
+
+
+wikinews has related news:
+ united nations general assembly votes to establish un human rights council
+
+
+united nations portal
+international relations portal
+international relations
+list of current permanent representatives to the united nations
+model united nations
+united nations in popular culture
+united nations television film series
+world summit on the information society
+list of country groupings
+list of multilateral free-trade agreements
+united nations memorial cemetery
+notes
+
+
+^ this map does not represent the view of its members or the un concerning the legal status of any country,[1] nor does it accurately reflect which areas' governments have un representation. this map shows partially recognized states such as kosovo or taiwan as part of their claiming governments (serbia and china respectively)
+
+^ roosevelt suggested the name as an alternative to the name "associated powers." the british prime minister, winston churchill, accepted it, noting that the phase was used by lord byron in the poem childe harold's pilgrimage (stanza 35).
+
+^ poland had not been represented among the fifty nations at the san francisco conference due to the reluctance of the western superpowers to recognize its post-war communist government. however, the charter was later amended to list poland as a founding member, and poland ratified the charter on 16 october 1945.[29][30]
+
+^ for details on vatican city's status, see holy see and the united nations.
+
+
+references
+citations
+
+
+^ "the world today" (pdf). retrieved 18 june 2009. the designations employed and the presentation of material on this map do not imply the expression of any opinion whatsoever on the part of the secretariat of the united nations concerning the legal status of any country.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ official languages, www.un.org. retrieved 22 may 2015.
+
+^ "charter of un chapter i". www.un.org. 2015-06-17. retrieved 22 november 2018.
+
+^ "un objectives". www.un.org. retrieved 22 november 2018.
+
+^ "nat geo un". www.nationalgeographic.org. 2012-12-23. retrieved 27 april 2017.
+
+^ "un early years of the cold war". peacekeeping.un.org. retrieved 22 november 2018.
+
+^ "un decolonization". www.un.org. 2016-02-10. retrieved 22 november 2018.
+
+^ "post cold war un". peacekeeping.un.org. retrieved 22 november 2018.
+
+^ "red cross-history-objective". international committee of the red cross. 2017-09-11. retrieved 28 november 2018.
+
+^ "league of nations instituted". www.history.com. retrieved 3 december 2018.
+
+^ "league of nations and manchuria invasion". www.johndclare.net. retrieved 30 november 2018.
+
+^ "league of nations and italo-ethiopian war". johndclare.net. retrieved 3 december 2018.
+
+^ "why the league failed". johndclare.net. retrieved 3 december 2018.
+
+^ hoopes & brinkley 2000, pp. 1–55.
+
+^ urquhart, brian (16 july 1998). "looking for the sheriff". new york review of books. retrieved 14 february 2007.
+
+^ "1942: declaration of the united nations". united nations. retrieved 1 july 2015.
+
+^ roll, david (4 january 2013). the hopkins touch: harry hopkins and the forging of the alliance to defeat hitler. pp. 172–175. isbn 978-0199891955.
+
+^ sherwood 1948, pp. 447–453.
+
+^ osmańczyk 2004, p. 2445.
+
+^ schlesinger 2003.
+
+^ bohlen, c.e. (1973). witness to history, 1929–1969. new york. p. 159.
+
+^ video: allies study post-war security etc. (1944). universal newsreel. 1944. retrieved 28 november 2014.
+
+^ "un milestone dumbarton oaks conference". www.un.org. 2015-08-04. retrieved 22 november 2018.
+
+^ "charter of the united nations|united nations". www.un.org. 2015-08-10. retrieved 29 december 2016.
+
+^ "history of the united nations|united nations". www.un.org. 2015-08-21. retrieved 29 december 2016.
+
+^ "san francisco – the birthplace of the united nations". san francisco chronicle. retrieved 29 december 2016.
+
+^ "1945: the san francisco conference". united nations. retrieved 1 july 2015.
+
+^ a b c d e "un milestones 1941-1950". www.un.org. 2015-08-04. retrieved 1 november 2017.
+
+^ grant 2009, pp. 25–26.
+
+^ "poland and the united nations". ministry of foreign affairs of the republic of poland. retrieved 29 november 2013.
+
+^ fomerand 2009, pp. 149–151.
+
+^ meisler 1995, p. 35.
+
+^ meisler 1995, pp. 58–59.
+
+^ "un milestones korean war". www.un.org. 2015-08-04. retrieved 22 november 2018.
+
+^ "creation of israel". www.nytimes.com. 2011-11-29. retrieved 22 november 2018.
+
+^ meisler 1995, pp. 51–54.
+
+^ a b "un milestones 1951-1960". www.un.org. 2015-08-06. retrieved 1 november 2017.
+
+^ meisler 1995, pp. 114.
+
+^ meisler 1995, pp. 115–134.
+
+^ see meisler, p. 76; kennedy, p. 60; fasulo, pp. 17, 20
+
+^ meisler 1995, pp. 127–128, 134.
+
+^ meisler 1995, pp. 156–157.
+
+^ meisler 1995, pp. 195–197.
+
+^ meisler 1995, pp. 208–210.
+
+^ meisler 1995, pp. 204–226, 213, 220–221.
+
+^ meisler 1995, pp. 167–168, 224–225.
+
+^ meisler 1995, p. 286.
+
+^ "is china contributing to the united nations' mission?". csis china power. 2016-03-07.
+
+^ fasulo, p. 43; meisler, p. 334
+
+^ renner, michael. "peacekeeping operations expenditures: 1947–2005" (pdf). global policy forum.
+
+^ meisler, pp. 252–56
+
+^ meisler 1995, pp. 264–277.
+
+^ meisler 1995, p. 334.
+
+^ kennedy 2007, pp. 66–67.
+
+^ for quotation "worldwide ridicule", see meisler, p. 293; for description of un missions in somalia and bosnia, see meisler, pp. 312–29.
+
+^ kennedy 2007, p. 104.
+
+^ meisler 1995, pp. 226–227.
+
+^ meisler 1995, pp. 234–237.
+
+^ lewis, paul (6 august 1996). "jean gerard, 58, reagan envoy who led u.s. to leave unesco". new york times. retrieved 6 january 2014.
+
+^ meisler 1995, pp. 285–286.
+
+^ a b "are un reforms just reshuffling of the deck?". new straits times. 16 january 1998. retrieved 5 november 2013.
+
+^ kennedy 2007, pp. 110–111.
+
+^ kennedy 2007, p. 111.
+
+^ smith-spark, laura (8 october 2013). "syria: chemical weapons team faces many dangers, says un chief ban". cnn. retrieved 18 november 2013.
+
+^ "un failed during final days of lankan ethnic war: ban ki-moon". firstpost. press trust of india. 25 september 2013. retrieved 5 november 2013.
+
+^ "un milestones 2001-2010". www.un.org. 2015-08-21. retrieved 1 november 2017.
+
+^ "un summit agenda; the largest gathering of world leaders in history meets in new york to discuss the role of the united nations in the 21st century". bbc news. 7 december 2000. retrieved 22 november 2006.
+
+^ "2005 world summit outcome" (pdf). united nations. retrieved 1 november 2017.
+
+^ a b "sustainable development goals". un.org. retrieved 2 november 2017.
+
+^ "communicating to a global constituency: un day in paris". unu.edu. united nations university. retrieved 24 november 2016.
+
+^ falk, pamela. "can u.n. regain trust with an experiment in transparency?". www.cbsnews.com. cbs news. retrieved 24 november 2016.
+
+^ guterres, antónio (2017-01-09). "u.n. secretary-general antónio guterres: my vision for revitalizing the united nations". newsweek.com. newsweek. retrieved 13 january 2017.
+
+^ fasulo 2004, pp. 3–4.
+
+^ fasulo 2004, p. 8.
+
+^ "united nations visitors centre". united nations. 2017. retrieved 2 november 2017.
+
+^ "united nations office at geneva". united nations office at geneva. retrieved 6 november 2013.
+
+^ "welcome to the united nations office at vienna!". united nations office at vienna. retrieved 6 november 2013.
+
+^ "welcome to the united nations office at nairobi". united nations office at nairobi. retrieved 6 november 2013.
+
+^ "general assembly of the united nations – rules of procedure". un department for general assembly. retrieved 15 december 2010.
+
+^ "jerusalem court: no immunity for un employee for private acts—diplomatic/consular law and sovereign immunity in israel". diplomaticlaw.com. 23 march 2009. archived from the original on 28 june 2012. retrieved 27 april 2010.
+
+^ fasulo 2004, p. 4.
+
+^ fasulo 2004, pp. 4–7.
+
+^ a b salaries, united nations website
+
+^ ilo: noblemaire principle, judgement 986, consideration 7, and judgment 831, consideration 1.
+
+^ the noblemaire principle, icsc
+
+^ americans working at the u.n, world, new york times, 28 september 2009
+
+^ "un charter: chapter iii". united nations. retrieved 2 november 2017.
+
+^ a b fomerand 2009, pp. 131–133.
+
+^ fasulo 2004, pp. 69–70.
+
+^ "main organs". 2014-11-18. retrieved 21 november 2018.
+
+^ "general assembly of the united nations: rules of procedure: xii – plenary meetings". united nations. retrieved 4 december 2013. decisions of the general assembly on important questions shall be made by a two-thirds majority of the members present and voting. these questions shall include: recommendations with respect to the maintenance of international peace and security, the election of the non-permanent members of the security council, the election of the members of the economic and social council, the election of members of the trusteeship council in accordance with paragraph 1 c of article 86 of the charter, the admission of new members to the united nations, the suspension of the rights and privileges of membership, the expulsion of members, questions relating to the operation of the trusteeship system, and budgetary questions.
+
+^ fasulo 2004, pp. 70–73.
+
+^ a b "united nations charter: chapter v". united nations. 2015-06-17. retrieved 2 november 2017.
+
+^ fasulo 2004, pp. 39–43.
+
+^ "members of the united nations security council". united nations. retrieved 26 august 2018.
+
+^ fasulo 2004, pp. 40–41.
+
+^ "security council presidency in 2017". united nations. retrieved 2 november 2017.
+
+^ fasulo 2004, p. 21.
+
+^ fomerand 2009, p. 285.
+
+^ "united nations charter: chapter xv". united nations. 2015-06-17. retrieved 2 november 2017.
+
+^ meisler 1995, pp. 31–32.
+
+^ kennedy 2007, pp. 59–62.
+
+^ "appointment process". united nations. 2015-04-22. retrieved 2 november 2017.
+
+^ "former secretaries-general". united nations. retrieved 6 november 2013.
+
+^ a b fomerand 2009, p. 183.
+
+^ fasulo 2004, pp. 100–101.
+
+^ "the court". international court of justice. retrieved 2 november 2017.
+
+^ a b c fomerand 2009, pp. 103–104.
+
+^ "about ecosoc". ecosoc. retrieved 5 november 2013.
+
+^ fasulo 2004, pp. 153–155.
+
+^ fasulo 2004, p. 156.
+
+^ a b "united nations charter: chapter ix". united nations. 2015-06-17. retrieved 2 november 2017.
+
+^ fasulo 2004, pp. 171–177.
+
+^ "growth in united nations membership, 1945–present". united nations. 2015-08-06.
+
+^ "un welcomes south sudan as 193rd member state". united nations. 28 june 2006. retrieved 4 november 2011.
+
+^ "united nations member states". united nations. retrieved 2 november 2017.
+
+^ "charter of the united nations: chapter ii". united nations. 2015-06-17. retrieved 2 november 2017.
+
+^ "non-member states". united nations. 2015-08-07. retrieved 2 november 2017.
+
+^ "repertory of practice". united nations. retrieved 2 november 2017.
+
+^ "the member states of the group of 77". retrieved 7 november 2013.
+
+^ "about the g77". group of 77. retrieved 5 november 2013.
+
+^ fasulo 2004, p. 52.
+
+^ coulon 1998, p. ix.
+
+^ nobel prize. "the nobel peace prize 1988". retrieved 3 april 2011.
+
+^ a b "united nations peacekeeping operations". united nations. 29 february 2016. retrieved 24 march 2016.
+
+^ "the un's role in nation building: from the congo to iraq" (pdf). rand corporation. retrieved 30 december 2008.
+
+^ "the human security report 2005". human security centre. archived from the original on 28 july 2009. retrieved 8 february 2007.
+
+^ kennedy 2007, p. 56.
+
+^ ball 2011, p. 46.
+
+^ kennedy 2007, p. 187.
+
+^ kennedy 2007, pp. 102–105.
+
+^ meisler 1995, pp. 294–311.
+
+^ lynch, colum (16 december 2004). "u.n. sexual abuse alleged in congo". the washington post. retrieved 21 november 2013.
+
+^ "un troops face child abuse claims". bbc news. 30 november 2006. retrieved 21 november 2013.
+
+^ "aid workers in liberia accused of sex abuse". the new york times. 8 may 2006. retrieved 22 november 2013.
+
+^ holt, kate (4 january 2007). "un staff accused of raping children in sudan". the daily telegraph. retrieved 21 november 2013.
+
+^ "peacekeepers 'abusing children'". bbc news. 28 may 2007. retrieved 21 november 2013.
+
+^ watson, ivan; vaccarello, joe (10 october 2013). "u.n. sued for 'bringing cholera to haiti,' causing outbreak that killed thousands". cnn. retrieved 18 november 2013.
+
+^ "resolutions adopted by the general assembly during its first session". united nations. retrieved 24 march 2008.
+
+^ fasulo 2004, pp. 188–189.
+
+^ fasulo 2004, pp. 189–190.
+
+^ a b "united nations charter: chapter i". united nations. 2015-06-17. retrieved 2 november 2017.
+
+^ kennedy 2007, pp. 178–182.
+
+^ fomerand 2009, p. 377.
+
+^ kennedy 2007, pp. 185, 188.
+
+^ fomerand 2009, pp. 70, 73.
+
+^ kennedy 2007, p. 192.
+
+^ fomerand 2009, p. 347.
+
+^ "un creates new human rights body". bbc news. 15 march 2006. retrieved 18 november 2013.
+
+^ "frequently asked questions: declaration on the rights of indigenous peoples" (pdf). united nations. retrieved 18 november 2013.
+
+^ jordans, frank (17 june 2011). "u.n. gay rights protection resolution passes, hailed as 'historic moment'". the huffington post. associated press. retrieved 18 november 2013.
+
+^ fomerand 2009, pp. 57, 194, 341.
+
+^ "united nations permanent forum on indigenous issues". united nations. retrieved 18 november 2013.
+
+^ "we can end poverty". united nations. retrieved 18 november 2013.
+
+^ kennedy 2007, pp. 143–144.
+
+^ "the un millennium development goals". united nations. retrieved 4 may 2007.
+
+^ fasulo 2004, pp. 169–170, 172.
+
+^ fomerand 2009, pp. 341–342.
+
+^ fomerand 2009, p. 126.
+
+^ "about unicef: who we are: our history". unicef. retrieved 21 november 2013.
+
+^ "about unicef: who we are". unicef. retrieved 21 november 2013.
+
+^ "about us–united nations". the world bank. 30 june 2003. retrieved 2 august 2007.
+
+^ fomerand 2009, pp. 175, 191–192.
+
+^ fasulo 2004, pp. 176–177.
+
+^ fomerand 2009, pp. 199–200.
+
+^ fomerand 2009, p. 368.
+
+^ a b fasulo 2004, p. 183.
+
+^ "our work". world food programme. retrieved 22 november 2013.
+
+^ "about us". office of the united nations high commissioner for refugees. retrieved 22 november 2013.
+
+^ fomerand 2009, pp. 348, 398.
+
+^ "the united nations and decolonization". united nations. retrieved 6 november 2013.
+
+^ "non-self-governing territories". united nations. retrieved 7 february 2014.
+
+^ kennedy 2007, pp. 160–162.
+
+^ "organizations". intergovernmental panel on climate change. retrieved 21 november 2013.
+
+^ fasulo 2004, p. 179.
+
+^ "united nations observances". united nations. retrieved 17 november 2013.
+
+^ [1] 
+
+^ a b "fifth committee approves assessment scale for regular, peacekeeping budgets, texts on common system, pension fund, as it concludes session (press release)". united nations. 22 december 2006. retrieved 8 november 2013.
+
+^ "regular budget 2012–2013" (pdf). united nations. retrieved 9 november 2013.
+
+^ fasulo 2004, p. 117.
+
+^ weiss & daws 2009, p. 682.
+
+^ fasulo 2004, p. 115.
+
+^ "financing peacekeeping. united nations peacekeeping". www.un.org.
+
+^ "where your money goes". world food programme. retrieved 9 november 2013.
+
+^ "overall funding trends". unicef. 21 january 2013. retrieved 9 november 2013.
+
+^ "all nobel peace prizes". nobel prize. retrieved 5 november 2013.
+
+^ "the nobel peace prize 2007". nobelprize.org. retrieved 23 november 2018.
+
+^ fomerand 2009, p. civ.
+
+^ gerbet, pierre (1995). "naissance des nations unies". espoir (in french). no. 102. archived from the original on 10 july 2009.
+
+^ meisler 1995, pp. 72–73, 82.
+
+^ greene, david l. (14 february 2003). "bush implores u.n. to show 'backbone'". the baltimore sun. retrieved 12 january 2014.
+
+^ singh, jasvir (2008). problem of ethicity: role of united nations in kosovo crisis. unistar books. p. 150. isbn 9788171427017. retrieved 12 january 2014.
+
+^ normand, roger; zaidi, sarah (13 february 2003). human rights at the un: the political history of universal justice. indiana university press. p. 455. isbn 978-0253000118. retrieved 12 january 2014.
+
+^ "france's role at the un". permanent mission of france to the united nations. retrieved 25 november 2013.
+
+^ 
+for gold, see gold, p. 20
+for wistrich, see wistrich, p. 487
+for dershowitz, see dershowitz, alan. the case for peace: how the arab-israeli conflict can be resolved. hoboken: john wiley & sons, inc., 2005.
+for dreyfus, see "don't be lynch mob, lawyers urge u.n.." archived 10 september 2012 at the wayback machine jta. 8 july 2009.
+for anti-defamation league, see "adl: un human rights council resolution reveals 'cancerous bias' against israel." archived 2 november 2012 at the wayback machine adl. 7 july 2009.
+
+^ "uk helped saudi arabia get un human rights role through 'secret deal' to exchange votes, leaked documents suggest". the independent. 30 september 2015.
+
+^ "u.n. watchdog slams 'scandalous' choice of saudi arabia to head human rights panel". yahoo news. 21 september 2015.
+
+^ "when beheading won't do the job, the saudis resort to crucifixion ". the atlantic. 24 september 2015.
+
+^ lee, david tawei (2017-09-11). "the united nations needs to treat taiwan fairly". the national interest. retrieved 14 september 2017.
+
+^ moody, john (14 july 2017). "un tours open to terror and thug states - but not taiwan". fox news. retrieved 14 september 2017.
+
+^ reddy, shravanti (29 october 2002). "watchdog organization struggles to decrease un bureaucracy". global policy forum. retrieved 21 september 2006.
+
+^ usip press books, october 1994, isbn 978-1-878379-35-1
+
+^ book review by gail m. gerhart in foreign affairs, march/april 1995 [2]
+
+^ "q&a: oil-for-food scandal". bbc news. 7 september 2005. retrieved 27 november 2013.
+
+^ fomerand 2009, pp. cviii.
+
+^ meisler 1995, p. 339.
+
+^ kennedy 2007, p. 290.
+
+
+bibliography
+.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}
+ball, howard (2011). genocide: a reference handbook. contemporary world issues. santa barbara, california: abc-clio. isbn 978-1-59884-488-7.
+coulon, jocelyn (1998). soldiers of diplomacy: the united nations, peacekeeping, and the new world order. university of toronto press. isbn 978-0-8020-0899-2.
+fasulo, linda (2004). an insider's guide to the un. new haven, connecticut: yale university press. isbn 978-0-300-10155-3.
+fomerand, jacques (2009). the a to z of the united nations. lanham, maryland: scarecrow press. isbn 978-0-8108-5547-2.
+gold, dore (2004). tower of babble: how the united nations has fueled global chaos. new york: crown forum. isbn 978-1-4000-5475-6.
+grant, thomas d. (2009). admission to the united nations: charter article 4 and the rise of universal organization. legal aspects of international organization. 50. leiden, netherlands: martinus nijhoff publishers. isbn 978-900417363-7. issn 0924-4883.
+hoopes, townsend; brinkley, douglas (2000) [1997]. fdr and the creation of the u.n. new haven, connecticut: yale university press. isbn 978-0-300-08553-2.
+kennedy, paul (2007) [2006]. the parliament of man: the past, present, and future of the united nations. new york: random house. isbn 978-0-375-70341-6.
+manchester, william; reid, paul (2012). the last lion: winston spencer churchill. volume 3: defender of the realm, 1940–1965. new york: little brown and company. isbn 978-0-316-54770-3.
+meisler, stanley (1995). united nations: the first fifty years. new york: atlantic monthly press. isbn 978-0-87113-616-9.
+mires, charlene (2013). capital of the world: the race to host the united nations. new york university press. isbn 978-0-8147-0794-4.
+osmańczyk, edmund jan (2004).  mango, anthony, ed. encyclopedia of the united nations and international agreements. 4. taylor & francis. isbn 978-0-415-93924-9.
+schlesinger, stephen c. (2003). act of creation: the founding of the united nations: a story of super powers, secret agents, wartime allies and enemies, and their quest for a peaceful world. boulder, colorado: westview press. isbn 978-0-8133-3324-3.
+sherwood, robert e. (1948). roosevelt and hopkins: an intimate history. new york: harper and brothers.
+weiss, thomas g.; daws, sam, eds. (2009) [2007]. the oxford handbook on the united nations. oxford university press. isbn 978-0-19-956010-3.
+wistrich, robert s. (2010). a lethal obsession: anti-semitism from antiquity to the global jihad. new york: random house. isbn 978-1-4000-6097-9.
+
+further reading
+
+lowe, vaughan; roberts, adam; welsh, jennifer; zaum, dominik, eds. (2008). the united nations security council and war: the evolution of thought and practice since 1945. oxford university press. isbn 978-0-19-953343-5.
+roberts, adam; kingsbury, benedict, eds. (1994). united nations, divided world: the un's roles in international relations (2nd ed.). oxford university press. isbn 978-0-19-827926-6.
+
+external links
+
+united nationsat wikipedia's sister projects
+
+
+definitions from wiktionary
+media from wikimedia commons
+news from wikinews
+quotations from wikiquote
+texts from wikisource
+textbooks from wikibooks
+travel guide from wikivoyage
+resources from wikiversity
+
+
+
+official websites
+
+official website  of the united nations
+the united nations regional information centre (unric)
+united nations volunteers
+united nations documentation research guide
+official youtube channel (english)
+other
+
+searchable archive of un discussions and votes
+united nations association of the uk – independent policy authority on the un
+website of the global policy forum, an independent think tank on the un
+un watch – ngo monitoring un activities
+works by or about united nations at internet archive
+works by united nations at librivox (public domain audiobooks) 
+vte united nations
+antónio guterres, secretary-general
+amina j. mohammed, deputy secretary-general
+maría fernanda espinosa, general assembly president
+united nations systemunited nations charter
+preamble
+principal organs
+secretariat
+secretary-general
+deputy secretary-general
+under-secretary-general
+general assembly
+president
+international court of justice
+security council
+members
+economic and social council
+statute
+trusteeship council
+secretariat officesand departments
+headquarters
+envoy on youth
+spokesperson for the secretary-general
+geneva
+palace of nations
+nairobi
+vienna
+economic and social affairs
+political affairs
+public information
+dag hammarskjöld library
+safety and security
+palestinian rights
+peacekeeping operations
+internal oversight
+legal affairs
+developing countries
+sport for development and peace
+disarmament affairs
+outer space affairs
+partnerships
+coordination of humanitarian affairs
+un organizations by location
+united nations office for developing countries
+sexual violence in conflict
+programmes andspecialized agencies
+culture of peace
+fao
+icao
+ifad
+ilo
+imo
+itc
+ipcc
+iaea
+minurso
+unido
+itu
+unaids
+scsl
+unctad
+uncitral
+uncdf
+undg
+undp
+undpi
+undpko
+peacekeeping
+unep
+ozonaction
+unep/grid-arendal
+unep-wcmc
+unesco
+unfip
+unfpa
+un-habitat
+ohchr
+unhcr
+unhrc
+unicef
+unicri
+unidir
+unitar
+un-oceans
+unodc
+unops
+unosat
+unrisd
+unrwa
+unssc
+unu
+unu-op
+unu-cris
+unv
+un women
+unwto
+upu
+wfp
+who
+wipo
+wmo
+members and observers
+full members
+founding members
+unsc permanent members
+observers
+european union
+history
+league of nations
+four policemen
+declaration by united nations
+peacekeeping missions
+history
+timeline
+enlargement
+resolutions
+security council vetoes
+general assembly
+66th
+67th
+security council
+cyprus
+iran
+iraq
+israel
+lebanon
+nagorno-karabakh
+north korea
+palestine
+syria
+western sahara
+elections
+secretary-general (2016)
+international court of justice 2011
+general assembly president (2016)
+security council (2016)
+related
+bretton woods system
+comprehensive nuclear-test-ban treaty
+criticism
+delivering as one
+flag
+honour flag
+four nations initiative
+genocide convention
+un global compact
+international covenant on civil and political rights
+international criminal court
+international decade for a culture of peace and non-violence for the children of the world
+international years
+interpreters
+un laissez-passer
+military staff committee
+official languages
+organisation for the prohibition of chemical weapons
+peacekeeping
+ralph bunche park
+united nations postal administration
+standard minimum rules for the administration of juvenile justice
+standard minimum rules for the treatment of prisoners (the mandela rules)
+treaty series
+un day
+universal declaration of human rights
+millennium declaration
+summit
+development goals
+security council veto power
+un reform
+security council reform
+un art collection
+un federal credit union
+un memorial cemetery korea
+vienna declaration and programme of action
+world federation of united nations associations
+other
+outline
+un television film series (1964–1966)
+in popular culture
+
+vterelations of the united nations with its member statesamericas
+brazil
+canada
+mexico
+trinidad and tobago
+united states
+asia
+afghanistan
+bangladesh
+people's republic of china
+india
+indonesia
+iraq
+israel
+japan
+kazakhstan
+korea
+lebanon
+malaysia
+pakistan
+philippines
+russia
+singapore
+europe
+albania
+armenia
+azerbaijan
+france
+germany
+kazakhstan
+luxembourg
+poland
+russia
+serbia
+ukraine
+united kingdom
+oceania
+australia
+fiji
+marshall islands
+micronesia
+new zealand
+tuvalu
+vanuatu
+others
+holy see
+european union
+palestine
+former members
+republic of china
+german democratic republic
+soviet union
+ukrainian ssr
+yugoslavia
+
+vtesecretaries-general of the league of nations and the united nationsleague of nations(1919–1945)
+james eric drummond  (united kingdom)
+joseph avenol  (france)
+seán lester  (irish free state)
+united nations(since 1945)
+gladwyn jebb1  (united kingdom)
+trygve lie  (norway)
+dag hammarskjöld  (sweden)
+u thant  (burma)
+kurt waldheim  (austria)
+javier pérez de cuéllar  (peru)
+boutros boutros-ghali  (egypt)
+kofi annan  (ghana)
+ban ki-moon  (south korea)
+antónio guterres  (portugal)
+related
+united nations secretariat
+deputy secretary-general of the united nations
+under-secretary-general of the united nations
+u.n. secretary general memoirs
+1 provisional secretary-general prior to the election of trygve lie.
+links to related articles
+vteinternational organizationsintergovernmental organizationsnon-cultural igos
+international criminal court
+international monetary fund
+international seabed authority
+world customs organization
+inter-parliamentary union
+interpol
+new development bank
+organisation for the prohibition of chemical weapons
+united nations
+world bank group
+world trade organization
+cultural igos
+commonwealth of nations
+community of portuguese language countries
+organisation internationale de la francophonie
+
+vtelaureates of the nobel peace prize1901–1925
+1901 henry dunant / frédéric passy
+1902 élie ducommun / charles gobat
+1903 randal cremer
+1904 institut de droit international
+1905 bertha von suttner
+1906 theodore roosevelt
+1907 ernesto moneta / louis renault
+1908 klas arnoldson / fredrik bajer
+1909 a. m. f. beernaert / paul estournelles de constant
+1910 international peace bureau
+1911 tobias asser / alfred fried
+1912 elihu root
+1913 henri la fontaine
+1914
+1915
+1916
+1917 international committee of the red cross
+1918
+1919 woodrow wilson
+1920 léon bourgeois
+1921 hjalmar branting / christian lange
+1922 fridtjof nansen
+1923
+1924
+1925 austen chamberlain / charles dawes
+1926–1950
+1926 aristide briand / gustav stresemann
+1927 ferdinand buisson / ludwig quidde
+1928
+1929 frank b. kellogg
+1930 nathan söderblom
+1931 jane addams / nicholas butler
+1932
+1933 norman angell
+1934 arthur henderson
+1935 carl von ossietzky
+1936 carlos saavedra lamas
+1937 robert cecil
+1938 nansen international office for refugees
+1939
+1940
+1941
+1942
+1943
+1944 international committee of the red cross
+1945 cordell hull
+1946 emily balch / john mott
+1947 friends service council / american friends service committee
+1948
+1949 john boyd orr
+1950 ralph bunche
+1951–1975
+1951 léon jouhaux
+1952 albert schweitzer
+1953 george marshall
+1954 united nations high commissioner for refugees
+1955
+1956
+1957 lester b. pearson
+1958 georges pire
+1959 philip noel-baker
+1960 albert lutuli
+1961 dag hammarskjöld
+1962 linus pauling
+1963 international committee of the red cross / league of red cross societies
+1964 martin luther king jr.
+1965 unicef
+1966
+1967
+1968 rené cassin
+1969 international labour organization
+1970 norman borlaug
+1971 willy brandt
+1972
+1973 lê đức thọ (declined award) / henry kissinger
+1974 seán macbride / eisaku satō
+1975 andrei sakharov
+1976–2000
+1976 betty williams / mairead corrigan
+1977 amnesty international
+1978 anwar sadat / menachem begin
+1979 mother teresa
+1980 adolfo pérez esquivel
+1981 united nations high commissioner for refugees
+1982 alva myrdal / alfonso garcía robles
+1983 lech wałęsa
+1984 desmond tutu
+1985 international physicians for the prevention of nuclear war
+1986 elie wiesel
+1987 óscar arias
+1988 un peacekeeping forces
+1989 tenzin gyatso (14th dalai lama)
+1990 mikhail gorbachev
+1991 aung san suu kyi
+1992 rigoberta menchú
+1993 nelson mandela / f. w. de klerk
+1994 shimon peres / yitzhak rabin / yasser arafat
+1995 pugwash conferences / joseph rotblat
+1996 carlos belo / josé ramos-horta
+1997 international campaign to ban landmines / jody williams
+1998 john hume / david trimble
+1999 médecins sans frontières
+2000 kim dae-jung
+2001–present
+2001 united nations / kofi annan
+2002 jimmy carter
+2003 shirin ebadi
+2004 wangari maathai
+2005 international atomic energy agency / mohamed elbaradei
+2006 grameen bank / muhammad yunus
+2007 al gore / intergovernmental panel on climate change 
+2008 martti ahtisaari
+2009 barack obama
+2010 liu xiaobo
+2011 ellen johnson sirleaf / leymah gbowee / tawakkol karman
+2012 european union
+2013 organisation for the prohibition of chemical weapons
+2014 kailash satyarthi / malala yousafzai
+2015 tunisian national dialogue quartet
+2016 juan manuel santos
+2017 international campaign to abolish nuclear weapons
+2018 denis mukwege / nadia murad
+
+vte2001 nobel prize laureateschemistry
+william standish knowles (united states)
+ryōji noyori (japan)
+karl barry sharpless (united states)
+literaturev. s. naipaul (trinidad & tobago/united kingdom)peace
+united nations
+kofi annan (ghana)
+physics
+eric allin cornell (united states)
+wolfgang ketterle (germany)
+carl wieman (united states)
+physiology or medicine
+leland h. hartwell (united states)
+tim hunt (united kingdom)
+paul nurse (united kingdom)
+economic sciences
+george akerlof (united states)
+michael spence (united states)
+joseph stiglitz (united states)
+
+.mw-parser-output .nobold{font-weight:normal}nobel prize recipients
+1990
+91
+92
+93
+94
+95
+96
+97
+98
+99
+2000
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+16
+17
+18
+
+vteinternational years proclaimed by the united nations
+human rights (1968)
+women (1975)
+the child (1979)
+disabled persons (1981)
+youth (1985)
+peace (1986)
+shelter for the homeless (1987)
+space (1992)
+family (1994)
+tolerance (1995)
+older persons (1999)
+culture of peace (2000)
+volunteers (2001)
+mobilization against racism (2001)
+rice (2004)
+struggle against slavery and its abolition (2004)
+microcredit (2005)
+physics (2005)
+deserts and desertification (2006)
+polar (2007–2008)
+languages (2008)
+the potato (2008)
+sanitation (2008)
+planet earth (2008)
+astronomy (2009)
+natural fibres (2009)
+biodiversity (2010)
+youth (2010–2011)
+forests (2011)
+chemistry (2011)
+people of african descent (2011)
+cooperatives (2012)
+water cooperation (2013)
+crystallography (2014)
+light (2015)
+soil (2015)
+pulses (2016)
+sustainable tourism for development (2017)
+indigenous languages (2019)
+moderation (2019)
+periodic table of chemical elements (2019)
+
+vtepacific islands forum (pif)members
+australia
+cook islands
+fiji
+french polynesia
+kiribati
+marshall islands
+micronesia
+nauru
+new zealand
+niue
+palau
+papua new guinea
+new caledonia
+samoa
+solomon islands
+tonga
+tuvalu
+vanuatu
+associate members
+tokelau
+observers
+american samoa
+east timor
+guam
+northern mariana islands
+wallis and futuna
+observer organisations
+african, caribbean and pacific group of states
+asian development bank
+commonwealth of nations
+international organization for migration
+united nations
+western and central pacific fisheries commission (wcpfc)
+world bank
+dialogue partners
+canada
+china
+cuba
+european union
+france
+germany
+india
+indonesia
+italy
+japan
+korea
+malaysia
+philippines
+spain
+thailand
+turkey
+united kingdom
+united states
+meetings
+45th
+
+
+
+authority control 
+bibsys: 90058028
+bne: xx89609
+bnf: cb118650631 (data)
+gnd: 333-5
+hds: 26469
+isni: 0000 0001 2331 7789
+lccn: n79021345
+ndl: 00288555
+nkc: kn20010711348
+nla: 35561510
+selibr: 133482
+sudoc: 026395258
+ulan: 500354403
+viaf: 144904638
+ worldcat identities (via viaf): 144904638
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=united_nations&oldid=884065510"					
+categories: united nationsintergovernmental organizations established by treatyorganizations awarded nobel peace prizesorganizations based in new york cityorganizations established in 19451945 establishments in the united stateshidden categories: cs1 french-language sources (fr)webarchive template wayback linkswikipedia indefinitely semi-protected pageswikipedia indefinitely move-protected pagesarticles with short descriptiongood articlesuse british english oxford spelling from february 2014use dmy dates from july 2018articles containing arabic-language textarticles containing chinese-language textarticles containing french-language textarticles containing russian-language textarticles containing spanish-language textpages using infobox country or infobox former country with the symbol caption or type parametersuse dmy dates from february 2014cs1: long volume valuearticles with internet archive linksarticles with librivox linkswikipedia articles with bibsys identifierswikipedia articles with bne identifierswikipedia articles with bnf identifierswikipedia articles with gnd identifierswikipedia articles with hds identifierswikipedia articles with isni identifierswikipedia articles with lccn identifierswikipedia articles with ndl identifierswikipedia articles with nkc identifierswikipedia articles with nla identifierswikipedia articles with selibr identifierswikipedia articles with sudoc identifierswikipedia articles with ulan identifierswikipedia articles with viaf identifierswikipedia articles with worldcat-viaf identifiersac with 14 elements 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readview sourceview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commonswikinewswikiquotewikivoyage 
+
+
+
+languages
+
+
+адыгэбзэадыгабзэafrikaansalemannischአማርኛаҧсшәаالعربيةaragonésarmãneashtiarpetanঅসমীয়াasturianuavañe'ẽаварazərbaycancaتۆرکجهবাংলাbân-lâm-gúbasa banyumasanбашҡортсабеларускаябеларуская (тарашкевіца)‎भोजपुरीbikol centralbislamaбългарскиboarischབོད་ཡིགbosanskibrezhonegбуряадcatalàчӑвашлаcebuanočeštinachishonacymraegdanskdavvisámegielladeutschދިވެހިބަސްdiné bizaaddolnoserbskiडोटेलीeestiελληνικάespañolesperantoestremeñueuskaraفارسیfiji hindiføroysktfrançaisfryskfurlangaeilgegaelggàidhliggalego贛語ગુજરાતીगोंयची कोंकणी / gõychi konknni客家語/hak-kâ-ngî한국어hausaհայերենहिन्दीhornjoserbscehrvatskiidoilokanoবিষ্ণুপ্রিয়া মণিপুরীbahasa indonesiainterlinguainterlingueиронisixhosaíslenskaitalianoעבריתbasa jawakabɩyɛkalaallisutಕನ್ನಡkapampanganкъарачай-малкъарქართულიқазақшаkernowekkinyarwandakiswahiliкомиkreyòl ayisyenkurdîкыргызчаladinoລາວlatinalatviešulëtzebuergeschлезгиlietuviųligurelimburgslingálalingua franca novala .lojban.lumbaartmagyarमैथिलीмакедонскиmalagasyമലയാളംmaltiमराठीმარგალურიمصرىمازِرونیbahasa melayubaso minangkabaumìng-dĕ̤ng-ngṳ̄mirandésмонголမြန်မာဘာသာnāhuatlnederlandsनेपालीनेपाल भाषा日本語napulitanoнохчийнnordfriisknorsknorsk nynorsknovialoccitanолык марийଓଡ଼ିଆoʻzbekcha/ўзбекчаਪੰਜਾਬੀpälzischپنجابیpapiamentuپښتوpatoisភាសាខ្មែរpiemontèisplattdüütschpolskiportuguêsqaraqalpaqshaqırımtatarcaromânărumantschruna simiрусиньскыйрусскийсаха тылаᱥᱟᱱᱛᱟᱲᱤgagana samoaसंस्कृतम्sarduscotsseelterskshqipsicilianuසිංහලsimple englishسنڌيsiswatislovenčinaslovenščinasoomaaligaکوردیсрпски / srpskisrpskohrvatski / српскохрватскиbasa sundasuomisvenskatagalogதமிழ்taqbaylitтатарча/tatarçaతెలుగుไทยтоҷикӣtürkçetürkmençeудмуртукраїнськаاردوئۇيغۇرچە / uyghurchevahcuenghvènetovepsän kel’tiếng việtvolapükvõrowalon文言winaraywolof吴语xitsongaייִדישyorùbá粵語zazakižemaitėška中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 19 february 2019, at 08:54 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"3.236","walltime":"3.923","ppvisitednodes":{"value":23160,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":587216,"limit":2097152},"templateargumentsize":{"value":98395,"limit":2097152},"expansiondepth":{"value":22,"limit":40},"expensivefunctioncount":{"value":25,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":396981,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00% 3033.276      1 -total"," 34.20% 1037.314      2 template:reflist"," 23.18%  703.245      4 template:infobox"," 20.26%  614.682     86 template:cite_web"," 17.17%  520.769      1 template:infobox_geopolitical_organization","  7.02%  212.962      1 template:collapsible_list","  6.61%  200.523      1 template:bar_chart","  6.22%  188.817      5 template:lang","  5.82%  176.468     87 template:sfn","  5.28%  160.240     35 template:flagicon"]},"scribunto":{"limitreport-timeusage":{"value":"1.463","limit":"10.000"},"limitreport-memusage":{"value":25983690,"limit":52428800}},"cachereport":{"origin":"mw1256","timestamp":"20190219095616","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":139,"wghostname":"mw1268"});});
+
+

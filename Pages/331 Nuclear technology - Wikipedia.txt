@@ -1,0 +1,576 @@
+
+
+
+
+nuclear technology - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"nuclear_technology","wgtitle":"nuclear technology","wgcurrevisionid":874169725,"wgrevisionid":874169725,"wgarticleid":97830,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["cs1 maint: archived copy as title","webarchive template wayback links","all articles with dead external links","articles with dead external links from june 2016","articles needing additional references from november 2006","all articles needing additional references","wikipedia introduction cleanup from march 2011","all pages needing cleanup","articles covered by wikiproject wikify from march 2011","all articles covered by wikiproject wikify","articles with multiple maintenance issues","all articles with unsourced statements","articles with unsourced statements from november 2010","all articles with vague or ambiguous time","vague or ambiguous time from may 2012","wikipedia articles with gnd identifiers","nuclear technology"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"nuclear_technology","wgrelevantarticleid":97830,"wgrequestid":"xgba1gpame8aaax-0giaaabi","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":["sysop"],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q348091","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","jquery.makecollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makecollapsible","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+nuclear technology 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+this article has multiple issues. please help improve it or discuss these issues on the talk page. (learn how and when to remove these template messages)
+
+this article needs additional citations for verification. please help improve this article by adding citations to reliable sources. unsourced material may be challenged and removed.find sources: "nuclear technology" – news · newspapers · books · scholar · jstor (november 2006) (learn how and when to remove this template message)
+this article's lead section does not adequately summarize key points of its contents. please consider expanding the lead to provide an accessible overview of all important aspects of the article. please discuss this issue on the article's talk page. (march 2011)
+
+ (learn how and when to remove this template message)
+ a residential smoke detector is the most familiar piece of nuclear technology for some people
+nuclear technology is technology that involves the nuclear reactions of atomic nuclei. among the notable nuclear technologies are nuclear reactors, nuclear medicine and nuclear weapons. it is also used, among other things, in smoke detectors and gun sights.
+
+contents
+
+1 history and scientific background
+
+1.1 discovery
+1.2 nuclear fission
+1.3 nuclear fusion
+
+
+2 nuclear weapons
+3 civilian uses
+
+3.1 nuclear power
+3.2 medical applications
+3.3 industrial applications
+3.4 commercial applications
+3.5 food processing and agriculture
+
+
+4 accidents
+5 see also
+6 references
+7 external links
+
+
+history and scientific background[edit]
+discovery[edit]
+main article: nuclear physics
+the vast majority of common, natural phenomena on earth only involve gravity and electromagnetism, and not nuclear reactions. this is because atomic nuclei are generally kept apart because they contain positive electrical charges and therefore repel each other.
+in 1896, henri becquerel was investigating phosphorescence in uranium salts when he discovered a new phenomenon which came to be called radioactivity.[1] he, pierre curie and marie curie began investigating the phenomenon. in the process, they isolated the element radium, which is highly radioactive. they discovered that radioactive materials produce intense, penetrating rays of three distinct sorts, which they labeled alpha, beta, and gamma after the first three greek letters. some of these kinds of radiation could pass through ordinary matter, and all of them could be harmful in large amounts. all of the early researchers received various radiation burns, much like sunburn, and thought little of it.
+the new phenomenon of radioactivity was seized upon by the manufacturers of quack medicine (as had the discoveries of electricity and magnetism, earlier), and a number of patent medicines and treatments involving radioactivity were put forward.
+gradually it was realized that the radiation produced by radioactive decay was ionizing radiation, and that even quantities too small to burn could pose a severe long-term hazard. many of the scientists working on radioactivity died of cancer as a result of their exposure. radioactive patent medicines mostly disappeared, but other applications of radioactive materials persisted, such as the use of radium salts to produce glowing dials on meters.
+as the atom came to be better understood, the nature of radioactivity became clearer. some larger atomic nuclei are unstable, and so decay (release matter or energy) after a random interval. the three forms of radiation that becquerel and the curies discovered are also more fully understood. alpha decay is when a nucleus releases an alpha particle, which is two protons and two neutrons, equivalent to a helium nucleus. beta decay is the release of a beta particle, a high-energy electron. gamma decay releases gamma rays, which unlike alpha and beta radiation are not matter but electromagnetic radiation of very high frequency, and therefore energy. this type of radiation is the most dangerous and most difficult to block. all three types of radiation occur naturally in certain elements.
+it has also become clear that the ultimate source of most terrestrial energy is nuclear, either through radiation from the sun caused by stellar thermonuclear reactions or by radioactive decay of uranium within the earth, the principal source of geothermal energy.
+
+nuclear fission[edit]
+main article: nuclear fission
+in natural nuclear radiation, the byproducts are very small compared to the nuclei from which they originate. nuclear fission is the process of splitting a nucleus into roughly equal parts, and releasing energy and neutrons in the process. if these neutrons are captured by another unstable nucleus, they can fission as well, leading to a chain reaction. the average number of neutrons released per nucleus that go on to fission another nucleus is referred to as k. values of k larger than 1 mean that the fission reaction is releasing more neutrons than it absorbs, and therefore is referred to as a self-sustaining chain reaction. a mass of fissile material large enough (and in a suitable configuration) to induce a self-sustaining chain reaction is called a critical mass.
+when a neutron is captured by a suitable nucleus, fission may occur immediately, or the nucleus may persist in an unstable state for a short time. if there are enough immediate decays to carry on the chain reaction, the mass is said to be prompt critical, and the energy release will grow rapidly and uncontrollably, usually leading to an explosion.
+when discovered on the eve of world war ii, this insight led multiple countries to begin programs investigating the possibility of constructing an atomic bomb — a weapon which utilized fission reactions to generate far more energy than could be created with chemical explosives. the manhattan project, run by the united states with the help of the united kingdom and canada, developed multiple fission weapons which were used against japan in 1945 at hiroshima and nagasaki. during the project, the first fission reactors were developed as well, though they were primarily for weapons manufacture and did not generate electricity.
+in 1951, the first nuclear fission power plant was the first to produce electricity at the experimental breeder reactor no. 1 (ebr-1), in arco, idaho, ushering in the "atomic age" of more intensive human energy use.[2]
+however, if the mass is critical only when the delayed neutrons are included, then the reaction can be controlled, for example by the introduction or removal of neutron absorbers. this is what allows nuclear reactors to be built. fast neutrons are not easily captured by nuclei; they must be slowed (slow neutrons), generally by collision with the nuclei of a neutron moderator, before they can be easily captured. today, this type of fission is commonly used to generate electricity.
+
+nuclear fusion[edit]
+main article: nuclear fusion
+see also: timeline of nuclear fusion
+if nuclei are forced to collide, they can undergo nuclear fusion. this process may release or absorb energy. when the resulting nucleus is lighter than that of iron, energy is normally released; when the nucleus is heavier than that of iron, energy is generally absorbed. this process of fusion occurs in stars, which derive their energy from hydrogen and helium. they form, through stellar nucleosynthesis, the light elements (lithium to calcium) as well as some of the heavy elements (beyond iron and nickel, via the s-process). the remaining abundance of heavy elements, from nickel to uranium and beyond, is due to supernova nucleosynthesis, the r-process.
+of course, these natural processes of astrophysics are not examples of nuclear "technology". because of the very strong repulsion of nuclei, fusion is difficult to achieve in a controlled fashion. hydrogen bombs obtain their enormous destructive power from fusion, but their energy cannot be controlled. controlled fusion is achieved in particle accelerators; this is how many synthetic elements are produced. a fusor can also produce controlled fusion and is a useful neutron source. however, both of these devices operate at a net energy loss. controlled, viable fusion power has proven elusive, despite the occasional hoax. technical and theoretical difficulties have hindered the development of working civilian fusion technology, though research continues to this day around the world.
+nuclear fusion was initially pursued only in theoretical stages during world war ii, when scientists on the manhattan project (led by edward teller) investigated it as a method to build a bomb. the project abandoned fusion after concluding that it would require a fission reaction to detonate. it took until 1952 for the first full hydrogen bomb to be detonated, so-called because it used reactions between deuterium and tritium. fusion reactions are much more energetic per unit mass of fuel than fission reactions, but starting the fusion chain reaction is much more difficult.
+
+nuclear weapons[edit]
+main article: nuclear weapon
+a nuclear weapon is an explosive device that derives its destructive force from nuclear reactions, either fission or a combination of fission and fusion. both reactions release vast quantities of energy from relatively small amounts of matter. even small nuclear devices can devastate a city by blast, fire and radiation. nuclear weapons are considered weapons of mass destruction, and their use and control has been a major aspect of international policy since their debut.
+the design of a nuclear weapon is more complicated than it might seem. such a weapon must hold one or more subcritical fissile masses stable for deployment, then induce criticality (create a critical mass) for detonation. it also is quite difficult to ensure that such a chain reaction consumes a significant fraction of the fuel before the device flies apart. the procurement of a nuclear fuel is also more difficult than it might seem, since sufficiently unstable substances for this process do not currently occur naturally on earth in suitable amounts.
+one isotope of uranium, namely uranium-235, is naturally occurring and sufficiently unstable, but it is always found mixed with the more stable isotope uranium-238. the latter accounts for more than 99% of the weight of natural uranium. therefore, some method of isotope separation based on the weight of three neutrons must be performed to enrich (isolate) uranium-235.
+alternatively, the element plutonium possesses an isotope that is sufficiently unstable for this process to be usable. terrestrial plutonium does not currently occur naturally in sufficient quantities for such use,[3] so it must be manufactured in a nuclear reactor.
+ultimately, the manhattan project manufactured nuclear weapons based on each of these elements. they detonated the first nuclear weapon in a test code-named "trinity", near alamogordo, new mexico, on july 16, 1945. the test was conducted to ensure that the implosion method of detonation would work, which it did. a uranium bomb, little boy, was dropped on the japanese city hiroshima on august 6, 1945, followed three days later by the plutonium-based fat man on nagasaki. in the wake of unprecedented devastation and casualties from a single weapon, the japanese government soon surrendered, ending world war ii.
+since these bombings, no nuclear weapons have been deployed offensively. nevertheless, they prompted an arms race to develop increasingly destructive bombs to provide a nuclear deterrent. just over four years later, on august 29, 1949, the soviet union detonated its first fission weapon. the united kingdom followed on october 2, 1952; france, on february 13, 1960; and china component to a nuclear weapon. approximately half of the deaths from hiroshima and nagasaki died two to five years afterward from radiation exposure.[4][5] a radiological weapons is a type of nuclear weapon designed to distribute hazardous nuclear material in enemy areas. such a weapon would not have the explosive capability of a fission or fusion bomb, but would kill many people and contaminate a large area. a radiological weapon has never been deployed. while considered useless by a conventional military, such a weapon raises concerns over nuclear terrorism.
+there have been over 2,000 nuclear tests conducted since 1945. in 1963, all nuclear and many non-nuclear states signed the limited test ban treaty, pledging to refrain from testing nuclear weapons in the atmosphere, underwater, or in outer space. the treaty permitted underground nuclear testing. france continued atmospheric testing until 1974, while china continued up until 1980. the last underground test by the united states was in 1992, the soviet union in 1990, the united kingdom in 1991, and both france and china continued testing until 1996. after signing the comprehensive test ban treaty in 1996 (which had as of 2011 not entered into force), all of these states have pledged to discontinue all nuclear testing. non-signatories india and pakistan last tested nuclear weapons in 1998.
+nuclear weapons are the most destructive weapons known - the archetypal weapons of mass destruction. throughout the cold war, the opposing powers had huge nuclear arsenals, sufficient to kill hundreds of millions of people. generations of people grew up under the shadow of nuclear devastation, portrayed in films such as dr. strangelove and the atomic cafe.
+however, the tremendous energy release in the detonation of a nuclear weapon also suggested the possibility of a new energy source.
+
+civilian uses[edit]
+nuclear power[edit]
+further information: nuclear power and nuclear reactor technology
+nuclear power is a type of nuclear technology involving the controlled use of nuclear fission to release energy for work including propulsion, heat, and the generation of electricity. nuclear energy is produced by a controlled nuclear chain reaction which creates heat—and which is used to boil water, produce steam, and drive a steam turbine. the turbine is used to generate electricity and/or to do mechanical work.
+currently nuclear power provides approximately 15.7% of the world's electricity (in 2004) and is used to propel aircraft carriers, icebreakers and submarines (so far economics and fears in some ports have prevented the use of nuclear power in transport ships).[6] all nuclear power plants use fission. no man-made fusion reaction has resulted in a viable source of electricity.
+
+medical applications[edit]
+further information: nuclear medicine
+the medical applications of nuclear technology are divided into diagnostics and radiation treatment.
+imaging - the largest use of ionizing radiation in medicine is in medical radiography to make images of the inside of the human body using x-rays. this is the largest artificial source of radiation exposure for humans. medical and dental x-ray imagers use of cobalt-60 or other x-ray sources. a number of radiopharmaceuticals are used, sometimes attached to organic molecules, to act as radioactive tracers or contrast agents in the human body. positron emitting nucleotides are used for high resolution, short time span imaging in applications known as positron emission tomography.
+radiation is also used to treat diseases in radiation therapy.
+
+industrial applications[edit]
+since some ionizing radiation can penetrate matter, they are used for a variety of measuring methods. x-rays and gamma rays are used in industrial radiography to make images of the inside of solid products, as a means of nondestructive testing and inspection. the piece to be radiographed is placed between the source and a photographic film in a cassette. after a certain exposure time, the film is developed and it shows any internal defects of the material.
+gauges - gauges use the exponential absorption law of gamma rays
+
+level indicators: source and detector are placed at opposite sides of a container, indicating the presence or absence of material in the horizontal radiation path. beta or gamma sources are used, depending on the thickness and the density of the material to be measured. the method is used for containers of liquids or of grainy substances
+thickness gauges: if the material is of constant density, the signal measured by the radiation detector depends on the thickness of the material. this is useful for continuous production, like of paper, rubber, etc.
+electrostatic control - to avoid the build-up of static electricity in production of paper, plastics, synthetic textiles, etc., a ribbon-shaped source of the alpha emitter 241am can be placed close to the material at the end of the production line. the source ionizes the air to remove electric charges on the material.
+radioactive tracers - since radioactive isotopes behave, chemically, mostly like the inactive element, the behavior of a certain chemical substance can be followed by tracing the radioactivity. examples:
+
+adding a gamma tracer to a gas or liquid in a closed system makes it possible to find a hole in a tube.
+adding a tracer to the surface of the component of a motor makes it possible to measure wear by measuring the activity of the lubricating oil.
+oil and gas exploration- nuclear well logging is used to help predict the commercial viability of new or existing wells. the technology involves the use of a neutron or gamma-ray source and a radiation detector which are lowered into boreholes to determine the properties of the surrounding rock such as porosity and lithography.[1]
+road construction - nuclear moisture/density gauges are used to determine the density of soils, asphalt, and concrete. typically a cesium-137 source is used.
+
+commercial applications[edit]
+radioluminescence
+tritium illumination: tritium is used with phosphor in rifle sights to increase nighttime firing accuracy. some runway markers and building exit signs use the same technology, to remain illuminated during blackouts.[7]
+betavoltaics.
+smoke detector: an ionization smoke detector includes a tiny mass of radioactive americium-241, which is a source of alpha radiation. two ionisation chambers are placed next to each other. both contain a small source of 241am that gives rise to a small constant current. one is closed and serves for comparison, the other is open to ambient air; it has a gridded electrode. when smoke enters the open chamber, the current is disrupted as the smoke particles attach to the charged ions and restore them to a neutral electrical state. this reduces the current in the open chamber. when the current drops below a certain threshold, the alarm is triggered.
+food processing and agriculture[edit]
+in biology and agriculture, radiation is used to induce mutations to produce new or improved species. another use in insect control is the sterile insect technique, where male insects are sterilized by radiation and released, so they have no offspring, to reduce the population.
+in industrial and food applications, radiation is used for sterilization of tools and equipment. an advantage is that the object may be sealed in plastic before sterilization. an emerging use in food production is the sterilization of food using food irradiation.
+
+ the radura logo, used to show a food has been treated with ionizing radiation.
+food irradiation[8] is the process of exposing food to ionizing radiation in order to destroy microorganisms, bacteria, viruses, or insects that might be present in the food. the radiation sources used include radioisotope gamma ray sources, x-ray generators and electron accelerators. further applications include sprout inhibition, delay of ripening, increase of juice yield, and improvement of re-hydration. irradiation is a more general term of deliberate exposure of materials to radiation to achieve a technical goal (in this context 'ionizing radiation' is implied). as such it is also used on non-food items, such as medical hardware, plastics, tubes for gas-pipelines, hoses for floor-heating, shrink-foils for food packaging, automobile parts, wires and cables (isolation), tires, and even gemstones. compared to the amount of food irradiated, the volume of those every-day applications is huge but not noticed by the consumer.
+the genuine effect of processing food by ionizing radiation relates to damages to the dna, the basic genetic information for life. microorganisms can no longer proliferate and continue their malignant or pathogenic activities. spoilage causing micro-organisms cannot continue their activities. insects do not survive or become incapable of procreation. plants cannot continue the natural ripening or aging process. all these effects are beneficial to the consumer and the food industry, likewise.[8]
+the amount of energy imparted for effective food irradiation is low compared to cooking the same; even at a typical dose of 10 kgy most food, which is (with regard to warming) physically equivalent to water, would warm by only about 2.5 °c (4.5 °f).
+the specialty of processing food by ionizing radiation is the fact, that the energy density per atomic transition is very high, it can cleave molecules and induce ionization (hence the name) which cannot be achieved by mere heating. this is the reason for new beneficial effects, however at the same time, for new concerns. the treatment of solid food by ionizing radiation can provide an effect similar to heat pasteurization of liquids, such as milk. however, the use of the term, cold pasteurization, to describe irradiated foods is controversial, because pasteurization and irradiation are fundamentally different processes, although the intended end results can in some cases be similar.
+detractors of food irradiation have concerns about the health hazards of induced radioactivity.[citation needed] also, a report for the american council on science and health entitled "irradiated foods" states: "the types of radiation sources approved for the treatment of foods have specific energy levels well below that which would cause any element in food to become radioactive. food undergoing irradiation does not become any more radioactive than luggage passing through an airport x-ray scanner or teeth that have been x-rayed." [9]
+food irradiation is currently permitted by over 40 countries and volumes are estimated to exceed 500,000 metric tons (490,000 long tons; 550,000 short tons) annually worldwide.[10][11][12]
+food irradiation is essentially a non-nuclear technology; it relies on the use of ionizing radiation which may be generated by accelerators for electrons and conversion into bremsstrahlung, but which may use also gamma-rays from nuclear decay. there is a worldwide industry for processing by ionizing radiation, the majority by number and by processing power using accelerators. food irradiation is only a niche application compared to medical supplies, plastic materials, raw materials, gemstones, cables and wires, etc.
+
+accidents[edit]
+main articles: nuclear and radiation accidents and nuclear safety
+nuclear accidents, because of the powerful forces involved, are often very dangerous. historically, the first incidents involved fatal radiation exposure. marie curie died from aplastic anemia which resulted from her high levels of exposure. two scientists, an american and canadian respectively, harry daghlian and louis slotin, died after mishandling the same plutonium mass. unlike conventional weapons, the intense light, heat, and explosive force is not the only deadly component to a nuclear weapon. approximately half of the deaths from hiroshima and nagasaki died two to five years afterward from radiation exposure.[4][5]
+civilian nuclear and radiological accidents primarily involve nuclear power plants. most common are nuclear leaks that expose workers to hazardous material. a nuclear meltdown refers to the more serious hazard of releasing nuclear material into the surrounding environment. the most significant meltdowns occurred at three mile island in pennsylvania and chernobyl in the soviet ukraine. the earthquake and tsunami on march 11, 2011 caused serious damage to three nuclear reactors and a spent fuel storage pond at the fukushima daiichi nuclear power plant in japan. military reactors that experienced similar accidents were windscale in the united kingdom and sl-1 in the united states.
+military accidents usually involve the loss or unexpected detonation of nuclear weapons. the castle bravo test in 1954 produced a larger yield than expected, which contaminated nearby islands, a japanese fishing boat (with one fatality), and raised concerns about contaminated fish in japan. in the 1950s through 1970s, several nuclear bombs were lost from submarines and aircraft, some of which have never been recovered. the last twenty years[when?] have seen a marked decline in such accidents.
+
+see also[edit]
+
+
+nuclear technology portal
+energy portal
+atomic age
+lists of nuclear disasters and radioactive incidents
+nuclear power debate
+outline of nuclear technology
+references[edit]
+
+
+^ "henri becquerel - biographical". nobelprize.org. archived from the original on 4 september 2017. retrieved 9 may 2018..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ "a brief history of technology". futurism.com. archived from the original on 23 april 2018. retrieved 9 may 2018.
+
+^ "oklo fossil reactors". "archived copy". archived from the original on 2007-12-18. retrieved 2008-01-15.cs1 maint: archived copy as title (link) curtin university of technology. archived from the original on 18 december 2007. retrieved 15 january 2008.
+
+^ a b "frequently asked questions #1". radiation effects research foundation. archived from the original on 2007-09-19. retrieved 2007-09-18.
+
+^ a b schull, william j. (12 may 1998). "the somatic effects of exposure to atomic radiation: the japanese experience, 1947–1997". proceedings of the national academy of sciences of the united states of america. 95 (10): 5437–5441. pmc 33859. pmid 9576900.
+
+^ "nuclear-powered ships - nuclear submarines - world nuclear association". world-nuclear.org. archived from the original on 14 february 2013. retrieved 9 may 2018.
+
+^ "isu health physics radinf". www.physics.isu.edu. archived from the original on 21 september 2017. retrieved 9 may 2018.
+
+^ a b anon., food irradiation - a technique for preserving and improving the safety of food, who, geneva, 1991
+
+^ "irradiated foods fifth edition revised and updated by paisan loaharanu may 2003 american council on science and health" (pdf). archived from the original (pdf) on 2011-09-26. retrieved 2012-03-05.
+
+^ nucleus - food irradiation clearances archived 2008-05-26 at the wayback machine
+
+^ food irradiation, position of ada archived 2016-02-16 at the wayback machine. j am diet assoc. 2000;100:246-253. retrieved 2007-11-15.
+
+^ c.m. deeley, m. gao, r. hunter, d.a.e. ehlermann. the development of food irradiation in the asia pacific, the americas and europe; tutorial presented to the international meeting on radiation processing. kuala lumpur. 2006. last visited 2007-11-16.[dead link]
+
+
+external links[edit]
+nuclear energy institute – beneficial uses of radiation
+nuclear technology
+national isotope development center – u.s. government source of isotopes for basic and applied nuclear science and nuclear technology - production, research, development, distribution, and information
+vtenuclear technologyscience
+chemistry
+engineering
+physics
+atomic nucleus
+fission
+fusion
+radiation
+ionizing
+braking
+fuel
+tritium
+deuterium
+helium-3
+fertile material
+fissile material
+isotope separation
+nuclear material
+uranium
+enriched
+depleted
+plutonium
+thorium
+neutron
+activation
+capture
+poison
+cross section
+generator
+radiation
+reflector
+temperature
+thermal
+fast
+fusion
+power
+by country
+power plant
+economics
+multi-mission radioisotope thermoelectric generator
+accidents and incidents
+policy
+fusion
+radioisotope thermoelectric (rtg)
+propulsion
+rocket
+safety and security
+medicineimaging
+radball
+scintigraphy
+single-photon emission (spect)
+positron-emission tomography (pet)
+therapy
+fast-neutron
+neutron capture therapy of cancer
+targeted alpha-particle
+proton-beam
+tomotherapy
+brachytherapy
+radiation therapy
+radiosurgery
+radiopharmacology
+weaponstopics
+arms race
+delivery
+design
+disarmament
+ethics
+explosion
+effects
+history
+proliferation
+testing
+high-altitude
+underground
+warfare
+yield
+tnte
+lists
+estimated death tolls from attacks
+states with nuclear weapons
+tests
+united states
+wmd treaties
+weapon-free zones
+weapons
+wasteproducts
+actinide
+reprocessed uranium
+reactor-grade plutonium
+minor actinide
+activation
+fission
+llfp
+actinide chemistry
+disposal
+fuel cycle
+high-level (hlw)
+low-level (llw)
+repository
+reprocessing
+spent fuel
+pool
+cask
+transmutation
+debate
+nuclear power
+nuclear weapons
+blue ribbon commission on america's nuclear future
+anti-nuclear movement
+uranium mining
+nuclear power phase-out
+nuclear reactorsfissionmoderatorlight water
+aqueous homogeneous
+boiling
+bwr
+abwr
+esbwr
+kerena
+pressurized
+ap1000
+apr-1400
+apr+
+apwr
+atmea1
+cap1400
+cpr-1000
+epr
+hpr-1000
+acpr1000
+acp1000
+vver
+many others
+supercritical (scwr)
+natural fission
+heavy waterd2o
+pressurized
+candu
+candu 6
+candu 9
+ec6
+afcr
+acr-1000
+ahwr
+cvtr
+iphwr-x
+phwr kwu
+mzfr
+r3
+r4 marviken
+h2o
+hwlwr
+atr
+hw blwr 250
+steam-generating (sghwr)
+organic
+wr-1
+co2
+hwgcr
+el-4
+ks 150
+kkn
+graphite .mw-parser-output .nobold{font-weight:normal}by coolantwaterh2o
+am-1
+amb-x
+egp-6
+rbmk
+gasco2
+uranium naturel graphite gaz (ungg)
+magnox
+advanced gas-cooled (agr)
+he
+gtmhr
+mhr-t
+uhtrex
+vhtr (htgr)
+pbr (pbmr)
+avr
+htr-10
+htr-pm
+thtr-300
+pmr
+molten-saltfluorides
+fuji msr
+liquid-fluoride thorium reactor (lftr)
+molten-salt reactor experiment (msre)
+integral molten salt reactor (imsr)
+thorcon
+none(fast-neutron)
+breeder (fbr)
+integral (ifr)
+liquid-metal-cooled (lmfr)
+small sealed transportable autonomous (sstar)
+traveling-wave (twr)
+energy multiplier module (em2)
+reduced-moderation (rmwr)
+fast breeder test reactor (fbtr)
+dual fluid reactor (dfr)
+generation iv
+sodium (sfr)
+bn-350
+bn-600
+bn-800
+bn-1200
+cfr-600
+phénix
+superphénix
+pfbr
+cefr
+pfr
+prism
+lead (lfr)
+helium gas (gfr)
+others
+organically moderated and cooled reactor
+arbus
+piqua
+aircraft reactor experiment
+
+fusionby confinementmagnetic
+field-reversed configuration
+levitated dipole
+reversed field pinch
+spheromak
+stellarator
+tokamak
+inertial
+bubble (acoustic)
+fusor
+electrostatic
+laser-driven
+magnetized-target
+z-pinch
+other
+dense plasma focus
+migma
+muon-catalyzed
+polywell
+pyroelectric
+
+ category
+portal
+ commons
+
+authority control 
+gnd: 4134381-5
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=nuclear_technology&oldid=874169725"					
+categories: nuclear technologyhidden categories: cs1 maint: archived copy as titlewebarchive template wayback linksall articles with dead external linksarticles with dead external links from june 2016articles needing additional references from november 2006all articles needing additional referenceswikipedia introduction cleanup from march 2011all pages needing cleanuparticles covered by wikiproject wikify from march 2011all articles covered by wikiproject wikifyarticles with multiple maintenance issuesall articles with unsourced statementsarticles with unsourced statements from november 2010all articles with vague or ambiguous timevague or ambiguous time from may 2012wikipedia articles with gnd identifiers 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+العربيةasturianuবাংলাcatalàdeutschespañolفارسیहिन्दीbahasa indonesiaעברית日本語oʻzbekcha/ўзбекчаpatoisрусскийසිංහලکوردیsuomisvenskaதமிழ்ไทยtürkçeукраїнськаاردوwinaray中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 17 december 2018, at 16:13 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.560","walltime":"0.724","ppvisitednodes":{"value":2050,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":205081,"limit":2097152},"templateargumentsize":{"value":10977,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":10,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":28136,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  544.824      1 -total"," 29.02%  158.094      1 template:reflist"," 27.33%  148.921      3 template:ambox"," 20.93%  114.042      1 template:multiple_issues"," 16.93%   92.235      1 template:nuclear_technology"," 16.26%   88.578      1 template:navbox_with_collapsible_groups"," 15.88%   86.495      7 template:cite_web"," 13.20%   71.934     12 template:navbox"," 11.19%   60.940      1 template:refimprove","  7.61%   41.468      1 template:authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.258","limit":"10.000"},"limitreport-memusage":{"value":9324197,"limit":52428800}},"cachereport":{"origin":"mw1265","timestamp":"20190215120634","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":114,"wghostname":"mw1244"});});
+
+

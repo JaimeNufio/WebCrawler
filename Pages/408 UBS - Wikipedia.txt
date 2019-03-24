@@ -1,0 +1,2249 @@
+
+
+
+
+ubs - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"ubs","wgtitle":"ubs","wgcurrevisionid":884010541,"wgrevisionid":884010541,"wgarticleid":25866628,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["webarchive template wayback links","cs1 maint: multiple names: authors list","use dmy dates from february 2019","pages using deprecated image syntax","official website different in wikidata and wikipedia","commons category link is on wikidata","good articles","wikipedia articles with gnd identifiers","wikipedia articles with hds identifiers","wikipedia articles with isni identifiers","wikipedia articles with lccn identifiers","wikipedia articles with nkc identifiers","wikipedia articles with selibr identifiers","wikipedia articles with viaf identifiers","wikipedia articles with worldcat-viaf identifiers","banks of switzerland","companies established in 1862","companies formerly listed on the tokyo stock exchange","companies listed on the new york stock exchange","companies listed on the six swiss exchange","investment banks","systemically important financial institutions","investment management companies of switzerland","multinational companies headquartered in switzerland","swiss brands","ubs","warburg family","1862 establishments in switzerland","companies based in zürich","companies based in basel","companies based in stamford, connecticut","companies formed by merger","subprime mortgage crisis","financial services companies","private equity firms","primary dealers"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"ubs","wgrelevantarticleid":25866628,"wgrequestid":"xgtgwgpaaeuaaeqicykaaadx","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q193199","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ubs 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+this article is about the investment bank and financial services company. for other uses, see ubs (disambiguation).
+
+
+ubs group agubs headquarters in zürich, switzerland, december 2011formerlyunion bank of switzerland (1862–1998)typeaktiengesellschaft (ag)public companytraded as
+six: ubsg
+six: ubsn
+nyse: ubs
+industry
+investment banking
+wealth management
+private banking
+investment management
+asset management
+corporate banking
+retail banking (in switzerland)
+predecessorunion bank of switzerlandswiss bank corporationfounded22 april 1862; 156 years ago (1862-04-22)as bank in winterthurheadquarters
+bahnhofstrasse 45zürich, switzerland 8001
+aeschenvorstadt 1basel, switzerland 4051
+area servedinternational servicekey people
+axel a. weber (chairman of the board of directors)
+sergio ermotti
+(chief executive officer)
+
+martin blessing
+(co-president global wealth management)
+
+tom naratil
+(co-president global wealth management and
+president ubs americas)
+
+piero novelli
+(co-president investment bank)
+
+robert karovsky
+(co-president investment bank) 
+
+productsmergers and acquisitionscorporate bankingprivate equityfinance and insuranceretail bankingmortgagescredit cardsoperating income chf 7.698 billion (2018)total assets chf 919.361 billion (2018)total equity chf 51.243 billion (2018)number of employees 62,537 (2018)capital ratio 13.1% (2018)ratingstandard & poor's: a+moody's: aa3fitch ratings: aa-websiteubs.comfootnotes / referencesubs institutional reporting as of: q1 2018[1]ubs group ag[nb 1] is a swiss multinational investment bank and financial services company founded and based in switzerland. co-headquartered in the cities of zürich and basel, it maintains a presence in all major financial centers as the largest swiss banking institution in the world. ubs client services are known for their strict bank–client confidentiality and culture of banking secrecy.[nb 2] the bank's large positions in the americas, emea, and asia pacific markets make it a systemically important financial institution within the european union, and to a lesser extent, the broader economy of europe.    
+ubs was founded in 1862 as the bank in winterthur alongside the advent of the swiss banking industry. during the 1890s, the swiss bank corporation (sbc) was founded, forming a private banking syndicate that expanded aided by switzerland's international neutrality. the bank of winterthur merged with toggenburger bank in 1912 to form the union bank of switzerland (ubs) and grew rapidly after the banking law of 1934 codified swiss banking secrecy. following decades of market competition between the sbc and ubs, the two merged in 1998 to create a single company known solely as "ubs".[nb 3] during the early 2000s, the commensurate rise of ubs and credit suisse established a legally-sanctioned oligopoly on swiss private market activity. after ubs managed heavy losses during the 2008 financial crisis with an asset relief recovery program, it was hit with the 2011 rogue trader scandal resulting in a us$2 billion trading loss. in 2012 the bank reoriented itself around wealth management and limited its sell side operations.
+apart from private banking, ubs provides wealth management, asset management, and investment banking services for private, corporate, and institutional clients with international service. ubs manages the largest amount of private wealth in the world, counting approximately half of the world's billionaires among its clients. despite its trimming of sell side operations, ubs is among the world's nine "bulge bracket" investment banks and is considered a global primary market maker. the bank also maintains numerous underground bank vaults, bunkers, and storage facilities for gold bars around the swiss alps and internationally. partly due to its banking secrecy, it has been at the center of numerous tax avoidance investigations undertaken by u.s., french, german, israeli, and belgian authorities. ubs operations in switzerland and the united states were respectively ranked first and second on the 2018 financial secrecy index.
+as of 2017, ubs is the 11th largest bank in europe with a market capitalization of $64.5 billion.[13] it has over chf 3.2 trillion in assets under management (aum), approximately chf 2.8 trillion of which are invested assets.[14] in june 2017, its return on invested capital was 11.1%, followed by goldman sachs' 9.5%, and jpmorgan chase's 9.2%.[15] in late 2016, ubs established a blockchain technology research lab in london to advance its cyber security and encryption of client activities. based on regional deal flow and political influence, ubs is considered one of the "biggest, most powerful financial institutions in the world".[16][17] the company's capital strength, security protocols, and reputation for discretion has yielded a substantial market share in banking and high level of brand loyalty. alternatively, it receives routine criticism for facilitating tax noncompliance and off-shore financing.
+
+.mw-parser-output .toclimit-2 .toclevel-1 ul,.mw-parser-output .toclimit-3 .toclevel-2 ul,.mw-parser-output .toclimit-4 .toclevel-3 ul,.mw-parser-output .toclimit-5 .toclevel-4 ul,.mw-parser-output .toclimit-6 .toclevel-5 ul,.mw-parser-output .toclimit-7 .toclevel-6 ul{display:none}contents
+
+1 corporate structure
+
+1.1 ubs global wealth management
+1.2 ubs personal & corporate banking
+1.3 ubs asset management
+1.4 ubs investment bank
+1.5 ubs europe se
+1.6 competition
+
+
+2 history
+
+2.1 swiss bank corporation
+2.2 union bank of switzerland
+2.3 merger of union bank of switzerland and swiss bank corporation: 1998
+2.4 paine webber and international expansion: 2000–2006
+2.5 subprime mortgage crisis and recovery: 2007–2009
+2.6 shift to private banking and market reemergence: 2010–present
+
+
+3 acquisition history
+4 corporate governance
+
+4.1 board of directors
+4.2 group executive board
+4.3 shareholders
+
+
+5 banking secrecy
+
+5.1 hidden assets
+5.2 bank vaults and bunkers
+5.3 tax evasion
+
+
+6 corporate social responsibility
+7 recognition
+8 sponsorship
+
+8.1 sports
+8.2 culture
+
+
+9 see also
+10 notes
+11 references
+12 further reading
+13 external links
+
+
+
+corporate structure[edit]
+ubs is a joint-stock company (aktiengesellschaft) pursuant to swiss laws. its shares are listed at the six swiss exchange and the new york stock exchange (nyse). as of november 2017, ubs is present in all major financial centers worldwide, having offices in 52 countries, with about 34% of its approx. 61,000 employees working in the americas, 34% in switzerland, 18% in europe, the middle east and africa and 14% in the asia pacific region.[18] the bank has its major presence in the united states. its american headquarters for investment banking are located in new york city, for private wealth management in weehawken, new jersey. they used to have sales & trading in stamford, connecticut, but that office has since closed.
+the company's global business groups are wealth management, investment banking and asset management. additionally, ubs is the leading provider of retail banking and commercial banking services in switzerland, as established already in 2009.[19] overall invested assets are chf 3.155 billion, shareholders' equity is chf 51.243 billion and market capitalization is chf 64.572 billion by the end of 2016.[20][1] in november 2014, the shares in ubs group ag were listed and started trading as a new holding company at the nyse and six swiss exchange. upon application and with the effect as of 14 january 2015, the shares of the usb ag, the subsidiary of the ubs group ag, were delisted from the nyse.[21] as of july 2018, the largest institutional shareholders are:[22]
+
+ the ubs investment bank's offices at 299 park avenue in new york city.
+
+
+owner name
+
+shares held
+
+%
+
+
+massachusetts financial services
+
+159,614,601
+
+4.14
+
+
+wellington management group llc
+
+131,835,832
+
+3.42
+
+
+norges bank
+
+126,843,764
+
+3.29
+
+
+ubs group ag
+
+97,622,691
+
+2.53
+
+
+vanguard group inc
+
+93,988,664
+
+2.43
+
+
+capital research global investor
+
+91,024,983
+
+2.36
+
+
+credit suisse ag
+
+90,650,172
+
+2.35
+
+as of 30 june 2018, the geographical distribution of the shareholders presents itself as follows:[23]
+
+
+
+
+
+
+
+shareholders
+
+%
+
+shares
+
+%
+
+
+americas
+
+5,675
+
+2.5
+
+434,200,367
+
+11.3
+
+
+asia pacific
+
+5,530
+
+2.4
+
+101,914,133
+
+2.6
+
+
+europe, middle east and africa
+
+13,065
+
+5.7
+
+823,401,277
+
+21.4
+
+
+switzerland
+
+206,060
+
+89.5
+
+823,785,072
+
+21.4
+
+
+
+
+
+
+
+
+
+
+
+
+
+total registered shares
+
+
+
+
+
+2,183,300,849
+
+56.6
+
+
+total unregistered shares
+
+
+
+
+
+1,671,288,703
+
+43.34
+
+
+
+
+
+
+
+
+
+
+
+
+
+total
+
+230,330
+
+100.0
+
+3,854,589,522
+
+100.0
+
+ubs' corporate structure includes four divisions in total as of june 2018:[24][25]
+
+
+
+global wealth management
+personal & corporate banking
+asset management
+investment banking
+
+starting on 9 june 2003, all ubs business groups, including ubs paine webber and ubs warburg, were rebranded under the ubs moniker following company's start of operations as a unified global entity.[26]
+
+ubs global wealth management[edit]
+ubs's wealth management division offers high-net-worth individuals around the world a range of advisory and investment products and services.[27] as of the end of 2016, ubs wealth management's invested assets totaled chf 977 billion.[20] the whole companies assets under management (aum) amounted to us$1,737.5 billion in 2015, representing a 1% decrease in aum compared to the equivalent data of 2014.[28] as of 2018, ubs manages the largest amount of private wealth in the world, counting approximately half of the world's billionaires among its clients.[nb 4] more than 60% of total invested assets in ubs wealth management belong to individuals with a net-worth of chf 10 million or more. of the remaining 40% of total invested assets, 30% of the total belong to individuals with net-worth between chf 1 million and chf 10 million and the last 10% of total assets belong to individuals with a net-worth of less than chf 1 million.[27] ubs offers brokerage services and products as well as asset management and other investment advisory and portfolio management products and services.[31][32] additionally, ubs provides a broad range of securities and savings products that are supported by the firm's underwriting and research activities as well as order execution and clearing services for transactions originated by individual investors. the business is further divided geographically with separate businesses focused on the u.s. and other international markets.[19][33] two-thirds of the total invested assets come from europe and switzerland, with the final one-third coming mainly from the asia-pacific region. ubs u.s. wealth management headquarters at lincoln harbor in weehawken, new jerseywith its headquarters in switzerland, ubs wealth management is present in more than 40 countries with approximately 190 offices (100 of which are in switzerland).[27] as of the end of 2016, around 13,500 people worldwide were employed by ubs wealth management.[20] in switzerland, ubs swiss bank provides a complete set of retail banking services that includes checking, savings, credit cards, and mortgage products for individuals.[34] they offer cash management and commercial banking services for small businesses and corporate clients as well.[34]
+ubs global wealth management operations in the americas consists of u.s. and canadian wealth management businesses, as well as international business booked in the u.s.[35] ubs wealth management in the u.s. is an outgrowth of the former paine webber brokerage business. the business was initially renamed ubs paine webber in march 2001 after it was acquired by ubs. the division offers a fully integrated set of wealth management solutions for ultra-high net worth and high net worth clients.[36] ubs was named "best bank for wealth management in north america" at the euromoney awards for excellence 2017.[37]
+ubs's main competitors in this division are bank of america, credit suisse, morgan stanley, jp morgan chase, wells fargo and charles schwab.[38]
+
+ubs personal & corporate banking[edit]
+ubs's personal & corporate banking division delivers financial products and services to retail,[39] corporate and institutional clients[40] in switzerland.[27] it also provides stable and substantial profits for the group and revenue opportunities for businesses within the bank.[27] ubs maintains a leading position in the retail and corporate loan market in switzerland; in fact, it serves one in three pension funds, more than 85% of the 1,000 largest swiss corporations and 85% of banks that resides within the nation.[27] in 2015 and 2017, the international financial magazine euromoney named ubs "best domestic cash manager switzerland".[41] as of 31 march 2018, its lending portfolio reached chf 130.8 billion.[1]
+the products that this ubs division offers range from cash accounts, payments, savings and retirement solutions to investment fund products, residential mortgages and advisory services.[27] this business division constitutes a central building block of ubs's universal bank delivery model in switzerland and it supports other divisions, such as investment bank, by referring clients to them and by assisting them to build their wealth to a level at which they can be transferred to ubs wealth management.[27] the retail and corporate distribution network comprises not only customer service centers, but 1,250 teller machines and self-service terminals, as well as digital banking services.[27]
+ubs's main competitor in this division is credit suisse.
+
+ubs asset management[edit]
+ubs asset management offers equity, fixed income, currency, hedge fund, global real estate, infrastructure and private equity investment capabilities that can also be combined in multi-asset strategies.[42] the 1998 ubs-sbc merger and subsequent restructuring resulted in the combination of three major asset management operations: ubs asset management, phillips & drew (owned by union bank of switzerland), and brinson partners (owned by sbc). the investment teams were merged in 2000 and in 2002 the brands were consolidated to become ubs global asset management.[43]
+at the end of march 2018, ubs asset management was responsible for chf 792 billion of invested assets and the assets under administration were chf 439 billion.[1] with around 3,600 employees in 23 countries, ubs asset management is the largest mutual fund manager in switzerland, a leading fund house in europe, and one of the largest hedge funds and real estate investment managers in the world.[44][45] it has main offices in chicago, frankfurt, hartford, hong kong, london, new york, paris, singapore, sydney, tokyo, and zürich.[46] with the aim to generate systematic products and solutions for client, in 2017, ubs integrated equities, fixed income and solutions capabilities and hedge funds business within a new area named investments. ubs also formed a new area of business named real estate and private markets by combining their global real estate and infrastructure and private equity businesses.[27]
+in february 2017, ubs group ag and the northern trust corporation, an american international financial services company, announced an agreement for the acquisition of ubs asset management's fund administration servicing units in luxembourg and switzerland. this acquisition will facilitate the expansion of the northern trust corporation into these two countries, turning the american company into the major fund administrator in the local markets and into one of the ten global leaders in the sector. at the end of the transaction, completed in october 2017,[47] the american company will administrate a total of chf420 billion in assets. ubs asset management will continue anyway to offer management company, white labelling and representative services to its clients. ulrich körner, president of the ubs asset management, affirms that the continuous transformation of their platform is due to a major efficiency, effectiveness and geographical dislocation of the services offered by the bank.[48]
+ubs's main competitors in this division are blackrock, vanguard group, state street global advisers (ssga), fidelity investments and allianz asset management (aam).[49]
+
+ubs investment bank[edit]
+ ubs investment bank's former offices in stamford, connecticut. at roughly the size of two american football fields, it was the largest column-less trading floor in the world.[50]
+ubs investment bank provides services covering securities, other financial products, and research in equities, rates, credit, foreign exchange, precious metals and derivatives.[51] as of the end of march 2018, the personnel employed at ubs investment bank totaled 4,867, present in over 35 countries (with principal offices in hong kong, london, new york, singapore, sydney, tokyo and zurich).[1] this business division also advises and provides access to capital markets for corporate and institutional clients, governments, financial intermediaries, alternative asset managers, and private investors.[34] ubs investment bank was formerly known as ubs warburg and as warburg dillon read, before the merger of the union bank of switzerland and the swiss bank corporation (sbc). within the ubs investment bank division, the investment banking department (ibd) provides a range of advisory and underwriting services including mergers and acquisitions, restructuring, equity offerings, investment grade and high yield debt offerings, leveraged finance and leveraged loan structuring, and the private placement of equity, debt, and derivatives.
+the sales & trading division comprises equities (brokering, dealing, market making and engaging in proprietary trading in equities, equity-related products, equity derivatives, and structured products) and fx, rates and credit (frc) (brokering, dealing, market making and engaging in proprietary trading in interest rate products, credit products, mortgage-backed securities, leveraged loans, investment grade and high-yield debt, currencies, structured products, and derivative products). following an expansion in 2002, the trading floor covers 103,000-square-foot (9,600 m2) with 40-foot (12 m) arched ceilings. over us$1 trillion in assets are traded here every trading day. in june 2011, it was announced that ubs was considering moving its north american headquarters back to new york city, and that the bank was looking for office spaces in midtown and in the rebuilt world trade center.[52][53]
+ubs's main competitors in this division are fellow members of the bulge bracket,[54] particularly goldman sachs, jpmorgan chase, and merrill lynch.[55][56]
+
+ubs europe se[edit]
+in the end of 2016, ubs founded a 100% owned europe se in frankfurt am main. the subsidiary consists of the former subsidiaries of germany, italy, luxembourg, austria, denmark, sweden, spain and the netherlands. ubs europe operates in markets through a network of its branches. the step is said to help the bank simplify its governance structure and increase operational efficiency and therefore lead to cost savings.[57]
+
+competition[edit]
+ ubs and credit suisse branches next to each other in zurich
+on a global scale, ubs competes with the largest global investment banks,[58][59] particularly within the bulge bracket,[58][56] and is regularly compared against its fellow swiss banking giant, credit suisse.[60][61] according to a 2018 study published by coalition research institute, ubs was among the top 10 of the world's investment banks.[62]
+
+in switzerland: ubs competes with a number of cantonal banks, such as zürcher kantonalbank, banque cantonale vaudoise and other cantonal banks, as well as raiffeisen, postfinance, and the migros bank.
+in europe: ubs competes with several larger banks, such as deutsche bank, hsbc, crédit agricole, bnp paribas, natixis, royal bank of scotland, santander and unicredit.
+in the united states: ubs competes with the largest american banks, such as citigroup, bank of america, goldman sachs, jpmorgan and morgan stanley.
+according to the times, ubs has edged out goldman sachs to advise sir david and sir frederick barclay, the twin brothers who own shop direct, a former catalogue retail business, an online retailer.[63]
+
+history[edit]
+the official founding date of the bank is april 1862, the year when its nucleus bank in winterthur was founded.[64] although the merged company's new name was originally supposed to be the "united bank of switzerland," the officials opted to call it simply ubs because of a name clash with the separate swiss company united bank switzerland – a part of the united bank limited's swiss subsidiary. therefore, ubs is no longer an acronym but is the company's brand. its logo of three keys, carried over from sbc, stands for the company's values of confidence, security, and discretion.[34]
+
+swiss bank corporation[edit]
+main article: swiss bank corporation swiss bank corporation logo (ca. 1973), featuring the three keys meant to symbolize confidence, security, and discretion.
+ubs, through swiss bank corporation, traces its history to 1854 when six private banking firms in basel, switzerland pooled their resources to form the bankverein, a consortium that acted as an underwriting syndicate for its member banks.[65] in 1871, the bankverein coordinated with the german frankfurter bankverein to form the basler bankverein, a joint-stock company replacing the original bankverein consortium.[65] after the new bank started with an initial commitment of chf 30 million and chf 6 million of share capital, it soon experienced growing pains when heavy losses in germany caused it to suspend its dividend until 1879.[65] following the years 1885 and 1886, when the bank merged with the zürcher bankverein and acquired the basler depositenbank and the schweizerische unionbank, it changed its name to schweizerischer bankverein.[65] the english name of the bank was originally swiss bankverein, but was changed to swiss bank corporation (sbc) in 1917.[66]@media all and (max-width:720px){.mw-parser-output .tmulti>.thumbinner{width:100%!important;max-width:none!important}.mw-parser-output .tmulti .tsingle{float:none!important;max-width:none!important;width:100%!important;text-align:center}}the basel offices of swiss bank corporation c.1920[67]
+sbc subsequently experienced a period of growth, which was only interrupted by the onset of world war i, in which the bank lost investments in a number of large industrial companies. by the end of 1918, the bank had recovered and surpassed chf 1 billion in total assets and grew to 2,000 employees by 1920. the impact of the stock market crash of 1929 and the great depression was severe, particularly as the swiss franc suffered major devaluation in 1936. the bank saw its assets fall from a 1929 peak of chf 1.6 billion to its 1918 levels of chf 1 billion by 1936.[66][65]
+in 1937, sbc adopted its three-keys logo, designed by warja honegger-lavater, symbolizing confidence, security, and discretion, which remains an integral part in the current-day logo of ubs.[65] on the eve of world war ii in 1939, sbc, like other swiss banks, was the recipient of large influxes of foreign funds for safekeeping. just prior to the outbreak of the war, sbc made the timely decision to open an office in new york city.[68] the office, located in the equitable building, was able to begin operations a few weeks after the outbreak of the war and was intended as a safe place to store assets in the case of an invasion.[69] during the war, the banks' traditional business fell off and the swiss government became their largest client.[66]
+
+in 1945, sbc acquired the basler handelsbank (commercial bank of basel), which was one of the largest banks in switzerland, but became insolvent by the end of the war. sbc remained among the swiss government's leading underwriters of debt in the post-war years. sbc, which had entered the 1950s with 31 branch offices in switzerland and three abroad, more than doubled its assets from the end of the war to chf 4 billion by the end of the 1950s and doubled assets again in the mid-1960s, exceeding chf 10 billion by 1965.[65] in 1961, sbc acquired banque populaire valaisanne, based in sion, switzerland and the banque populaire de sierre.[43] the bank opened a full branch office in tokyo in 1970.[65] the st. gallen, switzerland, offices of swiss bank corporation c.1920in 1992, sbc acquired o'connor & associates, a chicago-based options trading firm and the largest market maker in the financial options exchanges in the u.s.[70] o'connor was combined with sbc's money market, capital market, and currency market activities to form a globally integrated capital markets and treasury operation.[70] in 1994, sbc acquired brinson partners, an asset management firm focused on providing access for u.s. institutions to global markets, for us$750 million.[71] following the acquisition, founder gary p. brinson ran sbc's asset management business and later when sbc merged with ubs was named chief investment officer of ubs asset management.[72] the acquisition of s.g. warburg & co., a leading british investment banking firm, in 1995 for the price of us$1.4 billion signified a major push into investment banking. s.g. warburg & co. had established a reputation as a daring merchant bank that grew to be one of the most respected investment banks in london.[73] however, a warburg expansion into the u.s. had turned out flawed and costly, and talks in 1994 with morgan stanley about a merger had collapsed.[74] sbc merged the firm with its own existing investment banking unit to create sbc warburg.[71][75]
+two years later, in 1997, sbc paid us$600 million to acquire dillon, read & co., a u.s. bulge bracket investment bank.[76][77] dillon, read & co., which traced its roots to the 1830s was among the powerhouse firms on wall street in the 1920s and 1930s, and by the 1990s had a particularly strong mergers and acquisitions advisory group. dillon read had been in negotiations to sell itself to ing, which owned 25% of the firm already, but dillon read partners balked at ing's integration plans.[76] after its acquisition by sbc, dillon read was merged with sbc-warburg to create sbc-warburg dillon read. following sbc's later merger with union bank of switzerland, the sbc part was dropped from the name; in 2000 when the new ubs got restructured the dillon read name was dropped, although it was brought back in 2005 as dillon read capital management, ubs's ill-fated hedge fund operations.[65]
+
+union bank of switzerland[edit]
+main article: swiss bank corporation 1966 union bank of switzerland logo, featuring the two acronyms of its english and french names (ubs) and its german counterpart (sbg).
+the union bank of switzerland emerged in 1912 when the bank in winterthur fused with the toggenburger bank. the bank in winterthur, founded in 1862 with an initial share capital of chf 5 million, focused on providing financing for industry and other companies,[66][65] and had profited considerably from its close railroad connections and large warehousing facilities during the american civil war when cotton prices rose dramatically.[78] the toggenburger bank was founded in 1863 with an initial share capital of chf 1.5 million,[65] and specialized as a savings and mortgage bank for individual customers, maintaining a branch office network in eastern switzerland.[79][65] the new company was initially traded under the english name swiss banking association, but in 1921 it was changed to union bank of switzerland (ubs) to mirror its french name, union de banques suisses. in german, the bank was known as the schweizerische bankgesellschaft (sbg).[80]
+
+bank in winterthur, est. 1862toggenburger bank, est. 1863
+the combined bank had total assets of chf 202 million and a total shareholders' equity of chf 46 million.[65] in 1917, ubs completed the construction of a new headquarters in zurich on bahnhofstrasse, considered to be the wall street of switzerland.[66] by 1923, offices were established throughout switzerland.[79] although the bank suffered in the aftermath of world war i and the great depression, it was able to make several smaller acquisitions; in 1937 it established intrag ag, an asset management business responsible for investment trusts, (i.e. mutual funds).[65][79] ubs held large amounts of stolen gold in their bank vaults during world war ii. pictured: a ubs-issued gold bar, melted down from "unclaimed assets" deposited in the bank.
+the activities of the union bank of switzerland during world war ii were not publicly known until decades after the war, when it was demonstrated that ubs likely took active roles in trading stolen gold, securities, and other assets during world war ii.[81][82] the issue of "unclaimed property" of holocaust victims became a major issue for ubs in the mid-1990s, and a series of revelations in 1997 brought the issue to the forefront of national attention in 1996 and 1997.[83] ubs confirmed that a large number of accounts had gone unclaimed as a result of the bank's policy of requiring death certificates from family members to claim the contents of the account.[84][85] ubs's handling of these revelations were largely criticized and the bank received significant negative attention in the u.s.[86][87] ubs came under significant pressure, particularly from american politicians, to compensate holocaust survivors who were making claims against the bank.[88] in 1917, the union bank of switzerland opened a new headquarters on bahnhofstrasse (pictured above) in zürich.shortly after the end of world war ii, union bank of switzerland completed the acquisition of the eidgenössische bank, a large zürich-based bank that became insolvent. as a result of the merger, union bank of switzerland exceeded chf 1 billion in assets and moved its operations to zürich. ubs opened branches and acquired a series of banks in switzerland in the following years, growing from 31 offices in 1950 to 81 offices by the early 1960s.[65] in 1960, union bank of switzerland acquired an 80% stake in argor sa, a swiss precious metals refinery founded in 1951 in the canton of ticino.[43] ubs continues to issue gold bars via argor-heraeus which is famous for the unique kinebar holographic technology it uses to provide enhanced protection against bank gold bar counterfeiting.[89] by 1962, union bank of switzerland reached chf 6.96 billion of assets, narrowly edging ahead of swiss bank corporation to become the largest bank in switzerland.[90] the rapid growth was punctuated by the 1967 acquisition of interhandel, which made ubs one of the strongest banks in europe.[79]
+by the 1980s, union bank of switzerland established a position as a leading european underwriter of eurobonds.[66] following two major acquisitions in 1986 (phillips & drew and deutsche länderbank), ubs made its first purchase in the united states in 1991 with chase investors management corporation, the asset management business of chase manhattan bank.[43] at the time of the acquisition, the business managed in excess of us$30 billion in assets.[91] the bank's investments had been in the conservative asset management and life insurance businesses; further, 60% of the bank's profits came from its even more conservative swiss banking operations.[92][93] in 1993, credit suisse outbid union bank of switzerland for switzerland's swiss volksbank, the fifth largest bank in switzerland which had run into financial difficulties in the early 1990s.[90] the acquisition propelled credit suisse ahead of union bank of switzerland as the largest bank in switzerland for the first time. prior to the merger with swiss bank corporation, ubs purchased a group of smaller swiss banks in 1994 including the cantonal bank of appenzell-ausserrhoden in 1996,[65] and in 1997 schröder, münchmeyer, hengst & co. from lloyds bank was acquired to improve access to the german investment banking and private wealth management markets.[94]
+
+merger of union bank of switzerland and swiss bank corporation: 1998[edit]
+ after the two banks merged, they became known solely as "ubs" while retaining the swiss bank corporation's "three keys" icon.during the mid-1990s, union bank of switzerland came under fire from dissident shareholders critical of its conservative management and lower return on equity.[95] martin ebner, through his investment trust, bk vision, became the largest shareholder in union bank of switzerland and attempted to force a major restructuring of the bank's operations.[96] looking to take advantage of the situation, credit suisse approached union bank of switzerland about a merger that would have created the second largest bank in the world in 1996.[97] union bank of switzerland's management and board unanimously rebuffed the proposed merger.[98] ebner, who supported the idea of a merger, led a shareholder revolt that resulted in the replacement of union bank of switzerland's chairman, robert studer with mathis cabiallavetta, one of the key architects of the merger with swiss bank corporation.[66][99]
+on 8 december 1997, union bank of switzerland and swiss bank corporation announced an all-stock merger. at the time of the merger, union bank of switzerland and swiss bank corporation were the second and third largest banks in switzerland, respectively.[100] discussions between the two banks had begun several months earlier, less than a year after rebuffing credit suisse's merger overtures.[101] the merger resulted in the creation of ubs ag, a new bank with total assets of more than us$590 billion, the largest of its kind.[102] during the merger, ubs chairman marcel ospel originally wanted to call the company "united bank of switzerland", but settled on simply using "ubs" following the acquisition of american brokerage firm, paine webber.[4]
+colloquially referred to as the "new ubs" to distinguish itself from the former union bank of switzerland, the combined bank became the second largest in the world at the time, behind only the bank of tokyo-mitsubishi.[102] additionally, the merger pulled together the banks' various asset management businesses to create the world's largest money manager, with approximately us$910 billion in assets under management.[102] union bank of switzerland's mathis cabiallavetta became chairman of the new bank while swiss bank's marcel ospel was named chief executive officer.[102] nearly 80% of the top management positions were filled by legacy swiss bank professionals.[66] prior to the merger, swiss bank corporation was considered to be further along than union bank of switzerland in developing its international investment banking business, particularly in the higher margin advisory businesses where warburg dillon read was considered to be the more established platform.[103][104] union bank of switzerland had a stronger retail and commercial banking business in switzerland, while both banks had strong asset management capabilities.[102] after the merger was completed, it was speculated that a series of losses suffered by ubs on its equity derivative positions in late 1997 was a contributing factor in pushing ubs management to consummate the merger.[105][106]
+
+paine webber and international expansion: 2000–2006[edit]
+ ubs painewebber logo in use from 2001 until 2003 when the use of the paine webber brand was dropped
+on 3 november 2000, ubs merged with paine webber, an american stock brokerage and asset management firm led by chairman and ceo donald marron.[107][108] at the time of its merger with ubs, paine webber had emerged as the fourth largest private client firm in the united states with 385 offices employing 8,554 brokers. the acquisition pushed ubs to the top wealth and asset management firm in the world. initially, the business was given the divisional name ubs painewebber but in 2003 the 123-year-old name paine webber disappeared when it was renamed ubs wealth management usa.[109] ubs took a chf 1 billion write-down for the loss of goodwill associated with the retirement of the paine webber brand when it integrated its brands under the unified ubs name in 2003.[43]
+
+ ubs warburg was the brand used for the investment banking division of ubs from 1999 to 2003.
+john p. costas, a former bond trader and co-head of fixed income at credit suisse first boston and head of fixed income trading at union bank of switzerland in 1998, was appointed ceo of ubs's investment banking division, which originated in sbc's warburg dillon read division and was renamed ubs warburg in december 2001.[110][111] in an attempt to break into the elite bulge bracket of investment banks, in which ubs then had little success while rival credit suisse was establishing itself as a major player on wall street with the acquisition of donaldson, lufkin & jenrette in 2000, costas shifted the growth strategy from acquiring entire firms to hiring individual investment bankers or teams of bankers from rival firms.[112][113] costas had followed a similar approach in building out the ubs fixed income business, hiring over 500 sales and trading personnel and increasing revenues from us$300 million in 1998 to over us$3 billion by 2001. ubs financial services (left) in frankfurt, 2012the arrival of former drexel burnham lambert investment banker ken moelis marked a major coup for costas. moelis joined ubs from donaldson lufkin & jenrette in 2001 shortly after its acquisition by credit suisse first boston (although huw jenkins claimed he had hired moelis to the uk parliamentary banking commission while under oath, which is patently false). in his six years at ubs, moelis ultimately assumed the role of president of ubs investment bank and was credited, along with costas, with the build-out of ubs's investment banking operation in the united states.[114] within weeks of joining, moelis brought over a team of 70 bankers from donaldson, lufkin & jenrette.[114] costas and moelis hired more than 30 senior u.s. bankers from 2001 through 2004.[110] it was estimated that ubs spent as much as us$600 million to us$700 million hiring top bankers in the u.s. during this three-year period.[115] among the bank's other major recruits during this period were olivier sarkozy, ben lorello, blair effron, and jeff mcdermott.[116][117] by 2003, ubs had risen to fourth place from seventh in global investment banking fees, earning us$2.1 billion of the us$39 billion paid to investment banks that year, increasing 33%.[110] over the next four years, ubs consistently ranked in the top 4 in the global fee pool and established a track record of 20 consecutive quarters of rising profits.[118] in 2006, ubs set up a joint venture in china namely ubs securities.
+however, by the end of 2006, ubs began to experience changing fortunes. in late 2005, costas headed a new hedge fund unit within ubs known as dillon read capital management. his former position was taken over by huw jenkins, a long-time legacy ubs investment banker.[119] in 2006, ubs bankers blair effron and michael martin announced their departures.[120][121] in march 2007, moelis announced that he was leaving the company, and shortly thereafter founded a new business, moelis & company.[122] as he had when joining ubs, moelis took a large team of senior ubs investment bankers.[123][124] moelis's departure was caused primarily by repeated conflict over the availability of capital from the bank's balance sheet to pursue large transactions, particularly leveraged buyouts.[125] the bank's apparent conservatism would be turned on its head when large losses were reported in various mortgage securities rather than corporate loans that generated investment banking fees. after moelis, other notable departures included investment banking co-head jeff mcdermott in early 2007 and, as the financial crisis set in, other high-profile bankers such as oliver sarkozy in early 2008 and ben lorello in 2009.[116][121] ubs building on avenue of the americas in midtown manhattan.
+subprime mortgage crisis and recovery: 2007–2009[edit]
+at the beginning of 2007, ubs became the first wall street firm to announce a heavy loss in the subprime mortgage sector as the subprime mortgage crisis began to develop. in may 2007, ubs announced the closure of its dillon read capital management (drcm) division.[126] although in 2006, dcrm had generated a profit for the bank of us$720 million, after ubs took over drcm's positions in may 2007, losses grew from the us$124 million recorded by drcm, ultimately to "16% of the us$19 billion in losses ubs recorded." the ubs investment bank continued to expand subprime risk in the second quarter of 2007 while most market participants were reducing risk, resulting in not only expanding drcm losses but creating the 84% of the other losses experienced by the bank.[127]
+
+in response to the growing series of problems at ubs, and possibly his role in spearheading costas' departure from the bank, peter wuffli unexpectedly stepped down as ceo of the firm during the second quarter of 2007.[128] wuffli would be joined by many of his fellow managers in the next year, most notably the bank's chairman marcel ospel. however, the bank's problems continued through the end of 2007, when the bank reported its first quarterly loss in over five years.[129] as its losses jeopardized the bank's capital position, ubs quickly raised us$11.5 billion of capital in december 2007, us$9.7 billion of which came from the government of singapore investment corporation (gic) and us$1.8 billion from an unnamed middle eastern investor.[130] protestors outside of ubs' zürich headquarters, 2009.after a significant expansion of fixed income risk during 2006 and 2007 under the leadership of huw jenkins, the ubs investment bank ceo, the bank's losses continued to mount in 2008 when ubs announced in april 2008 that it was writing down a further us$19 billion of investments in subprime and other mortgage assets. by this point, ubs's total losses in the mortgage market were in excess of us$37 billion, the largest such losses of any of its peers.[131] in response to its losses, ubs announced a chf 15 billion rights offering to raise the additional funds need to shore up its depleted reserves of capital. ubs cut its dividend in order to protect its traditionally high tier 1 capital ratio, seen by investors as a key to its credibility as the world's largest wealth management company.[132][133] in october 2008, ubs announced that it had placed chf 6 billion of new capital, through mandatory convertible notes, with swiss confederation. the swiss national bank and ubs made an agreement to transfer approximately us$60 billion of currently illiquid securities and various assets from ubs to a separate fund entity.[134] in november 2008, ubs put us$6 billion of equity into the new "bad bank" entity, keeping only an option to benefit if the value of its assets were to recover. heralded as a "neat" package by the new york times, the ubs structure guaranteed clarity for ubs investors by making an outright sale.[135] ubs announced in february 2009 that it had lost nearly chf 20 billion (us$17.2 billion) in 2008, the biggest single-year loss of any company in swiss history.[136] since the beginning of the financial crisis in 2007, ubs has written down more than us$50 billion from subprime mortgage investments and cut more than 11,000 jobs.[137][138]
+by the spring of 2009, ubs announced another management restructuring and initiated a plan to return to profitability. jerker johansson, the head of the investment bank division, resigned in april 2009 and was replaced by alex wilmot-sitwell and carsten kengeter.[139] at the same time, ubs announced the planned cut of 8,700 jobs[140] and had implemented a new compensation plan. under the plan, no more than one-third of any cash bonus would be paid out in the year it is earned with the rest to be held in reserve and stock-based incentives that would vest after three years. in april 2009, ubs announced that it agreed to sell its brazilian financial services business, ubs pactual, for approximately us$2.5 billion to btg investments.[141]
+
+ ubs world headquarters in zürich's paradeplatz.
+the swiss government sold its chf 6 billion stake in ubs in late 2008 at a large profit; switzerland had purchased convertible notes in 2008 to help ubs clear its balance sheets of toxic assets.[142] taking advantage of improved conditions in the stock market in mid-2009, ubs placed us$3.5 billion of shares with a small number of large institutional investors.[143] oswald grübel announced, "we are building a new ubs, one that performs to the highest standards and behaves with integrity and honesty; one that distinguishes itself not only through the clarity and reliability of the advice and services it provides but in how it manages and executes." grübel reiterated plans to maintain an integrated business model of providing wealth management, investment banking, and asset management services.[144]
+
+shift to private banking and market reemergence: 2010–present[edit]
+in august 2010, ubs launched a new advertising campaign featuring the slogan: "we will not rest" and signed a global sponsorship agreement with formula 1.[145][146] on 26 october 2010, ubs announced that its private bank recorded net new funds of chf 900 million during the third quarter, compared to an outflow of chf 5.5 billion in second quarter.[147] ubs's third quarter net profit of us$1.65 billion beat analyst estimates, continuing a string of profitability. after the elimination of almost 5,000 jobs, ubs announced on 23 august 2011 that it was further cutting another 3,500 positions in order to "improve operating efficiency" and save chf 1.5 to chf 2 billion a year. 45 percent of the job cuts would come from the investment banking unit, which continued to post dismal figures since the 2008 financial crisis, while the rest would come from the wealth management and asset management divisions. the firm has seen profits fall due to the rise of the swiss franc.[148][149]
+
+on 15 september 2011, ubs became aware of a massive loss, originally estimated at us$2 billion, allegedly due to unauthorized trading by kweku adoboli, a then 31-year-old ghanian trader on the delta one desk of the firm's investment bank.[150] adoboli was arrested and later charged with fraud by abuse of position and false accounting dating as far back as 2008. ubs's actual losses were subsequently confirmed as us$2.3 billion, and according to the prosecutor in adoboli's trial he "was a gamble or two from destroying switzerland's largest bank for his own benefit."[151][152] on 24 september 2011 ubs announced chief executive oswald grübel's resignation, and the appointment of sergio ermotti as his replacement on an interim basis.[153][154] a ubs retail bank for private wealth management in st. gallen, switzerlandon 30 october 2012, ubs announced that it was cutting 10,000 jobs worldwide in an effort to slim down its investment banking operations, of which 2,500 would be in switzerland, followed by the united states and great britain. this 15-percent staff cut would make overall staff count come down from 63,745 to 54,000. (for comparison, the peak employment level in 2007 before the 2008 financial crisis was 83,500).[155][156] ubs also announced that the investment bank would focus on its traditional strengths and exit much of its fixed income trading business that was not economically profitable. on 19 december 2012, ubs was fined $1.5 billion for its role in the libor scandal[157] over accusations that it tried to rig benchmark interest rates.[158] in november 2014, regulators including the fca and cftc hit ubs with fines, along with other banks, for currency manipulation.[159] on 6 january 2014, it was reported that ubs had become the largest private banker in the world, with $1.7 trillion in assets.[160] in may 2015, media reports revealed ubs is planning to sell its australian private banking division to some of its management after a review of underperforming businesses was conducted at the company.[161]
+in late 2016, the bank created the digital currency "utility settlement coin" (usc) to accelerate inter-bank settlements and established a blockchain technology research laboratory in london.[162][163] from 2012 to 2018, the investment bank, led by andrea orcel, initiated a major restructuring, firing over 10,000 employees and focusing on european underwriting business instead of traditional dealmaking.[164][165] ubs announced in january 2018 that it does not trade or expose clients to cryptocurrencies as it believes they have little to no elasticity, and are speculatively valued.[166] it partnered with technology company ibm to launch a blockchain trade finance platform called "batavia" in early 2018.[167]
+
+acquisition history[edit]
+as it exists today, ubs represents a conglomeration of dozens of individual firms, many of which date back to the 19th century. over the years, these firms merged to form the bank's three major predecessors, union bank of switzerland, swiss bank corporation, and paine webber. the following is a visual illustration of the company's major mergers and acquisitions and historical predecessors, although this is not necessarily a comprehensive list:[168]
+
+.mw-parser-output table.clade{border-spacing:0;margin:0;font-size:100%;line-height:100%;border-collapse:separate;width:auto}.mw-parser-output table.clade table.clade{width:100%}.mw-parser-output table.clade td{border:0;padding:0;vertical-align:middle;text-align:center}.mw-parser-output table.clade td.clade-label{width:0.8em;border:0;padding:0 0.2em;vertical-align:bottom;text-align:center}.mw-parser-output table.clade td.clade-slabel{border:0;padding:0 0.2em;vertical-align:top;text-align:center}.mw-parser-output table.clade td.clade-bar{vertical-align:middle;text-align:left;padding:0 0.5em}.mw-parser-output table.clade td.clade-leaf{border:0;padding:0;text-align:left;vertical-align:middle}.mw-parser-output table.clade td.clade-leafr{border:0;padding:0;text-align:right}
+
+
+(formed 1998 from merger of union bank of switzerld & swiss bank corp.)
+
+
+
+
+
+union bank of switzerland(merged in 1998 with swiss bank corporation)
+
+
+
+
+
+union bank of switzerland(originally swiss banking association, merged 1912)
+
+
+
+
+
+ 
+
+
+bank in winterthur(est. 1862)
+
+
+
+ 
+
+
+ 
+
+
+toggenburger bank(est. 1863)
+
+
+
+ 
+
+
+
+ 
+
+
+aargauische kreditanstalt(merged 1915, acq. 1919)
+
+
+
+
+
+ 
+
+
+aargauische kreditanstalt(est. 1872)
+
+
+
+ 
+
+
+ 
+
+
+bank in baden(est. 1863)
+
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+eidgenössische bank(est. 1863, acq. 1945)
+
+
+
+ 
+
+
+ 
+
+
+interhandel(est. 1928, acq. 1967)
+
+
+
+ 
+
+
+ 
+
+
+phillips & drew(est. 1895 as g.a. phillips & co., acq. 1986)
+
+
+
+ 
+
+
+ 
+
+
+chase investors management corporation(est. 1972 as subsidiary)
+
+
+
+ 
+
+
+schröder, münchmeyer, hengst & co.(merged 1969, acq. 1997)
+
+
+
+
+
+ 
+
+
+schröder brothers & co.(est. 1846)
+
+
+
+ 
+
+
+ 
+
+
+münchmeyer & co.(est. 1855)
+
+
+
+ 
+
+
+ 
+
+
+frederick hengst & co.
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+swiss bank corporation(merged in 1998 with union bank of switzerland)
+
+
+
+
+
+swiss bank corporation(merged 1897)
+
+
+
+
+
+basler & zürcher bankverein(est. 1880)
+
+
+
+
+
+ 
+
+
+basler banvkerein(est. 1856 as bankverein, renamed in 1872)
+
+
+
+ 
+
+
+ 
+
+
+zürcher bankverein(est. 1889)
+
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+basler depositenbank(est. 1882)
+
+
+
+ 
+
+
+ 
+
+
+schweiz unionbank(est. 1889)
+
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+basler handelsbank(est. 1862, acq. 1945)
+
+
+
+ 
+
+
+ 
+
+
+o'connor & associates(est. 1977, acq. 1992)
+
+
+
+ 
+
+
+ 
+
+
+brinson partners(est. 1989, acq. 1994)
+
+
+
+ 
+
+
+warburg dillon read(merged 1997 under sbc ownership)
+
+
+
+
+
+ 
+
+
+s. g. warburg & co.(est. 1946, acq. 1995)
+
+
+
+ 
+
+
+ 
+
+
+dillon, read & co.(est. 1832, acq. 1997)
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+paine webber(consolidated 3 subsidiaries in 1984; merged in 2000 with ubs)
+
+
+
+
+
+paine, webber, jackson & curtis(merged 1942)
+
+
+
+
+
+ 
+
+
+paine & webber(est. 1880)
+
+
+
+ 
+
+
+ 
+
+
+jackson & curtis(est. 1879)
+
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+mitchell hutchins(est. 1938, acq. 1975)
+
+
+
+ 
+
+
+blyth, eastman dillon & co.(merged 1972, acq. 1979)
+
+
+
+
+
+ 
+
+
+blyth & co.est. 1914 as blyth, witter & co.
+
+
+
+ 
+
+
+eastman dillon union securities & co.(merged 1956)
+
+
+
+
+
+ 
+
+
+union securitiesest. 1939 as spin-offfrom j. & w. seligman & co.
+
+
+
+ 
+
+
+ 
+
+
+eastman dillon & co.(est. 1912)
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+kidder, peabody & co.(est. 1864, acq. 1995)
+
+
+
+ 
+
+
+ 
+
+
+j.c. bradford & co.(est. 1928, acq. 2000)
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+corporate governance[edit]
+board of directors[edit]
+ubs group ag board of directorsnameposition and committeesaxel a. weber
+chairman: chairperson of the corporate culture and responsibility committee; chairperson of the governance and nominating committeemichel demaré
+independent vice chairman: member of the audit committee; member of the compensation committee; member of the governance and nominating committee
+david sidwell
+senior independent director: chairperson of the risk committee; member of the governance and nominating committee
+jeremy andersonboard member: chairperson of the audit committee; member of the corporate culture and responsibility committeereto francioni
+board member: member of the corporate culture and responsibility committee; member of the risk committee
+ann f. godbehere
+board member: chairperson of the compensation committee; member of the audit committeefred huboard memberjulie g. richardson
+board member: member of the compensation committee; member of the risk committeeisabelle romy
+board member: member of the audit committee; member of the governance and nominating committeerobert w. scully
+board member: member of the risk committeebeatrice weder di mauro
+board member: member of the audit committee; member of the corporate culture and responsibility committeedieter wemmer
+board member: member of the compensation committee; member of the risk committeemarkus baumann
+group company secretarysource (as of 31 january 2019):[169]chairman marcel ospel did not apply for re-election at the annual general meeting of shareholders held on 23 april 2008, and was succeeded by peter kurer, who was general counsel. on 15 april 2009, peter kurer was succeeded by kaspar villiger. former bundesbank president axel a. weber was nominated in mid-2011 for election to the board at the annual meeting 2012 and, at that time, intended to be elected as a chairman of the board after villiger's retirement in 2013.[170][171] however, in may 2012, villiger and board member bruno gehrig stepped down.[172]
+group executive board[edit]
+
+
+ubs group ag executive board
+
+
+name
+
+position and office
+
+
+sergio ermotti
+
+group chief executive officer
+
+
+martin blessing
+
+co-president global wealth management
+
+
+tom naratil
+
+co-president global wealth management
+
+
+christian bluhm
+
+group chief risk officer
+
+
+markus u. diethelm
+
+group general counsel
+
+
+kirt gardner
+
+group chief financial officer
+
+
+sabine keller-busse
+
+group chief operating officer
+
+
+ulrich körner
+
+president asset management and president ubs europe, middle east and africa
+
+
+axel p. lehmann
+
+president personal & corporate banking and president ubs switzerland
+
+
+piero novelli
+co-president investment bank
+
+
+
+robert karofsky
+
+co-president investment bank
+
+
+edmund koh
+
+president ubs asia pacific
+
+
+markus rohner
+
+head of group compliance, regulatory and governance
+
+
+source (as of 31 january 2019):[173]
+
+with oswald grübel's resignation as ceo in 2011 and sergio ermotti's interim appointment on 24 september 2011, the wall street journal reported that the succession process appeared to be a two-person race between ermotti from emea and kengeter from the investment bank. ermotti, who had spent many years at what is now bank of america merrill lynch, had joined ubs in april from unicredit group; kengeter was a german national who joined ubs from goldman sachs in 2008 and who had reportedly disagreed with some ubs investment bankers over pay and other matters, the journal also said.[174]
+previously, on 29 february 2009, marcel rohner had resigned and was succeeded by grübel.[175] on 1 april 2009, grübel hired ulrich körner in a newly established role as chief operating officer (coo) and ceo of corporate center. körner's task was to cut administrative expenses and boost profits.[176] after the last annual general meeting in may 2016, robert w. scully and dieter wemmer were elected as new members of the board. it has been decided that martin blessing will assume the role as president personal & corporate banking and president ubs switzerland, replacing lukas gaehwiler, who himself will take the new role as chairman of the region switzerland as of 1 september 2016.[177] the investment bank was led by andrea orcel from november 2014 to september 2018– eventually leaving to lead banco santander–before being replaced by robert karofsky and piero novelli.[178]
+
+shareholders[edit]
+ ubs europe se headquarters in frankfurt am main, germanyas disclosed under the swiss stock exchange act, the most significant shareholders of ubs are gic private limited with 7.07%, blackrock inc with 4.98%,[179] norges bank with 3.30%, mfs investment management with 3.05% and capital group companies with 3.01% of total share capital.[180] in 2008 during the subprime mortgage crisis, gic private limited invested chf 11 billion into ubs to help bail it out, thus becoming the largest single shareholder.[27]
+additionally, the ubs group ag disclosed shareholders registered in their share register with 3% or more of shares issued. as of 30 september 2017, these are chase nominees ltd, dtc (cede & co.) and nortrust nominees ltd with 10.32%, 6.63% and 4.04% of total share capital respectively.[181]
+as of 31 december 2017, shareholdings of the group were distributed as follows:[182]
+
+
+
+
+
+shareholders  registered
+
+shares registered
+
+
+
+
+
+amount
+%
+amount
+%
+
+
+individual shareholders
+
+225,511
+97.8
+415,977,640
+10.8
+
+
+legal entities
+
+4,855
+2.1
+589,798,155
+15.3
+
+
+nominees, fiduciaries
+
+246
+0.1
+1,132,947
+29.4
+
+
+total
+
+230,612
+100.0
+3,853,096,603
+100.0
+
+banking secrecy[edit]
+ the third key in the ubs logo is meant to stand for banking secrecy.
+ubs frequently cites swiss culture—specifically its penchant for privacy, security and neutrality—as foundational to its company culture.[183] although banking secrecy started in the 1700s, switzerland drafted a series of banking regulations and statutes the late 1800s and 1930s to protect and secure banks within its borders.[184] the most prominent was the federal act on banks and savings banks, known simply as the "banking law of 1934".[185] the federal law prohibits and criminalizes the distribution and release of client information to third parties.[185] the bill was passed by the swiss federal assembly in order to combat the seizure of client assets and information for reasons debated by historians.[184] ubs, then known as the swiss bank corporation, received large influxes of capital from europe for safe keeping during the war.[186] more than two dozen swiss banking statutes were drafted from 1934 to 2008 to strengthen banking secrecy at ubs switzerland ag.[186] in 2018, switzerland, alongside major swiss banks including ubs, was ranked first on the financial secrecy index.[187] ubs was the largest wealth manager in 23 of the top 25 countries on the 2018 financial secrecy index.[188]
+while ubs maintains the strictest banking secrecy policies in switzerland, its policies across europe and especially the united states are comparable.[186] within the u.s., the bank is prohibited from disclosing client activities and information both internally and through regulation imposed by the financial industry regulatory authority (finra), federal reserve, federal deposit insurance corporation (fdic), u.s. treasury, securities and exchange commission (sec), and various u.s. state regulators.[189] ubs employees are prohibited from discussing client activity or information publicly, sharing information across borders, retaining client information insecurely and required to maintain robust bank-client confidentiality agreements.[189] in 2018, ubs operations within the u.s. were ranked second on the financial secrecy index, following ubs switzerland ag.[187] within the european union (e.u.), ubs operations maintain similar banking secrecy policies to switzerland in the following countries and crown dependencies: jersey, austria, luxemburg, liechtenstein, monaco, and the isle of man.[190] substantial, albeit greatly reduced, banking secrecy provisions are afforded to ubs operations in france, germany, ireland, and the netherlands.[190]
+
+.mw-parser-output .quotebox{background-color:#f9f9f9;border:1px solid #aaa;box-sizing:border-box;padding:10px;font-size:88%}.mw-parser-output .quotebox.floatleft{margin:0.5em 1.4em 0.8em 0}.mw-parser-output .quotebox.floatright{margin:0.5em 0 0.8em 1.4em}.mw-parser-output .quotebox.centered{margin:0.5em auto 0.8em auto}.mw-parser-output .quotebox.floatleft p,.mw-parser-output .quotebox.floatright p{font-style:inherit}.mw-parser-output .quotebox-title{background-color:#f9f9f9;text-align:center;font-size:larger;font-weight:bold}.mw-parser-output .quotebox-quote.quoted:before{font-family:"times new roman",serif;font-weight:bold;font-size:large;color:gray;content:" “ ";vertical-align:-45%;line-height:0}.mw-parser-output .quotebox-quote.quoted:after{font-family:"times new roman",serif;font-weight:bold;font-size:large;color:gray;content:" ” ";line-height:0}.mw-parser-output .quotebox .left-aligned{text-align:left}.mw-parser-output .quotebox .right-aligned{text-align:right}.mw-parser-output .quotebox .center-aligned{text-align:center}.mw-parser-output .quotebox cite{display:block;font-style:normal}@media screen and (max-width:360px){.mw-parser-output .quotebox{min-width:100%;margin:0 0 0.8em!important;float:none!important}}
+as you know, we don't discuss client matters in public so i will refrain from making any comments about client activities.
+
+hidden assets[edit]
+ubs, along with other swiss banks, maintains a variety hidden assets and numbered bank accounts in an effort to preserve anonymity and confidentiality.[191] despite its name, hidden accounts are not truly hidden.[192] the usage of these types of accounts (and assets) limits the knowledge of the account between the client and a restricted amount of private bankers who retain record of who the account belongs to.[192]
+
+in january 1997, christoph meili, a night guard at the union bank of switzerland (precursor of ubs) in zürich, publicly announced that bank officials were destroying documents about orphaned assets, believed to be the credit balances of both nazi german and jewish clients attained during world war ii.[183] soon after, zurich authorities opened a judicial investigation against meili for suspected violations of the swiss laws on banking secrecy.[193] after a us$2.56 billion lawsuit was filed against ubs and other swiss banks on behalf of the jewish victims of the holocaust, a settlement was reached that totaled us$1.25 billion in august 1998.[194][195] an entrance to a ubs wealth management office in milan, italy. with a strike-plated door and frosted glass, its purpose is to provide security and banking discretion.the swiss government has taken steps to curb the usage of hidden services by foreign account holders as they have been frequently used to facilitate the transfer of "black money".[196] in may 2013, switzerland announced that it would amend certain banking secrecy laws applicable to ubs switzerland ag to allow the disclosure of hidden client accounts to various investigative authorities.[196] however, the disclosure of such information is heavily regulated and only "occur exclusively within the scope of administrative assistance procedures based on a valid double taxation agreement."[191]
+bank vaults and bunkers[edit]
+ubs, along with other swiss banks, owns and operates undisclosed or otherwise secretive bank vaults, storage facilities or underground bunkers for gold bars, diamonds, cash, or other valuable physical assets.[183][197] the geographical location of these facilitates are undisclosed to the public but are known to be present in the mountainous regions of the swiss alps.[198] these facilitates are not subject to the same banking regulations as banks in switzerland and do not have to report holdings to regulatory agencies.[198][199] according to the swiss defense department, ubs purchased four former military bunkers to convert into storage facilities throughout the 1980s and 1990s.[183][200] three of these bunkers are not accessible by road or foot and require aircraft transportation.[183] the transfer of assets to these bunkers is selective as a multi-stage security clearance is required and is not available to all ubs clients.[198] in special circumstances, ubs contracts smaller banks in southern switzerland to maintain company assets.[183]
+the largest disclosed swiss bank vault is five floors (65 ft. or 19 m.) underground the bank's geneva headquarters.[201] in july 2013, ubs established a gold storage facility and depository in singapore for high net worth and ultra high net worth clients in their hong kong, china, and malaysia markets who are willing to pay high fees and commissions for the highest level of secrecy and safety for their assets.[200]
+
+tax evasion[edit]
+main article: ubs tax evasion controversies
+the strict banking secrecy policies and bank-client confidentiality agreements at ubs have frequently been used to avoid, evade or otherwise escape foreign direct taxation. ubs reached multilateral agreements with the u.s. internal revenue service (irs) and u.k. hm revenue and customs in 2009 and 2010, respectively.[202] these agreements ensured a line of communication between the tax agencies and all registered swiss banks.[203] the most commonly used stipulation triggered by select ubs switzerland ag clients regard the following statute: swiss banks are only allowed to disclose client information if a client is legally charged with proof of deliberate financial fraud, not merely the non-reporting of assets to avoid taxation.[191]
+the banking privacy policies of ubs have led to numerous controversies and disagreements with foreign governments:
+
+ the french supreme court, cour de cassation, ruled against ubs in their 2014 appeal of tax evasion.in 2007, bradley birkenfeld, a geneva-based employee who worked in the bank's north american wealth management business, claimed that ubs's dealings with american clients violated an agreement between the bank and the u.s. internal revenue service.[204] he subsequently complained to ubs compliance officials about the bank's "unfair and deceptive business practices", which included sponsoring events like yacht races and art festivals in the united states to attract wealthy people as potential clients.[205] ubs was charged by the u.s. federal bureau of investigation and ordered it to cease providing cross-border private banking services to us-domiciled clients through its non-us regulated units as of july 2008.[206]
+in 2012, the german government saw to it that ubs deutschland ag came under investigation by prosecutors in mannheim, germany, after a tax probe revealed suspicious funds transfers from germany to switzerland allegedly facilitated by the bank's frankfurt office.[207] ubs deutschland's frankfurt office was raided by tax investigators in may 2012, and over 100,000 computer files and records were seized for evidence. the bank, which claims it is cooperating with the investigators, said that "an internal investigation into the specific allegations has not identified any evidence of misbehavior by ubs deutschland ag."[207]
+in 2014, the french government launched an investigation into ubs france's alleged abetting of tax evasion by french taxpayers.[208] the investigation estimated the amount of tax income lost to ubs-controlled offshore accounts at €600 billion.[209] in july 2014, the bank was required to post a bond of 1.1 billion euros, which ubs complied with while making multiple appeals in the french court system, finally losing its appeal at the cour de cassation, france's highest court.[210] in 2014, ubs accused the french government of engaging in a "highly politicized process" in its investigation of the bank.[211]
+corporate social responsibility[edit]
+in january 2010, ubs issued a new code of conduct and business ethics which all employees were encouraged to sign. the code addressed issues such as financial crime, competition, confidentiality, as well as human rights and environmental issues. the eight-page code also lays out potential sanctions against employees who violate it, including warnings, demotions, or dismissal.[212] according to kaspar villiger, former chairman of the board, and oswald j. grübel, former group ceo, the code is "an integral part of changing the way ubs conducts business".[213]
+in 2011, ubs expanded its global compliance database to include information on environmental and social issues provided by reprisk,[214] a global research firm specialized in environmental, social and corporate governance (e.g. esg) risk analytics and metrics.[215] this was done in an effort to mitigate environmental and social risks that could impact the bank's reputation or financial performance and to simultaneously help globally standardize and systematically implement the firm's due diligence processes.[216] reprisk data is used in the on-boarding process to screen potential new clients and sourcing partners,[217] alongside periodic client reviews and, also, to evaluate the risks related to transactions in investment banking and institutional lending.[218]
+
+recognition[edit]
+ the largest ubs operations across switzerland.
+in 2006 for the fourth consecutive year ubs was named one of the 100 best companies for working mothers living in the u.s. by working mother magazine.[219] it is a member of the stonewall diversity champions scheme[220] and has active gay and lesbian, ethnic minority, and women's networking groups. ubs was included on business week's  the best places to launch a career 2008, and ranked no. 96 out of the 119 total companies listed.[220] on 2 february 2010, ubs topped the charts for the ninth year in a row in institutional investor's annual ranking of europe's most highly regarded equity analysts. in a year of extremes for equity markets, money managers say that no firm did a better job than ubs to keep them informed about which european sectors, countries, and industries offered the greatest potential.[221] on 4 may 2010, ubs investment bank was voted the leading pan-european brokerage firm for equity and equity linked research for a record tenth successive year. a thomson reuters extel survey ranked ubs number one in all three of the key disciplines of research: research (tenth year); sales (ninth year running); and equity trading and execution (up from second place in 2009). ubs was also named as the number one leading pan-european brokerage firm for economics and strategy research.[222]
+on 31 october 2013, ubs wealth management was voted the best global private bank by professional wealth management,[223] retaining the title in 2014 while also being recognized as the best private bank for philanthropy services, and best global brand in private banking.[224] on 27 october 2016, for the 4th consecutive year, ubs wealth management won the best global private bank title, as well as the best private bank in asia award for the 5th consecutive year.[225] in 2014, the group received euromoney's awards for excellence 2014 as the best global bank,[226][227] and as the best bank in switzerland.[228] in 2017, ubs not only retained its leading position taken in 2016 in the main category best private banking services overall at the euromoney's private banking awards,[229] but also received recognition as western europe's best bank for advisory 2017.[230]
+in 2018, for the third consecutive year, robecosam, an organization specialized exclusively on sustainability investing and conducting extensive research,[231] named ubs in its industry group leader report 2018 for each of the industry groups represented in the dow jones sustainability index the group leader[232] in diversified financials.[233] the report highlighted group's sustainability efforts directed through its ubs and society program: a cross-divisional platform involving activities and capabilities in sustainable investing and philanthropy, environmental and human rights policies, ubs's own environmental footprint, as well as the community investment.[234] the group also received recognition from global finance which rates financial services providers that best meet the specialized needs of corporations on a global level. the selection criteria are focused less on the size, but rather on qualities that companies look for when choosing a provider.[235][236] ubs was named in the category global winners as best private bank in the world 2017,[237] and in the list of global best banks 2017, the group received the award as global winner in the category world's best investment banks 2017.[236][238]
+
+sponsorship[edit]
+sports[edit]
+ubs is particularly active in sponsoring various golf tournaments, cross-country skiing in switzerland, ice hockey, and a range of other events around the world. ubs was the sponsor of the alinghi sailing ship, winner of the americas cup in 2003. ubs has been or currently is a sponsor of the following sporting events and organizations:
+
+
+
+
+alinghi
+arnold palmer invitational
+athletissima
+automobile club de monaco
+faldo series asia
+formula one
+
+
+
+
+greifenseelauf
+hahnenkamm races (website)
+hong kong rugby football union
+olympic museum lausanne
+sierre-zinal mountain race
+spengler cup davos
+
+
+
+
+swiss athletics federation
+the players championship
+ubs hong kong open
+ubs japan golf tour championship
+ubs kids cup (website)
+weltklasse zürich
+
+
+
+culture[edit]
+ubs's cultural sponsorships are typically related to classical music and contemporary art, although the company also sponsors a range of film festivals, music festivals, and other cultural events and organizations. ubs supported the guggenheim ubs map global art initiative in which the solomon r. guggenheim foundation identified and worked with artists, curators and educators from south and southeast asia, latin america, and the middle east and north africa to expand their reach in the international art world and challenge the western-centric view of art history.[239] ubs has previously been or currently is a sponsor of the following cultural events and organizations:
+
+
+art basel
+art basel miami beach
+art gallery nsw
+ballett zürich
+basel sinfonietta
+beijing music festival
+boston symphony orchestra
+bregenz festival
+casals festival
+cy twombly exhibition
+deichtorhallen
+fondation beyeler
+
+
+
+
+fondation pierre gianadda
+fresh paint contemporary art fair, tel aviv (website)
+galleria d'arte moderna, milan
+international mozarteum foundation
+locarno international film festival
+london symphony orchestra
+louisiana museum of modern art
+lucerne festival
+lucerne symphony orchestra
+lugano festival
+montreux jazz festival
+new national museum of monaco
+
+
+
+
+ravinia festival
+rheingau musik festival
+sydney theatre company
+singapore sun festival
+swiss institute contemporary art new york
+thunerseespiele
+guggenheim ubs map global art initiative
+utah symphony
+verbier music festival
+women: new portraits by annie leibovitz (website)
+zurich opera
+
+
+
+see also[edit]
+
+
+banks portal
+systemically important financial institution
+swiss financial market supervisory authority
+notes[edit]
+
+^ the name "ubs" is derived from "union bank of switzerland".[2] although "union bank of switzerland" was discontinued in 1998, the name "ubs" remained as the company's legal and trade name going forward.[3] during the 1998 merger, ubs chairman marcel ospel originally wanted to call the company "united bank of switzerland", but settled on simply using "ubs" following the acquisition of american brokerage firm, paine webber.[4] as of november 1998, the bank is only known as "ubs" or "ubs group ag" with derivative titles such as ubs investment bank, ubs financial services, ubs asset management–among others–being common.[5] 
+
+^ ubs maintains global client confidentiality standards across its wealth management, investment banking, asset management, and private banking services. in switzerland, ubs operations are regulated by swiss banking secrecy laws which legally prohibit it from disclosing client information to third parties, subject to terms and conditions.[6] outside of switzerland, ubs complies with foreign market mandates on banking secrecy and client privacy. in its third largest market, the united states, ubs complies with finra privacy laws which prohibits unauthorized distribution of client information or data, subject to terms and conditions.[7] ubs imposes a basic standard of banking discretion to all of its operations regardless legal directives.[8][9] the bank's global compliance policies ensures that it:[10][11]
+never acknowledges the existence of an account or client activity without consent or an accepted criminal complaint
+maintains banking discretion through "client relationship agreements" (e.g. bank–client confidentiality agreements)
+limits the disclosure and retention of client activity, all of which is stored off-site (or encrypted online) for security after one calendar year
+ensures full or partial deposit insurance on all accounts
+offers the usage of bank vaults, as well as dormant and numbered bank accounts to select, pre-approved clients
+
+^ the "three keys" symbol was taken from the swiss bank corporation's logo and are meant to represent the following, from left to right:[12]
+confidence (i.e. consumer confidence)
+security (i.e. economic and physical security)
+discretion (i.e. banking secrecy)
+
+^ ubs is the largest wealth manager in the world.[29][30]
+
+
+references[edit]
+
+
+^ a b c d e "ubs quarterly reporting 2018". global topics. retrieved 1 may 2018..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ "ubs: union bank of switzerland". bloomberg. retrieved 16 june 2018.
+
+^ "ubs corporate information: what does 'ubs' stand for?". www.ubs.com. retrieved 16 june 2018. the name 'ubs' came from one of our predecessor firms - the union bank of switzerland. however, just like other prominent brands which used to be an abbreviation of a company name, ubs is no longer considered an acronym.
+
+^ a b o'donnell, john (28 april 2008). "ubs architect ospel leaves battered bank". reuters. retrieved 8 august 2018. the three-times married banker was the architect of what was originally meant to be called united bank of switzerland — the fusion of swiss bank corporation and union bank of switzerland in 1998. he later masterminded the acquisition of u.s.-based painewebber.
+
+^ "ubs organizational structure: how we are organized". www.ubs.com. retrieved 8 august 2018.
+
+^ neghaiwi, brenna hughes (31 october 2017). "exclusive: swiss prosecutors seek widening of secrecy law to ..." reuters. retrieved 16 june 2018.
+
+^ "finra.org: customer information protection". www.finra.org. retrieved 22 july 2018.
+
+^ obringer, lee ann (6 november 2007). "how swiss bank accounts work". howstuffworks. retrieved 5 april 2018.
+
+^ moscovici, pierre (27 may 2015). "fighting tax evasion: eu and switzerland sign historic tax transparency agreement". europa.eu. european commission. retrieved 5 april 2018.
+
+^ pickert, kate (26 february 2009). "a brief history of: swiss banks". time. issn 0040-781x. retrieved 3 april 2018.
+
+^ phung, albert (31 march 2018). "how do i open a swiss bank account, and what makes them so special?". investopedia. retrieved 5 april 2018.
+
+^ odekon, mehmet (2015). booms and busts: an encyclopedia of economic history from the first stock market crash of 1792 to the current global economic crisis. routledge. p. 850. isbn 9781317475767. ... a logo of three keys, standing for confidence, security, and discretion, was taken over from [swiss bank corporation] ...
+
+^ "leading banks in europe as of june 2017, by total assets". statista. retrieved 5 april 2018.
+
+^ neghaiwi, brenna hughes (21 april 2017). "wealth management boosts ubs profit but future uncertain". reuters. retrieved 5 april 2018.
+
+^ trainer, david (21 december 2017). "betting on the future of wealth management with ubs". forbes. retrieved 5 april 2018.
+
+^ friedersdorf, conor (31 july 2015). "hillary helps a bank—and then it funnels millions to the clintons". the atlantic. retrieved 27 november 2018. the swiss bank ubs is one of the biggest, most powerful financial institutions in the world.
+
+^ ballhaus, rebecca (21 july 2015). "ubs deal shows clinton's complicated ties". wall street journal. retrieved 27 november 2018.
+
+^ "ubs in a few words". global. retrieved 4 february 2018.
+
+^ a b "our clients & businesses - ubs global topics". ubs. ubs.com. retrieved 4 february 2018.
+
+^ a b c "ubs e-paper". www.ubs.com. retrieved 4 february 2018.
+
+^ "investor release". ubs. ubs.com. 14 january 2015. retrieved 4 february 2018.
+
+^ "ubs ag institutional ownership". nasdaq. archived from the original on 27 august 2013. retrieved 31 july 2018.
+
+^ "shareholder distribution". global topics. retrieved 1 august 2018.
+
+^ "ubs in a few words". ubs. ubs.com. january 2017. retrieved 4 february 2018.
+
+^ neghaiwi, brenna hughes (1 june 2018). "ubs begins global wealth management shift by merging teams". u.s. retrieved 1 june 2018.
+
+^ dunne, helen (13 november 2002). "ubs means rip for warburg". telegraph media group limited. telegraph.co.uk. retrieved 4 february 2018.
+
+^ a b c d e f g h i j k "ubs annual report 2016" (pdf). ubs. ubs.com. 10 march 2017. retrieved 4 february 2018.
+
+^ "scorpio partnership global private banking benchmark 2016 | scorpio partnership". scorpio partnership. retrieved 4 february 2018.
+
+^ neghaiwi, brenna hughes. "ubs retains positions as world's biggest private bank: study". reuters. retrieved 5 april 2018.
+
+^ avery, helen (14 december 2017). "zeltner leaves ubs wealth as the clear global leader". euromoney. retrieved 5 april 2018.
+
+^ "our financial results for the third quarter of 2014" (pdf). ubs. ubs.com. retrieved 4 february 2018.
+
+^ "about us.create the life you want". ubs. ubs.com. retrieved 4 february 2018.
+
+^ "ubs at a glance. ubs factsheet" (pdf). ubs. ubs.com. 22 april 2016. retrieved 4 february 2018.
+
+^ a b c d "ubs. about us. our businesses". ubs. ubs.com. retrieved 4 february 2018.
+
+^ "ubs wealth managements americas. about us". ubs. ubs.com. retrieved 4 february 2018.
+
+^ "ubs about us. our businesses". ubs. ubs.com. retrieved 4 february 2018.
+
+^ "north america's best bank for wealth management 2017: ubs". www.euromoney.com. retrieved 4 february 2018.
+
+^ "america's top 40 wealth management firms". www.barrons.com. retrieved 4 february 2018.
+
+^ "ubs. private clients. private clients - tailored money solutions". ubs. ubs.com. retrieved 4 february 2018.
+
+^ "ubs. companies. corporate customers - the right solution for every need". ubs. ubs.com. retrieved 4 february 2018.
+
+^ "ubs gewinnt euromoney award "best cash manager switzerland 2017"". ubs. ubs.com. retrieved 4 february 2018.
+
+^ "ubs annual report 2013" (pdf). ubs. ubs.com. 14 march 2014. retrieved 4 february 2018.
+
+^ a b c d e "ubs. about us. ubs in the world". ubs. ubs.com. retrieved 27 july 2016.
+
+^ "ubs annual report 2015" (pdf). ubs. ubs.com. 18 march 2016. retrieved 27 july 2016.
+
+^ "asset management". ubs.com. ubs. retrieved 1 may 2018.
+
+^ "asset management.why invest with us. helping you solve your global investment challenges". ubs. ubs.com. 31 march 2016. retrieved 4 february 2018.
+
+^ "northern trust completes strategic acquisition of ubs asset management's fund services units in luxembourg and switzerland". www.northerntrust.com. retrieved 4 february 2018.
+
+^ "northern trust to acquire fund services units of ubs in luxembourg and switzerland". ubs.com. retrieved 4 february 2018.
+
+^ "top asset management firms". www.relbanks.com. retrieved 4 february 2018.
+
+^ "monument to wall street glory becomes just another mortgage loss". bloomberg.com. 19 april 2017. retrieved 4 february 2018.
+
+^ "ubs investment bank". ubs. ubs.com. retrieved 4 february 2018.
+
+^ "ubs warburg expansion creates world's largest trading floor". ubs press release. media releases americas. ubs.com. 14 may 2002. retrieved 4 february 2018.
+
+^ bagli, charles v. (8 june 2011). "regretting move, bank may return to manhattan.(a version of this article appears in print on june 9, 2011, on page a1 of the new york edition with the headline: after leaving city, big bank mulls a return.)". the new york times. retrieved 4 february 2018.
+
+^ star, marlene (29 march 2017). "battling the bulge: boutique banks gaining ground". forbes. retrieved 10 august 2018.
+
+^ "the world's top 10 investment banks". www.investopedia.com. 11 november 2014. retrieved 4 february 2018.
+
+^ a b "what is bulge bracket investment bank? - definition from divestopedia". divestopedia.com. retrieved 10 august 2018.
+
+^ "update 1-ubs sets up frankfurt bank for european wealth management". reuters. 1 december 2016. retrieved 4 february 2018.
+
+^ a b morgan, stephen (3 october 2016). "the battle of the bulge bracket". whartonmagazine.com. retrieved 11 november 2013.
+
+^ staff, investopedia (25 november 2003). "bulge bracket". investopedia. retrieved 10 august 2018.
+
+^ "finma details tbtf decrees". finma. finma.ch. 7 may 2014. retrieved 4 february 2018.
+
+^ "these are the best-paying investment banks". institutional investor. 11 august 2017. retrieved 31 october 2018.
+
+^ "investment banking: ubs and cs remain among top 10 – just". finews.com. retrieved 4 february 2018.
+
+^ hipwell, deirdre (27 march 2017). "ubs set to secure a very good role". the times. retrieved 4 february 2018.
+
+^ stadtgeschichte. der landbote. retrieved 23 october 2015
+
+^ a b c d e f g h i j k l m n o p "history of ubs". global. retrieved 23 january 2017.
+
+^ a b c d e f g h ubs ag history. funding universe. retrieved 21 march 2015
+
+^ bankers magazine. 1872 basler bankverein investor prospectus. bradford-rhodes & co. 1920.
+
+^ swiss bank of basle to open branch here; huge vaults a haven for european capital. the new york times, 28 july 1939
+
+^ swiss agency will open, bank to occupy quarters in the equitable building. the new york times, 15 october 1939
+
+^ a b "swiss bank buys o'connor". the new york times. 10 january 1992. retrieved 21 march 2015.
+
+^ a b sbc warburg company history. funding universe. retrieved 21 march 2015
+
+^ "ubs-sbc would be largest manager yet: gary brinson may lead institutional side". pionline. 8 december 1997. retrieved 29 march 2015.
+
+^ outsider who changed the city. management today, 1 november 1998
+
+^ "jilted: morgan stanley and s.g. warburg". the economist. december 1994. archived from the original on 2 april 2015. retrieved 21 march 2015.
+
+^ stevenson, richard w. (11 may 1995). "swiss bank in deal to buy s.g. warburg". the new york times. retrieved 21 march 2015.
+
+^ a b truell, peter (16 may 1997). "swiss bank steps up to buy dillon, read on rebound". the new york times. retrieved 21 march 2015.
+
+^ new york media, llc (17 november 1997). sell division. new york.
+
+^ swiss banking: an analytical history. palgrave macmillan. 1998. pp. 132–136. isbn 9780312212834.
+
+^ a b c d handbook on the history of european banks. edward elgar publishing. 1994. isbn 9781781954218.
+
+^ "bankers magazine". december 1920: 794. retrieved 29 march 2015.
+
+^ swiss were part of nazi economic lifeline, historians find. the new york times, 2 december 2001
+
+^ switzerland: a painful history. time, 24 february 1997
+
+^ swiss envoy in u.s. in midst of a squall. the new york times, 20 january 1997
+
+^ ulrich jost, swiss historian : bank secrecy was bern's wartime 'weapon'. the new york times, 1 august 1997
+
+^ probe lays bare swiss wartime role, swissinfo.ch, 22 march 2002
+
+^ how swiss strategy on holocaust fund unraveled. the new york times, 26 january 1997
+
+^ more blundering by swiss banks. the new york times, 3 august 1997
+
+^ new york punishes swiss bank over nazi gold. the new york times, 10 october 1997
+
+^ "argor-heraeus". argor.com. retrieved 29 march 2015.
+
+^ a b offer made to create largest swiss bank group. the new york times, 6 january 1993
+
+^ swiss bank to acquire chase investment unit. the new york times, 22 february 1991
+
+^ ubs banks on conservative strategies --- industry leader avoids troubles that have snared main swiss rivals.  wall street journal, 1 june 1993
+
+^ ubs ag britannica. britannica, 15 december 2008
+
+^ ubs buys lloyds tsb's stake in smh for pounds 100m. the independent (london), 27 august 1997
+
+^ swiss battle for big bank proves costly.the new york times, 9 january 1995
+
+^ financier who shook up the swiss is himself shaken up.the new york times, 1 august 2002
+
+^ swiss banks considering giant merger.the new york times, 10 april 1996
+
+^ big swiss bank rejects merger appeal by rival.the new york times, 12 april 1996
+
+^ switzerland's top bank spurns merger bid from arch-rival. the new york times, 12 april 1996
+
+^ finance and financiers in european history 1880–1960. cambridge university press. 2002. isbn 9780521893732. retrieved 29 march 2015.
+
+^ embattled ubs poised for merger with sbc the independent, 6 december 1997
+
+^ a b c d e 2 of the big 3 swiss banks to join to seek global heft. the new york times, 9 december 1997
+
+^ performance of new bank relies on u.s. 9 december. 1997
+
+^ has ubs found its way out of the woods? businessweek, 29 march 1999
+
+^ four leave after ubs suffers big trading loss. the independent (london), 20 november 1997
+
+^ a swiss bank raises loss on derivatives.the new york times, 31 january 1998
+
+^ painewebber merger vote.the new york times, 24 october 2000
+
+^ swiss bank is acquiring painewebber.the new york times, 12 july 2000
+
+^ advertising: introducing ubs painewebber, post merger.the new york times, 5 march 2001
+
+^ a b c "costas sees ubs eclipsing goldman, citigroup as top fee earner". bloomberg l.p. 1 march 2004. archived from the original on 13 august 2011. retrieved 21 march 2015.
+
+^ costas seeks to seize middle ground. financial news, 3 may 2010  archived 5 may 2010 at the wayback machine
+
+^ swiss banks calling wall st. home. the new york times, 31 august 2000
+
+^ atlas, riva d. (26 may 2002). "how banks chased a mirage". the new york times. retrieved 21 march 2015.
+
+^ a b "moelis is leaving ubs". the new york times. 19 march 2007. retrieved 21 march 2015.
+
+^ "higher fees and trading help double ubs income". the new york times. 5 may 2004. retrieved 21 march 2015.
+
+^ a b "health scare: calculating ubs's loss of banker benjamin lorello". the wall street journal. 26 june 2009. retrieved 21 march 2015.
+
+^ "top ubs banker founds private equity firm". financial news. 29 june 2007. retrieved 21 march 2015.
+
+^ "prominent ubs executive to leave". the new york times. 19 march 2007. retrieved 21 march 2015.
+
+^ anderson, jenny (9 september 2005). "from ubs's suite of power to the sweat of a hedge fund". the new york times. retrieved 21 march 2015.
+
+^ "boutique bank that's riding out the storm". the new york times. 29 february 2008. retrieved 21 march 2015.
+
+^ a b cimilluca, dana (21 march 2007). "out they go: moelis's troops at ubs begin to disperse". wall street journal. retrieved 21 march 2015.
+
+^ prominent ubs executive to leave. the new york times, 19 march 2007
+
+^ "ex-ubs executive moelis opens firm". la times. 20 july 2007. retrieved 21 march 2015.
+
+^ petruno, tom (20 march 2007). "ken moelis parts ways with ubs: some wonder if the high-profile investment banker will launch his own firm in l.a." la times. retrieved 21 march 2015.
+
+^ "future of ubs executive part of wall street chatter". the new york times. 16 march 2007. retrieved 21 march 2015.
+
+^ clark, andrew (3 may 2007). "ubs shuts hedge fund after big sub-prime losses". the guardian. issn 0261-3077. retrieved 29 december 2017.
+
+^ "ubs $100 billion wager prompted $24 billion loss in nine months". bloomberg. 18 may 2008. retrieved 29 march 2015.
+
+^ after losses, ubs ousts its chief. the new york times, 6 july 2007|accessdate=29 march 2015
+
+^ mortgage woes push ubs to its first loss in 5 years. the new york times, 31 october 2007
+
+^ ubs records a big write-down and sells a stake. the new york times, 11 december 2007
+
+^ ubs to write down another $19 billion.the new york times, 2 april 2008|accessdate=29 march 2015
+
+^ downturn hits banks' fixed-income trading from the daily telegraph, date 5 october 2007
+
+^ ubs plans $19 bln write-down, capital injection from www.marketwatch.com, date 1 april 2008
+
+^ costello, miles (17 october 2008). "ubs and credit suisse secure $70bn". the times. london. retrieved 21 march 2015.
+
+^ "bad assets don't just disappear". the new york times. 25 november 2008. retrieved 21 march 2015.
+
+^ "ubs expected to post biggest swiss loss ever". taipei times. 9 february 2009. retrieved 21 march 2015.
+
+^ werdigier, julia (15 april 2009). "ubs to cut 7,500 more jobs after $1.8 billion loss". the new york times. retrieved 21 march 2015.
+
+^ craig, susanne; protess, ben; saltmarsh, matthew (16 september 2011). "ubs faces questions on oversight after a trader lost $2 billion". the new york times. retrieved 21 march 2015.
+
+^ "ubs replaces head of investment banking". risk.net. 27 april 2009. retrieved 14 october 2017.
+
+^ "swiss bank ubs to cut 8700 jobs to return to profitability". stockozone.com. 15 april 2009. retrieved 21 march 2015.
+
+^ bart, katharina (21 april 2009). "ubs, in asset dump, to sell brazilian bank". the wall street journal. retrieved 21 march 2015.
+
+^ switzerland selling ubs stake after u.s. tax accord . stockwatch, 20 august 2009.
+
+^ rhodes, jason; egenter, sven (26 june 2009). "ubs problems to remain after $3.5 billion capital hike". reuters. retrieved 21 march 2015.
+
+^ "ubs sets out ambitious plans for return to growth". financial times. 17 november 2009. retrieved 21 march 2015.
+
+^ "ubs in new brand campaign and formula 1 tie-up". retrieved 29 december 2017.
+
+^ wilson, harry (24 august 2010). "ubs sticks by 'you & us' in formula 1 sponsorship deal". issn 0307-1235. retrieved 29 december 2017.
+
+^ ubs stanches outflow of funds. wall street journal, 26 october 2010
+
+^ "ubs announces 3,500 jobs to go". 23 august 2011. retrieved 29 march 2015.
+
+^ werdigier, julia (23 august 2011). "ubs to cut 3,500 jobs, half in investment banking". the new york times. retrieved 21 march 2015.
+
+^ robert peston (16 september 2011). "ubs trader kweku adoboli charged with fraud". bbc. retrieved 29 march 2015.
+
+^ "ubs 'rogue trader': loss estimate raised to $2.3bn". bbc news. 18 september 2011. retrieved 29 march 2015.
+
+^ "ubs trader kweku adoboli 'gambled away' £1.4bn". bbc news. 14 september 2012. retrieved 29 march 2015.
+
+^ jenkins, patrick (20 september 2011). "singapore fund hits at ubs 'lapses'". financial times.
+
+^ "ubs press release". ubs. retrieved 29 march 2015.
+
+^ elliott, dominic. "new ubs is starting to work". reuters blog. retrieved 21 march 2015.
+
+^ "ubs cuts 10,000 jobs as it slims down investment bank arm". bbc. 30 october 2012. retrieved 29 march 2015.
+
+^ "ubs fined $1.5bn for libor rigging". bbc. 19 december 2012. retrieved 21 march 2015.
+
+^ "ubs agrees to pay $1.54 billion to settle libor investigations". cnbc. 19 december 2012. retrieved 21 march 2015.
+
+^ "hands slapped: 5 banks get hit with fines for currency manipulation". sovereign wealth fund institute. retrieved 21 march 2015.
+
+^ touryalai, halah (6 january 2014). "a tale of two bankers". forbes. retrieved 29 march 2015.
+
+^ katharina bart (25 may 2015). "ubs seeks to offload australian wealth unit to management". reuters. retrieved 26 may 2015.
+
+^ irrera, anna (2 may 2016). "ubs to open blockchain research lab in london". wall street journal. retrieved 14 may 2018.
+
+^ kelly, jemima (24 august 2016). "ubs leads team of banks working on blockchain settlement system". reuters. retrieved 14 may 2018.
+
+^ plender, john (13 may 2014). "welcome to the new era of bank downsizing". financial times. retrieved 7 october 2018.
+
+^ winters, patrick (3 april 2018). "top ubs banker has 'very aggressive plan for u.s.'". www.bloomberg.com. retrieved 7 september 2018. fiat is like the bulge-bracket banks that are active on all the business segments, and they go for volume. ubs is like ferrari: we are much smaller and focused.
+
+^ lacqua, francine (24 january 2018). "ubs chairman says a 'massive' bitcoin correction is possible". bloomberg.com. retrieved 14 may 2018. we fear that in the future if these investments implode and the market corrects, then investors will be looking at 'who sold us this?'
+
+^ irrera, anna (4 october 2017). "commerzbank, other banks join ubs and ibm trade finance blockchain". reuters. retrieved 14 may 2018.
+
+^ "ubs 2009 annual report" (pdf). retrieved 21 march 2015.
+
+^ "board of directors". www.ubs.com. retrieved 20 january 2018.
+
+^ logutenkova, elena (1 july 2011). "axel weber to succeed ubs chairman villiger in 2013 after bundesbank role". bloomberg l.p. retrieved 21 march 2015.
+
+^ "axel weber to be nominated for election to ubs board of directors in 2012 and to be appointed chairman in 2013". ubs. 1 july 2011. retrieved 21 march 2015.
+
+^ "results of the annual general meeting of ubs ag" (press release). ubs. 7 may 2014. retrieved 21 march 2015.
+
+^ "group executive board". www.ubs.com. retrieved 31 january 2019.
+
+^ sue, chang. "ubs ceo gruebel resigns in wake of rogue trades". marketwatch. marketwatch. retrieved 21 march 2015.
+
+^ "ubs appoints new chief executive". archived from the original on 4 march 2009. retrieved 21 march 2015.
+
+^ "ubs hires credit suisse executive for efficiency drive". the new york times. 1 april 2009. retrieved 27 june 2018.
+
+^ "annual general meeting 2016". ubs.com. retrieved 10 may 2016.
+
+^ "ubs investment bankers fear for future as their star departs". financial times. 29 september 2018. retrieved 29 september 2018.
+
+^ "significant shareholders". global. retrieved 29 december 2017.
+
+^ "ubs annual report 2016". ubs. ubs.com. 10 march 2017. retrieved 29 may 2017.
+
+^ "significant shareholders". ubs.com. retrieved 29 december 2017.
+
+^ "shareholder distribution". ubs.com. retrieved 24 january 2018.
+
+^ a b c d e f schütz, dirk (2000). the fall of ubs: the forces that brought down switzerland's biggest bank. pyramid media group. isbn 9780944188200.
+
+^ a b juliette garside, "hsbc files: how a 1934 swiss law enshrined secrecy," the guardian (sunday 8 february 2015). retrieved 10 february 2015
+
+^ a b "swiss federal law on banks and savings banks" (pdf). kpmg. retrieved 16 october 2013.
+
+^ a b c mueller, kurt (1969). "the swiss banking secret: from a legal view". the international and comparative law quarterly. 18 (2): 361–362. doi:10.1093/iclqaj/18.2.360. jstor 757529.
+
+^ a b "financial secrecy index - 2018 results". www.financialsecrecyindex.com. 1 may 2018. retrieved 15 may 2018.
+
+^ "financial secrecy index - 2018 results". www.financialsecrecyindex.com. 1 may 2018. retrieved 15 may 2018.
+
+^ a b ely, bert. "financial regulation: the concise encyclopedia of economics | library of economics and liberty". www.econlib.org. retrieved 16 may 2018.
+
+^ a b hill, catey (23 july 2017). "these are the 10 biggest tax havens on the planet". marketwatch. retrieved 16 may 2018.
+
+^ a b c werdigier, lynnley browning and julia (29 may 2013). "switzerland to allow its banks to disclose hidden client accounts". dealbook. retrieved 18 may 2018.
+
+^ a b "identification rules for swiss banks: ubs" (pdf). 29 november 2011. archived from the original (pdf) on 28 september 2011. retrieved 16 may 2018.
+
+^ bundesgesetz über die banken und sparkassen (bankengesetz, bankg), swiss law:, article 47 (in german). accessed 21 march 2015.
+
+^ von romina lenzlinger aus los angeles und beat kraushaar (19 january 2012). "nach elf jahren hat christoph meili genug von den usa: "ich komme heim in die schweiz – für immer"". blick.ch. retrieved 29 march 2015.
+
+^ meier, barry (29 november 1998). "jewish groups fight for spoils of swiss case". nytimes.com. retrieved 29 march 2015.
+
+^ a b keefe, patrick radden (30 may 2016). "the great swiss bank heist". the new yorker. issn 0028-792x. retrieved 15 may 2018.
+
+^ kroft, steve (30 december 2009). "banking: a crack in the swiss vault". cbc news: 60 minutes. retrieved 16 may 2018. the subterranean vaults of geneva and zurich have served as sanctuaries for the wealth of dictators and despots, mobsters and arms dealers, corrupt officials and tax cheats of all kinds.
+
+^ a b c baker, stephanie (30 september 2016). "secret alpine gold vaults are the new swiss bank accounts". bloomberg.com. retrieved 18 may 2018.
+
+^ "the sinister face of 'neutrality' | frontline | pbs". www.pbs.org. 1996. retrieved 17 may 2018. before the second world war, with the rise of nazism, many jews in central and east europe sought to protect a part of their assets by depositing money in swiss accounts, and their valuables in swiss safe deposit boxes. to encourage such transfers, in 1934 the swiss even strengthened special banking secrecy laws which facilitated preservation of the anonymity of depositors.
+
+^ a b bloomberg, news (17 august 2013). "got gold? switzerland has an underground bunker just for you". the mercury news. retrieved 14 may 2018.
+
+^ evan, thomas (13 august 2009). "ubs: a swiss bank's shadowy operations". newsweek. retrieved 18 may 2018.
+
+^ "feds sue ubs for all american customer names". yahoo news. associated press. 19 february 2009. archived from the original on 22 february 2009. retrieved 20 february 2009.
+
+^ grimaldi, james v. (30 july 2015). "ubs deal shows clinton's complicated ties". the wall street journal. retrieved 21 march 2016.
+
+^ pfeifer, stuart (26 october 2009). "he put a dent in tax evasion". the los angeles times. retrieved 21 march 2015.
+
+^ "banking: a crack in the swiss vault". retrieved 31 january 2017.
+
+^ "statement on indictment of ubs executive". businesswire. 12 november 2008. retrieved 21 march 2015.
+
+^ a b crawford, david (8 november 2012). "germany probes ubs staff on tax-evasion allegations". wall street journal. retrieved 1 april 2015.
+
+^ wood, robert w. (4 june 2013). "french criminal tax probe of ubs — talk about déjà vu". forbes. retrieved 29 march 2015.
+
+^ godoy, julio (19 april 2012). "europe loses billions to tax evasion". inter press service news agency. retrieved 29 march 2015.
+
+^ franklin, angelika gruber, chine labbé, joshua. "european court rejects ubs appeal against bail in french tax case". retuers. reuters. retrieved 27 january 2017.cs1 maint: multiple names: authors list (link)
+
+^ benedetti-valentini, fabio and jeffrey voegeli (17 february 2015). "three ex-ubs officials said to face arrest in french tax probe". bloomberg. retrieved 29 march 2015.
+
+^ "ubs introduces new code of business conduct". swissinfo. 12 january 2010. retrieved 16 march 2016.
+
+^ bart, katharina (12 january 2010). "ubs lays out employee ethics code". the wall street journal. retrieved 29 march 2015.
+
+^ "wie die ubs ihre reputation schützen will". finews.ch. 8 february 2012. retrieved 16 march 2016.
+
+^ "reprisk". gisr.global initiative for sustainability ratings. retrieved 16 march 2016.
+
+^ jacquemart, charlotte (13 june 2010). "viele investoren wollen keine umwelt- und sozialrisiken mehr. bp und ubs zeigen, wie schnell es abwärtsgehen kann". neue zürcher zeitung. retrieved 16 march 2016.
+
+^ rizzi, elisabeth. "ubs hat im ausland ein gutes image". 20min.ch. retrieved 16 march 2016.
+
+^ adams, john (3 february 2012). "ubs taps big data to shrink reputational risk". american banker. retrieved 29 march 2015.
+
+^ "ubs named a 2006 working mother 100 best company by working mother magazine". 25 september 2006. retrieved 29 march 2015.
+
+^ a b "diversity champions members". stonewall. 10 august 2015. retrieved 29 december 2017.
+
+^ "2015 all-europe research team". institutional investor. 2 february 2010. retrieved 29 march 2015.
+
+^ "ubs tops thomson reuters extel survey for 10th year". hereisthecity.com. 16 june 2010. retrieved 29 march 2015.
+
+^ "global private banking awards 2013 – winners and highly commended". professional wealth management. 31 october 2013. retrieved 29 march 2015.
+
+^ "global private banking awards 2014 - winners and highly commended". professional wealth management. 29 october 2014. retrieved 29 march 2015.
+
+^ pwm. "global private banking awards 2016 - winners and highly commended". www.pwmnet.com. retrieved 9 january 2017.
+
+^ "awards for excellence 2014: best global bank". euromoney.com. retrieved 28 january 2018.
+
+^ "darum gilt die ubs als die beste bank der welt". finews.ch. 11 july 2014. retrieved 28 january 2018.
+
+^ "ubs wins best global bank and best bank in switzerland". euromoney.com. retrieved 28 january 2018.
+
+^ "euromoney: ubs erneut als beste globale privatbank ausgezeichnet". moneycab.com. retrieved 28 january 2018.
+
+^ "western europe's best bank for advisory 2017: ubs". euromoney.com. retrieved 28 january 2018.
+
+^ "results announced for 2017 dow jones sustainability indices review" (pdf). robecosam.com. retrieved 28 january 2018.
+
+^ "ubs ist zum dritten mal branchenleader im dow jones sustainability index". retrieved 28 january 2018.
+
+^ "industry group leader report 2018" (pdf). robecosam.com. retrieved 31 october 2018.
+
+^ "das chief investment office (cio) von ubs wealth management lanciert ein white paper "business with impact" zu neuen modellen unternehmerischer nachhaltigkeit". retrieved 28 january 2018.
+
+^ "25th annual world's best bank awards 2018" (pdf). gfmag.com. retrieved 28 january 2018.
+
+^ a b "world's best banks 2017.enhancing the customer experience". gfmag.com. retrieved 28 january 2018.
+
+^ "world's best private banks 2017". gfmag.com. retrieved 28 january 2018.
+
+^ "global winners: tacking into the wind". gfmag.com. retrieved 28 january 2018.
+
+^ vogel, carol (11 april 2012). "guggenheim and ubs project plan cross-cultural program". the new york times. issn 0362-4331. retrieved 3 february 2019.
+
+
+further reading[edit]
+schutz, dirk. the fall of the ubs: the reasons behind the decline of the union bank of switzerland, 1st ed. pyramid media group, 2000. isbn 978-1-57441-308-3.
+fox, guy. how the world really works: investment banking, guy fox publishing, 2009. isbn 978-1-90471-111-7.
+suter, martin. montecristo. roman. diogenes-verlag, zürich 2015. 320 s. isbn 978-3-257-06920-4.
+blum, georges. société de banque suisse – union de banques suisses. la vérité et le pourquoi de cette fusion. favre, lausanne 2015.  isbn 978-2-8289-1548-3 (french)
+temkin, ann. contemporary voices: works from the ubs art collection, museum of modern art; first paperback edition, 2005.  isbn 978-0-870-70087-3
+external links[edit]
+official website
+
+
+
+wikimedia commons has media related to ubs.
+
+vteubs aghistoricalpredecessorsunion bank of switzerland
+bank in winterthur
+toggenburger bank
+interhandel
+phillips & drew
+schröder, münchmeyer
+swiss bank corporation
+basler & zürcher bankverein
+basler handelsbank
+warburg dillon read
+s. g. warburg & co.
+dillon, read & co.
+brinson partners
+o'connor & associates
+paine webber, inc.
+paine & webber
+jackson & curtis
+blyth, eastman dillon & co.
+kidder, peabody & co.
+mitchell hutchins
+union securities
+other companies
+mcdonald & co.
+currentexecutivesand directors
+axel a. weber (chairman)
+sergio ermotti (ceo)
+tom naratil
+markus u. diethelm
+john a. fraser
+ulrich körner
+carsten kengeter
+alex wilmot-sitwell
+robert mccann
+chi-won yoon
+philip lofts
+jürg zeltner
+lukas gähwiler
+beatrice weder di mauro
+william g. parrett
+phil gramm
+formerexecutives
+gary p. brinson
+john costas
+john cryan
+blair effron
+oswald grübel
+marten hoekstra
+jerker johansson
+peter kurer
+ken moelis
+marcel ospel
+marcel rohner
+olivier sarkozy
+kaspar villiger
+robert wolf
+largest shareholders
+mfs investment management
+ubs
+norges bank
+wellington management company
+credit suisse
+
+vtebanks of switzerlandcentral
+swiss national bank
+commercial
+alternative bank schweiz
+credit suisse
+coop bank
+postfinance
+migros bank
+raiffeisen
+ubs
+cantonal
+aargauische kantonalbank (akb)
+appenzeller kantonalbank (appkb)
+banca dello stato del cantone ticino (bancastato)
+berner kantonalbank (bekb/bcbe)
+banque cantonale de fribourg (fkb)
+banque cantonale de genève (bcge)
+banque cantonale du jura (bcju)
+banque cantonale du valais (bwkb)
+banque cantonale neuchâteloise (bcn)
+banque cantonale vaudoise (bcv)
+basellandschaftliche kantonalbank (blkb)
+basler kantonalbank (bkb)
+glarner kantonalbank (glkb)
+graubündner kantonalbank (gkb)
+luzerner kantonalbank (lukb)
+nidwaldner kantonabank (nwkb)
+obwaldner kantonalbank (owkb)
+st.galler kantonalbank (sgkb)
+shaffauser kantonalbank (shkb)
+schwyzer kantonalbank (szkb)
+thurgauer kantonalbank (tkb)
+urner kantonalbank (urkb)
+zuger kantonalbank (zugerkb)
+zürcher kantonalbank (zkb)
+private
+banca unione di credito
+banque bonhôte
+berenberg bank
+efg international
+banque hottinger et cie
+hsbc private bank
+julius baer group
+union bancaire privée
+hinduja bank (switzerland) ltd
+defunct
+bsi ltd
+swiss bank corporation
+toggenburger bank
+
+vteinvestment banksbankdivisions of universal banksbulge bracket
+bank of america merrill lynch
+barclays
+citi institutional clients group
+credit suisse
+deutsche bank corporate and investment bank
+j.p. morgan & co. (j.p. morgan cazenove)
+ubs investment bank (ubs securities)
+other
+berenberg bank
+bmo capital markets
+boc international
+bnp paribas corporate & institutional banking
+brown shipley
+cibc world markets
+citic securities (clsa)
+crédit agricole corporate and investment bank
+daiwa securities capital markets
+everbank world markets
+harris williams & co.
+hsbc global banking and markets
+ing commercial banking
+is investment
+kbc bank
+korea development bank (daewoo securities)
+lloyds bank corporate markets
+mitsubishi ufj securities
+mizuho corporate bank
+natixis
+nomura securities
+rbc capital markets
+rbs markets & international banking
+sberbank cib
+société générale corporate & investment bank
+standard chartered
+td securities
+unicredit corporate & investment banking
+vtb capital
+wells fargo securities
+independentsbulge bracket
+goldman sachs
+morgan stanley
+other
+allen & company
+blackstone group
+brewin dolphin
+btg pactual
+centerview partners
+china international capital corporation
+close brothers group
+china everbright group
+china everbright limited
+everbright securities
+evercore partners
+fbr capital markets
+galaxy
+greenhill & co.
+guosen securities
+guotai junan
+haitong securities
+houlihan lokey
+investec
+jefferies
+keefe, bruyette & woods
+lazard
+lincoln international
+macquarie group
+mediobanca
+moelis & company
+n m rothschild & sons
+oppenheimer & co.
+pacific securities
+perella weinberg partners
+piper jaffray
+raymond james financial
+renaissance capital
+roth capital partners
+salam investment ltd.
+sandler o'neill and partners
+stephens inc.
+stifel nicolaus
+stone key partners
+william blair & company
+
+ category
+ list
+
+vte swiss market index companies of switzerland
+abb
+actelion
+adecco
+credit suisse
+geberit
+givaudan
+julius bär
+lafargeholcim
+nestlé
+novartis
+richemont
+roche
+sgs
+swatch group
+swiss life
+swiss re
+swisscom
+syngenta
+ubs
+zurich insurance group
+
+vte selected members of the euro banking associationaustria
+allgemeine sparkasse oberosterreich
+bank für tirol und vorarlberg ag
+bks bank ag
+erste group bank ag
+oberbank ag
+oesterreichische nationalbank
+raiffeisen bank international ag
+raiffeisenlandesbank oberösterreich ag
+raiffeisen-landesbank tirol ag
+steiermärkische bank und sparkassen ag
+belgium
+dexia bank nv
+kbc bank nv
+bank van de post
+cyprus
+bank of cyprus
+hellenic bank
+denmark
+amagerbanken a/s
+arbejdernes landsbank a/s
+danske andelskassers bank a/s
+danske bank a/s
+diba bank a/s
+djurslands bank a/s
+jyske bank a/s
+nordjyske bank a/s
+nørresundby bank
+østjydsk bank a/s
+ringkøbing landbobank
+skjern bank
+spar nord bank
+sparekassen sjælland
+sydbank a/s
+vestfyns bank a/s
+vestjysk bank
+finland
+aktia bank plc
+bank of åland plc
+pohjola bank plc
+s-bank ltd.
+tapiola bank ltd
+france
+banque michel inchauspé - bami
+banque palatine
+bnp paribas sa
+bpce
+bred banque populaire
+crédit agricole sa
+crédit coopératif
+crédit du nord
+crédit mutuel arkéa
+credit mutuel cic banque
+hsbc france
+la banque postale
+natixis
+société générale
+germany
+berenberg bank
+bhf bank
+bremer landesbank
+commerzbank ag
+deutsche bank ag
+deutsche bundesbank
+deutsche postbank
+dz bank ag
+europe arab bank frankfurt
+hamburger sparkasse ag
+j.p. morgan chase bank ag
+landesbank baden-württemberg
+landesbank berlin holding
+landesbank hessen-thüringen
+oldenburgische landesbank
+secb swiss euro clearing bank gmbh
+the bank of new york mellon, frankfurt branch
+vtb bank (deutschland) ag
+greece
+alpha bank sa
+eurobank ergasias sa
+national bank of greece sa
+piraeus bank sa
+hungary
+budapest bank
+cib bank
+erste bank
+fhb mortgage bank
+hanwha bank
+hungarian development bank
+hungarian national bank
+k&h bank
+magnet bank
+mkb bank
+otp bank
+raiffeisen bank
+sberbank europe group
+takarékbank
+unicredit
+ireland
+allied irish banks
+bank of ireland
+italy
+banca del fucino
+banca monte dei paschi di siena
+banca nazionale del lavoro
+banca popolare del lazio
+banca popolare di sondrio
+banca sella
+banco bpm
+bper banca
+cassa di risparmio di fermo
+cassa di risparmio di ravenna
+banca di imola
+credito emiliano
+credito valtellinese
+iccrea banca
+intesa sanpaolo
+nexi
+raiffeisen landesbank südtirol
+ubi banca
+unicredit
+luxembourg
+banque et caisse d'épargne de l'état
+banque raiffeisen
+banque internationale à luxembourg sa
+kbl european private bankers
+société générale bank & trust
+netherlands
+abn amro bank nv
+de nederlandsche bank
+ing bank nv
+rabobank nederland
+poland
+bank bph sa
+narodowy bank polski
+portugal
+banco bpi sa
+banco comercial português
+crédito agrícola
+caixa geral de depósitos
+novo banco
+slovenia
+banka slovenije
+spain
+banco bilbao vizcaya argentaria, s.a.
+banco popular español, s.a.
+banco sabadell, s.a.
+bankinter, s.a.
+banco santander, s.a.
+caixabank, s.a. (la caixa)
+catalunya banc, s.a. (catalunyacaixa)
+kutxabank, s.a.
+abanca corporación bancaria, s.a. (abanca)
+caja laboral popular, cooperativa de crédito (caja laboral)
+banco cooperativo español, s.a. (caja rural)
+cecabank, s.a.
+sweden
+skandinaviska enskilda banken
+svenska handelsbanken
+swedbank ab
+nordea bank ab
+united kingdom
+bank of tokyo-mitsubishi ufj ltd.
+barclays bank plc
+citibank na
+dnb bank (nor)
+hsbc bank plc
+jpmorgan chase bank, n.a., london branch
+kookmin bank international ltd.
+lloyds bank plc
+mashreqbank psc (uae)
+royal bank of scotland plc
+ubs ag
+wells fargo bank na
+non-eu
+bank of china (chn)
+
+vtegreat recessionby region
+africa
+americas
+united states
+south america
+asia
+europe
+oceania
+united states-specific
+automotive industry crisis
+california budget crisis
+housing bubble
+housing market correction
+subprime mortgage crisis
+banking losses and fraud
+anglo irish bank hidden loans controversy
+libor scandal
+tom hayes
+société générale trading loss
+forex scandal
+seán fitzpatrick
+bernard madoff
+tom petters
+scott w. rothstein
+allen stanford
+government entities
+consumer financial protection bureau
+federal deposit insurance corporation
+federal home loan banks
+federal housing administration
+federal housing finance agency
+federal housing finance board
+federal reserve system
+government national mortgage association
+irish bank resolution corporation
+national asset management agency
+office of federal housing enterprise oversight
+office of financial stability
+uk financial investments
+government policy and spending responsesbanking and finance stability and reform
+anglo irish bank corporation act 2009
+banking (special provisions) act 2008
+china–japan–south korea trilateral summit
+commercial paper funding facility
+dodd–frank wall street reform and consumer protection act
+emergency economic stabilization act of 2008
+irish emergency budget, 2009
+irish budget, 2010
+irish budget, 2011
+irish budget, 2012
+irish budget, 2013
+temporary liquidity guarantee program
+term asset-backed securities loan facility
+troubled asset relief program
+2008 united kingdom bank rescue package
+bank stress tests
+eu
+u.s.
+
+stimulus and recovery
+2008 european union stimulus plan
+2008–09 keynesian resurgence
+american recovery and reinvestment act of 2009
+chinese economic stimulus program
+economic stimulus act of 2008
+fraud enforcement and recovery act of 2009
+green new deal
+housing and economic recovery act of 2008
+national fiscal policy response to the great recession
+zero interest-rate policy
+government interventions, rescues, and acquisitions
+list of banks acquired or bankrupted during the great recession
+non-banking
+chrysler
+general motors
+
+securities involved  and financial markets
+auction rate securities
+collateralized debt obligations
+collateralized mortgage obligations
+credit default swaps
+mortgage-backed securities
+secondary mortgage market
+social responses
+tea party protests (united states; c. 2009)
+may day protests (europe, middle east and north africa, asia; 2009)
+occupy movement (worldwide)
+related topics
+2000s energy crisis
+central asia: 2008
+effects on museums
+decline of newspapers
+world food price crisis
+
+european debt crisis
+financial crisis of 2007–08
+list of countries by public debt
+
+companies portalswitzerland portal
+
+
+authority control 
+gnd: 10002382-4
+hds: 45643
+isni: 0000 0001 2369 308x
+lccn: no99065828
+nkc: ko2006359032
+selibr: 128131
+viaf: 122312097
+ worldcat identities (via viaf): 122312097
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=ubs&oldid=884010541"					
+categories: banks of switzerlandcompanies established in 1862companies formerly listed on the tokyo stock exchangecompanies listed on the new york stock exchangecompanies listed on the six swiss exchangeinvestment bankssystemically important financial institutionsinvestment management companies of switzerlandmultinational companies headquartered in switzerlandswiss brandsubswarburg family1862 establishments in switzerlandcompanies based in zürichcompanies based in baselcompanies based in stamford, connecticutcompanies formed by mergersubprime mortgage crisisfinancial services companiesprivate equity firmsprimary dealershidden categories: webarchive template wayback linkscs1 maint: multiple names: authors listuse dmy dates from february 2019pages using deprecated image syntaxofficial website different in wikidata and wikipediacommons category link is on wikidatagood articleswikipedia articles with gnd identifierswikipedia articles with hds identifierswikipedia articles with isni identifierswikipedia articles with lccn identifierswikipedia articles with nkc identifierswikipedia articles with selibr identifierswikipedia articles with viaf identifierswikipedia articles with worldcat-viaf identifiers 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+alemannischتۆرکجهbân-lâm-gúбългарскиčeštinadeutscheestiespañolفارسیfrançais한국어हिन्दीhrvatskibahasa indonesiaitalianoқазақшаlietuviųbahasa melayunederlandsनेपाली日本語norskpolskiportuguêsromânărumantschрусскийshqipsicilianusimple englishslovenščinasuomisvenskaதமிழ்తెలుగుtürkçeукраїнська吴语粵語žemaitėška中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 18 february 2019, at 23:56 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"2.376","walltime":"2.703","ppvisitednodes":{"value":12253,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":549156,"limit":2097152},"templateargumentsize":{"value":9409,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":14,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":638044,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00% 2076.278      1 -total"," 58.31% 1210.709      1 template:reflist"," 23.94%  497.043     98 template:cite_news"," 20.42%  423.875     85 template:cite_web","  9.70%  201.406     14 template:clade","  7.04%  146.193      1 template:infobox_company","  6.34%  131.680      1 template:infobox","  3.73%   77.384     12 template:navbox","  3.29%   68.381      1 template:commons_category","  2.58%   53.477      7 template:cite_book"]},"scribunto":{"limitreport-timeusage":{"value":"1.181","limit":"10.000"},"limitreport-memusage":{"value":11906294,"limit":52428800}},"cachereport":{"origin":"mw1280","timestamp":"20190218235634","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"ubs","url":"https:\/\/en.wikipedia.org\/wiki\/ubs","sameas":"http:\/\/www.wikidata.org\/entity\/q193199","mainentity":"http:\/\/www.wikidata.org\/entity\/q193199","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2004-05-22t22:13:06z","datemodified":"2019-02-18t23:56:36z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/7c\/eingang_ubs_paradeplatz.jpg","headline":"swiss bank"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":138,"wghostname":"mw1274"});});
+
+

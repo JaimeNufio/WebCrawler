@@ -1,0 +1,1895 @@
+
+
+
+
+regions of italy - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"regions_of_italy","wgtitle":"regions of italy","wgcurrevisionid":882837877,"wgrevisionid":882837877,"wgarticleid":221250,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["pages using timeline","webarchive template wayback links","all articles with unsourced statements","articles with unsourced statements from august 2015","pages with maps","regions of italy","subdivisions of italy","ranked lists of country subdivisions","lists of subdivisions of italy","country subdivisions in europe","first-level administrative country subdivisions","italy-related lists"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"regions_of_italy","wgrelevantarticleid":221250,"wgrequestid":"xgwzrwpaicwaackycfyaaaci","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgkartographerlivedata":{"_134fd09cc8061c0a9a5051f5413685f5c66e183e":[{"type":"externaldata","service":"geoshape","url":"https://maps.wikimedia.org/geoshape?getgeojson=1\u0026query=++select+%3fid+%3fpopulation+++%28+%27%23c12838%27+as+%3ffill%29++++%28concat%28%27population%3a+%27%2c+str%28%3fpopulation%29%29+as+%3fdescription%29+++%28concat%28%27%5b%5b%27%2c+substr%28str%28%3flink%29%2c31%2c500%29%2c++%27%7c%27%2c+%3fstatelabel%2c+%27%5d%5d%27%29+as+%3ftitle%29+where+%7b+++++%7b%3fid+wdt%3ap31+wd%3aq1710033.%7d++++union+++%7b%3fid+wdt%3ap31+wd%3aq16110.+%7d+++optional+%7b+%3fid+wdt%3ap1082+%3fpopulation.+%7d+++service+wikibase%3alabel+%7b+++++bd%3aserviceparam+wikibase%3alanguage+%27en%27+.+++++%3fid+rdfs%3alabel+%3fstatelabel+.+++%7d+++%3flink+schema%3aabout+%3fid.+++%3flink+schema%3aispartof+%3chttps%3a%2f%2fen.wikipedia.org%2f%3e+.+%7d+group+by+%3fid+%3flink+%3fstatelabel+%3fpopulation++"}]},"wgwikibaseitemid":"q16110","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.kartographer.style":"ready","ext.cite.styles":"ready","ext.timeline.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.kartographer.staticframe","ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+regions of italy 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+
+the regions of italy (italian: regioni) are the first-level administrative divisions of italy, constituting its second nuts administrative level.[1]  there are 20 regions, of which five are constitutionally given a broader amount of autonomy granted by special statutes.
+each region, with the exception of the aosta valley, is in turn divided into a number of provinces. regions are autonomous entities with powers defined in the constitution.
+
+contents
+
+1 history
+
+1.1 regional control
+
+
+2 regions
+3 macroregions
+4 status
+
+4.1 regions with ordinary statute
+4.2 autonomous regions with special statute
+
+
+5 institutions
+6 representation in the senate
+7 economy of regions and macroregions
+8 see also
+
+8.1 other administrative divisions
+
+
+9 references
+10 external links
+
+
+history[edit]
+as the administrative districts of the central state during the kingdom of italy, regions were granted a measure of political autonomy by the 1948 constitution of the italian republic. the original draft list comprised the salento region (which was eventually included in the apulia). friuli and venezia giulia were separate regions, and basilicata was named lucania. abruzzo and molise were identified as separate regions in the first draft. they were later merged into abruzzo e molise in the final constitution of 1948. they were separated in 1963.
+implementation of regional autonomy was postponed until the first regional elections of 1970. the ruling christian democracy party did not want the opposition italian communist party to gain power in the regions, where it was historically rooted (the red belt of emilia-romagna, tuscany, umbria and the marches).
+regions acquired a significant level of autonomy following a constitutional reform in 2001 (brought about by a centre-left government and confirmed by popular referendum), which granted them residual policy competence. a further federalist reform was proposed by the regionalist party lega nord and in 2005, the centre-right government led by silvio berlusconi proposed a new reform that would have greatly increased the power of regions.[2]
+in june 2006 the proposals, which had been particularly associated with lega nord, and seen by some as leading the way to a federal state, were rejected in a referendum by 61.7% to 38.3%.[2] the results varied considerably among the regions, ranging from 55.3% in favor in veneto to 82% against in calabria.[2]
+
+regional control[edit]
+ regions colored by the winning coalition (as of february 2019)
+number of regions controlled by each coalition since 1995:
+
+  center-left  center-right  others
+
+regions[edit]
+
+
+flag
+
+regionitalian name (if different)
+
+status
+
+population[3]january 2016
+
+area
+
+pop. density
+
+hdi[4]
+
+capital
+
+president
+
+number of comuni[5]
+
+prov. ormetrop. cities
+
+
+number
+
+%
+
+km²
+
+%
+
+
+
+
+abruzzo
+
+ordinary
+
+1,315,196
+
+2.17%
+
+10,832
+
+3.59%
+
+121
+
+0.890
+
+l'aquila
+
+
+
+marco marsiliobrothers of italy
+
+305
+
+4
+
+
+
+
+aosta valleyvalle d'aosta
+
+autonomous
+
+126,202
+
+0.21%
+
+3,261
+
+1.08%
+
+39
+
+0.878
+
+aosta
+
+
+
+antonio fossonfor our valley
+
+74
+
+1
+
+
+
+
+apuliapuglia
+
+ordinary
+
+4,048,242
+
+6.69%
+
+19,541
+
+6.48%
+
+207
+
+0.852
+
+bari
+
+
+
+michele emilianodemocratic party
+
+258
+
+6
+
+
+
+
+basilicata
+
+ordinary
+
+567,118
+
+0.94%
+
+10,073
+
+3.34%
+
+56
+
+0.857
+
+potenza
+
+
+
+marcello pittellademocratic party
+
+131
+
+2
+
+
+
+
+calabria
+
+ordinary
+
+1,956,687
+
+3.24%
+
+15,222
+
+5.04%
+
+129
+
+0.850
+
+catanzaro
+
+
+
+mario oliveriodemocratic party
+
+404
+
+5
+
+
+
+
+campania
+
+ordinary
+
+5,826,860
+
+9.63%
+
+13,671
+
+4.53%
+
+426
+
+0.847
+
+naples
+
+
+
+vincenzo de lucademocratic party
+
+550
+
+5
+
+
+
+
+emilia-romagna
+
+ordinary
+
+4,452,629
+
+7.36%
+
+22,453
+
+7.44%
+
+198
+
+0.915
+
+bologna
+
+
+
+stefano bonaccinidemocratic party
+
+328
+
+9
+
+
+
+
+friuli-venezia giulia
+
+autonomous
+
+1,215,538
+
+2.01%
+
+7,924
+
+2.63%
+
+153
+
+0.898
+
+trieste
+
+
+
+massimiliano fedrigalega nord
+
+215
+
+4
+
+
+
+
+lazio
+
+ordinary
+
+5,896,693
+
+9.75%
+
+17,232
+
+5.71%
+
+342
+
+0.909
+
+rome
+
+
+
+nicola zingarettidemocratic party
+
+378
+
+5
+
+
+
+
+liguria
+
+ordinary
+
+1,556,981
+
+2.57%
+
+5,416
+
+1.79%
+
+287
+
+0.896
+
+genoa
+
+
+
+giovanni totiforza italia
+
+234
+
+4
+
+
+
+
+lombardylombardia
+
+ordinary
+
+10,036,258
+
+16.59%
+
+23,864
+
+7.91%
+
+421
+
+0.907
+
+milan
+
+
+
+attilio fontanalega nord
+
+1,509
+
+12
+
+
+
+
+marche
+
+ordinary
+
+1,531,753
+
+2.53%
+
+9,401
+
+3.12%
+
+163
+
+0.896
+
+ancona
+
+
+
+luca cerisciolidemocratic party
+
+228
+
+5
+
+
+
+
+molise
+
+ordinary
+
+308,493
+
+0.51%
+
+4,461
+
+1.48%
+
+69
+
+0.867
+
+campobasso
+
+
+
+donato tomaforza italia
+
+136
+
+2
+
+
+
+
+piedmontpiemonte
+
+ordinary
+
+4,375,865
+
+7.23%
+
+25,387
+
+8.41%
+
+172
+
+0.892
+
+turin
+
+
+
+sergio chiamparinodemocratic party
+
+1,182
+
+8
+
+
+
+
+sardiniasardegna
+
+autonomous
+
+1,648,176
+
+2.72%
+
+24,100
+
+7.99%
+
+68
+
+0.863
+
+cagliari
+
+
+
+francesco pigliarudemocratic party
+
+377
+
+5
+
+
+
+
+sicilysicilia
+
+autonomous
+
+5,026,989
+
+8.31%
+
+25,832
+
+8.56%
+
+195
+
+0.845
+
+palermo
+
+
+
+nello musumecidiventerà bellissima
+
+390
+
+9
+
+
+
+
+trentino-south tyroltrentino-alto adige
+
+autonomous
+
+1,067,648
+
+1.77%
+
+13,606
+
+4.51%
+
+78
+
+0.919
+
+trento
+
+
+
+arno kompatschersouth tyrolean people's party
+
+291
+
+2
+
+
+
+
+tuscanytoscana
+
+ordinary
+
+3,736,968
+
+6.18%
+
+22,987
+
+7.62%
+
+163
+
+0.903
+
+florence
+
+
+
+enrico rossiarticle 1 – mdp
+
+273
+
+10
+
+
+
+
+umbria
+
+ordinary
+
+884,640
+
+1.46%
+
+8,464
+
+2.81%
+
+105
+
+0.889
+
+perugia
+
+
+
+catiuscia marinidemocratic party
+
+92
+
+2
+
+
+
+
+veneto
+
+ordinary
+
+4,905,037
+
+8.11%
+
+18,020
+
+5.97%
+
+272
+
+0.896
+
+venice
+
+
+
+luca zaialega nord
+
+571
+
+7
+
+
+
+
+italyitalia
+
+—
+
+60,483,973
+
+100.00%
+
+301,747
+
+100.00%
+
+200
+
+0.887
+
+rome
+
+
+
+sergio mattarellaindependent
+
+7,926
+
+107
+
+
+macroregions[edit]
+macroregions are the first-level nuts of the european union.(it)
+
+
+
+map
+
+macroregionitalian name
+
+regions
+
+major city
+
+populationjanuary 2016
+
+area (km²)
+
+pop. density
+
+
+number
+
+%
+
+km²
+
+%
+
+
+
+
+north-westnord-ovest
+
+aosta valleyligurialombardypiedmont
+
+milan
+
+16,095,306
+
+26.56%
+
+57,928
+
+19.18%
+
+278
+
+
+
+
+north-eastnord-est
+
+emilia-romagnafriuli-venezia giuliatrentino-south tyrolveneto
+
+bologna
+
+11,640,852
+
+19.19%
+
+62,003
+
+20.63%
+
+187
+
+
+
+
+centrecentro
+
+laziomarchetuscanyumbria
+
+rome
+
+12,050,803
+
+19.89%
+
+58,085
+
+19.23%
+
+208
+
+
+
+
+southsud
+
+abruzzoapuliabasilicatacalabriacampaniamolise
+
+naples
+
+14,022,596
+
+23.26%
+
+73,800
+
+24.43%
+
+191
+
+
+
+
+islandsisole or insulare (adj)
+
+sardiniasicily
+
+palermo
+
+6,675,165
+
+11.10%
+
+49,932
+
+16.53%
+
+135
+
+
+status[edit]
+every region has a statute that serves as a regional constitution, determining the form of government and the fundamental principles of the organization and the functioning of the region, as prescribed by the constitution of italy (article 123). although all the regions except tuscany define themselves in various ways as an "autonomous region" in the first article of their statutes,[6] fifteen regions have ordinary statutes and five have special statutes, granting them extended autonomy.
+
+regions with ordinary statute[edit]
+these regions, whose statutes are approved by their regional councils, were created in 1970, even though the italian constitution dates back to 1948. since the constitutional reform of 2001 they have had residual legislative powers. the regions have exclusive legislative power with respect to any matters not expressly reserved to state law (article 117).[7] yet their financial autonomy is quite modest: they just keep 20% of all levied taxes, mostly used to finance the region-based healthcare system.[8]
+
+autonomous regions with special statute[edit]
+ autonomous regions
+article 116 of the italian constitution grants to five regions (namely sardinia, sicily, trentino-alto adige/südtirol, aosta valley and friuli-venezia giulia) home rule, allowing them some legislative, administrative and financial power to a varying extent, depending on their specific statute. these regions became autonomous in order to take into account cultural differences and protect linguistic minorities. moreover, the government wanted to prevent their secession from italy after the second world war.[9]
+trentino-alto adige/südtirol constitutes a special case. the region is nearly powerless, and the powers granted by the region's statute are mostly exercised by the two autonomous provinces within the region, trentino and south tyrol. in this case, the regional institution plays a coordinating role.[citation needed]
+
+institutions[edit]
+each region has an elected parliament, called consiglio regionale (regional council), or assemblea regionale (regional assembly) in sicily, and a government called giunta regionale (regional committee), headed by a governor called presidente della giunta regionale (president of the regional committee) or presidente della regione (regional president). the latter is directly elected by the citizens of each region, with the exceptions of aosta valley and trentino-alto adige/südtirol, where he is chosen by the regional council.
+under the 1995 electoral law, the winning coalition receives an absolute majority of seats on the council. the president chairs the giunta, and nominates or dismisses its members, called assessori. if the directly elected president resigns, new elections are called immediately.
+in trentino-alto adige/südtirol, the regional council is made up of the joint session of the two provincial councils of trentino and of south tyrol, and the regional governor is one of the two provincial commissioners.
+
+representation in the senate[edit]
+ number of senators currently assigned to each region.
+article 57 of the constitution of italy establishes that the senate of the italian republic is elected on a regional basis (excluding 6 senators elected by italians residing abroad and a small number of senators for life) by italian citizens aged 25 or older.
+the 309 senators are assigned to each region proportionally according to their population. however, article 57 of the constitution provides that no region can have fewer than seven senators representing it, except for the aosta valley (which has one) and molise (which has two).
+
+
+
+region
+
+seats[10]
+
+region
+
+seats
+
+region
+
+seats
+
+
+ abruzzo
+
+7
+
+ friuli-venezia giulia
+
+7
+
+ sardinia
+
+8
+
+
+ aosta valley
+
+1
+
+ lazio
+
+28
+
+ sicily
+
+25
+
+
+ apulia
+
+20
+
+ liguria
+
+8
+
+ trentino-alto adige/südtirol
+
+7
+
+
+ basilicata
+
+7
+
+ lombardy
+
+49
+
+ tuscany
+
+18
+
+
+ calabria
+
+10
+
+ marche
+
+8
+
+ umbria
+
+7
+
+
+ campania
+
+29
+
+ molise
+
+2
+
+ veneto
+
+24
+
+
+ emilia-romagna
+
+22
+
+ piedmont
+
+22
+
+overseas constituencies
+
+6
+
+economy of regions and macroregions[edit]
+
+
+flag
+
+name
+
+gdp 2011 million, eur[11]
+
+gdp 2011 per capita 2011, eur[11]
+
+gdp 2011 million pps, eur[11]
+
+gdp 2011 per capita 2011 pps, eur[11]
+
+
+
+
+abruzzo
+
+30,073
+
+22,400
+
+29,438
+
+21,900
+
+
+
+
+aosta valley
+
+4,328
+
+33,700
+
+4,236
+
+33,000
+
+
+
+
+apulia
+
+69,974
+
+17,100
+
+68,496
+
+16,700
+
+
+
+
+basilicata
+
+10,744
+
+18,300
+
+10,517
+
+17,900
+
+
+
+
+calabria
+
+33,055
+
+16,400
+
+32,357
+
+16,100
+
+
+
+
+campania
+
+93,635
+
+16,000
+
+91,658
+
+15,700
+
+
+
+
+emilia-romagna
+
+142,609
+
+32,100
+
+139,597
+
+31,400
+
+
+
+
+friuli-venezia giulia
+
+36,628
+
+29,600
+
+35,855
+
+29,000
+
+
+
+
+lazio
+
+172,246
+
+29,900
+
+168,609
+
+29,300
+
+
+
+
+liguria
+
+43,998
+
+27,200
+
+43,069
+
+26,700
+
+
+
+
+lombardy
+
+337,161
+
+33,900
+
+330,042
+
+33,200
+
+
+
+
+marches
+
+40,877
+
+26,100
+
+40,014
+
+25,500
+
+
+
+
+molise
+
+6,414
+
+20,100
+
+6,278
+
+19,700
+
+
+
+
+piedmont
+
+125,997
+
+28,200
+
+123,336
+
+27,600
+
+
+
+
+sardinia
+
+33,075
+
+19,700
+
+32,377
+
+19,300
+
+
+
+
+sicily
+
+83,956
+
+16,600
+
+82,183
+
+16,300
+
+
+
+
+trentino-alto adige
+
+35,797
+
+34,450
+
+35,041
+
+33,700
+
+
+
+
+tuscany
+
+106,013
+
+28,200
+
+103,775
+
+27,600
+
+
+
+
+umbria
+
+21,533
+
+23,700
+
+21,078
+
+23,200
+
+
+
+
+veneto
+
+149,527
+
+30,200
+
+146,369
+
+29,600
+
+
+
+
+code
+
+name
+
+gdp 2011 million, eur[11]
+
+gdp 2011 per capita 2011, eur[11]
+
+gdp 2011 million pps, eur[11]
+
+gdp 2011 per capita 2011 pps, eur[11]
+
+
+ite
+
+centre
+
+340,669
+
+28,400
+
+333,475
+
+27,800
+
+
+itd
+
+north-east
+
+364,560
+
+31,200
+
+356,862
+
+30,600
+
+
+itc
+
+north-west
+
+511,484
+
+31,700
+
+500,683
+
+31,000
+
+
+itg
+
+islands
+
+117,031
+
+17,400
+
+114,560
+
+17,000
+
+
+itf
+
+south
+
+243,895
+
+17,200
+
+238,744
+
+16,800
+
+
+-
+
+extra-regio
+
+2,771
+
+-
+
+2,712
+
+-
+
+
+the extra-regio territory is made up of parts of the economic territory of a country which cannot be assigned to a single region. it consists of the national air-space, territorial waters and the continental shelf lying in international waters over which the country enjoys exclusive rights, territorial exclaves, deposits of oil, natural gas etc. worked by resident units. until 2011, the gross value added (gva) produced in the extra-regio was allocated pro-rata to the inhabited regions of the country concerned. the order of magnitude of the extra-regio gva depends in particular on the resource endowment in terms of natural gas and oil. in 2011, member states and the european commission agreed to give countries the possibility to calculate regional gdp also for the extra-regio. the resulting gdp is available only in absolute values, because the extra-regio territory by definition does not have a resident population.
+
+see also[edit]
+italian nuts level 1 regions
+regional council (italy)
+presidents of regions of italy
+list of italian regions by human development index
+flags of regions of italy
+iso 3166-2:it
+other administrative divisions[edit]
+provinces of italy
+municipalities of italy
+references[edit]
+
+
+^ "national structures". eurostat. archived from the original on 13 july 2014. retrieved 6 december 2011..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ a b c "speciale referendum 2006". la repubblica. 26 june 2006. retrieved 6 december 2011.
+
+^ "population italian regions". tuttitalia.it.
+
+^ "sub-national hdi - area database - global data lab". hdi.globaldatalab.org.
+
+^ "italian comuni". tuttitalia.it.
+
+^ pinto, luciano torrente-paolo strazzullo-roberto. "statuti regionali - casa editrice: edizioni simone". www.simone.it.
+
+^ ll.m., prof. dr. axel tschentscher,. "icl - italy - constitution". servat.unibe.ch.
+
+^ report rai - le regioni a statuto speciale (italian), retrieved 21st jan 2009 [1] archived 2009-03-22 at the wayback machine, [2]
+
+^ hiroko kudo, “autonomy and managerial innovation in italian regions after constitutional reform”, chuo university, faculty of law and graduate school of public policy (2008): p. 1. retrieved on april 6, 2012 from http://www.med-eu.org/proceedings/med1/kudo.pdf archived 2015-11-17 at the wayback machine.
+
+^ "senato.it - xvii legislatura - senatori eletti nella regione piemonte". www.senato.it.
+
+^ a b c d e f g h "gdp per capita in the eu in 2011" (pdf). archived from the original (pdf) on 2014-03-07.
+
+
+external links[edit]
+
+
+
+wikimedia commons has media related to regions of italy.
+citymayors article
+regional governments of italy on italia.gov.it
+regional governments of italy on governo.it
+vte regions of italycentral
+ lazio
+ marche
+ tuscany
+ umbria
+northeast
+ emilia-romagna
+ friuli-venezia giulia1
+ trentino-alto adige/südtirol1
+ veneto
+northwest
+ aosta valley1
+ liguria
+ lombardy
+ piedmont
+south
+ abruzzo
+ apulia
+ basilicata
+ calabria
+ campania
+ molise
+insular
+ sardinia1
+ sicily1
+1 special statutes
+vteregions of europe sovereign states
+albania
+andorra
+armenia
+austria
+azerbaijan
+belarus
+belgium
+bosnia and herzegovina
+bulgaria
+croatia
+cyprus
+czech republic
+denmark
+estonia
+finland
+france
+georgia
+germany
+greece
+hungary
+iceland
+ireland
+
+italy
+kazakhstan
+latvia
+liechtenstein
+lithuania
+luxembourg
+macedonia
+malta
+moldova
+monaco
+montenegro
+netherlands
+norway
+poland
+portugal
+romania
+russia
+san marino
+serbia
+slovakia
+slovenia
+spain
+sweden
+switzerland
+turkey
+ukraine
+united kingdom
+states with limitedrecognition
+abkhazia
+artsakh
+northern cyprus
+south ossetia
+transnistria
+dependencies andother entities
+åland
+faroe islands
+gibraltar
+guernsey
+isle of man
+jersey
+svalbard
+
+vteitaly articleshistorychronology
+prehistory
+italic peoples
+ancient peoples of italy
+pre-nuragic sardinia
+nuragic peoples
+etruscan civilization
+nuragic civilization
+phoenician/carthaginian colonies
+magna graecia
+ancient rome
+kingdom
+republic
+empire
+middle ages
+italy under odoacer
+ostrogoths
+byzantium
+lombards
+the holy roman empire
+the sardinian judicates
+arabs
+normans
+guelphs and ghibellines
+the italian city-states
+the maritime republics
+renaissance
+italian wars
+early modern period
+unification
+revolutions of 1820
+revolutions of 1830
+revolutions of 1848
+sicilian revolution of 1848
+first war of independence
+crimean war
+second war of independence
+expedition of the thousand
+third war of independence
+capture of rome
+monarchy and the world wars
+kingdom of italy
+colonial empire
+world war i
+fascist italy
+world war ii
+resistance
+civil war
+republic
+economic boom
+years of lead
+years of mud
+mani pulite
+by topic
+citizenship
+currency
+economy
+fashion
+flags
+genetic
+historic states
+military
+music
+postal
+railways
+geography
+peninsula
+northern
+northwest
+northeast
+central
+southern
+south
+insular
+climate
+fauna
+flora
+mountains
+prealps
+alps
+apennines
+volcanology
+volcanoes
+beaches
+canals
+caves
+earthquakes
+islands
+lakes
+national parks
+rivers
+valleys
+politics
+constitution
+elections
+referendums
+foreign relations
+missions
+judiciary
+law enforcement
+military
+parliament
+chamber of deputies
+senate
+political parties
+president
+prime minister
+council of ministers
+regions
+provinces
+metropolitan cities
+comune
+municipalities
+cities
+economy
+economic history
+milan
+naples
+rome
+turin
+regions by gdp
+automotive industry
+banking
+central bank
+companies
+energy
+government debt
+science and technology
+stock exchange
+taxation
+telecommunications
+internet
+tourism
+trade unions
+transportation
+welfare
+society
+abortion
+adoption
+billionaires
+capital punishment
+corruption
+crime
+demographics
+education
+secondary
+higher
+universities
+emigration
+fathers' rights movement
+feminism
+gambling
+health
+healthcare
+immigration
+lgbt rights
+nobility
+prostitution
+racism
+religion
+smoking
+social class
+terrorism
+women
+culture
+duecento
+trecento
+quattrocento
+cinquecento
+seicento
+settecento
+architecture
+art
+castles
+cinema
+cuisine
+beer
+wine
+cultural icons
+decorations
+design
+fashion
+festivals
+folklore
+italian language
+regional italian
+italian literature
+italophilia
+italophobia
+languages
+media
+newspapers
+radio
+tv
+monuments
+music
+classical
+folk
+opera
+popular
+mythology
+national symbols
+anthem
+emblem
+flag
+regions
+national monument
+personification
+people
+philosophy
+public holidays
+festa della repubblica
+sculpture
+sport
+traditions
+world heritage sites
+
+ italy portal
+ category
+ commons
+ news
+quotes
+travel
+ wikiproject
+
+vtefirst-level administrative divisions in european countriessovereign states
+albania
+andorra
+armenia2
+austria
+azerbaijan1
+belarus
+belgium
+bosnia and herzegovina
+bulgaria
+croatia
+cyprus2
+czech republic
+denmark
+estonia
+finland
+france
+georgia1
+germany
+greece
+hungary
+iceland
+ireland
+italy
+kazakhstan1
+latvia
+liechtenstein
+lithuania
+luxembourg
+macedonia
+malta
+moldova
+monaco
+montenegro
+netherlands
+norway
+poland
+portugal
+romania
+russia1
+san marino
+serbia
+slovakia
+slovenia
+spain
+sweden
+switzerland
+turkey1
+ukraine
+united kingdom
+states with limitedrecognition
+abkhazia2
+artsakh2
+kosovo
+northern cyprus2
+south ossetia2
+transnistria
+1 has part of its territory outside europe. 2 considered european for cultural, political and historical reasons but is geographically in western asia. table of administrative divisions by country
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=regions_of_italy&oldid=882837877"					
+categories: regions of italysubdivisions of italyranked lists of country subdivisionslists of subdivisions of italycountry subdivisions in europefirst-level administrative country subdivisionsitaly-related listshidden categories: pages using timelinewebarchive template wayback linksall articles with unsourced statementsarticles with unsourced statements from august 2015pages with maps 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+afrikaansalemannischالعربيةaragonésarmãneashtiasturianuazərbaycancaবাংলাbân-lâm-gúbikol centralbosanskibrezhonegcatalàčeštinacorsucymraegdanskdeutscheestiελληνικάespañolفارسیfrançaisfryskfurlan한국어hrvatskibahasa indonesiainterlinguaíslenskaitalianoעבריתkapampanganქართულიkiswahililatinalatviešulëtzebuergeschlietuviųligurelumbaartmagyarмакедонскиमराठीمازِرونیbahasa melayunederlandsnedersaksies日本語norsknorsk nynorskoccitanpolskiportuguêsromânăsarduscotsshqipsicilianusimple englishslovenčinaslovenščinaсрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskatagalogไทยtürkçeاردوvènetotiếng việtwest-vlamszazaki中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 11 february 2019, at 17:18 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"1.008","walltime":"1.488","ppvisitednodes":{"value":14905,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":176178,"limit":2097152},"templateargumentsize":{"value":30621,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":24,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":30078,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00% 1039.207      1 -total"," 39.10%  406.293      9 template:navbox"," 22.92%  238.187      1 template:europe_topic"," 18.89%  196.267     49 template:iso2country"," 14.64%  152.187      1 template:reflist"," 12.11%  125.893      1 template:italy_topics"," 11.72%  121.810      1 template:country_topics","  9.42%   97.894      6 template:cite_web","  7.96%   82.678     40 template:flag","  7.03%   73.047     49 template:iso2country/data"]},"scribunto":{"limitreport-timeusage":{"value":"0.222","limit":"10.000"},"limitreport-memusage":{"value":5200791,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1242","timestamp":"20190219144930","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"regions of italy","url":"https:\/\/en.wikipedia.org\/wiki\/regions_of_italy","sameas":"http:\/\/www.wikidata.org\/entity\/q16110","mainentity":"http:\/\/www.wikidata.org\/entity\/q16110","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2003-05-04t12:43:33z","datemodified":"2019-02-11t17:18:01z"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":100,"wghostname":"mw1323"});});
+
+

@@ -1,0 +1,608 @@
+
+
+
+
+total war - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"total_war","wgtitle":"total war","wgcurrevisionid":883637268,"wgrevisionid":883637268,"wgarticleid":29974,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["all articles with specifically marked weasel-worded phrases","articles with specifically marked weasel-worded phrases from july 2018","articles needing additional references from november 2008","all articles needing additional references","wars by type","military doctrines","warfare by type","economic warfare","military economics","military science"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"total_war","wgrelevantarticleid":29974,"wgrequestid":"xghlcapame4aac4y@vsaaaau","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q154605","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+total war 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+for other uses, see total war (disambiguation).
+part of a series onwar
+history
+prehistoric
+ancient
+post-classical
+early modern
+late modern
+industrial
+fourth-gen
+
+battlespace
+air
+cyber
+information
+land
+cold-region
+desert
+jungle
+mountain
+urban
+sea
+space
+
+weapons
+armor
+artillery
+biological
+cavalry
+chemical
+conventional
+cyber
+electronic
+infantry
+nuclear
+psychological
+unconventional
+
+tactics
+aerial
+battle
+cavalry
+charge
+counterattack
+counter-insurgency
+cover
+foxhole
+guerrilla
+morale
+siege
+swarming
+tactical objective
+target saturation
+trench
+
+operational
+blitzkrieg
+deep operation
+maneuver
+operational manoeuvre group
+
+strategy
+attrition
+counter-offensive
+deception
+defensive
+goal
+naval
+offensive
+
+grand strategy
+containment
+economic
+limited
+science
+philosophy
+political
+religious
+strategic
+technology
+theater
+theory
+total war
+
+organization
+command and control
+doctrine
+engineers
+intelligence
+ranks
+technology and equipment
+
+personnel
+military recruitment
+conscription
+recruit training
+military specialism
+women in the military
+children in the military
+transgender people and military service
+sexual harassment in the military
+conscientious objection
+counter recruitment
+
+logistics
+arms industry
+materiel
+supply chain management
+
+related
+asymmetric warfare
+broken-backed war theory
+court-martial
+cold war
+deterrence theory
+horses in warfare
+irregular warfare
+law of war
+mercenary
+military campaign
+military operation
+network-centric warfare
+operations research
+principles of war
+proxy war
+security dilemma
+tripwire force
+war crime
+war film
+war game
+war novel
+wartime sexual violence
+women in war
+world war
+colonial war
+endemic warfare
+
+lists
+battles
+military occupations
+military tactics
+operations
+sieges
+war crimes
+wars
+weapons
+writers
+vte
+ the mushroom cloud produced by the atomic bombing of the city of hiroshima during world war ii. the bombing was an act of total war.
+total war is warfare that includes any and all civilian-associated resources and infrastructure as legitimate military targets, mobilizes all of the resources of society to fight the war, and gives priority to warfare over non-combatant needs. the oxford living dictionaries defines "total war" as "a war that is unrestricted in terms of the weapons used, the territory or combatants involved, or the objectives pursued, especially one in which the laws of war are disregarded."[1]
+in the mid-19th century, scholars identified "total war" as a separate class of warfare. in a total war, to an extent inapplicable in less total conflicts, the differentiation between combatants and non-combatants diminishes, sometimes even vanishing entirely, due to the capacity of opposing sides to consider nearly every human resource, even that of non-combatants, to be a part of the war effort.[2]
+actions that may characterize the post-19th century concept of total war include:
+
+strategic bombing, as during world war ii, the korean war, and the vietnam war (operations rolling thunder and linebacker ii)
+blockade and sieging of population centers, as with the allied blockade of germany and the siege of leningrad during the first and second world wars
+scorched earth policy, as with the march to the sea during the american civil war and the japanese "three alls policy" during the second sino-japanese war
+commerce raiding, tonnage war, and unrestricted submarine warfare, as with privateering, the german u-boat campaigns of the first and second world wars, and the united states submarine campaign against japan during world war ii
+collective punishment, pacification operations, and reprisals against populations deemed hostile, as with the execution and deportation of suspected communards following the fall of the 1871 paris commune or the german reprisal policy targeting resistance movements, insurgents, and untermenschen such as in france (e.g. maillé massacre) and poland during world war ii
+the use of civilians and prisoners of war as forced labor for military operations, as with japan and germany's massive use of forced laborers of other nations during world war ii (see slavery in japan and forced labor under german rule during world war ii)[3]
+giving no quarter (i.e. take no prisoners), as with hitler's commando order during world war ii.
+contents
+
+1 etymology
+2 early history
+3 18th and 19th centuries
+
+3.1 intertribal warfare
+3.2 french and american revolutionary wars and napoleonic wars
+3.3 taiping rebellion
+3.4 american civil war
+
+
+4 20th century
+
+4.1 world war i
+4.2 world war ii
+
+4.2.1 shōwa japan
+4.2.2 united kingdom
+4.2.3 germany
+4.2.4 soviet union
+4.2.5 united states
+4.2.6 unconditional surrender
+
+
+4.3 postwar era
+
+
+5 see also
+6 references
+7 external links
+
+
+etymology[edit]
+the phrase "total war" can be traced back to the 1935 publication of german general erich ludendorff's world war i memoir, der totale krieg ("the total war"). some authors extend the concept back as far as classic work of carl von clausewitz, on war, as "absoluter krieg" (absolute war); however, others interpret the relevant passages differently.[4]  total war also describes the french "guerre à outrance" during the franco-prussian war.[5][6][7]
+in his december 24, 1864 letter to his chief of staff during the american civil war, union general henry halleck wrote the union was "not only fighting hostile armies, but a hostile people, and must make old and young, rich and poor, feel the hard hand of war, as well as their organized armies," defending sherman's march to the sea, the operation that inflicted widespread destruction of infrastructure in georgia.[8]
+united states air force general curtis lemay updated the concept for the nuclear age. in 1949, he first proposed that a total war in the nuclear age would consist of delivering the entire nuclear arsenal in a single overwhelming blow, going as far as "killing a nation".[9]
+
+early history[edit]
+during the middle ages, destruction under the mongol empire in the 13th century effectively exemplified total war.  the military forces of genghis khan slaughtered whole populations and destroyed any city that resisted:
+
+.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}as an aggressor nation, the ancient mongols, no less than the modern nazis, practiced total war against an enemy by organizing all available resources, including military personnel, noncombatant workers, intelligence, transport, money, and provisions.[10]
+
+18th and 19th centuries[edit]
+intertribal warfare[edit]
+author and historian mark van de logt wrote: "although military historians tend to reserve the concept of 'total war' for conflicts between modern industrial nations, the term nevertheless most closely approaches the state of affairs between the pawnees and the sioux and cheyennes. both sides directed their actions not solely against warrior-combatants but against the people as a whole. noncombatants were legitimate targets. indeed, the taking of a scalp of a woman or child was considered honorable because it signified that the scalp taker had dared to enter the very heart of the enemy's territory."[11]
+
+french and american revolutionary wars and napoleonic wars[edit]
+in the american revolution, also known as the american revolutionary war, many basic tactics of total war, such as the scorched earth policy, were created in a modern form. in 1779, the sullivan expedition  began, marching through western pennsylvania and up through new york, burning iroquois villages to the ground, leaving nothing behind but smoldering ruin and dead animals. the goal was to force the indians to go to canada for food and thuis be out of range of attacking american settlements.[12]
+
+ the drownings at savenay during the war in the vendée, 1793
+ napoleon's retreat from russia in 1812. napoleon's grande armée had lost about half a million men.
+the french revolutionary wars introduced to mainland europe some of the first concepts of total war, such as mass conscription.[13] the fledgling republic found itself threatened by a powerful coalition of european nations. the only solution, in the eyes of the jacobin government, was to pour the entire nation's resources into an unprecedented war effort—this was the advent of the levée en masse. the following decree of the national convention on august 23, 1793 demonstrates the immensity of the french war effort, when the french front line forces grew to some 800,000 with a total of 1.5 million in all services—the first time an army in excess of a million had been mobilized in western history:
+
+from this moment until such time as its enemies shall have been driven from the soil of the republic all frenchmen are in permanent requisition for the services of the armies. the young men shall fight; the married men shall forge arms and transport provisions; the women shall make tents and clothes and shall serve in the hospitals; the children shall turn old lint into linen; the old men shall betake themselves to the public squares in order to arouse the courage of the warriors and preach hatred of kings and the unity of the republic.
+
+
+in the russian campaign of 1812 the russians resorted to destroying infrastructure and agriculture in their retreat in order to hamper the french and strip them of adequate supplies. in the campaign of 1813, allied forces in the german theater alone amounted to nearly one million whilst two years later in the hundred days a french decree called for the total mobilization of some 2.5 million men (though at most a fifth of this was managed by the time of the french defeat at waterloo). during the prolonged peninsular war from 1808–1814 some 300,000 french troops were kept permanently occupied by, in addition to several hundred thousand spanish, portuguese and british regulars, an enormous and sustained guerrilla insurgency—ultimately french deaths would amount to 300,000 in the peninsular war alone.[14]
+
+taiping rebellion[edit]
+ a scene of the taiping rebellion
+the taiping rebellion (1850–1864) was one of the deadliest wars in history.[15] about 20 million people died, many due to disease and famine.[16] it followed the secession of the taiping heavenly kingdom from the qing empire.[17] almost every citizen of the heavenly kingdom was given military training and conscripted into the army to fight against the imperial forces.[17]
+
+american civil war[edit]
+during the american civil war, union army general philip sheridan's stripping of the shenandoah valley, beginning on september 21, 1864 and continuing for two weeks, was considered "total war".  its purpose was to eliminate food and supplies vital to the south's military operations, as well as to strike a blow at southern civilian morale. sheridan took the opportunity when he realized opposing forces had become too weak to resist his army.[18]
+union army general william tecumseh sherman's 'march to the sea' in november and december 1864 destroyed the resources required for the south to make war. general ulysses s. grant and president abraham lincoln initially opposed the plan until sherman convinced them of its necessity.[19]
+scholars taking issue with the notion that sherman was employing "total war" include noah andre trudeau. trudeau believes that sherman's goals and methods do not meet the definition of total war and to suggest as much is to "misread sherman's intentions and to misunderstand the results of what happened".[20]
+
+20th century[edit]
+world war i[edit]
+ damage and destruction of civilian buildings in belgium, 1914
+almost the whole of europe and the european colonial empires mobilized to wage world war i. rationing occurred on the home fronts. bulgaria went so far as to mobilize a quarter of its population or 800,000 people, a greater share of its population than any other country during the war.
+one of the features of total war in britain was the use of government propaganda posters to divert all attention to the war on the home front. posters were used to influence public opinion about what to eat and what occupations to take, and to change the attitude of support towards the war effort. even the music hall was used as propaganda, with propaganda songs aimed at recruitment.
+after the failure of the battle of neuve chapelle, the large british offensive in march 1915, the british commander-in-chief field marshal john french blamed the lack of progress on insufficient and poor-quality artillery shells. this led to the shell crisis of 1915 which brought down both the liberal government and premiership of h. h. asquith. he formed a new coalition government dominated by liberals and appointed david lloyd george as minister of munitions. it was a recognition that the whole economy would have to be geared for war if the allies were to prevail on the western front.
+as young men left the farms for the front, domestic food production in britain and germany fell. in britain the response was to import more food, which was done despite the german introduction of unrestricted submarine warfare, and to introduce rationing. the royal navy's blockade of german ports prevented germany from importing food and hastened german capitulation by creating a food crisis in germany.
+
+ founding ceremony of the hakkō ichiu monument, promoting the unification of "the 8 corners of the world under one roof"
+world war ii[edit]
+the second world war was the quintessential total war of modernity. the level of national mobilization of resources on all sides of the conflict, the battlespace being contested, the scale of the armies, navies, and air forces raised through conscription, the active targeting of non-combatants (and non-combatant property), the general disregard for collateral damage, and the unrestricted aims of the belligerents marked total war on an unprecedented and unsurpassed, multicontinental scale.
+
+shōwa japan[edit]
+during the first part of the shōwa era, the government of imperial japan launched a string of policies to promote a total war effort against china and occidental powers and increase industrial production. among these were the national spiritual mobilization movement and the imperial rule assistance association.
+the national mobilization law had fifty clauses, which provided for government controls over civilian organizations (including labor unions), nationalization of strategic industries, price controls and rationing, and nationalized the news media.[21] the laws gave the government the authority to use unlimited budgets to subsidize war production, and to compensate manufacturers for losses caused by war-time mobilization. eighteen of the fifty articles outlined penalties for violators.
+to improve its production, shōwa japan used millions of slave labourers[22] and pressed more than 18 million people in east asia into forced labor.[23]
+
+united kingdom[edit]
+before the onset of the second world war, the united kingdom drew on its first world war experience to prepare legislation that would allow immediate mobilization of the economy for war, should future hostilities break out.
+rationing of most goods and services was introduced, not only for consumers but also for manufacturers.this meant that factories manufacturing products that were irrelevant to the war effort had more appropriate tasks imposed. all artificial light was subject to legal blackouts.
+
+.mw-parser-output .quotebox{background-color:#f9f9f9;border:1px solid #aaa;box-sizing:border-box;padding:10px;font-size:88%}.mw-parser-output .quotebox.floatleft{margin:0.5em 1.4em 0.8em 0}.mw-parser-output .quotebox.floatright{margin:0.5em 0 0.8em 1.4em}.mw-parser-output .quotebox.centered{margin:0.5em auto 0.8em auto}.mw-parser-output .quotebox.floatleft p,.mw-parser-output .quotebox.floatright p{font-style:inherit}.mw-parser-output .quotebox-title{background-color:#f9f9f9;text-align:center;font-size:larger;font-weight:bold}.mw-parser-output .quotebox-quote.quoted:before{font-family:"times new roman",serif;font-weight:bold;font-size:large;color:gray;content:" “ ";vertical-align:-45%;line-height:0}.mw-parser-output .quotebox-quote.quoted:after{font-family:"times new roman",serif;font-weight:bold;font-size:large;color:gray;content:" ” ";line-height:0}.mw-parser-output .quotebox .left-aligned{text-align:left}.mw-parser-output .quotebox .right-aligned{text-align:right}.mw-parser-output .quotebox .center-aligned{text-align:center}.mw-parser-output .quotebox cite{display:block;font-style:normal}@media screen and (max-width:360px){.mw-parser-output .quotebox{min-width:100%;margin:0 0 0.8em!important;float:none!important}}
+"..there is another more obvious difference from 1914. the whole of the warring nations are engaged, not only soldiers, but the entire population, men, women and children. the fronts are everywhere to be seen. the trenches are dug in the towns and streets. every village is fortified. every road is barred. the front line runs through the factories. the workmen are soldiers with different weapons but the same courage."
+winston churchill on the radio, june 18 ; and house of commons 20 august 1940:[24]
+
+
+not only were men conscripted into the armed forces from the beginning of the war (something which had not happened until the middle of world war i), but women were also conscripted as land girls to aid farmers and the bevin boys were conscripted to work down the coal mines.
+enormous casualties were expected in bombing raids, so children were evacuated from london and other cities en masse to the countryside for compulsory billeting in households. in the long term this was one of the most profound and longer-lasting social consequences of the whole war for britain. this is because it mixed up children with the adults of other classes. not only did the middle and upper classes become familiar with the urban squalor suffered by working class children from the slums, but the children got a chance to see animals and the countryside, often for the first time, and experience rural life.
+the use of statistical analysis, by a branch of science which has become known as operational research to influence military tactics was a departure from anything previously attempted. it was a very powerful tool but it further dehumanised war particularly when it suggested strategies which were counter intuitive. examples where statistical analysis directly influenced tactics include the work done by patrick blackett's team on the optimum size and speed of convoys and the introduction of bomber streams by the royal air force to counter the night fighter defences of the kammhuber line.
+
+germany[edit]
+see also: reich plenipotentiary for total war
+in contrast, germany started the war under the concept of blitzkrieg. officially, it did not accept that it was in a total war until joseph goebbels' sportpalast speech of 18 february 1943.
+
+
+"i ask you: do you want total war? if necessary, do you want a war more total and radical than anything that we can even imagine today?"
+nazi propaganda minister joseph goebbels, 18 february 1943, in his sportpalast speech
+
+
+the commitment to the doctrine of the short war was a continuing handicap for the germans; neither plans nor state of mind were adjusted to the idea of a long war until the failure of the operation barbarossa. a major strategical defeat in the battle of moscow forced albert speer, who was appointed as germany's armament minister in early 1942, to nationalize german war production and eliminate the worst inefficiencies.[25]
+under speer's direction a threefold increase in armament production occurred and did not reach its peak until late 1944. to do this during the damage caused by the growing strategic allied bomber offensive, is an indication of the degree of industrial under-mobilization in the earlier years. it was because the german economy through most of the war was substantially under-mobilized that it was resilient under air attack. civilian consumption was high during the early years of the war and inventories both in industry and in consumers' possession were high. these helped cushion the economy from the effects of bombing.
+plant and machinery were plentiful and incompletely used, thus it was comparatively easy to substitute unused or partly used machinery for that which was destroyed. foreign labour, both slave labour and labour from neighbouring countries who joined the anti-comintern pact with germany, was used to augment german industrial labour which was under pressure by conscription into the wehrmacht (armed forces).
+
+soviet union[edit]
+ three men burying victims of leningrad's siege, in which about 1 million civilians died
+the soviet union (ussr) was a command economy which already had an economic and legal system allowing the economy and society to be redirected into fighting a total war. the transportation of factories and whole labour forces east of the urals as the germans advanced across the ussr in 1941 was an impressive feat of planning. only those factories which were useful for war production were moved because of the total war commitment of the soviet government.
+the eastern front of the european theatre of world war ii encompassed the conflict in central and eastern europe from june 22, 1941 to may 9, 1945. it was the largest theatre of war in history in terms of numbers of soldiers, equipment and casualties and was notorious for its unprecedented ferocity, destruction, and immense loss of life (see world war ii casualties). the fighting involved millions of german, hungarian, romanian and soviet troops along a broad front hundreds of kilometres long. it was by far the deadliest single theatre of world war ii. scholars now believe that at most 27 million soviet citizens died during the war, including at least 8.7 million soldiers who fell in battle against hitler's armies or died in pow camps. millions of civilians died from starvation, exposure, atrocities, and massacres.[26] the axis lost over 5 million soldiers in the east as well as many thousands of civilians.[27]
+during the battle of stalingrad, newly built t-34 tanks were driven—unpainted because of a paint shortage—from the factory floor straight to the front. this came to symbolise the ussr's commitment to the world war ii and demonstrated the government's total war policy.
+
+united states[edit]
+the united states underwent an unprecedented mobilization of national resources for the second world war. conditions in the united states were not as strained as they were in the united kingdom or as desperate as they were in the soviet union, but the united states greatly curtailed nearly all non-essential activities in its prosecution of the second world war and redirected nearly all available national resources to the conflict, including reaching the point of diminishing returns by late 1944, where the u.s. military was unable to find any more males of the correct military age to draft into service.
+the strategists of the u.s. military looked abroad at the storms brewing on the horizon in europe and asia, and began quietly making contingency plans as early as the mid-1930s; new weapons and weapons platforms were designed, and made ready. following the outbreak of war in europe and the ongoing aggression in asia, efforts were stepped up significantly. the collapse of france and the airborne aggression directed at great britain unsettled the americans, who had close relations with both nations, and a peacetime draft was instituted, along with lend-lease programs to aid the british, and covert aid was passed to the chinese as well.
+american public opinion was still opposed to involvement in the problems of europe and asia, however. in 1941, the soviet union became the latest nation to be invaded, and the u.s. gave her aid as well. american ships began defending aid convoys to the allied nations against submarine attacks, and a total trade embargo against the empire of japan was instituted to deny its military the raw materials its factories and military forces required to continue its offensive actions in china.
+in late 1941, japan's army-dominated government decided to seize by military force the strategic resources of south-east asia and indonesia since the western powers would not give japan these goods by trade. planning for this action included surprise attacks on american and british forces in hong kong, the philippines, malaya, and the u.s. naval base and warships at pearl harbor. in response to these attacks, the u.k. and u.s. declared war on the empire of japan the next day. nazi germany declared war on the u.s. a few days later, along with fascist italy; the u.s. found itself fully involved in a second world war.
+
+
+"it's a ticklish sort of job making a thing for a thing-ummy-bobespecially when you don't know what it's forbut it's the girl that makes the thing that drills the holethat holds the spring that works the thing-ummy-bobthat makes the engines roar.and it's the girl that makes the thing that holds the oilthat oils the ring that works the thing-ummy-bobthat's going to win the war."
+"the thing-ummy bob", a british song made popular in the us by gracie fields[28]
+
+
+as the united states began to gear up for a major war, information and propaganda efforts were set in motion. civilians (including children) were encouraged to take part in fat, grease, and scrap metal collection drives. many factories making non-essential goods retooled for war production. levels of industrial productivity previously unheard of were attained during the war; multi-thousand-ton convoy ships were routinely built in a month-and-a-half, and tanks poured out of the former automobile factories. within a few years of the u.s. entry into the second world war, nearly every man fit for service, between 18 and 30, had been conscripted into the military "for the duration" of the conflict, and unprecedented numbers of women took up jobs previously held by them. strict systems of rationing of consumer staples were introduced to redirect productive capacity to war needs.
+previously untouched sections of the nation mobilized for the war effort. academics became technocrats; home-makers became bomb-makers (massive numbers of women worked in heavy industry during the war); union leaders and businessmen became commanders in the massive armies of production. the great scientific communities of the united states were mobilized as never before, and mathematicians, doctors, engineers, and chemists turned their minds to the problems ahead of them.
+by the war's end a multitude of advances had been made in medicine, physics, engineering, and the other sciences. even the theoretical physicists, whose theories were not believed to have military applications (at the time), were sent far into the western deserts to work at the los alamos national laboratory on the manhattan project that culminated in the trinity nuclear test and changed the course of history.
+in the war, the united states lost 407,316 military personnel, but had managed to avoid the extensive level of damage to civilian and industrial infrastructure that other participants suffered. the u.s. emerged as one of the two superpowers after the war.[29]
+
+unconditional surrender[edit]
+
+"actually dresden was a mass of munitions works, an intact government centre, and a key transportation point to the east. it is now none of these things."
+air chief marshal arthur harris, in a memo to the air ministry on 29 march 1945[30]
+
+
+after the united states entered world war ii, franklin d. roosevelt declared at casablanca conference to the other allies and the press that unconditional surrender was the objective of the war against the axis powers of germany, italy, and japan.[31] prior to this declaration, the individual regimes of the axis powers could have negotiated an armistice similar to that at the end of world war i and then a conditional surrender when they perceived that the war was lost.
+the unconditional surrender of the major axis powers caused a legal problem at the post-war nuremberg trials, because the trials appeared to be in conflict with articles 63 and 64 of the geneva convention of 1929. usually if such trials are held, they would be held under the auspices of the defeated power's own legal system as happened with some of the minor axis powers, for example in the post world war ii romanian people's tribunals. to circumvent this, the allies argued that the major war criminals were captured after the end of the war, so they were not prisoners of war and the geneva conventions did not cover them. further, the collapse of the axis regimes created a legal condition of total defeat (debellatio) so the provisions of the 1907 hague convention over military occupation were not applicable.[32]
+
+postwar era[edit]
+see also: war by proxy, coercive diplomacy, and deterrence theory
+since the end of world war ii, no industrial nation has fought such a large, decisive war.[33] this is likely due to the availability of nuclear weapons, whose destructive power and quick deployment render a full mobilization of a country's resources such as in world war ii unnecessary.[34] such weapons are developed and maintained with relatively modest peacetime defense budgets.
+by the end of the 1950s, the ideological stand-off of the cold war between the western world and the soviet union had resulted in thousands of nuclear weapons being aimed by each side at the other. strategically, the equal balance of destructive power possessed by each side situation came to be known as mutually assured destruction (mad), considering that a nuclear attack by one superpower would result in nuclear counter-strike by the other.[35] this would result in hundreds of millions of deaths in a world where, in words widely attributed to nikita khrushchev, "the living will envy the dead".[36]
+during the cold war, the two superpowers sought to avoid open conflict between their respective forces, as both sides recognized that such a clash could very easily escalate, and quickly involve nuclear weapons. instead, the superpowers fought each other through their involvement in proxy wars, military buildups, and diplomatic standoffs.
+in the case of proxy wars, each superpower supported its respective allies in conflicts with forces aligned with the other superpower, such as in the vietnam war and the soviet invasion of afghanistan.
+during the yugoslav wars, nato conducted strikes against the electrical grid in enemy territory using graphite bombs. some observers[who?] considered this to be an act of total war, owing to the fact that powerplants supported by the electrical grid were essential to water purification and thus the strike represented a direct attack on civilian resources. nato claimed that the objective of their strikes was to disrupt military infrastructure and communications.[37]
+
+see also[edit]
+
+
+war portal
+
+
+
+
+the bomber will always get through
+conscription
+conventional warfare
+economic warfare
+the end justifies the means
+genocide
+guerrilla warfare
+
+
+
+
+human extinction
+industrial warfare
+levée en masse
+mutual assured destruction
+no holds barred
+no quarter
+roerich pact
+
+
+
+
+strategic bombing
+terrorism
+war crime
+war economy
+war effort
+weapon of mass destruction
+world war
+
+
+
+references[edit]
+notes
+
+
+
+^ [https://en.oxforddictionaries.com/definition/total_war "total war" oxford living dictionaries
+
+^ edward gunn. "the moral dilemma of atomic warfare", aegis: the otterbein college humanities journal, spring 2006, p. 67. nb gunn cites this wikipedia article as  it was on 27 september 2005, but on only for the text of the song "the thing-ummy bob".
+
+^ on the road to total war: the american civil war and the german wars of unification, 1861–1871 (publications of the german historical institute). german historical institute. august 22, 2002. p. 296. isbn 0-5215-2-119x..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ hew strachan; andreas herberg-rothe (2007). clausewitz in the twenty-first century. oxford university press. pp. 64–66. isbn 978-0-19-923202-4.
+
+^ roger chickering; stig förster (2003). the shadows of total war: europe, east asia, and the united states, 1919–1939. cambridge university press. p. 8. isbn 978-0-521-81236-8.
+
+^ bertrand taithe (1999). defeated flesh: welfare, warfare and the making of modern france. manchester university press. p. 35 and 73. isbn 978-0-7190-5621-5.
+
+^ stig förster (2002). on the road to total war: the american civil war and the german wars of unification, 1861–1871. cambridge university press. p. 550. isbn 978-0-521-52119-2.
+
+^ "william t. sherman to henry w. halleck". retrieved 5 august 2015.
+
+^ degroot, gerard j. (2004). the bomb: a life (1st harvard university press pbk. ed.). cambridge, mass.: harvard. p. 153. isbn 0-674-01724-2.
+
+^ janice j. terry, james p. holoka, jim holoka, george h. cassar, richard d. goff (2011). "world history: since 1500: the age of global integration". cengage learning. p. 717. isbn 1111345139
+
+^ mark van de logt (2012). war party in blue: pawnee scouts in the u.s. army. university of oklahoma press. pp. 35–36. isbn 0806184396
+
+^ fischer, joseph r. (1997) a well-executed failure: the sullivan campaign against the iroquois, july-september 1779 columbia, south carolina: university of south carolina press isbn 9781570031373
+
+^ bell, david a (12 january 2007). the first total war: napoleon's europe and the birth of warfare as we know it (first ed.). houghton mifflin harcourt. isbn 0618349650. retrieved 19 january 2017.
+
+^ broers, michael (2008) "the concept of 'total war' in the revolutionary—napoleonic period" war in history v.15 n.3 pp.247-268
+
+^ "china: the battle of tongcheng (taiping rebellion, 1850-1864) – pictures from history". www.picturesfromhistory.com. retrieved 2018-01-03.
+
+^ statistics of wars, oppressions and atrocities of the nineteenth century. retrieved on 2010-05-23.
+
+^ a b kuhn, philip a. (1978). "the taiping rebellion". the cambridge history of china. twitchett, denis crispin, 1925-2006., fairbank, john king, 1907-1991. cambridge [england]: cambridge university press. pp. 276–7. isbn 0521214475. oclc 2424772.
+
+^ lance janda,  "shutting the gates of mercy: the american origins of total war, 1860–1880." journal of military history 59#1 (1995): 7–26.  [http://cr.middlebury.edu/public/amorsman/civil%20war%20readings/week%207%20war's%20hard%20hand/jandatotalwar.pdf online
+
+^ "sherman's march to the sea – ohio history central". retrieved 5 august 2015.
+
+^ trudeau, noah andre. "southern storm." harper, 2008. p. 534
+
+^ pauer, japan's war economy, 1999 pp. 13
+
+^ unidas, naciones. world economic and social survey 2004: international migration, p. 23
+
+^ zhifen ju, "japan's atrocities of conscripting and abusing north china draftees after the outbreak of the pacific war", 2002, library of congress, 1992, "indonesia: world war ii and the struggle for independence, 1942–50; the japanese occupation, 1942–45" access date: february 9, 2007.
+
+^ winston churchill the few the churchill centre
+
+^ a. s. milward. the end of the blitzkrieg. the economic history review, new series, vol. 16, no. 3 (1964), pp. 499–518.
+
+^ "leaders mourn soviet wartime dead". bbc.co.uk. retrieved 5 august 2015.
+
+^ german losses according to: rüdiger overmans, deutsche militärische verluste im zweiten weltkrieg. oldenbourg 2000. isbn 3-486-56531-1, p. 265, 272
+
+^ john bush jones, the songs that fought the war: popular music and the home front, 1939-1945, upne, 2006, isbn 1-58465-443-0, isbn 978-1-58465-443-8 p. 196
+
+^ mcwilliams, wayne (1990). the world since 1945: a history of international relations. lynne rienner publishers.
+
+^ longmate, norman; the bombers, hutchins & co, (1983), isbn 0-09-151580-7 p. 346
+
+^ "the casablanca conference, 1943". office of the historian. united states department of state. retrieved 19 january 2017.
+
+^ ruth wedgwood "judicial overreach" (pdf). archived from the original (pdf) on march 8, 2008. retrieved 2008-05-29. wall street journal november 16, 2004
+
+^ "world war ii (1939-1945)". the eleanor roosevelt papers project. george washington university. retrieved 19 january 2017.
+
+^ baylis, wirtz & gray 2012, p. 55.
+
+^ castella, tom de (15 february 2012). "how did we forget about mutually assured destruction?". bbc news. retrieved 19 january 2017.
+
+^ "1257. nikita sergeyevich khrushchev (1894-1971). respectfully quoted: a dictionary of quotations. 1989". retrieved 5 august 2015.
+
+^ gordon, michael. "crisis in the balkans: the overview; nato air attacks on power plants pass a threshold". nytimes.com. new york times. retrieved 6 december 2017.
+
+
+this article needs additional citations for verification. please help improve this article by adding citations to reliable sources. unsourced material may be challenged and removed.find sources: "total war" – news · newspapers · books · scholar · jstor (november 2008) (learn how and when to remove this template message)
+bibliography
+
+baylis, john; wirtz, james j.; gray, colin s., eds. (2012), strategy in the contemporary world (4, illustrated ed.), oxford university press, p. 55, isbn 9780199694785
+further reading
+
+bell, david a. (2007), the first total war: napoleon's europe and the birth of warfare as we know it
+broers, michael. "the concept of total war in the revolutionary – napoleonic period." war in history 15.3 (2008): 247–68.
+craig, campbell. glimmer of a new leviathan: total war in the realism of niebuhr, morgenthau, and waltz (columbia university press, 2004), intellectual history.
+förster, stig, and jorg nagler. on the road to total war: the american civil war and the german wars of unification, 1861–1871 (cambridge university press, 2002).
+hewitson, mark. "princes’ wars, wars of the people, or total war? mass armies and the question of a military revolution in germany, 1792–1815." war in history 20.4 (2013): 452–90.
+markusen, eric; kopf, david (1995), the holocaust and strategic bombing: genocide and total war in the twentieth century
+neely jr., mark e., "was the civil war a total war?", civil war history, 50: 2004
+sutherland, daniel e.; mcwhiney, grady (1998), the emergence of total war, us civil war campaigns and commanders series
+walters, john bennett. merchant of terror: general sherman and total war (1973).
+external links[edit]
+israel's 1948 war of independence as a total war
+a collection of papers relating to the sullivan expidition
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=total_war&oldid=883637268"					
+categories: wars by typemilitary doctrineswarfare by typeeconomic warfaremilitary economicsmilitary sciencehidden categories: all articles with specifically marked weasel-worded phrasesarticles with specifically marked weasel-worded phrases from july 2018articles needing additional references from november 2008all articles needing additional references 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+languages
+
+
+العربيةasturianuбеларускаябългарскиbosanskicatalàčeštinacymraegdanskdeutschespañolesperantoفارسیfrançaisgalego한국어հայերենhrvatskibahasa indonesiaitalianoעבריתкъарачай-малкъарlatinamagyarmaltibahasa melayunederlands日本語norsknorsk nynorskoccitanpolskiportuguêsromânăрусскийscotsslovenščinaсрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskaதமிழ்ไทยtürkçeукраїнськаtiếng việt中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 16 february 2019, at 17:39 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.608","walltime":"0.752","ppvisitednodes":{"value":3563,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":89453,"limit":2097152},"templateargumentsize":{"value":7213,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":94478,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  594.580      1 -total"," 51.16%  304.182      1 template:reflist"," 25.32%  150.519      9 template:cite_book","  9.91%   58.912      6 template:isbn","  8.46%   50.329      1 template:more_citations_needed","  7.92%   47.112      1 template:ambox","  7.34%   43.661      1 template:who","  7.07%   42.050      5 template:citation","  6.46%   38.409      1 template:fix","  6.22%   36.993      9 template:cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.272","limit":"10.000"},"limitreport-memusage":{"value":5722468,"limit":52428800}},"cachereport":{"origin":"mw1312","timestamp":"20190216173901","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":95,"wghostname":"mw1243"});});
+
+

@@ -1,0 +1,2994 @@
+
+
+
+
+connecticut - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"connecticut","wgtitle":"connecticut","wgcurrevisionid":883959129,"wgrevisionid":883959129,"wgarticleid":6466,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["webarchive template wayback links","cs1: long volume value","cs1 maint: archived copy as title","pages using citations with accessdate and no url","pages containing links to subscription-only content","articles with short description","coordinates on wikidata","use mdy dates from august 2018","articles containing latin-language text","articles with haudio microformats","pages including recorded pronunciations (english)","all articles with unsourced statements","articles with unsourced statements from november 2016","articles with unsourced statements from july 2017","articles containing dutch-language text","articles containing potentially dated statements from 2015","all articles containing potentially dated statements","articles containing potentially dated statements from 2011","articles containing potentially dated statements from 2014","articles containing potentially dated statements from july 2011","articles containing potentially dated statements from april 2014","articles containing potentially dated statements from december 2012","articles containing potentially dated statements from 2010","articles containing potentially dated statements from 2019","articles containing potentially dated statements from 2017","articles containing potentially dated statements from 2018","articles containing potentially dated statements from november 2018","official website different in wikidata and wikipedia","articles with curlie links","wikipedia articles with bnf identifiers","wikipedia articles with gnd identifiers","wikipedia articles with isni identifiers","wikipedia articles with lccn identifiers","wikipedia articles with musicbrainz area identifiers","wikipedia articles with nara identifiers","wikipedia articles with selibr identifiers","wikipedia articles with sudoc identifiers","wikipedia articles with viaf identifiers","wikipedia articles with worldcat-viaf identifiers","pages with maps","connecticut","1788 establishments in the united states","new england","northeastern united states","states and territories established in 1788","states of the east coast of the united states","states of the united states"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"connecticut","wgrelevantarticleid":6466,"wgrequestid":"xgr0ewpaaeaaadm3j10aaacn","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":["sysop"],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgkartographerlivedata":{"_bdbdaf5d88945cb083f6abff20e9aaf3d84d8887":[{"type":"externaldata","service":"geoshape","url":"https://maps.wikimedia.org/geoshape?getgeojson=1\u0026ids=q779","properties":{"stroke-width":6,"stroke":"#ff0000","title":"connecticut"}}]},"wgcoordinates":{"lat":41.6,"lon":-72.7},"wgwikibaseitemid":"q779","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.kartographer.style":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","jquery.makecollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","ext.kartographer.staticframe","mediawiki.page.gallery","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","jquery.makecollapsible","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+connecticut 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+for other uses, see connecticut (disambiguation).
+state of the united states of america
+coordinates: 41°36′n 72°42′w﻿ / ﻿41.6°n 72.7°w﻿ / 41.6; -72.7
+
+state of connecticut
+
+
+
+flag
+seal
+nickname(s): 
+the constitution state (official)
+the nutmeg state
+the provisions state
+the land of steady habits
+motto(s): 
+qui transtulit sustinet (latin)
+he who transplanted still sustains[1]
+state song(s): "yankee doodle"official languagenonedemonym
+connecticuter[2]
+connecticutian[3]
+nutmegger[4]
+capitalhartford[5]largest citybridgeport[6]largest metrogreater hartford[7]arearanked 48th  • total5,567 sq mi (14,357 km2) • width110 miles (177 km) • length70 miles (113 km) • % water12.6 • latitude40°58' n to 42°03' n • longitude71°47' w to 73°44' w
+populationranked 29th  • total3,588,184 (2017 est.)[8] • density739/sq mi  (285/km2)ranked 4th • median household income$72,889[9] (2nd)
+elevation • highest pointmassachusetts border on south slope of mount frissell[10][11]2,379 ft (725 m) • mean500 ft  (150 m) • lowest pointlong island sound[10][11] sea level
+before statehoodconnecticut colonyadmission to unionjanuary 9, 1788 (5th)governorned lamont (d)lieutenant governorsusan bysiewicz (d)legislatureconnecticut general assembly  • upper houseconnecticut senate • lower houseconnecticut house of representatives
+u.s. senatorsrichard blumenthal (d)chris murphy (d)u.s. house delegation5 democrats (list)time zoneeastern: utc −5/−4iso 3166us-ctabbreviationsct, conn.websitewww.ct.gov
+connecticut state symbolsthe flag of connecticutthe seal of connecticutliving insigniabirdamerican robinfishamerican shadflowermountain laurelinsectpraying mantistreewhite oakinanimate insigniagemstonegarnetstate route markerstate quarterreleased in 1999lists of united states state symbols
+interactive map of connecticut
+connecticut (/kəˈnɛtɪkət/ (listen))[12] is the southernmost state in the new england region of the united states. as of the 2010 census, it has the highest per-capita income, human development index (0.962), and median household income in the united states.[13][14][15] it is bordered by rhode island to the east, massachusetts to the north, new york to the west, and long island sound to the south. its capital is hartford and its most populous city is bridgeport. it is part of new england, although portions of it are often grouped with new york and new jersey as the tri-state area. the state is named for the connecticut river which approximately bisects the state. the word "connecticut" is derived from various anglicized spellings of an algonquian word for "long tidal river".[16]
+connecticut's first european settlers were dutchmen who established a small, short-lived settlement called fort hoop in hartford at the confluence of the park and connecticut rivers. half of connecticut was initially part of the dutch colony new netherland, which included much of the land between the connecticut and delaware rivers, although the first major settlements were established in the 1630s by the english. thomas hooker led a band of followers from the massachusetts bay colony and founded the connecticut colony; other settlers from massachusetts founded the saybrook colony and the new haven colony. the connecticut and new haven colonies established documents of fundamental orders, considered the first constitutions in america. in 1662, the three colonies were merged under a royal charter, making connecticut a crown colony. this was one of the thirteen colonies which rejected british rule in the american revolution.
+connecticut is the third smallest state by area,[17] the 29th most populous,[18] and the fourth most densely populated[17] of the 50 states. it is known as the "constitution state", the "nutmeg state", the "provisions state", and the "land of steady habits".[1] it was influential in the development of the federal government of the united states.
+the connecticut river, thames river, and ports along long island sound have given connecticut a strong maritime tradition which continues today. the state also has a long history of hosting the financial services industry, including insurance companies in hartford and hedge funds in fairfield county.
+
+contents
+
+1 geography
+
+1.1 climate
+1.2 flora
+
+
+2 history
+
+2.1 colonial connecticut
+
+2.1.1 american revolution
+
+
+2.2 19th century
+
+2.2.1 early national period and industrial revolution
+2.2.2 civil war era
+2.2.3 second industrial revolution
+
+
+2.3 20th century
+
+2.3.1 world war i
+2.3.2 interwar period
+2.3.3 world war ii
+2.3.4 post-world war ii economic expansion
+2.3.5 late 20th century
+
+
+2.4 early 21st century
+
+
+3 demographics
+
+3.1 population
+3.2 birth data
+3.3 religion
+3.4 largest cities and towns
+
+
+4 economy
+
+4.1 taxation
+4.2 real estate
+4.3 industries
+
+
+5 transportation
+
+5.1 roads
+5.2 rail
+5.3 bus
+5.4 air
+5.5 ferry
+
+
+6 law and government
+
+6.1 constitutional history
+6.2 executive
+6.3 legislative
+6.4 judicial
+6.5 local government
+
+
+7 politics
+
+7.1 registered voters
+7.2 voting
+
+
+8 education
+
+8.1 k–12
+8.2 private schools
+8.3 colleges and universities
+
+8.3.1 private
+8.3.2 public universities
+8.3.3 public community colleges
+
+
+
+
+9 sports
+
+9.1 professional sports teams
+9.2 college sports
+
+
+10 etymology and symbols
+11 notable people
+12 see also
+13 references
+14 external links
+
+
+geography[edit]
+further information: geology of connecticut and geology of new england
+
+landmarks and cities of connecticut
+
+
+
+bridgeport
+
+
+
+
+
+
+new haven
+
+
+
+
+
+
+hartford
+
+
+
+
+
+
+stamford
+
+
+
+
+
+
+new london
+
+
+
+
+
+
+willimantic
+
+
+
+
+
+
+gold star bridge and amtrak thames river bridge
+
+
+
+
+
+
+mount frissell, the highest point in the state
+
+
+
+
+
+
+lake mcdonough reservoir as seen from the tunxis trail overlook spur trail.
+
+
+
+
+
+
+candlewood lake is the largest lake in connecticut.
+
+
+
+
+
+
+the connecticut river near connecticut route 82
+
+
+
+
+connecticut is bordered on the south by long island sound, on the west by new york, on the north by massachusetts, and on the east by rhode island. the state capital and fourth largest city is hartford, and other major cities and towns (by population) include bridgeport, new haven, stamford, waterbury, norwalk, danbury, new britain, greenwich, and bristol. connecticut is slightly larger than the country of montenegro. there are 169 incorporated towns in connecticut. map of connecticut
+the highest peak in connecticut is bear mountain in salisbury in the northwest corner of the state. the highest point is just east of where connecticut, massachusetts, and new york meet (42° 3' n; 73° 29' w), on the southern slope of mount frissell, whose peak lies nearby in massachusetts.[19] at the opposite extreme, many of the coastal towns have areas that are less than 20 feet (6 m) above sea level.
+connecticut has a long maritime history and a reputation based on that history—yet the state has no direct oceanfront (technically speaking). the coast of connecticut sits on long island sound, which is an estuary. the state's access to the open atlantic ocean is both to the west (toward new york city) and to the east (toward the "race" near rhode island). this situation provides many safe harbors from ocean storms, and many transatlantic ships seek anchor inside long island sound when tropical cyclones pass off the upper east coast.[citation needed]
+the connecticut river cuts through the center of the state, flowing into long island sound. the most populous metropolitan region centered within the state lies in the connecticut river valley. despite connecticut's relatively small size, it features wide regional variations in its landscape; for example, in the northwestern litchfield hills, it features rolling mountains and horse farms, whereas in areas to the east of new haven along the coast, the landscape features coastal marshes, beaches, and large scale maritime activities.
+
+further information: list of connecticut rivers
+connecticut's rural areas and small towns in the northeast and northwest corners of the state contrast sharply with its industrial cities such as stamford, bridgeport, and new haven, located along the coastal highways from the new york border to new london, then northward up the connecticut river to hartford. many towns in northeastern and northwestern connecticut center around a green, such as the litchfield green, lebanon green (the largest in the state), and wethersfield green (the oldest in the state). near the green typically stand historical visual symbols of new england towns, such as a white church, a colonial meeting house, a colonial tavern or inn, several colonial houses, and so on, establishing a scenic historical appearance maintained for both historic preservation and tourism. many of the areas in southern and coastal connecticut have been built up and rebuilt over the years, and look less visually like traditional new england.
+the northern boundary of the state with massachusetts is marked by the southwick jog or granby notch, an approximately 2.5 miles (4.0 km) square detour into connecticut. the origin of this anomaly is clearly established in a long line of disputes and temporary agreements which were finally concluded in 1804, when southern southwick's residents sought to leave massachusetts, and the town was split in half.[20][21]
+the southwestern border of connecticut where it abuts new york state is marked by a panhandle in fairfield county, containing the towns of greenwich, stamford, new canaan, darien, and parts of norwalk and wilton. this irregularity in the boundary is the result of territorial disputes in the late 17th century, culminating with new york giving up its claim to the area, whose residents considered themselves part of connecticut, in exchange for an equivalent area extending northwards from ridgefield to the massachusetts border, as well as undisputed claim to rye, new york.[22]
+
+further information: connecticut panhandle
+areas maintained by the national park service include appalachian national scenic trail, quinebaug and shetucket rivers valley national heritage corridor, and weir farm national historic site.[23]
+
+vterivers of connecticutconnecticut river watershed
+blackledge river
+coginchaug river
+connecticut river
+duck river
+eightmile river
+falls river
+farmington river
+hockanum river
+hubbard river
+jeremy river
+lieutenant river
+mattabesset river
+nepaug river
+pameacha creek
+park river
+pequabuck river
+salmon river
+scantic river
+housatonic river watershed
+east aspetuck river
+housatonic river
+konkapot river
+naugatuck river
+pomperaug river
+rocky river
+schenob brook
+shepaug river
+still river
+ten mile river
+hudson river watershed
+titicus river
+long island sound
+ash creek
+aspetuck river
+black hall river
+byram river
+farm river
+hammonasset river
+mad river
+mianus river
+mill river
+mill river (fairfield)
+mystic river
+niantic river
+noroton river
+norwalk river
+oyster river
+pequonnock river
+quinnipiac river
+rippowam river
+rooster river
+saugatuck river
+silvermine river
+west river
+pawcatuck river watershed
+ashaway river
+green fall river
+pawcatuck river
+shunock river
+wood river
+thames river watershed
+basset brook
+beaver brook
+bigelow brook
+fenton river
+fishers brook
+five mile river
+french river
+hop river
+little river
+merrick brook
+moosup river
+mount hope river
+natchaug river
+oxoboxo river
+pachaug river
+quinebaug river
+shetucket river
+thames river
+willimantic river
+yantic river
+
+vtemountains of connecticuthanging hills
+cathole mountain
+east peak
+south mountain
+west peak
+metacomet ridge
+barn door hills
+beacon hill
+besek mountain
+bradley mountain
+cathole mountain
+chauncey peak
+east peak
+east rock
+farmington mountain
+fowler mountain
+hatchett hill
+higby mountain
+lamentation mountain
+manitook mountain
+mount sanford
+peak mountain
+peck mountain
+peter's rock
+pinnacle rock
+pistapaug mountain
+ragged mountain
+rattlesnake mountain
+saltonstall mountain
+short mountain
+sleeping giant
+south mountain
+talcott mountain
+totoket mountain
+trimountain
+west peak
+west suffield mountain
+taconic mountains
+bear mountain
+gridley mountain
+mount frissell
+round mountain
+others
+burley hill
+haystack mountain
+jeremy's back
+snow hill
+
+vtewaterbodies of connecticutcanals, coves, estuaries,harbors, and rivers
+ash creek
+connecticut river
+enfield falls canal
+farm river
+farmington canal
+hammonasset river
+housatonic river
+kidd harbor
+little narragansett bay
+long island sound
+mystic river
+new haven harbor
+niantic river
+oxoboxo river
+oyster river
+pawcatuck river
+quinnipiac river
+smith cove
+still river
+thames river
+wequetequock cove
+wethersfield cove
+ziegler's cove
+more
+lakes and ponds
+ashford lake
+bantam lake
+burr pond
+converse lake
+crystal lake
+deer lake
+gardner lake
+great hollow lake
+highland lake
+killingly pond
+lake chaffee
+lake hayward
+lake pocotopaug
+lake quassapaug
+lake saltonstall
+lake waramaug
+lake whitney
+mashapaug lake
+millers pond
+pinewood lake
+round pond
+squantz pond
+tuxis pond
+twin lakes
+wetherell pond
+whalen pond
+reservoirs
+aspetuck reservoir
+candlewood lake
+higganum reservoir
+hop brook lake
+killingly pond
+kohanza reservoir
+lake beseck
+lake gaillard
+lake lillinonah
+lake zoar
+mansfield hollow lake
+quaddick reservoir
+saugatuck reservoir
+shenipsit lake
+success lake
+west hartford reservoir
+west thompson lake
+
+vteislands and peninsulas of connecticutislands
+bear island
+calf island
+carting island
+cedar island
+charles island
+cut in two island
+cuties island
+davis island
+duck island
+elihu island
+enders island
+falkner island
+fayerweather island
+fowler island
+goat island
+goose island (guilford)
+goose island (stratford)
+governor island
+grannis island
+great captain island
+gull rock
+haddam island
+high island
+horse island
+kidd's island
+little pumpkin island
+long island
+mason's island
+menunketesuck island
+milford point
+minnie island
+money island
+mother-in-law island
+nells island
+north and south brother islands
+norwalk islands
+outer island
+peacock island
+pope's flat
+pot island
+ram island
+rogers island
+round rock
+sandy point island
+sherwood island
+thimble islands
+tuxis island
+underwood island
+wooster island
+peninsulas
+city point
+hay island
+lordship
+shippan point
+south end of stamford
+
+climate[edit]
+ köppen climate types in connecticut
+ scenery upon barndoor hills in granby in autumn
+ winter in east haven
+connecticut lies at the southern end of the humid continental climate, with cold winters with moderate snowfall and hot, humid summers. coastal connecticut is the rough transition zone from the cold continental climates of the north, to temperate - subtropical climates to the south. as such, far southern and coastal connecticut has a borderline humid subtropical climate with hot, humid summers and milder winters with a mix of rain and infrequent snow. most of connecticut sees a fairly even precipitation pattern with rainfall/snowfall spread throughout the 12 months. connecticut averages 56% of possible sunshine, averaging 2,400 hours of sunshine annually.[24]
+early spring (april) can range from slightly cool (40's to low 50's f) to warm (65 to 70 f), while mid and late spring (late april/may) is warm. by late may, the building bermuda high creates a southerly flow of warm and humid tropical air, bringing hot weather conditions throughout the state, with average highs in new london of 81 °f (27 °c) and 85 °f (29 °c) in windsor locks at the peak of summer in late july. on occasion, heat waves with highs from 90 to 100 f occur across connecticut. although summers are sunny in connecticut, quick moving summer thunderstorms can bring brief downpours with thunder and lightning. occasionally these thunderstorms can be severe, and the state usually averages one tornado per year.[25] during hurricane season, the remains of tropical cyclones occasionally affect the region, though a direct hit is rare.
+weather commonly associated with the fall season typically begins in october and lasts to the first days of december. daily high temperatures in october and november range from the 50s to 60s (fahrenheit) with nights in the 40s and upper 30s. colorful foliage begins across northern parts of the state in early october and moves south and east reaching southeast connecticut by early november. far southern and coastal areas however have more oak and hickory trees (and fewer maples), and are often less colorful than areas to the north. by december daytime highs are in the 40's f for much of the state, and average overnight lows are below freezing. 
+winters (december through mid march) are generally cold from south to north in connecticut. the coldest month (january) has average high temperatures ranging from 38 °f (3 °c) in the coastal lowlands to 33 °f (1 °c) in the inland and northern portions on the state. the average yearly snowfall ranges from about 60 inches (1,500 mm) in the higher elevations of the northern portion of the state to only 20–25 inches (510–640 mm) along the southeast coast of connecticut (branford to groton). generally, any locale north or west of interstate 84 receives the most snow, during a storm, and throughout the season. most of connecticut has less than 60 days of snow cover. snow usually falls from late november to late march in the northern part of the state, and from early december to mid march in the southern and coastal parts of the state.
+connecticut's record high temperature is 106 °f (41 °c) which occurred in danbury on july 15, 1995; the record low is −32 °f (−36 °c) which occurred in the northwest hills falls village on february 16, 1943, and coventry on january 22, 1961.[26]
+
+
+
+monthly normal high and low temperatures for various connecticut cities (°f)
+
+
+city
+
+jan
+
+feb
+
+mar
+
+apr
+
+may
+
+jun
+
+jul
+
+aug
+
+sep
+
+oct
+
+nov
+
+dec
+
+
+bridgeport
+
+37/23
+
+39/25
+
+47/32
+
+57/41
+
+67/51
+
+76/60
+
+82/66
+
+81/65
+
+74/58
+
+63/46
+
+53/38
+
+42/28
+
+
+hartford
+
+35/16
+
+39/19
+
+47/27
+
+59/38
+
+70/48
+
+79/57
+
+84/63
+
+82/61
+
+74/51
+
+63/40
+
+52/32
+
+40/22
+
+
+[27][28]
+
+flora[edit]
+main article: flora of connecticut
+see also: list of connecticut tree species
+forests consist of a mix of northeastern coastal forests of oak in southern areas of the state, to the upland new england-acadian forests in the northwestern parts of the state. mountain laurel (kalmia latifolia) is the state flower, and is native to low ridges in several parts of connecticut. rosebay rhododendron (rhododendron maximum) is also native to eastern uplands of connecticut and pachaug state forest is home to the rhododendron sanctuary trail. atlantic white cedar (chamaecyparis thyoides), is found in wetlands in the southern parts of the state. connecticut has one native cactus (opuntia humifusa), found in sandy coastal areas and low hillsides. several types of beach grasses and wildflowers are also native to connecticut.[29] connecticut spans usda plant hardiness zones 5b to 7a. coastal connecticut is the broad transition zone where more southern and subtropical plants are cultivated. in some coastal communities, magnolia grandiflora (southern magnolia), crape myrtles, scrub palms (sabal minor), and other broadleaved evergreens are cultivated in small numbers.[citation needed]
+
+history[edit]
+main article: history of connecticut
+ a map of the connecticut, new haven, and saybrook colonies
+the name connecticut is derived from the algonquian word that has been translated as "long tidal river" and "upon the long river",[30] referring to the connecticut river. the connecticut region was inhabited by multiple indian tribes before european settlement and colonization, including the mohegans, the pequots, and the paugusetts.[31]
+
+colonial connecticut[edit]
+main articles: new netherland, saybrook colony, connecticut colony, new haven colony, new england confederation, and dominion of new england
+the first european explorer in connecticut was dutchman adriaen block,[32] who explored the region in 1614. dutch fur traders then sailed up the connecticut river, which they called versche rivier ("fresh river"), and built a fort at dutch point in hartford that they named "house of hope" (dutch: huis van hoop).[33]
+the connecticut colony was originally a number of separate, smaller settlements at windsor, wethersfield, saybrook, hartford, and new haven. the first english settlers came in 1633 and settled at windsor, and then at wethersfield the following year.[34] john winthrop the younger of massachusetts received a commission to create saybrook colony at the mouth of the connecticut river in 1635.[35]
+the main body of settlers came in one large group in 1636. they were puritans from massachusetts bay colony led by thomas hooker, who established the connecticut colony at hartford.[36] the quinnipiack colony[37] was established by john davenport, theophilus eaton, and others at new haven in march 1638. the new haven colony had its own constitution called "the fundamental agreement of the new haven colony", signed on june 4, 1639.[38]
+the settlements were established without official sanction of the english crown, and each was an independent political entity.[39] in 1662, winthrop traveled to england and obtained a charter from charles ii which united the settlements of connecticut.[40] historically important colonial settlements included windsor (1633), wethersfield (1634), saybrook (1635), hartford (1636), new haven (1638), fairfield (1639), guilford (1639), milford (1639), stratford (1639), farmington (1640), stamford (1641), and new london (1646).
+the pequot war marked the first major clash between colonists and indians in new england. the pequots reacted with increasing aggression to colonial settlements in their territory—while simultaneously taking lands from the narragansett and mohegan tribes. settlers responded to a murder in 1636 with a raid on a pequot village on block island; the pequots laid siege to saybrook colony's garrison that autumn, then raided wethersfield in the spring of 1637. colonists declared war on the pequots, organized a band of militia and allies from the mohegan and narragansett tribes, and attacked a pequot village on the mystic river, with death toll estimates ranging between 300 and 700 pequots. after suffering another major loss at a battle in fairfield, the pequots asked for a truce and peace terms.[41]
+the western boundaries of connecticut have been subject to change over time. the hartford treaty with the dutch was signed on september 19, 1650, but it was never ratified by the british. according to it, the western boundary of connecticut ran north from greenwich bay for a distance of 20 miles (32 km),[42][43] "provided the said line come not within 10 miles of hudson river."[42][43] this agreement was observed by both sides until war erupted between england and the netherlands in 1652. conflict continued concerning colonial limits until the duke of york captured new netherland in 1664.[42][43]
+on the other hand, connecticut's original charter in 1662 granted it all the land to the "south sea"—that is, to the pacific ocean.[44] most colonial royal grants were for long east-west strips. connecticut took its grant seriously and established a ninth county between the susquehanna river and delaware river named westmoreland county. this resulted in the brief pennamite wars with pennsylvania.[45]
+yale college was established in 1701, providing connecticut with an important institution to educate clergy and civil leaders.[46] the congregational church dominated religious life in the colony and, by extension, town affairs in many parts.[47]
+
+american revolution[edit]
+main articles: american revolutionary war, lee resolution, united states declaration of independence, articles of confederation § ratification, northern theater of the american revolutionary war after saratoga, treaty of paris (1783), constitutional convention (united states), admission to the union, and list of u.s. states by date of admission to the union
+ a 1799 map of connecticut which shows the oblong, from low's encyclopaedia
+connecticut designated four delegates to the second continental congress who signed the declaration of independence: samuel huntington, roger sherman, william williams, and oliver wolcott.[48]
+connecticut's legislature authorized the outfitting of six new regiments in 1775, in the wake of the clashes between british regulars and massachusetts militia at lexington and concord. there were some 1,200 connecticut troops on hand at the battle of bunker hill in june 1775.[49]
+in 1777, the british got word of continental army supplies in danbury, and they landed an expeditionary force of some 2,000 troops in westport. this force then marched to danbury and destroyed homes and much of the depot. continental army troops and militia led by general david wooster and general benedict arnold engaged them on their return march at ridgefield in 1777.[50]
+for the winter of 1778–79, general george washington decided to split the continental army into three divisions encircling new york city, where british general sir henry clinton had taken up winter quarters.[51] major general israel putnam chose redding as the winter encampment quarters for some 3,000 regulars and militia under his command. the redding encampment allowed putnam's soldiers to guard the replenished supply depot in danbury and to support any operations along long island sound and the hudson river valley.[52] some of the men were veterans of the winter encampment at valley forge, pennsylvania the previous winter. soldiers at the redding camp endured supply shortages, cold temperatures, and significant snow, with some historians dubbing the encampment "connecticut's valley forge".[53]
+the state was also the launching site for a number of raids against long island orchestrated by samuel holden parsons and benjamin tallmadge,[54] and provided men and material for the war effort, especially to washington's army outside new york city. general william tryon raided the connecticut coast in july 1779, focusing on new haven, norwalk, and fairfield.[55] new london and groton heights were raided in september 1781 by benedict arnold, who had turned traitor to the british.[56]
+
+19th century[edit]
+early national period and industrial revolution[edit]
+connecticut ratified the u.s. constitution on january 9, 1788, becoming the fifth state.[57] the state prospered during the era following the american revolution, as mills and textile factories were built and seaports flourished from trade[58] and fisheries.
+in 1786, connecticut ceded territory to the u.s. government that became part of the northwest territory. the state retained land extending across the northern part of present-day ohio called the connecticut western reserve.[59] the western reserve section was settled largely by people from connecticut, and they brought connecticut place names to ohio.
+connecticut made agreements with pennsylvania and new york which extinguished her land claims within those states' boundaries and created the connecticut panhandle. the state then ceded the western reserve in 1800 to the federal government,[59] which brought it to its present boundaries (other than minor adjustments with massachusetts).
+the british blockade during the war of 1812 hurt exports and bolstered the influence of federalists who opposed the war.[60] the cessation of imports from britain stimulated the construction of factories to manufacture textiles and machinery. connecticut came to be recognized as a major center for manufacturing, due in part to the inventions of eli whitney and other early innovators of the industrial revolution.[61]
+the state was known for its political conservatism, typified by its federalist party and the yale college of timothy dwight. the foremost intellectuals were dwight and noah webster,[62] who compiled his great dictionary in new haven. religious tensions polarized the state, as the congregational church struggled to maintain traditional viewpoints, in alliance with the federalists. the failure of the hartford convention in 1814 hurt the federalist cause, with the democratic-republican party gaining control in 1817.[63]
+connecticut had been governed under the "fundamental orders" since 1639, but the state adopted a new constitution in 1818.[64]
+
+civil war era[edit]
+main article: connecticut in the american civil war
+ view of new london in 1854
+connecticut manufacturers played a major role in supplying the union forces with weapons and supplies during the civil war. the state furnished 55,000 men, formed into thirty full regiments of infantry, including two in the u.s. colored troops, with several connecticut men becoming generals. the navy attracted 250 officers and 2,100 men, and glastonbury native gideon welles was secretary of the navy. james h. ward of hartford was the first u.s. naval officer killed in the civil war.[65] connecticut casualties included 2,088 killed in combat, 2,801 dying from disease, and 689 dying in confederate prison camps.[66][67][68]
+a surge of national unity in 1861 brought thousands flocking to the colors from every town and city. however, as the war became a crusade to end slavery, many democrats (especially irish catholics) pulled back. the democrats took a pro-slavery position and included many copperheads willing to let the south secede. the intensely fought 1863 election for governor was narrowly won by the republicans.[69][70]
+
+second industrial revolution[edit]
+ 1895 map from rand mcnally
+connecticut's extensive industry, dense population, flat terrain, and wealth encouraged the construction of railroads starting in 1839. by 1840, 102 miles (164 km) of line were in operation, growing to 402 miles (647 km) in 1850 and 601 miles (967 km) in 1860.[71]
+the new york, new haven and hartford railroad, called the new haven or "the consolidated", became the dominant connecticut railroad company after 1872. j. p. morgan began financing the major new england railroads in the 1890s, dividing territory so that they would not compete. the new haven purchased 50 smaller companies, including steamship lines, and built a network of light rails (electrified trolleys) that provided inter-urban transportation for all of southern new england. by 1912, the new haven operated over 2,000 miles (3,200 km) of track with 120,000 employees.[72]
+in 1875, the first telephone exchange in the world was established in new haven.[73]
+
+20th century[edit]
+world war i[edit]
+when world war i broke out in 1914, connecticut became a major supplier of weaponry to the u.s. military; by 1918, 80% of the state's industries were producing goods for the war effort.[74] remington arms in bridgeport produced half the small-arms cartridges used by the u.s. army,[75] with other major suppliers including winchester in new haven and colt in hartford.[76]
+connecticut was also an important u.s. navy supplier, with electric boat receiving orders for 85 submarines,[77] lake torpedo boat building more than 20 subs,[78] and the groton iron works building freighters.[79] on june 21, 1916, the u.s. navy made groton the site for its east coast submarine base and school.
+the state enthusiastically supported the american war effort in 1917 and 1918, with large purchases of war bonds, a further expansion of industry, and an emphasis on increasing food production on the farms. thousands of state, local, and volunteer groups mobilized for the war effort and were coordinated by the connecticut state council of defense.[80] manufacturers wrestled with manpower shortages; waterbury's american brass and manufacturing company was running at half capacity, so the federal government agreed to furlough soldiers to work there.[81]
+
+interwar period[edit]
+in 1919, j. henry roraback started the connecticut light & power co.[82] which became the state's dominant electric utility. in 1925, frederick rentschler spurred the creation of pratt & whitney in hartford to develop engines for aircraft; the company became an important military supplier in world war ii and one of the three major manufacturers of jet engines in the world.[83]
+on september 21, 1938, the most destructive storm in new england history struck eastern connecticut, killing hundreds of people.[84] the eye of the "long island express" passed just west of new haven and devastated the connecticut shoreline between old saybrook and stonington from the full force of wind and waves, even though they had partial protection by long island. the hurricane caused extensive damage to infrastructure, homes, and businesses. in new london, a 500-foot (150 m) sailing ship was driven into a warehouse complex, causing a major fire. heavy rainfall caused the connecticut river to flood downtown hartford and east hartford. an estimated 50,000 trees fell onto roadways.[85]
+
+world war ii[edit]
+the advent of lend-lease in support of britain helped lift connecticut from the great depression,[86] with the state a major production center for weaponry and supplies used in world war ii. connecticut manufactured 4.1 percent of total u.s. military armaments produced during world war ii, ranking ninth among the 48 states,[87] with major factories including colt[88] for firearms, pratt & whitney for aircraft engines, chance vought for fighter planes, hamilton standard for propellers,[89] and electric boat for submarines and pt boats.[90] in bridgeport, general electric produced a significant new weapon to combat tanks: the bazooka.[91]
+on may 13, 1940, igor sikorsky made an untethered flight of the first practical helicopter.[92] the helicopter saw limited use in world war ii, but future military production made sikorsky aircraft's stratford plant connecticut's largest single manufacturing site by the start of the 21st century.[93]
+
+post-world war ii economic expansion[edit]
+connecticut lost some wartime factories following the end of hostilities, but the state shared in a general post-war expansion that included the construction of highways[94] and resulting in middle-class growth in suburban areas.
+prescott bush represented connecticut in the u.s. senate from 1952 to 1963; his son george h.w. bush and grandson george w. bush both became presidents of the united states.[95] in 1965, connecticut ratified its current constitution, replacing the document that had served since 1818.[96]
+in 1968, commercial operation began for the connecticut yankee nuclear power plant in east haddam; in 1970, the millstone nuclear power station began operations in waterford.[97] in 1974, connecticut elected democratic governor ella t. grasso, who became the first woman in any state to be elected governor.[98]
+
+late 20th century[edit]
+connecticut's dependence on the defense industry posed an economic challenge at the end of the cold war. the resulting budget crisis helped elect lowell weicker as governor on a third-party ticket in 1990. weicker's remedy was a state income tax which proved effective in balancing the budget, but only for the short-term. he did not run for a second term, in part because of this politically unpopular move.[99]
+in 1992, initial construction was completed on foxwoods casino at the mashantucket pequots reservation in eastern connecticut, which became the largest casino in the western hemisphere. mohegan sun followed four years later.[100]
+
+early 21st century[edit]
+in 2000, presidential candidate al gore chose senator joe lieberman as his running mate, marking the first time that a major party presidential ticket included someone of the jewish faith.[101] gore and lieberman fell five votes short of george w. bush and dick cheney in the electoral college.
+in the terrorist attacks of september 11, 2001, 65 state residents were killed, mostly fairfield county residents who were working in the world trade center.[102]
+in 2004, republican governor john g. rowland resigned during a corruption investigation, later pleading guilty to federal charges.[103][104]
+connecticut was hit by three major storms in just over 14 months in 2011 and 2012, with all three causing extensive property damage and electric outages. hurricane irene struck connecticut august 28, and damage totaled $235 million.[105] two months later, the "halloween nor'easter" dropped extensive snow onto trees, resulting in snapped branches and trunks that damaged power lines; some areas were without electricity for 11 days.[106] hurricane sandy had tropical storm-force winds when it reached connecticut october 29, 2012.[107] sandy's winds drove storm surges into streets and cut power to 98 percent of homes and businesses, with more than $360 million in damage.[108]
+on december 14, 2012, adam lanza shot and killed 26 people at sandy hook elementary school in newtown, and then killed himself.[109] the massacre spurred renewed efforts by activists for tighter laws on gun ownership nationally.[110]
+
+in the summer and fall of 2016, connecticut experienced a drought in many parts of the state, causing some water-use bans. as of november 15, 2016 (2016-11-15), 45% of the state was listed at severe drought by the us drought monitor, including almost all of hartford and litchfield counties. all the rest of the state was in moderate drought or severe drought, including middlesex, fairfield, new london, new haven, windham, and tolland counties. this affected the agricultural economy in the state.[111][112][113]
+the 21st century in connecticut in photos
+
+
+
+republican george w. bush was born in connecticut, winner in the 2000 and 2004 presidential elections.
+
+
+
+
+
+
+9/11 killed 65 people living in connecticut.
+
+
+
+
+
+
+governor john g. rowland was arrested for corruption in 2004.
+
+
+
+
+
+
+tropical storm irene made landfall in connecticut in august 2011.
+
+
+
+
+
+
+the 2011 october nor'easter caused major snow damage in the state.
+
+
+
+
+
+
+category 1 hurricane sandy made landfall in connecticut in october 2012, causing heavy destruction.
+
+
+
+
+
+
+in the sandy hook elementary school shooting, adam lanza killed 20 children and 6 adults.
+
+
+
+
+
+
+the 2016 connecticut drought affected the agricultural market around the state, causing water limitations to be applied on some towns.
+
+
+
+
+demographics[edit]
+
+
+historical population
+
+
+census
+pop.
+
+%±
+1790237,946—1800251,0025.5%1810261,9424.4%1820275,2485.1%1830297,6758.1%1840309,9784.1%1850370,79219.6%1860460,14724.1%1870537,45416.8%1880622,70015.9%1890746,25819.8%1900908,42021.7%19101,114,75622.7%19201,380,63123.9%19301,606,90316.4%19401,709,2426.4%19502,007,28017.4%19602,535,23426.3%19703,031,70919.6%19803,107,5762.5%19903,287,1165.8%20003,405,5653.6%20103,574,0974.9%est. 20183,572,6650.0%sources:[114][115][116][117]
+
+the united states census bureau estimates that the population of connecticut was 3,590,886 on july 1, 2015, a 0.47% increase since the 2010 united states census.[114]
+as of  2015[update], connecticut had an estimated population of 3,590,886,[114] which is an decrease of 5,791, or -0.16%, from the prior year and an increase of 16,789, or 0.47%, since the year 2010. this includes a natural increase since the last census of 67,427 people (that is 222,222 births minus 154,795 deaths) and an increase due to net migration of 41,718 people into the state. immigration from outside the united states resulted in a net increase of 75,991 people, and migration within the country produced a net loss of 34,273 people. based on the 2005 estimates, connecticut moved from the 29th most populous state to 30th. 2016 estimates put connecticut's population at 3,576,452.[118]
+6.6% of its population was reported as being under 5 years old, 24.7% under 18 years old, and 13.8% were 65 years of age or older. females made up approximately 51.6% of the population, with 48.4% male.
+in 1790, 97% of the population in connecticut was classified as "rural". the first census in which less than half the population was classified as rural was 1890. in the 2000 census, only 12.3% was considered rural. most of western and southern connecticut (particularly the gold coast) is strongly associated with new york city; this area is the most affluent and populous region of the state and has high property costs and high incomes. the center of population of connecticut is located in the town of cheshire.[119]
+
+ connecticut population density map
+population[edit]
+as of the 2010 u.s. census, connecticut's race and ethnic percentages were:
+
+77.6% white (71.2% non-hispanic white, 6.4% white hispanic)
+10.1% black or african american
+0.3% american indian and alaska native
+3.8% asian
+0.0% native hawaiian and other pacific islander
+5.6% from some other race
+2.6% two or more races
+hispanics and latinos of any race made up 13.4% of the population in the 2010 census.[120]
+the state's most populous ethnic group is non-hispanic white, but this has declined from 98% in 1940 to 71% in 2010.[121]
+
+
+connecticut racial breakdown of population
+
+
+racial composition
+1990[122]
+2000[123]
+2010[120]
+
+
+white
+87.0%
+81.6%
+77.6%
+
+
+black
+8.3%
+9.1%
+10.1%
+
+
+asian
+1.5%
+2.4%
+3.8%
+
+
+native
+0.2%
+0.3%
+0.3%
+
+
+native hawaiian andother pacific islander
+–
+–
+-
+
+
+other race
+2.9%
+4.3%
+5.6%
+
+
+two or more races
+–
+2.2%
+2.6%
+
+as of 2004, 11.4% of the population (400,000) was foreign-born. in 1870, native-born americans had accounted for 75% of the state's population, but that had dropped to 35% by 1918.
+as of 2000, 81.69% of connecticut residents age 5 and older spoke english at home and 8.42% spoke spanish, followed by italian at 1.59%, french at 1.31%, and polish at 1.20%.[124]
+the largest european ancestry groups are:[125]
+
+19.3% italian
+17.9% irish
+10.7% english
+10.4% german
+8.6% polish
+6.6% french
+3.0% french canadian
+2.7% american
+2.0% scottish
+1.4% scotch irish
+ main street, newtown
+birth data[edit]
+as of  2011[update], 46.1% of connecticut's population younger than age 1 were minorities.[126]
+
+ majority racial and ethnic groups in connecticut, 2010
+note: births in table don't add up, because hispanics are counted both by their ethnicity and by their race, giving a higher overall number.
+
+
+live births by single race/ethnicity of mother
+
+
+race
+
+2013[127]
+
+2014[128]
+
+2015[129]
+
+2016[130]
+
+2017[131]
+
+
+white:
+
+28,454 (78.8%)
+
+28,543 (78.7%)
+
+28,164 (78.8%)
+
+...
+
+...
+
+
+> non-hispanic white
+
+20,704 (57.4%)
+
+20,933 (57.7%)
+
+20,395 (57.1%)
+
+19,551 (54.3%)
+
+18,842 (53.5%)
+
+
+black
+
+5,103 (14.1%)
+
+5,154 (14.2%)
+
+4,988 (14.0%)
+
+4,453 (12.4%)
+
+4,301 (12.2%)
+
+
+asian
+
+2,221 (6.2%)
+
+2,280 (6.3%)
+
+2,497 (7.0%)
+
+2,583 (7.2%)
+
+2,475 (7.0%)
+
+
+american indian
+
+307 (0.9%)
+
+308 (0.8%)
+
+97 (0.3%)
+
+26 (0.1%)
+
+28 (0.1%)
+
+
+hispanic (of any race)
+
+8,208 (22.7%)
+
+8,129 (22.4%)
+
+8,275 (23.1%)
+
+8,622 (23.9%)
+
+8,833 (25.1%)
+
+
+total connecticut
+
+36,085 (100%)
+
+36,285 (100%)
+
+35,746 (100%)
+
+36,015 (100%)
+
+35,221 (100%)
+
+since 2016, data for births of white hispanic origin are not collected, but included in one hispanic group; persons of hispanic origin may be of any race.
+religion[edit]
+the religious affiliations of the people of connecticut as of  2014[update]:[132]
+
+
+
+
+religion in connecticut (2014)[133]
+
+religion
+
+
+percent
+
+
+
+protestant
+ 
+35%
+
+
+catholic
+ 
+33%
+
+
+none
+ 
+28%
+
+
+jewish
+ 
+3%
+
+
+mormon
+ 
+1%
+
+
+eastern orthodox
+ 
+1%
+
+
+other christian
+ 
+1%
+
+
+buddhist
+ 
+1%
+
+
+hindu
+ 
+1%
+
+
+muslim
+ 
+1%
+
+
+other
+ 
+2%
+
+
+don't know
+ 
+1%
+
+
+
+
+
+a pew survey of connecticut residents' religious self-identification showed the following distribution of affiliations: protestant 35%, mormonism 1%, jewish 3%, roman catholic 33%, orthodox 1%, non-religious 28%, jehovah's witness 1%,  hinduism 1%, buddhism 1% and islam 1%.[133][134] jewish congregations had 108,280 (3.2%) members in 2000.[135] the jewish population is concentrated in the towns near long island sound between greenwich and new haven, in greater new haven and in greater hartford, especially the suburb of west hartford. according to the association of religion data archives, the largest christian denominations, by number of adherents, in 2010 were: the catholic church, with 1,252,936; the united church of christ, with 96,506; and non-denominational evangelical protestants, with 72,863.[135]
+recent immigration has brought other non-christian religions to the state, but the numbers of adherents of other religions are still low. connecticut is also home to new england's largest protestant church: the first cathedral in bloomfield, connecticut located in hartford county. hartford is seat to the roman catholic archdiocese of hartford, which is sovereign over the diocese of bridgeport and the diocese of norwich.
+
+largest cities and towns[edit]
+bridgeport, 147,629
+new haven, 130,741
+stamford, 129,113
+hartford, 123,243
+waterbury, 110,366
+norwalk, 88,438
+danbury, 84.992
+new britain, 73,206
+west hartford, 63,324
+greenwich, 62,610
+
+the largest cities in the state
+
+
+
+bridgeport
+
+
+
+
+
+
+new haven
+
+
+
+
+
+
+hartford
+
+
+
+
+
+
+stamford
+
+
+
+
+
+
+waterbury
+
+
+
+
+economy[edit]
+see also: list of connecticut locations by per capita income
+ connecticut state welcome sign in enfield, connecticut
+the total gross state product for 2012 was $229.3 billion, up from $225.4 billion in 2011.[136]
+connecticut's per capita personal income in 2013 was estimated at $60,847, the highest of any state.[137] there is, however, a great disparity in incomes throughout the state; after new york, connecticut had the second largest gap nationwide between the average incomes of the top 1 percent and the average incomes of the bottom 99 percent.[138] according to a 2013 study by phoenix marketing international, connecticut had the third-largest number of millionaires per capita in the united states, with a ratio of 7.32 percent.[139] new canaan is the wealthiest town in connecticut, with a per capita income of $85,459. darien, greenwich, weston, westport and wilton also have per capita incomes over $65,000. hartford is the poorest municipality in connecticut, with a per capita income of $13,428 in 2000.[140]
+
+ entering the merritt parkway from new york in greenwich, connecticut
+the state's seasonally adjusted unemployment rate in may 2016 was 5.7 percent, the 41st highest in the nation.[141]
+
+taxation[edit]
+before 1991, connecticut had an investment-only income tax system. income from employment was untaxed, but income from investments was taxed at 13%, the highest rate in the u.s., with no deductions allowed for costs of producing the investment income, such as interest on borrowing.
+in 1991, under governor lowell p. weicker jr., an independent, the system was changed to one in which the taxes on employment income and investment income were equalized at a maximum rate of 4%. the new tax policy drew investment firms to connecticut; as of  2014[update], fairfield county was home to the headquarters for 14 of the 200 largest hedge funds in the world.[142]
+as of  2014[update], the income tax rates on connecticut individuals are divided into six tax brackets of 3% (on income up to $10,000); 5% ($10,000-$50,000); 5.5% ($50,000-$100,000); 6% ($100,000-$200,000); 6.5% ($200,000-$250,000); and 6.7% (more than $250,000), with additional amounts owed depending on the bracket.[143]
+all wages of connecticut residents are subject to the state's income tax, even if earned outside the state. however, in those cases, connecticut income tax must be withheld only to the extent the connecticut tax exceeds the amount withheld by the other jurisdiction. since new york and massachusetts have higher tax rates than connecticut, this effectively means that connecticut residents that work in those states have no connecticut income tax withheld. connecticut permits a credit for taxes paid to other jurisdictions, but since residents who work in other states are still subject to connecticut income taxation, they may owe taxes if the jurisdictional credit does not fully offset the connecticut tax amount.
+connecticut levies a 6.35% state sales tax on the retail sale, lease, or rental of most goods.[144] some items and services in general are not subject to sales and use taxes unless specifically enumerated as taxable by statute. a provision excluding clothing under $50 from sales tax was repealed as of  july 1, 2011[update].[144] there are no additional sales taxes imposed by local jurisdictions. in august 2013, connecticut authorized a sales tax "holiday" for one week during which retailers did not have to remit sales tax on certain items and quantities of clothing.[145]
+all real and personal property located within the state of connecticut is taxable unless specifically exempted by statute. all assessments are at 70% of fair market value. another 20% of the value may be taxed by the local government though. the maximum property tax credit is $300 per return and any excess may not be refunded or carried forward.[146] connecticut does not levy an intangible personal property tax. according to the tax foundation, the 2010 census data shows connecticut residents paying the 2nd highest average property taxes in the nation with only new jersey ahead of them.[147]
+the tax foundation determined connecticut residents had the third highest burden in the nation for state and local taxes at 11.86%, or $7,150, compared to the national average of 9.8%.[148]
+as of  2014[update], the gasoline tax in connecticut is 49.3 cents per gallon (the third highest in the nation) and the diesel tax is 54.9 cents per gallon (the highest in the nation).[149]
+
+real estate[edit]
+of home-sale transactions that closed in march 2014, the median home in connecticut sold for $225,000, up 3.2% from march 2013.[150] connecticut ranked ninth nationally in foreclosure activity as of  april 2014[update], with one of every 887 residential units involved in a foreclosure proceeding, or 0.11% of the total housing stock.,[151] including city place i and the traveler's tower, both housing the major insurance industry.
+
+industries[edit]
+see also: list of connecticut companies
+finance and insurance is connecticut's largest industry, according to the u.s. census bureau, generating 16.4% of gross domestic product (gdp) in 2009. major financial industry employers include the hartford, travelers, cigna, aetna, mass mutual, people's united financial,[152] royal bank of scotland,[153] ubs[154] bridgewater associates,[155] and ge capital. separately, the real estate industry accounted for an additional 15% of economic activity in 2009, with major employers including realogy[156] and william raveis real estate.[157]
+
+ hartford skyline
+manufacturing is the third biggest industry at 11.9% of gdp and dominated by hartford-based united technologies corporation (utc), which employs more than 22,000 people in connecticut.[158] lockheed martin subsidiary sikorsky aircraft operates connecticut's single largest manufacturing plant in stratford,[157] where it makes helicopters. other utc divisions include utc propulsion and aerospace systems, including jet engine manufacturer pratt & whitney and utc building and industrial systems.[159]
+other major manufacturers include the electric boat division of general dynamics, which makes submarines in groton,[160] and boehringer ingelheim, a pharmaceuticals manufacturer with its u.s. headquarters in ridgefield.[157]
+connecticut historically was a center of gun manufacturing, and four gun-manufacturing firms continued to operate in the state as of  december 2012[update], employing 2,000 people: colt, stag, ruger, and mossberg.[161] marlin, owned by remington, closed in april 2011.[162]
+a report issued by the connecticut commission on culture & tourism on december 7, 2006 demonstrated that the areas of the arts, film, history, and tourism generated more than $14 billion in economic activity and 170,000 jobs annually. this provides $9 billion in personal income for connecticut residents and $1.7 billion in state and local revenue.[163] the foxwoods resort casino and mohegan sun casino number among the state's largest employers;[164] both are located on indian reservations in the eastern part of connecticut.
+connecticut's agricultural sector employed about 12,000 people as of  2010[update], with more than a quarter of that number involved in nursery stock production. other agricultural products include dairy products and eggs, tobacco, fish and shellfish, and fruit.[165]
+oyster harvesting was historically an important source of income to towns along the connecticut coastline. in the 19th century, oystering boomed in new haven, bridgeport, and norwalk and achieved modest success in neighboring towns. in 1911, connecticut's oyster production reached its peak at nearly 25 million pounds of oyster meats. this was, at the time, higher than production in new york, rhode island, or massachusetts.[166] during this time, the connecticut coast was known in the shellfishing industry as the oyster capital of the world. from before world war 1 until 1969, connecticut laws restricted the right to harvest oysters in state-owned beds to sailing vessels. these laws prompted the construction of the oyster sloop style vessel that lasted well into the 20th century.[167] the sloop hope is believed to be the last oyster sloop built in connecticut, completed in greenwich in 1948.
+
+transportation[edit]
+main article: transportation in connecticut
+roads[edit]
+main article: list of state routes in connecticut
+ the pearl harbor memorial bridge, locally known as the q bridge, carries ten lanes over the quinnipiac river in new haven, along the connecticut turnpike.
+the interstate highways in the state are interstate 95 (i-95; the connecticut turnpike) traveling southwest to northeast along the coast, i-84 traveling southwest to northeast in the center of the state, i-91 traveling north to south in the center of the state, and i-395 traveling north to south near the eastern border of the state. the other major highways in connecticut are the merritt parkway and wilbur cross parkway, which together form connecticut route 15 (route 15), traveling from the hutchinson river parkway in new york parallel to i-95 before turning north of new haven and traveling parallel to i-91, finally becoming a surface road in berlin. i-95 and route 15 were originally toll roads; they relied on a system of toll plazas at which all traffic stopped and paid fixed tolls. a series of terrible crashes at these plazas eventually contributed to the decision to remove the tolls in 1988.[168] other major arteries in the state include u.s. route 7 (us 7) in the west traveling parallel to the new york state line, route 8 farther east near the industrial city of waterbury and traveling north–south along the naugatuck river valley nearly parallel with us 7, and connecticut route 9 in the east.
+between new haven and new york city, i-95 is one of the most congested highways in the united states. although i-95 has been widened in several spots, some areas are only 3 lanes and this strains traffic capacity, resulting in frequent and lengthy rush hour delays. frequently, the congestion spills over to clog the parallel merritt parkway and even us 1. the state has encouraged traffic reduction schemes, including rail use and ride-sharing.[169]
+connecticut also has a very active bicycling community, with one of the highest rates of bicycle ownership and use in the united states, particularly in new haven. according to the us census 2006 american community survey, new haven has the highest percentage of commuters who bicycle to work of any major metropolitan center on the east coast.[170]
+
+rail[edit]
+ a metro-north railroad new haven line train leaving stamford station
+rail is a popular travel mode between new haven and new york city's grand central terminal. southwestern connecticut is served by the metro-north railroad's new haven line, operated by the metropolitan transportation authority and providing commuter service to new york city and new haven, with branches servicing new canaan, danbury, and waterbury. connecticut lies along amtrak's northeast corridor which features frequent northeast regional and acela express service from new haven south to new york city, philadelphia, baltimore, washington, dc, and norfolk, va.
+coastal cities and towns between new haven and new london are also served by the shore line east commuter line. several new stations were completed along the connecticut shoreline recently, and a commuter rail service called the hartford line between new haven and springfield on amtrak's new haven-springfield line began operating in june 2018.[171] 
+a proposed commuter rail service, the central corridor rail line, will connect new london with norwich, willimantic, storrs, and stafford springs, with service continuing into massachusetts and brattleboro. amtrak also operates a shuttle service between new haven and springfield, massachusetts, serving wallingford, meriden, berlin, hartford, windsor locks, and springfield, ma and the vermonter runs from washington to st. albans, vermont via the same line.
+
+bus[edit]
+statewide bus service is supplied by connecticut transit, owned by the connecticut department of transportation, with smaller municipal authorities providing local service. bus networks are an important part of the transportation system in connecticut, especially in urban areas like hartford, stamford, norwalk, bridgeport and new haven. connecticut transit also operates ctfastrak, a bus rapid transit service between new britain and hartford. the bus route opened to the public on march 28, 2015.[172][173][174]
+
+ bradley international airport, the state's largest airport
+air[edit]
+bradley international airport,[175] is located in windsor locks, 15 miles (24 km) north of hartford. many residents of central and southern connecticut also make heavy use of jfk international airport and newark international airports, especially for international travel. smaller regional air service is provided at tweed new haven regional airport. larger civil airports include danbury municipal airport and waterbury-oxford airport in western connecticut, hartford–brainard airport in central connecticut, and groton-new london airport in eastern connecticut. sikorsky memorial airport is located in stratford and mostly services cargo, helicopter and private aviation.
+
+ferry[edit]
+the bridgeport & port jefferson ferry travels between bridgeport, connecticut and port jefferson, new york by crossing long island sound. ferry service also operates out of new london to orient, new york; fishers island, new york; and block island, rhode island, which are popular tourist destinations. small local services operate the rocky hill – glastonbury ferry and the chester–hadlyme ferry which cross the connecticut river.
+
+law and government[edit]
+main articles: law of connecticut and administrative divisions of connecticut
+this article is part of a series on thelaw of connecticut
+
+sources of law
+constitution of connecticut
+connecticut general statutes
+
+legal history
+alexander v. yale
+american electric power co. v. connecticut
+atlantic states marine fisheries commission
+blue laws (connecticut)
+boddie v. connecticut
+cantwell v. connecticut
+connecticut indian land claims settlement
+connecticut v. doehr
+geer v. connecticut
+griswold v. connecticut
+history of the connecticut constitution
+fundamental orders of connecticut
+loewe v. lawlor
+mohegan indians v. connecticut
+new haven black panther trials
+new york v. connecticut
+palko v. connecticut
+trial of thomas hogg
+united states v. the amistad
+
+judiciary
+connecticut supreme court
+connecticut superior court
+connecticut appellate court
+connecticut probate courts
+united states district court for the district of connecticut
+
+wikiproject connecticutvte
+ the connecticut state capitol in downtown hartford
+hartford has been the sole capital of connecticut since 1875. before then, new haven and hartford alternated as capitals.[57]
+
+constitutional history[edit]
+main article: history of the connecticut constitution
+connecticut is known as the "constitution state". the origin of this nickname is uncertain, but it likely comes from connecticut's pivotal role in the federal constitutional convention of 1787, during which roger sherman and oliver ellsworth helped to orchestrate what became known as the connecticut compromise, or the great compromise. this plan combined the virginia plan and the new jersey plan to form a bicameral legislature, a form copied by almost every state constitution since the adoption of the federal constitution. variations of the bicameral legislature had been proposed by virginia and new jersey, but connecticut's plan was the one that was in effect until the early 20th century, when senators ceased to be selected by their state legislatures and were instead directly elected. otherwise, it is still the design of congress.
+the nickname also might refer to the fundamental orders of 1638–39. these fundamental orders represent the framework for the first formal connecticut state government written by a representative body in connecticut. the state of connecticut government has operated under the direction of four separate documents in the course of the state's constitutional history. after the fundamental orders, connecticut was granted governmental authority by king charles ii of england through the connecticut charter of 1662.
+separate branches of government did not exist during this period, and the general assembly acted as the supreme authority. a constitution similar to the modern u.s. constitution was not adopted in connecticut until 1818. finally, the current state constitution was implemented in 1965. the 1965 constitution absorbed a majority of its 1818 predecessor, but incorporated a handful of important modifications.
+
+executive[edit]
+the governor heads the executive branch. as of  2019[update], ned lamont is the governor[176] and susan bysiewicz is the lieutenant governor,[177] both are democrats. from 1639 until the adoption of the 1818 constitution, the governor presided over the general assembly. in 1974, ella grasso was elected as the governor of connecticut. this was the first time in united states history when a woman was a governor without her husband being governor first.[98]
+there are several executive departments: administrative services, agriculture, banking, children and families, consumer protection, correction, economic and community development, developmental services, construction services, education, emergency management and public protection, energy & environmental protection, higher education, insurance, labor, mental health and addiction services, military, motor vehicles, public health, public utility regulatory authority, public works, revenue services, social services, transportation, and veterans affairs. in addition to these departments, there are other independent bureaus, offices and commissions.[178]
+in addition to the governor and lieutenant governor, there are four other executive officers named in the state constitution that are elected directly by voters: secretary of the state, treasurer, comptroller, and attorney general. all executive officers are elected to four-year terms.[57]
+
+legislative[edit]
+the legislature is the general assembly. the general assembly is a bicameral body consisting of an upper body, the state senate (36 senators); and a lower body, the house of representatives (151 representatives).[57] bills must pass each house in order to become law. the governor can veto the bill, but this veto can be overridden by a two-thirds majority in each house. per article xv of the state constitution, senators and representatives must be at least 18 years of age and are elected to two-year terms in november on even-numbered years. there also must always be between 30 and 50 senators and 125 to 225 representatives. the lieutenant governor presides over the senate, except when absent from the chamber, when the president pro tempore presides. the speaker of the house presides over the house.[179] as of  2017[update], joe aresimowicz is the speaker of the house of connecticut.
+as of  2015[update], connecticut's united states senators are richard blumenthal (democrat) and chris murphy (democrat).[180] connecticut has five representatives in the u.s. house, all of whom are democrats.[181]
+locally elected representatives also develop local ordinances to govern cities and towns.[182] the town ordinances often include noise control and zoning guidelines.[183] however, the state of connecticut does also provide statewide ordinances for noise control as well.[184]
+
+judicial[edit]
+the highest court of connecticut's judicial branch is the connecticut supreme court, headed by the chief justice of connecticut. the supreme court is responsible for deciding on the constitutionality of the law or cases as they relate to the law. its proceedings are similar to those of the united states supreme court, with no testimony given by witnesses, and the lawyers of the two sides each present oral arguments no longer than thirty minutes. following a court proceeding, the court may take several months to arrive at a judgment. as of  2015[update] the chief justice is chase t. rogers.[185]
+in 1818, the court became a separate entity, independent of the legislative and executive branches.[186] the appellate court is a lesser statewide court and the superior courts are lower courts that resemble county courts of other states.
+the state of connecticut also offers access to arrest warrant enforcement statistics through the office of policy and management.[187]
+
+local government[edit]
+see also: administrative divisions of connecticut
+and several lists: list of municipalities of connecticut by population, list of towns in connecticut, list of cities in connecticut, borough (connecticut), list of counties in connecticut
+connecticut does not have county government, unlike all other states except rhode island. connecticut county governments were mostly eliminated in 1960, with the exception of sheriffs elected in each county.[188] in 2000, the county sheriff was abolished and replaced with the state marshal system, which has districts that follow the old county territories. the judicial system is divided into judicial districts at the trial-court level which largely follow the old county lines.[189] the eight counties are still widely used for purely geographical and statistical purposes, such as weather reports and census reporting.
+connecticut shares with the rest of new england a governmental institution called the new england town. the state is divided into 169 towns which serve as the fundamental political jurisdictions.[57] there are also 21 cities,[57] most of which simply follow the boundaries of their namesake towns and have a merged city-town government. there are two exceptions: the city of groton, which is a subsection of the town of groton, and the city of winsted in the town of winchester. there are also nine incorporated boroughs which may provide additional services to a section of town.[57][190] naugatuck is a consolidated town and borough.
+the state is also divided into 15 planning regions defined by the state office of planning and management, with the exception of the town of stafford in tolland county.[191] the intragovernmental policy division of this office coordinates regional planning with the administrative bodies of these regions. each region has an administrative body known as a regional council of governments, a regional council of elected officials, or a regional planning agency. the regions are established for the purpose of planning "coordination of regional and state planning activities; redesignation of logical planning regions and promotion of the continuation of regional planning organizations within the state; and provision for technical aid and the administration of financial assistance to regional planning organizations".[191]
+
+politics[edit]
+further information: political party strength in connecticut and elections in connecticut
+ connecticut political party registration 1958–2012 marked with presidential influence
+registered voters[edit]
+connecticut residents who register to vote have the option of declaring an affiliation to a political party, may become unaffiliated at will, and may change affiliations subject to certain waiting periods. as of  2018[update] about 60% of registered voters are enrolled (just over 1% total in 28 third parties minor parties), and ratios among unaffiliated voters and the two major parties are about 8 unaffiliated for every 7 in the democratic party of connecticut and for every 4 in the connecticut republican party.
+(among the minor parties, the libertarian party and green party appeared in the presidential-electors column in 2016, and drew, respectively, 2.96% and 1.39% of the vote.)
+many connecticut towns and cities show a marked preference for moderate candidates of either party.[2]
+
+
+
+connecticut voter registration and party enrollment as of  november 5, 2018[update][192]
+
+
+party
+
+active voters
+
+percentage
+
+
+
+
+unaffiliated
+
+877,392
+
+40.52%
+
+
+
+
+democratic
+
+792,558
+
+36.60%
+
+
+
+
+republican
+
+463,167
+
+21.39%
+
+
+
+
+independent
+
+26,848
+
+1.24%
+
+
+
+
+libertarian
+
+2,980
+
+0.14%
+
+
+
+
+green
+
+1,762
+
+0.08%
+
+
+
+
+working families
+
+317
+
+0.01%
+
+
+
+
+24 other minor parties withoutstatewide enrollment privileges
+
+205
+
+0.01%
+
+
+total
+
+2,165,229
+
+100%
+
+
+gubernatorial election results[193]
+
+
+year
+
+democratic
+
+republican
+
+
+1950
+
+47.7% 419,404
+
+49.7% 436,418
+
+
+1954
+
+49.5% 463,643
+
+49.2% 460,528
+
+
+1958
+
+62.3% 607,012
+
+37.0% 360,644
+
+
+1962
+
+53.2% 549,027
+
+46.8% 482,852
+
+
+1966
+
+55.7% 561,599
+
+44.3% 446,536
+
+
+1970
+
+46.2% 500,561
+
+53.8% 582,160
+
+
+1974
+
+58.4% 643,499
+
+39.9% 440,169
+
+
+1978
+
+59.2% 613,109
+
+40.7% 422,316
+
+
+1982
+
+53.4% 578,264
+
+45.9% 497,773
+
+
+1986
+
+57.9% 575,638
+
+41.1% 408,489
+
+
+1990
+
+20.7% 236,641
+
+37.5% 427,840
+
+
+1994
+
+32.7% 375,133
+
+36.2% 415,201
+
+
+1998
+
+35.4% 354,187
+
+62.9% 628,707
+
+
+2002
+
+43.9% 448,984
+
+56.1% 573,958
+
+
+2006
+
+35.5% 398,220
+
+63.2% 710,048
+
+
+2010
+
+49.5% 567,278
+
+49.0% 560,874
+
+
+2014
+
+50.7% 554,314
+
+48.2% 526,295
+
+
+2018
+
+49.4% 694,510
+
+46.2% 650,138
+
+
+
+presidential election results[193]
+
+
+year
+
+democratic
+
+republican
+
+
+1952
+
+43.9% 481,649
+
+55.7% 611,012
+
+
+1956
+
+36.3% 405,079
+
+63.7% 711,837
+
+
+1960
+
+53.7% 657,055
+
+46.3% 565,813
+
+
+1964
+
+67.8% 826,269
+
+32.1% 390,996
+
+
+1968
+
+49.5% 621,561
+
+44.3% 556,721
+
+
+1972
+
+40.1% 555,498
+
+58.6% 810,763
+
+
+1976
+
+46.9% 647,895
+
+52.1% 719,261
+
+
+1980
+
+38.5% 541,732
+
+48.2% 677,210
+
+
+1984
+
+38.8% 569,597
+
+60.7% 890,877
+
+
+1988
+
+46.9% 676,584
+
+52.0% 750,241
+
+
+1992
+
+42.2% 682,318
+
+35.8% 578,313
+
+
+1996
+
+52.8% 735,740
+
+34.7% 483,109
+
+
+2000
+
+55.9% 816,015
+
+38.4% 561,094
+
+
+2004
+
+54.3% 857,488
+
+44.0% 693,826
+
+
+2008
+
+60.6% 997,773
+
+38.2% 629,428
+
+
+2012
+
+58.1% 905,109
+
+40.7% 634,899
+
+
+2016
+
+54.6% 897,572
+
+40.9% 673,215
+
+ treemap of the popular vote by county, 2016 presidential election.
+voting[edit]
+in april 2012 both houses of the connecticut state legislature passed a bill (20 to 16 and 86 to 62) that abolished the capital punishment for all future crimes, while 11 inmates who were waiting on the death row at the time could still be executed.[194]
+in july 2009 the connecticut legislature overrode a veto by governor m. jodi rell to pass sustinet, the first significant public-option health care reform legislation in the nation.[195]
+
+education[edit]
+connecticut ranked third in the nation for educational performance, according to education week’s quality counts 2018 report. it earned an overall score of 83.5 out of 100 points. on average, the country received a score of 75.2.[196]
+connecticut posted a b-plus in the chance-for-success category, ranking fourth on factors that contribute to a person’s success both within and outside the k-12 education system. connecticut received a mark of b-plus and finished fourth for school finance. it ranked 12th with a grade of c on the k-12 achievement index.[196]
+
+k–12[edit]
+see also: connecticut state board of education
+the connecticut state board of education manages the public school system for children in grades k–12. board of education members are appointed by the governor of connecticut. statistics for each school are made available to the public through an online database system called "cedar".[197] the cedar database also provides statistics for "aces" or "resc" schools for children with behavioral disorders.[198]
+
+private schools[edit]
+see also: country day school movement
+
+academy of our lady of mercy, lauralton hall (1905)
+avon old farms school (1927)
+bridgeport international academy (1997)
+brunswick school (1902)
+canterbury school (1915)
+cheshire academy (1794)
+choate rosemary hall (1890)
+east catholic high school (1961)
+ethel walker school (1911)
+fairfield country day school (1936)
+fairfield college preparatory school (1942)
+foote school (1916)
+greens farms academy (1925)
+greenwich country day school (1926)
+the gunnery (1850)
+hopkins school (1660)
+hotchkiss school (1891)
+kent school (1906)
+kingswood-oxford school (1909)
+loomis chaffee (1914)
+marianapolis preparatory school (1926)
+the master's school (1970)
+mercy high school (1963)
+miss porter's school (1843)
+new canaan country school (1916)
+northwest catholic high school (1961)
+norwich free academy (1854)
+notre dame catholic high school (1955)
+notre dame high school (1946)
+pomfret school  (1894)
+rumsey hall school  (1900)
+sacred heart academy (1946)
+saint bernard school (1956)
+stanwich school (1998)
+st. paul catholic high school (1966)
+suffield academy (1833)
+the taft school (1890)
+watkinson school
+westminster school (connecticut)
+westover school (1909)
+the williams school (1891)
+xavier high school (1963)
+
+colleges and universities[edit]
+connecticut was home to the nation's first law school, litchfield law school, which operated from 1773 to 1833 in litchfield. hartford public high school (1638) is the third-oldest secondary school in the nation after the collegiate school (1628) in manhattan and the boston latin school (1635).
+
+private[edit]
+yale university (1701)[199]
+trinity college (1823)
+wesleyan university (1831)
+university of hartford (1877)
+post university (1890)
+connecticut college (1911)
+united states coast guard academy (1915)
+university of new haven (1920)
+university of bridgeport (1927)
+albertus magnus college (1925)
+quinnipiac university (1929)
+university of saint joseph (connecticut) (1932)
+mitchell college (1938)
+fairfield university (1942)
+sacred heart university (1963)
+ yale's motto means light & truth.
+ university of connecticut, the state's main public university
+ yale (close up of door). yale was formerly known as the collegiate school.
+public universities[edit]
+see also: connecticut state university system
+central connecticut state university (1849)
+university of connecticut (1881)[200]
+eastern connecticut state university (1889)
+southern connecticut state university (1893)
+western connecticut state university (1903)
+charter oak state college (1973)
+public community colleges[edit]
+ southbury training school greenhouse, interior.
+ southbury greenhouse, 2016
+capital community college (1946)[201]
+norwalk community college (1961)[202]
+manchester community college (1963)[203]
+naugatuck valley community college (1964)[204]
+northwestern connecticut community college (1965)[205]
+middlesex community college (1966)[206]
+housatonic community college (1967)[207]
+gateway community college (1968)[208]
+asnuntuck community college (1969)[209]
+tunxis community college (1969)[210]
+quinebaug valley community college (1971)[211]
+three rivers community college (1992)[212]
+the state also has many noted private day schools, and its boarding schools draw students from around the world.
+
+see also: list of school districts in connecticut
+sports[edit]
+there are two connecticut teams in the american hockey league. the bridgeport sound tigers is a farm team for the new york islanders which competes at the webster bank arena in bridgeport. the hartford wolf pack is the affiliate of the new york rangers; they play in the xl center in hartford.
+the hartford yard goats of the eastern league are a aa affiliate of the colorado rockies. also, the connecticut tigers play in the new york-penn league and are an a affiliate of the detroit tigers. the bridgeport bluefish and the new britain bees play in the atlantic league of professional baseball. the connecticut sun of the wnba currently play at the mohegan sun arena in uncasville. in soccer, hartford athletic will begin play in the usl championship in 2019, serving as the reserve team for the new england revolution of major league soccer.
+the state hosts several major sporting events. since 1952, a pga tour golf tournament has been played in the hartford area. it was originally called the "insurance city open" and later the "greater hartford open" and is now known as the travelers championship. the connecticut open tennis tournament is held annually in the cullman-heyman tennis center at yale university in new haven.
+
+ lime rock, a home of the american le mans series tournament
+lime rock park in salisbury is a 1.5-mile (2.4 km) road racing course, home to the international motor sports association, scca, united states auto club, and k&n pro series east races. thompson international speedway, stafford motor speedway, and waterford speedbowl are oval tracks holding weekly races for nascar modifieds and other classes, including the nascar whelen modified tour. the state also hosts several major mixed martial arts events for bellator mma and the ultimate fighting championship.
+
+professional sports teams[edit]
+the hartford whalers of the national hockey league played in hartford from 1975 to 1997 at the hartford civic center. they departed to raleigh, north carolina after disputes with the state over the construction of a new arena, and they are now known as the carolina hurricanes. in 1926, hartford had a franchise in the national football league known as the hartford blues.[213] they joined the national league for one season in 1876, making them the state's only major league baseball franchise before moving to brooklyn, new york and then disbanding one season later.
+
+
+
+team
+
+sport
+
+league
+
+
+bridgeport sound tigers
+
+ice hockey
+
+american hockey league
+
+
+hartford wolf pack
+
+ice hockey
+
+american hockey league
+
+
+connecticut whale
+
+ice hockey
+
+national women's hockey league
+
+
+hartford yard goats
+
+baseball
+
+eastern league (aa)
+
+
+connecticut tigers
+
+baseball
+
+new york–penn league (a)
+
+
+new britain bees
+
+baseball
+
+atlantic league
+
+
+connecticut sun
+
+basketball
+
+women's national basketball association
+
+
+hartford city fc
+
+soccer
+
+national premier soccer league
+
+
+hartford athletic
+
+soccer
+
+usl championship
+
+
+ac connecticut
+
+soccer
+
+usl league two
+
+
+new england black wolves
+
+lacrosse
+
+national lacrosse league
+
+college sports[edit]
+ yale bowl during "the game" between yale and harvard. the bowl was also the home of the nfl's new york giants in 1973–74.
+the connecticut huskies are the team of the university of connecticut (uconn); they play ncaa division i sports. both the men's basketball and women's basketball teams have won multiple national championships; uconn became the first school in ncaa division i history to have its men's and women's basketball programs win the national title in the same year.[214][215] the uconn women's basketball team holds the record for the longest consecutive winning streak in ncaa college basketball at 111 games, a streak that ended in 2017.[216] the uconn huskies football team has played in the football bowl subdivision since 2002, and has played in four bowl games.
+new haven biennially hosts "the game" between the yale bulldogs and the harvard crimson, the country's second-oldest college football rivalry. yale alumnus walter camp is deemed the "father of american football", and he helped develop modern football while living in new haven.[217] other connecticut universities which feature division i sports teams are quinnipiac university, fairfield university, central connecticut state university, sacred heart university, and the university of hartford.
+
+etymology and symbols[edit]
+connecticut state symbolsthe flag of connecticutthe seal of connecticutliving insigniabirdamerican robinfishamerican shadflowermountain laurelinsecteuropean mantismammalsperm whaletreecharter oak, a white oakinanimate insigniadancesquare dancefossildinosaur tracksmineralgarnetmotto
+qui transtulit sustinet latin
+"he who transplanted still sustains"
+shelleastern oystershipuss nautilus (ssn-571), freedom schooner amistadsloganfull of surprisessong
+"yankee doodle"
+"the nutmeg"
+tartanconnecticut state tartanstate route markerstate quarterreleased in 1999lists of united states state symbols
+the name "connecticut" originated with the mohegan word quonehtacut, meaning "place of long tidal river".[57] connecticut's official nickname is "the constitution state", adopted in 1959 and based on its colonial constitution of 1638–1639 which was the first in america and, arguably, the world.[1] connecticut is also unofficially known as "the nutmeg state,"[1] whose origin is unknown. it may have come from its sailors returning from voyages with nutmeg, which was a very valuable spice in the 18th and 19th centuries. it may have originated in the early machined sheet tin nutmeg grinders sold by early connecticut peddlers. it is also facetiously said to come from yankee peddlers from connecticut who would sell small carved nobs of wood shaped to look like nutmeg to unsuspecting customers.[218] george washington gave connecticut the title of "the provisions state"[1] because of the material aid that the state rendered to the american revolutionary war effort. connecticut is also known as "the land of steady habits".[1]
+according to webster's new international dictionary (1993), a person who is a native or resident of connecticut is a "connecticuter". there are numerous other terms coined in print but not in use, such as "connecticotian" (cotton mather in 1702) and "connecticutensian" (samuel peters in 1781). linguist allen walker read suggests the more playful term "connecticutie". "nutmegger" is sometimes used,[218] as is "yankee" the official state song is "yankee doodle". the traditional abbreviation of the state's name is "conn."; the official postal abbreviation is ct.
+commemorative stamps issued by the united states postal service with connecticut themes include nathan hale, eugene o'neill, josiah willard gibbs, noah webster, eli whitney, the whaling ship the charles w. morgan, which is docked at mystic seaport, and a decoy of a broadbill duck.
+
+
+
+
+
+the charter oak
+
+
+
+
+
+
+the uss nautilus (ssn-571)
+
+
+
+
+
+connecticut state insignia and historical figuressource sites, seals & symbols except where noted.
+
+
+state aircraft
+vought f4u corsair
+
+
+state hero
+nathan hale
+
+
+state heroine
+prudence crandall
+
+
+state composer
+charles edward ives
+
+
+state statues in statuary hall
+roger sherman and jonathan trumbull
+
+
+state poet laureate
+dick allen[219]
+
+
+connecticut state troubadour
+kristen graves
+
+
+state composer laureate
+jacob druckman
+
+notable people[edit]
+main article: list of people from connecticut
+george h. w. bush, the 41st president of the united states, grew up in greenwich[220] a member of the bush political family, with roots in the state extending three generations.
+george w. bush, the 43rd president of the united states, was born in new haven.[221]
+richard and karen carpenter, brother and sister duo of the carpenters who won a grammy and sold over 60 million albums by 1983; born in new haven 1946 and 1950, respectively.
+glenn close, american actress who is best known for appearing as alex forrest in fatal attraction, and cruella de vil in disney's live-action remake of 101 dalmatians.[222]
+charles dow, founder of the wall street journal and dow jones & company.[223]
+josiah willard gibbs, was an american scientist who made important theoretical contributions to physics, chemistry, and mathematics.[224]
+katharine hepburn, named by the american film institute as the greatest female star in hollywood history.[225]
+seth macfarlane, a cartoonist, well known for creating family guy, american dad, cleveland show, and the ted series.[226]
+j.p. morgan, financier and philanthropist who dominated a period of industrial consolidation and intervened in multiple economic panics during his time.[227]
+ralph nader, torts lawyer, author, founder of the american museum of tort law, and 2000 independent candidate for president of the united states.
+jackie robinson, who broke baseball's "color line," contributing significantly to the civil rights movement.[228]
+igor sikorsky, who created and flew the first practical helicopter.[229]
+harriet beecher stowe, whose novel uncle tom's cabin (1852) energized anti-slavery forces in the american north.[230]
+meryl streep, who holds the record for the most academy awards nominations for acting.[231]
+mark twain resided in his innovative hartford home from 1871 until 1891, during which time he published the adventures of tom sawyer and the adventures of huckleberry finn. he lived in redding from 1908 until his death in 1910.[232]
+noah webster was born in hartford in an area that is now part of west hartford and was the author of the blue backed speller, now known as webster's dictionary. the speller was used to teach spelling to five generations of americans.[233]
+eli whitney, best known for inventing the cotton gin which shaped the economy of the antebellum south, and promoting the design of interchangeable parts in production, a major development leading to the industrial revolution.[234]
+see also[edit]
+
+
+connecticut portal
+new england portal
+united states portal
+index of connecticut-related articles
+outline of connecticut—organized list of topics about connecticut
+references[edit]
+
+
+^ a b c d e f "sites, seals & symbols". secretary of the state. state of connecticut. august 28, 2015. archived from the original on july 31, 2008. retrieved october 25, 2015..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ "style manual". u.s. government printing office. 2000. §5.23. archived from the original on august 31, 2008.
+
+^ "connecticutian". merriam-webster online. retrieved october 25, 2015.
+
+^ "state resident's names". ereference desk. retrieved october 25, 2015.
+
+^ "general description and facts". state of connecticut.
+
+^ "2014 population estimate". american factfinder. united states census bureau. archived from the original on april 17, 2016. retrieved october 25, 2015.
+
+^ table b-1. metropolitan areas – area and population (pdf). state and metropolitan area data book: 2006 (report). united states census bureau. july 2006.
+
+^ "connecticut: population estimates". u.s. census bureau. july 1, 2017. retrieved may 6, 2017.
+
+^ "median annual household income". the henry j. kaiser family foundation. retrieved december 9, 2016.
+
+^ a b "highest and lowest elevations". elevations and distances in the united states. united states geological survey. 2001. archived from the original on november 9, 2013. retrieved october 25, 2015.
+
+^ a b elevation adjusted to north american vertical datum of 1988.
+
+^ "connecticut". dictionary.com. archived from the original on november 18, 2010. retrieved october 25, 2015.
+
+^ ohlemacher, stephen (november 29, 2005). "highest wages in east, lowest in south". usa today. archived from the original on november 18, 2010. retrieved april 30, 2010.
+
+^ "median household income". american factfinder. u.s. census bureau. 2013. archived from the original on april 17, 2016. retrieved october 25, 2015.
+
+^ "us slips down development index". bbc news. july 17, 2008. archived from the original on november 18, 2010.
+
+^ trumbull, james hammond (1881). indian names of places, etc., in and on the borders of connecticut: with interpretations of some of them. harford, connecticut: press of the case, lockwood & brainard company. p. 60.
+
+^ a b table 18, area measurements: 2010; and population and housing unit density: 1990 to 2010 (pdf). united states summary: 2010, population and housing unit counts (report). united states census bureau. september 2012. p. 41. retrieved may 16, 2014.
+
+^ table 19, population by urban and rural and type of urban area: 2010 (pdf). united states summary: 2010, population and housing unit counts (report). united states census bureau. september 2012. p. 42. retrieved may 16, 2014.
+
+^ "mount frissell-south slope, connecticut/massachusetts". peakbagger.com.
+
+^ dodge, edward r. "the southwick jog" (pdf). town of southwick, massachusetts. archived from the original (pdf) on april 16, 2010. retrieved october 25, 2015.
+
+^ "connecticut's southwick jog". connecticut state library. archived from the original on november 18, 2010.
+
+^ "connecticut's "panhandle"". connecticut state library. archived from the original on november 18, 2010.
+
+^ "connecticut". national park service. retrieved july 15, 2008.
+
+^ "united states annual sunshine map". howstuffworks. archived from the original on april 29, 2011. retrieved march 15, 2011.
+
+^ "annual average number of tornadoes" (gif). noaa national climatic data center. retrieved october 24, 2006.
+
+^ "all-time climate extremes for ct". national oceanic and atmospheric administration. retrieved march 18, 2011.
+
+^ "monthly averages for bridgeport, ct". the weather channel. retrieved september 15, 2011.
+
+^ "monthly averages for hartford, ct". the weather channel. retrieved september 15, 2011.
+
+^ olson, david m.; dinerstein, eric; wikramanayake, eric d.;  et al. (2001). "terrestrial ecoregions of the world: a new map of life on earth". bioscience. 51 (11): 933–938. doi:10.1641/0006-3568(2001)051[0933:teotwa]2.0.co;2. issn 0006-3568.
+
+^ federal writers' project. connecticut: a guide to its roads, lore and people. us history publishers. p. 3. isbn 978-1-60354-007-0. retrieved september 23, 2010.
+
+^ "connecticut native american tribes archived september 27, 2013, at the wayback machine", connecticut state library. retrieved may 16, 2014.
+
+^ varekamp, johan; varekamp, daphne (spring–summer 2006). "adriaen block, the discovery of long island sound and the new netherlands colony: what drove the course of history?" (pdf). wrack lines. 6 (1). archived from the original (pdf) on december 31, 2015. retrieved may 16, 2014.
+
+^ "1614 adriaen". the society of colonial wars in the state of connecticut. retrieved may 16, 2014.
+
+^ "early settlers of connecticut". connecticut state library. archived from the original on april 20, 2010. retrieved july 25, 2010.
+
+^ "brief history of old saybrook". old saybrook historical society. retrieved may 16, 2014.
+
+^ "1636-hartford". the society of colonial wars in connecticut. retrieved may 16, 2014.
+
+^ tyler, edward royall; kingsley, william lathrop; fisher, george park;  et al., eds. (1887). new englander and yale review. 47. w.l. kingsley. pp. 176–177.
+
+^ "fundamental agreement, or original constitution of the colony of new haven, june 4, 1639". the avalon project: documents in law, history and diplomacy. yale law school. retrieved may 16, 2014.
+
+^ "1638 - new haven - the independent colony". the society of colonial wars in the state of connecticut. retrieved may 16, 2014.
+
+^ "1662-charter for connecticut". the society of colonial wars in the state of connecticut. retrieved may 16, 2014.
+
+^ williams, tony (2010). america's beginnings: the dramatic events that shaped a nation's character. rowman & littlefield. pp. 32–34. isbn 978-1-4422-0487-4.
+
+^ a b c bowen, clarence winthrop (1882). the boundary disputes of connecticut. boston: james r. osgood and company. pp. 17–18.
+
+^ a b c flick, alexander c., ed. (1933). history of the state of new york. 2. new york: columbia university press. pp. 50–57.
+
+^ "connecticut colony charter of 1662". a chronology of us historical documents. university of oklahoma, college of law. march 14, 2006. archived from the original on july 23, 2010. retrieved july 25, 2010.
+
+^ "1769- the pennamite wars". the society of colonial wars in the state of connecticut. retrieved may 16, 2014.
+
+^ "traditions & history". yale university. retrieved may 17, 2014.
+
+^ roth, david m. (1979). connecticut: a history. new york: w.w. norton & co. pp. 40–41. isbn 978-0-3933-3174-5.
+
+^ "signers of the declaration of independence" (pdf). charters of freedom. national archives. retrieved may 16, 2014.
+
+^ "battle of bunker's hill preliminary study". military science, cadet resources. worcester polytechnic institute. retrieved may 18, 2014.
+
+^ case, james r. (1927). an account of tryon's raid on danbury in april, 1777. danbury, connecticut. retrieved october 24, 2015.
+
+^ poirier, david a. (1976). "camp reading: logistics of a revolutionary war winter encampment". northeast historical archaeology. 5 (1). archived from the original on july 12, 2014. retrieved february 17, 2015.
+
+^ "park history". putnam memorial state park. retrieved april 27, 2014.
+
+^ o'keefe, thomas c. (august 1, 2013). "george washington and the redding encampments".  in johnson, james m.; pryslopski, christopher; villani, andrew. key to the northern country: the hudson river valley in the american revolution. suny press. retrieved february 17, 2015.
+
+^ hall, charles samuel (1905). life and letters of samuel holden parsons: major-general in the continental army and chief judge of the northwestern territory, 1737-1789. binghamton, new york: otseningo publishing. p. 110. retrieved february 17, 2015.
+
+^ townshend, charles h. (1879). british invasion of new haven, connecticut. new haven, connecticut: tuttle, morehouse & taylor, printers. retrieved may 17, 2014.
+
+^ baker, edward (fall 2006). "benedict arnold turns and burns new london". hog river journal. 4 (4). archived from the original on july 13, 2014. retrieved may 17, 2014.
+
+^ a b c d e f g h "general description & facts". portal.ct.gov. state of connecticut. retrieved october 25, 2015.
+
+^ la bella, laura (august 15, 2010). connecticut: past and present. new york: rosen publishing. p. 17. retrieved february 17, 2015.
+
+^ a b user notes by table: table 12 (pdf). united states summary: 2010, population and housing unit counts (report). united states census bureau. september 2010. p. v-5. retrieved may 16, 2014.
+
+^ boyland, james; gordinier, glenn s.; mason brown, meredith;  et al. (2012). the rockets' red glare: the war of 1812 and connecticut. new london county historical society. isbn 978-0-9853-6240-9.
+
+^ morris, charles r. (2012). the dawn of innovation: the first american industrial revolution. publicaffairs. p. 136. isbn 978-1-6103-9049-1. retrieved february 17, 2015.
+
+^ elliott, emory (1986) [1982]. revolutionary writers: literature and authority in the new republic, 1725-1810. oxford university press. p. 14. retrieved february 17, 2015.
+
+^ lyman, theodore (1823). a short account of the hartford convention. boston: o. everett, publisher. retrieved may 17, 2014.
+
+^ "the constitution of connecticut (1818)". connecticut general assembly. archived from the original on may 4, 2015. retrieved may 16, 2014.
+
+^ "james h. ward, first u.s. navy officer killed in the civil war". sullivan museum and history center. norwich university. august 20, 2012. retrieved october 26, 2015.
+
+^ van dusen, albert e. (1961). connecticut (1st ed.). random house. pp. 224–238.
+
+^ warshauer, matthew (2011). connecticut in the american civil war: slavery, sacrifice, and survival. wesleyan university press. isbn 978-0-8195-7139-7.
+
+^ croffut, william augustus; morris, john moses (1869). the military and civil history of connecticut during the war of 1861–65.
+
+^ cowden, joanna d. (december 1983). "the politics of dissent: civil war democrats in connecticut". new england quarterly. 56 (4): 538–554. doi:10.2307/365104. jstor 365104.
+
+^ lane, jarlath robert (1941). a political history of connecticut during the civil war. catholic university of america press.
+
+^ kirkland, edward chase (1948). men, cities and transportation, a study of new england history 1820–1900. vol 2. harvard university press. pp. 72–110, 288–306.
+
+^ "new york, new haven & hartford railroad small format photograph and postcard collection". archives & special collections at the thomas j. dodd research center. university of connecticut libraries. archived from the original on september 21, 2013. retrieved may 17, 2014.
+
+^ "first commercial telephone exchange". connecticut history. retrieved may 18, 2014.
+
+^ breen, william j. (1997). "the industrial northeast: connecticut". labor market politics and the great war: the department of labor, the states and the first u.s. employment service, 1907-1933. kent, ohio: kent state university press. p. 107. retrieved may 29, 2014.
+
+^ "world war i". connecticut history. retrieved may 28, 2014.
+
+^ van dusen 1961, pp. 266-268.
+
+^ "eb history". general dynamics electric boat. retrieved may 17, 2014.
+
+^ "lake torpedo boat company, bridgeport ct". shipbuilding history. archived from the original on july 14, 2014. retrieved may 28, 2014.
+
+^ "freighter worcester launched". connecticut history. retrieved may 28, 2014.
+
+^ breen, william j. (1979). "mobilization and cooperative federalism: the connecticut state council of defense, 1917‐1919". historian. 42 (1): 58–84. doi:10.1111/j.1540-6563.1979.tb00574.x.
+
+^ breen 1997, p. 116.
+
+^ connecticut light and power co. history. international directory of company histories. 13. st. james press. 1996. retrieved october 24, 2015.
+
+^ "frederick rentschler". the national aviation hall of fame. archived from the original on october 14, 2014. retrieved may 17, 2014.
+
+^ "the great new england hurricane of 1938". national weather service. retrieved may 17, 2014.
+
+^ "remembering the great hurricane of '38". new york times. september 21, 2003. retrieved may 17, 2014.
+
+^ brandi, anthony p. (may 2007). lend-lease: fdr's most unheralded achievement and connecticut's unprecedented response to it (masters of arts). central connecticut state university. retrieved may 17, 2014.
+
+^ peck, merton j.; scherer, frederic m. (1962). the weapons acquisition process: an economic analysis. harvard business school. p. 111.
+
+^ "colt manufacturing: a timeline". hartford courant. august 19, 2012. retrieved may 17, 2014.
+
+^ "world war ii". connecticut history. retrieved may 17, 2014.
+
+^ "eb history". general dynamics electric boat. retrieved may 17, 2014.
+
+^ "the bazooka changes war". connecticut history. retrieved may 28, 2014.
+
+^ "vs-300 helicopter". sikorsky archives. retrieved may 17, 2014.
+
+^ "sikorsky aircraft corp ~ employer information". labor market information. connecticut department of labor. march 17, 2015. retrieved october 24, 2015.
+
+^ "interstate highways given new life by federal aid highway acts". department of transportation. state of connecticut. september 9, 2003. retrieved may 17, 2014.
+
+^ "the bush family". george w. bush library. southern methodist university. retrieved may 17, 2014.
+
+^ "archived copy". archived from the original on august 6, 2013. retrieved may 17, 2014.cs1 maint: archived copy as title (link) "the connecticut constitution, 1965–2008: legislative history of amendments", connecticut state library. retrieved may 16, 2014.
+
+^ gammell, ben (january 31, 2014). "connecticut yankee and millstone: 46 years of nuclear power". wnpr. retrieved may 17, 2014.
+
+^ a b purmont, jon e. (2012). ella grasso: connecticut's pioneering governor. wesleyan university press. isbn 978-0-8195-7344-5.
+
+^ "archived copy". archived from the original on march 24, 2014. retrieved may 17, 2014.cs1 maint: archived copy as title (link) "lowell weicker governor of connecticut, 1991–1995", connecticut state library, 2008. retrieved may 17, 2014.
+
+^ "legalized gambling". department of consumer protection. state of connecticut. retrieved may 17, 2014.
+
+^ knowlton, brian (august 8, 2000). "gore's choice for his running mate: moderate senator who scorned clinton: selecting lieberman is seen as bold move; religion may be issue". the new york times. retrieved may 21, 2014.
+
+^ "area victims of 9/11". the advocate. stamford, connecticut. september 9, 2011.
+
+^ "connecticut governor announces resignation". cnn. june 21, 2004. retrieved may 17, 2014.
+
+^ "ex-gov. rowland pleads guilty to corruption". fox news. associated press. december 23, 2004. retrieved may 17, 2014.
+
+^ "hurricane irene one year later: storm cost $15.8 in damage from florida to new york to the caribbean". daily news. new york. associated press. august 27, 2012. retrieved may 17, 2014.
+
+^ report on transmission facility outages during the northeast snowstorm of october 29–30, 2011: causes and recommendations (pdf) (report). federal energy regulatory commission and north american electric reliability corporation. may 12, 2012. pp. 8–16. retrieved may 3, 2014.
+
+^ "hurricane sandy fast facts". cnn. july 13, 2013. retrieved may 17, 2014.
+
+^ "conn. gov.: state's damage from superstorm sandy $360m and climbing". insurance journal. november 16, 2012. retrieved may 17, 2014.
+
+^ dienst, jonathan; prokupecz, shimon (december 14, 2012). "27 dead, including 20 children, in conn. school shooting: police". nbc new york. associated press.
+
+^ "state gun laws enacted in the year since newtown". the new york times. december 10, 2013. retrieved may 17, 2014.
+
+^ "united states drought monitor > home > state drought monitor". droughtmonitor.unl.edu. archived from the original on october 3, 2016. retrieved september 22, 2016.
+
+^ "as connecticut's drought worsens, officials again urge water conservation". retrieved september 22, 2016.
+
+^ "water company issues mandatory water ban for parts of ct". retrieved september 22, 2016.
+
+^ a b c "annual estimates of the resident population: april 1, 2010 to july 1, 2015". american factfinder. united states census bureau. archived from the original on november 29, 2014. retrieved december 26, 2015.
+
+^ population: 1790 to 1990 (pdf) (report). united states census bureau. retrieved october 25, 2015.
+
+^ "profile of general demographic characteristics: 2000". american factfinder. united states census bureau. archived from the original on november 29, 2014. retrieved october 25, 2015.
+
+^ "profile of general population and housing characteristics: 2010". american factfinder. united states census bureau. archived from the original on november 29, 2014. retrieved october 25, 2015.
+
+^ bureau, u.s. census. "american factfinder – results". factfinder.census.gov. retrieved march 8, 2017.
+
+^ "state of connecticut center of population". center of population project. national geodetic survey. archived from the original on november 18, 2010. retrieved january 30, 2009.
+
+^ a b "race and hispanic or latino origin: 2010". american fact finder. u.s. census bureau. archived from the original on november 29, 2014. retrieved october 25, 2015.
+
+^ gibson, campbell; jung, kay (september 2002). table 21. connecticut - race and hispanic origin: 1790 to 1990 (pdf). historical census statistics on population totals by race, 1790 to 1990, and by hispanic origin, 1970 to 1990, for the united states, regions, divisions, and states (report). u.s. census bureau. retrieved october 25, 2015.
+
+^ gibson, campbell; jung, kay (september 2002). table a-1. race and hispanic origin, for the united states, regions, divisions, and states: 1990 (pdf). historical census statistics on population totals by race, 1790 to 1990, and by hispanic origin, 1970 to 1990, for the united states, regions, divisions, and states (report). u.s. census bureau. retrieved october 25, 2015.
+
+^ "race and hispanic or latino: 2000". american factfinder. u.s. census bureau. archived from the original on november 29, 2014.
+
+^ "most spoken languages in connecticut". language map. the modern language association. archived from the original on july 31, 2007. retrieved january 16, 2007.
+
+^ "american community survey 3-year estimates". american factfinder. u.s. census bureau. archived from the original on august 4, 2010. retrieved july 25, 2010.
+
+^ exner, rich (june 3, 2012). "americans under age 1 now mostly minorities, but not in ohio: statistical snapshot". the plain dealer. cleveland, ohio.
+
+^ "connecticut 2013 data" (pdf). cdc.goc. retrieved august 21, 2017.
+
+^ "connecticut 2014 data" (pdf). cdc.goc. retrieved august 21, 2017.
+
+^ "connecticut 2013 data" (pdf). cdc.goc. retrieved august 21, 2017.
+
+^ https://www.cdc.gov/nchs/data/nvsr/nvsr67/nvsr67_01.pdf
+
+^ https://www.cdc.gov/nchs/data/nvsr/nvsr67/nvsr67_08-508.pdf
+
+^ [1] (2014). religious composition of adults in connecticut.
+
+^ a b the pew forum - america's changing religious landscape
+
+^ "religion in america: u.s. religious data, demographics and statistics – pew research center". pew research center's religion & public life project. may 11, 2015.
+
+^ a b "the association of religion data archives | state membership report". www.thearda.com. retrieved november 7, 2013.
+
+^ "total gross domestic product by state for connecticut". federal reserve bank of st. louis. retrieved may 15, 2014.
+
+^ "state personal income 2013" (pdf) (press release). bureau of economic analysis, u.s. department of commerce. march 25, 2014. archived from the original (pdf) on april 13, 2014. retrieved may 15, 2014.
+
+^ sommeiller, estelle; price, mark (february 19, 2014). the increasingly unequal states of america: income inequality by state, 1917 to 2011 (report). the economic policy institute. |access-date= requires |url= (help)
+
+^ frank, robert. "top states for millionaires per capita". cnbc. retrieved january 22, 2014.
+
+^ connecticut per capita income, median household income, and median family income at state, county and town level: census 2000 data (xls) (report). state of connecticut. retrieved july 25, 2010.
+
+^ "local area unemployment statistics". u.s. bureau of labor statistics. retrieved july 20, 2016.
+
+^ "top 200 hedge fund managers" (pdf). hedge fund alert. (subscription required (help)).
+
+^ "connecticut income tax brackets". tax-brackets.org. 2015. retrieved october 24, 2015.
+
+^ a b "summary of tax provisions contained in 2011 conn. pub. acts 6". department of revenue services. state of connecticut. june 10, 2011. retrieved july 6, 2011.
+
+^ phillips erb, kelly (july 17, 2013). "get ready to shop: state sales tax holidays are back!". forbes. retrieved may 16, 2014.
+
+^ "2014 ct-1040 connecticut resident income tax return and instructions" (pdf). department of revenue services. state of connecticut. p. 31. retrieved october 24, 2015.
+
+^ christie, les (september 30, 2010). "highest property taxes in the country". cnn money. new york. retrieved september 30, 2010.
+
+^ "connecticut: the facts on connecticut's tax climate". the tax foundation. retrieved may 16, 2014.
+
+^ hess, alexander e.m.; frohlich, thomas c. (january 20, 2015). "states with the highest (and lowest) gas taxes". usa today. retrieved october 24, 2015.
+
+^ "connecticut single-family home sales post modest increase in march". boston: the warren group. may 8, 2014. retrieved may 16, 2014.
+
+^ "u.s. foreclosure activity decreases 1 percent in april despite 1 percent increase in bank repossessions". irvine, california: realtytrac. may 15, 2014. archived from the original on may 17, 2014. retrieved may 16, 2014.
+
+^ "search results for the 100 largest employers in connecticut". labor market information. connecticut department of labor. march 17, 2015. retrieved october 25, 2015.
+
+^ varnon, rob (january 12, 2012). "rbs' 4,800 job cuts might only scratch stamford operation". connecticut post. retrieved may 16, 2014.
+
+^ varnon, rob (may 6, 2013). "stamford could gain from ubs exit of new york space". connecticut post. retrieved may 16, 2014.
+
+^ "bridgewater associates is the world's largest hedge fund firm for the fourth straight year says institutional investor's alpha". ein news. may 16, 2014. archived from the original on may 17, 2014. retrieved may 28, 2014.
+
+^ "gov. malloy: global leader in corporate relocation management services to expand and grow jobs in danbury". realogy. april 17, 2014. archived from the original on may 29, 2014. retrieved may 16, 2014.
+
+^ a b c "employer list – search results: raveis". labor market information. connecticut department of labor. march 17, 2015. archived from the original on september 5, 2009. retrieved october 25, 2015.
+
+^ dowling, brian; gosselin, kenneth r. (february 26, 2014). "tax breaks encourage united technologies to stay in state". hartford courant. retrieved may 16, 2014.
+
+^ "our businesses". united technologies corp. retrieved may 16, 2014.
+
+^ "eb history". general dynamics electric boat. retrieved may 16, 2014.
+
+^ rivera, ray; cowan, alison leigh (december 23, 2012). "gun makers use home leverage in connecticut". the new york times. retrieved december 24, 2012.
+
+^ sturdevant, matthew (april 1, 2011). "marlin firearms closes in north haven, ending 141 years of manufacturing in connecticut". hartford courant.
+
+^ culture & tourism: the economic impact of the arts, film, history, and tourism industries in connecticut (highlights) (pdf) (report). commission on culture and tourism.
+
+^ "search results for the 25 largest employers in connecticut". labor market information. connecticut department of labor. march 17, 2015. retrieved may 16, 2014.
+
+^ lopez, rigoberto a.;  et al. (september 2010). economic impacts of connecticut's agricultural industry (pdf) (report). department of agricultural and resource economics, university of connecticut and  connecticut center for economic analysis. retrieved may 16, 2014.
+
+^ "oystering in connecticut, from colonial times to the 21st century". connecticut history. retrieved october 25, 2015.
+
+^ andersen, tom (2004) [2002]. this fine piece of water: an environmental history of long island sound (revised ed.). yale university press. p. 90. isbn 978-0-3001-0287-1.
+
+^ "connecticut turnpike (i-95)". nyc roads. retrieved october 25, 2015.
+
+^ "ways to commute". ct rides. state of connecticut. retrieved july 25, 2010.
+
+^ "more bicycling, walking to work; new haven leads the way in connecticut". connecticut by the numbers. 22 may 2014. retrieved 4 february 2019.
+
+^ https://www.ctpost.com/business/article/hartford-line-debuts-with-10k-passengers-in-week-1-13027819.php
+
+^ "despite snow, thousands of riders, many first-timers, experience ctfastrak on first day of service" (press release). connecticut department of transportation. march 28, 2015. archived from the original on september 11, 2015.
+
+^ "what is ctfastrak". state of connecticut. archived from the original on october 14, 2013. retrieved october 18, 2013.
+
+^ laporte, mike (november 5, 2014). "the busway to the future: insider to ctfastrak before opening to public". the live wire. manchester community college. retrieved december 11, 2014.
+
+^ "list of new england airports". about.com travel. retrieved april 6, 2017.
+
+^ "governor malloy's biography". portal.ct.gov. state of connecticut. retrieved october 25, 2015.
+
+^ "lt. governor's biography". portal.ct.gov. state of connecticut. retrieved october 25, 2015.
+
+^ "departments and agencies". portal.ct.gov. state of connecticut. retrieved october 25, 2015.
+
+^ "constitution of the state of connecticut". secretary of the state. state of connecticut. april 21, 2009. archived from the original on november  9, 2015. retrieved october 25, 2015.
+
+^ "connecticut". states in the senate. u.s. senate. retrieved october 25, 2015.
+
+^ "connecticut". directory of representatives. u.s. house of representatives. retrieved october 25, 2015.
+
+^ "connecticut ordinances and charters by town". judicial branch law libraries. state of connecticut. retrieved june 10, 2013.
+
+^ "newtown noise control ordinance". town of newtown. august 20, 2010. archived from the original on may 11, 2013. retrieved june 10, 2013.
+
+^ "sec. 22a-69-1 to 22a-69-7.4: control of noise" (pdf). department of environmental protection. state of connecticut. archived from the original (pdf) on december 31, 2015. retrieved october 25, 2015.
+
+^ "chief justice chase t. rogers". biographies of supreme court justices, judicial branch. state of connecticut. retrieved october 25, 2015.
+
+^ "about connecticut courts: history of the  courts". judicial branch. state of connecticut. retrieved february 20, 2007.
+
+^ "monthly arrest warrant report". office of policy and management. state of connecticut. october 1, 2015. retrieved october 25, 2015.
+
+^ "section vi: counties". state register and manual. state of connecticut. archived from the original on september  6, 2015. retrieved october 25, 2015.
+
+^ "judicial district courts staff directory". state of connecticut judicial branch. retrieved july 25, 2010.
+
+^ "town elections, boroughs in connecticut with date of incorporation". secretary of the state. state of connecticut. june 19, 2013. archived from the original on september  8, 2015. retrieved october 25, 2015.
+
+^ a b "regional planning coordination". office of policy and management. state of connecticut. retrieved july 25, 2010.
+
+^ "important election day information" (pdf). connecticut secretary of state. retrieved november 8, 2018.
+
+^ a b leip, david. "general election results – connecticut". dave leip's atlas of u.s. presidential elections. retrieved november 18, 2016.
+
+^ "connecticut governor signs bill to repeal death penalty". fox news. april 25, 2012. retrieved april 25, 2012.
+
+^ keating, christopher (july 21, 2009). "health reform alive: legislature overrides rell veto of sustinet care plan, six other bills". hartford courant.
+
+^ a b "connecticut earns a b on state report card, ranks third in nation - quality counts". education week. editorial projects in education. 37 (17). 5 september 2018. retrieved 11 february 2019.
+
+^ "connecticut education data and research". state department of education. state of connecticut. retrieved june 10, 2013.
+
+^ "resc alliance" (pdf) (brochure). aces. 2011. archived from the original (pdf) on january 17, 2013.
+
+^ "admit rate falls to record-low 7.5 percent". yale daily news. march 31, 2009. archived from the original on april 4, 2009. retrieved april 23, 2009.
+
+^ "history". university of connecticut. retrieved october 25, 2015.
+
+^ "a capital history". capital community college. archived from the original on may 18, 2014. retrieved may 18, 2014.
+
+^ "history of norwalk community college". norwalk community college. retrieved may 18, 2014.
+
+^ "home page". manchester community college. retrieved may 18, 2014.
+
+^ "history". naugatuck valley community college. archived from the original on may 18, 2014. retrieved may 17, 2014.
+
+^ institutional self-study report (pdf) (report). northwestern connecticut community college. february 2013. archived from the original (pdf) on may 14, 2013. retrieved may 18, 2014.
+
+^ "mxcc named a '2013 great college to work for'" (press release). middlesex community college. july 26, 2013. archived from the original on december 31, 2015. retrieved may 18, 2014.
+
+^ neasc self-study report (pdf) (report). housatonic community college. march 4–7, 2012. archived from the original (pdf) on may 18, 2014. retrieved may 18, 2014.
+
+^ "gateway history". gateway community college. retrieved may 18, 2014.
+
+^ "history of the college". asnuntuck community college. archived from the original on may 17, 2014. retrieved may 18, 2014.
+
+^ tunxis community college institutional self-study (pdf) (report). tunxis community college. fall 2011. p. i. retrieved may 18, 2014.
+
+^ "history of the college". quinebaug valley community college. archived from the original on october 15, 2014. retrieved may 18, 2014.
+
+^ "about our learning community". three rivers community college. retrieved may 18, 2014.
+
+^ "history of the new york giants". sports ecyclopedia. retrieved september 12, 2006.
+
+^ veilleux, richard (april 12, 2004). "twin national championships are a first in division i basketball". uconn advance. retrieved september 10, 2015.
+
+^ scott, nate (april 8, 2014). "connecticut women and men make basketball history (again)". usa today. retrieved september 10, 2015.
+
+^ longman, jeré (april 1, 2017). "connecticut's 111-game winning streak ends with loss to mississippi state". the new york times. issn 0362-4331. retrieved december 6, 2017.
+
+^ walter camp at the college football hall of fame
+
+^ a b "connecticut's nicknames". connecticut state library. archived from the original on september 5, 2011. retrieved september 15, 2011.
+
+^ "connecticut poet laureate". department of economic & community development, office of culture and tourism. state of connecticut. retrieved october 25, 2015.
+
+^ "george bush". history.com. retrieved may 18, 2014.
+
+^ "george w. bush biography". bio. retrieved may 18, 2014.
+
+^ writers, biography.com (april 2, 2014). "glenn close biography". the biography.com website. a&e television networks. retrieved september 23, 2016.
+
+^ evensen, bruce j. (1999). "dow, charles henry". american national biography. new york: oxford university press.
+
+^ "j. willard gibbs". aps physics. retrieved july 9, 2017.
+
+^ "katharine hepburn biography". biography.com. retrieved may 18, 2014.
+
+^ "seth macfarlane". imdb. retrieved october 1, 2016.
+
+^ "j.p. morgan biography". biography.com. retrieved may 18, 2014.
+
+^ "jackie robinson biography". biography.com. retrieved may 18, 2014.
+
+^ "igor sikorsky biography". biography.com. retrieved may 18, 2014.
+
+^ "harriet beecher stowe's life". harriet beecher stowe center. archived from the original on may 25, 2017. retrieved may 18, 2014.
+
+^ "meryl streep, oscars' stars and other celebs in connecticut (we map them)". connecticut magazine. february 27, 2014. archived from the original on may 18, 2014. retrieved may 18, 2014.
+
+^ "samuel clemens and the mark twain library". mark twain library. archived from the original on september 4, 2011. retrieved september 15, 2011.
+
+^ "noah webster biography". biography.com. retrieved may 18, 2014.
+
+^ "eli whitney biography". biography.com. retrieved may 18, 2014.
+
+
+external links[edit]
+
+connecticutat wikipedia's sister projects
+
+
+definitions from wiktionary
+media from wikimedia commons
+news from wikinews
+texts from wikisource
+travel guide from wikivoyage
+data from wikidata
+
+
+
+official website
+ctvisit.com – official tourism website
+connecticut quickfacts – u.s census bureau
+connecticut at curlie
+
+
+preceded bygeorgia
+
+ list of u.s. states by date of admission to the unionratified constitution on january 9, 1788 (5th)
+
+succeeded bymassachusetts
+
+
+vte state of connecticuthartford (capital)topics
+index
+constitution
+delegations
+elections
+geography
+government
+history
+images
+people
+tourist attractions
+society
+culture
+crime
+demographics
+economy
+education
+party strength
+regions
+councils of governments
+connecticut panhandle
+coastal connecticut
+gold coast
+greater bridgeport
+greater danbury
+greater hartford
+greater new haven
+housatonic valley
+litchfield hills
+lower connecticut river valley
+central naugatuck valley
+naugatuck river valley
+quiet corner
+southeastern connecticut
+counties
+fairfield
+hartford
+litchfield
+middlesex
+new haven
+new london
+tolland
+windham
+cities
+ansonia
+bridgeport
+bristol
+danbury
+derby
+groton
+hartford
+meriden
+middletown
+milford
+new britain
+new haven
+new london
+norwalk
+norwich
+shelton
+stamford
+torrington
+waterbury
+west haven
+all towns
+andover
+ansonia
+ashford
+avon
+barkhamsted
+beacon falls
+berlin
+bethany
+bethel
+bethlehem
+bloomfield
+bolton
+bozrah
+branford
+bridgeport
+bridgewater
+bristol
+brookfield
+brooklyn
+burlington
+canaan
+canterbury
+canton
+chaplin
+cheshire
+chester
+clinton
+colchester
+colebrook
+columbia
+cornwall
+coventry
+cromwell
+danbury
+darien
+deep river
+derby
+durham
+east granby
+east haddam
+east hampton
+east hartford
+east haven
+east lyme
+east windsor
+eastford
+easton
+ellington
+enfield
+essex
+fairfield
+farmington
+franklin
+glastonbury
+goshen
+granby
+greenwich
+griswold
+groton
+guilford
+haddam
+hamden
+hampton
+hartford
+hartland
+harwinton
+hebron
+hartford
+kent
+killingly
+killingworth
+lebanon
+ledyard
+lisbon
+litchfield
+lyme
+madison
+manchester
+mansfield
+marlborough
+meriden
+middlebury
+middlefield
+middletown
+milford
+monroe
+montville
+morris
+naugatuck
+new britain
+new canaan
+new fairfield
+new hartford
+new haven
+new london
+new milford
+newington
+newtown
+norfolk
+north branford
+north canaan
+north haven
+north stonington
+norwalk
+norwich
+old lyme
+old saybrook
+orange
+oxford
+plainfield
+plainville
+plymouth
+pomfret
+portland
+preston
+prospect
+putnam
+redding
+ridgefield
+rocky hill
+roxbury
+salem
+salisbury
+scotland
+seymour
+sharon
+shelton
+sherman
+simsbury
+somers
+south windsor
+southbury
+southington
+sprague
+stafford
+stamford
+sterling
+stonington
+stratford
+suffield
+thomaston
+thompson
+tolland
+torrington
+trumbull
+union
+vernon
+voluntown
+wallingford
+warren
+washington
+waterbury
+waterford
+watertown
+west hartford
+west haven
+westbrook
+weston
+westport
+wethersfield
+willington
+wilton
+winchester
+windham
+windsor
+windsor locks
+wolcott
+woodbridge
+woodbury
+woodstock
+places
+boroughs
+villages
+historic places
+geography
+
+vtenew englandtopics
+autumn
+climate
+cuisine
+culture
+demographics
+economy
+elections
+flag
+geography
+geology
+government
+history
+new england colonies
+dominion of new england
+new england confederation
+literature
+place names of native-american origin
+politics
+sports
+states
+connecticut
+maine
+massachusetts
+new hampshire
+rhode island
+vermont
+major cities
+boston
+bridgeport
+burlington
+concord
+hartford
+lowell
+manchester
+new bedford
+new haven
+new london
+new britain
+portland
+providence
+springfield
+stamford
+waterbury
+worcester
+state capitals
+augusta
+boston
+concord
+hartford
+montpelier
+providence
+transportationpassenger rail
+mbta (ma, ri)
+northeast corridor (ct, ma, ri)
+acela express (ct, ma, ri)
+downeaster (me, nh, ma)
+vermonter (ct, ma, nh, vt)
+shore line east (ct)
+metro-north (ct)
+hartford line (ct, ma)
+high-speed northern new england (proposed)
+major interstates
+i-84 (ct, ma)
+i-89 (nh, vt)
+i-90 (mass pike) (ma)
+i-91 (ct, ma, vt)
+i-93 (ma, nh, vt)
+i-95 (ct, ri, ma, nh, me)
+defunct: new england road marking system
+airports
+bradley (ct)
+burlington (vt)
+t. f. green (ri)
+manchester–boston (nh)
+logan (ma)
+portland (me)
+
+ category
+ portal
+ commons
+
+vtenortheastern united statestopics
+culture
+geography
+government
+history
+states
+connecticut
+delaware
+district of columbia
+maryland
+massachusetts
+new hampshire
+new jersey
+new york
+maine
+pennsylvania
+rhode island
+vermont
+major cities
+allentown
+baltimore
+boston
+bridgeport
+buffalo
+burlington
+cambridge
+elizabeth
+erie
+hartford
+jersey city
+lowell
+manchester
+new haven
+new york city
+newark
+paterson
+philadelphia
+pittsburgh
+portland
+providence
+quincy
+reading
+rochester
+scranton
+springfield
+stamford
+syracuse
+washington, d.c.
+waterbury
+wilmington
+worcester
+state capitals
+albany
+annapolis
+augusta
+boston
+concord
+dover
+hartford
+harrisburg
+montpelier
+providence
+trenton
+
+vte political divisions of the united statesstates
+alabama
+alaska
+arizona
+arkansas
+california
+colorado
+connecticut
+delaware
+florida
+georgia
+hawaii
+idaho
+illinois
+indiana
+iowa
+kansas
+kentucky
+louisiana
+maine
+maryland
+massachusetts
+michigan
+minnesota
+mississippi
+missouri
+montana
+nebraska
+nevada
+new hampshire
+new jersey
+new mexico
+new york
+north carolina
+north dakota
+ohio
+oklahoma
+oregon
+pennsylvania
+rhode island
+south carolina
+south dakota
+tennessee
+texas
+utah
+vermont
+virginia
+washington
+west virginia
+wisconsin
+wyoming
+federal districtwashington, d.c.insular areas
+american samoa
+guam
+northern mariana islands
+puerto rico 
+u.s. virgin islands
+outlying islands
+baker island
+howland island
+jarvis island
+johnston atoll
+kingman reef
+midway atoll
+navassa island
+palmyra atoll
+wake island
+indian reservations
+list of indian reservations
+other
+federal enclave
+
+authority control 
+bnf: cb11986225v (data)
+gnd: 4010487-4
+isni: 0000 0004 0620 3415
+lccn: n79074102
+musicbrainz: 88772016-5866-496a-8de7-4340e922d663
+nara: 10045262
+selibr: 142398
+sudoc: 027923665
+viaf: 141881815
+ worldcat identities (via viaf): 141881815
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=connecticut&oldid=883959129"					
+categories: connecticut1788 establishments in the united statesnew englandnortheastern united statesstates and territories established in 1788states of the east coast of the united statesstates of the united stateshidden categories: webarchive template wayback linkscs1: long volume valuecs1 maint: archived copy as titlepages using citations with accessdate and no urlpages containing links to subscription-only contentarticles with short descriptioncoordinates on wikidatause mdy dates from august 2018articles containing latin-language textarticles with haudio microformatspages including recorded pronunciations (english)all articles with unsourced statementsarticles with unsourced statements from november 2016articles with unsourced statements from july 2017articles containing dutch-language textarticles containing potentially dated statements from 2015all articles containing potentially dated statementsarticles containing potentially dated statements from 2011articles containing potentially dated statements from 2014articles containing potentially dated statements from july 2011articles containing potentially dated statements from april 2014articles containing potentially dated statements from december 2012articles containing potentially dated statements from 2010articles containing potentially dated statements from 2019articles containing potentially dated statements from 2017articles containing potentially dated statements from 2018articles containing potentially dated statements from november 2018official website different in wikidata and wikipediaarticles with curlie linkswikipedia articles with bnf identifierswikipedia articles with gnd identifierswikipedia articles with isni identifierswikipedia articles with lccn identifierswikipedia articles with musicbrainz area identifierswikipedia articles with nara identifierswikipedia articles with selibr identifierswikipedia articles with sudoc identifierswikipedia articles with viaf identifierswikipedia articles with worldcat-viaf identifierspages with maps 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commonswikivoyage 
+
+
+
+languages
+
+
+afrikaansአማርኛængliscالعربيةaragonésܐܪܡܝܐarpetanasturianuavañe'ẽaymar aruazərbaycancaتۆرکجهবাংলাbân-lâm-gúбеларускаябеларуская (тарашкевіца)‎भोजपुरीbikol centralbislamaбългарскиboarischbosanskibrezhonegбуряадcatalàчӑвашлаcebuanočeštinachavacano de zamboangacorsucymraegdanskdavvisámegielladeitschdeutscheestiελληνικάemiliàn e rumagnòlespañolesperantoeuskaraفارسیfiji hindiføroysktfrançaisfryskgaeilgegaelggagauzgàidhliggalego客家語/hak-kâ-ngîхальмг한국어hausahawaiʻiհայերենहिन्दीhornjoserbscehrvatskiidoigboilokanoবিষ্ণুপ্রিয়া মণিপুরীbahasa indonesiainterlinguainterlingueiñupiakиронisizuluíslenskaitalianoעבריתbasa jawakabɩyɛಕನ್ನಡkapampanganქართულიқазақшаkernowekkiswahilikreyòl ayisyenkurdîкырык марыladinoلۊری شومالیlatinalatviešulëtzebuergeschlietuviųligurelimburgslingua franca novalumbaartmagyarमैथिलीмакедонскиmalagasyമലയാളംmāoriमराठीმარგალურიمصرىمازِرونیbahasa melayumìng-dĕ̤ng-ngṳ̄монголမြန်မာဘာသာdorerin naoeronederlandsnedersaksiesनेपालीनेपाल भाषा日本語нохчийнnordfriisknorsknorsk nynorskoccitanолык марийoʻzbekcha/ўзбекчаਪੰਜਾਬੀपालिپنجابیpiemontèisplattdüütschpolskiportuguêsromânărumantschruna simiрусскийсаха тылаसंस्कृतम्sarduscotsseelterskshqipsicilianusimple englishslovenčinaslovenščinaślůnskiکوردیсрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskatagalogதமிழ்taqbaylitтатарча/tatarçaతెలుగుไทยtürkçeукраїнськаاردوئۇيغۇرچە / uyghurchetiếng việtvolapük文言winaray吴语ייִדישyorùbá粵語zazakizeêuwsžemaitėška中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 18 february 2019, at 18:05 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"2.976","walltime":"3.411","ppvisitednodes":{"value":19641,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":651040,"limit":2097152},"templateargumentsize":{"value":34202,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":40,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":696584,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00% 2615.163      1 -total"," 49.20% 1286.615      1 template:reflist"," 22.93%  599.637    135 template:cite_web"," 13.03%  340.751      7 template:infobox","  9.74%  254.767      1 template:infobox_u.s._state","  6.72%  175.708      5 template:plainlist","  6.46%  168.846      1 template:lang","  5.30%  138.536     35 template:cite_news","  5.09%  133.223     26 template:cite_book","  2.99%   78.181      9 template:navbox"]},"scribunto":{"limitreport-timeusage":{"value":"1.443","limit":"10.000"},"limitreport-memusage":{"value":31998602,"limit":52428800}},"cachereport":{"origin":"mw1282","timestamp":"20190218180524","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"connecticut","url":"https:\/\/en.wikipedia.org\/wiki\/connecticut","sameas":"http:\/\/www.wikidata.org\/entity\/q779","mainentity":"http:\/\/www.wikidata.org\/entity\/q779","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2001-10-11t21:58:31z","datemodified":"2019-02-18t18:05:54z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/96\/flag_of_connecticut.svg","headline":"state of the united states of america"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":138,"wghostname":"mw1269"});});
+
+

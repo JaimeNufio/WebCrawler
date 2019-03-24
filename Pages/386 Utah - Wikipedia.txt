@@ -1,0 +1,2903 @@
+
+
+
+
+utah - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"utah","wgtitle":"utah","wgcurrevisionid":882846277,"wgrevisionid":882846277,"wgarticleid":31716,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["cs1: julian–gregorian uncertainty","webarchive template wayback links","all articles with dead external links","articles with dead external links from july 2017","articles with permanently dead external links","pages using citations with accessdate and no url","cs1 maint: archived copy as title","articles with short description","wikipedia indefinitely move-protected pages","wikipedia indefinitely semi-protected pages","use mdy dates from may 2018","articles with haudio microformats","all articles that may contain original research","articles that may contain original research from february 2019","all articles with unsourced statements","articles with unsourced statements from march 2013","articles with unsourced statements from may 2016","articles with unsourced statements from may 2017","articles to be expanded from may 2017","all articles to be expanded","articles using small message boxes","articles with empty sections from may 2017","all articles with empty sections","articles containing potentially dated statements from 2012","all articles containing potentially dated statements","articles containing potentially dated statements from 2014","articles with unsourced statements from january 2019","articles containing potentially dated statements from 2010","articles containing potentially dated statements from september 2014","articles with unsourced statements from january 2015","articles with unsourced statements from august 2012","articles with unsourced statements from october 2014","articles containing potentially dated statements from 2013","articles with curlie links","coordinates on wikidata","wikipedia articles with gnd identifiers","wikipedia articles with isni identifiers","wikipedia articles with lccn identifiers","wikipedia articles with musicbrainz area identifiers","wikipedia articles with nara identifiers","wikipedia articles with nla identifiers","wikipedia articles with sudoc identifiers","wikipedia articles with viaf identifiers","wikipedia articles with worldcat-viaf identifiers","utah","former spanish colonies","states and territories established in 1896","states of the united states","western united states","1896 establishments in the united states"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"utah","wgrelevantarticleid":31716,"wgrequestid":"xgvusgpaaeqaahsiwlkaaaax","wgcspnonce":false,"wgisprobablyeditable":false,"wgrelevantpageisprobablyeditable":false,"wgrestrictionedit":["autoconfirmed"],"wgrestrictionmove":["sysop"],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgcoordinates":{"lat":39,"lon":-111},"wgwikibaseitemid":"q829","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","jquery.makecollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","jquery.makecollapsible","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+utah 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+a state of the united states of america 
+this article is about the u.s. state of utah. for other uses, see utah (disambiguation).
+
+
+state of utah
+
+
+
+flag
+seal
+nickname(s): beehive state (official), the mormon state, deseretmotto(s): industrystate song(s): "utah, this is the place"official languageenglishdemonymutahn or utahan[1]capital.mw-parser-output .nobold{font-weight:normal}(and largest city)salt lake citylargest metrosalt lake cityarearanked 13th  • total84,899 sq mi (219,887 km2) • width270 miles (435 km) • length350 miles (560 km) • % water3.25 • latitude37° n to 42° n • longitude109° 3′ w to 114° 3′ w
+populationranked 31st  • total3,101,833 (2017 est.)[2] • density36.53/sq mi  (14.12/km2)ranked 41st • median household income$66,258[3] (11th)
+elevation • highest pointkings peak[4][5][6]13,534 ft (4,120.3 m) • mean6,100 ft  (1,860 m) • lowest pointbeaver dam wash at arizona border[5][6][7] 2,180 ft (664.4 m)
+before statehoodutah territoryadmission to unionjanuary 4, 1896 (45th)governorgary herbert (r)lieutenant governorspencer cox (r)legislaturestate legislature  • upper housestate senate • lower househouse of representatives
+u.s. senatorsmike lee (r)mitt romney (r)u.s. house delegation1: rob bishop (r)2: chris stewart (r)3: john curtis (r)4: ben mcadams (d) (list)time zonemountain: utc −7/−6iso 3166us-utabbreviationsut, ut.websiteutah.gov
+utah state symbolsthe flag of utahthe seal of utahliving insigniabirdcalifornia gullfishbonneville cutthroat troutflowersego lilygrassindian ricegrassmammalrocky mountain elktreequaking aspeninanimate insigniadancesquare dancedinosaurutahraptorfirearmbrowning m1911fossilallosaurusgemstonetopazmineralcoppertartanutah state centennial tartanstate route markerstate quarterreleased in 2007lists of united states state symbols
+utah (/ˈjuːtɔː/ yoo-taw, /-tɑː/ -⁠tah listen) is a state in the western united states. it became the 45th state admitted to the u.s. on january 4, 1896. utah is the 13th-largest by area, 31st-most-populous, and 10th-least-densely populated of the 50 united states. utah has a population of more than 3 million according to the census estimate for july 1, 2016. urban development is mostly concentrated in two areas: the wasatch front in the north-central part of the state, which contains approximately 2.5 million people; and washington county in southern utah, with over 160,000 residents.[8] utah is bordered by colorado to the east, wyoming to the northeast, idaho to the north, arizona to the south, and nevada to the west. it also touches a corner of new mexico in the southeast.
+approximately 62% of utahns are reported to be members of the church of jesus christ of latter-day saints (lds church), making utah the only state with a majority population belonging to a single church.[9] this greatly influences utahn culture and daily life.[10] the lds church's world headquarters is located in salt lake city.[11][12]
+the state is a center of transportation, education, information technology and research, government services, mining, and a major tourist destination for outdoor recreation. in 2013, the u.s. census bureau estimated that utah had the second fastest-growing population of any state.[13] st. george was the fastest-growing metropolitan area in the united states from 2000 to 2005.[14] utah also has the 14th highest median average income and the least income inequality of any u.s. state. a 2012 gallup national survey found utah overall to be the "best state to live in" based on 13 forward-looking measurements including various economic, lifestyle, and health-related outlook metrics.[15]
+
+contents
+
+1 etymology
+2 history
+
+2.1 pre-columbian
+2.2 spanish exploration (1540)
+2.3 latter day saint settlement (1847)
+2.4 utah territory (1850–1896)
+2.5 20th century
+
+
+3 geography
+
+3.1 climate
+3.2 wildlife
+
+3.2.1 mammals
+3.2.2 birds
+3.2.3 insects
+
+
+3.3 vegetation
+
+
+4 demographics
+
+4.1 health and fertility
+4.2 ancestry and race
+4.3 religion
+4.4 languages
+4.5 age and gender
+
+
+5 economy
+
+5.1 taxation
+5.2 tourism
+
+5.2.1 branding
+
+
+5.3 mining
+
+5.3.1 incidents
+
+
+5.4 energy
+
+5.4.1 potential to use renewable energy sources
+
+
+
+
+6 transportation
+7 law and government
+
+7.1 counties
+7.2 women's rights
+7.3 free-range parenting
+7.4 constitution
+7.5 alcohol, tobacco and gambling laws
+7.6 same-sex marriage
+7.7 politics
+
+
+8 major cities and towns
+9 colleges and universities
+10 culture
+
+10.1 sports
+10.2 entertainment
+
+10.2.1 books
+10.2.2 film
+10.2.3 video games
+
+
+
+
+11 see also
+12 references
+13 further reading
+14 external links
+
+14.1 general
+14.2 government
+14.3 military
+14.4 maps and demographics
+14.5 tourism and recreation
+14.6 other
+
+
+
+
+etymology
+a common folk etymology is that the name "utah" is derived from the name of the ute tribe, purported to mean "people of the mountains" in the ute language.[16] this is, in fact, a false etymology. the term is not native in origin and its etymology is unclear. in actuality the word for people in ute is 'núuchiu' while the word for mountain is 'káav(i)', offering no linguistic connection to the words 'ute' or 'utah'.[17][original research?]
+according to other sources "utah" is derived from the apache name "yuttahih" which means "one that is higher up" or "those that are higher up".[16] in the spanish language it was said as "yuta", subsequently the english-speaking people adapted the word "utah".[18]
+
+history
+main article: history of utah
+pre-columbian
+thousands of years before the arrival of european explorers, the ancestral puebloans and the fremont people lived in what is now known as utah, some of which spoke languages of the uto-aztecan group. ancestral pueblo peoples built their homes through excavations in mountains, and the fremont people built houses of straw before disappearing from the region around the 15th century.
+
+ map showing utah in 1838 when it was part of mexico. from britannica 7th edition.
+another group of native americans, the navajo, settled in the region around the 18th century. in the mid-18th century, other uto-aztecan tribes, including the goshute, the paiute, the shoshone, and the ute people, also settled in the region. these five groups were present when the first european explorers arrived.[19][20]
+
+spanish exploration (1540)
+main articles: new spain, the californias § history, first mexican empire, provisional government of mexico (1823–24), first mexican republic, and centralist republic of mexico
+the southern utah region was explored by the spanish in 1540, led by francisco vásquez de coronado, while looking for the legendary cíbola. a group led by two catholic priests—sometimes called the dominguez-escalante expedition—left santa fe in 1776, hoping to find a route to the coast of california. the expedition traveled as far north as utah lake and encountered the native residents. the spanish made further explorations in the region, but were not interested in colonizing the area because of its desert nature. in 1821, the year mexico achieved its independence from spain, the region became known as part of its territory of alta california.
+european trappers and fur traders explored some areas of utah in the early 19th century from canada and the united states. the city of provo, utah was named for one, étienne provost, who visited the area in 1825. the city of ogden, utah was named after peter skene ogden, a canadian explorer who traded furs in the weber valley.
+in late 1824, jim bridger became the first known english-speaking person to sight the great salt lake. due to the high salinity of its waters, he thought he had found the pacific ocean; he subsequently learned this body of water was a giant salt lake. after the discovery of the lake, hundreds of american and canadian traders and trappers established trading posts in the region. in the 1830s, thousands of migrants traveling from the eastern united states to the american west began to make stops in the region of the great salt lake, then known as lake youta.[citation needed]
+
+latter day saint settlement (1847)
+main articles: mexican–american war, treaty of guadalupe hidalgo, and mexican cession
+ brigham young led the first mormon pioneers to the great salt lake.
+following the death of joseph smith in 1844, brigham young, as president of the quorum of the twelve, became the effective leader of the lds church in nauvoo, illinois.[21] to address the growing conflicts between his people and their neighbors, young agreed with illinois governor thomas ford in october 1845 that the mormons would leave by the following year.[22]
+young and the first band of mormon pioneers reached the salt lake valley on july 24, 1847. over the next 22 years, more than 70,000 pioneers crossed the plains and settled in utah.[23] for the first few years, brigham young and the thousands of early settlers of salt lake city struggled to survive. the arid desert land was deemed by the mormons as desirable as a place where they could practice their religion without harassment.
+the mormon settlements provided pioneers for other settlements in the west. salt lake city became the hub of a "far-flung commonwealth"[24] of mormon settlements. with new church converts coming from the east and around the world, church leaders often assigned groups of church members as missionaries to establish other settlements throughout the west. they developed irrigation to support fairly large pioneer populations along utah's wasatch front (salt lake city, bountiful and weber valley, and provo and utah valley).[25] throughout the remainder of the 19th century, mormon pioneers established hundreds of other settlements in utah, idaho, nevada, arizona, wyoming, california, canada, and mexico – including in las vegas, nevada; franklin, idaho (the first european settlement in idaho); san bernardino, california; mesa, arizona; star valley, wyoming; and carson valley, nevada.
+prominent settlements in utah included st. george, logan, and manti (where settlers completed the first three temples in utah, each started after but finished many years before the larger and better known temple built in salt lake city was completed in 1893), as well as parowan, cedar city, bluff, moab, vernal, fillmore (which served as the territorial capital between 1850 and 1856), nephi, levan, spanish fork, springville, provo bench (now orem), pleasant grove, american fork, lehi, sandy, murray, jordan, centerville, farmington, huntsville, kaysville, grantsville, tooele, roy, brigham city, and many other smaller towns and settlements. young had an expansionist's view of the territory that he and the mormon pioneers were settling, calling it deseret – which according to the book of mormon was an ancient word for "honeybee". this is symbolized by the beehive on the utah flag, and the state's motto, "industry".[26]
+utah was mexican territory when the first pioneers arrived in 1847. early in the mexican–american war in late 1846, the united states had taken control of new mexico and california. the entire southwest became u.s. territory upon the signing of the treaty of guadalupe hidalgo, february 2, 1848. the treaty was ratified by the united states senate on march 11. learning that california and new mexico were applying for statehood, the settlers of the utah area (originally having planned to petition for territorial status) applied for statehood with an ambitious plan for a state of deseret.
+
+utah territory (1850–1896)
+main articles: organic act § list of organic acts, utah territory, admission to the union, and list of u.s. states by date of admission to the union
+ salt lake city in 1850
+ a sketch of salt lake city in 1860
+ deseret village recreates utah pioneer life for tourists.
+ the golden spike where the first transcontinental railroad was completed in the u.s. on may 10, 1869, in promontory, utah
+the utah territory was much smaller than the proposed state of deseret, but it still contained all of the present states of nevada and utah as well as pieces of modern wyoming and colorado.[27] it was created with the compromise of 1850, and fillmore, named after president millard fillmore, was designated the capital. the territory was given the name utah after the ute tribe of native americans. salt lake city replaced fillmore as the territorial capital in 1856.
+disputes between the mormon inhabitants and the u.s. government intensified due to the practice of plural marriage, or polygamy, among members of the church of jesus christ of latter-day saints. the mormons were still pushing for the establishment of a state of deseret with the new borders of the utah territory. most, if not all, of the members of the u.s. government opposed the polygamous practices of the mormons.
+members of the lds church were viewed as un-american and rebellious when news of their polygamous practices spread. in 1857, particularly heinous accusations of abdication of government and general immorality were leveled by former associate justice william w. drummond, among others. the detailed reports of life in utah caused the administration of james buchanan to send a secret military "expedition" to utah. when the supposed rebellion should be quelled, alfred cumming would take the place of brigham young as territorial governor. the resulting conflict is known as the utah war, nicknamed "buchanan's blunder" by the mormon leaders.
+in september 1857, about 120 american settlers of the baker–fancher wagon train, en route to california from arkansas, were murdered by utah territorial militia and some paiute native americans in the mountain meadows massacre.[28]
+before troops led by albert sidney johnston entered the territory, brigham young ordered all residents of salt lake city to evacuate southward to utah valley and sent out a force, known as the nauvoo legion, to delay the government's advance. although wagons and supplies were burned, eventually the troops arrived in 1858, and young surrendered official control to cumming, although most subsequent commentators claim that young retained true power in the territory. a steady stream of governors appointed by the president quit the position, often citing the traditions of their supposed territorial government. by agreement with young, johnston established camp floyd, 40 miles (60 km) away from salt lake city, to the southwest.
+salt lake city was the last link of the first transcontinental telegraph, completed in october 1861. brigham young was among the first to send a message, along with abraham lincoln and other officials.
+because of the american civil war, federal troops were pulled out of utah territory in 1861. this was a boon to the local economy as the army sold everything in camp for pennies on the dollar before marching back east to join the war. the territory was then left in lds hands until patrick e. connor arrived with a regiment of california volunteers in 1862. connor established fort douglas just 3 miles (4.8 km) east of salt lake city and encouraged his people to discover mineral deposits to bring more non-mormons into the territory. minerals were discovered in tooele county and miners began to flock to the territory.
+beginning in 1865, utah's black hawk war developed into the deadliest conflict in the territory's history. chief antonga black hawk died in 1870, but fights continued to break out until additional federal troops were sent in to suppress the ghost dance of 1872. the war is unique among indian wars because it was a three-way conflict, with mounted timpanogos utes led by antonga black hawk fighting federal and lds authorities.
+on may 10, 1869, the first transcontinental railroad was completed at promontory summit, north of the great salt lake.[29] the railroad brought increasing numbers of people into the territory and several influential businesspeople made fortunes there.
+during the 1870s and 1880s laws were passed to punish polygamists due, in part, to the stories coming forth regarding utah. notably, ann eliza young—tenth wife to divorce brigham young, women's advocate, national lecturer and author of wife no. 19 or my life of bondage and mr. and mrs. fanny stenhouse, authors of the rocky mountain saints (t. b. h. stenhouse, 1873) and tell it all: my life in mormonism (fanny stenhouse, 1875). both of these women, ann eliza and fanny, testify to the happiness of the very early church members before polygamy began to be practiced. they independently published their books in 1875. these books and the lectures of ann eliza young have been credited with the united states congress passage of anti-polygamy laws by newspapers throughout the united states as recorded in "the ann eliza young vindicator", a pamphlet which detailed ms young's travels and warm reception throughout her lecture tour.
+t. b. h. stenhouse, former utah mormon polygamist, mormon missionary for thirteen years and a salt lake city newspaper owner, finally left utah and wrote the rocky mountain saints. his book gives a witnessed account of his life in utah, both the good and the bad. he finally left utah and mormonism after financial ruin occurred when brigham young sent stenhouse to relocate to ogden, utah, according to stenhouse, to take over his thriving pro-mormon salt lake telegraph newspaper. in addition to these testimonies, the confessions of john d. lee, written by john d. lee—alleged "scape goat" for the mountain meadow massacre—also came out in 1877. the corroborative testimonies coming out of utah from mormons and former mormons influenced congress and the people of the united states.
+in the 1890 manifesto, the lds church banned polygamy. when utah applied for statehood again, it was accepted. one of the conditions for granting utah statehood was that a ban on polygamy be written into the state constitution. this was a condition required of other western states that were admitted into the union later. statehood was officially granted on january 4, 1896.
+
+20th century
+ children reading in santa clara, utah, in 1940
+beginning in the early 20th century, with the establishment of such national parks as bryce canyon national park and zion national park, utah became known for its natural beauty. southern utah became a popular filming spot for arid, rugged scenes featured in the popular mid-century western film genre. from such films, most us residents recognize such natural landmarks as delicate arch and "the mittens" of monument valley.[30] during the 1950s, 1960s, and 1970s, with the construction of the interstate highway system, accessibility to the southern scenic areas was made easier.
+since the establishment of alta ski area in 1939 and the subsequent development of several ski resorts in the state's mountains, utah's skiing has become world-renowned. the dry, powdery snow of the wasatch range is considered some of the best skiing in the world (the state license plate once claimed "the greatest snow on earth").[31][32] salt lake city won the bid for the 2002 winter olympic games, and this served as a great boost to the economy. the ski resorts have increased in popularity, and many of the olympic venues built along the wasatch front continue to be used for sporting events. preparation for the olympics spurred the development of the light-rail system in the salt lake valley, known as trax, and the re-construction of the freeway system around the city.
+in 1957, utah created the utah state parks commission with four parks. today, utah state parks manages 43 parks and several undeveloped areas totaling over 95,000 acres (380 km2) of land and more than 1,000,000 acres (4,000 km2) of water. utah's state parks are scattered throughout utah; from bear lake state park at the utah/idaho border to edge of the cedars state park museum deep in the four corners region, and everywhere in between. utah state parks is also home to the state's off highway vehicle office, state boating office and the trails program.[33]
+during the late 20th century, the state grew quickly. in the 1970s growth was phenomenal in the suburbs of the wasatch front. sandy was one of the fastest-growing cities in the country at that time. today, many areas of utah continue to see boom-time growth. northern davis, southern and western salt lake, summit, eastern tooele, utah, wasatch, and washington counties are all growing very quickly. management of transportation and urbanization are major issues in politics, as development consumes agricultural land and wilderness areas, with density of uses creating air pollution.
+
+geography
+see also: list of canyons and gorges in utah and list of utah counties
+ arches national park
+ pariette wetlands
+ little cottonwood canyon
+ deer creek reservoir
+ american fork canyon
+ utah county boundaries
+utah is known for its natural diversity and is home to features ranging from arid deserts with sand dunes to thriving pine forests in mountain valleys. it is a rugged and geographically diverse state that is at the convergence of three distinct geological regions: the rocky mountains, the great basin, and the colorado plateau.
+utah is one of the four corners states, and is bordered by idaho in the north, wyoming in the north and east; by colorado in the east; at a single point by new mexico to the southeast; by arizona in the south; and by nevada in the west. it covers an area of 84,899 sq mi (219,890 km2). the state is one of only three u.s. states (with colorado and wyoming) that have only lines of latitude and longitude for boundaries.
+one of utah's defining characteristics is the variety of its terrain. running down the middle of the state's northern third is the wasatch range, which rises to heights of almost 12,000 ft (3,700 m) above sea level. utah is home to world-renowned ski resorts, made popular by the light, fluffy snow, and winter storms which regularly dump 1 to 3 feet of overnight snow accumulation. in the state's northeastern section, running east to west, are the uinta mountains, which rise to heights of over 13,000 feet (4,000 m). the highest point in the state, kings peak, at 13,528 feet (4,123 m),[34] lies within the uinta mountains.
+at the western base of the wasatch range is the wasatch front, a series of valleys and basins that are home to the most populous parts of the state. it stretches approximately from brigham city at the north end to nephi at the south end. approximately 75 percent of the state's population lives in this corridor, and population growth is rapid.
+western utah is mostly arid desert with a basin and range topography. small mountain ranges and rugged terrain punctuate the landscape. the bonneville salt flats are an exception, being comparatively flat as a result of once forming the bed of ancient lake bonneville. great salt lake, utah lake, sevier lake, and rush lake are all remnants of this ancient freshwater lake,[35] which once covered most of the eastern great basin. west of the great salt lake, stretching to the nevada border, lies the arid great salt lake desert. one exception to this aridity is snake valley, which is (relatively) lush due to large springs and wetlands fed from groundwater derived from snow melt in the snake range, deep creek range, and other tall mountains to the west of snake valley. great basin national park is just over the nevada state line in the southern snake range. one of western utah's most impressive, but least visited attractions is notch peak, the tallest limestone cliff in north america, located west of delta.
+much of the scenic southern and southeastern landscape (specifically the colorado plateau region) is sandstone, specifically kayenta sandstone and navajo sandstone. the colorado river and its tributaries wind their way through the sandstone, creating some of the world's most striking and wild terrain (the area around the confluence of the colorado and green rivers was the last to be mapped in the lower 48 united states). wind and rain have also sculpted the soft sandstone over millions of years. canyons, gullies, arches, pinnacles, buttes, bluffs, and mesas are the common sight throughout south-central and southeast utah.
+this terrain is the central feature of protected state and federal parks such as arches, bryce canyon, canyonlands, capitol reef, and zion national parks, cedar breaks, grand staircase-escalante, hovenweep, and natural bridges national monuments, glen canyon national recreation area (site of the popular tourist destination, lake powell), dead horse point and goblin valley state parks, and monument valley. the navajo nation also extends into southeastern utah. southeastern utah is also punctuated by the remote, but lofty la sal, abajo, and henry mountain ranges.
+eastern (northern quarter) utah is a high-elevation area covered mostly by plateaus and basins, particularly the tavaputs plateau and san rafael swell, which remain mostly inaccessible, and the uinta basin, where the majority of eastern utah's population lives. economies are dominated by mining, oil shale, oil, and natural gas-drilling, ranching, and recreation. much of eastern utah is part of the uintah and ouray indian reservation. the most popular destination within northeastern utah is dinosaur national monument near vernal.
+southwestern utah is the lowest and hottest spot in utah. it is known as utah's dixie because early settlers were able to grow some cotton there. beaverdam wash in far southwestern utah is the lowest point in the state, at 2,000 feet (610 m).[34] the northernmost portion of the mojave desert is also located in this area. dixie is quickly becoming a popular recreational and retirement destination, and the population is growing rapidly. although the wasatch mountains end at mount nebo near nephi, a complex series of mountain ranges extends south from the southern end of the range down the spine of utah. just north of dixie and east of cedar city is the state's highest ski resort, brian head.
+like most of the western and southwestern states, the federal government owns much of the land in utah. over 70 percent of the land is either blm land, utah state trustland, or u.s. national forest, u.s. national park, u.s. national monument, national recreation area or u.s. wilderness area.[36] utah is the only state where every county contains some national forest.[37]
+
+climate
+ köppen climate types of utah
+utah features a dry, semi-arid to desert climate,[citation needed] although its many mountains feature a large variety of climates, with the highest points in the uinta mountains being above the timberline. the dry weather is a result of the state's location in the rain shadow of the sierra nevada in california. the eastern half of the state lies in the rain shadow of the wasatch mountains. the primary source of precipitation for the state is the pacific ocean, with the state usually lying in the path of large pacific storms from october to may. in summer, the state, especially southern and eastern utah, lies in the path of monsoon moisture from the gulf of california.
+most of the lowland areas receive less than 12 inches (305 mm) of precipitation annually, although the i-15 corridor, including the densely populated wasatch front, receives approximately 15 inches (381 mm). the great salt lake desert is the driest area of the state, with less than 5 inches (127 mm). snowfall is common in all but the far southern valleys. although st. george only receives about 3 inches (76 mm) per year, salt lake city sees about 60 inches (1,524 mm), enhanced by the lake-effect snow from the great salt lake, which increases snowfall totals to the south, southeast, and east of the lake.
+some areas of the wasatch range in the path of the lake-effect receive up to 500 inches (12,700 mm) per year. this micro climate of enhanced snowfall from the great salt lake spans the entire proximity of the lake. the cottonwood canyons adjacent to salt lake city are located in the right position to receive more precipitation from the lake.[38] the consistently deep powder snow led utah's ski industry to adopt the slogan "the greatest snow on earth" in the 1980s. in the winter, temperature inversions are a common phenomenon across utah's low basins and valleys, leading to thick haze and fog that can sometimes last for weeks at a time, especially in the uintah basin. although at other times of year its air quality is good, winter inversions give salt lake city some of the worst wintertime pollution in the country.
+previous studies have indicated a widespread decline in snowpack over utah accompanied by a decline in the snow–precipitation ratio while anecdotal evidence claims have been put forward that measured changes in utah's snowpack are spurious and do not reflect actual change. a 2012 study[39] found that the proportion of winter (january–march) precipitation falling as snow has decreased by 9% during the last half century, a combined result from a significant increase in rainfall and a minor decrease in snowfall. meanwhile, observed snow depth across utah has decreased and is accompanied by consistent decreases in snow cover and surface albedo. weather systems with the potential to produce precipitation in utah have decreased in number with those producing snowfall decreasing at a considerably greater rate.[40]
+
+ snow in rose park, salt lake city
+utah's temperatures are extreme, with cold temperatures in winter due to its elevation, and very hot summers statewide (with the exception of mountain areas and high mountain valleys). utah is usually protected from major blasts of cold air by mountains lying north and east of the state, although major arctic blasts can occasionally reach the state. average january high temperatures range from around 30 °f (−1 °c) in some northern valleys to almost 55 °f (13 °c) in st. george.
+temperatures dropping below 0 °f (−18 °c) should be expected on occasion in most areas of the state most years, although some areas see it often (for example, the town of randolph averages about 50 days per year with temperatures dropping that low). in july, average highs range from about 85 to 100 °f (29 to 38 °c). however, the low humidity and high elevation typically leads to large temperature variations, leading to cool nights most summer days. the record high temperature in utah was 118 °f (48 °c), recorded south of st. george on july 4, 2007,[41] and the record low was −69 °f (−56 °c), recorded at peter sinks in the bear river mountains of northern utah on february 1, 1985.[42] however, the record low for an inhabited location is −49 °f (−45 °c) at woodruff on december 12, 1932.[43]
+utah, like most of the western united states, has few days of thunderstorms. on average there are fewer than 40 days of thunderstorm activity during the year, although these storms can be briefly intense when they do occur. they are most likely to occur during monsoon season from about mid-july through mid-september, especially in southern and eastern utah. dry lightning strikes and the general dry weather often spark wildfires in summer, while intense thunderstorms can lead to flash flooding, especially in the rugged terrain of southern utah. although spring is the wettest season in northern utah, late summer is the wettest period for much of the south and east of the state. tornadoes are uncommon in utah, with an average of two striking the state yearly, rarely higher than ef1 intensity.[44]
+one exception of note, however, was the unprecedented f2 salt lake city tornado that moved directly across downtown salt lake city on august 11, 1999, killing 1 person, injuring 60 others, and causing approximately $170 million in damage.[45] the only other reported tornado fatality in utah's history was a 7-year-old girl who was killed while camping in summit county on july 6, 1884. the last tornado of above (e)f0 intensity occurred on september 8, 2002, when an f2 tornado hit manti. on august 11, 1993, an f3 tornado hit the uinta mountains north of duchesne at an elevation of 10,500 feet (3,200 m), causing some damage to a boy scouts campsite. this is the strongest tornado ever recorded in utah.[citation needed]
+
+wildlife
+utah is home to more than 600 vertebrate animals[46] as well as numerous invertebrates and insects.[47]
+
+mammals
+this section needs expansion. you can help by adding to it. (may 2017)
+mammals are found in every area of utah. non-predatory larger mammals include the wood bison, elk, moose, mountain goat, mule deer, pronghorn, and multiple types of bighorn sheep. non-predatory small mammals include muskrat, and nutria. predatory mammals include the brown and black bear, cougar, canada lynx, bobcat, fox (gray, red, and kit), coyote, badger, gray wolf, black-footed ferret, mink, stoat, long-tailed weasel, raccoon, and otter.
+
+birds
+this section is empty. you can help by adding to it. (may 2017)
+insects
+this section needs expansion. you can help by adding to it. (may 2017)
+there are many different insects found in utah. one of the most rare is the coral pink sand dunes tiger beetle, found only in coral pink sand dunes state park, near kanab.[48] it was proposed in 2012 to be listed as a threatened species,[49] but the proposal was not accepted.[50]
+in february 2009, africanized honeybees were found in southern utah.[51][52] the bees had spread into eight counties in utah, as far north as grand and emery counties by may 2017.[53]
+the white-lined sphinx moth is common to most of the united states, but there have been reported outbreaks of large groups of their larvae damaging tomato, grape and garden crops in utah.[54]
+
+vegetation
+this section needs expansion. you can help by adding to it. (may 2017)
+ joshua trees, yucca plants, and jumping cholla cactus occupy the far southwest corner of the state in the mojave desert
+several thousand plants are native to utah.[55]
+
+demographics
+main article: demographics of utah
+ "welcome to utah" sign
+the united states census bureau estimates that the population of utah was 2,995,919 on july 1, 2015, an 8.40% increase since the 2010 united states census.[56] the center of population of utah is located in utah county in the city of lehi.[57] much of the population lives in cities and towns along the wasatch front, a metropolitan region that runs north–south with the wasatch mountains rising on the eastern side. growth outside the wasatch front is also increasing. the st. george metropolitan area is currently the second fastest-growing in the country after the las vegas metropolitan area, while the heber micropolitan area is also the second fastest-growing in the country (behind palm coast, florida).[58]
+utah contains five metropolitan areas (logan, ogden-clearfield, salt lake city, provo-orem, and st. george), and 6 micropolitan areas (brigham city, heber, vernal, price, richfield, and cedar city).
+
+health and fertility
+utah ranks 47th in teenage pregnancy, lowest in percentage of births out of wedlock, lowest in number of abortions per capita, and lowest in percentage of teen pregnancies terminated in abortion. however, statistics relating to pregnancies and abortions may also be artificially low from teenagers going out of state for abortions because of parental notification requirements.[59][60] utah has the lowest child poverty rate in the country, despite its young demographics.[61] according to the gallup-healthways global well-being index as of  2012[update], utahns ranked fourth in overall well-being in the united states.[62] a 2002 national prescription drug study determined that antidepressant drugs were "prescribed in utah more often than in any other state, at a rate nearly twice the national average."[63] the data shows that depression rates in utah are no higher than the national average.[64]
+
+ancestry and race
+at the 2010 census, 86.1% of the population was non-hispanic white,[65] down from 93.8% in 1990,[66] 1% non-hispanic black or african american, 1.2% non-hispanic american indian and alaska native, 2% non-hispanic asian, 0.9% non-hispanic native hawaiian and other pacific islander, 0.1% from some other race (non-hispanic) and 1.8% of two or more races (non-hispanic). 13.0% of utah's population was of hispanic, latino, or spanish origin (of any race).
+
+
+
+historical population
+
+
+census
+pop.
+
+%±
+185011,380—186040,273253.9%187086,336114.4%1880143,96366.7%1890210,77946.4%1900276,74931.3%1910373,35134.9%1920449,39620.4%1930507,84713.0%1940550,3108.4%1950688,86225.2%1960890,62729.3%19701,059,27318.9%19801,461,03737.9%19901,722,85017.9%20002,233,16929.6%20102,763,88523.8%est. 20183,161,10514.4%source: 1910–2010[67]2018 estimate[56]
+
+
+utah racial breakdown of population
+
+
+racial composition
+1970[66]
+1990[66]
+2000[68]
+2010[65]
+
+
+white
+97.4%
+93.8%
+89.2%
+86.1%
+
+
+asian
+0.6%
+1.9%
+1.7%
+2.0%
+
+
+native
+1.1%
+1.4%
+1.3%
+1.2%
+
+
+black
+0.6%
+0.7%
+0.8%
+1.0%
+
+
+native hawaiian andother pacific islander
+–
+–
+0.7%
+0.9%
+
+
+other race
+0.2%
+2.2%
+4.2%
+6.0%
+
+
+two or more races
+–
+–
+2.1%
+2.7%
+
+ utah population density map
+the largest ancestry groups in the state are:
+
+26.0% english
+11.9% german
+11.8% scandinavian (5.4% danish, 4.0% swedish, 2.4% norwegian)
+9.0% mexican
+6.6% american
+6.2% irish
+4.6% scottish
+2.7% italian
+2.4% dutch
+2.2% french
+2.2% welsh
+1.4% scotch irish
+1.3% swiss
+most utahns are of northern european descent.[69]  in 2011 one-third of utah's workforce was reported to be bilingual, developed through a program of acquisition of second languages beginning in elementary school, and related to mormonism's missionary goals for its young people.[70]
+in 2011, 28.6% of utah's population younger than the age of one were ethnic minorities, meaning that they had at least one parent who was of a race other than non-hispanic white.[71]
+
+religion
+
+
+
+religion in utah as of  2014[update][72]
+
+religion
+
+
+percent
+
+
+
+latter day saints
+ 
+55%
+
+
+none
+ 
+22%
+
+
+protestant
+ 
+13%
+
+
+catholic
+ 
+5%
+
+
+other faiths
+ 
+2%
+
+
+buddhist
+ 
+1%
+
+
+muslim
+ 
+1%
+
+
+
+
+ the lds salt lake temple, the primary attraction in the city's temple square
+ first presbyterian church in salt lake city
+a majority of the state's residents are members of the lds church. as of  2012[update], 62.2% of utahns are counted as members.[10] members of the lds church currently make up between 34%–41% of the population within salt lake city. however, many of the other major population centers such as provo, logan, tooele, and st. george tend to be predominantly lds, along with many suburban and rural areas. the lds church has the largest number of congregations, numbering 4,815 wards.[73]
+though the lds church officially maintains a policy of neutrality in regards to political parties,[74] the church's doctrine has a strong regional influence on politics.[75] another doctrine effect can be seen in utah's high birth rate (25 percent higher than the national average; the highest for a state in the u.s.).[76] the mormons in utah tend to have conservative views when it comes to most political issues and the majority of voter-age utahns are unaffiliated voters (60%) who vote overwhelmingly republican.[77] mitt romney received 72.8% of the utahn votes in 2012, while john mccain polled 62.5% in the united states presidential election, 2008 and 70.9% for george w. bush in 2004. in 2010 the association of religion data archives (arda) reported that the three largest denominational groups in utah are the lds church with 1,910,504 adherents; the catholic church with 160,125 adherents, and the southern baptist convention with 12,593 adherents.[78]  there is a small but growing jewish presence in the state.[79][80]
+according to results from the 2010 united states census, combined with official lds church membership statistics, church members represented 62.1% of utah's total population. the utah county with the lowest percentage of church members was grand county, at 26.5%, while the county with the highest percentage was morgan county, at 86.1%. in addition, the result for the most populated county, salt lake county, was 51.4%.[10]
+according to a gallup poll, utah had the 3rd-highest number of people reporting as "very religious" in 2015, at 55% (trailing only mississippi and alabama). however, it was near the national average of people reporting as "nonreligious" (31%), and featured the smallest percentage of people reporting as "moderately religious" (15%) of any state, being 8 points lower than 2nd-lowest state vermont.[81] in addition, it had the highest average weekly church attendance of any state, at 51%.[82]
+
+languages
+the official language in the state of utah is english. utah english is primarily a merger of northern and midland american dialects carried west by lds church members, whose original new york dialect later incorporated features from southern ohio and central illinois. conspicuous in the speech of some in the central valley, although less frequent now in salt lake city, is a reversal of vowels, so that 'farm' and 'barn' sound like 'form' and 'born' and, conversely, 'form' and 'born' sound like 'farm' and 'barn'.[citation needed]
+in 2000, 87.5% of all state residents five years of age or older spoke only english at home, a decrease from 92.2% in 1990.
+
+
+top 14 non-english languages spoken in utah
+
+
+language
+percentage of population(as of  2010[update])[83]
+
+
+spanish
+7.4%
+
+
+german
+0.6%
+
+
+navajo
+0.5%
+
+
+french
+0.4%
+
+
+pacific island languages including chamorro, hawaiian, ilocano, tagalog, and samoan
+0.4%
+
+
+chinese
+0.4%
+
+
+portuguese
+0.3%
+
+
+vietnamese
+0.3%
+
+
+japanese
+0.2%
+
+
+arapaho
+0.1%
+
+age and gender
+utah has the highest total birth rate[76] and accordingly, the youngest population of any u.s. state. in 2010, the state's population was 50.2% male and 49.8% female.
+
+economy
+ the wasatch front region has seen large growth and development despite the economic downturn. shown is the city creek center project, a development in downtown salt lake city with a price tag of $1.5–2.5 billion.
+main article: economy of utah
+see also: utah locations by per capita income
+ one out of every 14 flash memory chips in the world is produced in lehi, utah.[84]
+ zion national park in southern utah is one of five national parks in the state
+ farms and ranches
+according to the bureau of economic analysis, the gross state product of utah in 2012 was us$130.5 billion, or 0.87% of the total united states gdp of us$14.991 trillion for the same year.[85] the per capita personal income was $45,700 in 2012. major industries of utah include: mining, cattle ranching, salt production, and government services.
+according to the 2007 state new economy index, utah is ranked the top state in the nation for economic dynamism, determined by "the degree to which state economies are knowledge-based, globalized, entrepreneurial, information technology-driven and innovation-based". in 2014, utah was ranked number one in forbes' list of "best states for business".[86] a november 2010 article in newsweek magazine highlighted utah and particularly the salt lake city area's economic outlook, calling it "the new economic zion", and examined how the area has been able to bring in high-paying jobs and attract high-tech corporations to the area during a recession.[87] as of  september 2014[update], the state's unemployment rate was 3.5%.[88] in terms of "small business friendliness", in 2014 utah emerged as number one, based on a study drawing upon data from over 12,000 small business owners.[89]
+in eastern utah petroleum production is a major industry.[90] near salt lake city, petroleum refining is done by a number of oil companies. in central utah, coal production accounts for much of the mining activity.
+according to internal revenue service tax returns, utahns rank first among all u.s. states in the proportion of income given to charity by the wealthy. this is due to the standard 10% of all earnings that mormons give to the lds church.[61] according to the corporation for national and community service, utah had an average of 884,000 volunteers between 2008 and 2010, each of whom contributed 89.2 hours per volunteer. this figure equates to $3.8 billion of service contributed, ranking utah number one for volunteerism in the nation.[91]
+
+taxation
+utah collects personal income tax; since 2008 the tax has been a flat 5 percent for all taxpayers.[92] the state sales tax has a base rate of 6.45 percent,[93] with cities and counties levying additional local sales taxes that vary among the municipalities. property taxes are assessed and collected locally. utah does not charge intangible property taxes and does not impose an inheritance tax.
+
+tourism
+tourism is a major industry in utah. with five national parks (arches, bryce canyon, canyonlands, capitol reef, and zion), utah has the third most national parks of any state after alaska and california. in addition, utah features eight national monuments (cedar breaks, dinosaur, grand staircase-escalante, hovenweep, natural bridges, bears ears, rainbow bridge, and timpanogos cave), two national recreation areas (flaming gorge and glen canyon), seven national forests (ashley, caribou-targhee, dixie, fishlake, manti-la sal, sawtooth, and uinta-wasatch-cache), and numerous state parks and monuments.
+the moab area, in the southeastern part of the state, is known for its challenging mountain biking trails, including slickrock. moab also hosts the famous moab jeep safari semiannually.
+utah has seen an increase in tourism since the 2002 winter olympics. park city is home to the united states ski team. utah's ski resorts are primarily located in northern utah near salt lake city, park city, ogden, and provo. between 2007 and 2011 deer valley in park city, has been ranked the top ski resort in north america in a survey organized by ski magazine.[94]
+in addition to having prime snow conditions[citation needed] and world-class amenities[citation needed], northern utah's ski resorts are well liked among tourists[citation needed] for their convenience and proximity to a large city and international airport, as well as the close proximity to other ski resorts, allowing skiers the ability to ski at multiple locations in one day.[citation needed] the 2009 ski magazine reader survey concluded that six out of the top ten resorts deemed most "accessible" and six out of the top ten with the best snow conditions were located in utah.[95]  in southern utah, brian head ski resort is located in the mountains near cedar city. former olympic venues including utah olympic park and utah olympic oval are still in operation for training and competition and allows the public to participate in numerous activities including ski jumping, bobsleigh, and speed skating.
+utah features many cultural attractions such as temple square, the sundance film festival, the red rock film festival, the docutah film festival, the utah data center, and the utah shakespearean festival. temple square is ranked as the 16th most visited tourist attraction in the united states by forbes magazine, with over five million annual visitors.[96]
+other attractions include monument valley, the great salt lake, the bonneville salt flats, and lake powell.
+
+ bryce canyon national park amphitheater (winter view)
+branding
+ the delicate arch utah license plate with the "life elevated" state slogan
+the state of utah relies heavily on income from tourists and travelers visiting the state's parks and ski resorts, and thus the need to "brand" utah and create an impression of the state throughout the world has led to several state slogans, the most famous of which being "the greatest snow on earth", which has been in use in utah officially since 1975 (although the slogan was in unofficial use as early as 1962) and now adorns nearly 50 percent of the state's license plates. in 2001, utah governor mike leavitt approved a new state slogan, "utah! where ideas connect", which lasted until march 10, 2006, when the utah travel council and the office of governor jon huntsman announced that "life elevated" would be the new state slogan.[97]
+
+mining
+ mining has been a large industry in utah since it was first settled. the bingham canyon mine in salt lake county is one of the largest open pit mines in the world.
+beginning in the late 19th century with the state's mining boom (including the bingham canyon mine, among the world's largest open pit mines), companies attracted large numbers of immigrants with job opportunities. since the days of the utah territory mining has played a major role in utah's economy. historical mining towns include mercur in tooele county, silver reef in washington county, eureka in juab county, park city in summit county and numerous coal mining camps throughout carbon county such as castle gate, spring canyon, and hiawatha.[98]
+these settlements were characteristic of the boom and bust cycle that dominated mining towns of the american west. park city, utah, and alta, utah were a boom towns in the early twentieth centuries. rich silver mines in the mountains adjacent to the towns led to many people flocking to the towns in search of wealth. during the early part of the cold war era, uranium was mined in eastern utah. today mining activity still plays a major role in the state's economy. minerals mined in utah include copper, gold, silver, molybdenum, zinc, lead, and beryllium. fossil fuels including coal, petroleum, and natural gas continue to play a large role in utah's economy, especially in the eastern part of the state in counties such as carbon, emery, grand, and uintah.[98]
+
+incidents
+in 2007, nine people were killed at the crandall canyon mine collapse.
+on march 22, 2013, one miner died and another was injured after they became trapped in a cave-in at a part of the castle valley mining complex, about 16 kilometres (9.9 mi) west of the small mining town of huntington in emery county.[99]
+
+energy
+
+
+
+
+utah wind generation (gwh, million kwh)
+
+
+year
+
+capacity(mw)
+
+total
+
+jan
+
+feb
+
+mar
+
+apr
+
+may
+
+jun
+
+jul
+
+aug
+
+sept
+
+oct
+
+nov
+
+dec
+
+
+2009
+223
+160
+1
+–
+2
+3
+3
+3
+3
+3
+33
+47
+15
+35
+
+
+2010
+223
+448
+31
+17
+46
+44
+50
+38
+36
+56
+39
+26
+26
+42
+
+
+2011
+325
+576
+18
+54
+59
+45
+57
+70
+55
+63
+23
+38
+65
+32
+
+
+2012
+
+
+36
+40
+97
+62
+80
+93
+56
+40
+34
+
+
+
+
+source:[100][101][102]
+
+
+
+utah grid-connected pv capacity (mw)[103][104]
+
+
+year
+
+capacity
+
+installed
+
+% growth
+
+
+2007
+0.2
+
+
+
+
+2008
+0.2
+
+0
+
+
+2009
+0.6
+0.4
+200%
+
+
+2010
+2.1
+1.4
+250%
+
+
+2011
+4.4
+2.3
+110%
+
+potential to use renewable energy sources
+utah has the potential to generate 31.6 twh/year from 13.1 gw of wind power, and 10,290 twh/year from solar power using 4,048 gw of photovoltaic (pv), including 5.6 gw of rooftop photovoltaic, and 1,638 gw of concentrated solar power.[105]
+
+transportation
+further information: list of state highways in utah and utah transit authority
+ salt lake international airport is the largest airport in utah
+ frontrunner commuter rail serves select cities from ogden to provo via  salt lake city.
+ trax light rail serves salt lake county
+i-15 and i-80 are the main interstate highways in the state, where they intersect and briefly merge near downtown salt lake city. i-15 traverses the state north-to-south, entering from arizona near st. george, paralleling the wasatch front, and crossing into idaho near portage. i-80 spans northern utah east-to-west, entering from nevada at wendover, crossing the wasatch mountains east of salt lake city, and entering wyoming near evanston. i-84 west enters from idaho near snowville (from boise) and merges with i-15 from tremonton to ogden, then heads southeast through the wasatch mountains before terminating at i-80 near echo junction.
+i-70 splits from i-15 at cove fort in central utah and heads east through mountains and rugged desert terrain, providing quick access to the many national parks and national monuments of southern utah, and has been noted for its beauty. the 103 mi (166 km) stretch from salina to green river is the country's longest stretch of interstate without services and, when completed in 1970, was the longest stretch of entirely new highway constructed in the u.s. since the alaska highway was completed in 1943.
+trax, a light rail system in the salt lake valley, consists of three lines. the blue line (formerly salt lake/sandy line) begins in the suburb of draper and ends in downtown salt lake city. the red line (mid-jordan/university line) begins in the daybreak community of south jordan, a southwestern valley suburb, and ends at the university of utah. the green line begins in west valley city, passes through downtown salt lake city, and ends at salt lake city international airport.
+the utah transit authority (uta), which operates trax, also operates a bus system that stretches across the wasatch front, west into grantsville, and east into park city. in addition, uta provides winter service to the ski resorts east of salt lake city, ogden, and provo. several bus companies also provide access to the ski resorts in winter, and local bus companies also serve the cities of cedar city, logan, park city, and st. george. a commuter rail line known as frontrunner, also operated by uta, runs between pleasant view and provo via salt lake city. amtrak's california zephyr, with one train in each direction daily, runs east–west through utah with stops in green river, helper, provo, and salt lake city.
+salt lake city international airport is the only international airport in the state and serves as one of the hubs for delta air lines. the airport has consistently ranked first in on-time departures and had the fewest cancellations among u.s. airports.[106] the airport has non-stop service to over 100 destinations throughout the united states, canada, and mexico, as well as to amsterdam, london and paris. canyonlands field (near moab), cedar city regional airport, ogden-hinckley airport, provo municipal airport, st. george regional airport, and vernal regional airport all provide limited commercial air service. a new regional airport at st. george opened on january 12, 2011. skywest airlines is also headquartered in st. george and maintains a hub at salt lake city.
+
+law and government
+utah state symbolsthe flag of utahthe seal of utahliving insigniabirdcalifornia gulllarus californicusbutterflymonarch butterflydanaus plexippusfishbonneville cutthroat troutoncorhynchus clarki utahflowersego lilycalochortus nuttalliigrassindian ricegrassachnatherum hymenoidesinsectwestern honey beeapis melliferamammalelkcervus canadensis nelsonitreequaking aspenpopulus tremuloidesinanimate insigniadancesquare dancedinosaurallosaurusfirearmm1911 pistol[107]foodcherryprunus aviumgemstonetopazmineralcoppermottoindustryrockcoalshipuss utah (bb-31)slogan"life elevated"soilmivida (soil)song"utah, this is the place"tartanutah state centennial tartanstate route markerstate quarterreleased in 2007lists of united states state symbols
+further information: list of utah governors, list of utah state legislatures, utah state senate, and utah state house of representatives
+ jake garn (top-right), former senator of utah (1974–1993), and astronaut on space shuttle flight sts-51-d
+utah government is divided into three branches: executive, legislative, and judicial. the current governor of utah is gary herbert,[108] who was sworn in on august 11, 2009. the governor is elected for a four-year term. the utah state legislature consists of a senate and a house of representatives. state senators serve four-year terms and representatives two-year terms. the utah legislature meets each year in january for an annual forty-five-day session.
+the utah supreme court is the court of last resort in utah. it consists of five justices, who are appointed by the governor, and then subject to retention election. the utah court of appeals handles cases from the trial courts.[109] trial level courts are the district courts and justice courts. all justices and judges, like those on the utah supreme court, are subject to retention election after appointment.
+
+counties
+main article: list of counties in utah
+utah is divided into political jurisdictions designated as counties. since 1918 there have been 29 counties in the state, ranging from 298 to 7,819 square miles (772 to 20,300 km2).
+
+
+
+county name
+county seat
+year founded
+2010 u.s. census
+
+largest county city
+percent of total
+area
+% of state
+
+
+beaver
+beaver
+1856
+6,162
+
+beaver
+0.22%
+2,589 sq mi (6,710 km2)
+3.2%
+
+
+box elder
+brigham city
+1856
+49,975
+
+brigham city
+1.81%
+5,745 sq mi (14,880 km2)
+7.0%
+
+
+cache
+logan
+1856
+112,656
+
+logan
+4.08%
+1,164 sq mi (3,010 km2)
+1.4%
+
+
+carbon
+price
+1894
+21,403
+
+price
+0.77%
+1,478 sq mi (3,830 km2)
+1.8%
+
+
+daggett
+manila
+1918
+938
+
+manila
+0.03%
+696 sq mi (1,800 km2)
+0.8%
+
+
+davis
+farmington
+1852
+306,479
+
+layton
+11.09%
+298 sq mi (770 km2)
+0.4%
+
+
+duchesne
+duchesne
+1915
+18,607
+
+roosevelt
+0.67%
+3,240 sq mi (8,400 km2)
+3.9%
+
+
+emery
+castle dale
+1880
+10,976
+
+huntington
+0.40%
+4,462 sq mi (11,560 km2)
+5.4%
+
+
+garfield
+panguitch
+1882
+4,658
+
+panguitch
+0.17%
+5,175 sq mi (13,400 km2)
+6.3%
+
+
+grand
+moab
+1890
+9,589
+
+moab
+0.35%
+3,671 sq mi (9,510 km2)
+4.5%
+
+
+iron
+parowan
+1852
+46,163
+
+cedar city
+1.67%
+3,296 sq mi (8,540 km2)
+4.0%
+
+
+juab
+nephi
+1852
+10,246
+
+nephi
+0.37%
+3,392 sq mi (8,790 km2)
+4.1%
+
+
+kane
+kanab
+1864
+6,577
+
+kanab
+0.24%
+3,990 sq mi (10,300 km2)
+4.9%
+
+
+millard
+fillmore
+1852
+12,503
+
+delta
+0.45%
+6,572 sq mi (17,020 km2)
+8.0%
+
+
+morgan
+morgan
+1862
+8,669
+
+morgan
+0.31%
+609 sq mi (1,580 km2)
+0.7%
+
+
+piute
+junction
+1865
+1,404
+
+circleville
+0.05%
+757 sq mi (1,960 km2)
+0.9%
+
+
+rich
+randolph
+1868
+2,205
+
+garden city
+0.08%
+1,028 sq mi (2,660 km2)
+1.3%
+
+
+salt lake
+salt lake city
+1852
+1,029,655
+
+salt lake city, state capital.
+37.25%
+742 sq mi (1,920 km2)
+0.9%
+
+
+san juan
+monticello
+1880
+14,746
+
+blanding
+0.53%
+7,819 sq mi (20,250 km2)
+9.5%
+
+
+sanpete
+manti
+1852
+27,822
+
+ephraim
+1.01%
+1,590 sq mi (4,100 km2)
+1.9%
+
+
+sevier
+richfield
+1865
+20,802
+
+richfield
+0.75%
+1,910 sq mi (4,900 km2)
+2.3%
+
+
+summit
+coalville
+1854
+36,324
+
+park city
+1.31%
+1,871 sq mi (4,850 km2)
+2.3%
+
+
+tooele
+tooele
+1852
+58,218
+
+tooele
+2.11%
+6,941 sq mi (17,980 km2)
+8.4%
+
+
+uintah
+vernal
+1880
+32,588
+
+vernal
+1.18%
+4,479 sq mi (11,600 km2)
+5.5%
+
+
+utah
+provo
+1852
+516,564
+
+provo, third largest city in ut.
+18.69%
+2,003 sq mi (5,190 km2)
+2.4%
+
+
+wasatch
+heber
+1862
+23,530
+
+heber city
+0.85%
+1,175 sq mi (3,040 km2)
+1.4%
+
+
+washington
+st. george
+1852
+138,115
+
+st. george
+5.00%
+2,426 sq mi (6,280 km2)
+3.0%
+
+
+wayne
+loa
+1892
+2,509
+
+loa
+0.09%
+2,460 sq mi (6,400 km2)
+3.0%
+
+
+weber
+ogden
+1852
+231,236
+
+ogden
+8.37%
+576 sq mi (1,490 km2)
+0.7%
+
+total counties: 29
+total 2010 population: 2,763,885[110]
+total state area: 82,154 sq mi (212,780 km2)
+women's rights
+further information: women's suffrage in utah
+utah granted full voting rights to women in 1870, 26 years before becoming a state. among all u.s. states, only wyoming granted suffrage to women earlier.[111] however, in 1887 the initial edmunds-tucker act was passed by congress in an effort to curtail mormon influence in the territorial government. one of the provisions of the act was the repeal of women's suffrage; full suffrage was not returned until utah was admitted to the union in 1896.
+utah is one of the 15 states that have not ratified the u.s. equal rights amendment.[112]
+
+free-range parenting
+in march 2018, utah passed america's first "free-range parenting" bill. the bill was signed into law by republican governor gary herbert and states that parents who allow their children to engage in certain activities without supervision are not considered neglectful.[113][114]
+
+constitution
+main article: constitution of utah
+the constitution of utah was enacted in 1895. notably, the constitution outlawed polygamy, as requested by congress when utah had applied for statehood, and reestablished the territorial practice of women's suffrage. utah's constitution has been amended many times since its inception.[115]
+
+alcohol, tobacco and gambling laws
+see also: list of alcohol laws of the united states
+utah's laws in regard to alcohol, tobacco and gambling are strict. utah is an alcoholic beverage control state. the utah department of alcoholic beverage control regulates the sale of alcohol; wine and spirituous liquors may only be purchased at state liquor stores, and local laws may prohibit the sale of beer and other alcoholic beverages on sundays. the state bans the sale of fruity alcoholic drinks at grocery stores and convenience stores. the law states that such drinks must now have new state-approved labels on the front of the products that contain capitalized letters in bold type telling consumers the drinks contain alcohol and at what percentage. the utah indoor clean air act is a statewide smoking ban, that prohibits smoking in many public places.[116] utah is one of few states to set a smoking age of 19, as opposed to 18, as in most other states.
+utah is also one of only two states in the united states to outlaw all forms of gambling; the other is hawaii.
+
+same-sex marriage
+main article: same-sex marriage in utah
+same-sex marriage became legal in utah on december 20, 2013 when judge robert j. shelby of the united states district court for the district of utah issued a ruling in kitchen v. herbert.[117][118] as of close of business december 26, more than 1,225 marriage licenses were issued, with at least 74 percent, or 905 licenses, issued to gay and lesbian couples.[119] the state attorney general's office was granted a stay of the ruling by the united states supreme court on january 6, 2014 while the tenth circuit court of appeals considers the case.[120] on monday october 6, 2014, the supreme court of the united states declined a writ of certiorari, and the 10th circuit court issued their mandate later that day, lifting their stay. same-sex marriages commenced again in utah that day.[121]
+
+politics
+further information: political party strength in utah
+
+presidential election results[122]
+
+
+year
+
+republican
+
+democrat
+
+
+2016
+
+45.54% 515,231
+
+27.46%    310,676
+
+
+2012
+
+72.79% 740,600
+
+24.75%    251,813
+
+
+2008
+
+62.25% 596,030
+
+34.22%    327,670
+
+
+2004
+
+71.54% 663,742
+
+26.00%    241,199
+
+
+2000
+
+66.83% 515,096
+
+26.34%    203,053
+
+
+1996
+
+54.37% 361,911
+
+33.30%    221,633
+
+
+1992
+
+43.36% 322,632
+
+24.65%    183,429
+
+
+1988
+
+66.22% 428,442
+
+32.05%    207,343
+
+
+1984
+
+74.50% 469,105
+
+24.68%    155,369
+
+
+1980
+
+72.77% 439,687
+
+20.57%    124,266
+
+
+1976
+
+62.44% 337,908
+
+33.65%    182,110
+
+
+1972
+
+67.64% 323,643
+
+26.39%    126,284
+
+
+1968
+
+56.49% 238,728
+
+37.07%    156,665
+
+
+1964
+
+45.14%    180,682
+
+54.86% 219,628
+
+
+1960
+
+54.81% 205,361
+
+45.17%    169,248
+
+ treemap of the popular vote by county, 2016 presidential election.
+ the utah state capitol, salt lake city
+ the scott matheson courthouse is the seat of the utah supreme court
+in the late 19th century, the federal government took issue with polygamy in the lds church. the lds church discontinued plural marriage in 1890, and in 1896 utah gained admission to the union. many new people settled the area soon after the mormon pioneers. relations have often been strained between the lds population and the non-lds population.[123] these tensions have played a large part in utah's history (liberal party vs. people's party).
+utah votes predominantly republican. self-identified latter-day saints are more likely to vote for the republican ticket than non-mormons, and utah is one of the most republican states in the nation.[124][125]  utah was the single most republican-leaning state in the country in every presidential election from 1976 to 2004, measured by the percentage point margin between the republican and democratic candidates. in 2008 utah was only the third-most republican state (after wyoming and oklahoma), but in 2012, with mormon mitt romney atop the republican ticket, utah returned to its position as the most republican state. however, the 2016 presidential election result saw republican donald trump carry the state (marking the thirteenth consecutive win by the republican presidential candidate) with only a plurality, the first time this happened since 1992.
+both of utah's u.s. senators, mitt romney and mike lee, are republican. three more republicans, rob bishop, chris stewart, and john curtis, represent utah in the united states house of representatives. ben mcadams, the sole democratic member of the utah delegation, represents the 4th congressional district. after jon huntsman jr. resigned to serve as u.s. ambassador to china, gary herbert was sworn in as governor on august 11, 2009. herbert was elected to serve out the remainder of the term in a special election in 2010, defeating democratic nominee salt lake county mayor peter corroon with 64% of the vote. he won election to a full four-year term in 2012, defeating democratic businessman peter cooke with 68% of the vote.
+the lds church maintains an official policy of neutrality with regard to political parties and candidates.[74]
+in the 1970s, then-apostle ezra taft benson was quoted by the associated press that it would be difficult for a faithful latter-day saint to be a liberal democrat.[126] although the lds church has officially repudiated such statements on many occasions, democratic candidates—including lds democrats—believe that republicans capitalize on the perception that the republican party is doctrinally superior.[127] political scientist and pollster dan jones explains this disparity by noting that the national democratic party is associated with liberal positions on gay marriage and abortion, both of which the lds church is against.[128] the republican party in heavily mormon utah county presents itself as the superior choice for latter-day saints. even though utah democratic candidates are predominantly lds, socially conservative, and pro-life, no democrat has won in utah county since 1994.[129]
+david magleby, dean of social and behavioral sciences at brigham young university, a lifelong democrat and a political analyst, asserts that the republican party actually has more conservative positions than the lds church. magleby argues that the locally conservative democrats are in better accord with lds doctrine.[130] for example, the republican party of utah opposes almost all abortions while utah democrats take a more liberal approach, although more conservative than their national counterparts. on second amendment issues, the state gop has been at odds with the lds church position opposing concealed firearms in places of worship and in public spaces.
+in 1998 the church expressed concern that utahns perceived the republican party as an lds institution and authorized lifelong democrat and seventy marlin jensen to promote lds bipartisanship.[126]
+utah is much more conservative than the united states as a whole, particularly on social issues. compared to other republican-dominated states in the mountain west such as wyoming, utah politics have a more moralistic and less libertarian character, according to david magleby.[131]
+
+
+governor elections results
+
+
+year
+
+republican
+
+democratic
+
+
+2016
+
+66.7% 750,850
+
+28.7%    323,249
+
+
+2012
+
+68.4% 624,678
+
+27.7%    253,514
+
+
+2008
+
+77.6% 734,049
+
+19.7%    186,503
+
+
+2004
+
+57.7% 531,190
+
+41.4%    380,359
+
+
+2000
+
+56.0% 422,357
+
+43.0%    320,141
+
+
+1996
+
+75.0% 503,693
+
+23.3%    156,616
+
+
+salt lake county mayor
+
+
+year
+
+republican
+
+democratic
+
+
+2008
+
+32% 114,097
+
+66% 233,655
+
+
+2004
+
+44% 144,928
+
+48% 157,287
+
+
+2000
+
+52% 158,787
+
+47% 144,011
+
+
+senator bennett results
+
+
+year
+
+republican
+
+democratic
+
+
+2004
+
+69% 626,640
+
+28% 258,955
+
+
+1998
+
+64% 316,652
+
+33% 163,172
+
+
+senator hatch results
+
+
+year
+
+republican
+
+democratic
+
+
+2006
+
+63% 356,238
+
+31% 177,459
+
+
+2000
+
+66% 501,925
+
+32% 241,129
+
+about 80% of utah's legislature are members of the church of jesus christ of latter-day saints,[132] while members account for 61 percent of the population.[133] since becoming a state in 1896, utah has had only two non-mormon governors.[134]
+in 2006, the legislature passed legislation aimed at banning joint-custody for a non-biological parent of a child. the custody measure passed the legislature and was vetoed by the governor, a reciprocal benefits supporter.
+carbon county's democrats are generally made up of members of the large greek, italian, and southeastern european communities, whose ancestors migrated in the early 20th century to work in the extensive mining industry. the views common amongst this group are heavily influenced by labor politics, particularly of the new deal era.[135]
+the state's most republican areas tend to be utah county, which is the home to brigham young university in the city of provo, and nearly all the rural counties.[136][137] these areas generally hold socially conservative views in line with that of the national religious right. the most democratic areas of the state lie currently in and around salt lake city proper.
+the state has not voted for a democrat for president since 1964. historically, republican presidential nominees score one of their best margins of victory here. utah was the republicans' best state in the 1976,[138] 1980,[139] 1984,[140] 1988,[141] 1996,[142] 2000,[143] and 2004[144] elections. in 1992, utah was the only state in the nation where democratic candidate bill clinton finished behind both republican candidate george hw bush and independent candidate ross perot.[145] in 2004, republican george w. bush won every county in the state and utah gave him his largest margin of victory of any state. he won the state's five electoral votes by a margin of 46 percentage points with 71.5% of the vote. in the 1996 presidential elections the republican candidate received a smaller 54% of the vote while the democrat earned 34%.[146]
+
+major cities and towns
+main article: list of cities and towns in utah
+see also: utah locations by per capita income
+ salt lake city
+ logan
+ ogden
+ park city
+ provo
+ sandy
+ st. george
+utah's population is concentrated in two areas, the wasatch front in the north-central part of the state, with a population of over 2 million; and washington county, in southwestern utah, locally known as "dixie", with over 150,000 residents in the metropolitan area.
+according to the 2010 census, utah was the second fastest-growing state (at 23.8 percent) in the united states between 2000 and 2010 (behind nevada). st. george, in the southwest, is the second fastest-growing metropolitan area in the united states, trailing greeley, colorado.
+the three fastest-growing counties from 2000 to 2010 were wasatch county (54.7%), washington county (52.9%), and tooele county (42.9%). however, utah county added the most people (148,028). between 2000 and 2010, saratoga springs (1,673%), herriman (1,330%), eagle mountain (893%), cedar hills (217%), south willard (168%), nibley (166%), syracuse (159%), west haven (158%), lehi (149%), washington (129%), and stansbury park (116%) all at least doubled in population. west jordan (35,376), lehi (28,379), st. george (23,234), south jordan (20,981), west valley city (20,584), and herriman (20,262) all added at least 20,000 people.[147]
+
+
+
+utahrank
+city
+population(2016)withincity limits
+landarea
+populationdensity(/mi2)
+populationdensity(/km2)
+county
+
+
+1
+salt lake city
+193,744
+109.1 sq mi (283 km2)
+1,666.1
+630
+salt lake
+
+
+2
+west valley city
+136,574
+35.4 sq mi (92 km2)
+3,076.3
+1236
+salt lake
+
+
+3
+provo
+116,868
+39.6 sq mi (103 km2)
+2,653.2
+1106
+utah county
+
+
+4
+west jordan
+113,699
+30.9 sq mi (80 km2)
+2,211.3
+1143
+salt lake
+
+
+5
+orem
+97,499
+18.4 sq mi (48 km2)
+4,572.6
+1881
+utah county
+
+
+6
+sandy
+95,836
+22.3 sq mi (58 km2)
+3,960.5
+1551
+salt lake
+
+
+7
+ogden
+86,701
+26.6 sq mi (69 km2)
+2,899.2
+1137
+weber
+
+
+8
+st. george
+82,318
+64.4 sq mi (167 km2)
+771.2
+385
+washington
+
+
+9
+layton
+75,655
+20.7 sq mi (54 km2)
+2,823.9
+1153
+davis
+
+
+10
+taylorsville
+60,436
+10.7 sq mi (28 km2)
+5,376.1
+2094
+salt lake
+
+
+
+combined statistical area
+population(2010)
+
+
+salt lake city-ogden-clearfieldcomprises:salt lake city and ogden-clearfield metropolitan areas andbrigham city and heber micropolitan areas (as listed below)
+1,744,886
+
+
+
+utahrank
+metropolitan area
+population(2010)
+counties
+
+
+1
+salt lake city*
+1,124,197
+salt lake, tooele, summit
+
+
+2
+ogden-clearfield*
+547,184
+weber, davis, morgan
+
+
+3
+provo-orem
+526,810
+utah
+
+
+4
+st. george
+138,115
+washington
+
+
+5
+logan
+125,442
+cache, franklin (idaho)
+
+until 2003, the salt lake city and ogden-clearfield metropolitan areas were considered as a single metropolitan area.[citation needed]
+
+
+utahrank
+micropolitan area
+population(2010)
+
+
+1
+brigham city
+49,015
+
+
+2
+cedar city
+44,540
+
+
+3
+vernal
+29,885
+
+
+4
+heber
+21,066
+
+
+5
+price
+19,549
+
+
+6
+richfield
+18,382
+
+
+colleges and universities
+main article: list of colleges and universities in utah
+ the huntsman cancer institute on the campus of the university of utah in salt lake city
+ the eyring science center on the campus of brigham young university in provo, utah
+
+ameritech college of healthcare in draper
+the art institute of salt lake city in draper
+bridgerland technical college in logan
+broadview university in salt lake city, layton, orem, west jordan
+brigham young university in provo (satellite campus in salt lake city)
+certified career institute in salt lake city and clearfield
+davis technical college in kaysville
+dixie state university in st. george
+eagle gate college in murray and layton
+george wythe university in salt lake city
+lds business college in salt lake city
+mountainland technical college in lehi
+neumont university in south jordan
+ogden–weber technical college in ogden
+provo college in provo
+rocky mountain university of health professions in provo
+roseman university in south jordan, utah
+salt lake community college in taylorsville
+snow college in ephraim and richfield
+southern utah university (formerly southern utah state college) in cedar city
+southwest technical college in cedar city
+stevens-henager college at various locations statewide
+tooele technical college in tooele
+uintah basin technical college in roosevelt
+university of phoenix at various locations statewide
+university of utah in salt lake city
+utah college of applied technology in lehi
+utah state university in logan (satellite campuses at various state locations)
+utah state university eastern in price (formerly the college of eastern utah until 2010)
+utah valley university (formerly utah valley state college) in orem
+weber state university in ogden
+western governors university an online only university, headquartered in salt lake city
+westminster college in salt lake city
+
+
+culture
+sports
+see also: list of professional sports teams in utah
+ the utah jazz playing against the houston rockets
+ robbie russell playing for real salt lake
+utah is the second-least populous u.s. state to have a major professional sports league franchise, after the las vegas golden knights joined the national hockey league in 2017. the utah jazz of the national basketball association play at vivint smart home arena[148] in salt lake city. the team moved to the city from new orleans in 1979 and has been one of the most consistently successful teams in the league (although they have yet to win a championship). salt lake city was previously host to the utah stars, who competed in the aba from 1970–76 and won 1 championship, and to the utah starzz of the wnba from 1997 to 2003.
+real salt lake of major league soccer was founded in 2005 and play their home matches at rio tinto stadium in sandy. rsl remains the only utah major league sports team to have won a national championship, having won the mls cup in 2009.[149] rsl currently operates three adult teams in addition to the mls side. real monarchs, competing in the second-level united soccer league, is the official reserve side for rsl. the team began play in the 2015 season at rio tinto stadium,[150] remaining there until moving to zions bank stadium, located at rsl's training center in herriman, for the 2018 season.[151] utah royals fc, which will also play at rio tinto stadium, will begin play in the national women's soccer league, the top level of u.s. women's soccer, in the 2018 season.[152] before the creation of the royals, rsl's main women's side had been real salt lake women, which began play in the women's premier soccer league in 2008 and moved to united women's soccer in 2016. rsl women currently play at utah valley university in orem.
+the utah blaze began play in the original version of the arena football league in 2006, and remained in the league until it folded in 2009. the blaze returned to the league at its relaunch in 2010, playing until the team's demise in 2013. they competed originally at the maverik center in west valley city, and later at vivint smart home arena when it was known as energysolutions arena.
+utah's highest level minor league baseball team is the salt lake bees, who play at smith's ballpark in salt lake city and are part of the aaa level pacific coast league. utah also has one minor league hockey team, the utah grizzlies, who play at the maverik center and compete in the echl.
+utah has six universities that compete in division i of the ncaa. three of the schools have football programs that participate in the top-level football bowl subdivision: utah in the pac-12 conference, utah state in the mountain west conference, and byu as an independent (although byu competes in the non-football west coast conference for most other sports). in addition, weber state and southern utah (suu) compete in the big sky conference of the fcs. utah valley, which has no football program, is a full member of the western athletic conference.
+salt lake city hosted the 2002 winter olympics. after early financial struggles and scandal, the 2002 olympics eventually became among the most successful winter olympics in history from a marketing and financial standpoint.[citation needed] watched by over 2 billion viewers, the games ended up with a profit of $100 million.[153]
+utah has hosted professional golf tournaments such as the uniting fore care classic and currently the utah championship.
+rugby has been growing quickly in the state of utah, growing from 17 teams in 2009 to 70 teams as of  2013[update], including with over 3,000 players, and more than 55 high school varsity teams.[154][155] the growth has been inspired in part by the 2008 movie forever strong.[155] utah fields two of the most competitive teams in the nation in college rugby – byu and utah.[154] byu has won the national championship in 2009, 2012, 2013, 2014, and 2015. formed in 2017, utah warriors is a major league rugby team based in salt lake city.[156]
+
+entertainment
+see also: list of appearances of monument valley in the media
+utah is the setting of or the filming location for many books, films,[157] television series,[157] music videos, and video games. a selective list of each appears below.
+
+books
+harry turtledove's southern victory series, which is set in a north america where the south won the civil war, mentions utah several times. the state's mormon population rebels against the united states in an attempt to create the nation of deseret throughout the series, which results in battles in and around salt lake city, provo, and other locations.
+in around the world in eighty days, the characters pass through utah by train.
+the children's series the great brain is set in a fictional town that is based on price.
+edward abbey's the monkey wrench gang is set in southern utah and northern arizona. the characters' ultimate goal is the destruction of the glen canyon dam.
+much of walter m. miller jr.'s post-apocalyptic novel a canticle for leibowitz is set near or directly within utah. the "hero" of the first part of the novel, the novice brother francis gerard, is from utah.
+in the second of four books based on the video game doom much of the story takes place in salt lake city.
+jack kerouac's semi-autobiographical novel on the road (arguably the most defining work of the post-wwii beat generation) describes traveling through utah as part of a number of spontaneous road trips taken by the book's main characters. additionally, the character of dean moriarty (like his real life counterpart neal cassady) was born in salt lake city. while many of the names and details of kerouac's experiences are changed, the characters and road trips in the novel are based heavily on road trips taken by kerouac and his friends across mid-20th century america.
+will hobbs' 1999 young adult novel,  the maze, takes place in canyonlands national park in southern utah.
+mark twain's book roughing it (describes meeting with brigham young.)
+in dean koontz's book dark rivers of the heart the two main characters travel through utah while being sought after by a secret government agency. one scene takes place in cedar city.
+the backstory of arthur conan doyle's first sherlock holmes novel, a study in scarlet, takes place in utah.
+film
+ monument valley in southeastern utah. this area was used to film many hollywood westerns.
+ the otherworldly look of the bonneville salt flats has been used in many movies and commercials
+see category:films shot in utah
+utah's monument valley has been location to several productions, such as 127 hours (2010), tim burton's planet of the apes (2001), and butch cassidy and the sundance kid (1969).
+goblin valley state park appears in the movie galaxy quest (1999).
+a scene from the movie pirates of the caribbean: at world's end was filmed at the bonneville salt flats.
+
+video games
+utah's capitol salt lake city is the final location in the video game the last of us.[158]
+fallout: new vegas features a dlc called honest hearts that takes place in zion national park.
+the fictional metropolis of mesa city, utah was featured as the second level of sly cooper and the thievius raccoonus. coincidentally, the main themes of mesa city - casinos and gambling - are actually illegal in utah.
+
+see also
+
+
+utah portal
+united states portal
+lds church portal
+history of the latter day saint movement portal
+outline of utah – organized list of topics about utah
+index of utah-related articles
+
+references
+
+
+^ "utah", merriam-webster.com (online dictionary ed.), merriam-webster, archived from the original on november 4, 2014.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ "population and housing unit estimates". u.s. census bureau. june 22, 2017. retrieved june 22, 2017.
+
+^ "median annual household income". the henry j. kaiser family foundation. retrieved december 9, 2016.
+
+^ "kings peak target". ngs data sheet. u.s. national geodetic survey. retrieved october 24, 2011.
+
+^ a b "elevations and distances in the united states". united states geological survey. 2001. archived from the original on november 9, 2013. retrieved october 24, 2011.
+
+^ a b elevation adjusted to north american vertical datum of 1988.
+
+^ arave, lynn (august 31, 2006). "utah's basement—beaver dam wash is state's lowest elevation". deseret morning news. archived from the original on january 22, 2015.
+
+^ "introduction: urban growth in utah", qget databook, quality growth efficiency tools (qget) technical committee, governor's office of management & budget, state of utah, 1997, archived from the original on november  4, 2014, retrieved november  4, 2014; see also: "figures: population growth, 1940–2020 (slide 3)", qget databook, 1997, archived from the original on november  4, 2014, retrieved november  4, 2014
+
+^ "american religious identification survey (2001)". isssc. retrieved october 31, 2011.
+
+^ a b c canham, matt (april 17, 2012). "census: share of utah's mormon residents holds steady". the salt lake tribune. archived from the original on november  4, 2014.
+
+^ u.s. religious landscape survey 2008, the pew forum on religion & public life, pp 99–100. retrieved july 2, 2008.
+
+^ "utah membership". newsroom. lds church. january 17, 2008. retrieved january 17, 2013.
+
+^ the fastest-growing states in america (and why they're booming) – jordan weissmann. the atlantic (december 22, 2012). retrieved on july 12, 2013.
+
+^ "appendix e. – ranking tables" (pdf). state and metropolitan area data book: 2006. u.s. census bureau. december 22, 2008. retrieved april 29, 2009.
+
+^ "utah poised to be the best u.s. state to live in". gallup. august 7, 2012. retrieved august 8, 2012.
+
+^ a b utah quick facts at utah.gov
+
+^ givón, t. (2011). ute reference grammar. amsterdam: john benjamins publishing co.
+
+^ carvajal, guillermo. "el desconocido origen español del nombre de ocho estados de norteamérica". abc.es.
+
+^ "native americans in utah". historytogo.utah.gov. retrieved july 9, 2017.
+
+^ "utah's american indians". ilovehistory.utah.gov. retrieved july 9, 2017.
+
+^ leonard j. arrington and davis bitton: the mormon experience, page 22. vintage/random house, 1979.
+
+^ richard n. ostling and joan k. ostling: mormon america, page 38–39. harper collins, 2000.
+
+^ william w. slaughter and michael landon: trail of hope – the story of the mormon trail. shadow mountain, 1997.
+
+^ arrington and bitton, p. 118
+
+^ william clayton, edited by george d. smith: an intimate chronicle: the journals of william clayton, p. 300. signature books, 1991.
+
+^ corporation of the president of the church of jesus christ of latter-day saints: "church history in the fullness of times." 1989.
+
+^ michael s. durham: desert between the mountains, pages 162,163. university of oklahoma press, 1997.
+
+^ ravitz, jessica (september 11, 2007). "lds church apologizes for mountain meadows massacre". the salt lake tribune. archived from the original on november 4, 2014.
+
+^ "ceremony at "wedding of the rails," may 10, 1869 at promontory point, utah". world digital library. may 10, 1869. retrieved july 20, 2013.
+
+^ "rock climbing monument valley in northern arizona". mountain project. retrieved november 7, 2015.
+
+^ ski magazine's top 30 resorts for 2008–09 archived february 10, 2009, at the wayback machine
+
+^ "'outside' magazine ranks the top ski resorts". usa today. october 17, 2008. retrieved july 31, 2010.
+
+^ "official utah state parks website". stateparks.utah.gov. archived from the original on april  7, 2013. retrieved november  7, 2015.
+
+^ a b "elevations and distances in the united states". united states geological survey. april 29, 2005. archived from the original on november 2, 2006. retrieved november 8, 2006.
+
+^ morgan, dale l. (1947). the great salt lake. salt lake city: university of utah press. p. 22. isbn 978-0-87480-478-2.
+
+^ farrell, michael b. (march 4, 2014). "utah fights for states' rights with land push". christian science monitor. retrieved october 19, 2014.
+
+^ the state of utah outdoor recreation vision. (2013, january). retrieved from https://www.utah.gov/governor/docs/outdoorrecreationvision.pdf
+
+^ steenburgh, jim (november 14, 2014). secrets of the greatest snow on earth (1 ed.). utah state university press. isbn 978-0874219500.
+
+^ 2012 study, journals.ametsoc.org.
+
+^ gillies et al. (2012) http://journals.ametsoc.org/doi/abs/10.1175/jcli-d-11-00084.1
+
+^ fidel, steve (july 6, 2007). "utahns feeling hot, hot, hot". deseret morning news. archived from the original on november 4, 2014.
+
+^ "utah cold weather facts – snow and winter storms". ksl.com. salt lake city: deseret digital media. retrieved october 19, 2014.
+
+^ "woodruff, utah (429595)". wrcc.dri.edu. retrieved october 19, 2014.
+
+^ annual average number of tornadoes, 1953–2004. noaa national climatic data center. retrieved march 20, 2008.
+
+^ utah's tornadoes and waterspouts – 1847 to the present, the national oceanic and atmospheric administration. retrieved march 20, 2008.
+
+^ "vertebrate animals". utah division of wildlife resources. archived from the original on may 18, 2017. retrieved may 18, 2017.
+
+^ "insects and mollusks". utah division of wildlife resources. archived from the original on may 18, 2017. retrieved may 18, 2017.
+
+^ "species profile for coral pink sand dunes tiger beetle (cicindela albissima)". united states fish and wildlife service. archived from the original on may 18, 2017. retrieved may 18, 2017.
+
+^ "endangered and threatened wildlife and plants; proposed threatened status for coral pink sand dunes tiger beetle and designation of critical habitat; proposed rule" (pdf). national archives and records administration. october 2, 2012. archived from the original (pdf) on may 18, 2017. retrieved may 18, 2017.
+
+^ "endangered and threatened wildlife and plants; withdrawal of the proposed rule to list coral pink sand dunes tiger beetle and designate critical habitat; proposed rule" (pdf). national archives and records administration. october 2, 2013. archived from the original (pdf) on may 18, 2017. retrieved may 18, 2017.
+
+^ african bees found in utah for the first time archived september 12, 2016, at the wayback machine. associated press. february 12, 2009
+
+^ "utah department of agriculture and food". ag.utah.gov. archived from the original on october 20, 2010. retrieved october 19, 2010.
+
+^ wright, becky (may 18, 2017). "killer bees now documented in 8 utah counties". ksl-tv. archived from the original on may 18, 2017. retrieved may 18, 2017.
+
+^ "white-lined sphinx hyles lineata (fabricius, 1775) | butterflies and moths of north america". www.butterfliesandmoths.org. retrieved november 14, 2017.
+
+^ "plants". utah division of wildlife resources. archived from the original on may 18, 2017. retrieved may 18, 2017.
+
+^ a b "table 1. annual estimates of the resident population for the united states, regions, states, and puerto rico: april 1, 2010 to july 1, 2016" (csv). u.s. census bureau. december 20, 2016. retrieved december 20, 2016.
+
+^ "population and population centers by state". united states census bureau. 2000. archived from the original on september 18, 2008. retrieved december  6, 2008.
+
+^ bulkeley, deborah (september 22, 2005). "st. george growth 2nd fastest in us". deseret morning news. archived from the original on november 4, 2014.
+
+^ "teenage abortion and pregnancy statistics by state, 1992". united states: agi. may 30, 1997. archived from the original on march  2, 2006. retrieved july 31, 2010.
+
+^ "contraception counts: state-by-state information". usa: agi. archived from the original on may 17, 2008. retrieved july 31, 2010.
+
+^ a b "sampling of latter-day saint/utah demographics and social statistics from national sources". adherents.com. retrieved july 31, 2010.
+
+^ "fourth year hawai'i no wellbeing last". gallup.
+
+^ "study finds utah leads nation in antidepressant use". los angeles times. february 20, 2002. retrieved july 12, 2013.
+
+^ o gonzalez; jt berry;  et al. (october 1, 2010). "current depression among adults, united states, 2006 and 2008". morbidity and mortality weekly report. 59 (38): 1229–1235.
+
+^ a b "2010 census data". united states census bureau. census.gov. retrieved november 7, 2015. search "utah" in "2010 census demographic profiles" (via american factfinder), or in "2010 census population profiles maps – population profiles".
+
+^ a b c gibson, campbell; jung, kay (september 2002). "historical census statistics on population totals by race, 1790 to 1990, and by hispanic origin, 1970 to 1990, for the united states, regions, divisions, and states". united states census bureau. section: "utah – race and hispanic origin: 1850 to 1990". archived from the original on july 25, 2008.
+
+^ "resident population data". us: census. 2010. archived from the original on october 19, 2013. retrieved december 24, 2012.
+
+^ population of utah: census 2010 and 2000 interactive map, demographics, statistics, quick facts[permanent dead link] http://censusviewer.com/state/ut
+
+^ "demographics & statistics". utah government. retrieved november 7, 2015.
+
+^ sterling, terry (july 23, 2012). "utah: an economy powered by multilingual missionaries". the national journal. archived from the original on april 15, 2013.
+
+^ exner, rich (june 3, 2012). "americans under age 1 now mostly minorities, but not in ohio: statistical snapshot". the plain dealer.
+
+^ "religious landscape study". may 11, 2015.
+
+^ "facts and statistics usa-utah". mormon news room. lds. retrieved may 8, 2012.
+
+^ a b "political neutrality". the church of jesus christ of latter-day saints. retrieved december 11, 2010.
+
+^ campbell, david e; monson, j quin. "dry kindling: a political profile of american mormons" (pdf). from pews to polling places: faith and politics in the american religious mosaic. georgetown university press. archived from the original (pdf) on october 15, 2012.
+
+^ a b davidson, lee (august 19, 2008). "utah's birthrate highest in us". deseret news. archived from the original on november 4, 2014.
+
+^ davidson, lee (january 28, 2008). "utah voters shun labels". deseret morning news. archived from the original on november 4, 2014.
+
+^ "the association of religion data archives | state membership report". www.thearda.com. retrieved december 12, 2013.
+
+^ "happiness focus of jli presentation". swift communications, inc. the tahoe daily tribune. october 30, 2014. retrieved november 13, 2014. the science behind positive psychology has been become very popular in recent years, and has drawn a lot of attention," rabbi zalman abraham of jli's headquarters in brooklyn said. "people innately understand that to be happy and to have a positive attitude, can greatly impact their work and personal life.
+
+^ "chabad jewish center to celebrate anniversary with speaker". swift communications, inc. the tahoe daily tribune. on sunday, aug. 17, chabad jewish center of lake tahoe will celebrate its first year anniversary, servicing the jewish community and jewish tourists who come year-round to enjoy a kosher lake tahoe setting. |access-date= requires |url= (help)
+
+^ "state of the states". gallup. retrieved july 6, 2016.
+
+^ "frequent church attendance highest in utah, lowest in vermont". gallup. february 17, 2015.
+
+^ " "utah – languages". city-data.com. retrieved november 7, 2015.
+
+^ lee, jasen (january 13, 2013). "salt lake metro becoming tech hub". deseret news. archived from the original on november 4, 2014.
+
+^ "gdp by state". bureau of economic analysis. retrieved july 14, 2013.
+
+^ badenhausen, kurt (october 13, 2010). "the best states for business and careers". forbes.
+
+^ dokoupil, tony (november 8, 2010). "how utah became an economic zion". newsweek. retrieved november 4, 2014.
+
+^ economy at a glance: utah, bureau of labor statistics, united states department of labor, archived from the original on november 4, 2014, retrieved november 4, 2014
+
+^ "united states small business friendliness: 2014". thumbtack.com. thumbtack and the ewing marion kauffman foundation. archived from the original on november 4, 2014. retrieved november 4, 2014.
+
+^ utah oil & gas production (map) as found at utah.gov
+
+^ "volunteering in utah – volunteering in america". volunteeringinamerica.gov. august 9, 2011. retrieved november 15, 2011.
+
+^ bernick jr., bob (january 30, 2010). "utah legislature: most utahns paying less under new 5% flat tax, study says". deseret news. archived from the original on november 4, 2014.
+
+^ utah sales and use tax rates archived october 16, 2007, at the wayback machine, from utah.gov (the state of utah's official website). retrieved march 20, 2008.
+
+^ gorrell, mike (october 5, 2010). "deer valley maintains ski ranking through downturn". the salt lake tribune. archived from the original on november 4, 2014.
+
+^ "archived copy". archived from the original on september 24, 2011. retrieved september 17, 2009.cs1 maint: archived copy as title (link) "ski magazine top 10 list: reader resort survey
+
+^ falk, aaron (march 12, 2009). "temple square ranks 16th in visitors". deseret news. archived from the original on november 4, 2014.
+
+^ "visit utah" (official site). ut: office of tourism. retrieved november 7, 2015.
+
+^ a b utah department of community and culture, mining heritage alliance, highlights archived january 17, 2013, at the wayback machine http://finance.utah.gov/highlights.html as found at utah.gov  http://finance.utah.gov/highlights.html
+
+^ "officials: miner dead, 1 rescued in utah cave-in". cbs news. retrieved march 23, 2013.
+
+^ "u.s. installed wind capacity". windpoweringamerica.gov. september 30, 2013. archived from the original on march 14, 2014. retrieved december 31, 2013.
+
+^ eia (november 21, 2012). "electric power monthly table 1.17.a". united states department of energy. retrieved december 8, 2012.
+
+^ eia (november 21, 2012). "electric power monthly table 1.17.b". united states department of energy. retrieved december 8, 2012.
+
+^ sherwood, larry (june 2011). "us solar market trends 2010" (pdf). interstate renewable energy council (irec). retrieved june 29, 2011.
+
+^ sherwood, larry (august 2012). "us solar market trends 2011" (pdf). interstate renewable energy council (irec). archived from the original (pdf) on september  6, 2012. retrieved august 16, 2012.
+
+^ "renewable energy technical potential". nrel.gov. october 17, 2013. archived from the original on september 15, 2012. retrieved december 31, 2013.
+
+^ u.s. department of transportation bureau of statistics retrieved on march 5, 2008.
+
+^ "add this to utah's list of state symbols: an official firearm". cnn. march 19, 2011.
+
+^ "state of utah: office of the governor". utah.gov. july 20, 2010. retrieved july 31, 2010.
+
+^ utah state courts, utah court of appeals
+
+^ "resident population data: population change". us census bureau. archived from the original on october 19, 2013. retrieved december 28, 2010.
+
+^ national constitution center, map: states grant women the right to vote
+
+^ "thirty-five states have ratified the equal rights amendment". equalrightsamendment.org. archived from the original on march 25, 2012. retrieved august  3, 2008.
+
+^ "utah passes america's first 'free-range parenting' bill". the independent. retrieved 2018-08-02.
+
+^ purcell, tom. "tom purcell: time to return to free-range parenting". triblive.com. retrieved 2018-08-02.
+
+^ constitutional amendments, initiatives & referendums. state of utah elections office.
+
+^ "utah state legislature". le.utah.gov. archived from the original on february  9, 2014. retrieved december 31, 2013.
+
+^ "federal judge rules that utah gay marriages may continue". usa today. december 27, 2013. retrieved december 31, 2013.
+
+^ meyers, donald w. (december 23, 2013). "utah county refuses to issue same-sex marriage licenses". the salt lake tribune. archived from the original on november 4, 2014.
+
+^ marissa lang (december 28, 2013). "same-sex couples shatter marriage records in utah". the huffington post. retrieved december 31, 2013.
+
+^ williams, pete & connor, tracy (january 6, 2014). "u.s. supreme court puts gay marriage in utah on hold". retrieved january 6, 2014.
+
+^ wetzstein, cheryl (october 6, 2014). "supreme court denies gay marriage appeals". retrieved october 7, 2014.
+
+^ leip, david. "presidential general election results comparison – utah". us: election atlas. retrieved december 29, 2009.
+
+^ allen, james b. (1994). "the church of jesus christ of latter-day saints".  in powell, allan kent. utah history encyclopedia. salt lake city, utah: university of utah press. isbn 978-0874804256. oclc 30473917. archived from the original on march 22, 2016. retrieved november  7, 2015.
+
+^ harrie, dan (december 6, 2002). "mormon, gop link doomed democrats: religion statistics paint a bleak picture for party". the salt lake tribune. newsbank archive article id: 100dfa0561f7801e.
+
+^ bernick, bob jr. (july 28, 2006). "utah no. 1 in approval of bush". deseret morning news. archived from the original on november 4, 2014.
+
+^ a b harrie, dan (may 3, 1998). "gop dominance troubles church; it hurts utah, says general authority, disavowing any perceived republican-lds link; lds official calls for more political diversity". salt lake tribune.
+
+^ henetz, patty (may 17, 2003). "utah's theocratic past colors church-state perceptions". deseret morning news. archived from the original on april 25, 2011.
+
+^ winters, rosemary (august 14, 2006). "pollster: demos share blame for gop lock on utah". salt lake tribune.
+
+^ walsh, tad (november 5, 2006). "a lonely place for demos". deseret morning news. archived from the original on november 4, 2014.
+
+^ rolly, paul (april 28, 2002). "far right wing of utah gop at odds with lds positions". salt lake tribune.
+
+^ bernick, bob jr. (may 21, 2001). "utah conservatives put u.s. peers to shame". deseret morning news. archived from the original on november 4, 2014.
+
+^ bernick, bob jr. (march 15, 2006). "letter by lds leaders cheers utah democrats". deseret morning news. archived from the original on november 4, 2014.
+
+^ canham, matt (november 18, 2007). "utah less mormon than ever". salt lake tribune. archived from the original on november 4, 2014.
+
+^ "the church's growth, structure and reach". the mormons. pbs. 2007.
+
+^ powell, allan kent (1994). "the united mine workers of america".  in powell, allan kent. utah history encyclopedia. salt lake city, utah: university of utah press. isbn 978-0874804256. oclc 30473917. archived from the original on march 22, 2016. retrieved november  7, 2015.
+
+^ roster of utah state legislators, utah state legislature
+
+^ 2001 redistricting of utah: official maps of district boundaries, utah state legislature
+
+^ leip, david. 1976 presidential election data – national by state, uselectionatlas.org ("david leip's atlas of presidential elections"). retrieved march 20, 2008.
+
+^ "1980 presidential election data – national by state". us: election atlas. retrieved july 31, 2010.
+
+^ "1984 presidential election data – national by state". uselectionatlas.org. retrieved july 31, 2010.
+
+^ "1988 presidential election data – national by state". us: election atlas. retrieved july 31, 2010.
+
+^ "1996 presidential election data – national by state". us: election atlas. retrieved july 31, 2010.
+
+^ "2000 presidential election data – national by state". us: election atlas. retrieved july 31, 2010.
+
+^ "2004 presidential election data – national by state". us: election atlas. retrieved july 31, 2010.
+
+^ "1992 presidential election data – national by state". us: election atlas. retrieved july 31, 2010.
+
+^ whitson, james r. "presidential election 1996". the unofficial homepage of the electoral college. archived from the original on march 19, 2008. retrieved march 20, 2008.
+
+^ "quickfacts: sandy city, utah; orem city, utah; west jordan city, utah; provo city, utah; west valley city city, utah; salt lake city city, utah". united states census bureau. retrieved 24 september 2018.
+
+^ speckman, stephen; smeath, doug (november 22, 2006). "what's in a name? bit of a hassle". deseret morning news. archived from the original on november 4, 2014.
+
+^ edward, james (november 23, 2009). "real salt lake wins dramatic mls cup on penalty kicks". deseretnews.com. retrieved may 1, 2017.
+
+^ "real salt lake announce that new usl pro team will be called real monarchs". mlssoccer.com. september 10, 2014. retrieved september 11, 2014.
+
+^ "zions bank real academy new home for real salt lake development pyramid". real monarchs. may 24, 2017. retrieved november 17, 2017.
+
+^ "utah royals fc unveils name, identity for 2018 nwsl season" (press release). real salt lake. december 1, 2017. retrieved december 5, 2017.
+
+^ lee, jasen (february 8, 2012). "economic impact of 2002 olympics still felt". ksl.com. retrieved may 18, 2017.
+
+^ a b "utah youth enjoying 7s season, continuing to grow", this is american rugby, october 8, 2014.
+
+^ a b "'forever strong' inspired change, growth for utah rugby teams". ksl. march 8, 2013.
+
+^ "home". utah warriors rugby. retrieved february 1, 2019.
+
+^ a b "filming locations". internet movie database (imdb).
+
+^ "real world architecture and locations in the last of us". reality is a game. retrieved 24 september 2018.
+
+
+further reading
+.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}
+peterson, charles s. and brian q. cannon. the awkward state of utah: coming of age in the nation, 1896–1945. salt lake city: university of utah press, 2015. isbn 978-1-60781-421-4
+
+external links
+
+utahat wikipedia's sister projects
+
+
+definitions from wiktionary
+media from wikimedia commons
+news from wikinews
+quotations from wikiquote
+texts from wikisource
+textbooks from wikibooks
+travel guide from wikivoyage
+resources from wikiversity
+
+
+
+general
+utah at curlie
+government
+"state of utah" (official web site)..
+"energy data & statistics for utah". us: doe. archived from the original on june 20, 2008. retrieved june 27, 2008..
+military
+"national guard". ut: army. archived from the original on june 20, 2011. retrieved june 11, 2011.
+"air national guard". ut: air force. retrieved november 7, 2015..
+"hill air force base". ut: air force. retrieved may 4, 2017..
+maps and demographics
+"southwest collection". tx: texas tech. 1875..
+"utah state facts". usda. retrieved november 7, 2015..
+"real-time, geographic, and other scientific resources of utah". usgs. retrieved november 7, 2015..
+"quickfacts". the us: census bureau. archived from the original on november  4, 2015. retrieved november  7, 2015..
+ geographic data related to utah at openstreetmap
+tourism and recreation
+"utah office of tourism". ut. official website
+"office of tourism". ut: government. retrieved november 7, 2015. (requires adobe flash).
+"state parks". ut: government. retrieved november 7, 2015..
+"traffic and road conditions". ut: government. retrieved november 7, 2015..
+other
+"utah state chamber of commerce"..
+
+
+preceded bywyoming
+
+ list of u.s. states by date of statehoodadmitted on january 4, 1896 (45th)
+
+succeeded byoklahoma
+
+
+topics related to utahbeehive state
+vte state of utahsalt lake city (capital)topics
+cities
+congressional districts
+counties
+flag
+geography
+government
+governors
+healthcare
+history
+people
+portal
+state fair
+symbols
+tourist attractions
+society
+culture
+crime
+demographics
+economy
+education
+politics
+regions
+cache valley
+colorado plateau
+dixie
+great basin
+great salt lake
+great salt lake desert
+mojave desert
+monument valley
+san rafael swell
+uinta basin
+uinta mountains
+wasatch back
+wasatch front
+wasatch range
+largest cities
+american fork
+bountiful
+cedar city
+clearfield
+cottonwood heights
+draper
+holladay
+kaysville
+layton
+lehi
+logan
+midvale
+millcreek
+murray
+ogden
+orem
+pleasant grove
+provo
+riverton
+roy
+st. george
+salt lake city
+sandy
+south jordan
+south salt lake
+spanish fork
+springville
+taylorsville
+tooele
+west jordan
+west valley city
+counties
+beaver
+box elder
+cache
+carbon
+daggett
+davis
+duchesne
+emery
+garfield
+grand
+iron
+juab
+kane
+millard
+morgan
+piute
+rich
+salt lake
+san juan
+sanpete
+sevier
+summit
+tooele
+uintah
+utah
+wasatch
+washington
+wayne
+weber
+attractionsfestivals
+america's freedom festival
+sundance film festival
+utah shakespeare festival
+national monuments
+bears ears national monument
+cedar breaks national monument
+dinosaur national monument
+grand staircase-escalante national monument
+hovenweep national monument
+natural bridges national monument
+rainbow bridge national monument
+timpanogos cave national monument
+national parks
+arches national park
+bryce canyon national park
+canyonlands national park
+capitol reef national park
+zion national park
+national recreation areas
+flaming gorge national recreation area
+glen canyon national recreation area
+ski resorts
+alta ski area
+beaver mountain
+brian head ski resort
+brighton ski resort
+cherry peak resort
+deer valley
+park city mountain resort
+powder mountain
+snowbasin
+snowbird ski resort
+solitude mountain resort
+sundance resort
+wolf mountain
+other
+bonneville salt flats
+golden spike national historic site
+great salt lake
+lagoon (amusement park)
+temple square
+
+vtemayors of cities with populations exceeding 100,000 in utah
+jackie biskupski (d)(salt lake city)
+ron bigelow (r)(west valley city)
+michelle kaufusi(provo)
+kim wolfe(west jordan)
+
+vteprotected areas of utahfederalnational parks
+arches
+bryce canyon
+canyonlands
+capitol reef
+zion
+nps national monuments
+cedar breaks
+dinosaur
+hovenweep
+natural bridges
+rainbow bridge
+timpanogos cave
+national historic site
+golden spike
+national recreation area
+glen canyon
+national historic trail
+mormon pioneer
+national forests
+ashley
+caribou-targhee
+dixie
+fishlake
+manti-la sal
+sawtooth
+uinta-wasatch-cache
+forest service areas
+desert biosphere reserve
+flaming gorge national recreation area
+national wildlife refuges
+bear river migratory bird refuge
+fish springs
+ouray
+national conservation areas
+beaver dam wash
+red cliffs
+blm national monuments
+bears ears
+grand staircase-escalante
+u.s. wilderness areas
+ashdown gorge
+beartrap canyon
+beaver dam mountains
+black ridge canyons
+blackridge
+box-death hollow
+canaan mountain
+cedar mountain
+cottonwood canyon
+cottonwood forest
+cougar canyon
+dark canyon
+deep creek
+deep creek north
+deseret peak
+doc's pass
+goose creek
+high uintas
+laverkin creek
+lone peak
+mount naomi
+mount nebo
+mount olympus
+mount timpanogos
+paria canyon-vermilion cliffs
+pine valley mountain
+red butte
+red mountains
+slaughter creek
+taylor creek
+twin peaks
+wellsville mountain
+zion
+wild and scenic river
+virgin river
+statestate parks northern region
+antelope island
+bear lake
+camp floyd/stagecoach inn
+deer creek
+east canyon
+echo
+flight park
+great salt lake
+historic union pacific rail trail
+hyrum
+jordan river ohv park
+jordanelle
+red fleet
+rockport
+starvation
+steinaker
+utah field house
+utah lake
+wasatch mountain
+willard bay
+state parks central region
+fremont indian
+goblin valley
+green river
+huntington
+millsite
+palisade
+scofield
+territorial statehouse
+yuba
+state parks southern region
+anasazi
+coral pink sand dunes
+dead horse point
+edge of the cedars
+escalante petrified forest
+frontier homestead
+goosenecks
+gunlock
+kodachrome basin
+otter creek
+piute
+quail creek
+sand hollow
+snow canyon
+utah state parks and recreation
+vtewestern united statesregions
+rocky mountains
+great basin
+west coast
+pacific northwest
+mountain states
+states
+alaska
+arizona
+california
+colorado
+hawaii
+idaho
+montana
+nevada
+new mexico
+oregon
+utah
+washington
+wyoming
+major metropolitan areas
+los angeles
+greater la
+phoenix
+san francisco bay area
+san jose–oakland
+san bernardino-riverside
+seattle
+san diego
+denver
+portland
+las vegas
+paradise
+sacramento
+salt lake city
+honolulu
+oahu
+albuquerque
+santa fe
+anchorage
+major cities
+anchorage
+albuquerque
+denver
+honolulu
+las vegas
+los angeles
+long beach
+oakland
+phoenix
+portland
+reno
+riverside
+sacramento
+san bernardino
+san diego
+san francisco
+san jose
+salt lake city
+seattle
+spokane
+tucson
+state capitals
+boise
+carson city
+cheyenne
+denver
+helena
+honolulu
+juneau
+olympia
+phoenix
+sacramento
+salem
+salt lake city
+santa fe
+
+ portal
+
+vte new spain (1521–1821)conflicts
+spanish conquest of the aztec empire →
+spanish conquest of guatemala →
+spanish conquest of yucatán →
+anglo-spanish war (1585–1604) →
+anglo-spanish war (1625–30) →
+dutch revolt →
+anglo-spanish war (1654–60) →
+piracy in the caribbean →
+queen anne's war →
+war of jenkins' ear →
+seven years' war →
+spanish involvement in the american revolutionary war
+conflictswith indigenous peoplesduring colonial rule
+mixtón war →
+yaqui wars →
+chichimeca war →
+philippine revolts against spain →
+acaxee rebellion →
+spanish–moro conflict →
+acoma massacre →
+tepehuán revolt →
+tzeltal rebellion →
+pueblo revolt →
+pima revolt →
+spanish american wars of independence
+
+governmentand administrationcentralgovernmenthabsburg spain
+charles i
+joanna of castile
+philip ii
+philp iii
+philip iv
+charles ii
+bourbon spain
+philip v (also reigned after louis i)
+louis i
+ferdinand vi
+charles iii
+charles iv
+ferdinand vii of spain (also reigned after joseph i)
+viceroys ofnew spain
+list of viceroys of new spain
+audiencias
+guadalajara
+captaincy general of guatemala
+manila
+mexico
+santo domingo
+captancies general
+cuba
+guatemala
+philippines
+puerto rico
+santo domingo
+yucatán
+provincias internas
+intendancy
+havana
+new orleans
+state of mexico
+chiapas
+comayagua
+nicaragua
+camagüey
+santiago de cuba
+guanajuato
+valladolid
+guadalajara
+zacatecas
+san luis potosí
+veracruz
+puebla
+oaxaca
+durango
+sonora
+mérida, yucatán
+politics
+viceroy
+gobernaciones
+adelantado
+captain general
+corregidor (position)
+cabildo
+encomienda
+treaties
+treaty of tordesillas
+treaty of zaragoza
+peace of westphalia
+treaty of ryswick
+treaty of utrecht
+congress of breda
+treaty of fontainebleau (1762)
+treaty of paris (1783)
+treaty of córdoba
+adams–onís treaty
+notablecities,provinces,& territoriescities
+mexico city
+veracruz
+xalapa
+puebla
+toluca
+cuernavaca
+oaxaca
+morelia
+acapulco
+campeche
+mérida
+guadalajara
+durango
+monterrey
+león
+guanajuato
+zacatecas
+pachuca
+querétaro
+saltillo
+san luis potosí
+los ángeles
+yerba buena (san francisco)
+san josé
+san diego
+santa fe
+albuquerque
+el paso
+los adaes
+san antonio
+tucson
+pensacola
+st. augustine
+havana
+santo domingo
+san juan
+antigua guatemala
+cebu
+manila
+provinces& territories
+la florida
+las californias
+santa fe de nuevo méxico
+alta california
+baja california
+tejas
+nueva galicia
+nueva vizcaya
+nueva extremadura
+new kingdom of león
+cebu
+bulacan
+pampanga
+other areas
+spanish formosa
+explorers, adventurers & conquistadorspre-new spainexplorers
+christopher columbus
+ferdinand magellan
+juan sebastián elcano
+vasco núñez de balboa
+diego velázquez de cuéllar
+
+explorers &conquistadors
+hernán cortés
+juan ponce de león
+nuño de guzmán
+bernal díaz del castillo
+pedro de alvarado
+pánfilo de narváez
+hernando de soto
+francisco vásquez de coronado
+juan rodríguez cabrillo
+miguel lópez de legazpi
+ángel de villafañe
+álvar núñez cabeza de vaca
+pedro menéndez de avilés
+luis de carabajal y cueva
+juan de oñate
+juan josé pérez hernández
+gaspar de portolà
+manuel quimper
+cristóbal de oñate
+andrés de urdaneta
+ruy lópez de villalobos
+diego velázquez de cuéllar
+francisco hernández de córdoba (yucatán conquistador)
+francisco hernández de córdoba (founder of nicaragua)
+gil gonzález dávila
+francisco de ulloa
+juan josé pérez hernández
+dionisio alcalá galiano
+bruno de heceta
+juan francisco de la bodega y quadra
+alonso de león
+ignacio de arteaga y bazán
+josé de bustamante y guerra
+josé maría narváez
+pedro sarmiento de gamboa
+antonio gil y'barbo
+alexander von humboldt
+thomas gage
+catholic churchin new spainspanish missionsin the americas
+spanish missions in arizona
+spanish missions in baja california
+spanish missions in california
+spanish missions in the carolinas
+spanish missions in florida
+spanish missions in georgia
+spanish missions in louisiana
+spanish missions in mexico
+spanish missions in new mexico
+spanish missions in the sonoran desert
+spanish missions in texas
+spanish missions in virginia
+spanish missions in trinidad
+
+friars, fathers,priests, & bishops
+pedro de gante
+gerónimo de aguilar
+toribio de benavente motolinia
+bernardino de sahagún
+juan de zumárraga
+alonso de montúfar
+vasco de quiroga
+bartolomé de las casas
+alonso de molina
+diego durán
+diego de landa
+gerónimo de mendieta
+juan de torquemada
+juan de palafox y mendoza
+carlos de sigüenza y góngora
+eusebio kino
+francisco javier clavijero
+junípero serra
+francisco palóu
+fermín lasuén
+esteban tápis
+josé francisco de paula señan
+mariano payeras
+sebastián montero
+marcos de niza
+francisco de ayeta
+antonio margil
+francisco marroquín
+manuel abad y queipo
+miguel hidalgo y costilla
+josé maría morelos
+
+other events
+suppression of the jesuits
+california mission clash of cultures
+cargo system
+indian reductions
+societyand cultureindigenouspeoplesmesoamerican
+aztec
+maya
+huastec
+mixtec
+p'urhépecha
+totonac
+pipil
+kowoj
+k'iche'
+kaqchikel
+zapotec
+poqomam
+mam
+caribbean
+arawak
+ciboney
+guanajatabey
+california
+mission indians
+cahuilla
+chumash
+cupeño
+juaneño
+kumeyaay
+luiseño
+miwok
+mohave
+ohlone
+serrano
+tongva
+southwestern
+apache
+coahuiltecan
+cocopa
+comanche
+hopi
+hualapai
+la junta
+navajo
+pima
+puebloan
+quechan
+solano
+yaqui
+zuni
+north-northwestmexico
+acaxee
+chichimeca
+cochimi
+kiliwa
+ópata
+tepehuán
+florida & othersoutheastern tribes
+indigenous people during de soto's travels
+apalachee
+calusa
+creek
+jororo
+pensacola
+seminole
+timucua
+yustaga
+
+filipino people
+negrito
+igorot
+mangyan
+peoples of palawan
+ati
+panay
+lumad
+bajau
+tagalog
+cebuano
+
+others
+taiwanese aborigines
+chamorro people
+
+architecture
+spanish colonial style
+by country
+colonial baroque style
+forts
+missions
+
+trade & economy
+real
+columbian exchange
+manila galleon
+triangular trade
+
+people & classes
+casta
+peninsulars
+criollo
+indios
+mestizo
+castizo
+coyotes
+pardos
+zambo
+negros
+
+people
+juan bautista de anza
+juan rodríguez cabrillo
+francis drake
+miguel hidalgo y costilla
+eusebio kino
+la malinche
+fermín lasuén
+limahong
+moctezuma ii
+junípero serra
+hasekura tsunenaga
+
+ category
+ portal
+
+vte political divisions of the united statesstates
+alabama
+alaska
+arizona
+arkansas
+california
+colorado
+connecticut
+delaware
+florida
+georgia
+hawaii
+idaho
+illinois
+indiana
+iowa
+kansas
+kentucky
+louisiana
+maine
+maryland
+massachusetts
+michigan
+minnesota
+mississippi
+missouri
+montana
+nebraska
+nevada
+new hampshire
+new jersey
+new mexico
+new york
+north carolina
+north dakota
+ohio
+oklahoma
+oregon
+pennsylvania
+rhode island
+south carolina
+south dakota
+tennessee
+texas
+utah
+vermont
+virginia
+washington
+west virginia
+wisconsin
+wyoming
+federal districtwashington, d.c.insular areas
+american samoa
+guam
+northern mariana islands
+puerto rico 
+u.s. virgin islands
+outlying islands
+baker island
+howland island
+jarvis island
+johnston atoll
+kingman reef
+midway atoll
+navassa island
+palmyra atoll
+wake island
+indian reservations
+list of indian reservations
+other
+federal enclave
+
+ this article incorporates public domain material from the website of the division of utah state parks and recreation.
+coordinates: 39°n 111°w﻿ / ﻿39°n 111°w﻿ / 39; -111
+
+authority control 
+gnd: 4062214-9
+isni: 0000 0004 0415 4349
+lccn: n79021759
+musicbrainz: 7deb769c-1eaa-4b7a-aecf-c395d82a1e73
+nara: 10045183
+nla: 36561870
+sudoc: 175793778
+viaf: 131333076
+ worldcat identities (via viaf): 131333076
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=utah&oldid=882846277"					
+categories: utahformer spanish coloniesstates and territories established in 1896states of the united stateswestern united states1896 establishments in the united stateshidden categories: cs1: julian–gregorian uncertaintywebarchive template wayback linksall articles with dead external linksarticles with dead external links from july 2017articles with permanently dead external linkspages using citations with accessdate and no urlcs1 maint: archived copy as titlearticles with short descriptionwikipedia indefinitely move-protected pageswikipedia indefinitely semi-protected pagesuse mdy dates from may 2018articles with haudio microformatsall articles that may contain original researcharticles that may contain original research from february 2019all articles with unsourced statementsarticles with unsourced statements from march 2013articles with unsourced statements from may 2016articles with unsourced statements from may 2017articles to be expanded from may 2017all articles to be expandedarticles using small message boxesarticles with empty sections from may 2017all articles with empty sectionsarticles containing potentially dated statements from 2012all articles containing potentially dated statementsarticles containing potentially dated statements from 2014articles with unsourced statements from january 2019articles containing potentially dated statements from 2010articles containing potentially dated statements from september 2014articles with unsourced statements from january 2015articles with unsourced statements from august 2012articles with unsourced statements from october 2014articles containing potentially dated statements from 2013articles with curlie linkscoordinates on wikidatawikipedia articles with gnd identifierswikipedia articles with isni identifierswikipedia articles with lccn identifierswikipedia articles with musicbrainz area identifierswikipedia articles with nara identifierswikipedia articles with nla identifierswikipedia articles with sudoc identifierswikipedia articles with viaf identifierswikipedia articles with worldcat-viaf identifiers 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readview sourceview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commonswikinewswikiquotewikivoyage 
+
+
+
+languages
+
+
+afrikaansአማርኛængliscالعربيةaragonésܐܪܡܝܐarpetanasturianuavañe'ẽaymar aruazərbaycancaتۆرکجهবাংলাbân-lâm-gúбашҡортсабеларускаябеларуская (тарашкевіца)‎भोजपुरीbikol centralbislamaбългарскиboarischབོད་ཡིགbosanskibrezhonegбуряадcatalàчӑвашлаcebuanočeštinachavacano de zamboangacorsucymraegdanskdavvisámegielladeutschdiné bizaadeestiελληνικάemiliàn e rumagnòlespañolesperantoestremeñueuskaraفارسیfiji hindiføroysktfrançaisfryskgaeilgegaelggagauzgàidhliggalego客家語/hak-kâ-ngîхальмг한국어hausahawaiʻiհայերենहिन्दीhrvatskiidoigboilokanoবিষ্ণুপ্রিয়া মণিপুরীbahasa indonesiainterlinguainterlingueiñupiakиронisizuluíslenskaitalianoעבריתbasa jawakabɩyɛಕನ್ನಡkapampanganქართულიқазақшаkernowekkiswahilikreyòl ayisyenkurdîкырык марыladinoلۊری شومالیlatinalatviešulëtzebuergeschlietuviųligurelimburgslingua franca novalumbaartmagyarमैथिलीмакедонскиmalagasyമലയാളംmāoriमराठीმარგალურიمصرىمازِرونیbahasa melayumìng-dĕ̤ng-ngṳ̄mirandésмонголမြန်မာဘာသာdorerin naoeronederlandsnedersaksiesनेपालीनेपाल भाषा日本語нохчийнnordfriisknorsknorsk nynorskoccitanолык марийoʻzbekcha/ўзбекчаਪੰਜਾਬੀपालिپنجابیpiemontèisplattdüütschpolskiportuguêsromânărumantschruna simiрусскийсаха тылаgagana samoaसंस्कृतम्sarduscotsseelterskshqipsicilianusimple englishslovenčinaslovenščinaślůnskiکوردیсрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskatagalogதமிழ்татарча/tatarçaతెలుగుไทยtsetsêhestâhesetürkçeукраїнськаاردوئۇيغۇرچە / uyghurchevènetotiếng việtvolapük文言winarayייִדישyorùbá粵語zazakižemaitėška中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 11 february 2019, at 18:22 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"2.932","walltime":"3.393","ppvisitednodes":{"value":15821,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":698801,"limit":2097152},"templateargumentsize":{"value":142908,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":45,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":428096,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00% 2352.552      1 -total"," 40.32%  948.469      1 template:reflist"," 15.64%  367.946     74 template:cite_web","  9.74%  229.084     26 template:navbox","  8.59%  202.098      1 template:navboxes","  8.41%  197.932      7 template:infobox","  8.18%  192.528     37 template:cite_news","  5.26%  123.673     66 template:convert","  4.97%  117.019     22 template:cite_journal","  4.82%  113.390     12 template:fix"]},"scribunto":{"limitreport-timeusage":{"value":"1.371","limit":"10.000"},"limitreport-memusage":{"value":14265130,"limit":52428800}},"cachereport":{"origin":"mw1333","timestamp":"20190219095600","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":133,"wghostname":"mw1273"});});
+
+

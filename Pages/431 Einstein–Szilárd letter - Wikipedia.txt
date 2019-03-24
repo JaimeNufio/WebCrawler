@@ -1,0 +1,407 @@
+
+
+
+
+einstein–szilárd letter - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"einstein–szilárd_letter","wgtitle":"einstein–szilárd letter","wgcurrevisionid":876466741,"wgrevisionid":876466741,"wgarticleid":2988445,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["cs1 german-language sources (de)","good articles","albert einstein","history of the manhattan project","1939 documents","world war ii documents","letters (message)"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"einstein–szilárd_letter","wgrelevantarticleid":2988445,"wgrequestid":"xgrgzqpamewaajfwyauaaabo","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q714081","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+einstein–szilárd letter 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+
+
+ a copy of the letter
+the einstein–szilárd letter was a letter written by leó szilárd and signed by albert einstein that was sent to the united states president franklin d. roosevelt on august 2, 1939. written by szilárd in consultation with fellow hungarian physicists edward teller and eugene wigner, the letter warned that germany might develop atomic bombs and suggested that the united states should start its own nuclear program. it prompted action by roosevelt, which eventually resulted in the manhattan project developing the first atomic bombs.
+
+contents
+
+1 origin
+2 the letter
+3 delivery
+4 results
+5 see also
+6 notes
+7 references
+8 external links
+
+
+origin[edit]
+@media all and (max-width:720px){.mw-parser-output .tmulti>.thumbinner{width:100%!important;max-width:none!important}.mw-parser-output .tmulti .tsingle{float:none!important;max-width:none!important;width:100%!important;text-align:center}}leó szilárdalbert einsteinthe letter was conceived and written by szilárd, and signed by einstein
+the discovery of uranium fission in december 1938, reported in the january 6, 1939 issue of die naturwissenschaften by otto hahn and fritz strassmann, and its correct identification as nuclear fission by lise meitner in the february 11, 1939 issue of nature, generated intense interest among physicists. even before publication, the news was brought to the united states by danish physicist niels bohr, who opened the fifth washington conference on theoretical physics with enrico fermi on january 26, 1939. the results were quickly corroborated by experimental physicists, most notably fermi and john r. dunning at columbia university.[1]
+the hungarian physicist leó szilárd, who was living in the united states at the time, realized that the neutron-driven fission of heavy atoms could be used to create a nuclear chain reaction that could yield vast amounts of energy for electric power generation or atomic bombs. such a reaction using neutrons was an idea he had first formulated in 1933, upon reading ernest rutherford's disparaging remarks about generating power from his team's 1932 experiment using protons to split lithium. however, szilárd had not been able to achieve a neutron-driven chain reaction with neutron-rich light atoms. in theory, if in a neutron-driven chain reaction the number of secondary neutrons produced was greater than one, then each such reaction could trigger multiple additional reactions, producing an exponentially increasing number of reactions.[2]
+szilárd teamed up with fermi to build a nuclear reactor from natural uranium at columbia university, where they were fortunate in having a sympathetic head of the physics department in george b. pegram. at the time there was disagreement about whether it was uranium-235, which made up less than 1% of natural uranium, or the more abundant uranium-238 isotope, as fermi maintained, that was primarily responsible for fission. fermi and szilárd conducted a series of experiments, and concluded that a chain reaction in natural uranium could be possible if they could find a suitable neutron moderator. they found that the hydrogen atoms in water slowed neutrons, but tended to capture them. szilárd then suggested using carbon as a moderator. they now needed large quantities of carbon and uranium to create a reactor. szilárd was convinced that they would succeed if only they could get the materials.[3]
+szilárd was concerned that german scientists might also attempt this experiment. the german nuclear physicist siegfried flügge published two influential articles on the exploitation of nuclear energy in 1939.[4][5] after discussing this prospect with fellow hungarian physicist eugene wigner, they decided that they should warn the belgians, as the belgian congo was the best source of uranium ore. wigner suggested that albert einstein might be a suitable person to do this, as he knew the belgian royal family.[6]
+the connection between einstein and szilárd pre-dates the letter. they knew each other in berlin in the early 1920s,[7] and in 1926 jointly invented the einstein-szilárd refrigerator.[8]
+
+the letter[edit]
+
+
+
+wikisource has original text related to this article:
+ albert einstein to franklin d. roosevelt - august 2, 1939
+on july 12, 1939, szilárd and wigner drove in wigner's car to cutchogue on new york's long island, where einstein was staying.[9] when they explained about the possibility of atomic bombs, einstein replied: daran habe ich gar nicht gedacht (i did not even think about that).[10] szilárd dictated a letter in german to the belgian ambassador to the united states. wigner wrote it down, and einstein signed it. at wigner's suggestion, they also prepared a letter for the state department explaining what they were doing and why, giving it two weeks to respond if it had any objections.[9]
+this still left the problem of getting government support for uranium research. another friend of szilárd's, the austrian economist gustav stolper, suggested approaching alexander sachs, who had access to president franklin d. roosevelt. sachs told szilárd that he had already spoken to the president about uranium, but that fermi and pegram had reported that the prospects for building an atomic bomb were remote. he told szilárd that he would deliver the letter, but suggested that it come from someone more prestigious. for szilárd, einstein was again the obvious choice.[6] sachs and szilárd drafted a letter riddled with spelling errors and mailed it to einstein.[11]
+szilárd set out for long island again on august 2. wigner was unavailable, so this time szilárd co-opted another hungarian physicist, edward teller, to do the driving. einstein dictated the letter in german. on returning to columbia university, szilárd dictated the letter in english to a young departmental stenographer, janet coatesworth. she later recalled that when szilárd mentioned extremely powerful bombs, she "was sure she was working for a nut".[12] ending the letter with "yours truly, albert einstein" did nothing to alter this impression. both the letter and a longer explanatory letter were then posted to einstein.[12]
+the letter warned that:
+
+.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}"in the course of the last four months it has been made probable — through the work of joliot in france as well as fermi and szilárd in america — that it may become possible to set up a nuclear chain reaction in a large mass of uranium, by which vast amounts of power and large quantities of new radium-like elements would be generated. now it appears almost certain that this could be achieved in the immediate future.
+this new phenomenon would also lead to the construction of bombs, and it is conceivable — though much less certain — that extremely powerful bombs of a new type may thus be constructed. a single bomb of this type, carried by boat and exploded in a port, might very well destroy the whole port together with some of the surrounding territory. however, such bombs might very well prove to be too heavy for transportation by air."[13]
+
+
+it also specifically warned about germany:
+
+"i understand that germany has actually stopped the sale of uranium from the czechoslovakian mines which she has taken over. that she should have taken such early action might perhaps be understood on the ground that the son of the german under-secretary of state, von weizsäcker, is attached to the kaiser-wilhelm-institut in berlin where some of the american work on uranium is now being repeated."[13]
+
+at the time of the letter, the estimated material necessary for a fission chain reaction was several tons. seven months later a breakthrough in britain would estimate the necessary critical mass to be less than 10 kilograms, making delivery of a bomb by air a possibility.[14]
+
+delivery[edit]
+ roosevelt's reply
+the einstein–szilárd letter was signed by einstein and posted back to szilárd, who received it on august 9.[12] szilárd gave both the short and long letters, along with a letter of his own, to sachs on august 15. sachs asked the white house staff for an appointment to see president roosevelt, but before one could be set up, the administration became embroiled in a crisis due to germany's invasion of poland, which started world war ii.[15] sachs delayed his appointment until october so that the president would give the letter due attention, securing an appointment on october 11. on that date he met with the president, the president's secretary, brigadier general edwin "pa" watson, and two ordnance experts, army lieutenant colonel keith f. adamson and navy commander gilbert c. hoover. roosevelt summed up the conversation as: "alex, what you are after is to see that the nazis don't blow us up."[16]
+
+roosevelt sent a reply thanking einstein, and informing him that: "i found this data of such import that i have convened a board consisting of the head of the bureau of standards and a chosen representative of the army and navy to thoroughly investigate the possibilities of your suggestion regarding the element of uranium."[17]
+
+einstein sent two more letters to roosevelt, on march 7, 1940, and april 25, 1940, calling for action on nuclear research. szilárd drafted a fourth letter for einstein's signature that urged the president to meet with szilárd to discuss policy on nuclear energy. dated march 25, 1945, it did not reach roosevelt before his death on april 12, 1945.[13]
+
+results[edit]
+roosevelt decided that the letter required action, and authorized the creation of the advisory committee on uranium. the committee was chaired by lyman james briggs, the director of the bureau of standards (currently the national institute of standards and technology), with adamson and hoover as its other members. it convened for the first time on october 21. the meeting was also attended by fred l. mohler from the bureau of standards, richard b. roberts of the carnegie institution of washington, and szilárd, teller and wigner. adamson was skeptical about the prospect of building an atomic bomb, but was willing to authorize $6,000 ($100,000 in current usd) for the purchase of uranium and graphite for szilárd and fermi's experiment.[18]
+the advisory committee on uranium was the beginning of the us government's effort to develop an atomic bomb, but it did not vigorously pursue the development of a weapon. it was superseded by the national defense research committee in 1940,[19] and then the office of scientific research and development in 1941.[20] the frisch–peierls memorandum and the british maud reports eventually prompted roosevelt to authorize a full-scale development effort in january 1942.[21] the work of fission research was taken over by the united states army corps of engineers's manhattan district in june 1942, which directed an all-out bomb development program known as the manhattan project.[22]
+einstein did not work on the manhattan project. the army denied him the work clearance needed in july 1940, saying his pacifist leanings made him a security risk,[23] although he was allowed to work as a consultant to the united states navy's bureau of ordnance.[24][25] he had no knowledge of the atomic bomb's development, and no influence on the decision for the bomb to be dropped.[13][23]  according to linus pauling, einstein later regretted signing the letter because it led to the development and use of the atomic bomb in combat, adding that einstein had justified his decision because of the greater danger that nazi germany would develop the bomb first.[26]  in 1947 einstein told newsweek magazine that "had i known that the germans would not succeed in developing an atomic bomb, i would have done nothing."[23][27]
+
+see also[edit]
+frisch–peierls memorandum
+nuclear weapons and the united states
+szilárd petition
+notes[edit]
+
+
+^ hewlett & anderson 1962, pp. 10–13.
+
+^ lanouette & silard 1992, pp. 132–136.
+
+^ hewlett & anderson 1962, pp. 13–14.
+
+^ flügge, siegfried (15 august 1939). "die ausnutzung der atomenergie. vom laboratoriumsversuch zur uranmaschine – forschungsergebnisse in dahlem". deutsche allgemeine zeitung (in german) (387, supplement)..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ flügge, siegfried (1939). "kann der energieinhalt der atomkerne technisch nutzbar gemacht werden?". die naturwissenschaften (in german). 27 (23/24): 402–410. bibcode:1939nw.....27..402f. doi:10.1007/bf01489507.
+
+^ a b hewlett & anderson 1962, pp. 15–16.
+
+^ hargittai 2006, pp. 44–46.
+
+^ "this month in physics history – november 11, 1930: patent granted for einstein-szilard refrigerator". american physical society. retrieved october 9, 2013.
+
+^ a b lanouette & silard 1992, pp. 198–200.
+
+^ lanouette & silard 1992, p. 199.
+
+^ lanouette & silard 1992, pp. 200–201.
+
+^ a b c lanouette & silard 1992, p. 202.
+
+^ a b c d "albert einstein's letters to president franklin delano roosevelt". e-world. 1997. retrieved october 9, 2013.
+
+^ gowing 1964, pp. 40–45.
+
+^ lanouette & silard 1992, p. 207.
+
+^ hewlett & anderson 1962, p. 17.
+
+^ "president roosevelt's response to dr. einstein letter, atomic archive". atomic archive. retrieved october 9, 2013.
+
+^ hewlett & anderson 1962, pp. 20–21.
+
+^ hewlett & anderson 1962, pp. 24–26.
+
+^ hewlett & anderson 1962, p. 41.
+
+^ hewlett & anderson 1962, p. 49.
+
+^ hewlett & anderson 1962, p. 75.
+
+^ a b c "the manhattan project". american museum of natural history. retrieved october 9, 2013.
+
+^ "einstein exhibit – nuclear age". american institute of physics. retrieved october 9, 2013.
+
+^ "prof. einstein working on explosives for u.s. navy department". jewish telegraphic agency. june 16, 1943. retrieved october 9, 2013.
+
+^ "scientist tells of einstein's a-bomb regrets" (pdf). the philadelphia bulletin. may 13, 1955. archived from the original (pdf) on november 8, 2006.
+
+^ "einstein, the man who started it all". newsweek. 10 march 1947.
+
+
+references[edit]
+gowing, margaret (1964). britain and atomic energy, 1935–1945. london: macmillan publishing. oclc 3195209.
+hargittai, istván (2006). the martians of science: five physicists who changed the twentieth century. oxford: oxford university press. isbn 978-0-19-517845-6. oclc 62084304.
+hewlett, richard g.; anderson, oscar e. (1962). the new world, 1939–1946 (pdf). physics today. 15. university park: pennsylvania state university press. p. 62. bibcode:1962pht....15l..62h. doi:10.1063/1.3057919. isbn 978-0-520-07186-5. oclc 637004643.
+lanouette, william; silard, bela (1992). genius in the shadows: a biography of leo szilárd: the man behind the bomb. new york: charles scribner's sons. isbn 978-0-684-19011-2.
+external links[edit]
+reproduction of 1939 einstein-szilárd letter
+roosevelt correspondence with einstein and szilárd, fdr library, marist university
+einstein and szilard re-enact their meeting for the film atomic power (1946)
+vtemanhattan projecttimelinesites
+ames
+berkeley
+chicago
+dayton
+hanford
+inyokern
+los alamos
+montreal
+new york
+oak ridge
+trinity
+wendover
+heavy water sites
+administrators
+vannevar bush
+arthur compton
+james b. conant
+priscilla duffield
+thomas farrell
+leslie groves
+john lansdale
+ernest lawrence
+james marshall
+franklin matthias
+dorothy mckibbin
+kenneth nichols
+robert oppenheimer
+deak parsons
+william purnell
+frank spedding
+charles thomas
+paul tibbets
+bud uanna
+harold urey
+stafford warren
+ed westcott
+roscoe wilson
+scientists
+luis alvarez
+robert bacher
+hans bethe
+aage bohr
+niels bohr
+norris bradbury
+james chadwick
+john cockcroft
+harry daghlian
+enrico fermi
+richard feynman
+val fitch
+james franck
+klaus fuchs
+maria goeppert mayer
+george kistiakowsky
+george koval
+willard libby
+edwin mcmillan
+mark oliphant
+norman ramsey
+isidor isaac rabi
+james rainwater
+bruno rossi
+glenn seaborg
+emilio segrè
+louis slotin
+henry dewolf smyth
+leo szilard
+edward teller
+stanisław ulam
+john von neumann
+john wheeler
+eugene wigner
+robert wilson
+leona woods
+operations
+alsos mission
+bombings of hiroshima and nagasaki
+operation crossroads
+operation peppermint
+project alberta
+silverplate
+509th composite group
+enola gay
+bockscar
+the great artiste
+weapons
+fat man
+little boy
+pumpkin bomb
+thin man
+related topics
+atomic energy act of 1946
+british contribution
+chicago pile-1
+demon core
+einstein–szilárd letter
+interim committee
+oppenheimer security hearing
+plutonium
+quebec agreement
+rala experiment
+s-1 executive committee
+s-50 project
+smyth report
+uranium
+x-10 graphite reactor
+ manhattan project
+portalsaccess related topicsworld war ii portalnuclear technology portalhistory of science portalfind out more on wikipedia'ssister projectsmediafrom commonssource textsfrom wikisource
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=einstein–szilárd_letter&oldid=876466741"					
+categories: albert einsteinhistory of the manhattan project1939 documentsworld war ii documentsletters (message)hidden categories: cs1 german-language sources (de)good articles 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commonswikisource 
+
+
+
+languages
+
+
+españolفارسیfrançais한국어bahasa indonesiaitalianoעבריתmagyar日本語norskportuguêsрусскийshqipslovenčinatiếng việt中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 2 january 2019, at 14:15 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.440","walltime":"0.546","ppvisitednodes":{"value":1531,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":54475,"limit":2097152},"templateargumentsize":{"value":2499,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":47725,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  434.488      1 -total"," 40.89%  177.644      1 template:reflist"," 21.31%   92.596      4 template:cite_news"," 13.02%   56.591      1 template:good_article"," 12.57%   54.607      2 template:main_other"," 11.58%   50.305      1 template:top_icon"," 10.91%   47.424     21 template:sfn","  9.78%   42.507      4 template:cite_book","  9.60%   41.705      1 template:category_handler","  8.03%   34.876      1 template:cite_journal"]},"scribunto":{"limitreport-timeusage":{"value":"0.240","limit":"10.000"},"limitreport-memusage":{"value":4892212,"limit":52428800}},"cachereport":{"origin":"mw1333","timestamp":"20190218150032","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":97,"wghostname":"mw1241"});});
+
+

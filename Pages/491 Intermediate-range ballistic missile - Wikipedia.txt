@@ -1,0 +1,408 @@
+
+
+
+
+intermediate-range ballistic missile - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"intermediate-range_ballistic_missile","wgtitle":"intermediate-range ballistic missile","wgcurrevisionid":865982665,"wgrevisionid":865982665,"wgarticleid":337326,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["cs1 maint: archived copy as title","intermediate-range ballistic missiles","missile types"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"intermediate-range_ballistic_missile","wgrelevantarticleid":337326,"wgrequestid":"xgvdcwpamf0aaaivcxoaaacg","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgredirectedfrom":"irbm","wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wginternalredirecttargeturl":"/wiki/intermediate-range_ballistic_missile","wgwikibaseitemid":"q392893","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+intermediate-range ballistic missile 
+from wikipedia, the free encyclopedia   (redirected from irbm)
+ jump to navigation
+jump to search
+"lrbm" redirects here. for the airport using that icao code, see baia mare airport.
+ irbm and mrbm missiles.
+an intermediate-range ballistic missile (irbm) is a ballistic missile with a range  of 3,000–5,500 km (1,864–3,418 miles), between a medium-range ballistic missile (mrbm) and an intercontinental ballistic missile (icbm). classifying ballistic missiles by range is done mostly for convenience; in principle there is very little difference between a low-performance icbm and a high-performance irbm, because decreasing payload mass can increase range over icbm threshold. the range definition used here is used within the u.s. missile defense agency. some other sources include an additional category, the long-range ballistic missile (lrbm), to describe missiles with a range between irbms and true icbms. the more modern term theater ballistic missile encompasses mrbms and srbms, including any ballistic missile with a range under 3,500 km (2,175 mi).
+irbms are currently operated by the people's republic of china, india,[1][2] israel, and north korea.[3] the united states, ussr, united kingdom, and france were former operators.
+
+contents
+
+1 nomenclature
+2 specific irbms
+3 history
+4 see also
+5 references
+
+
+nomenclature[edit]
+there is no clearly agreed-upon distinction between an intermediate-range and a medium range (mrbm) missiles; and the categories overlap. different sources will classify missiles in different ways. they are both distinct from icbms in that they have a range that is less than intercontinental, and hence must be based relatively close to the target.   an irbm, in general, is intended as a strategic weapon, while a mrbm, in general, is intended as a theatre ballistic missile.
+
+specific irbms[edit]
+
+irbms
+
+
+date *d
+
+model
+
+range km
+
+maximum km
+
+country
+
+
+1959
+pgm-17 thor
+1,850
+3,700
+ united states,  united kingdom
+
+
+1970
+df-3a
+4,000
+5,000
+ china
+
+
+1962
+r-14 chusovaya (ss-5)
+3,700
+
+ soviet union
+
+
+1976
+rsd-10 pioneer (ss-20)
+5,500
+
+ soviet union
+
+
+1980
+s3 irbm
+3,500
+
+ france
+
+
+2004
+df-25
+3,200
+4,000
+ china
+
+
+2006
+agni-iii
+3,500
+5,000
+ india
+
+
+2007
+df-26
+3,500
+5,000
+ china
+
+
+2010
+hwasong-10/rd-b musudan
+2,500
+4,000 (not proven)
+ north korea[4]
+
+
+2011
+agni-iv
+4,000
+
+ india
+
+
+2011
+jericho iii
+6,500
+11,500
+ israel[5][6]
+
+
+2012
+kn-08
+3,000
+12,000
+ north korea
+
+
+2014
+pukkuksong-1/kn-11
+500
+2,500
+ north korea
+
+
+2017
+pukkuksong-2/kn-15
+1,200
+3,000
+ north korea
+
+
+2017
+hwasong-12/kn-17
+3,700
+6,000
+ north korea
+
+*d all dates approximate
+history[edit]
+the progenitor for the irbm was the a4b rocket winged for increased range and based on the famous v-2 (vergeltung, or "reprisal", officially called a4) rocket designed by wernher von braun widely used by nazi germany at the end of world war ii to bomb english and belgian cities. the a4b was the prototype for the upper stage of the a9/a10 rocket. the goal of the program was to build a missile capable of bombarding new york when launched in france or spain (see amerika bomber). a4b rockets were tested a few times in december 1944 and january and february 1945.[7] all of these rockets used liquid propellant. the a4b used an inertial guidance system, while the a9 would have been controlled by a pilot. they started from a non-mobile launch pad.
+following world war ii von braun and other lead nazi scientists were secretly transferred to the united states to work directly for the u.s. army through operation paperclip developing the v-2 into the weapon for the united states.
+
+see also[edit]
+intercontinental ballistic missile (icbm)
+icbm
+list of icbms
+short-range ballistic missile (srbm)
+medium-range ballistic missile (mrbm)
+submarine-launched ballistic missile (slbm)
+anti-ship ballistic missile (asbm)
+hypersonic cruise missile
+intermediate-range nuclear forces treaty
+references[edit]
+
+
+^ "indian army successfully test fires nuke-capable agni-iv missile". the new indian express. archived from the original on 2016-04-05. retrieved 2016-03-25..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ "ballistic missile agni-iv test-fired as part of user trial - times of india". the times of india. archived from the original on 2016-01-21. retrieved 2016-03-25.
+
+^ "north korea's ballistic missile program" (pdf). national committee on north korea. archived from the original (pdf) on 2016-02-22. retrieved 2016-04-01.
+
+^ "ballistic missiles of the world". missilethreat. retrieved 2011-07-15.
+
+^ "jericho 3". missile threat. 2012-03-26. archived from the original on 2013-01-21. retrieved 2012-09-12.
+
+^ "archived copy" (pdf). archived (pdf) from the original on 2012-03-03. retrieved 2010-06-21.cs1 maint: archived copy as title (link)
+
+^ "die geflügelte rakete ( a7, a9, a4b ) (in german)". v2werk-oberraderach.de. archived from the original on 2011-07-19. retrieved 2011-07-15.
+
+
+vtetypes of missilesby platform
+cruise missile
+air-launched cruise missile (alcm)
+submarine-launched cruise missile (slcm)
+air-to-air missile (aam)
+air-to-surface missile (asm)
+surface-to-air missile (sam)
+surface-to-surface missile (ssm)
+ballistic missile
+air-launched ballistic missile (albm)
+intercontinental ballistic missile (icbm)
+intermediate-range ballistic missile (irbm)
+medium-range ballistic missile (mrbm)
+short-range ballistic missile (srbm)
+tactical ballistic missile
+theatre ballistic missile
+submarine-launched ballistic missile (slbm)
+standoff missile
+loitering munition
+shoulder-fired missile
+hypersonic glide vehicle
+beyond-visual-range missile (bvr)
+by target type
+anti-ballistic missile (abm)
+anti-satellite weapon (asat)
+anti-ship ballistic missile (asbm)
+anti-ship missile (ashm)
+anti-submarine missile
+anti-tank missile (atgm)
+land-attack missile (lacm)
+man-portable air-defense systems (manpads)
+by guidance
+unguided
+radar guidance
+radar altimeter
+active radar guidance (arh)
+semi-active radar guidance (sahr)
+passive radar
+passive homing
+track-via-missile (tvm)
+anti-radiation (arm)
+command guidance
+command to line-of-sight guidance (clos)
+command off line-of-sight guidance (colos)
+manual command to line of sight (mclos)
+semi-automatic command to line of sight (saclos)
+automatic command to line-of-sight (aclos)
+pursuit guidance
+q-guidance
+beam riding (losbr)
+infrared guidance
+laser guidance
+wire guidance
+satellite guidance
+inertial guidance
+astro-inertial guidance
+terrestrial guidance
+terprom
+tercom
+dsmac
+terminal guidance
+automatic target recognition (atr)
+radio guidance
+tv guidance
+contrast seeker
+compass
+fire-and-forget
+lists
+list of military rockets
+list of missiles
+list of missiles by country
+list of anti-ship missiles
+list of anti-tank missiles
+list of icbms
+list of surface-to-air missiles
+see also: sounding rocket
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=intermediate-range_ballistic_missile&oldid=865982665"					
+categories: intermediate-range ballistic missilesmissile typeshidden categories: cs1 maint: archived copy as title 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+languages
+
+
+العربيةcatalàčeštinaespañolfrançais한국어italianoעבריתlietuviųbahasa melayunederlands日本語norskpolskiportuguêsрусскийslovenčinaslovenščinaсрпски / srpskisrpskohrvatski / српскохрватскиsuomiதமிழ்తెలుగుtürkçeукраїнська中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 27 october 2018, at 13:40 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.280","walltime":"0.370","ppvisitednodes":{"value":1658,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":34050,"limit":2097152},"templateargumentsize":{"value":1494,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":21844,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  274.103      1 -total"," 41.70%  114.298      1 template:reflist"," 35.11%   96.233      7 template:cite_web"," 15.74%   43.147      1 template:convert"," 15.64%   42.881     16 template:flagu"," 14.51%   39.761      1 template:redirect","  5.86%   16.069      1 template:missile_types","  4.32%   11.843      1 template:navbox","  3.79%   10.394      1 template:anchor","  3.35%    9.169     16 template:flagu/core"]},"scribunto":{"limitreport-timeusage":{"value":"0.108","limit":"10.000"},"limitreport-memusage":{"value":4668543,"limit":52428800}},"cachereport":{"origin":"mw1274","timestamp":"20190205093852","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"intermediate-range ballistic missile","url":"https:\/\/en.wikipedia.org\/wiki\/intermediate-range_ballistic_missile","sameas":"http:\/\/www.wikidata.org\/entity\/q392893","mainentity":"http:\/\/www.wikidata.org\/entity\/q392893","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2003-10-09t06:32:33z","datemodified":"2018-10-27t13:40:59z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/d0\/mrbm-irbm.jpg","headline":"ballistic missile with a range of 3,000\u20135,500 km"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":98,"wghostname":"mw1258"});});
+
+

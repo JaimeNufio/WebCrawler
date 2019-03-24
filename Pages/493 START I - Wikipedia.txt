@@ -1,0 +1,460 @@
+
+
+
+
+start i - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"start_i","wgtitle":"start i","wgcurrevisionid":882036173,"wgrevisionid":882036173,"wgarticleid":430699,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["all articles with dead external links","articles with dead external links from march 2018","webarchive template wayback links","use dmy dates from april 2011","articles needing additional references from july 2017","all articles needing additional references","all articles with vague or ambiguous time","vague or ambiguous time from april 2014","1991 in the soviet union","1991 in the united states","arms control treaties","cold war treaties","history of the soviet union","nuclear technology treaties","nuclear weapons governance","perestroika","presidency of george h. w. bush","russia–united states relations","soviet union–united states treaties","treaties concluded in 1991","treaties entered into force in 1994","july 1991 events"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"start_i","wgrelevantarticleid":430699,"wgrequestid":"xgwvigpamfwaagzmrowaaabp","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgredirectedfrom":"start_i","wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wginternalredirecttargeturl":"/wiki/start_i","wgwikibaseitemid":"q931492","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+start i 
+from wikipedia, the free encyclopedia   (redirected from start i)
+ jump to navigation
+jump to search
+this article is about the treaty signed in 1991. for the current treaty, see new start. for the rocket, see start-1.
+
+
+startstrategic arms reduction treatypresidents george h. w. bush and mikhail gorbachev sign start, 31 july 1991typestrategic nuclear disarmamentdrafted29 june 1982 – june 1991signed31 july 1991locationmoscow, russian sfsr, soviet unioneffective5 december 1994conditionratification of both partiesexpiration5 december 2009signatoriesgeorge h. w. bushmikhail gorbachevpartiesunited statessoviet unionlanguagesrussian, english
+start (strategic arms reduction treaty) was a bilateral treaty between the united states of america and the union of soviet socialist republics (ussr) on the reduction and limitation of strategic offensive arms. the treaty was signed on 31 july 1991 and entered into force on 5 december 1994.[1] the treaty barred its signatories from deploying more than 6,000 nuclear warheads atop a total of 1,600 inter-continental ballistic missiles (icbms) and bombers. start negotiated the largest and most complex arms control treaty in history, and its final implementation in late 2001 resulted in the removal of about 80 percent of all strategic nuclear weapons then in existence. proposed by united states president ronald reagan, it was renamed start i after negotiations began on the second start treaty.
+the start i treaty expired 5 december 2009. on 8 april 2010, the replacement new start treaty was signed in prague by united states president barack obama and russian president dmitry medvedev. following ratification by the u.s. senate and the federal assembly of russia, it went into force on 26 january 2011. this treaty was the first to provide tremendous reductions of american and soviet/russian strategic nuclear weapons.[2]
+
+contents
+
+1 proposal
+2 costs
+3 negotiations
+4 verification tools
+5 signing
+6 implementation
+7 efficacy
+8 expiration and renewal
+9 new start treaty
+10 memorandum of understanding data for start 1
+11 see also
+12 references and notes
+13 external links
+
+
+proposal[edit]
+this section needs additional citations for verification. please help improve this article by adding citations to reliable sources. unsourced material may be challenged and removed.find sources: "start i" – news · newspapers · books · scholar · jstor (july 2017) (learn how and when to remove this template message)
+ soviet ss-18 intercontinental ballistic missile
+ american lgm-118 peacekeeper intercontinental ballistic missile
+the start proposal was first announced by united states president ronald reagan in a commencement address at his alma mater, eureka college on 9 may 1982,[3] and presented by president reagan in geneva on 29 june 1982. reagan proposed a dramatic reduction in strategic forces in two phases, which he referred to as salt iii at the time.[4] the first phase would reduce overall warhead counts on any missile type to 5,000, with an additional limit of 2,500 on icbms. additionally, a total of 850 icbms would be allowed, with a limit of 110 "heavy throw" missiles like the ss-18, with additional limits on the total "throw weight" of the missiles as well. the second phase introduced similar limits on heavy bombers and their warheads, and other strategic systems as well.
+at the time the us had a commanding lead in strategic bombers. the us b-52 force, while aged, was a credible strategic threat but was only equipped with agm-86 cruise missiles, beginning in 1982, because of soviet air defense improvements in the early 1980s. the us also had begun to introduce the new b-1b lancer quasi-stealth bomber and was secretly developing the advanced technology bomber (atb) project that would eventually result in the b-2 spirit stealth bomber. the ussr's force was of little threat to the us, on the other hand, as it was tasked almost entirely with attacking us convoys in the atlantic and land targets on the eurasian landmass. although the ussr had 1,200 medium and heavy bombers, only 150 of them (tupolev tu-95s and myasishchev m-4s) could reach north america (the latter only with in-flight refueling). they also faced difficult problems in penetrating the admittedly smaller and less heavily defended us airspace. possessing too few bombers available when compared to us bomber numbers was evened out by the us forces having to penetrate the much larger and heavier defended soviet airspace. this changed when new tu-95ms and tu-160 bombers appeared in 1984 equipped with the first soviet as-15 cruise missiles. by limiting the phase-in as it was proposed, the us would be left with a strategic advantage, for a time.
+as time magazine put it at the time, "under reagan's ceilings, the us would have to make considerably less of an adjustment in its strategic forces than would the soviet union. that feature of the proposal will almost certainly prompt the soviets to charge that it is unfair and one-sided. no doubt some american arms-control advocates will agree, accusing the administration of making the kremlin an offer it cannot possibly accept—a deceptively equal-looking, deliberately nonnegotiable proposal that is part of what some suspect is the hardliners' secret agenda of sabotaging disarmament so that the us can get on with the business of rearmament." however, time did point out that, "the soviets' monstrous icbms have given them a nearly 3-to-1 advantage over the us in 'throw weight'—the cumulative power to 'throw' megatons of death and destruction at the other nation."
+
+costs[edit]
+three institutes ran studies in regards to the estimated costs that the united states government would have to pay to implement start i which included the congressional budget office (cbo), the foreign relations committee (sfrc), and the institute for defense analyses (ida). in regards to the cbo estimates, it was assumed that the full-implementation cost would consist of a one-time cost of $410–1,830 million and continuing annual costs of $100–390 million.[5] the sfrc had estimates of $200–1,000 million for one-time costs and that total inspection costs over the 15-year period of the treaty would be $1,250-2,050 million.[6] finally, the ida estimated only in regards to the verification costs which they claimed to be around $760 million.[7]
+in addition to the costs of the implementation of the treaty, the united states was also paying aid to the former soviet union republics through the cooperative threat reduction program (nunn-lugar program). this program added $591 million to the costs of implementing the start i program in the former soviet union, which would almost double the cost of the program for the united states.[8]
+after the implementation of the treaty, the former soviet union’s stock of nuclear weapons would fall from 12,000 to 3,500. the united states would also save money since it would not have to be concerned with the upkeep and innovations towards its own nuclear forces. the cbo estimated that this would amount to a total saving of $46 billion in the first five years of the treaty and around $130 billion through 2010. this would pay for the cost of the implementation of the treaty about 20 times over.[6]
+the other risks associated with start is the failure of compliance on the side of russia. the senate defence committee expressed concerns that russia could covertly produce missiles, produce false numbers regarding numbers of warheads, and monitoring cruise missiles. the joint chiefs of staff assessment of these situations determined that the risk of a significant violation of the treaty was within acceptable limits. another risk would be the ability for russia to perform espionage during the inspection of united states’ bases and military facilities. the risk of this was also determined to be an acceptable factor by the assessment.[8]
+considering the potential savings from the implementation of start i and the relatively low risk factor included, ronald reagan and the united states government deemed it a reasonable plan of action towards the goal of disarmament.
+
+negotiations[edit]
+negotiations for start i began in may 1982, though continued negotiation of the start process was delayed several times because us agreement terms were considered non-negotiable by pre-gorbachev soviet rulers. president reagan's introduction of the strategic defense initiative (sdi) program in 1983 was viewed as a threat by the soviet union, and the soviets withdrew from setting a timetable for further negotiations. in january 1985, however, u.s. secretary of state george schultz and soviet foreign minister andrey gromyko discussed a formula for a three part negotiation strategy that included  intermediate-range forces, strategic defense, and missile defense. during the reykjavik summit between presidents ronald reagan and mikhail gorbachev in october 1986, negotiations towards the implementation of the start program were accelerated. negotiations turned towards the reduction of strategic weapons when the intermediate-range nuclear forces treaty was signed in december 1987.[9] despite this, a dramatic nuclear arms race proceeded during the 1980s, and essentially ended in 1991 by nuclear parity preservation at a level of more than ten thousand strategic warheads on both sides.
+
+verification tools[edit]
+the verification regimes in arms control treaties contain many tools that enable them to hold parties accountable for their actions and violations of their treaty agreements.[2] the start treaty verification provisions were the most complicated and demanding of any agreement at the time as it provided twelve different types of inspection. data exchanges and declarations between parties became required which included exact quantities, technical characteristics, locations, movements, and status of all offensive nuclear threats. the national technical means of verification (ntm) provision protected satellites and other information-gathering systems controlled by the verifying side as they helped to verify adherence of international treaties. the international technical means of verification provision protected the multilateral technical systems specified in other treaties. cooperative measures were established to facilitate verification by the ntm which included displaying items in plain sight and not hiding them from detection. the new on-site inspections (osi) and  perimeter and portal continuous monitoring (ppcm) provisions both helped to maintain the integrity of the treaty by providing a regulatory system manned by a representative from the verifying side at all times.[10] in addition, access to telemetry from ballistic missile flight tests are now required, including exchanges of tapes and ban on encryption and encapsulation from both parties.[11]
+
+signing[edit]
+negotiations that led to the signing of this treaty began in may 1982. during november 1983, the soviet union "discontinued" communication with the united states after american intermediate-range missiles were deployed in europe. during january 1985, u.s. secretary of state george schultz and soviet foreign minister andrey gromyko negotiated a three-part plan that included strategic weapons, intermediate missiles, and missile defense which received a lot of attention at the reykjavik summit between ronald reagan and mikhail gorbachev and ultimately led to the signing of the intermediate-range nuclear forces treaty in december 1987.[2] talk of a comprehensive strategic arms reduction continued and the start treaty was officially signed by u.s. president george h.w. bush and soviet general secretary mikhail gorbachev on 31 july 1991.[12]
+
+implementation[edit]
+ b-52g stratofortresses chopped into five pieces at amarc
+three hundred sixty-five b-52s were flown to the aerospace maintenance and regeneration center at davis-monthan air force base in arizona.[when?] the bombers were stripped of all usable parts, then chopped into five pieces by a 13,000-pound steel blade dropped from a crane. the guillotine sliced four times on each plane, severing the wings and leaving the fuselage in three pieces. the ruined b-52s remained in place for three months so that russian satellites could confirm that the bombers had been destroyed, after which they were sold for scrap.[13]
+it remains in effect between the u.s. and russia, belarus, kazakhstan, and ukraine.  the latter three became non-nuclear weapons states under the treaty on the non-proliferation of nuclear weapons of 1 july 1968 (npt) as they committed to do under the lisbon protocol (protocol to the treaty between the united states of america and the union of soviet socialist republics on the reduction and limitation of strategic offensive arms) after becoming independent nations in the wake of the breakup of the soviet union.[14][15]
+
+efficacy[edit]
+belarus, kazakhstan and ukraine have disposed of all their nuclear weapons or transferred them to russia, while the u.s. and russia have reduced the capacity of delivery vehicles to 1,600 each, with no more than 6,000 warheads.[16]
+a report by the us state department called "adherence to and compliance with arms control, nonproliferation and disarmament agreements and commitments" which was released on july 28, 2010, stated that russia was not in full compliance with the treaty when it expired on 5 december 2009.  the report did not specifically identify russia's compliance issues.[17]
+one incident that occurred in regards to russia violating the start i treaty occurred in 1994. it was announced by acda director john holum in a congressional testimony that russia had converted its ss-19 icbm into a space-launch vehicle without notifying the appropriate parties.[18] russia justified this incident claiming that it did not have to follow all of start’s reporting policies in regards to missiles that had been recreated into space-launch vehicles. in addition to the ss-19, russia was also reportedly using ss-25 missiles to assemble space-launch vehicles. the issue that the united states had with this was that it did not have accurate numbers and locations of russian icbm’s with these violations. the dispute was later resolved in 1995.[8]
+
+expiration and renewal[edit]
+ soviet ss-18 inspected by u.s. senator richard lugar before its destruction
+start i expired 5 december 2009. both sides agreed to continue observing the terms of the treaty until a new agreement is reached.[19] there are proposals to renew and expand the treaty, supported by u.s. president barack obama. sergei rogov, director of the institute of the u.s. and canada, said: "obama supports sharp reductions in nuclear arsenals and i believe that russia and the u.s. may sign in the summer or fall of 2009 a new treaty that would replace start-1". he added that a new deal would only happen if washington abandoned plans to place elements of a missile shield in central europe. he expressed willingness "to make new steps in the sphere of disarmament", however, saying they were waiting for the u.s. to abandon attempts to "surround russia with a missile defense ring". this referred to the placement of ten interceptor missiles in poland, as well as an accompanying radar in the czech republic.
+russian president dmitri medvedev, said, the day after the u.s. elections, in his first state of the nation address, that russia would move to deploy short-range iskander missile systems in the western exclave of kaliningrad "to neutralize if necessary the anti-ballistic missile system in europe". russia insists that any movement towards a new start should be a legally binding document, and must, then, set lower ceilings on the number of nuclear warheads, and their delivery vehicles.[16]
+on 17 march 2009, russian president dmitri medvedev signaled that russia would begin a "large-scale" rearmament and renewal of russia's nuclear arsenal.  president medvedev accused nato of pushing ahead with expansion near russian borders and ordered that this rearmament commence in 2011 with increased army, naval, and nuclear capabilities.  additionally, the head of russia's strategic missile forces, nikolai solovtsov, told news agencies that russia would start deploying its next-generation rs-24 missiles after the 5 december expiry of the start-1 treaty with the united states.  russia hopes to change the start-1 treaty with a new accord. the increased tensions come despite the warming of relations between the united states and russia in the two years since u.s. president barack obama took office.[20]
+on 4 may 2009, the united states and russia began the process of renegotiating start, as well as counting both nuclear warheads and their delivery vehicles when making a new agreement. while setting aside problematic issues between the two countries, both sides agreed to make further cuts in the number of warheads they have deployed to around 1,000 to 1,500 each. the united states has said they are open to a russian proposal to use radar in azerbaijan rather than eastern europe for the proposed missile system. the bush administration insisted that the eastern europe defense system was intended as a deterrent for iran, while the kremlin feared that it could be used against russia. the flexibility by both sides to make compromises now will lead to a new phase of arms reduction in the future.[21]
+a "joint understanding for a follow-on agreement to start-1" was signed by presidents barack obama and dmitri medvedev in moscow on 6 july 2009.  this will reduce the number of deployed warheads on each side to 1,500–1,675 on 500–1,100 delivery systems. a new treaty was to be signed before start-1 expired in december 2009 and the reductions are to be achieved within seven years.[22] after many months of negotiations,[23][24] presidents obama and medvedev signed the successor treaty, measures to further reduction and limitation of strategic offensive arms, in prague, czech republic on 8 april 2010.
+
+new start treaty[edit]
+main article new start treaty
+the new start treaty imposed even more limitations on the united states and russia which reduced them to both significantly less strategic arms within seven years from when it enters into full force. organized into three tiers, the new treaty focusses on the treaty itself, protocol which contains additional rights and obligations regarding the treaty provisions, and technical annexes to the protocol.[25]
+these limits were based on stringent analysis conducted by department of defense planners in support of the 2010 nuclear posture review. these aggregate limits consists of 1,550 nuclear warheads which includes warheads on deployed intercontinental ballistic missiles (icbm), warheads on deployed submarine-launched ballistic missiles (slbm), and even any deployed heavy bomber equipped for nuclear armaments. this is 74 percent fewer than the limit previously set in the 1991 treaty and 30 percent fewer than the limit of the 2002 moscow treaty. both parties will also be limited to a combined total of 800 deployed and non-deployed icbm launchers, slbm launchers, and heavy bombers equipped for nuclear armaments. there is also a separate limit of 700 deployed icbms, deployed slbms, and deployed heavy bombers equipped for nuclear armaments which is less than half the corresponding strategic nuclear delivery vehicle limit imposed in the previous treaty. although these new restrictions have been set, the new treaty does not contain any limitations regarding the testing, development, or deployment of current or planned u.s. missile defense programs and low-range conventional strike capabilities.[25]
+the duration of the new treaty is ten years and can be extended for a period of no more than five years at a time. it includes a standard withdrawal clause like most arms control agreements. the 2002 moscow treaty has been superseded by thus subsequent treaty.[25]
+
+memorandum of understanding data for start 1[edit]
+ jimmy carter and leonid brezhnev sign salt ii treaty, 18 june 1979, in vienna.
+
+russian federation
+
+
+date
+
+deployed icbms and their associated launchers, deployed slbms and their associated launchers, and deployed heavy bombers
+
+warheads attributed to deployed icbms, deployed slbms, and deployed heavy bombers
+
+warheads attributed to deployed icbms and deployed slbms
+
+throw-weight of deployed icbms and deployed slbms (mt)
+
+
+1 july 2009[26]
+
+809
+
+3,897
+
+3,289
+
+2,297.0
+
+
+1 january 2009[27]
+
+814
+
+3,909
+
+3,239
+
+2,301.8
+
+
+1 january 2008[28]
+
+952
+
+4,147
+
+3,515
+
+2,373.5
+
+
+1 september 1990 (ussr)[29]
+
+2,500
+
+10,271
+
+9,416
+
+6,626.3
+
+
+united states of america
+
+
+date
+
+deployed icbms and their associated launchers, deployed slbms and their associated launchers, and deployed heavy bombers
+
+warheads attributed to deployed icbms, deployed slbms, and deployed heavy bombers
+
+warheads attributed to deployed icbms and deployed slbms
+
+throw-weight of deployed icbms and deployed slbms (mt)
+
+
+1 july 2009[26]
+
+1,188
+
+5,916
+
+4,864
+
+1,857.3
+
+
+1 january 2009[27]
+
+1,198
+
+5,576
+
+4,514
+
+1,717.3
+
+
+1 january 2008[28]
+
+1,225
+
+5,914
+
+4,816
+
+1,826.1
+
+
+1 september 1990[29]
+
+2,246
+
+10,563
+
+8,210
+
+2,361.3
+
+see also[edit]
+strategic arms limitation talks
+start ii
+start iii
+rs-24
+new start
+references and notes[edit]
+
+
+^ [dead link]"strategic arms reduction treaty (start i): executive summary". the office of treaty compliance. archived from the original on 6 january 2011. retrieved 5 december 2009..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ a b c "treaty between the united states of america and the union of soviet socialist republics on strategic offensive reductions (start i) | treaties & regimes | nti".
+
+^ eureka college commencement speech, 1982
+
+^ time to start, says reagan
+
+^ u.s. costs of verification and compliance under pending arms treaties, u.s. congress, congressional budget office, september 1990.
+
+^ a b the start treaty, senate foreign relations committee, september 18, 1992.
+
+^ arms control reporter, 1994, pp. 701.d.5-15.
+
+^ a b c allan s. krass, the united states and arms control: the challenge of leadership, praeger publishers, westport, ct 1997
+
+^ km kartchner, negotiating start: strategic arms reduction talks and the quest for strategic stability
+
+^ woolf, amy f. “monitoring and verification in arms control .” congressional research service, 23 dec. 2011, fas.org/sgp/crs/nuke/r41201.pdf.
+
+^ ifft, edward (2014). verifying the inf and start treaties. american institute of physics publishing.
+
+^ freedman, lawrence d. “strategic arms reduction talks.” britannica, www.britannica.com/event/strategic-arms-reduction-talks#ref261940.
+
+^ cnn. special: cold war. "uncle sam's salvage yard: a cold war icon heads for the scrap heap" by andy walton, cnn interactive archived 23 march 2008 at the wayback machine
+
+^ lisbon protocol, signed by the five start parties 23 may 1992.
+
+^ cia fact book
+
+^ a b "russia, u.s. may sign new start treaty in mid-2009".
+
+^ gertz, bill, "russia violated '91 start till end, u.s. report finds", washington times, 28 july 2010, p. 1.
+
+^ a revitalized acda in the post-cold war world, house committee on foreign affairs, june 23, 1994
+
+^ "us rejects russian missile shield concerns". bbc news. 29 december 2009.
+
+^ https://news.yahoo.com/s/afp/20090317/ts_afp/russianatomilitarynuclear
+
+^ barry, ellen (5 may 2009). "u.s. negotiator signals flexibility toward moscow over new round of arms talks". the new york times. retrieved 1 april 2010.
+
+^ us and russia agree nuclear cuts, accessed 16 july 2009
+
+^ baker, peter; barry, ellen (24 march 2010). "russia and u.s. report breakthrough on arms". the new york times. retrieved 1 april 2010.
+
+^ early march 2010 ukrainian president viktor yanukovych had proposed to both russia and the united states to sign the treaty in kiev, the capital of ukraine (source: ukraine awaiting reply to offer of kyiv as venue for russia-u.s. arms cuts deal signing, kyiv post (16 march 2010))
+
+^ a b c columbia international affairs online, 2010, http://www.ciaonet.org/record/18773?search=1
+
+^ a b start data for 1 july 2009 on state.gov
+
+^ a b start data for 1 january 2009 on state.gov
+
+^ a b start data for 1 january 2008 on cdi.org archived 3 may 2012 at the wayback machine
+
+^ a b start data for 1 september 1990 on fas.org
+
+
+external links[edit]
+start1 treaty text, from us state department
+engineer memoirs - lieutenant general edward l. rowny, ambassador for the strategic arms limitation talks (start)
+vtenuclear weapons limitation treatiestreaties
+1963 partial nuclear test ban treaty
+1968 nuclear non-proliferation treaty
+1969 treaty for the prohibition of nuclear weapons in latin america and the caribbean
+1972 anti-ballistic missile treaty
+1974 threshold test ban treaty
+1970s strategic arms limitation talks
+1971 seabed arms control treaty
+1976 peaceful nuclear explosions treaty
+1985 south pacific nuclear weapons free zone treaty
+1987 intermediate-range nuclear forces treaty
+1991 start i
+1993 start ii
+1994 united states – russia mutual detargeting
+1996 comprehensive nuclear-test-ban treaty (not in force)
+1996 african nuclear-weapon-free zone treaty
+1997 start iii
+2002 strategic offensive reductions treaty
+2009 central asian nuclear weapon free zone
+2010 new start
+2017 treaty on the prohibition of nuclear weapons
+related
+history of nuclear weapons
+timeline of nuclear weapons development
+nuclear deterrence
+nuclear arms race
+nuclear disarmament
+nuclear weapons delivery
+nuclear weapon design
+nuclear ethics
+nuclear proliferation
+nuclear weapons testing
+nuclear warfare
+
+ book:arms control treaties
+  category:arms control treaties
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=start_i&oldid=882036173"					
+categories: 1991 in the soviet union1991 in the united statesarms control treatiescold war treatieshistory of the soviet unionnuclear technology treatiesnuclear weapons governanceperestroikapresidency of george h. w. bushrussia–united states relationssoviet union–united states treatiestreaties concluded in 1991treaties entered into force in 1994july 1991 eventshidden categories: all articles with dead external linksarticles with dead external links from march 2018webarchive template wayback linksuse dmy dates from april 2011articles needing additional references from july 2017all articles needing additional referencesall articles with vague or ambiguous timevague or ambiguous time from april 2014 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+languages
+
+
+العربيةбългарскиcatalàdeutschespañolfrançaisgaeilge한국어íslenskaitalianoעבריתmagyarnederlands日本語norsknorsk nynorskpolskiportuguêsromânăрусскийсрпски / srpskiукраїнська中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 6 february 2019, at 11:57 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.424","walltime":"0.580","ppvisitednodes":{"value":1509,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":39695,"limit":2097152},"templateargumentsize":{"value":1921,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":29363,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  450.906      1 -total"," 30.54%  137.709      1 template:reflist"," 18.23%   82.180      1 template:refimprove_section"," 17.19%   77.532      3 template:cite_web"," 16.99%   76.620      1 template:more_citations_needed"," 16.02%   72.233      1 template:ambox"," 12.48%   56.283      1 template:infobox_treaty"," 12.48%   56.253      1 template:about","  9.32%   42.011      1 template:infobox","  8.23%   37.102      1 template:find_sources_mainspace"]},"scribunto":{"limitreport-timeusage":{"value":"0.166","limit":"10.000"},"limitreport-memusage":{"value":5244558,"limit":52428800}},"cachereport":{"origin":"mw1264","timestamp":"20190215114548","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"start i","url":"https:\/\/en.wikipedia.org\/wiki\/start_i","sameas":"http:\/\/www.wikidata.org\/entity\/q931492","mainentity":"http:\/\/www.wikidata.org\/entity\/q931492","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2004-01-14t19:01:39z","datemodified":"2019-02-06t11:57:55z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/fb\/george_bush_and_mikhail_gorbachev_sign_the_start_1991.jpg","headline":"treaty"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":114,"wghostname":"mw1257"});});
+
+

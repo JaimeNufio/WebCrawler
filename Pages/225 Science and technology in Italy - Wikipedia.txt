@@ -1,0 +1,535 @@
+
+
+
+
+science and technology in italy - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"science_and_technology_in_italy","wgtitle":"science and technology in italy","wgcurrevisionid":880310635,"wgrevisionid":880310635,"wgarticleid":23296431,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["incomplete lists from september 2015","science and technology in italy"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"science_and_technology_in_italy","wgrelevantarticleid":23296431,"wgrequestid":"xgwxawpaieiaafkgofmaaabn","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q4118054","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+science and technology in italy 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+this list is incomplete; you can help by expanding it.
+ galileo galilei, the father of modern science, physics and astronomy[1]
+ count alessandro volta, inventor of the electric battery and discoverer of methane
+ enrico fermi, emilio segrè and franco rasetti, major figures on the creation of the nuclear weapon
+ francesco redi, the founder of experimental biology, is referred to as the father of modern parasitology[2][3]
+science and technology in italy has a long presence, from the roman era and the renaissance. through the centuries, italy has advanced the scientific community which produced many significant inventions and discoveries in biology, physics, chemistry, mathematics, astronomy and the other sciences.
+
+contents
+
+1 roman engineering
+2 renaissance science
+3 early modern era
+4 physics
+5 see also
+6 references
+7 further reading
+8 external links
+
+
+roman engineering[edit]
+by the first century ad, rome had become the biggest and most advanced city in the world. the ancient romans came up with new technologies to improve the city's sanitation systems, roads, and buildings. they developed a system of aqueducts that piped freshwater into the city, and they built sewers that removed the city's waste. the wealthiest romans lived in large houses with gardens. most of the population, however, lived in apartment buildings made of stone, concrete, or limestone. the romans developed new techniques and used materials such as volcanic soil from pozzuoli, a village near naples, to make their cement harder and stronger. this concrete allowed them to build large apartment buildings called insulae.
+
+renaissance science[edit]
+italy had a scientific "golden age" during the renaissance. leonardo da vinci, was trained to be a painter, but his interests and achievements spread into an astonishing variety of fields that are now considered scientific specialties. he conceived of ideas vastly ahead of his time. notably, he invented concepts for the helicopter, an armed fighting vehicle, the use of concentrated solar power, the calculator, a rudimentary theory of plate tectonics, the double hull, and many others, using inspiration from chinese ideas.[4] in addition, he greatly advanced the fields of knowledge in anatomy, astronomy, civil engineering, optics, and hydrodynamics.
+the scientist galileo galilei is called the first modern scientist.[5] his work constitutes a significant break from that of aristotle and medieval philosophers and scientists (who were then referred to as "natural philosophers"). galileo’s achievements include improvements to the telescope, various astronomical observations, and initial formulation of the first and second laws of motion. galileo was suppressed by the catholic church, but was a founder of modern science.[6]
+
+early modern era[edit]
+the astronomer giovanni domenico cassini, who made many important discoveries about the solar system; the physicist alessandro volta, who invented the electric battery, thus providing for the first time a sustained source of current electricity; the mathematicians giuseppe peano, lagrange, fibonacci, and gerolamo cardano, whose ars magna is generally recognized as the first modern treatment on mathematics, made fundamental advances to the field; marcello malpighi, a doctor and founder of microscopic anatomy; the biologist lazzaro spallanzani, who conducted important research in bodily functions, animal reproduction, and cellular theory; the physician, pathologist, scientist, and nobel laureate camillo golgi, whose many achievements include the discovery of the golgi apparatus, and his role in paving the way to the acceptance of the neuron doctrine; giulio natta, nobel prize for the  polymerization of plastics.
+
+physics[edit]
+guglielmo marconi received the nobel prize in physics in recognition of his work to the development of wireless telegraphy.[7]
+other notable figures includes the physicist enrico fermi who discovered fermi–dirac statistics, described beta decay, established the properties of slow neutrons, and constructed the first atomic pile. fermi played a major role in the building of the first atomic bomb.[8] one of his assistants bruno pontecorvo was also a soviet agent who defected to the soviet union in 1950, where he continued his research.[9]
+
+see also[edit]
+
+
+italy portal
+science portal
+technology portal
+internet in italy
+telecommunications in italy
+list of italian inventions
+roman technology
+references[edit]
+
+
+^ weidhorn, manfred (2005). the person of the millennium: the unique impact of galileo on world history. iuniverse. p. 155. isbn 0-595-36877-8..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ roncalli amici r (2001). "the history of italian parasitology" (pdf). veterinary parasitology. 98 (1–3): 3–10. doi:10.1016/s0304-4017(01)00420-4. pmid 11516576. archived from the original (pdf) on 2013-10-23.
+
+^ mehlhorn h (2008). encyclopedia of parasitology, volumes 1-2. veterinary parasitology (3 ed.). springer-verlag. p. 610. isbn 3540489940.
+
+^ [1] le macchine di leonardo da vinci. macchinedileonardo.com. web. 29 sep. 2011.
+
+^ rowland, wade. galileo's mistake: a new look at the epic confrontation between galileo and the church. arcade publishing, 2003. p. 43. web. 29 sep. 2011.
+
+^ jerome j. langford, galileo, science, and the church (u of michigan press, 1992)
+
+^ roger bridgman,  "guglielmo marconi: radio star." physics world, dec (2001): 29-33.
+
+^ dan cooper, enrico fermi: and the revolutions of modern physics (1998)
+
+^ simone turchetti, the pontecorvo affair: a cold war defection and nuclear physics (university of chicago press, 2012).
+
+
+further reading[edit]
+cocco, sean. watching vesuvius: a history of science and culture in early modern italy (2012)
+cocco, sean. "locating the natural sciences in early modern naples," ch 20 in a companion to early modern naples (2013) pp: 453+.
+galdabini, silvana, and giuseppe giuliani. "physics in italy between 1900 and 1940: the universities, physicists, funds, and research." historical studies in the physical and biological sciences (1988): 115-136. in jstor
+miele, aldo, ed. gli scienziati italiani dall'inizio del medio eno ai nostri giorni. vol. 1, part 1 (nardecchia, 1921)
+archibald, r. c. (april 1921). "review: gli scienziati italiani dall'inizio del medio eno ai nostri giorni, ed. by aldo miele". the american mathematical monthly. 28: 173–174. doi:10.2307/2972288.
+orlando, lucia. "physics in the 1930s: jewish physicists' contribution to the realization of the" new tasks" of physics in italy." historical studies in the physical and biological sciences (1998): 141-181. in jstor
+pancaldi, giuliano. "vito volterra: cosmopolitan ideals and nationality in the italian scientific community between the belle époque and the first world war." minerva (1993) 31#1 pp: 21-37.
+schmitt, charles b. science in the italian universities in the sixteenth and early seventeenth centuries (macmillan, 1975)
+turchetti, simone. the pontecorvo affair: a cold war defection and nuclear physics (university of chicago press, 2012)
+external links[edit]
+[2] science in italy, 2003-07. sciencewatch.com. web. 29 sep. 2011.
+vteitaly articleshistorychronology
+prehistory
+italic peoples
+ancient peoples of italy
+pre-nuragic sardinia
+nuragic peoples
+etruscan civilization
+nuragic civilization
+phoenician/carthaginian colonies
+magna graecia
+ancient rome
+kingdom
+republic
+empire
+middle ages
+italy under odoacer
+ostrogoths
+byzantium
+lombards
+the holy roman empire
+the sardinian judicates
+arabs
+normans
+guelphs and ghibellines
+the italian city-states
+the maritime republics
+renaissance
+italian wars
+early modern period
+unification
+revolutions of 1820
+revolutions of 1830
+revolutions of 1848
+sicilian revolution of 1848
+first war of independence
+crimean war
+second war of independence
+expedition of the thousand
+third war of independence
+capture of rome
+monarchy and the world wars
+kingdom of italy
+colonial empire
+world war i
+fascist italy
+world war ii
+resistance
+civil war
+republic
+economic boom
+years of lead
+years of mud
+mani pulite
+by topic
+citizenship
+currency
+economy
+fashion
+flags
+genetic
+historic states
+military
+music
+postal
+railways
+geography
+peninsula
+northern
+northwest
+northeast
+central
+southern
+south
+insular
+climate
+fauna
+flora
+mountains
+prealps
+alps
+apennines
+volcanology
+volcanoes
+beaches
+canals
+caves
+earthquakes
+islands
+lakes
+national parks
+rivers
+valleys
+politics
+constitution
+elections
+referendums
+foreign relations
+missions
+judiciary
+law enforcement
+military
+parliament
+chamber of deputies
+senate
+political parties
+president
+prime minister
+council of ministers
+regions
+provinces
+metropolitan cities
+comune
+municipalities
+cities
+economy
+economic history
+milan
+naples
+rome
+turin
+regions by gdp
+automotive industry
+banking
+central bank
+companies
+energy
+government debt
+science and technology
+stock exchange
+taxation
+telecommunications
+internet
+tourism
+trade unions
+transportation
+welfare
+society
+abortion
+adoption
+billionaires
+capital punishment
+corruption
+crime
+demographics
+education
+secondary
+higher
+universities
+emigration
+fathers' rights movement
+feminism
+gambling
+health
+healthcare
+immigration
+lgbt rights
+nobility
+prostitution
+racism
+religion
+smoking
+social class
+terrorism
+women
+culture
+duecento
+trecento
+quattrocento
+cinquecento
+seicento
+settecento
+architecture
+art
+castles
+cinema
+cuisine
+beer
+wine
+cultural icons
+decorations
+design
+fashion
+festivals
+folklore
+italian language
+regional italian
+italian literature
+italophilia
+italophobia
+languages
+media
+newspapers
+radio
+tv
+monuments
+music
+classical
+folk
+opera
+popular
+mythology
+national symbols
+anthem
+emblem
+flag
+regions
+national monument
+personification
+people
+philosophy
+public holidays
+festa della repubblica
+sculpture
+sport
+traditions
+world heritage sites
+
+ italy portal
+ category
+ commons
+ news
+quotes
+travel
+ wikiproject
+
+vtescience and technology in europe sovereign states
+albania
+andorra
+armenia
+austria
+azerbaijan
+belarus
+belgium
+bosnia and herzegovina
+bulgaria
+croatia
+cyprus
+czech republic
+denmark
+estonia
+finland
+france
+georgia
+germany
+greece
+hungary
+iceland
+ireland
+
+italy
+kazakhstan
+latvia
+liechtenstein
+lithuania
+luxembourg
+macedonia
+malta
+moldova
+monaco
+montenegro
+netherlands
+norway
+poland
+portugal
+romania
+russia
+san marino
+serbia
+slovakia
+slovenia
+spain
+sweden
+switzerland
+turkey
+ukraine
+united kingdom
+states with limitedrecognition
+abkhazia
+artsakh
+northern cyprus
+south ossetia
+transnistria
+dependencies andother entities
+åland
+faroe islands
+gibraltar
+guernsey
+isle of man
+jersey
+svalbard
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=science_and_technology_in_italy&oldid=880310635"					
+categories: science and technology in italyhidden categories: incomplete lists from september 2015 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+العربيةελληνικάportuguêsрусский 
+edit links 
+
+
+
+
+
+ this page was last edited on 26 january 2019, at 18:43 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.524","walltime":"0.648","ppvisitednodes":{"value":12006,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":128761,"limit":2097152},"templateargumentsize":{"value":27356,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":27,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":13740,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  503.644      1 -total"," 49.76%  250.600      7 template:navbox"," 33.01%  166.275      1 template:europe_topic"," 29.39%  148.030      1 template:reflist"," 26.58%  133.884     49 template:iso2country"," 20.07%  101.077      1 template:italy_topics"," 19.36%   97.525      1 template:country_topics"," 19.35%   97.446      2 template:cite_book"," 10.36%   52.163      1 template:expand_list","  8.69%   43.762     49 template:iso2country/data"]},"scribunto":{"limitreport-timeusage":{"value":"0.177","limit":"10.000"},"limitreport-memusage":{"value":4859250,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1329","timestamp":"20190219144732","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":784,"wghostname":"mw1329"});});
+
+

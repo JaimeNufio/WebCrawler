@@ -1,0 +1,231 @@
+
+
+
+
+fritz strassmann - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"fritz_strassmann","wgtitle":"fritz strassmann","wgcurrevisionid":874154588,"wgrevisionid":874154588,"wgarticleid":1441570,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["webarchive template wayback links","articles with hcards","articles containing german-language text","wikipedia articles with gnd identifiers","wikipedia articles with isni identifiers","wikipedia articles with lccn identifiers","wikipedia articles with selibr identifiers","wikipedia articles with snac-id identifiers","wikipedia articles with sudoc identifiers","wikipedia articles with viaf identifiers","wikipedia articles with worldcat-viaf identifiers","enrico fermi award recipients","german chemists","german righteous among the nations","nuclear chemists","nuclear program of nazi germany","otto hahn","people from the rhine province","university of mainz faculty","1902 births","1980 deaths"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"fritz_strassmann","wgrelevantarticleid":1441570,"wgrequestid":"xgntcqpamfwaabzw0yeaaaax","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q60859","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+fritz strassmann 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+fritz strassmannbornfriedrich wilhelm strassmann22 february 1902boppard, german empiredied22 april 1980 (aged 78)mainz, west germanynationalitygermanyknown fornuclear fissionawardsenrico fermi award (1966)scientific careerfieldsphysicist, chemist
+
+friedrich wilhelm "fritz" strassmann (german: straßmann; 22 february 1902 – 22 april 1980) was a german chemist who, with otto hahn in early 1939, identified barium in the residue after bombarding uranium with neutrons, results which, when confirmed, demonstrated the previously unknown phenomenon of nuclear fission.
+
+contents
+
+1 life and career
+2 internal report
+3 bibliography
+4 notes
+5 external links
+
+
+life and career[edit]
+born in boppard, he began his chemistry studies in 1920 at the technical university of hannover and earned his ph.d. in 1929. he did his ph.d. work on the solubility of iodine gaseous carbonic acid.
+strassmann started an academic career because the employment situation in the chemical industry was much worse than at the universities at that time.
+strassmann worked at the kaiser wilhelm institute for chemistry in berlin-dahlem, from 1929.
+in 1933 he resigned from the society of german chemists when it became part of a nazi-controlled public corporation. he was blacklisted. otto hahn and lise meitner found an assistantship for him at half pay. strassmann considered himself fortunate, for "despite my affinity for chemistry, i value my personal freedom so highly that to preserve it i would break stones for a living." during the war he and his wife maria heckter strassmann concealed a jewish friend in their apartment for months, putting themselves and their three-year-old son at risk.
+strassmann's expertise in analytical chemistry was employed by hahn and meitner in their investigations of the products of bombarding uranium with neutrons. in december 1938, hahn and strassmann sent a manuscript to naturwissenschaften reporting they had detected the element barium after bombarding uranium with neutrons;[1] frisch confirmed this experimentally on 13 january 1939.[2] in 1944, hahn received the nobel prize for chemistry for the discovery of nuclear fission, although fritz strassmann had been acknowledged as an equal collaborator in the discovery.[3]
+from 1939 to 1946 he contributed to research at the kaiser-wilhelm institute on the fission products of thorium, uranium, and neptunium. in 1946 he became professor of inorganic chemistry at the university of mainz and 1948 director of the newly established max planck institute for chemistry. he later founded the institute for nuclear chemistry.
+in 1957 he was one of the göttingen eighteen, who protested against the adenauer government's plans to equip the bundeswehr, western germany's army, with tactical nuclear weapons.
+in 1966 president johnson honored hahn, meitner and strassmann with the enrico fermi award. the international astronomical union named an asteroid after him: 19136 strassmann.
+in 1985 fritz strassmann was recognized by yad vashem institute in jerusalem as righteous among the nations (חסיד אמות העולם) for hiding, together with his wife, a jew in their home, risking their own life.
+on 22 april 1980 strassmann died in mainz.
+
+internal report[edit]
+the following was published in kernphysikalische forschungsberichte (research reports in nuclear physics), an internal publication of the german uranverein. reports in this publication were classified top secret, they had very limited distribution, and the authors were not allowed to keep copies. the reports were confiscated under the allied operation alsos and sent to the united states atomic energy commission for evaluation. in 1971, the reports were declassified and returned to germany. the reports are available at the karlsruhe nuclear research center and the american institute of physics.[4][5]
+
+otto hahn and fritz straßmann: zur folge nach der entstehung des 2,3 tage-isotops des elements 93 aus uran g-151 (27 february 1942)
+bibliography[edit]
+fritz straßmann: "über die löslichkeit von jod in gasförmiger kohlensäure", zeitschrift f. physikal. chemie. abt. a., bd. 143 (1929) and ph.d. thesis technical university of hannover, 1930
+fritz krafft: im schatten der sensation. leben und wirken von fritz straßmann; verlag chemie, 1981
+hentschel, klaus (editor) and ann m. hentschel (editorial assistant and translator): physics and national socialism: an anthology of primary sources (birkhäuser, 1996)
+walker, mark: german national socialism and the quest for nuclear power 1939–1949 (cambridge, 1993) .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}isbn 0-521-43804-7
+notes[edit]
+
+
+^ o. hahn and f. strassmann über den nachweis und das verhalten der bei der bestrahlung des urans mittels neutronen entstehenden erdalkalimetalle (on the detection and characteristics of the alkaline earth metals formed by irradiation of uranium with neutrons), naturwissenschaften volume 27, number 1, 11-15 (1939). the authors were identified as being at the kaiser-wilhelm-institut für chemie, berlin-dahlem. received 22 december 1938.
+
+^ o. r. frisch physical evidence for the division of heavy nuclei under neutron bombardment, nature, volume 143, number 3616, 276-276 (18 february 1939) archived january 23, 2009, at the wayback machine. the paper is dated 17 january 1939. [the experiment for this letter to the editor was conducted on 13 january 1939; see richard rhodes the making of the atomic bomb 263 and 268 (simon and schuster, 1986).]
+
+^ per f dahl (1 january 1999). heavy water and the wartime race for nuclear energy. crc press. pp. 73–. isbn 978-0-7503-0633-1.
+
+^ hentschel and hentschel, 1996, appendix e; see the entry for kernphysikalische forschungsberichte.
+
+^ walker, 1993, 268-274.
+
+
+external links[edit]
+asteroid strassmann
+annotated bibliography for fritz strassmann from the alsos digital library for nuclear issues
+1944 nobel prize in chemistry
+fritz strassmann – his activity to save jews' lives during the holocaust, at yad vashem website
+authority control 
+gnd: 118618946
+isni: 0000 0000 5526 3319
+lccn: n81097795
+selibr: 238176
+snac: w6420vht
+sudoc: 151660298
+viaf: 266949988
+ worldcat identities (via viaf): 266949988
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=fritz_strassmann&oldid=874154588"					
+categories: enrico fermi award recipientsgerman chemistsgerman righteous among the nationsnuclear chemistsnuclear program of nazi germanyotto hahnpeople from the rhine provinceuniversity of mainz faculty1902 births1980 deathshidden categories: webarchive template wayback linksarticles with hcardsarticles containing german-language textwikipedia articles with gnd identifierswikipedia articles with isni identifierswikipedia articles with lccn identifierswikipedia articles with selibr identifierswikipedia articles with snac-id identifierswikipedia articles with sudoc identifierswikipedia articles with viaf identifierswikipedia articles with worldcat-viaf identifiers 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+العربيةتۆرکجهбеларускаяcatalàčeštinadeutschespañoleuskaraفارسیfrançaisgalego한국어hrvatskibahasa indonesiaitalianoעבריתქართულიlatinalëtzebuergeschnederlands日本語norskpolskiportuguêsromânăрусскийslovenčinaslovenščinasuomisvenskatiếng việt中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 17 december 2018, at 14:05 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.408","walltime":"0.564","ppvisitednodes":{"value":1638,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":15248,"limit":2097152},"templateargumentsize":{"value":1614,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":7160,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  529.496      1 -total"," 30.79%  163.045      1 template:lang-de"," 28.87%  152.882      1 template:infobox_scientist"," 26.73%  141.508      1 template:infobox_person"," 22.56%  119.448      2 template:infobox"," 16.36%   86.604      1 template:reflist"," 12.43%   65.795      1 template:isbn"," 10.85%   57.432      1 template:authority_control"," 10.23%   54.173      1 template:cite_book","  7.89%   41.775      1 template:catalog_lookup_link"]},"scribunto":{"limitreport-timeusage":{"value":"0.238","limit":"10.000"},"limitreport-memusage":{"value":9738379,"limit":52428800}},"cachereport":{"origin":"mw1274","timestamp":"20190214000235","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"fritz strassmann","url":"https:\/\/en.wikipedia.org\/wiki\/fritz_strassmann","sameas":"http:\/\/www.wikidata.org\/entity\/q60859","mainentity":"http:\/\/www.wikidata.org\/entity\/q60859","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2005-01-28t17:09:17z","datemodified":"2018-12-17t14:05:14z","headline":"german nuclear scientist"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":107,"wghostname":"mw1257"});});
+
+

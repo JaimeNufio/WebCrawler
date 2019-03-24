@@ -1,0 +1,542 @@
+
+
+
+
+electricity meter - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"electricity_meter","wgtitle":"electricity meter","wgcurrevisionid":881767848,"wgrevisionid":881767848,"wgarticleid":1138590,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["engvarb from july 2018","wikipedia introduction cleanup from january 2018","all pages needing cleanup","articles covered by wikiproject wikify from january 2018","all articles covered by wikiproject wikify","vague or ambiguous geographic scope from december 2017","articles that may contain original research from january 2018","all articles that may contain original research","all articles with unsourced statements","articles with unsourced statements from july 2015","articles with unsourced statements from june 2013","wikipedia articles needing clarification from may 2015","commons category link is on wikidata","electric power","electricity meters"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"electricity_meter","wgrelevantarticleid":1138590,"wgrequestid":"xgybzapaad0aaggtrqyaaaac","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q622756","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","ext.math.scripts","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+electricity meter 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+"energy meter" redirects here. for the gauge that indicates energy in a video game, see energy (video gaming).
+
+
+this article's lead section does not adequately summarize key points of its contents. please consider expanding the lead to provide an accessible overview of all important aspects of the article. please discuss this issue on the article's talk page. (january 2018)
+ north american domestic analogue electricity meter.
+ electricity meter with transparent plastic case (israel)
+ north american domestic electronic electricity meter
+an electricity meter, electric meter, electrical meter, or energy meter is a device that measures the amount of electric energy consumed by a residence, a business, or an electrically powered device.
+electric utilities use electric meters installed at customers' premises for billing purposes. they are typically calibrated in billing units, the most common one being the kilowatt hour (kwh). they are usually read once each billing period.
+when energy savings during certain periods are desired, some meters may measure demand, the maximum use of power in some interval. "time of day" metering allows electric rates to be changed during a day, to record usage during peak high-cost periods and off-peak, lower-cost, periods. also, in some areas meters have relays for demand response load shedding during peak load periods.[1]
+
+contents
+
+1 history
+
+1.1 direct current
+1.2 alternating current
+
+
+2 units
+3 operation
+
+3.1 electromechanical
+3.2 electronic
+3.3 communication methods
+
+
+4 monitoring and billing methods
+
+4.1 commercial uses
+4.2 home energy monitoring
+4.3 multiple tariff
+4.4 smart meters
+4.5 prepayment meters
+4.6 time of day metering
+4.7 power export metering
+
+
+5 location
+
+5.1 customer drop and metering equation
+
+
+6 accuracy
+7 tampering and security
+8 regulation and legislation
+9 see also
+10 notes
+11 references
+12 external links
+
+
+history[edit]
+direct current[edit]
+ an aron type dc electricity meter showing that the calibration was in charge consumed rather than energy
+as commercial use of electric energy spread in the 1880s, it became increasingly important that an electric energy meter, similar to the then existing gas meters, was required to properly bill customers, instead of billing for a fixed number of lamps per month.
+dc meters measured charge in ampere-hours. since the voltage of the supply should remain substantially constant, the reading of the meter was proportional to actual energy consumed. for example, if a meter recorded that 100 ampere-hours had been consumed on a 200-volt supply, then 20 kilowatt-hours of energy had been supplied.
+many experimental types of meter were developed. thomas edison at first worked on a direct current (dc) electromechanical meter with a direct reading register, but instead developed an electrochemical metering system, which used an electrolytic cell to totalise current consumption. at periodic intervals the plates were removed and weighed, and the customer billed. the electrochemical meter was labor-intensive to read and not well received by customers.
+
+ a 'reason' meter
+an early type of electrochemical meter used in the united kingdom was the 'reason' meter. this consisted of a vertically mounted glass structure with a mercury reservoir at the top of the meter. as current was drawn from the supply, electrochemical action transferred the mercury to the bottom of the column. like all other dc meters, it recorded ampere-hours. once the mercury pool was exhausted, the meter became an open circuit. it was therefore necessary for the consumer to pay for a further supply of electricity, whereupon, the supplier's agent would unlock the meter from its mounting and invert it restoring the mercury to the reservoir and the supply.
+in 1885 ferranti offered a mercury motor meter with a register similar to gas meters; this had the advantage that the consumer could easily read the meter and verify consumption.[2] the first accurate, recording electricity consumption meter was a dc meter by dr hermann aron, who patented it in 1883. hugo hirst of the british general electric company introduced it commercially into great britain from 1888.[3] aron's meter recorded the total charge used over time, and showed it on a series of clock dials.
+
+alternating current[edit]
+the first specimen of the ac kilowatt-hour meter produced on the basis of hungarian ottó bláthy's patent and named after him was presented by the ganz works at the frankfurt fair in the autumn of 1889, and the first induction kilowatt-hour meter was already marketed by the factory at the end of the same year. these were the first alternating-current watt-hour meters, known by the name of bláthy-meters.[4] the ac kilowatt hour meters used at present operate on the same principle as bláthy's original invention.[5][6][6][7][8] also around 1889, elihu thomson of the american general electric company developed a recording watt meter (watt-hour meter) based on an ironless commutator motor. this meter overcame the disadvantages of the electrochemical type and could operate on either alternating or direct current.[9]
+in 1894 oliver shallenberger of the westinghouse electric corporation applied the induction principle previously used [10] only in ac ampere-hour meters to produce a watt-hour meter of the modern electromechanical form, using an induction disk whose rotational speed was made proportional to the power in the circuit.[11][12] the bláthy meter was similar to shallenberger and thomson meter in that they are two-phase motor meter.[5] although the induction meter would only work on alternating current, it eliminated the delicate and troublesome commutator of the thomson design. shallenberger fell ill and was unable to refine his initial large and heavy design, although he did also develop a polyphase version.
+
+units[edit]
+ panel-mounted solid state electricity meter, connected to a 2 mva electricity substation. remote current and voltage sensors can be read and programmed remotely by modem and locally by infra-red. the circle with two dots is the infra-red port. tamper-evident seals can be seen
+the most common unit of measurement on the electricity meter is the kilowatt hour [kwh], which is equal to the amount of energy used by a load of one kilowatt over a period of one hour, or 3,600,000 joules. some electricity companies use the si megajoule instead.
+demand is normally measured in watts, but averaged over a period, most often a quarter- or half-hour.
+reactive power is measured in "thousands of volt-ampere reactive-hours", (kvarh). by convention, a "lagging" or inductive load, such as a motor, will have positive reactive power. a "leading", or capacitive load, will have negative reactive power.[13]
+volt-amperes measures all power passed through a distribution network, including reactive and actual. this is equal to the product of root-mean-square volts and amperes.
+distortion of the electric current by loads is measured in several ways. power factor is the ratio of resistive (or real) power to volt-amperes. a capacitive load has a leading power factor, and an inductive load has a lagging power factor. a purely resistive load (such as a filament lamp, heater or kettle) exhibits a power factor of 1. current harmonics are a measure of distortion of the wave form. for example, electronic loads such as computer power supplies draw their current at the voltage peak to fill their internal storage elements. this can lead to a significant voltage drop near the supply voltage peak which shows as a flattening of the voltage waveform. this flattening causes odd harmonics which are not permissible if they exceed specific limits, as they are not only wasteful, but may interfere with the operation of other equipment. harmonic emissions are mandated by law in eu and other countries to fall within specified limits.
+in addition to metering based on the amount of energy used, other types of metering are available. meters which measured the amount of charge (coulombs) used, known as ampere-hour meters, were used in the early days of electrification. these were dependent upon the supply voltage remaining constant for accurate measurement of energy usage, which was not a likely circumstance with most supplies. the most common application was in relation to special-purpose meters to monitor charge / discharge status of large batteries. some meters measured only the length of time for which charge flowed, with no measurement of the magnitude of voltage or current being made. these are only suited for constant-load applications and are rarely used today.
+
+operation[edit]
+ mechanism of electromechanical induction meter. 1: voltage coil: many turns of fine wire encased in plastic, connected in parallel with load. 2: current coil: three turns of thick wire, connected in series with load. 3: stator: concentrates and confines magnetic field. 4: aluminum rotor disc. 5: rotor brake magnets. 6: spindle with worm gear. 7: display dials: the 1/10, 10 and 1000 dials rotate clockwise while the 1, 100 and 10000 dials rotate counter-clockwise
+electricity meters operate by continuously measuring the instantaneous voltage (volts) and current (amperes) to give energy used (in joules, kilowatt-hours etc.). meters for smaller services (such as small residential customers) can be connected directly in-line between source and customer. for larger loads, more than about 200 ampere of load, current transformers are used, so that the meter can be located other than in line with the service conductors. the meters fall into two basic categories, electromechanical and electronic.
+
+electromechanical[edit]
+the most common type of electricity meter is the electromechanical watt-hour meter.[14][15]
+on a single-phase ac supply, the electromechanical induction meter operates through electromagnetic induction by counting the revolutions of a non-magnetic, but electrically conductive, metal disc which is made to rotate at a speed proportional to the power passing through the meter. the number of revolutions is thus proportional to the energy usage. the voltage coil consumes a small and relatively constant amount of power, typically around 2 watts which is not registered on the meter. the current coil similarly consumes a small amount of power in proportion to the square of the current flowing through it, typically up to a couple of watts at full load, which is registered on the meter.
+the disc is acted upon by two sets of induction coils, which form, in effect, a two phase linear induction motor. one coil is connected in such a way that it produces a magnetic flux in proportion to the voltage and the other produces a magnetic flux in proportion to the current. the field of the voltage coil is delayed by 90 degrees, due to the coil's inductive nature, and calibrated using a lag coil.[16] this produces eddy currents in the disc and the effect is such that a force is exerted on the disc in proportion to the product of the instantaneous current, voltage and phase angle (power factor) between them. a permanent magnet acts as an eddy current brake, exerting an opposing force proportional to the speed of rotation of the disc. the equilibrium between these two opposing forces results in the disc rotating at a speed proportional to the power or rate of energy usage. the disc drives a register mechanism which counts revolutions, much like the odometer in a car, in order to render a measurement of the total energy used.
+different phase configurations use additional voltage and current coils.
+
+ three-phase electromechanical induction meter, metering 100 a 240/415 v supply. horizontal aluminium rotor disc is visible in centre of meter
+the disc is supported by a spindle which has a worm gear which drives the register. the register is a series of dials which record the amount of energy used. the dials may be of the cyclometer type, an odometer-like display that is easy to read where for each dial a single digit is shown through a window in the face of the meter, or of the pointer type where a pointer indicates each digit. with the dial pointer type, adjacent pointers generally rotate in opposite directions due to the gearing mechanism.
+the amount of energy represented by one revolution of the disc is denoted by the symbol kh which is given in units of watt-hours per revolution. the value 7.2 is commonly seen. using the value of kh one can determine their power consumption at any given time by timing the disc with a stopwatch.
+
+
+
+
+p
+=
+
+
+
+3600
+⋅
+k
+h
+
+t
+
+
+
+
+{\displaystyle p={{3600\cdot kh} \over t}}
+
+.
+where:
+
+t = time in seconds taken by the disc to complete one revolution,
+p = power in watts.
+for example, if kh = 7.2 as above, and one revolution took place in 14.4 seconds, the power is 1800 watts. this method can be used to determine the power consumption of household devices by switching them on one by one.
+most domestic electricity meters must be read manually, whether by a representative of the power company or by the customer. where the customer reads the meter, the reading may be supplied to the power company by telephone, post or over the internet. the electricity company will normally require a visit by a company representative at least annually in order to verify customer-supplied readings and to make a basic safety check of the meter.
+in an induction type meter, creep is a phenomenon that can adversely affect accuracy, that occurs when the meter disc rotates continuously with potential applied and the load terminals open circuited. a test for error due to creep is called a creep test.
+two standards govern meter accuracy, ansi c12.20 for north america and iec 62053.
+
+electronic[edit]
+ solid state electricity meter used in a home in the netherlands
+electronic meters display the energy used on an lcd or led display, and some can also transmit readings to remote places. in addition to measuring energy used, electronic meters can also record other parameters of the load and supply such as instantaneous and maximum rate of usage demands, voltages, power factor and reactive power used etc. they can also support time-of-day billing, for example, recording the amount of energy used during on-peak and off-peak hours.
+as in the block diagram[where?], the meter has a power supply, a metering engine, a processing and communication engine (i.e. a microcontroller), and other add-on modules such as rtc, lcd, communication ports/modules and so on.
+the metering engine is given the voltage and current inputs and has a voltage reference, samplers and quantisers followed by an adc section to yield the digitised equivalents of all the inputs. these inputs are then processed using a digital signal processor to calculate the various metering parameters.
+the largest source of long-term errors in the meter is drift in the preamp, followed by the precision of the voltage reference. both of these vary with temperature as well, and vary wildly because most meters are outdoors. characterising and compensating for these is a major part of meter design.
+the processing and communication section has the responsibility of calculating the various derived quantities from the digital values generated by the metering engine. this also has the responsibility of communication using various protocols and interface with other addon modules connected as slaves to it.
+rtc and other add-on modules are attached as slaves to the processing and communication section for various input/output functions. on a modern meter most if not all of this will be implemented inside the microprocessor, such as the real-time clock (rtc), lcd controller, temperature sensor, memory and analogue to digital converters.
+
+communication methods[edit]
+remote meter reading is a practical example of telemetry. it saves the cost of a human meter reader and the resulting mistakes, but it also allows more measurements, and remote provisioning. many smart meters now include a switch to interrupt or restore service.
+historically, rotating meters could report their metered information remotely, using a pair of electrical contacts attached to a kyz line.
+a kyz interface is a form c contact supplied from the meter. in a kyz interface, the y and z wires are switch contacts, shorted to k for a measured amount of energy. when one contact closes the other contact opens to provide count accuracy security.[17] each contact change of state is considered one pulse. the frequency of pulses indicates the power demand. the number of pulses indicates energy metered.[18]
+the kyz relay creates pulses. the term kyz refers to the contact designations: k for common, y for normally open, and z for normally closed. when incorporated into an electrical meter, the relay changes state with each rotation (or half rotation) of the meter disc. each state change is called a "pulse." when connected to external equipment, rate of use (kw) as well as total usage (kwh) can be determined from the rate and quantity of pulses.
+kyz outputs were historically attached to "totaliser relays" feeding a "totaliser" so that many meters could be read all at once in one place.
+kyz outputs are also the classic way of attaching electricity meters to programmable logic controllers, hvacs or other control systems. some modern meters also supply a contact closure that warns when the meter detects a demand near a higher electricity tariff,
+to improve demand side management.
+some meters have an open collector or ir led output that give 32-100 ms pulses for each metered amount of electrical energy, usually 1000-10000 pulses per kwh. output is limited to max 27 v dc and 27 ma dc. these outputs usually follow the din 43864 standard.
+often, meters designed for semi-automated reading have a serial port on that communicates by infrared led through the faceplate of the meter. in some multi-unit buildings, a similar protocol is used, but in a wired bus using a serial current loop to connect all the meters to a single plug. the plug is often near a more easily accessible point.
+in the european union, the most common infrared and protocol is "flag", a simplified subset of mode c of iec 61107. in the united states and canada, the favoured infrared protocol is ansi c12.18. some industrial meters use a protocol for programmable logic controllers (modbus or dnp3).
+one protocol proposed for this purpose is dlms/cosem which can operate over any medium, including serial ports. the data can be transmitted by zigbee, wifi, telephone lines or over the power lines themselves. some meters can be read over the internet. other more modern protocols are also becoming widely used, like osgp (open smart grid protocol).
+electronic meters now use low-power radio, gsm, gprs, bluetooth, irda, as well as rs-485 wired link. the meters can now store the entire usage profiles with time stamps and relay them at a click of a button. the demand readings stored with the profiles accurately indicate the load requirements of the customer. this load profile data is processed at the utilities for billing and planning purposes.
+amr (automatic meter reading) and rmr (remote meter reading) describe various systems that allow meters to be checked without the need to send a meter reader out. an electronic meter can transmit its readings by telephone line or radio to a central billing office. automatic meter reading can be done with gsm (global system for mobile communications) modems, one is attached to each meter and the other is placed at the central utility office.
+
+monitoring and billing methods[edit]
+commercial uses[edit]
+large commercial and industrial premises may use electronic meters which record power usage in blocks of half an hour or less. this is because most electricity grids have demand surges throughout the day, and the power company may wish to give price incentives to large customers to reduce demand at these times. these demand surges often correspond to meal times or, famously, to advertisements interrupting popular television programmes.
+
+home energy monitoring[edit]
+main article: home energy monitor
+a potentially powerful means to reduce household energy consumption is to provide convenient real-time feedback to users so they can change their energy using behaviour. recently, low-cost energy feedback displays have become available. a study using a consumer-readable meter in 500 ontario homes by hydro one showed an average 6.5% drop in total electricity use when compared with a similarly sized control group. hydro one subsequently offered free power monitors to 30,000 customers based on the success of the pilot.[19] projects such as google powermeter, take information from a smart meter and make it more readily available to users to help encourage conservation.[20]
+
+ one model of plug-in electricity meter, used to measure consumption of an individual appliance; in this case, christmas lights.
+plug-in electricity meters (or plug load meters) measure energy used by individual appliances. there are a variety of models available on the market today but they all work on the same basic principle. the meter is plugged into an outlet, and the appliance to be measured is plugged into the meter. such meters can help in energy conservation by identifying major energy users, or devices that consume excessive standby power. web resources can also be used, if an estimate of the power consumption is enough for the research purposes. a power meter can often be borrowed from the local power authorities[21] or a local public library.[22][23]
+
+multiple tariff[edit]
+this section  possibly contains original research. please improve it by verifying the claims made and adding inline citations. statements consisting only of original research should be removed. (january 2018) (learn how and when to remove this template message)
+electricity retailers may wish to charge customers different tariffs at different times of the day to better reflect the costs of generation and transmission. since it is typically not cost effective to store significant amounts of electricity during a period of low demand for use during a period of high demand, costs will vary significantly depending on the time of day. low cost generation capacity (baseload) such as nuclear can take many hours to start, meaning a surplus in times of low demand, whereas high cost but flexible generating capacity (such as gas turbines) must be kept available to respond at a moment's notice (spinning reserve) to peak demand, perhaps being used for a few minutes per day, which is very expensive.
+some multiple tariff meters use different tariffs for different amounts of demand. these are usually industrial meters.
+domestic variable-rate meters generally permit two to three tariffs ("peak", "off-peak" and "shoulder") and in such installations a simple electromechanical time switch may be used. historically, these have often been used in conjunction with electrical storage heaters or hot water storage systems.
+multiple tariffs are made easier by time of use (tou) meters which incorporate or are connected to a time switch and which have multiple registers.
+switching between the tariffs may happen via ripple control, or via a radio-activated switch. in principle, a sealed time switch can also be used, but is considered more vulnerable to tampering to obtain cheaper electricity.[citation needed]
+
+ economy 7 meter and teleswitcher
+radio-activated switching is common in the uk, with a nightly data signal sent within the longwave carrier of bbc radio 4, 198 khz. the time of off-peak charging is usually seven hours between midnight and 7:00am gmt/bst, and this is designed to power storage heaters and immersion heaters. in the uk, such tariffs are typically branded economy 7, white meter or dual-rate. the popularity of such tariffs has declined in recent years, at least in the domestic market, because of the (perceived or real) deficiencies of storage heaters and the comparatively much lower cost of natural gas per kwh (typically a factor of 3-5 times lower). nevertheless, a sizeable number of properties do not have the option of gas, with many in rural areas being outside the gas supply network, and others being expensive upfront to upgrade to a radiator system.
+an economy 10 meter is also available, which gives 10 hours of cheap off-peak electricity spread out over three timeslots throughout a 24-hour period. this allows multiple top-up boosts to storage heaters, or a good spread of times to run a wet electric heating system on a cheaper electricity rate.[24]
+most meters using economy 7 switch the entire electricity supply to the cheaper rate during the 7 hour night time period, not just the storage heater circuit. the downside of this is that the daytime rate per kwh is significantly higher, and that standing charges are sometimes higher. for example, as of july 2017, normal ("single rate") electricity costs 17.14p per kwh in the london region on the standard default tariff for edf energy (the post-privatisation incumbent electricity supplier in london), with a standing charge of 18.90p per day.[25] the equivalent economy 7 costs are 21.34p per kwh during the peak usage period with 7.83p per kwh during the off-peak usage period, and a standing charge of 18.90p per day.[26] timer switches installed on washing machines, tumble dryers, dishwashers and immersion heaters may be set so that they only switch on during the off-peak usage period.
+
+smart meters[edit]
+main article: smart meter
+smart meters go a step further than simple amr (automatic meter reading). they offer additional functionality including a real-time or near real-time reads, power outage notification, and power quality monitoring. they allow price setting agencies to introduce different prices for consumption based on the time of day and the season.
+another type of smart meter uses nonintrusive load monitoring to automatically determine the number and type of appliances in a residence, how much energy each uses and when. this meter is used by electric utilities to do surveys of energy use. it eliminates the need to put timers on all of the appliances in a house to determine how much energy each uses.
+
+prepayment meters[edit]
+ prepayment meter and magnetic stripe tokens, from a rented accommodation in the uk. the button labelled a displays information and statistics such as current tariff and remaining credit. the button labelled b activates a small amount of emergency credit should the customer run out
+ a prepayment key
+the standard business model of electricity retailing involves the electricity company billing the customer for the amount of energy used in the previous month or quarter. in some countries, if the retailer believes that the customer may not pay the bill, a prepayment meter may be installed. this requires the customer to make advance payment before electricity can be used.[citation needed] if the available credit is exhausted then the supply of electricity is cut off by a relay.
+in the uk, mechanical prepayment meters used to be common in rented accommodation. disadvantages of these included the need for regular visits to remove cash, and risk of theft of the cash in the meter.
+modern solid-state electricity meters, in conjunction with smart cards, have removed these disadvantages and such meters are commonly used for customers considered to be a poor credit risk. in the uk, customers can use organisations such as the post office ltd or paypoint network, where rechargeable tokens (quantum cards for natural gas, or plastic "keys" for electricity) can be loaded with whatever money the customer has available.
+in south africa, sudan and northern ireland prepaid meters are recharged by entering a unique, encoded twenty digit number using a keypad. this makes the tokens, essentially a slip of paper, very cheap to produce.
+around the world, experiments are going on, especially in developing countries, to test pre-payment systems. in some cases, prepayment meters have not been accepted by customers. there are various groups, such as the standard transfer specification (sts) association, which promote common standards for prepayment metering systems across manufacturers. prepaid meters using the sts standard are used in many countries.[27][28][29]
+
+time of day metering[edit]
+time of day metering (tod), also known as time of usage (tou) or seasonal time of day (stod), metering involves dividing the day, month and year into tariff slots and with higher rates at peak load periods and low tariff rates at off-peak load periods. while this can be used to automatically control usage on the part of the customer (resulting in automatic load control), it is often simply the customer's responsibility to control his own usage, or pay accordingly (voluntary load control). this also allows the utilities to plan their transmission infrastructure appropriately. see also demand-side management (dsm).
+tod metering normally splits rates into an arrangement of multiple segments including on-peak, off-peak, mid-peak or shoulder, and critical peak. a typical arrangement is a peak occurring during the day (non-holiday days only), such as from 1 pm to 9 pm monday through friday during the summer and from 6:30 am to 12 noon and 5 pm to 9 pm during the winter. more complex arrangements include the use of critical peaks which occur during high demand periods. the times of peak demand/cost will vary in different markets around the world.
+large commercial users can purchase power by the hour using either forecast pricing or real time pricing.
+some utilities allow residential customers to pay hourly rates, such as in illinois, which uses day ahead pricing.[30][31]
+
+power export metering[edit]
+see also: net metering
+many electricity customers are installing their own electricity generating equipment, whether for reasons of economy, redundancy or environmental reasons. when a customer is generating more electricity than required for his own use, the surplus may be exported back to the power grid. customers that generate back into the "grid" usually must have special equipment and safety devices to protect the grid components (as well as the customer's own) in case of faults (electrical short circuits) or maintenance of the grid (say voltage on a downed line coming from an exporting customers facility).
+this exported energy may be accounted for in the simplest case by the meter running backwards during periods of net export, thus reducing the customer's recorded energy usage by the amount exported. this in effect results in the customer being paid for his/her exports at the full retail price of electricity. unless equipped with a ratchet or equivalent, a standard meter will accurately record power flow in each direction by simply running backwards when power is exported. where allowed by law, utilities maintain a profitable margin between the price of energy delivered to the consumer and the rate credited for consumer-generated energy that flows back to the grid.
+lately, upload sources typically originate from renewable sources (e.g., wind turbines, photovoltaic cells), or gas or steam turbines, which are often found in cogeneration systems. another potential upload source that has been proposed is plug-in hybrid car batteries (vehicle-to-grid power systems). this requires a "smart grid," which includes meters that measure electricity via communication networks that require remote control and give customers timing and pricing options. vehicle-to-grid systems could be installed at workplace parking lots and garages and at park and rides and could help drivers charge their batteries at home at night when off-peak power prices are cheaper, and receive bill crediting for selling excess electricity back to the grid during high-demand hours.
+
+location[edit]
+ current transformers used as part of metering equipment for three-phase 400 a electricity supply. the fourth neutral wire does not require a current transformer because current cannot flow in the neutral without also flowing in metered phase wires. (blondel's theorem)
+ a commercial power meter
+ electricity meters placed outside the homes of residents in a common place, which is accessible only for the department staff and concerned residents
+ a duke energy technician removes the tamper-proof seal from an electricity meter at a residence in durham, north carolina
+the location of an electricity meter varies with each installation. possible locations include on a utility pole serving the property, in a street-side cabinet (meter box) or inside the premises adjacent to the consumer unit / distribution board. electricity companies may prefer external locations as the meter can be read without gaining access to the premises but external meters may be more prone to vandalism.
+current transformers permit the meter to be located remotely from the current-carrying conductors. this is common in large installations. for example, a substation serving a single large customer may have metering equipment installed in a cabinet, without bringing heavy cables into the cabinet.
+
+customer drop and metering equation[edit]
+since electrical standards vary in different regions, "customer drops" from the grid to the customer also vary depending on the standards and the type of installation. there are several common types of connections between a grid and a customer. each type has a different metering equation. blondel's theorem states that for any system with n current-carrying conductors, that n-1 measuring elements are sufficient to measure electrical energy. this indicates that different metering is needed, for example, for a three-phase three-wire system than for a three-phase four-wire (with neutral) system.
+in europe, asia, africa and most other locations, single phase is common for residential and small commercial customers. single phase distribution is less-expensive, because one set of transformers in a substation normally serve a large area with relatively high voltages (usually 230 v) and no local transformers. these have a simple metering equation: watts = volts x amps, with volts measured from the neutral to the phase wire. in the united states, canada, and parts of central and south america similar customers are normally served by three-wire single phase. three-wire single-phase requires local transformers, as few as one per ten residences, but provides lower, safer voltages at the socket (usually 120 v), and provides two voltages to customers: neutral to phase (usually 120 v), and phase to phase (usually 240 v). additionally, three-wire customers normally have neutral wired to the zero side of the generator's windings, which gives earthing that can be easily measured to be safe. these meters have a metering equation of watts = 0.5 x volts x (amps of phase a − amps of phase b), with volts measured between the phase wires.
+industrial power is normally supplied as three phase power. there are two forms: three wire, or four wire with a system neutral. in "three wire" or "three wire delta," , there is no neutral but an earth ground is the safety ground. the three phases have voltage only relative to each other. this distribution method has one fewer wire, is less expensive, and is common in asia, africa, and many parts of europe. in regions that mix residences and light industry, it is common for this to be the only distribution method. a meter for this type normally measures two of the windings relative to the third winding, and adds the watts. one disadvantage of this system is that if the safety earth fails, it is difficult to discover this by direct measurement, because no phase has a voltage relative to earth.
+in the four-wire three-phase system, sometimes called "four-wire wye", the safety ground is connected to a neutral wire that is physically connected to the zero-voltage side of the three windings of the generator or transformer. since all power phases are relative to the neutral in this system, if the neutral is disconnected, it can be directly measured. in the united states, the national electrical code requires neutrals to be of this type.[32] in this system, power meters measure and sum all three phases relative to the neutral.
+in north america, it is common for electricity meters to plug into a standardised socket outdoors, on the side of a building. this allows the meter to be replaced without disturbing the wires to the socket, or the occupant of the building. some sockets may have a bypass while the meter is removed for service. the amount of electricity used without being recorded during this small time is considered insignificant when compared to the inconvenience which might be caused to the customer by cutting off the electricity supply. most electronic meters in north america use a serial protocol, ansi c12.18.
+in many other countries the supply and load terminals are in the meter housing itself. cables are connected directly to the meter. in some areas the meter is outside, often on a utility pole. in others, it is inside the building in a niche. if inside, it may share a data connection with other meters. if it exists, the shared connection is often a small plug near the post box. the connection is often eia-485 or infra-red with a serial protocol such as iec 62056.
+in 2014, networking to meters is rapidly changing. the most common schemes seem to combine an existing national standard for data (e.g. ansi c12.19 or iec 62056) operating via the internet protocol with a small circuit board for powerline communication, or a digital radio for a mobile phone network, or an ism band.
+
+accuracy[edit]
+electricity meters are required to register the energy consumed within an acceptable degree of accuracy. any significant error in the registered energy can represent a loss to the electricity supplier, or the consumer being over billed. the accuracy is generally laid down in statute for the location in which the meter is installed. statutory provisions may also specify a procedure to be followed should the accuracy be disputed.
+for the united kingdom, any installed electricity meter is required to accurately record the consumed energy, but it is permitted to under-read by 3.5%, or over-read by 2.5%.[33] disputed meters are initially verified with a check meter operating alongside the disputed meter. the final resort is for the disputed meter to be fully tested both in the installed location and at a specialist calibration laboratory.[34] approximately 93% of disputed meters are found to be operating satisfactorily. a refund of electricity paid for, but not consumed (but not vice versa) will only be made if the laboratory is able to estimate how long the meter has been misregistering. this contrasts with gas meters where if a meter is found to be under reading, it is assumed that it has under read for as long as the consumer has had a gas supply through it.[35]
+
+tampering and security[edit]
+meters can be manipulated to make them under-register, effectively allowing power use without paying for it. this theft or fraud can be dangerous as well as dishonest.
+power companies often install remote-reporting meters specifically to enable remote detection of tampering, and specifically to discover energy theft. the change to smart power meters is useful to stop energy theft.
+when tampering is detected, the normal tactic, legal in most areas of the united states, is to switch the subscriber to a "tampering" tariff charged at the meter's maximum designed current. at us$0.095/kwh, a standard residential 50 a meter causes a legally collectible charge of about us$5,000.00 per month. meter readers are trained to spot signs of tampering, and with crude mechanical meters, the maximum rate may be charged each billing period until the tamper is removed, or the service is disconnected.
+a common method of tampering on mechanical disk meters is to attach magnets to the outside of the meter. strong magnets saturate the magnetic fields in the meter so that the motor portion of a mechanical meter does not operate. lower power magnets can add to the drag resistance of the internal disk resistance magnets. magnets can also saturate current transformers or power-supply transformers in electronic meters, though countermeasures are common.
+some combinations of capacitive and inductive load can interact with the coils and mass of a rotor and cause reduced or reverse motion.
+all of these effects can be detected by the electric company, and many modern meters can detect or compensate for them.
+the owner of the meter normally secures the meter against tampering. revenue meters' mechanisms and connections are sealed. meters may also measure var-hours (the reflected load), neutral and dc currents (elevated by most electrical tampering), ambient magnetic fields, etc. even simple mechanical meters can have mechanical flags that are dropped by magnetic tampering or large dc currents.
+newer computerised meters usually have counter-measures against tampering. amr (automated meter reading) meters often have sensors that can report opening of the meter cover, magnetic anomalies, extra clock setting, glued buttons, inverted installation, reversed or switched phases etc.
+some tampers bypass the meter, wholly or in part. safe tampers of this type normally increase the neutral current at the meter. most split-phase residential meters in the united states are unable to detect neutral currents. however, modern tamper-resistant meters can detect and bill it at standard rates.[36]
+disconnecting a meter's neutral connector is unsafe because shorts can then pass through people or equipment rather than a metallic ground to the generator or earth.
+a phantom loop connection via an earth ground is often much higher resistance than the metallic neutral connector. even if an earth ground is safe, metering at the substation can alert the operator to tampering. substations, inter-ties, and transformers normally have a high-accuracy meter for the area served. power companies normally investigate discrepancies between the total billed and the total generated, in order to find and fix power distribution problems. these investigations are an effective method to discover tampering.
+power thefts in the united states are often connected with indoor marijuana grow operations. narcotics detectives associate abnormally high power usage with the lighting such operations require.[37] indoor marijuana growers aware of this are particularly motivated to steal electricity simply to conceal their usage of it.
+
+regulation and legislation[edit]
+following the deregulation of electricity supply markets in many countries (e.g., uk), the company responsible for an electricity meter may not be obvious. depending on the arrangements in place, the meter may be the property of the meter operator, electricity distributor, the retailer or for some large users of electricity the meter may belong to the customer.
+the company responsible for reading the meter may not always be the company which owns it. meter reading is now sometimes subcontracted and in some areas the same person may read gas, water and electricity meters at the same time.
+the introduction of advanced meters in residential areas has produced additional privacy issues that may affect ordinary customers. these meters are often capable of recording energy usage every 15, 30 or 60 minutes. some meters have one or two ir leds on the front: one used for testing and which acts as the equivalent of the timing mark on the older mechanical meters and the other as part of a two-way ir communications port for reading / programming the meter. these ir leds are visible with some night vision viewers and certain video cameras that are capable of sensing ir transmissions. these can be used for surveillance, revealing information about peoples' possessions and behaviour.[38] for instance, it can show when the customer is away for extended periods. nonintrusive load monitoring gives even more detail about what appliances people have and their living and use patterns.
+a more detailed and recent analysis of this issue was performed by the illinois security lab.[39][further explanation needed]
+
+see also[edit]
+
+
+energy portal
+energy management software
+energy monitoring and targeting
+meter operator
+utility submeter
+zellweger off-peak
+notes[edit]
+
+
+^ e.g., minnkota power's load management system, accessed 22 august 2009.
+
+^ graeme gooday the morals of measurement: accuracy, irony,and trust in late victorian electrical practice, cambridge university press, 2004 .mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}isbn 0-521-43098-4, p 232–241
+
+^ whyte, adam gowans (1930). forty years of electrical progress. london: ernest benn. pp. 31, 159.
+
+^ eugenii katz. "blathy". people.clarkson.edu. archived from the original on june 25, 2008. retrieved 2009-08-04.
+
+^ a b ricks, g.w.d. (march 1896). "electricity supply meters". journal of the institution of electrical engineers. 25 (120): 57–77. doi:10.1049/jiee-1.1896.0005. student paper read on january 24, 1896 at the students' meeting.
+
+^ a b the electrical engineer, volume 5. (february, 1890)
+
+^ the electrician, volume 50. 1923
+
+^ official gazette of the united states patent office: volume 50. (1890)
+
+^ w. bernard carlson, innovation as a social process: elihu thomson and the rise of general electric, cambridge university press, 2003 isbn 0-521-53312-0, pages 1 and 258
+
+^ u.s. patent 388003
+
+^ stephen a. dyer (ed.) survey of instrumentation and measurementwiley-ieee, 2001 isbn 0-471-39484-x, page 875
+
+^ "shallenberger integrating wattmeter". watthourmeters.com.
+
+^ ieee recommended practice for industrial and commercial power systems analysis standard 399-1997, ieee, isbn 1-55937-968-5 page 47
+
+^ jehl, francis (1941). menlo park reminiscences. kessinger publishing. p. 841. isbn 978-0-7661-2648-0.
+
+^ fleming, j.a. (1914). magnets and electric currents. new york: spon & chamberlain. p. 335.
+
+^ "volume 3-10" (pdf). retrieved 2009-08-04.
+
+^ "what are kyz pulses?". solidstate instruments. retrieved 22 november 2012.
+
+^ handbook for electricity metering. eei. archived from the original on 2008-10-24.
+
+^ "cbphydroonereprint" (pdf). archived from the original (pdf) on 2009-03-18. retrieved 2009-08-04.
+
+^ verne kopytoff; ryan kim (2009-02-22). "google plans meter to detail home energy use". san francisco chronicle. retrieved 2009-02-11.
+
+^ "residential — home energy audit — watts up". austin utilities. archived from the original on 2009-03-12. retrieved 2009-08-04.
+
+^ "portable energy meter". mge.com. retrieved 2009-08-04.
+
+^ "linkcat". linkcat.info. retrieved 2009-08-04.
+
+^ "price comparison website". retrieved 2010-12-15.
+
+^ "edf energy tariff information label checker". retrieved 2017-07-28.
+
+^ "edf energy tariff information label checker". retrieved 2017-07-28.
+
+^ "standard transfer specification association npc / 95/08496/08 > home". www.sts.org.za.
+
+^ "genus power infrastructures ltd". the times of india.
+
+^ "conlog". saeec.
+
+^ "retail-energy". www2.ameren.com.
+
+^ "real time pricing". thewattspot.com. archived from the original on 2009-02-23. retrieved 2009-08-04.
+
+^ see the national electrical code, a large book, revised yearly, widely available for purchase.
+
+^ measuring instruments (active electrical energy meters) regulations 2006, schedule 1, paragraph 15. these errors apply between +5°c to +30°c and a power factor of 0.8 leading to 0.5 lagging. outside of these limits larger errors are permissible.
+
+^ electricity meter accuracy disputes
+
+^ the gas (meters) regulations 1983
+
+^ teridian semiconductors application note, "antitamper features enabled by the 71m6511" the 71m6511 is a single chip metering device widely used in computerised meters.
+
+^ "theft of power". james bong's ultimate spyguide to marijuana. pp. 234–242.
+
+^ hart, g.w. (june 1989). "residential energy monitoring and computerized surveillance via utility power flows". technology and society magazine, ieee. 8 (2): 12–16. doi:10.1109/44.31557.
+
+^ "attested metering". illinois computer security laboratory.
+
+
+references[edit]
+.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}
+"handbook for electricity metering" by the edison electric institute
+
+external links[edit]
+ media related to electricity meters (kwh) at wikimedia commons
+vteelectrical and electronic measuring equipmentmetering
+ammeter
+capacitance meter
+distortionmeter
+electricity meter
+frequency counter
+galvanometer
+lcr meter
+microwave power meter
+multimeter
+megohmmeter
+ohmmeter
+peak meter
+peak programme meter
+psophometer
+q meter
+time-domain reflectometer
+time-to-digital converter
+transistor tester
+tube tester
+wattmeter
+voltmeter
+vu meter
+analysis
+bus analyzer
+logic analyzer
+network analyzer
+oscilloscope
+signal analyzer
+spectrum analyzer
+waveform monitor
+vectorscope
+videoscope
+generation
+arbitrary waveform generator
+digital pattern generator
+function generator
+sweep generator
+signal generator
+video-signal generator
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=electricity_meter&oldid=881767848"					
+categories: electric powerelectricity metershidden categories: engvarb from july 2018wikipedia introduction cleanup from january 2018all pages needing cleanuparticles covered by wikiproject wikify from january 2018all articles covered by wikiproject wikifyvague or ambiguous geographic scope from december 2017articles that may contain original research from january 2018all articles that may contain original researchall articles with unsourced statementsarticles with unsourced statements from july 2015articles with unsourced statements from june 2013wikipedia articles needing clarification from may 2015commons category link is on wikidata 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+العربيةbân-lâm-gúбългарскиcatalàčeštinadeutscheestiespañolesperantoفارسیfrançaisgalegoհայերենहिन्दीhrvatskiעבריתlietuviųmagyarмакедонскиമലയാളംbahasa melayuမြန်မာဘာသာnederlands日本語oʻzbekcha/ўзбекчаپښتوpolskiportuguêsрусскийsimple englishslovenčinaсрпски / srpskisuomisvenskatürkçeукраїнськаtiếng việt中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 4 february 2019, at 18:04 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.848","walltime":"1.148","ppvisitednodes":{"value":2999,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":67843,"limit":2097152},"templateargumentsize":{"value":3993,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":11,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":85920,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  837.177      1 -total"," 50.53%  423.050      1 template:reflist"," 13.47%  112.780      4 template:isbn"," 11.05%   92.527     16 template:cite_web"," 10.43%   87.344      1 template:commonscatinline"," 10.19%   85.339      5 template:cite_book","  7.52%   62.937      1 template:lead_too_short","  7.46%   62.417      2 template:ambox","  7.33%   61.361      4 template:catalog_lookup_link","  7.16%   59.977      2 template:cite_journal"]},"scribunto":{"limitreport-timeusage":{"value":"0.329","limit":"10.000"},"limitreport-memusage":{"value":6611687,"limit":52428800}},"cachereport":{"origin":"mw1251","timestamp":"20190214235250","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"electricity meter","url":"https:\/\/en.wikipedia.org\/wiki\/electricity_meter","sameas":"http:\/\/www.wikidata.org\/entity\/q622756","mainentity":"http:\/\/www.wikidata.org\/entity\/q622756","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2004-11-06t15:53:01z","datemodified":"2019-02-04t18:04:19z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/b9\/hydro_quebec_meter.jpg"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":108,"wghostname":"mw1266"});});
+
+

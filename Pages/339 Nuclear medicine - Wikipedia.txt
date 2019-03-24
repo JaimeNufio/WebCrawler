@@ -1,0 +1,996 @@
+
+
+
+
+nuclear medicine - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"nuclear_medicine","wgtitle":"nuclear medicine","wgcurrevisionid":883212154,"wgrevisionid":883212154,"wgarticleid":347838,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["webarchive template wayback links","all articles with unsourced statements","articles with unsourced statements from october 2013","articles with unsourced statements from march 2010","commons category link is on wikidata","articles with curlie links","radiology","nuclear medicine","medicinal radiochemistry"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"nuclear_medicine","wgrelevantarticleid":347838,"wgrequestid":"xgygywpaiciaakz3c-kaaadn","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q214963","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+nuclear medicine 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+nuclear medicineicd-10-pcscicd-992meshd009683ops-301 code3-70-3-72, 8-53[edit on wikidata]
+nuclear medicine is a medical specialty involving the application of radioactive substances in the diagnosis and treatment of disease. nuclear medicine, in a sense, is "radiology done inside out" or "endoradiology" because it records radiation emitting from within the body rather than radiation that is generated by external sources like x-rays. in addition, nuclear medicine scans differ from radiology as the emphasis is not on imaging anatomy but the function and for such reason, it is called a physiological imaging modality. single photon emission computed tomography (spect) and positron emission tomography (pet) scans are the two most common imaging modalities in nuclear medicine.[1]
+
+contents
+
+1 diagnostic medical imaging
+
+1.1 diagnostic
+1.2 hybrid scanning techniques
+1.3 practical concerns in nuclear imaging
+1.4 analysis
+
+
+2 interventional nuclear medicine
+3 history
+4 source of radionuclides, with notes on a few radiopharmaceuticals
+5 radiation dose
+6 see also
+7 references
+8 further reading
+9 external links
+
+
+diagnostic medical imaging[edit]
+diagnostic[edit]
+in nuclear medicine imaging, radiopharmaceuticals are taken internally, for example, intravenously or orally. then, external detectors (gamma cameras) capture and form images from the radiation emitted by the radiopharmaceuticals. this process is unlike a diagnostic x-ray, where external radiation is passed through the body to form an image.
+there are several techniques of diagnostic nuclear medicine. 
+
+2d: scintigraphy ("scint") is the use of internal radionuclides to create two-dimensional images.[2]
+
+
+
+
+a nuclear medicine whole body bone scan. the nuclear medicine whole body bone scan is generally used in evaluations of various bone-related pathology, such as for bone pain, stress fracture, nonmalignant bone lesions, bone infections, or the spread of cancer to the bone.
+
+
+
+
+
+
+nuclear medicine myocardial perfusion scan with thallium-201 for the rest images (bottom rows) and tc-sestamibi for the stress images (top rows). the nuclear medicine myocardial perfusion scan plays a pivotal role in the noninvasive evaluation of coronary artery disease. the study not only identifies patients with coronary artery disease; it also provides overall prognostic information or overall risk of adverse cardiac events for the patient.
+
+
+
+
+
+
+a nuclear medicine parathyroid scan demonstrates a parathyroid adenoma adjacent to the left inferior pole of the thyroid gland. the above study was performed with technetium-sestamibi (1st column) and iodine-123 (2nd column) simultaneous imaging and the subtraction technique (3rd column).
+
+
+
+
+
+
+normal hepatobiliary scan (hida scan). the nuclear medicine hepatobiliary scan is clinically useful in the detection of the gallbladder disease.
+
+
+
+
+
+
+normal pulmonary ventilation and perfusion (v/q) scan. the nuclear medicine v/q scan is useful in the evaluation of pulmonary embolism.
+
+
+
+
+
+
+thyroid scan with iodine-123 for evaluation of hyperthyroidism.
+
+
+
+
+3d: spect is a 3d tomographic technique that uses gamma camera data from many projections and can be reconstructed in different planes. positron emission tomography (pet) uses coincidence detection to image functional processes.
+
+
+
+
+a nuclear medicine spect liver scan with technetium-99m labeled autologous red blood cells. a focus of high uptake (arrow) in the liver is consistent with a hemangioma.
+
+
+
+
+
+
+maximum intensity projection (mip) of a whole-body positron emission tomography (pet) acquisition of a 79 kg female after intravenous injection of 371 mbq of 18f-fdg (one hour prior measurement).
+
+
+
+
+nuclear medicine tests differ from most other imaging modalities in that diagnostic tests primarily show the physiological function of the system being investigated as opposed to traditional anatomical imaging such as ct or mri. nuclear medicine imaging studies are generally more organ-, tissue- or disease-specific (e.g.: lungs scan, heart scan, bone scan, brain scan, tumor, infection, parkinson etc.) than those in conventional radiology imaging, which focus on a particular section of the body (e.g.: chest x-ray, abdomen/pelvis ct scan, head ct scan, etc.). in addition, there are nuclear medicine studies that allow imaging of the whole body based on certain cellular receptors or functions. examples are whole body pet scans or pet/ct scans, gallium scans, indium white blood cell scans, mibg and octreotide scans.
+
+ iodine-123 whole body scan for thyroid cancer evaluation. the study above was performed after the total thyroidectomy and tsh stimulation with thyroid hormone medication withdrawal. the study shows a small residual thyroid tissue in the neck and a mediastinum lesion, consistent with the thyroid cancer metastatic disease. the observable uptakes in the stomach and bladder are normal physiologic findings.
+while the ability of nuclear metabolism to image disease processes from differences in metabolism is unsurpassed, it is not unique. certain techniques such as fmri image tissues (particularly cerebral tissues) by blood flow and thus show metabolism. also, contrast-enhancement techniques in both ct and mri show regions of tissue that are handling pharmaceuticals differently, due to an inflammatory process.
+diagnostic tests in nuclear medicine exploit the way that the body handles substances differently when there is disease or pathology present. the radionuclide introduced into the body is often chemically bound to a complex that acts characteristically within the body; this is commonly known as a tracer. in the presence of disease, a tracer will often be distributed around the body and/or processed differently. for example, the ligand methylene-diphosphonate (mdp) can be preferentially taken up by bone. by chemically attaching technetium-99m to mdp, radioactivity can be transported and attached to bone via the hydroxyapatite for imaging. any increased physiological function, such as due to a fracture in the bone, will usually mean increased concentration of the tracer. this often results in the appearance of a "hot spot", which is a focal increase in radio accumulation or a general increase in radio accumulation throughout the physiological system. some disease processes result in the exclusion of a tracer, resulting in the appearance of a "cold spot". many tracer complexes have been developed to image or treat many different organs, glands, and physiological processes.
+
+hybrid scanning techniques[edit]
+in some centers, the nuclear medicine scans can be superimposed, using software or hybrid cameras, on images from modalities such as ct or mri to highlight the part of the body in which the radiopharmaceutical is concentrated. this practice is often referred to as image fusion or co-registration, for example spect/ct and pet/ct. the fusion imaging technique in nuclear medicine provides information about the anatomy and function, which would otherwise be unavailable or would require a more invasive procedure or surgery.
+
+
+
+
+
+normal whole body pet/ct scan with fdg-18. the whole body pet/ct scan is commonly used in the detection, staging and follow-up of various cancers.
+
+
+
+
+
+
+abnormal whole body pet/ct scan with multiple metastases from a cancer. the whole body pet/ct scan has become an important tool in the evaluation of cancer.
+
+
+
+
+practical concerns in nuclear imaging[edit]
+although the risks of low-level radiation exposures are not well understood, a cautious approach has been universally adopted that all human radiation exposures should be kept as low as reasonably practicable, "alarp". (originally, this was known as "as low as reasonably achievable" (alara), but this has changed in modern draftings of the legislation to add more emphasis on the "reasonably" and less on the "achievable".)
+working with the alarp principle, before a patient is exposed for a nuclear medicine examination, the benefit of the examination must be identified. this needs to take into account the particular circumstances of the patient in question, where appropriate. for instance, if a patient is unlikely to be able to tolerate a sufficient amount of the procedure to achieve a diagnosis, then it would be inappropriate to proceed with injecting the patient with the radioactive tracer.
+when the benefit does justify the procedure, then the radiation exposure (the amount of radiation given to the patient) should also be kept as low as reasonably practicable. this means that the images produced in nuclear medicine should never be better than required for confident diagnosis. giving larger radiation exposures can reduce the noise in an image and make it more photographically appealing, but if the clinical question can be answered without this level of detail, then this is inappropriate.
+as a result, the radiation dose from nuclear medicine imaging varies greatly depending on the type of study. the effective radiation dose can be lower than or comparable to or can far exceed the general day-to-day environmental annual background radiation dose. likewise, it can also be less than, in the range of, or higher than the radiation dose from an abdomen/pelvis ct scan.
+some nuclear medicine procedures require special patient preparation before the study to obtain the most accurate result. pre-imaging preparations may include dietary preparation or the withholding of certain medications. patients are encouraged to consult with the nuclear medicine department prior to a scan.
+
+analysis[edit]
+the end result of the nuclear medicine imaging process is a "dataset" comprising one or more images. in multi-image datasets the array of images may represent a time sequence (i.e. cine or movie) often called a "dynamic" dataset, a cardiac gated time sequence, or a spatial sequence where the gamma-camera is moved relative to the patient. spect (single photon emission computed tomography) is the process by which images acquired from a rotating gamma-camera are reconstructed to produce an image of a "slice" through the patient at a particular position. a collection of parallel slices form a slice-stack, a three-dimensional representation of the distribution of radionuclide in the patient.
+the nuclear medicine computer may require millions of lines of source code to provide quantitative analysis packages for each of the specific imaging techniques available in nuclear medicine.[citation needed]
+time sequences can be further analysed using kinetic models such as multi-compartment models or a patlak plot.
+
+interventional nuclear medicine[edit]
+main articles: unsealed source radiotherapy and brachytherapy
+radionuclide therapy can be used to treat conditions such as hyperthyroidism, thyroid cancer, and blood disorders.
+in nuclear medicine therapy, the radiation treatment dose is administered internally (e.g. intravenous or oral routes) rather than from an external radiation source.
+the radiopharmaceuticals used in nuclear medicine therapy emit ionizing radiation that travels only a short distance, thereby minimizing unwanted side effects and damage to noninvolved organs or nearby structures. most nuclear medicine therapies can be performed as outpatient procedures since there are few side effects from the treatment and the radiation exposure to the general public can be kept within a safe limit.
+common nuclear medicine (unsealed source) therapies
+
+
+
+substance
+
+condition
+
+
+iodine-131-sodium iodide
+
+hyperthyroidism and thyroid cancer
+
+
+yttrium-90-ibritumomab tiuxetan (zevalin) and iodine-131-tositumomab (bexxar)
+
+refractory lymphoma
+
+
+131i-mibg (metaiodobenzylguanidine)
+
+neuroendocrine tumors
+
+
+samarium-153 or strontium-89
+
+palliative bone pain treatment
+
+in some centers the nuclear medicine department may also use implanted capsules of isotopes (brachytherapy) to treat cancer.
+commonly used radiation sources (radionuclides) for brachytherapy[3]
+
+
+
+radionuclide
+
+type
+
+half-life
+
+energy
+
+
+caesium-137 (137cs)
+
+γ-ray
+
+30.17 years
+
+0.662 mev
+
+
+cobalt-60 (60co)
+
+γ-ray
+
+5.26 years
+
+1.17, 1.33 mev
+
+
+iridium-192 (192ir)
+
+β−-particles
+
+73.8 days
+
+0.38 mev (mean)
+
+
+iodine-125 (125i)
+
+γ-rays
+
+59.6 days
+
+27.4, 31.4 and 35.5 kev
+
+
+palladium-103 (103pd)
+
+γ-ray
+
+17.0 days
+
+21 kev (mean)
+
+
+ruthenium-106 (106ru)
+
+β−-particles
+
+1.02 years
+
+3.54 mev
+
+history[edit]
+the history of nuclear medicine contains contributions from scientists across different disciplines in physics, chemistry, engineering, and medicine. the multidisciplinary nature of nuclear medicine makes it difficult for medical historians to determine the birthdate of nuclear medicine. this can probably be best placed between the discovery of artificial radioactivity in 1934 and the production of radionuclides by oak ridge national laboratory for medicine related use, in 1946.[4]
+the origins of this medical idea date back as far as the mid-1920s in freiburg, germany, when george de hevesy made experiments with radionuclides administered to rats, thus displaying metabolic pathways of these substances and establishing the tracer principle. possibly, the genesis of this medical field took place in 1936, when john lawrence, known as "the father of nuclear medicine", took a leave of absence from his faculty position at yale medical school, to visit his brother ernest lawrence at his new radiation laboratory (now known as the lawrence berkeley national laboratory) in berkeley, california. later on, john lawrence made the first application in patients of an artificial radionuclide when he used phosphorus-32 to treat leukemia.[5][6]
+many historians consider the discovery of artificially produced radionuclides by frédéric joliot-curie and irène joliot-curie in 1934 as the most significant milestone in nuclear medicine.[4] in february 1934, they reported the first artificial production of radioactive material in the journal nature, after discovering radioactivity in aluminum foil that was irradiated with a polonium preparation. their work built upon earlier discoveries by wilhelm konrad roentgen for x-ray, henri becquerel for radioactive uranium salts, and marie curie (mother of irène curie) for radioactive thorium, polonium and coining the term "radioactivity." taro takemi studied the application of nuclear physics to medicine in the 1930s. the history of nuclear medicine will not be complete without mentioning these early pioneers.
+nuclear medicine gained public recognition as a potential specialty when on may 11,1946  an article in the journal of the american medical association (jama) by massachusetts general hospital's dr. saul hertz and massachusetts institute of technology's dr.arthur roberts, described the successful use of treating graves' disease with radioactive iodine (rai) was published.[7]  additionally,sam seidlin.[8] brought further development in the field describing a successful treatment of a patient with thyroid cancer metastases using radioiodine (i-131). these articles are considered by many historians as the most important article ever published in nuclear medicine.[9] although the earliest use of i-131 was devoted to therapy of thyroid cancer, its use was later expanded to include imaging of the thyroid gland, quantification of the thyroid function, and therapy for hyperthyroidism. among the many radionuclides that were discovered for medical-use, none were as important as the discovery and development of technetium-99m. it was first discovered in 1937 by c. perrier and e. segre as an artificial element to fill space number 43 in the periodic table. the development of a generator system to produce technetium-99m in the 1960s became a practical method for medical use. today, technetium-99m is the most utilized element in nuclear medicine and is employed in a wide variety of nuclear medicine imaging studies.
+widespread clinical use of nuclear medicine began in the early 1950s, as knowledge expanded about radionuclides, detection of radioactivity, and using certain radionuclides to trace biochemical processes. pioneering works by benedict cassen in developing the first rectilinear scanner and hal o. anger's scintillation camera (anger camera) broadened the young discipline of nuclear medicine into a full-fledged medical imaging specialty.
+by the early 1960s, in southern scandinavia, niels a. lassen, david h. ingvar, and erik skinhøj developed techniques that provided the first blood flow maps of the brain, which initially involved xenon-133 inhalation;[10] an intra-arterial equivalent was developed soon after, enabling measurement of the local distribution of cerebral activity for patients with neuropsychiatric disorders such as schizophrenia.[11] later versions would have 254 scintillators so a two-dimensional image could be produced on a color monitor. it allowed them to construct images reflecting brain activation from speaking, reading, visual or auditory perception and voluntary movement.[12] the technique was also used to investigate, e.g., imagined sequential movements, mental calculation and mental spatial navigation.[13][14]
+by the 1970s most organs of the body could be visualized using nuclear medicine procedures. in 1971, american medical association officially recognized nuclear medicine as a medical specialty.[15] in 1972, the american board of nuclear medicine was established, and in 1974, the american osteopathic board of nuclear medicine was established, cementing nuclear medicine as a stand-alone medical specialty.
+in the 1980s, radiopharmaceuticals were designed for use in diagnosis of heart disease. the development of single photon emission computed tomography (spect), around the same time, led to three-dimensional reconstruction of the heart and establishment of the field of nuclear cardiology.
+more recent developments in nuclear medicine include the invention of the first positron emission tomography scanner (pet). the concept of emission and transmission tomography, later developed into single photon emission computed tomography (spect), was introduced by david e. kuhl and roy edwards in the late 1950s.[citation needed] their work led to the design and construction of several tomographic instruments at the university of pennsylvania. tomographic imaging techniques were further developed at the washington university school of medicine. these innovations led to fusion imaging with spect and ct by bruce hasegawa from university of california san francisco (ucsf), and the first pet/ct prototype by d. w. townsend from university of pittsburgh in 1998.[citation needed]
+pet and pet/ct imaging experienced slower growth in its early years owing to the cost of the modality and the requirement for an on-site or nearby cyclotron. however, an administrative decision to approve medical reimbursement of limited pet and pet/ct applications in oncology has led to phenomenal growth and widespread acceptance over the last few years, which also was facilitated by establishing 18f-labelled tracers for standard procedures, allowing work at non-cyclotron-equipped sites. pet/ct imaging is now an integral part of oncology for diagnosis, staging and treatment monitoring. a fully integrated mri/pet scanner is on the market from early 2011.[citation needed]
+
+source of radionuclides, with notes on a few radiopharmaceuticals[edit]
+main article: radiopharmacology
+about a third of the world's supply, and most of europe's supply, of medical isotopes is produced at the petten nuclear reactor in the netherlands. another third of the world's supply, and most of north america's supply, is produced at the chalk river laboratories in chalk river, ontario, canada.  the nru started operating in 1957. the canadian nuclear safety commission ordered the national research universal reactor to be shut down on november 18, 2007 for regularly scheduled maintenance and an upgrade of the safety systems to modern standards. the upgrade took longer than expected, and in december 2007 a critical shortage of medical isotopes occurred. the canadian government passed emergency legislation allowing the reactor to restart on 16 december 2007, and production of medical isotopes to continue.  in mid-february, 2009, the reactor was shut down once again due to a mechanism problem that extracts the isotope containing rods from the reactor.  the reactor was again shut down in mid may of the same year because of a heavy water leak.  the reactor was started again during the first quarter of 2010.  the nru will cease routine production in the fall of 2016, however the reactor will be available for backup production until march 2018, at which point it will be shut down.[16]
+the chalk river reactor is used to irradiate materials with neutrons which are produced in great quantity during the fission of u-235. these neutrons change the nucleus of the irradiated material by adding a neutron, or by splitting it in the process of nuclear fission. in a reactor, one of the fission products of uranium is molybdenum-99 which is extracted and shipped to radiopharmaceutical houses all over north america. the mo-99 radioactively beta decays with a half-life of 2.7 days (or 66 hours), turning initially into tc-99m, which is then extracted (milked) from a "moly cow" (see technetium-99m generator). the tc-99m then further decays, while inside a patient, releasing a gamma photon which is detected by the gamma camera. it decays to its ground state of tc-99, which is relatively non-radioactive compared to tc-99m.
+the most commonly used radioisotope in pet f-18, is not produced in any nuclear reactor, but rather in a circular accelerator called a cyclotron. the cyclotron is used to accelerate protons to bombard the stable heavy isotope of oxygen o-18. the o-18 constitutes about 0.20% of ordinary oxygen (mostly o-16), from which it is extracted. the f-18 is then typically used to make fdg (see this link for more information on this process).
+
+
+common isotopes used in nuclear medicine
+[17][18]
+
+
+isotope
+symbol
+z
+t1/2
+decay
+gamma (kev)
+positron (kev)
+
+
+imaging:
+
+
+fluorine-18
+18f
+9
+109.77 m
+β+
+511 (193%)
+249.8 (97%)[19]
+
+
+gallium-67
+67ga
+31
+3.26 d
+ec
+93 (39%),185 (21%),300 (17%)
+-
+
+
+krypton-81m
+81mkr
+36
+13.1 s
+it
+190 (68%)
+-
+
+
+rubidium-82
+82rb
+37
+1.27 m
+β+
+511 (191%)
+3.379 (95%)
+
+
+nitrogen-13
+13n
+7
+9.97 m
+β+
+511 (200%)
+1190 (100%)[20]
+
+
+technetium-99m
+99mtc
+43
+6.01 h
+it
+140 (89%)
+-
+
+
+indium-111
+111in
+49
+2.80 d
+ec
+171 (90%),245 (94%)
+-
+
+
+iodine-123
+123i
+53
+13.3 h
+ec
+159 (83%)
+-
+
+
+xenon-133
+133xe
+54
+5.24 d
+β−
+81 (31%)
+0.364 (99%)
+
+
+thallium-201
+201tl
+81
+3.04 d
+ec
+69–83* (94%),167 (10%)
+-
+
+
+therapy:
+
+
+yttrium-90
+90y
+39
+2.67 d
+β−
+-
+2.280 (100%)
+
+
+iodine-131
+131i
+53
+8.02 d
+β−
+364 (81%)
+0.807 (100%)
+
+
+
+z = atomic number, the number of protons; t1/2 = half-life; decay = mode of decay
+photons = principle photon energies in kilo-electron volts, kev, (abundance/decay)
+β = beta maximum energy in mega-electron volts, mev, (abundance/decay)
+β+ = β+ decay; β− = β− decay; it = isomeric transition; ec = electron capture
+* x-rays from progeny, mercury, hg
+
+
+a typical nuclear medicine study involves administration of a radionuclide into the body by intravenous injection in liquid or aggregate form, ingestion while combined with food, inhalation as a gas or aerosol, or rarely, injection of a radionuclide that has undergone micro-encapsulation. some studies require the labeling of a patient's own blood cells with a radionuclide (leukocyte scintigraphy and red blood cell scintigraphy). most diagnostic radionuclides emit gamma rays, while the cell-damaging properties of beta particles are used in therapeutic applications. refined radionuclides for use in nuclear medicine are derived from fission or fusion processes in nuclear reactors, which produce radionuclides with longer half-lives, or cyclotrons, which produce radionuclides with shorter half-lives, or take advantage of natural decay processes in dedicated generators, i.e. molybdenum/technetium or strontium/rubidium.
+the most commonly used intravenous radionuclides are technetium-99m (technetium-99m), 
+iodine-123 and 131, 
+thallium-201, 
+gallium-67, fluorine-18 fluorodeoxyglucose, and indium-111 labeled leukocytes
+the most commonly used gaseous/aerosol radionuclides are xenon-133, krypton-81m, technetium-99m [21] and technetium-99m dtpa
+
+radiation dose[edit]
+a patient undergoing a nuclear medicine procedure will receive a radiation dose. under present international guidelines it is assumed that any radiation dose, however small, presents a risk. the radiation dose delivered to a patient in a nuclear medicine investigation, though unproven, is generally accepted to present a very small risk of inducing cancer. in this respect it is similar to the risk from x-ray investigations except that the dose is delivered internally rather than from an external source such as an x-ray machine, and dosage amounts are typically significantly higher than those of x-rays.
+the radiation dose from a nuclear medicine investigation is expressed as an effective dose with units of sieverts (usually given in millisieverts, msv). the effective dose resulting from an investigation is influenced by the amount of radioactivity administered in megabecquerels (mbq), the physical properties of the radiopharmaceutical used, its distribution in the body and its rate of clearance from the body.
+effective doses can range from 6 μsv (0.006 msv) for a 3 mbq chromium-51 edta measurement of glomerular filtration rate to 37 msv (37,000 μsv) for a 150 mbq thallium-201 non-specific tumour imaging procedure. the common bone scan with 600 mbq of technetium-99m-mdp has an effective dose of approximately 3.5 msv (3,500 μsv) (1).
+formerly, units of measurement were the curie (ci), being 3.7e10 bq, and also 1.0 grams of radium (ra-226); the rad (radiation absorbed dose), now replaced by the gray; and the rem (röntgen equivalent man), now replaced with the sievert. the rad and rem are essentially equivalent for almost all nuclear medicine procedures, and only alpha radiation will produce a higher rem or sv value, due to its much higher relative biological effectiveness (rbe). alpha emitters are nowadays rarely used in nuclear medicine, but were used extensively before the advent of nuclear reactor and accelerator produced radionuclides. the concepts involved in radiation exposure to humans are covered by the field of health physics; the development and practice of safe and effective nuclear medicinal techniques is a key focus of medical physics.
+
+see also[edit]
+human subject research
+list of nuclear medicine societies
+nuclear medicine physician
+radiographer
+references[edit]
+
+
+^ "nuclear medicine". retrieved 20 august 2015..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ scintigraphy citing: dorland's medical dictionary for health consumers, 2007 by saunders; saunders comprehensive veterinary dictionary, 3 ed. 2007; mcgraw-hill concise dictionary of modern medicine, 2002 by the mcgraw-hill companies
+
+^ "nuclear wallet cards". retrieved 20 august 2015.
+
+^ a b edwards cl: tumor localizing radionuclides in retrospect and prospect. semin nucl med 3:186–189, 1979.
+
+^ donner laboratory: the birthplace of. nuclear medicine
+
+^ important moments in the history of nuclear medicine
+
+^ hertz s,roberts a 1946 radioactive iodine in the study of thyroid physiology. vii the use of radioactive iodine therapy in hyperthyroidism.jama 131:81-86
+
+^ seidlin, s. m., l. d. marinelli, and eleanor oshry. "radioactive iodine therapy: effect on functioning metastases of adenocarcinoma of the thyroid." journal of the american medical association 132.14 (1946): 838-847.
+
+^ henkin r. et al: nuclear medicine. first edition 1996. isbn 978-0-8016-7701-4.
+
+^ ingvar, david h.; lassen, niels a. (1961). "quantitative determination of regional cerebral blood-flow in man". the lancet. 278 (7206): 806–807. doi:10.1016/s0140-6736(61)91092-3.
+
+^ ingvar, david h.; franzén, göran (1974). "distribution of cerebral activity in chronic schizophrenia". the lancet. 304 (7895): 1484–1486. doi:10.1016/s0140-6736(74)90221-9.
+
+^ lassen, niels a.; ingvar, david h.; skinhøj, erik (october 1978). "brain function and blood flow" (pdf). scientific american. 239 (4): 62–71. doi:10.1038/scientificamerican1078-62.
+
+^ roland, per e.; larsen, b.; lassen, niels a.; skinhøj, erik (1980). "supplementary motor area and other cortical areas in organization of voluntary movements in man". journal of neurophysiology. 43 (1): 118–136.
+
+^ roland, per e.; friberg, lars (1985). "localization of cortical areas activated by thinking". journal of neurophysiology. 53 (5). pp. 1219–1243.
+
+^ "what is nuclear medicine" (pdf). society of nuclear medicine.
+
+^ "news". retrieved 20 august 2015.
+
+^ eckerman kf, endo a: mird: radionuclide data and decay schemes. society for nuclear medicine, 2008. isbn 978-0-932004-80-2
+
+^ table of radioactive isotopes archived 2004-12-04 at the wayback machine
+
+^ "sodium fluoride f 18 injection". retrieved 20 august 2015.
+
+^ "ammonia n-13". retrieved 20 august 2015.
+
+^ technegas a radioaerosol invented in australia by dr bill burch and dr richard fawdry
+
+
+further reading[edit]
+mas jc: a patient's guide to nuclear medicine procedures: english-spanish. society of nuclear medicine, 2008. isbn 978-0-9726478-9-2
+taylor a, schuster dm, naomi alazraki n: a clinicians' guide to nuclear medicine, 2nd edition. society of nuclear medicine, 2000. isbn 978-0-932004-72-7
+mark j. shumate mj, kooby da, alazraki np: a clinician's guide to nuclear oncology: practical molecular imaging and radionuclide therapies. society of nuclear medicine, january 2007. isbn 978-0-9726478-8-5
+ell p, gambhir s: nuclear medicine in clinical diagnosis and treatment. churchill livingstone, 2004. (1950 pages) isbn 978-0-443-07312-0
+practical spect/ct in nuclear medicine - jones / hogg / seeram - release date: 31 mar 2013 | isbn 978-1447147022 | edition: 2013
+external links[edit]
+
+
+
+wikimedia commons has media related to nuclear medicine.
+
+
+
+wikibooks has a book on the topic of: basic physics of nuclear medicine
+
+
+
+wikinews has related news:
+canada pursues new nuclear research reactor to produce medical isotopes
+canadian nuclear reactor shutdown causes worldwide medical isotope shortage
+nuclear medicine at curlie
+solving the medical isotope crisis hearing before the subcommittee on energy and environment of the committee on energy and commerce, house of representatives, one hundred eleventh congress, first session, september 9, 2009
+library resources about  nuclear medicine 
+resources in your library
+
+vtemedicinespecialtiesandsubspecialtiessurgery
+cardiac surgery
+cardiothoracic surgery
+colorectal surgery
+eye surgery
+general surgery
+neurosurgery
+oral and maxillofacial surgery
+orthopedic surgery
+hand surgery
+otolaryngology (ent)
+pediatric surgery
+plastic surgery
+reproductive surgery
+surgical oncology
+thoracic surgery
+transplant surgery
+trauma surgery
+urology (andrology)
+vascular surgery
+internal medicine
+allergy / immunology
+angiology
+cardiology
+endocrinology
+gastroenterology (hepatology)
+geriatrics
+hematology
+hospital medicine
+infectious disease
+nephrology
+oncology
+pulmonology
+rheumatology
+obstetrics and gynaecology
+gynaecology
+gynecologic oncology
+maternal–fetal medicine
+obstetrics
+reproductive endocrinology and infertility
+urogynecology
+diagnostic
+radiology (interventional radiology
+nuclear medicine)
+pathology (anatomical pathology
+clinical pathology
+clinical chemistry
+clinical immunology
+cytopathology
+medical microbiology
+transfusion medicine)
+other specialties
+addiction medicine
+adolescent medicine
+anesthesiology
+dermatology
+disaster medicine
+diving medicine
+emergency medicine (mass-gathering medicine)
+family medicine
+general practice
+hospital medicine
+intensive-care medicine
+medical genetics
+neurology (clinical neurophysiology)
+occupational medicine
+ophthalmology
+oral medicine
+pain management
+palliative care
+pediatrics (neonatology)
+physical medicine and rehabilitation (pm&r)
+preventive medicine
+psychiatry
+radiation oncology
+reproductive medicine
+sexual medicine
+sleep medicine
+sports medicine
+transplantation medicine
+tropical medicine (travel medicine)
+venereology
+medical education
+medical school
+bachelor of medicine, bachelor of surgery
+bachelor of medical sciences
+master of medicine
+master of surgery
+doctor of medicine
+doctor of osteopathic medicine
+md–phd
+related topics
+alternative medicine
+allied health (dentistry
+podiatry
+physiotherapy)
+molecular oncology
+nanomedicine
+personalized medicine
+public health
+traditional medicine
+veterinary medicine
+physician (chief physician)
+history of medicine
+
+ book
+ category
+ commons
+ wikiproject
+ medicine portal
+ outline
+
+vtenuclear technologyscience
+chemistry
+engineering
+physics
+atomic nucleus
+fission
+fusion
+radiation
+ionizing
+braking
+fuel
+tritium
+deuterium
+helium-3
+fertile material
+fissile material
+isotope separation
+nuclear material
+uranium
+enriched
+depleted
+plutonium
+thorium
+neutron
+activation
+capture
+poison
+cross section
+generator
+radiation
+reflector
+temperature
+thermal
+fast
+fusion
+power
+by country
+power plant
+economics
+multi-mission radioisotope thermoelectric generator
+accidents and incidents
+policy
+fusion
+radioisotope thermoelectric (rtg)
+propulsion
+rocket
+safety and security
+medicineimaging
+radball
+scintigraphy
+single-photon emission (spect)
+positron-emission tomography (pet)
+therapy
+fast-neutron
+neutron capture therapy of cancer
+targeted alpha-particle
+proton-beam
+tomotherapy
+brachytherapy
+radiation therapy
+radiosurgery
+radiopharmacology
+weaponstopics
+arms race
+delivery
+design
+disarmament
+ethics
+explosion
+effects
+history
+proliferation
+testing
+high-altitude
+underground
+warfare
+yield
+tnte
+lists
+estimated death tolls from attacks
+states with nuclear weapons
+tests
+united states
+wmd treaties
+weapon-free zones
+weapons
+wasteproducts
+actinide
+reprocessed uranium
+reactor-grade plutonium
+minor actinide
+activation
+fission
+llfp
+actinide chemistry
+disposal
+fuel cycle
+high-level (hlw)
+low-level (llw)
+repository
+reprocessing
+spent fuel
+pool
+cask
+transmutation
+debate
+nuclear power
+nuclear weapons
+blue ribbon commission on america's nuclear future
+anti-nuclear movement
+uranium mining
+nuclear power phase-out
+nuclear reactorsfissionmoderatorlight water
+aqueous homogeneous
+boiling
+bwr
+abwr
+esbwr
+kerena
+pressurized
+ap1000
+apr-1400
+apr+
+apwr
+atmea1
+cap1400
+cpr-1000
+epr
+hpr-1000
+acpr1000
+acp1000
+vver
+many others
+supercritical (scwr)
+natural fission
+heavy waterd2o
+pressurized
+candu
+candu 6
+candu 9
+ec6
+afcr
+acr-1000
+ahwr
+cvtr
+iphwr-x
+phwr kwu
+mzfr
+r3
+r4 marviken
+h2o
+hwlwr
+atr
+hw blwr 250
+steam-generating (sghwr)
+organic
+wr-1
+co2
+hwgcr
+el-4
+ks 150
+kkn
+graphite .mw-parser-output .nobold{font-weight:normal}by coolantwaterh2o
+am-1
+amb-x
+egp-6
+rbmk
+gasco2
+uranium naturel graphite gaz (ungg)
+magnox
+advanced gas-cooled (agr)
+he
+gtmhr
+mhr-t
+uhtrex
+vhtr (htgr)
+pbr (pbmr)
+avr
+htr-10
+htr-pm
+thtr-300
+pmr
+molten-saltfluorides
+fuji msr
+liquid-fluoride thorium reactor (lftr)
+molten-salt reactor experiment (msre)
+integral molten salt reactor (imsr)
+thorcon
+none(fast-neutron)
+breeder (fbr)
+integral (ifr)
+liquid-metal-cooled (lmfr)
+small sealed transportable autonomous (sstar)
+traveling-wave (twr)
+energy multiplier module (em2)
+reduced-moderation (rmwr)
+fast breeder test reactor (fbtr)
+dual fluid reactor (dfr)
+generation iv
+sodium (sfr)
+bn-350
+bn-600
+bn-800
+bn-1200
+cfr-600
+phénix
+superphénix
+pfbr
+cefr
+pfr
+prism
+lead (lfr)
+helium gas (gfr)
+others
+organically moderated and cooled reactor
+arbus
+piqua
+aircraft reactor experiment
+
+fusionby confinementmagnetic
+field-reversed configuration
+levitated dipole
+reversed field pinch
+spheromak
+stellarator
+tokamak
+inertial
+bubble (acoustic)
+fusor
+electrostatic
+laser-driven
+magnetized-target
+z-pinch
+other
+dense plasma focus
+migma
+muon-catalyzed
+polywell
+pyroelectric
+
+ category
+portal
+ commons
+
+nuclear technology portalmedicine portal
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=nuclear_medicine&oldid=883212154"					
+categories: radiologynuclear medicinemedicinal radiochemistryhidden categories: webarchive template wayback linksall articles with unsourced statementsarticles with unsourced statements from october 2013articles with unsourced statements from march 2010commons category link is on wikidataarticles with curlie links 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+afrikaansالعربيةбеларускаябългарскиcatalàčeštinadanskdeutscheestiελληνικάespañoleuskaraفارسیfrançais한국어हिन्दीhrvatskiidobahasa indonesiainterlinguaitalianoעבריתಕನ್ನಡnederlandsnorskpolskiportuguêsromânăрусскийshqipslovenčinaсрпски / srpskisvenskaதமிழ்türkçeукраїнська中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 13 february 2019, at 23:57 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.684","walltime":"0.940","ppvisitednodes":{"value":4097,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":222296,"limit":2097152},"templateargumentsize":{"value":8297,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":58774,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  728.313      1 -total"," 29.95%  218.129      1 template:reflist"," 18.01%  131.195     18 template:navbox"," 13.79%  100.440      1 template:infobox_interventions"," 12.59%   91.724      1 template:infobox"," 12.50%   91.054      6 template:cite_web"," 12.09%   88.073      4 template:citation_needed"," 11.03%   80.315      1 template:nuclear_technology"," 10.60%   77.213      4 template:fix"," 10.48%   76.339      1 template:navbox_with_collapsible_groups"]},"scribunto":{"limitreport-timeusage":{"value":"0.282","limit":"10.000"},"limitreport-memusage":{"value":7431075,"limit":52428800}},"cachereport":{"origin":"mw1348","timestamp":"20190214235208","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"nuclear medicine","url":"https:\/\/en.wikipedia.org\/wiki\/nuclear_medicine","sameas":"http:\/\/www.wikidata.org\/entity\/q214963","mainentity":"http:\/\/www.wikidata.org\/entity\/q214963","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2003-10-23t12:48:22z","datemodified":"2019-02-13t23:57:36z","headline":"medical specialty"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":112,"wghostname":"mw1332"});});
+
+

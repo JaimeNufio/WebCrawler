@@ -1,0 +1,985 @@
+
+
+
+
+bronze age - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"bronze_age","wgtitle":"bronze age","wgcurrevisionid":883321634,"wgrevisionid":883321634,"wgarticleid":4620,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["pages using timeline","pages with citations lacking titles","pages with citations having bare urls","all articles with dead external links","articles with dead external links from august 2012","articles with short description","all articles with unsourced statements","articles with unsourced statements from november 2016","articles with unsourced statements from april 2014","commons category link from wikidata","wikipedia articles incorporating a citation from the 1911 encyclopaedia britannica with wikisource reference","cs1 russian-language sources (ru)","wikipedia articles with gnd identifiers","wikipedia articles with hds identifiers","wikipedia articles with ndl identifiers","articles which contain graphical timelines","bronze age","historical eras"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"bronze_age","wgrelevantarticleid":4620,"wgrequestid":"xgx-xwpaic4aaenn5y4aaabb","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q11761","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.timeline.styles":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+bronze age 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+prehistoric period and age studied in archaeology, part of the holocene epoch
+for other uses, see bronze age (disambiguation).
+ diffusion of metallurgy in europe and asia minor – the darkest areas are the oldest.
+
+bronze age vte
+↑ chalcolithic
+
+near east (c. 3300–1200 bc)
+anatolia, caucasus, elam, egypt, levant, mesopotamia, sistan, canaan
+late bronze age collapse
+indian subcontinent (c. 3300–1200 bc)
+indus valley civilization
+bronze age india
+ochre coloured pottery
+cemetery h
+europe (c. 3200–600 bc)
+aegean (cycladic, minoan, mycenaean), caucasus, catacomb culture, srubna culture, beaker culture, apennine culture, terramare culture, unetice culture, tumulus culture, urnfield culture, proto-villanovan culture, hallstatt culture, , canegrate culture, golasecca culture,
+atlantic bronze age, bronze age britain, nordic bronze age
+east asia (c. 2000–300 bc)
+erlitou, erligang, gojoseon, jomon, majiayao, mumun, qijia, siwa, wucheng, xindian, yueshi
+
+arsenical bronzewritingliteratureswordchariot
+
+↓iron age
+
+the bronze age is a historical period characterized by the use of bronze, and in some areas proto-writing, and other early features of urban civilization. the bronze age is the second principal period of the three-age stone-bronze-iron system, as proposed in modern times by christian jürgensen thomsen, for classifying and studying ancient societies.
+an ancient civilization is defined to be in the bronze age either by producing bronze by smelting its own copper and alloying with tin, arsenic, or other metals, or by trading for bronze from production areas elsewhere. bronze itself is harder and more durable than other metals available at the time, allowing bronze age civilizations to gain a technological advantage.
+copper-tin ores are rare, as reflected in the fact that there were no tin bronzes in western asia before trading in bronze began in the third millennium bc. worldwide, the bronze age generally followed the neolithic period, with the chalcolithic serving as a transition. although the iron age generally followed the bronze age, in some areas (such as sub-saharan africa), the iron age intruded directly on the neolithic.[1]
+bronze age cultures differed in their development of the first writing. according to archaeological evidence, cultures in mesopotamia (cuneiform script) and egypt (hieroglyphs) developed the earliest viable writing systems.
+
+.mw-parser-output .toclimit-2 .toclevel-1 ul,.mw-parser-output .toclimit-3 .toclevel-2 ul,.mw-parser-output .toclimit-4 .toclevel-3 ul,.mw-parser-output .toclimit-5 .toclevel-4 ul,.mw-parser-output .toclimit-6 .toclevel-5 ul,.mw-parser-output .toclimit-7 .toclevel-6 ul{display:none}contents
+
+1 history
+
+1.1 near east
+
+1.1.1 anatolia
+1.1.2 egypt
+
+1.1.2.1 early bronze dynasties
+1.1.2.2 middle bronze dynasties
+1.1.2.3 late bronze dynasties
+
+
+1.1.3 iranian plateau
+1.1.4 levant
+1.1.5 mesopotamia
+
+
+1.2 asia
+
+1.2.1 central asia
+
+1.2.1.1 seima-turbino phenomenon
+
+
+1.2.2 east asia
+
+1.2.2.1 china
+1.2.2.2 korea
+1.2.2.3 japan
+
+
+1.2.3 south asia
+
+1.2.3.1 indus valley
+
+
+1.2.4 southeast asia
+
+1.2.4.1 vietnam
+
+
+
+
+1.3 europe
+
+1.3.1 balkans
+1.3.2 aegean
+
+1.3.2.1 aegean collapse
+
+
+1.3.3 central europe
+1.3.4 south europe
+1.3.5 west europe
+
+1.3.5.1 atlantic bronze age
+1.3.5.2 great britain
+1.3.5.3 ireland
+
+
+1.3.6 north europe
+1.3.7 caucasus
+1.3.8 pontic–caspian steppe
+
+
+1.4 africa
+
+1.4.1 sub-saharan africa
+
+1.4.1.1 nubia
+
+
+1.4.2 west africa
+
+
+1.5 americas
+
+
+2 trade
+3 see also
+
+3.1 seafaring
+
+
+4 notes
+5 references
+6 further reading
+7 external links
+
+
+
+history[edit]
+the overall period is characterized by widespread use of bronze, though the place and time of the introduction and development of bronze technology were not universally synchronous.[2] human-made tin bronze technology requires set production techniques. tin must be mined (mainly as the tin ore cassiterite) and smelted separately, then added to molten copper to make bronze alloy. the bronze age was a time of extensive use of metals and of developing trade networks (see tin sources and trade in ancient times). a 2013 report suggests that the earliest tin-alloy bronze dates to the mid-5th millennium bc in a vinča culture site in pločnik (serbia), although this culture is not conventionally considered part of the bronze age.[3] the dating of the foil has been disputed.[4][5]
+
+near east[edit]
+main article: ancient near east
+western asia and the near east was the first region to enter the bronze age, which began with the rise of the mesopotamian civilization of sumer in the mid 4th millennium bc. cultures in the ancient near east (often called one of "the cradles of civilization") practiced intensive year-round agriculture, developed a writing system, invented the potter's wheel, created a centralized government, written law codes, city and nation states and empires, embarked on advanced architectural projects, introduced social stratification, economic and civil administration, slavery, and practiced organized warfare, medicine and religion. societies in the region laid the foundations for astronomy, mathematics and astrology.
+
+
+dates are approximate, consult particular article for details
+
+main article: ancient near east § periodization
+the ancient near east bronze age can be divided as following:
+
+
+
+
+
+near east bronze age divisions
+
+
+
+
+the archetypal bronze age divisions of the near east have a well-established triadic clearness of expression. the period dates and phases below are solely applicable to the near east and thus not applicable universally.[6][7][8]
+
+early bronze age (eba)
+3300–2100 bc
+
+3300–3000: eba i
+3000–2700: eba ii
+2700–2200: eba iii
+2200–2100: eba iv
+middle bronze age (mba)
+also, intermediate bronze age (iba)
+2100–1550 bc
+
+2100–2000: mba i
+2000–1750: mba ii a
+1750–1650: mba ii b
+1650–1550: mba ii c
+late bronze age (lba)
+1550–1200 bc
+
+1550–1400: lba i
+1400–1300: lba ii a
+1300–1200: lba ii b (bronze age collapse)
+
+
+anatolia[edit]
+main article: bronze age anatolia
+the hittite empire was established in hattusa in northern anatolia from the 18th century bc. in the 14th century bc, the hittite kingdom was at its height, encompassing central anatolia, southwestern syria as far as ugarit, and upper mesopotamia. after 1180 bc, amid general turmoil in the levant conjectured to have been associated with the sudden arrival of the sea peoples,[9][10] the kingdom disintegrated into several independent "neo-hittite" city-states, some of which survived until as late as the 8th century bc.
+arzawa in western anatolia during the second half of the second millennium bc likely extended along southern anatolia in a belt that reaches from near the turkish lakes region to the aegean coast. arzawa was the western neighbor – sometimes a rival and sometimes a vassal – of the middle and new hittite kingdoms.
+the assuwa league was a confederation of states in western anatolia that was defeated by the hittites under an earlier tudhaliya i, around 1400 bc. arzawa has been associated with the much more obscure assuwa generally located to its north. it probably bordered it, and may even be an alternative term for it (at least during some periods).
+
+egypt[edit]
+main article: ancient egypt
+early bronze dynasties[edit]
+ bronze mirror with a female human figure at the base, eighteenth dynasty of egypt (1540–1296 bc)
+ sphinx-lion of thutmose iii 1479–1425 bc
+in ancient egypt the bronze age begins in the protodynastic period, c. 3150 bc. the archaic early bronze age of egypt, known as the early dynastic period of egypt,[11][12] immediately follows the unification of lower and upper egypt, c. 3100 bc. it is generally taken to include the first and second dynasties, lasting from the protodynastic period of egypt until about 2686 bc, or the beginning of the old kingdom. with the first dynasty, the capital moved from abydos to memphis with a unified egypt ruled by an egyptian god-king. abydos remained the major holy land in the south. the hallmarks of ancient egyptian civilization, such as art, architecture and many aspects of religion, took shape during the early dynastic period. memphis in the early bronze age was the largest city of the time.
+the old kingdom of the regional bronze age[11] is the name given to the period in the 3rd millennium bc when egypt attained its first continuous peak of civilization in complexity and achievement – the first of three "kingdom" periods, which mark the high points of civilization in the lower nile valley (the others being middle kingdom and the new kingdom).
+the first intermediate period of egypt,[13] often described as a "dark period" in ancient egyptian history, spanned about 100 years after the end of the old kingdom from about 2181 to 2055 bc. very little monumental evidence survives from this period, especially from the early part of it. the first intermediate period was a dynamic time when the rule of egypt was roughly divided between two competing power bases: heracleopolis in lower egypt and thebes in upper egypt. these two kingdoms would eventually come into conflict, with the theban kings conquering the north, resulting in the reunification of egypt under a single ruler during the second part of the 11th dynasty.
+
+middle bronze dynasties[edit]
+the middle kingdom of egypt lasted from 2055 to 1650 bc. during this period, the osiris funerary cult rose to dominate egyptian popular religion. the period comprises two phases: the 11th dynasty, which ruled from thebes and the 12th[14] and 13th dynasties centered on el-lisht. the unified kingdom was previously considered to comprise the 11th and 12th dynasties, but historians now at least partially consider the 13th dynasty to belong to the middle kingdom.
+during the second intermediate period,[15] ancient egypt fell into disarray for a second time, between the end of the middle kingdom and the start of the new kingdom. it is best known for the hyksos, whose reign comprised the 15th and 16th dynasties. the hyksos first appeared in egypt during the 11th dynasty, began their climb to power in the 13th dynasty, and emerged from the second intermediate period in control of avaris and the delta. by the 15th dynasty, they ruled lower egypt, and they were expelled at the end of the 17th dynasty.
+
+late bronze dynasties[edit]
+the new kingdom of egypt, also referred to as the egyptian empire, lasted from the 16th to the 11th century bc. the new kingdom followed the second intermediate period and was succeeded by the third intermediate period. it was egypt's most prosperous time and marked the peak of egypt's power. the later new kingdom, i.e. the 19th and 20th dynasties (1292–1069 bc), is also known as the ramesside period, after the eleven pharaohs that took the name of ramesses.
+
+iranian plateau[edit]
+ late 3rd millennium bc silver cup from marvdasht, fars, with linear-elamite inscription.
+further information: iranian plateau
+elam was a pre-iranic ancient civilization located to the east of mesopotamia. in the old elamite period (middle bronze age), elam consisted of kingdoms on the iranian plateau, centered in anshan, and from the mid-2nd millennium bc, it was centered in susa in the khuzestan lowlands. its culture played a crucial role in the gutian empire and especially during the iranic achaemenid dynasty that succeeded it.
+the oxus civilization[16] was a bronze age central asian culture dated to c. 2300–1700 bc and centered on the upper amu darya (oxus). in the early bronze age the culture of the kopet dag oases and altyndepe developed a proto-urban society. this corresponds to level iv at namazga-tepe. altyndepe was a major centre even then. pottery was wheel-turned. grapes were grown. the height of this urban development was reached in the middle bronze age c. 2300 bc, corresponding to level v at namazga-depe.[17] this bronze age culture is called the bactria–margiana archaeological complex (bmac).
+the kulli culture,[18][19] similar to those of the indus valley civilisation, was located in southern balochistan (gedrosia) c. 2500–2000 bc. agriculture was the economical base of this people. at several places dams were found, providing evidence for a highly developed water management system.
+
+ master of animals in chlorite, jiroft culture, c. 2500 bc, bronze age i, national museum of iran
+konar sandal is associated with the hypothesized "jiroft culture", a 3rd-millennium-bc culture postulated on the basis of a collection of artifacts confiscated in 2001.
+
+levant[edit]
+ chalcolithic copper mine in timna valley, negev desert, israel
+main article: bronze age levantfurther information: canaan, prehistory of the levant, and list of archaeological periods (levant)
+in modern scholarship the chronology of the bronze age levant is divided into early/proto syrian; corresponding to the early bronze. old syrian; corresponding to the middle bronze. middle syrian; corresponding to the late bronze. the term neo-syria is used to designate the early iron age.[20]
+the old syrian period was dominated by the eblaite first kingdom, nagar and the mariote second kingdom. the akkadian conquered large areas of the levant and were followed by the amorite kingdoms, c. 2000–1600 bc, which arose in mari, yamhad, qatna, assyria.[21] from the 15th century bc onward, the term amurru is usually applied to the region extending north of canaan as far as kadesh on the orontes river.
+the earliest known ugarit contact with egypt (and the first exact dating of ugaritic civilization) comes from a carnelian bead identified with the middle kingdom pharaoh senusret i, 1971–1926 bc. a stela and a statuette from the egyptian pharaohs senusret iii and amenemhet iii have also been found. however, it is unclear at what time these monuments got to ugarit. in the amarna letters, messages from ugarit c. 1350 bc written by ammittamru i, niqmaddu ii, and his queen, were discovered. from the 16th to the 13th century bc, ugarit remained in constant touch with egypt and cyprus (named alashiya).
+the mitanni was a loosely organized state in northern syria and south-east anatolia from c. 1500–1300 bc. founded by an indo-aryan ruling class that governed a predominantly hurrian population, mitanni came to be a regional power after the hittite destruction of kassite babylon created a power vacuum in mesopotamia. at its beginning, mitanni's major rival was egypt under the thutmosids. however, with the ascent of the hittite empire, mitanni and egypt made an alliance to protect their mutual interests from the threat of hittite domination. at the height of its power, during the 14th century bc, it had outposts centered on its capital, washukanni, which archaeologists have located on the headwaters of the khabur river. eventually, mitanni succumbed to hittite, and later assyrian attacks, and was reduced to a province of the middle assyrian empire.
+the israelites were an ancient semitic-speaking people of the ancient near east who inhabited part of canaan during the tribal and monarchic periods (15th to 6th centuries bc),[22][23][24][25][26] and lived in the region in smaller numbers after the fall of the monarchy. the name "israel" first appears c. 1209 bc, at the end of the late bronze age and the very beginning of the iron age, on the merneptah stele raised by the egyptian pharaoh merneptah.
+the arameans were a northwest semitic semi-nomadic and pastoralist people who originated in what is now modern syria (biblical aram) during the late bronze age and the early iron age. large groups migrated to mesopotamia, where they intermingled with the native akkadian (assyrian and babylonian) population. the aramaeans never had a unified empire; they were divided into independent kingdoms all across the near east. after the bronze age collapse, their political influence was confined to a number of syro-hittite states, which were entirely absorbed into the neo-assyrian empire by the 8th century bc.
+
+mesopotamia[edit]
+main article: ancient mesopotamia
+in mesopotamia, the mesopotamian bronze age began about 3500 bc and ended with the kassite period (c. 1500 bc – c. 1155 bc). the usual tripartite division into an early, middle and late bronze age is not used. instead, a division primarily based on art-historical and historical characteristics is more common.
+the cities of the ancient near east housed several tens of thousands of people. ur, kish, isin, larsa and nippur in the middle bronze age and babylon, calah and assur in the late bronze age similarly had large populations. the akkadian empire (2335–2154 bc) became the dominant power in the region, and after its fall the sumerians enjoyed a renaissance with the neo-sumerian empire. assyria was extant from as early as the 25th century bc, and became a regional power with the old assyrian empire (c. 2025–1750 bc). the earliest mention of babylon (then a small administrative town) appears on a tablet from the reign of sargon of akkad in the 23rd century bc. the amorite dynasty established the city-state of babylon in the 19th century bc. over 100 years later, it briefly took over the other city-states and formed the short lived first babylonian empire during what is also called the old babylonian period. akkad, assyria and babylonia all used the written east semitic akkadian language for official use and as a spoken language. by that time, the sumerian language was no longer spoken, but was still in religious use in assyria and babylonia, and would remain so until the 1st century ad. the akkadian and sumerian traditions played a major role in later assyrian and babylonian culture, even though babylonia (unlike the more militarily powerful assyria) itself was founded by non-native amorites and often ruled by other non-indigenous peoples, such as kassites, arameans and chaldeans, as well as its assyrian neighbours.
+
+asia[edit]
+central asia[edit]
+seima-turbino phenomenon[edit]
+main article: seima-turbino phenomenon
+the altai mountains in what is now southern russia and central mongolia have been identified as the point of origin of a cultural enigma termed the seima-turbino phenomenon.[27] it is conjectured that changes in climate in this region around 2000 bc and the ensuing ecological, economic and political changes triggered a rapid and massive migration westward into northeast europe, eastward into china and southward into vietnam and thailand
+[28] across a frontier of some 4,000 miles.[27] this migration took place in just five to six generations and led to peoples from finland in the west to thailand in the east employing the same metal working technology and, in some areas, horse breeding and riding.[27] it is further conjectured that the same migrations spread the uralic group of languages across europe and asia: some 39 languages of this group are still extant, including hungarian, finnish and estonian.[27]
+however, recent genetic testings of sites in south siberia and kazakhstan (andronovo horizon) would rather support a spreading of the bronze technology via indo-european migrations eastwards, as this technology was well known for quite a while in western regions.[29][30]
+
+east asia[edit]
+china[edit]
+ a shang dynasty two-handled bronze gefuding gui (1600–1046 bc)
+ spring and autumn period pu bronze vessel with interlaced dragon design (722–481 bc)
+further information: prehistoric china, erlitou culture, shang dynasty, liaoning bronze dagger culture, and list of bronze age sites in china
+in china, the earliest bronze artifacts have been found in the majiayao culture site (between 3100 and 2700 bc),[31][32]
+the term "bronze age" has been transferred to the archaeology of china from that of western eurasia, and there is no consensus or universally used convention delimiting the "bronze age" in the context of chinese prehistory.[33]
+by convention, the "early bronze age" in china is sometimes taken as equivalent to the  "shang dynasty" period of chinese prehistory (16th to 11th centuries bc),[34] and the "later bronze age" as equivalent to the "zhou dynasty" period (11th to 3rd centuries bc, from the 5th century also dubbed "iron age"), although there is an argument to be made that the "bronze age" proper never ended in china, as there is no recognizable transition to an "iron age".[35] significantly, together with the jade art that precedes it, bronze was seen as a "fine" material for ritual art when compared with iron or stone, stone only becoming popular for tombs in the han on probable indian influence (replacing wooden temple in that instance).[36]
+bronze metallurgy in china originated in what is referred to as the erlitou (wade–giles: erh-li-t'ou) period, which some historians argue places it within the range of dates controlled by the shang dynasty.[37] others believe the erlitou sites belong to the preceding xia (wade–giles: hsia) dynasty.[38] the u.s. national gallery of art defines the chinese bronze age as the "period between about 2000 bc and 771 bc," a period that begins with the erlitou culture and ends abruptly with the disintegration of western zhou rule.[39]
+the widespread use of bronze in chinese metallurgy and culture dates to significantly later, probably due to western influence. while there may be reason to believe that bronzework developed inside china separately from outside influence,[40] the discovery of europoid mummies in xinjiang suggests a possible route of transmission from the west beginning in the early second millennium bc,[41] however, this is still just speculation since it's lack of direct evidences, few human mummies alone cannot provide sufficient explanation of metallurgy transmission, the oldest bronze objects found in china so far were discoverd at majiayao site in gansu rather than xinjiang[42]
+the shang dynasty (also known as the yin dynasty)[43] of the yellow river valley rose to power after the xia dynasty around 1600 bc. while some direct information about the shang dynasty comes from shang-era inscriptions on bronze artifacts, most comes from oracle bones – turtle shells, cattle scapulae, or other bones – which bear glyphs that form the first significant corpus of recorded chinese characters.
+iron is found from the zhou dynasty, but its use is minimal. chinese literature dating to the 6th century bc attests knowledge of iron smelting, yet bronze continues to occupy the seat of significance in the archaeological and historical record for some time after this.[44] historian w.c. white argues that iron did not supplant bronze "at any period before the end of the zhou dynasty (256 bc)" and that bronze vessels make up the majority of metal vessels all the way through the later han period, or to 221 bc [sic?].[45]
+the chinese bronze artifacts generally are either utilitarian, like spear points or adze heads, or "ritual bronzes", which are more elaborate versions in precious materials of everyday vessels, as well as tools and weapons. examples are the numerous large sacrificial tripods known as dings in chinese; there are many other distinct shapes. surviving identified chinese ritual bronzes tend to be highly decorated, often with the taotie motif, which involves highly stylized animal faces. these appear in three main motif types: those of demons, of symbolic animals, and of abstract symbols.[46] many large bronzes also bear cast inscriptions that are the great bulk of the surviving body of early chinese writing and have helped historians and archaeologists piece together the history of china, especially during the zhou dynasty (1046–256 bc).
+the bronzes of the western zhou dynasty document large portions of history not found in the extant texts that were often composed by persons of varying rank and possibly even social class. further, the medium of cast bronze lends the record they preserve a permanence not enjoyed by manuscripts.[47] these inscriptions can commonly be subdivided into four parts: a reference to the date and place, the naming of the event commemorated, the list of gifts given to the artisan in exchange for the bronze, and a dedication.[48] the relative points of reference these vessels provide have enabled historians to place most of the vessels within a certain time frame of the western zhou period, allowing them to trace the evolution of the vessels and the events they record.[49]
+
+korea[edit]
+
+
+korean bronze age
+
+
+
+
+
+
+bronze artifacts from daegok-ri, hwasun, korea
+
+
+
+
+
+main articles: gojoseon and mumun pottery period
+the beginning of the bronze age on the peninsula is around 1000–800 bc.[50][51] although the korean bronze age culture derives from the liaoning and manchuria, it exhibits unique typology and styles, especially in ritual objects.[52]
+the mumun pottery period is named after the korean name for undecorated or plain cooking and storage vessels that form a large part of the pottery assemblage over the entire length of the period, but especially 850–550 bc. the mumun period is known for the origins of intensive agriculture and complex societies in both the korean peninsula and the japanese archipelago.
+the middle mumun pottery period culture of the southern korean peninsula gradually adopted bronze production (c. 700–600? bc) after a period when liaoning-style bronze daggers and other bronze artifacts were exchanged as far as the interior part of the southern peninsula (c. 900–700 bc). the bronze daggers lent prestige and authority to the personages who wielded and were buried with them in high-status megalithic burials at south-coastal centres such as the igeum-dong site. bronze was an important element in ceremonies and as for mortuary offerings until 100.
+
+japan[edit]
+
+
+japanese bronze age
+
+
+
+
+
+
+2nd century bc yayoi dōtaku bronze bell.
+
+
+
+
+
+
+2nd century bc yayoi bronze spearhead.
+
+
+
+
+
+main article: yayoi period
+the japanese archipelago experienced the introduction of bronze during the beginning of the early yayoi period (~300 bc), which saw the introduction of metalworking and agricultural practices bought in by settlers arriving from the continent. bronze and iron smelting techniques spread to the japanese archipelago through contact with other ancient east asian civilizations, particularly immigration and trade from the korean peninsula and ancient mainland china. iron was mainly used for agricultural and other tools, whereas ritual and ceremonial artifacts were mainly made of bronze.
+
+south asia[edit]
+dates are approximate, consult particular article for details
+
+indus valley[edit]
+ dancing girl of mohenjo-daro, c. 2500 bc (replica).
+main article: indus valley civilization
+the bronze age on the indian subcontinent began around 3300 bc with the beginning of the indus valley civilization. inhabitants of the indus valley, the harappans, developed new techniques in metallurgy and produced copper, bronze, lead and tin.  the late harappan culture, which dates from 1900–1400 bc, overlapped the transition from the bronze age to the iron age; thus it is difficult to date this transition accurately.  it has been claimed that a 6,000 year old copper amulet manufactured in mehrgarh in the shape of wheel spoke is the earliest example of lost wax casting in the world.[53][54]
+
+southeast asia[edit]
+vietnam[edit]
+main article: dong son culture
+dating back to the neolithic age, the first bronze drum, called the dong son drum, were uncovered in and around the red river delta regions of northern vietnam and southern china. these relate to the prehistoric dong son culture of vietnam. in ban chiang, thailand, (southeast asia) bronze artifacts have been discovered dating to 2100 bc.[55] however, according to the radiocarbon dating on the human and pig bones in ban chiang, some scholars propose that the initial bronze age in ban chiang was in late 2nd millennium.[56] in nyaunggan, burma, bronze tools have been excavated along with ceramics and stone artifacts. dating is still currently broad (3500–500 bc).[57] ban non wat, excavated by charles higham, was a rich site with over 640 graves excavated that gleaned many complex bronze items that may have had social value connected to them.[58]
+ban chiang, however, is the most thoroughly documented site while having the clearest evidence of metallurgy when it comes to southeast asia. with a rough date range of late 3rd millennium bc to the first millennium ad, this site alone has various artifacts such as burial pottery (dating from 2100–1700 bc), fragments of bronze, copper-base bangles, and much more. what's interesting about this site, however, isn't just the old age of the artifacts but the fact that this technology suggested on-site casting from the very beginning. the on-site casting supports the theory that bronze was first introduced in southeast asia as fully developed which therefore shows that bronze was actually innovated from a different country.[28] some scholars believe that the copper-based metallurgy was disseminated from northwest and central china via south and southwest areas such as guangdong province and yunnan province and finally into southeast asia around 1000 bc.[56]
+archaeological research in northern vietnam indicates an increase in rates of infectious disease following the advent of metallurgy; skeletal fragments in sites dating to the early and mid-bronze age evidence a greater proportion of lesions than in sites of earlier periods.[59] there are a few possible implications of this. one is the increase contact with bacterial and/or fungal pathogens due to increased population density and land clearing/ cultivation. the other one is decreased levels of immunocompetence in the metal age due to changes in diet caused by agriculture. the last is that there may have been an emergence of infectious disease in the da but period that evolved into a more virulent form in the metal period.[59] archaeology also suggests that bronze age metallurgy may not have been as significant a catalyst in social stratification and warfare in southeast asia as in other regions, social distribution shifting away from chiefdom-states to a heterarchical network.[60] data analyses of sites such as ban lum khao, ban na di, non nok tha, khok phanom di, and nong nor have consistently led researchers to conclude that there was no forentrenched hierarchy.[61]
+
+europe[edit]
+main article: bronze age in europe
+a few examples of named bronze age cultures in europe in roughly relative order.
+
+dates are approximate, consult particular article for details
+
+
+
+
+
+
+the chosen cultures overlapped in time and the indicated periods do not fully correspond to their estimated extents.
+balkans[edit]
+the oldest securely dated tin bronze artefact are found in the heart of the balkans in serbia. a tin bronze foil from the pločnik (archaeological site) are dated to 4650 bc. the foil are not the only tin bronze artefact from the fifth millennium bc. 14 other artefacts from serbia and bulgaria are dated to before 4000 bc. the recent discoveries indicate that early tin bronze was more common than previously thought, and developed independently in europe 1500 years before the first tin bronze alloys in the near east.
+the production of complex tin bronzes lasted for c. 500 years in the balkans. shortly before the end of the fifth millennium bc, there are no longer evidence for production of tin bronze. this coincides with the collapse of large cultural complexes in the balkans.
+tin bronze would be reintroduced to the area again some 1500 years later.[62]
+
+aegean[edit]
+ gold 'mask of agamemnon', greece, 1550 bc
+main article: aegean civilization
+the aegean bronze age began around 3200 bc, when civilizations first established a far-ranging trade network. this network imported tin and charcoal to cyprus, where copper was mined and alloyed with the tin to produce bronze. bronze objects were then exported far and wide, and supported the trade. isotopic analysis of tin in some mediterranean bronze artifacts suggests that they may have originated from great britain.[63]
+knowledge of navigation was well developed at this time, and reached a peak of skill not exceeded (except perhaps by polynesian sailors) until 1730 when the invention of the chronometer enabled the precise determination of longitude.
+the minoan civilization based in knossos on the island of crete appears to have coordinated and defended its bronze age trade. illyrians are also believed to have roots in the early bronze age. ancient empires valued luxury goods in contrast to staple foods, leading to famine.[64]
+
+aegean collapse[edit]
+main article: bronze age collapse
+bronze age collapse theories have described aspects of the end of the age in this region. at the end of the bronze age in the aegean region, the mycenaean administration of the regional trade empire followed the decline of minoan primacy.[65] several minoan client states lost much of their population to famine and/or pestilence. this would indicate that the trade network may have failed, preventing the trade that would previously have relieved such famines and prevented illness caused by malnutrition. it is also known that in this era the breadbasket of the minoan empire, the area north of the black sea, also suddenly lost much of its population, and thus probably some capacity to cultivate crops.[citation needed]drought and famine in anatolia may have also led to the aegean collapse by disrupting trade networks, and therefore preventing the aegean from accessing bronze and luxury goods.[66]
+the aegean collapse has been attributed to the exhaustion of the cypriot forests causing the end of the bronze trade.[67][68][69] these forests are known to have existed into later times, and experiments have shown that charcoal production on the scale necessary for the bronze production of the late bronze age would have exhausted them in less than fifty years.
+the aegean collapse has also been attributed to the fact that as iron tools became more common, the main justification for the tin trade ended, and that trade network ceased to function as it did formerly.[70] the colonies of the minoan empire then suffered drought, famine, war, or some combination of those three, and had no access to the distant resources of an empire by which they could easily recover.
+the thera eruption occurred around the aegean collapse, 110 km (68 mi) north of crete. speculation include a tsunami from thera (more commonly known today as santorini) destroyed cretan cities. a tsunami may have destroyed the cretan navy in its home harbour, which then lost crucial naval battles; so that in the lmib/lmii event (c. 1450 bc) the cities of crete burned and the mycenaean civilization took over knossos. if the eruption occurred in the late 17th century bc (as most chronologists now think) then its immediate effects belong to the middle to late bronze age transition, and not to the end of the late bronze age; but it could have triggered the instability that led to the collapse first of knossos and then of bronze age society overall. one such theory highlights the role of cretan expertise in administering the empire, post-thera. if this expertise was concentrated in crete, then the mycenaeans may have made political and commercial mistakes in administering the cretan empire.
+archaeological findings, including some on the island of thera, suggest that the centre of minoan civilization at the time of the eruption was actually on thera rather than on crete.[citation needed] according to this theory, the catastrophic loss of the political, administrative and economic centre by the eruption as well as the damage wrought by the tsunami to the coastal towns and villages of crete precipitated the decline of the minoans. a weakened political entity with a reduced economic and military capability and fabled riches would have then been more vulnerable to human predators. indeed, the santorini eruption is usually dated to  c. 1630 bc, while the mycenaean greeks first enter the historical record a few decades later, c. 1600 bc. thus, the later mycenaean assaults on crete (c. 1450 bc) and troy ( c. 1250bc) are revealed as mere continuations of the steady encroachments of the greeks upon the weakened minoan world.
+
+central europe[edit]
+see also: bronze age in southeastern europe and bronze age in romania
+ nebra sky disk
+ cuirasses from marmesse
+ bronze nuragic figurine
+ bronze age sword
+in central europe, the early bronze age unetice culture (1800–1600 bc) includes numerous smaller groups like the straubing, adlerberg and hatvan cultures. some very rich burials, such as the one located at leubingen with grave gifts crafted from gold, point to an increase of social stratification already present in the unetice culture. all in all, cemeteries of this period are rare and of small size. the unetice culture is followed by the middle bronze age (1600–1200 bc) tumulus culture, which is characterised by inhumation burials in tumuli (barrows). in the eastern hungarian körös tributaries, the early bronze age first saw the introduction of the mako culture, followed by the otomani and gyulavarsand cultures.
+the late bronze age urnfield culture (1300–700 bc) is characterized by cremation burials. it includes the lusatian culture in eastern germany and poland (1300–500 bc) that continues into the iron age. the central european bronze age is followed by the iron age hallstatt culture (700–450 bc).
+important sites include:
+
+biskupin (poland)
+nebra (germany)
+vráble (slovakia)
+zug-sumpf, zug, switzerland
+the bronze age in central europe has been described in the chronological schema of german prehistorian paul reinecke. he described bronze a1 (bz a1) period (2300–2000 bc : triangular daggers, flat axes, stone wrist-guards, flint arrowheads) and bronze a2 (bz a2) period (1950–1700 bc : daggers with metal hilt, flanged axes, halberds, pins with perforated spherical heads, solid bracelets) and phases hallstatt a and b (ha a and b).
+
+south europe[edit]
+the apennine culture (also called italian bronze age) is a technology complex of central and southern italy spanning the chalcolithic and bronze age proper. the camuni were an ancient people of uncertain origin (according to pliny the elder, they were euganei; according to strabo, they were rhaetians) who lived in val camonica – in what is now northern lombardy – during the iron age, although human groups of hunters, shepherds and farmers are known to have lived in the area since the neolithic.
+located in sardinia and corsica, the nuragic civilization lasted from the early bronze age (18th century bc) to the 2nd century ad, when the islands were already romanized. they take their name from the characteristic nuragic towers, which evolved from the pre-existing megalithic culture, which built dolmens and menhirs. the nuraghe towers are unanimously considered the best preserved and largest megalithic remains in europe. their effective use is still debated: some scholars considered them as monumental tombs, others as houses of the giants, other as fortresses, ovens for metal fusion, prisons or, finally, temples for a solar cult. around the end of the 3rd millennium bc, sardinia exported towards sicily a culture that built small dolmens, trilithic or polygonal shaped, that served as tombs as it has been ascertained in the sicilian dolmen of “cava dei servi”. from this region they reached malta island and other countries of mediterranean basin.[71]
+the terramare was an early indo-european civilization in the area of what is now pianura padana (northern italy) before the arrival of the celts, and in other parts of europe. they lived in square villages of wooden stilt houses. these villages were built on land, but generally near a stream, with roads that crossed each other at right angles. the whole complex denoted the nature of a fortified settlement. terramare were widespread in the pianura padana (specially along the panaro river, between modena and bologna) and in the rest of europe. the civilization developed in the middle and late bronze age, between the 17th and the 13th centuries bc.
+the castellieri culture developed in istria during the middle bronze age. it lasted for more than a millennium, from the 15th century bc until the roman conquest in the 3rd century bc. it takes its name from the fortified boroughs (castellieri, friulian cjastelir) that characterized the culture.
+the canegrate culture developed from the mid-bronze age (13th century bc) until the iron age in the pianura padana, in what are now western lombardy, eastern piedmont and ticino. it takes its name from the township of canegrate where, in the 20th century, some fifty tombs with ceramics and metal objects were found. the canegrate culture migrated from the northwest part of the alps and descended to pianura padana from the swiss alps passes and the ticino.
+the golasecca culture developed starting from the late bronze age in the po plain. it takes its name from golasecca, a locality next to the ticino where, in the early 19th century, abbot giovanni battista giani excavated its first findings (some fifty tombs with ceramics and metal objects). remains of the golasecca culture span an area of c. 20,000 square kilometers south to the alps, between the po, sesia and serio rivers, dating from the 9th to the 4th century bc.
+
+west europe[edit]
+atlantic bronze age[edit]
+main article: atlantic bronze age
+ ceremonial giant dirk (1500–1300 bc)
+ golden helmet (leiro, galicia)
+the atlantic bronze age is a cultural complex of the period of approximately 1300–700 bc that includes different cultures in portugal, andalusia, galicia and the british isles. it is marked by economic and cultural exchange. commercial contacts extend to denmark and the mediterranean. the atlantic bronze age was defined by a number of distinct regional centres of metal production, unified by a regular maritime exchange of some of their products.
+
+great britain[edit]
+main article: bronze age britain
+in great britain, the bronze age is considered to have been the period from around 2100 to 750 bc. migration brought new people to the islands from the continent. recent tooth enamel isotope research on bodies found in early bronze age graves around stonehenge indicate that at least some of the migrants came from the area of modern switzerland. another example site is must farm, near whittlesey, which has recently been host to the most complete bronze age wheel ever to be found. the beaker culture displayed different behaviours from the earlier neolithic people, and cultural change was significant. integration is thought to have been peaceful, as many of the early henge sites were seemingly adopted by the newcomers. the rich wessex culture developed in southern britain at this time. additionally, the climate was deteriorating; where once the weather was warm and dry it became much wetter as the bronze age continued, forcing the population away from easily defended sites in the hills and into the fertile valleys. large livestock farms developed in the lowlands and appear to have contributed to economic growth and inspired increasing forest clearances. the deverel-rimbury culture began to emerge in the second half of the middle bronze age ( c. 1400–1100 bc) to exploit these conditions. devon and cornwall were major sources of tin for much of western europe and copper was extracted from sites such as the great orme mine in northern wales. social groups appear to have been tribal but with growing complexity and hierarchies becoming apparent.
+the burial of the dead (which, until this period, had usually been communal) became more individual. for example, whereas in the neolithic a large chambered cairn or long barrow housed the dead, early bronze age people buried their dead in individual barrows (also commonly known and marked on modern british ordnance survey maps as tumuli), or sometimes in cists covered with cairns.
+the greatest quantities of bronze objects in england were discovered in east cambridgeshire, where the most important finds were recovered in isleham (more than 6500 pieces).[72]
+alloying of copper with zinc or tin to make brass or bronze was practised soon after the discovery of copper itself. one copper mine at great orme in north wales, extended to a depth of 70 meters.[73] at alderley edge in cheshire, carbon dates have established mining at around 2280 to 1890 bc (at 95% probability).[74] the earliest identified metalworking site (sigwells, somerset) is much later, dated by globular urn style pottery to approximately the 12th century bc. the identifiable sherds from over 500 mould fragments included a perfect fit of the hilt of a sword in the wilburton style held in somerset county museum.[75]
+
+ireland[edit]
+see also: atlantic bronze age
+the bronze age in ireland commenced around 2000 bc, when copper was alloyed with tin and used to manufacture ballybeg type flat axes and associated metalwork. the preceding period is known as the copper age and is characterised by the production of flat axes, daggers, halberds and awls in copper. the period is divided into three phases: early bronze age (2000–1500 bc), middle bronze age (1500–1200 bc), and late bronze age (1200–c. 500 bc). ireland is also known for a relatively large number of early bronze age burials.
+one of the characteristic types of artifact of the early bronze age in ireland is the flat axe. there are five main types of flat axes: lough ravel (c. 2200 bc), ballybeg (c. 2000 bc), killaha (c. 2000 bc), ballyvalley (c. 2000–1600 bc), derryniggin (c. 1600 bc), and a number of metal ingots in the shape of axes.[76]
+
+north europe[edit]
+main article: nordic bronze age
+ trundholm sun chariot, denmark, c.1400 bc
+the bronze age in northern europe spans the entire 2nd millennium bc (unetice culture, urnfield culture, tumulus culture, terramare culture, lusatian culture) lasting until c. 600 bc. the northern bronze age was both a period and a bronze age culture in scandinavian pre-history, c. 1700–500 bc, with sites that reached as far east as estonia. succeeding the late neolithic culture, its ethnic and linguistic affinities are unknown in the absence of written sources. it is followed by the pre-roman iron age.
+even though northern european bronze age cultures were relatively late, and came into existence via trade, sites present rich and well-preserved objects made of wool, wood and imported central european bronze and gold. many rock carvings depict ships, and the large stone burial monuments known as stone ships suggest that shipping played an important role. thousands of rock carvings depict ships, most probably representing sewn plank built canoes for warfare, fishing and trade. these may have a history as far back as the neolithic period and continue into the pre-roman iron age, as shown by the hjortspring boat. there are many mounds and rock carving sites from the period. numerous artifacts of bronze and gold are found. no written language existed in the nordic countries during the bronze age. the rock carvings have been dated through comparison with depicted artifacts.
+
+caucasus[edit]
+arsenical bronze artifacts of the maykop culture in the north caucasus have been dated around the 4th millennium bc.[77] this innovation resulted in the circulation of arsenical bronze technology over southern and eastern europe.[78]
+
+pontic–caspian steppe[edit]
+the yamnaya culture is a late copper age/early bronze age culture of the southern bug/dniester/ural region (the pontic steppe), dating to the 36th–23rd centuries bc. the name also appears in english as pit-grave culture or ochre-grave culture. the catacomb culture, c. 2800–2200 bc, comprises several related early bronze age cultures occupying what is presently russia and ukraine. the srubna culture was a late bronze age (18th–12th centuries bc) culture. it is a successor to the yamnaya and the poltavka culture.
+
+africa[edit]
+sub-saharan africa[edit]
+see also: copper metallurgy in africa
+iron and copper smelting appeared around the same time in most parts of africa.[79][80]  as such, most african civilizations outside of egypt did not experience a distinct bronze age. evidence for iron smelting appears earlier or at the same time as copper smelting in nigeria c. 900–800 bc, rwanda and burundi c. 700–500 bc and tanzania c. 300 bc.[80][81][82]
+there is a longstanding debate about whether the development of both copper and iron metallurgy were independently developed in sub-saharan africa or were introduced from the outside across the sahara desert from north africa or from the indian ocean.[80] evidence for theories of independent development and for outside introduction are scarce and subject to active scholarly debate.[80] scholars have suggested that both the relative dearth of archeological research in sub-saharan africa as well as long standing prejudices have limited or biased our understanding of pre-historic metallurgy on the continent.[81][83][84] one scholar characterized the state of historical knowledge as such: “to say that the history of metallurgy in sub-saharan africa is complicated is perhaps an understatement.”[84]
+
+nubia[edit]
+the bronze age in nubia, started as early as 2300 bc.[85] copper smelting was introduced by egyptians to the nubian city of meroë, in modern-day sudan, around 2600 bc.[79] a furnace for bronze casting has been found in kerma that is dated to 2300–1900 bc.[85]
+
+west africa[edit]
+copper smelting took place in west africa prior to the appearance of iron smelting in the region. evidence for copper smelting furnaces was found near agadez, niger that has been dated as early as 2200 bc.[81] however, evidence for copper production in this region before 1000 bc is debated.[86][79][81] evidence of copper mining and smelting has been founded at akjoujt, mauretania that suggests small scale production c. 800 to 400 bc.[81]
+
+americas[edit]
+see also: metallurgy in pre-columbian america
+the moche civilization of south america independently discovered and developed bronze smelting.[87] bronze technology was developed further by the incas and used widely both for utilitarian objects and sculpture.[88] a later appearance of limited bronze smelting in west mexico (see metallurgy in pre-columbian mesoamerica) suggests either contact of that region with andean cultures or separate discovery of the technology. the calchaquí people of northwest argentina had bronze technology.[89]
+
+trade[edit]
+trade and industry played a major role in the development of the ancient bronze age civilizations. with artifacts of the indus valley civilization being found in ancient mesopotamia and egypt, it is clear that these civilizations were not only in touch with each other but also trading with each other. early long-distance trade was limited almost exclusively to luxury goods like spices, textiles and precious metals. not only did this make cities with ample amounts of these products extremely rich but also led to an inter-mingling of cultures for the first time in history.[90]
+trade routes were not only over land but also over water. the first and most extensive trade routes were over rivers such as the nile, the tigris and the euphrates which led to growth of cities on the banks of these rivers. the domestication of camels at a later time also helped encourage the use of trade routes over land, linking the indus valley with the mediterranean. this further led to towns sprouting up in numbers any and everywhere there was a pit-stop or caravan-to-ship port.
+
+see also[edit]
+
+ bronze age portal
+human timeline
+middle bronze age migrations (ancient near east)
+namazga v and altyndepe
+oxhide ingot
+
+seafaring[edit]
+dover bronze age boat – the earliest known seagoing plank-built vessel
+ferriby boats
+langdon bay hoard – see also dover museum
+notes[edit]
+
+
+^ iron in africa: revising the history : unesco. portal.unesco.org. retrieved on 2013-07-28.
+
+^ bronze was independently discovered in the maykop culture of the north caucasus as early as the mid-4th millennium bc, which makes them the producers of the oldest known bronze. however, the maykop culture only had arsenical bronze. other regions developed bronze and its associated technology at different periods.
+
+^ radivojevic, m; rehren, t; kuzmanovic-cvetkovic, j; jovanovic, m; northover, jp (2013). "tainted ores and the rise of tin bronzes in eurasia, c.6500 years ago". antiquity. 87 (338): 1030–1045. doi:10.1017/s0003598x0004984x..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ sljivar, d.; boric, d.;  et al. (2014). "context is everything: comments on radivojevic et al. (2013)". antiquity. 88 (342): 1310–1315. doi:10.1017/s0003598x00115480.
+
+^ radivojevic, m.; rehren, th.; kuzmanovic-cvetkovic, j.; jovanovic, m. (2014). "context is everything indeed: a response to sljivar and boric". antiquity. 88 (342): 1315–1319. doi:10.1017/s0003598x00115492.
+
+^ the near east period dates and phases are unrelated to the bronze chronology of other regions of the world.
+
+^ piotr bienkowski, alan ralph millard (editors). dictionary of the ancient near east. page 60.
+
+^ amélie kuhr. the ancient near east, c. 3000–330 bc. p. 9.
+
+^ killebrew, ann e. (2013), "the philistines and other "sea peoples" in text and archaeology", society of biblical literature archaeology and biblical studies, society of biblical lit, 15, p. 2, isbn 978-1-58983-721-8, archived from the original on 2015-09-03, retrieved 2015-06-20. quote: "first coined in 1881 by the french egyptologist g. maspero (1896), the somewhat misleading term "sea peoples" encompasses the ethnonyms lukka, sherden, shekelesh, teresh, eqwesh, denyen, sikil / tjekker, weshesh, and peleset (philistines). [footnote: the modern term "sea peoples" refers to peoples that appear in several new kingdom egyptian texts as originating from "islands" (tables 1–2; adams and cohen, this volume; see, e.g., drews 1993, 57 for a summary). the use of quotation marks in association with the term "sea peoples" in our title is intended to draw attention to the problematic nature of this commonly used term. it is noteworthy that the designation "of the sea" appears only in relation to the sherden, shekelesh, and eqwesh. subsequently, this term was applied somewhat indiscriminately to several additional ethnonyms, including the philistines, who are portrayed in their earliest appearance as invaders from the north during the reigns of merenptah and ramesses ill (see, e.g., sandars 1978; redford 1992, 243, n. 14; for a recent review of the primary and secondary literature, see woudhuizen 2006). hencefore the term sea peoples will appear without quotation marks.]"
+
+^ the end of the bronze age: changes in warfare and the catastrophe ca. 1200 b.c., robert drews, pp. 48–61 quote: "the thesis that a great "migration of the sea peoples" occurred ca. 1200 b.c. is supposedly based on egyptian inscriptions, one from the reign of merneptah and another from the reign of ramesses iii. yet in the inscriptions themselves such a migration nowhere appears. after reviewing what the egyptian texts have to say about 'the sea peoples', one egyptologist (wolfgang helck) recently remarked that although some things are unclear, "eins ist aber sicher: nach den agyptischen texten haben wir es nicht mit einer 'volkerwanderung' zu tun." thus the migration hypothesis is based not on the inscriptions themselves but on their interpretation."
+
+^ a b karin sowada and peter grave. egypt in the eastern mediterranean during the old kingdom.
+
+^ lukas de blois and r. j. van der spek. an introduction to the ancient world. p. 14.
+
+^ hansen, m.h. (2000). a comparative study of thirty city-state cultures: an investigation conducted by the copenhagen polis centre. copenhagen: det kongelike danske videnskabernes selskab. p. 68.
+
+^ othmar keel and christoph uehlinger. gods, goddesses, and images of god in ancient israel, 1998. p. 17 (cf. "the first phase (middle bronze age iia) runs roughly parallel to the egyptian twelfth dynasty")
+
+^ bruce g. trigger. ancient egypt: a social history. 1983. p. 137. (cf. ... "for the middle kingdom and second intermediate period it is the middle bronze age".)
+
+^ dalton, o.m., franks, a.w., & read, c.h. (1905). the treasure of the oxus: with other objects from ancient persia and india. london: british museum.
+
+^ v.m. masson, the bronze age in khorasan and transoxiana, chapter 10 in a.h. dani and vadim mikhaĭlovich masson (eds.), history of civilizations of central asia, volume 1: the dawn of civilization: earliest times to 700 bc
+
+^ possehl, g.l. (1986). kulli: an exploration of ancient civilization in asia. durham, n.c: carolina academic press
+
+^ piggott, s. (1961). prehistoric india to 1000 b.c. baltimore: penguin book.
+
+^ mogens herman hansen (2000). a comparative study of thirty city-state cultures: an investigation, volume 21. p. 57. isbn 9788778761774. archived from the original on 2015-06-20. retrieved 2015-06-05.
+
+^ under shamshi-adad i
+
+^ finkelstein, israel. "ethnicity and origin of the iron i settlers in the highlands of canaan: can the real israel stand up?." the biblical archaeologist 59.4 (1996): 198–212.
+
+^ finkelstein, israel. the archaeology of the israelite settlement. jerusalem: israel exploration society, 1988.
+
+^ finkelstein, israel, and nadav naʼaman, eds. from nomadism to monarchy: archaeological and historical aspects of early israel. yad izhak ben-zvi, 1994.
+
+^ finkelstein, israel. "the archaeology of the united monarchy: an alternative view." levant 28.1 (1996): 177–187.
+
+^ finkelstein, israel, and neil asher silberman. the bible unearthed: archaeology's new vision of ancient israel and the origin of sacred texts. simon and schuster, 2002.
+
+^ a b c d keys, david (january 2009). "scholars crack the code of an ancient enigma". bbc history magazine. 10 (1): 9.
+
+^ a b white, joyce; hamilton, elizabeth (2009). "the transmission of early bronze technology to thailand: new perspectives". journal of world prehistory. 22 (4): 357–397. doi:10.1007/s10963-009-9029-z.
+
+^ lalueza-fox, c.; sampietro, m.l.; gilbert, m.t.; castri, l.; facchini, f.; pettener, d.; bertranpetit, j. (2004). "unravelling migrations in the steppe: mitochondrial dna sequences from ancient central asians". proceedings. biological sciences. 271 (1542): 941–947. doi:10.1098/rspb.2004.2698. pmc 1691686. pmid 15255049.
+
+^ keyser, christine; bouakaze, caroline; crubézy, eric; nikolaev, valery g.; montagnon, daniel; reis, tatiana; ludes, bertrand (2009). "ancient dna provides new insights into the history of south siberian kurgan people". human genetics. 126 (3): 395–410. doi:10.1007/s00439-009-0683-0. pmid 19449030.
+
+^ martini, i. peter (2010). landscapes and societies: selected cases. springer. p. 310. isbn 978-90-481-9412-4.
+
+^ higham, charles (2004). encyclopedia of ancient asian civilizations. infobase publishing. p. 200. isbn 978-0-8160-4640-9.
+
+^ the archaeological term "bronze age" was first introduced for europe in the 1830s and soon extended to the near east. by the 1860s, there was some debate as to whether the term should be extended to china (john lubbock, prehistoric times (1868), cited after the athenaeum no. 2121, 20 june 1868, p. 870).
+
+^ robert l. thorp, china in the early bronze age: shang civilization,  university of pennsylvania press (2013).
+
+^ ""without entering on the vexed question whether or not there ever was a bronze age in any part of the world distinguished by the sole use of that metal, it is a fact that in china and japan to the present day, in the midst of an iron age, bronze is in constant use for cutting instruments, either alone or in combination with steel."
+the rectangular review, volume 1 (1871), p. 408.
+
+^ wu hung 1995. monumentality in early chinese art and architecture. p.11,13
+
+^ chang, k.c.: "studies of shang archaeology", pp. 6–7, 1. yale university press, 1982.
+
+^ chang, k.c.: "studies of shang archaeology", p. 1. yale university press, 1982.
+
+^ "teaching chinese archaeology, part two". nga.gov. archived from the original on 2008-02-13. retrieved 2016-09-24.
+
+^ li-liu; the chinese neolithic, cambridge university press, 2005.
+shang and zhou dynasties: the bronze age of china heilbrunn timeline retrieved may 13, 2010
+
+^ jan romgard (2008). "questions of ancient human settlements in xinjiang and the early silk road trade, with an overview of the silk road research institutions and scholars in beijing, gansu, and xinjiang" (pdf). sino-platonic papers (185). archived from the original (pdf) on 2012-02-06. retrieved 2012-05-21.
+
+^ bai, yunxiang (2003), "a discussion on early metals and the origins of bronze casting in china" (pdf), chinese archaeology, 3 (1): 157–165.
+
+^ thorp, r.l. (2005). china in the early bronze age: shang civilization. philadelphia: univ. of pennsylvania press.
+
+^ barnard, n.: "bronze casting and bronze alloys in ancient china", p. 14. the australian national university and monumenta serica, 1961.
+
+^ white, w.c.: "bronze culture of ancient china", p. 208. university of toronto press, 1956.
+
+^ erdberg, e.: "ancient chinese bronzes", p. 20. siebenbad-verlag, 1993.
+
+^ shaughnessy, e.l.: "sources of western zhou history", pp. xv–xvi. university of california press, 1982.
+
+^ shaughnessy, e.l. "sources of western zhou history", pp. 76–83. university of california press, 1982.
+
+^ shaughnessy, e.l. "sources of western zhou history", p. 107
+
+^ carter j. eckert, el., "korea, old and new: history", 1990, pp. 9
+
+^ "1000 bc to 300 ad: korea | asia for educators | columbia university". afe.easia.columbia.edu. archived from the original on 2011-10-12. retrieved 2016-09-24.
+
+^  http://daegu.museum.go.kr/museum/english/body_02/body02_1_03.htm. missing or empty |title= (help)[dead link]
+
+^ bertrand, l.; jarrige, j.-f.; réfrégiers, m.; robbiola, l.; séverin-fabiani, t.; mille, b.; thoury, m. (2016-11-15). "high spatial dynamics-photoluminescence imaging reveals the metallurgy of the earliest lost-wax cast object". nature communications. 7: 13356. bibcode:2016natco...713356t. doi:10.1038/ncomms13356. issn 2041-1723. pmc 5116070. pmid 27843139.
+
+^ "this 6,000-year-old amulet is the oldest example of a technology still used by nasa".
+
+^ "bronze from ban chiang, thailand: a view from the laboratory" (pdf). museum.upenn.edu. archived from the original (pdf) on 2011-04-27. retrieved 2016-09-24.
+
+^ a b higham, c.; higham, t.; ciarla, r.; douka, k.; kijngam, a.; rispoli, f. (2011). "the origins of the bronze age of southeast asia". journal of world prehistory. 24 (4): 227–274. doi:10.1007/s10963-011-9054-6.
+
+^ "nyaunggan city – archaeological sites in myanmar". myanmartravelinformation.com. archived from the original on 2007-09-27. retrieved 2016-09-24.
+
+^ higham, c.f.w. (2011). "the bronze age of southeast asia: new insight on social change from ban non wat". cambridge archaeological journal. 21 (3): 365–389. doi:10.1017/s0959774311000424.
+
+^ a b oxenham, m.f.; thuy, n.k.; cuong, n.l. (2005). "skeletal evidence for the emergence of infectious disease in bronze and iron age northern vietnam". american journal of physical anthropology. 126 (4): 359–376. doi:10.1002/ajpa.20048. pmid 15386222.
+
+^ white, j.c. (1995). "incorporating heterarchy into theory on socio‐political development: the case from southeast asia". archeological papers of the american anthropological association. 6 (1): 101–123. citeseerx 10.1.1.522.1061. doi:10.1525/ap3a.1995.6.1.101.
+
+^ o'reilly, d.j.w. (2003). "further evidence of heterarchy in bronze age thailand". current anthropology. 44 (2): 300–306. doi:10.1086/367973.
+
+^ radivojević, miljana; rehren, thilo; kuzmanović-cvetković, julka; jovanović, marija; northover, j. peter (2015). "tainted ores and the rise of tin bronzes in eurasia, c. 6500 years ago" (pdf). antiquity. 87 (338): 1030–1045. doi:10.1017/s0003598x0004984x.
+
+^ carl waldman, catherine mason. encyclopedia of european peoples: volume 1. 2006. p. 524.
+
+^ lancaster, h.o. (1990). expectations of life: a study in the demography, statistics, and history of world mortality. new york: springer-verlag. p. 228.
+
+^ drews, r. (1993). the end of the bronze age: changes in warfare and the catastrophe ca. 1200 b.c. princeton, n.j: princeton university press
+
+^ neer, richard t. (2012). greek art and archaeology. new york: thames and hudson inc. p. 63. isbn 978-0-500-28877-1.
+
+^ cities on the sea., swiny, s., hohlfelder, r.l., & swiny, h.w. (1998). res maritimae: cyprus and the eastern mediterranean from prehistory to late antiquity : proceedings of the second international symposium "cities on the sea", nicosia, cyprus, october 18–22, 1994. atlanta, ga: scholars press.
+
+^ creevey, b. (1994). the forest resources of bronze age cyprus
+
+^ a. bernard knapp, steve o. held and sturt w. manning. the prehistory of cyprus: problems and prospects.
+
+^ lockard, craig a. (2009). societies, networks, and transitions: to 600. wadsworth pub co. p. 96.
+
+^ piccolo, salvatore, op. cit., pp. 1 onwards.
+
+^ hall and coles, pp. 81–88.
+
+^ o'brien, w. (1997). bronze age copper mining in britain and ireland. shire publications ltd. isbn 978-0-7478-0321-8.
+
+^ timberlake, s. and prag a.j.n.w. (2005). the archaeology of alderley edge:survey, excavation and experiment in an ancient mining landscape. oxford: john and erica hedges ltd. p. 396.
+
+^ tabor, richard (2008). cadbury castle: a hillfort and landscapes. stroud: the history press. pp. 61–69. isbn 978-0-7524-4715-5.
+
+^ waddell; eogan.
+
+^ philip l. kohl. the making of bronze age eurasia. p. 58.
+
+^ gimbutas (1973). "the beginning of the bronze age in europe and the indo- europeans 3500–2500 bc". journal of indo-european studies. 1: 177.
+
+^ a b c miller, duncan e.; van der merwe, nikolaas j. (1994). "early metal working in sub-saharan africa: a review of recent research". the journal of african history. 35 (1): 1–36. doi:10.1017/s0021853700025949. jstor 182719.
+
+^ a b c d childs, s. terry (2008). "metallurgy in africa".  in selin, helaine. encyclopaedia of the history of science, technology, and medicine in non-western cultures. netherlands: springer. pp. 1596–1601. doi:10.1007/978-1-4020-4425-0_8776. isbn 978-1-4020-4425-0.
+
+^ a b c d e holl, augustin f. c. (2009). "early west african metallurgies: new data and old orthodoxy". journal of world prehistory. 22 (4): 415–438. doi:10.1007/s10963-009-9030-6.
+
+^ alpern, stanley b. (2005). "did they or didn't they invent it? iron in sub-saharan africa". history in africa. 32: 41–94. doi:10.1353/hia.2005.0003. jstor 20065735.
+
+^ killick, david (2009). "cairo to cape: the spread of metallurgy through eastern and southern africa". journal of world prehistory. 22 (4): 399–414. doi:10.1007/s10963-009-9025-3.
+
+^ a b chirikure, shadreck (2010). "on evidence, ideas and fantasy: the origins of iron in sub-saharan africa: thoughts on é. zangato & a.f.c. holl's "on the iron front"". journal of african archaeology. 8 (1): 25–28. doi:10.3213/1612-1651-10156. jstor 43135498.
+
+^ a b childs, s. terry; killick, david (1993). "indigenous african metallurgy: nature and culture". annual review of anthropology. 22: 317–337. doi:10.1146/annurev.anthro.22.1.317. jstor 2155851.
+
+^ killick, david; van der merwe, nikolaas j.; gordon, robert b.; grebenart, danilo (1988). "reassessment of the evidence for early metallurgy in niger, west africa". journal of archaeological science. 15 (4): 367–3944. doi:10.1016/0305-4403(88)90036-2.
+
+^ "el bronce y el horizonte medio". lablaa.org. archived from the original on 2009-04-17. retrieved 2010-03-22.
+
+^ antonio gutierrez. "inca metallurgy". incas.homestead.com. archived from the original on 2009-01-31. retrieved 2016-09-24.
+
+^ ambrosetti, el bronze de la región calchaquí, buenos aires, 1904.[1], accessed 28 march 2015.
+
+^ kristiansen, kristian (november 26, 2015). "connected histories: the dynamics of bronze age interaction and trade 1500-1100 bc". proceedings of the prehistoric society. 81: 361–392.
+
+
+references[edit]
+figueiredo, elin (2010). "smelting and recycling evidences from the late bronze age habitat site of baioes" (pdf). journal of archaeological science. 37 (7): 1623–1634. doi:10.1016/j.jas.2010.01.023. hdl:10451/9795.
+eogan, george (1983) the hoards of the irish later bronze age, dublin: university college, 331 p., isbn 0-901120-77-4
+hall, david and coles, john (1994) fenland survey : an essay in landscape and persistence, archaeological report 1, london : english heritage, 170 p., isbn 1-85074-477-7
+pernicka, e., eibner, c., öztunah, ö., wagener, g.a. (2003) "early bronze age metallurgy in the northeast aegean", in: wagner, g.a., pernicka, e. and uerpmann, h-p. (eds), troia and the troad: scientific approaches, natural science in archaeology, berlin; london : springer, isbn 3-540-43711-8, p. 143–172
+piccolo, salvatore (2013). ancient stones: the prehistoric dolmens of sicily. abingdon (gb): brazen head publishing, isbn 978-09565106-2-4,
+waddell, john (1998) the prehistoric archaeology of ireland, galway university press, 433 p., isbn 1-901421-10-4
+siklosy et al. (2009): bronze age volcanic event recorded in stalagmites by combined isotope and trace element studies. rapid communications in mass spectrometry, 23/6, 801–808. doi:10.1002/rcm.3943
+roberts, b.w.; thornton, c.p.; pigott, v.c. (2009). "development of metallurgy in eurasia". antiquity. 83: 112–122.
+further reading[edit]
+childe, v.g. (1930). the bronze age. new york: the macmillan company.
+fong, wen, ed. (1980). the great bronze age of china: an exhibition from the people's republic of china. new york: the metropolitan museum of art. isbn 978-0-87099-226-1. archived from the original on 2013-12-24. retrieved 2013-09-13.
+kelleher, bradford (1980). treasures from the bronze age of china: an exhibition from the people's republic of china, the metropolitan museum of art. new york: ballantine books. isbn 978-0-87099-230-8.
+wagner, donald b. (1993). iron and steel in ancient china. leiden, netherlands; new york: e.j. brill.
+kuijpers, m.h.g. (2008). bronze age metalworking in the netherlands (c. 2000 -800 bc): a research into the preservation of metallurgy related artefacts and the social position of the smith. leiden: sidestone press. isbn 9789088900150. archived from the original on 2013-02-05. retrieved 2012-02-02.
+müller-lyer, f.c.; lake, e.c.; lake, h.a. (1921). the history of social development. new york: alfred a. knopf.
+pittman, holly (1984). art of the bronze age: southeastern iran, western central asia, and the indus valley. new york: the metropolitan museum of art. isbn 978-0-87099-365-7. archived from the original on 2013-12-26. retrieved 2013-07-17.
+higham, c.f.w. (2011). "the bronze age of southeast asia: new insight on social change from ban non wat". cambridge archaeological journal. 21 (3): 365–389. doi:10.1017/s0959774311000424.
+external links[edit]
+
+
+
+look up bronze age in wiktionary, the free dictionary.
+
+
+
+wikimedia commons has media related to bronze age.
+library resources about  bronze age 
+online books
+resources in your library
+resources in other libraries
+
+ "bronze age" . encyclopædia britannica. 4 (11th ed.). 1911.
+links to the bronze age in europe and beyond commented web index, geographically structured (private website)
+bronze age experimental archeology and museum reproductions
+umha aois – reconstructed bronze age metal casting
+umha aois – ancient bronze casting videoclip
+"галичский клад" [ancient bronze idol 13 cent b.c.] (in russian). northern russia. archived from the original on 8 december 2012. retrieved 21 december 2009.
+aegean and balkan prehistory articles, site-reports and bibliography database concerning the aegean, balkans and western anatolia
+li;  et al. (2010). "evidence that a west-east admixed population lived in the tarim basin as early as the early bronze age" (pdf). bmc biology. 8: 15. doi:10.1186/1741-7007-8-15. pmc 2838831. pmid 20163704. archived from the original (pdf) on 2011-04-27. retrieved 2010-03-18.
+"the transmission of early bronze technology to thailand: new perspectives"
+human timeline (interactive) – smithsonian, national museum of natural history (august 2016).
+seafaring
+divers unearth bronze age hoard off the coast of devon
+vtebronze age↑ holocene epochbronze age
+abashevo culture
+aegean civilization
+andronovo culture
+apennine culture
+atlantic bronze age
+bmac
+bronze age britain
+bronze age europe
+catacomb culture
+chinese bronze age
+cycladic culture
+deverel–rimbury culture
+elp culture
+ewart park phase
+ezero culture
+glazkov culture
+argaric culture
+hallstatt culture
+helladic period
+indus valley civilisation
+late jomon
+liaoning bronze dagger culture
+lusatian culture
+minoan civilization
+mumun pottery period
+mycenaean greece
+nordic bronze age
+ordos culture
+penard period
+south-western iberian bronze
+srubna culture
+tagar culture
+tarim basin
+terramare culture
+trzciniec
+tumulus culture
+unetice culture
+urnfield culture
+wessex culture
+wilburton-wallington phase
+bronze age(north caucasusand transcaucasia)
+kurgan
+koban
+kura–araxes
+shulaveri-shomu
+colchian
+trialeti
+maykop culture
+leyla-tepe culture
+jar-burial
+khojaly–gadabay
+↓ iron age
+vteprehistoric asiapaleolithic
+homo erectus georgicus
+japanese paleolithic
+java man
+list of paleolithic sites in china
+paleolithic mesopotamia
+natufian culture
+peking man
+riwat
+soanian
+sangiran
+south asian stone age
+ubeidiya
+xiaochangliang
+neolithic
+fertile crescent
+early neolithic settlements
+khiamian culture
+trialetian culture
+nemrikian culture
+zarzian culture
+neolithic china
+neolithic tibet
+neolithic korea
+neolithic revolution
+neolithic south asia
+ohalo
+pre-pottery neolithic a (mesopotamia)
+pre-pottery neolithic b (mesopotamia)
+chalcolithic
+daimabad
+halaf culture
+uruk period
+bronze age
+andronovo culture
+bactria–margiana archaeological complex
+bronze age anatolia
+bronze age caucasus
+bronze age china
+bronze age india
+bronze age korea
+bronze age levant
+list of bronze age sites in china
+seima-turbino phenomenon
+
+ archaeological periods
+ time periods
+
+vtethree-age systemstone age
+prehistoric technology
+stone tool
+flint tool
+paleolithic
+lower paleolithic
+middle paleolithic
+upper paleolithic
+mesolithic
+neolithic
+middle stone age
+later stone age
+epipaleolithic
+pre-pottery neolithic
+pre-pottery neolithic a
+pre-pottery neolithic b
+neolithic revolution
+continent
+asia
+china
+india
+japan
+africa
+europe
+poland
+nordic
+british
+
+bronze age
+bronze
+bronze age collapse
+continent
+africa
+asia
+bronze age levant
+europe
+atlantic bronze age
+chalcolithic
+nordic bronze age
+bronze age in romania
+
+iron age
+history of ferrous metallurgy
+iron meteorite
+metallurgy
+continent
+africa
+asian
+china
+india
+ europe
+british
+pre-roman
+roman
+germanic
+scandinavia
+
+
+list of archaeological periods
+list of time periods
+
+authority control 
+gnd: 4008357-3
+hds: 8013
+ndl: 00570287
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=bronze_age&oldid=883321634"					
+categories: bronze agehistorical erashidden categories: pages using timelinepages with citations lacking titlespages with citations having bare urlsall articles with dead external linksarticles with dead external links from august 2012articles with short descriptionall articles with unsourced statementsarticles with unsourced statements from november 2016articles with unsourced statements from april 2014commons category link from wikidatawikipedia articles incorporating a citation from the 1911 encyclopaedia britannica with wikisource referencecs1 russian-language sources (ru)wikipedia articles with gnd identifierswikipedia articles with hds identifierswikipedia articles with ndl identifiersarticles which contain graphical timelines 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+afrikaansalemannischአማርኛالعربيةaragonésঅসমীয়াasturianuazərbaycancaবাংলাbân-lâm-gúбашҡортсабеларускаябеларуская (тарашкевіца)‎българскиboarischབོད་ཡིགbosanskibrezhonegcatalàчӑвашлаčeštinacymraegdanskdeutscheestiελληνικάespañolesperantoeuskaraفارسیfiji hindifrançaisfryskgaeilgegalegoгӏалгӏай贛語한국어հայերենहिन्दीhrvatskiilokanobahasa indonesiaíslenskaitalianoעבריתkabɩyɛქართულიkaszëbscziқазақшаkiswahilikurdîкыргызчаlatinalatviešulietuviųlimburgslingua franca novala .lojban.lumbaartmagyarмакедонскиമലയാളംमराठीმარგალურიمصرىbahasa melayumirandésмонголမြန်မာဘာသာnederlandsnedersaksiesनेपाल भाषा日本語nordfriisknorsknorsk nynorskoccitanoʻzbekcha/ўзбекчаਪੰਜਾਬੀپنجابیpatoispiemontèisplattdüütschpolskiportuguêsromânărumantschрусиньскыйрусскийсаха тылаसंस्कृतम्scotsseelterskshqipsicilianuසිංහලsimple englishslovenčinaslovenščinaکوردیсрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskatagalogதமிழ்татарча/tatarçaไทยтоҷикӣtürkçetürkmençeукраїнськаاردوvènetotiếng việtvõro文言west-vlamswinaray吴语ייִדיש粵語žemaitėška中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 14 february 2019, at 17:59 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"1.344","walltime":"3.845","ppvisitednodes":{"value":7088,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":186840,"limit":2097152},"templateargumentsize":{"value":5373,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":14,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":197532,"limit":5000000},"entityaccesscount":{"value":8,"limit":400},"timingprofile":["100.00% 3449.393      1 -total"," 13.89%  479.001      1 template:reflist","  9.56%  329.838     28 template:cite_journal","  2.13%   73.417     15 template:cite_book","  1.68%   57.932      2 template:citation_needed","  1.67%   57.510      1 template:commons_category","  1.60%   55.311      3 template:fix","  1.58%   54.614      2 template:sister_project","  1.54%   52.997      5 template:isbn","  1.48%   50.935      2 template:side_box"]},"scribunto":{"limitreport-timeusage":{"value":"0.610","limit":"10.000"},"limitreport-memusage":{"value":11370448,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1330","timestamp":"20190214235202","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":162,"wghostname":"mw1325"});});
+
+

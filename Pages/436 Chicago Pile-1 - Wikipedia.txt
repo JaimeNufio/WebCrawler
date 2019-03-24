@@ -1,0 +1,863 @@
+
+
+
+
+chicago pile-1 - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"chicago_pile-1","wgtitle":"chicago pile-1","wgcurrevisionid":880074627,"wgrevisionid":880074627,"wgarticleid":1118396,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["featured articles","coordinates on wikidata","use dmy dates from september 2015","history of the manhattan project","enrico fermi","argonne national laboratory","graphite moderated reactors","nuclear research reactors","nuclear history of the united states","national historic landmarks in chicago","landmarks in chicago","1942 in illinois","infrastructure completed in 1942","energy infrastructure on the national register of historic places","20th century in chicago","south side, chicago","university of chicago","1942 establishments in illinois","1942 in the united states","national register of historic places in chicago"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"chicago_pile-1","wgrelevantarticleid":1118396,"wgrequestid":"xgwumapaidaaafuhpceaaaai","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgredirectedfrom":"chicago_pile_–_1","wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wginternalredirecttargeturl":"/wiki/chicago_pile-1","wgcoordinates":{"lat":41.7925,"lon":-87.601111111111},"wgwikibaseitemid":"q284681","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","ext.math.scripts","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+chicago pile-1 
+from wikipedia, the free encyclopedia   (redirected from chicago pile – 1)
+ jump to navigation
+jump to search
+
+
+site of the first self sustaining nuclear reactionu.s. national register of historic placesu.s. national historic landmarkchicago landmark
+
+locationchicago, illinois, uscoordinates41°47′33″n 87°36′4″w﻿ / ﻿41.79250°n 87.60111°w﻿ / 41.79250; -87.60111coordinates: 41°47′33″n 87°36′4″w﻿ / ﻿41.79250°n 87.60111°w﻿ / 41.79250; -87.60111built1942[2]nrhp reference #66000314[1]significant datesadded to nrhp15 october 1966 (66000314)[1]designated nhl18 february 1965[2]designated cl27 october 1971[3]
+chicago pile-1 (cp-1)reactor conceptresearch reactordesigned and build bymetallurgical laboratoryoperational1942 to 1943statusdismantledlocationchicago, illinoismain parameters of the reactor corefuel (fissile material)natural uraniumfuel statesolid (pellets)neutron energy spectruminformation missingprimary control methodcontrol rodsprimary moderatornuclear graphite (bricks)primary coolantnonereactor usageprimary useexperimentalremarksthe chicago pile-1 (cp-1) is the world's first nuclear reactor
+chicago pile-1 (cp-1) was the world's first nuclear reactor. on 2 december 1942, the first human-made self-sustaining nuclear chain reaction was initiated in cp-1, during an experiment led by enrico fermi. the secret development of the reactor was the first major technical achievement of the manhattan project, the allied effort to create atomic bombs during world war ii. although the project's civilian and military leaders had misgivings about the possibility of a disastrous runaway reaction, they nevertheless decided due to time pressure to carry out the experiment in a densely populated area. it was built by the metallurgical laboratory at the university of chicago, under the west viewing stands of the original stagg field. fermi described the apparatus as "a crude pile of black bricks and wooden timbers".[4]
+the reactor was assembled in november 1942, by a team that included fermi, leo szilard (who had previously formulated an idea for non-fission chain reaction), leona woods, herbert l. anderson, walter zinn, martin d. whitaker, and george weil. because the enrichment of uranium had not yet begun at the oak ridge site, the reactor used natural uranium rather than uranium enriched in isotope 235. this required a very large amount of material in order to reach criticality, along with graphite used as a neutron moderator. the reactor contained 45,000 ultra-pure graphite blocks weighing 360 tons, and was fueled by 5.4 tons of uranium metal and 45 tons of uranium oxide. unlike most subsequent nuclear reactors, it had no radiation shielding or cooling system as it operated at very low power – about one-half watt. 
+the success of the reactor provided the first vivid demonstration of the feasibility of the military use of nuclear energy by the allies, and the reality of the danger that nazi germany would succeed in producing nuclear weapons and win the war with them. previously, estimates of critical masses had been crude calculations, leading to order-of-magnitude uncertainties about the size of a hypothetical bomb. the successful use of graphite as a moderator paved the way for progress in the allied effort, whereas the german program languished partly because of the belief that scarce and expensive heavy water would have to be used for that purpose.
+in 1943, cp-1 was moved to red gate woods, and reconfigured to become chicago pile-2 (cp-2). there, it was operated until 1954, when it was dismantled and buried. the stands at stagg field were demolished in august 1957; the site is now a national historic landmark and a chicago landmark.
+
+contents
+
+1 origins
+2 government support
+3 development
+4 choice of site
+5 construction
+6 first nuclear chain reaction
+7 later operation
+8 significance and commemoration
+9 notes
+10 see also
+11 references
+12 external links
+
+
+origins[edit]
+the idea of chemical chain reactions was first suggested in 1913 by the german chemist max bodenstein for a situation in which two molecules react to form not just the final reaction products, but also some unstable molecules which can further react with the original substances to cause more to react.[5] the concept of a nuclear chain reaction was first hypothesized by the hungarian scientist leo szilard on 12 september 1933.[6] szilard realized that if a nuclear reaction produced neutrons or dineutrons, which then caused further nuclear reactions, the process might be self-perpetuating. szilard proposed using mixtures of lighter known isotopes which produced neutrons in copious amounts, and also entertained the possibility of using uranium as a fuel.[7] he filed a patent for his idea of a simple nuclear reactor the following year.[8] the discovery of nuclear fission by german chemists otto hahn and fritz strassmann in 1938,[9][10] and its theoretical explanation (and naming) by their collaborators lise meitner and otto frisch,[11][12] opened up the possibility of creating a nuclear chain reaction with uranium or indium, but initial experiments were unsuccessful.[13][14][15][16]
+in order for a chain reaction to occur, fissioning uranium atoms had to emit additional neutrons to keep the reaction going. at columbia university in new york, italian physicist, enrico fermi, with americans john dunning, herbert l. anderson, eugene t. booth, g. norris glasoe, and francis g. slack conducted the first nuclear fission experiment in the united states on 25 january 1939.[17][18] subsequent work confirmed that fast neutrons were indeed produced by fission.[19][20] szilard obtained permission from the head of the physics department at columbia, george b. pegram, to use a laboratory for three months, and persuaded walter zinn to become his collaborator.[21] they conducted a simple experiment on the seventh floor of pupin hall at columbia, using a radium-beryllium source to bombard uranium with neutrons. they discovered significant neutron multiplication in natural uranium, proving that a chain reaction might be possible.[22]
+fermi and szilard still believed that enormous quantities of uranium would be required for an atomic bomb, and therefore concentrated on producing a controlled chain reaction.[23] fermi urged alfred o. c. nier to separate uranium isotopes for determination of the fissile component, and, on 29 february 1940, nier separated the first uranium-235 sample, which, after being mailed to dunning at columbia, was  confirmed to be the isolated fissile material.[24] when he was working in rome, fermi had discovered that collisions between neutrons and neutron moderators can slow the neutrons down, and thereby make them more likely to be captured by uranium nuclei, causing the uranium to fission.[25][26] szilard suggested to fermi that they use carbon in the form of graphite as a moderator. as a back-up plan, he considered heavy water. this contained deuterium, which would not absorb neutrons like ordinary hydrogen, and was a better neutron moderator than carbon; but heavy water was expensive and difficult to produce, and several tons of it might be needed.[27] fermi estimated that a fissioning uranium nucleus produced 1.73 neutrons on average. it was enough, but a careful design was called for to minimize losses.[28][29] (today the average number of neutrons emitted per fissioning uranium-235 nucleus is known to be about 2.4).[30]
+szilard estimated he would need about 50 short tons (45 t) of graphite and 5 short tons (4.5 t) of uranium.[27] in december 1940, fermi and szilard met with herbert g. macpherson and victor c. hamister at national carbon to discuss the possible existence of impurities in graphite, and the procurement of graphite of a purity that had never been produced commercially.[31] national carbon, a chemical company, had taken the then unusual step of hiring macpherson, a physicist, to research carbon arc lamps, a major commercial use for graphite at that time.  because of his work studying the spectroscopy of the carbon arc, macpherson knew that the major relevant contaminant was boron, both because of its concentration and its affinity for absorbing neutrons,[31] confirming a suspicion of szilard's.[32] more importantly, macpherson and hamister believed that techniques for producing graphite of a sufficient purity could be developed.  had fermi and szilard not consulted macpherson and hamister, they might have concluded, incorrectly, as the germans did, that graphite was unsuitable for use as a neutron moderator.[33]
+over the next two years, macpherson, hamister and lauchlin m. currie developed thermal purification techniques for the large scale production of low boron content graphite.[31][34] the resulting product was designated agot graphite ("acheson graphite ordinary temperature") by national carbon. with a neutron absorption cross section of 4.97 mbarns, the agot graphite is considered as the first true nuclear-grade graphite.[35] by november 1942 national carbon had shipped 255 tons of agot graphite to the university of chicago,[36] where it became the primary source of graphite to be used in the construction of chicago pile-1.[37]
+
+government support[edit]
+szilard drafted a confidential letter to the president, franklin d. roosevelt, warning of a german nuclear weapon project, explaining the possibility of nuclear weapons, and encouraging the development of a program that could result in their creation. with the help of eugene wigner and edward teller, he approached his old friend and collaborator albert einstein in august 1939, and convinced him to sign the letter, lending his prestige to the proposal.[38] the einstein–szilard letter resulted in the establishment of research into nuclear fission by the u.s. government.[39] an advisory committee on uranium was formed under lyman j. briggs, a scientist and the director of the national bureau of standards. its first meeting on 21 october 1939 was attended by szilard, teller and wigner. the scientists persuaded the army and navy to provide $6,000 for szilard to purchase supplies for experiments—in particular, more graphite.[40]
+
+ pupin hall at columbia university
+in april 1941, the national defense research committee (ndrc) created a special project headed by arthur compton, a nobel-prize-winning physics professor at the university of chicago, to report on the uranium program. compton's report, submitted in may 1941, foresaw the prospects of developing radiological weapons, nuclear propulsion for ships, and nuclear weapons using uranium-235 or the recently discovered plutonium.[41] in october he wrote another report on the practicality of an atomic bomb. for this report, he worked with fermi on calculations of the critical mass of uranium-235. he also discussed the prospects for uranium enrichment with harold urey.[42]
+niels bohr and john wheeler had theorized that heavy isotopes with odd atomic mass numbers were fissile. if so, then plutonium-239 was likely to be.[43] in may 1941, emilio segrè and glenn seaborg at the university of california produced 28 μg of plutonium in the 60-inch cyclotron there, and found that it had 1.7 times the thermal neutron capture cross section of uranium-235. at the time only such minute quantities of plutonium-239 had been produced, in cyclotrons, and it was not possible to produce a sufficiently large quantity that way.[44] compton discussed with wigner how plutonium might be produced in a nuclear reactor, and with robert serber about how that plutonium might be separated from uranium. his report, submitted in november, stated that a bomb was feasible.[42]
+the final draft of compton's november 1941 report made no mention of plutonium, but after discussing the latest research with ernest lawrence, compton became convinced that a plutonium bomb was also feasible. in december, compton was placed in charge of the plutonium project.[45] its objectives were to produce reactors to convert uranium to plutonium, to find ways to chemically separate the plutonium from the uranium, and to design and build an atomic bomb.[46][43] it fell to compton to decide which of the different types of reactor designs the scientists should pursue, even though a successful reactor had not yet been built.[47] he proposed a schedule to achieve a controlled nuclear chain reaction by january 1943, and to have an atomic bomb by january 1945.[46]
+
+
+development[edit]
+ on the fourth anniversary of the team's success, 2 december 1946, members of the cp-1 team gathered at the university of chicago. back row, from left: norman hilberry, samuel allison, thomas brill, robert nobles, warren nyer, and marvin wilkening. middle row: harold agnew, william sturm, harold lichtenberger, leona woods and leo szilard. front row: enrico fermi, walter zinn, albert wattenberg and herbert l. anderson.
+in a nuclear reactor, criticality is achieved when the rate of neutron production is equal to the rate of neutron losses, including both neutron absorption and neutron leakage. when a uranium-235 atom undergoes fission, it releases an average of 2.4 neutrons.[30] in the simplest case of an unreflected, homogeneous, spherical reactor, the critical radius was calculated to be approximately:[48]
+
+.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}
+
+
+
+
+r
+
+c
+r
+i
+t
+
+
+≈
+
+
+
+π
+m
+
+
+k
+−
+1
+
+
+
+
+
+{\displaystyle r_{crit}\approx {\frac {\pi m}{\sqrt {k-1}}}}
+
+,
+
+where m is the average distance that a neutron travels before it is absorbed, and k is the average neutron multiplication factor. the neutrons in succeeding reactions will be amplified by a factor k, the second generation of fission events will produce k2, the third k3 and so on. in order for a self-sustaining nuclear chain reaction to occur, k must be at least 3 or 4 percent greater than 1. in other words, k must be greater than 1 without crossing the prompt critical threshold that would result in a rapid, exponential increase in the number of fission events.[48][49]
+
+fermi christened his apparatus a "pile". emilio segrè later recalled that:i thought for a while that this term was used to refer to a source of nuclear energy in analogy with volta's use of the italian term pila to denote his own great invention of a source of electrical energy. i was disillusioned by fermi himself, who told me that he simply used the common english word pile as synonymous with heap. to my surprise, fermi never seemed to have thought of the relationship between his pile and volta's.[50]
+
+another grant, this time of $40,000, was obtained from the s-1 uranium committee to purchase more materials, and in august 1941 fermi began to plan the building of a sub-critical assembly to test with a smaller structure whether a larger one would work. the so-called exponential pile he proposed to build was 8 feet (2.4 m) long, 8 feet (2.4 m) wide and 11 feet (3.4 m) high.[51] this was too large to fit in the pupin physics laboratories. fermi recalled that: we went to dean pegram, who was then the man who could carry out magic around the university, and we explained to him that we needed a big room. he scouted around the campus and we went with him to dark corridors and under various heating pipes and so on, to visit possible sites for this experiment and eventually a big room was discovered in schermerhorn hall.[52]
+
+ one of at least 29 experimental piles that were constructed in 1942 under the west stands of stagg field. each tested elements incorporated into the final design.
+the pile was built in september 1941 from 4-by-4-by-12-inch (10 by 10 by 30 cm) graphite blocks and tinplate iron cans of uranium oxide. the cans were 8-by-8-by-8-inch (20 by 20 by 20 cm) cubes. when filled with uranium oxide, each weighed about 60 pounds (27 kg). there were 288 cans in all, and each was surrounded by graphite blocks so the whole would form a cubic lattice structure. a radium-beryllium neutron source was positioned near the bottom. the uranium oxide was heated to remove moisture, and packed into the cans while still hot on a shaking table. the cans were then soldered shut. for a workforce, pegram secured the services of columbia's football team. it was the custom at the time for football players to perform odd jobs around the university. they were able to manipulate the heavy cans with ease. the final result was a disappointing k of 0.87.[49][53]
+compton felt that having teams at columbia university, princeton university, the university of chicago and the university of california was creating too much duplication and not enough collaboration, and he resolved to concentrate the work in one location. nobody wanted to move, and everybody argued in favor of their own location. in january 1942, soon after the united states entered world war ii, compton decided on his own location, the university of chicago, where he knew he had the unstinting support of university administration.[54] chicago also had a central location, and scientists, technicians and facilities were more readily available in the midwest, where war work had not yet taken them away.[54] in contrast, columbia university was engaged in uranium enrichment efforts under harold urey and john dunning, and was hesitant to add a third secret project.[55]
+before leaving for chicago, fermi's team made one last attempt to build a working pile at columbia. since the cans had absorbed neutrons, they were dispensed with. instead, the uranium oxide, heated to 250 °c (480 °f) to dry it out, was pressed into cylindrical holes 3 inches (7.6 cm) long and 3 inches (7.6 cm) in diameter drilled into the graphite. the entire pile was then canned by soldering sheet metal around it, and the contents heated above the boiling point of water to remove moisture. the result was a k of 0.918.[56]
+
+choice of site[edit]
+ augustus knuth joints a wooden block for the timber frame
+in chicago, samuel k. allison had found a suitable location 60 feet (18 m) long, 30 feet (9.1 m) wide and 26 feet (7.9 m) high, sunk slightly below ground level, in a space under the stands at stagg field originally built as a rackets court.[57][58] stagg field had been largely unused since the university of chicago had given up playing american football in 1939,[48][59] but the rackets courts under west stands were still used for playing squash and handball. leona woods and anthony l. turkevich played squash there in 1940. since it was intended for strenuous exercise, the area was unheated, and very cold in the winter. the nearby north stands had a pair of ice skating rinks on the ground floor, which although they were unrefrigerated, seldom melted in winter.[60] allison used the rackets court area to construct a 7-foot (2.1 m) experimental pile before fermi's group arrived in 1942.[57]
+the united states army corps of engineers assumed control of the nuclear weapons program in june 1942, and compton's metallurgical laboratory became part of what came to be called the manhattan project.[61] brigadier general leslie r. groves, jr. became director of the manhattan project on 23 september 1942.[62] he visited the metallurgical laboratory for the first time on 5 october.[63] between 15 september and 15 november 1942, groups under herbert anderson and walter zinn constructed 16 experimental piles under the stagg field stands.[64]
+fermi designed a new pile, which would be spherical to maximize k, which was predicted to be around 1.04, thereby achieving criticality.[65] leona woods was detailed to build boron trifluoride neutron detectors as soon as she completed her doctoral thesis. she also helped anderson locate the large number of 4-by-6-inch (10 by 15 cm) timbers required at lumber yards in chicago's south side.[66] shipments of high-purity graphite arrived, mainly from national carbon, and high-purity uranium dioxide from mallinckrodt in st louis, which was now producing 30 short tons (27 t) a month.[67] metallic uranium also began arriving in larger quantities, the product of newly developed techniques.[68]
+on 25 june, the army and the office of scientific research and development (osrd) had selected a site in the argonne forest near chicago for a plutonium pilot plant. this became known as site a. 1,025 acres (415 ha) were leased from cook county in august,[69][70] but by september it was apparent that the proposed facilities would be too extensive for the site, and it was decided to build the pilot plant elsewhere.[71] the subcritical piles posed little danger, but groves felt that it would be prudent to locate a critical pile—a fully functional nuclear reactor—at a more remote site. a building at argonne to house fermi's experimental pile was commenced, with its completion scheduled for 20 october. due to industrial disputes, construction fell behind schedule, and it became clear the materials for fermi's new pile would be on hand before the new structure was completed. in early november, fermi came to compton with a proposal to build the experimental pile under the stands at stagg field.[72]
+
+ cp-1 under construction: 4th layer
+the risk of building an operational reactor running at criticality in a populated area was a significant issue, as there was a danger of a catastrophic nuclear meltdown blanketing one of the united states' major urban areas in radioactive fission products. but the physics of the system suggested that the pile could be safely shut down even in the event of a runaway reaction. when a fuel atom undergoes fission, it releases neutrons that strike other fuel atoms in a chain reaction.[72] the time between absorbing the neutron and undergoing fission is measured in nanoseconds. szilard had noted that this reaction leaves behind fission products that may also release neutrons, but do so over much longer periods, from microseconds to as long as minutes. in a slow reaction like the one in a pile where the fission products build up, these neutrons account for about three percent of the total neutron flux.[72][73][74]
+fermi argued that by using the delayed neutrons, and by carefully controlling the reaction rates as the power is ramped up, a pile can reach criticality at fission rates slightly below that of a chain reaction relying solely on the prompt neutrons from the fission reactions. since the rate of release of these neutrons depends on fission events taking place some time earlier, there is a delay between any power spikes and the later criticality event. this time gives the operators leeway; if a spike in the prompt neutron flux is seen, they have several minutes before this causes a runaway reaction. if a neutron absorber, or neutron poison, is injected at any time during this period, the reactor will shut down. consequently, the reaction can be controlled with electromechanical control systems such as control rods. compton felt this delay was enough to provide a critical margin of safety,[72][73] and allowed fermi to build chicago pile-1 at stagg field.[75][73]
+
+compton later explained that:as a responsible officer of the university of chicago, according to every rule of organizational protocol, i should have taken the matter to my superior. but this would have been unfair. president hutchins was in no position to make an independent judgment of the hazards involved. based on considerations of the university's welfare, the only answer he could have given would have been—no. and this answer would have been wrong.[75]
+
+compton informed groves of his decision at the 14 november meeting of the s-1 executive committee.[73] although groves "had serious misgivings about the wisdom of compton's suggestion", he did not interfere.[76] james b. conant, the chairman of the ndrc, was reported to have turned white. but because of the urgency and their confidence in fermi's calculations, no one objected.[77]
+
+construction[edit]
+ cp-1 under construction: 7th layer
+chicago pile 1 was encased within a balloon so that the air inside could be replaced by carbon dioxide. anderson had a dark gray balloon manufactured by goodyear tire and rubber company. a 25-foot (7.6 m) cube-shaped balloon was somewhat unusual, but the manhattan project's aaa priority rating ensured prompt delivery with no questions asked.[64][78] a block and tackle was used to haul it into place, with the top secured to the ceiling and three sides to the walls. the remaining side, the one facing the balcony from which fermi directed the operation, was furled like an awning. a circle was drawn on the floor, and the stacking of graphite blocks began on the morning of 16 november 1942.[79] the first layer placed was made up entirely of graphite blocks, with no uranium. layers without uranium were alternated with two layers containing uranium, so the uranium was enclosed in graphite.[79] unlike later reactors, it had no radiation shielding or cooling system, as it was only intended to be operated at very low power.[80]
+the work was carried out in twelve-hour shifts, with a day shift under zinn and a night shift under anderson.[81] for a work force they hired thirty high school dropouts that were eager to earn a bit of money before being drafted into the army.[82] they machined 45,000 graphite blocks enclosing 19,000 pieces of uranium metal and uranium oxide.[83] the graphite arrived from the manufacturers in 4.25-by-4.25-inch (10.8 by 10.8 cm) bars of various lengths. they were cut into standard lengths of 16.5 inches (42 cm), each weighing 19 pounds (8.6 kg). a lathe was used to drill 3.25-inch (8.3 cm) holes in the blocks for the control rods and the uranium. a hydraulic press was used to shape the uranium oxide into "pseudospheres", cylinders with rounded ends. drill bits had to be sharpened after each 60 holes, which worked out to be about once an hour.[79] graphite dust soon filled the air and made the floor slippery.[75]
+another group, under volney c. wilson, was responsible for instrumentation.[81] they also fabricated the control rods, which were cadmium sheets nailed to flat wooden strips, cadmium being a potent neutron absorber, and the scram line, a manila rope that when cut would drop a control rod into the pile and stop the reaction.[82] richard fox, who made the control-rod mechanism for the pile, remarked that the manual speed control that the operator had over the rods was simply a variable resistor, controlling an electric motor that would spool the clothesline wire over a pulley that also had two lead weights attached to ensure it would fail-safe and return to its zero position when released.[84]
+
+ cp-1 under construction: 10th layer
+about two layers were laid per shift.[79] woods' boron trifluoride neutron counter was inserted at the 15th layer. thereafter, readings were taken at the end of each shift.[85] fermi divided the square of the radius of the pile by the intensity of the radioactivity to obtain a metric that counted down to one as the pile approached criticality. at the 15th layer, it was 390; at the 19th it was 320; at the 25th it was 270 and by the 36th it was only 149. the original design was for a spherical pile, but as work proceeded, it became clear that this would not be necessary. the new graphite was purer, and 6 short tons (5.4 t) of very pure metallic uranium began to arrive from the ames project at iowa state university,[86] where a team under frank spedding had developed a new process to produce uranium metal. westinghouse lamp plant supplied 3 short tons (2.7 t), which it produced in a rush with a makeshift process.[87][88]
+the 2.25-inch (5.7 cm) metallic uranium cylinders, known as "spedding's eggs", were dropped in the holes in the graphite in lieu of the uranium oxide pseudospheres. the process of filling the balloon with carbon dioxide would not be necessary, and twenty layers could be dispensed with. according to fermi's new calculations, the countdown would reach 1 between the 56th and 57th layers. the resulting pile was therefore flatter on the top than on the bottom.[79] anderson called a halt after the 57th layer was placed.[89] when completed, the wooden frame supported an elliptical-shaped structure, 20 feet (6.1 m) high, 6 feet (1.8 m) wide at the ends and 25 feet (7.6 m) across the middle.[82][90] it contained 6 short tons (5.4 t) of uranium metal, 50 short tons (45 t) of uranium oxide and 400 short tons (360 t) of graphite, at an estimated cost of $2.7 million.[91]
+
+first nuclear chain reaction[edit]
+ the chianti fiasco purchased by eugene wigner to help celebrate the first self-sustaining, controlled chain reaction. it was signed by the participants.
+the next day, 2 december 1942, everybody assembled for the experiment. there were 49 scientists present.[92] although most of the s-1 executive committee was in chicago, only crawford greenewalt was present, at compton's invitation.[93] other dignitaries present included szilard, wigner and spedding.[92] fermi, compton, anderson and zinn gathered around the controls on the balcony, which was originally intended as a viewing platform.[94] samuel allison stood ready with a bucket of concentrated cadmium nitride, which he was to throw over the pile in the event of an emergency. the startup began at 09:54. walter zinn removed the zip, the emergency control rod, and secured it.[94][95] norman hilberry stood ready with an axe to cut the scram line, which would allow the zip to fall under the influence of gravity.[95][96] while leona woods called out the count from the boron trifluoride detector in a loud voice, george weil, the only one on the floor, withdrew all but one of the control rods. at 10:37 fermi ordered weil to remove all but 13 feet (4.0 m) of the last control rod. weil withdrew it 6 inches (15 cm) at a time, with measurements being taken at each step.[94][95]
+the process was abruptly halted by the automatic control rod reinserting itself, due to its trip level being set too low.[97] at 11:25, fermi ordered the control rods reinserted. he then announced that it was lunch time.[94]
+the experiment resumed at 14:00.[94] weil worked the final control rod while fermi carefully monitored the neutron activity. fermi announced that the pile had gone critical (reached a self-sustaining reaction) at 15:25. fermi switched the scale on the recorder to accommodate the rapidly increasing electrical current from the boron trifluoride detector. he wanted to test the control circuits, but after 28 minutes, the alarm bells went off to notify everyone that the neutron flux had passed the preset safety level, and he ordered zinn to release the zip. the reaction rapidly halted.[98][95] the pile had run for about 4.5 minutes at about 0.5 watts.[99] wigner opened a bottle of chianti, which they drank from paper cups.[100]
+compton notified conant by telephone. the conversation was in an impromptu code:
+
+
+compton: the italian navigator has landed in the new world.
+conant: how were the natives?
+compton: very friendly.[101]
+
+
+later operation[edit]
+on 12 december 1942 cp-1's power output was increased to 200 w, enough to power a light bulb. lacking shielding of any kind, it was a radiation hazard for everyone in the vicinity, and further testing was continued at 0.5 w.[102] operation was terminated on 28 february 1943,[103] and the pile was dismantled and moved to site a in the argonne forest, now known as red gate woods.[104][105] there the original materials were used to build chicago pile-2 (cp-2). instead of being spherical, the new reactor was built in a cube-like shape, about 25 feet (7.6 m) tall with a base approximately 30 feet (9.1 m) square. it was surrounded by concrete walls 5 feet (1.5 m) thick that acted as a radiation shielding, with overhead protection from 6 inches (15 cm) of lead and 50 inches (130 cm) of wood. more uranium was used, so it contained 52 short tons (47 t) of uranium and 472 short tons (428 t) of graphite. no cooling system was provided as it only ran at a few kilowatts. cp-2 became operational in march 1943, with a k of 1.055.[106][107][108] during the war zinn allowed cp-2 to be run around the clock, and its design was suitable for conducting experiments.[109]
+cp-2 was joined by chicago pile-3, the first heavy water reactor, which went critical on 15 may 1944.[107][108]
+
+ commemorative boulder at site a
+the reactors were used to undertake research related to weapons, such as investigations of the properties of tritium. wartime experiments included measuring the neutron absorption cross-section of elements and compounds. albert wattenberg recalled that about 10 elements were studied each month, and 75 over the course of a year.[110] an accident involving radium and beryllium powder caused a dangerous drop in his white blood cell count that lasted for three years. as the dangers of things such as inhaling uranium oxide became more apparent, experiments were conducted on the effects of radioactive substances on laboratory test animals.[70]
+though held secret for a decade, fermi patented the design, with a initial filing date of dec. 19, 1944 as the neutronic reactor no. 2,708,656.[111][112]
+the red gate woods later became the original site of argonne national laboratory, which replaced the metallurgical laboratory on 1 july 1946, with zinn as its first director.[113] cp-2 and cp-3 operated for ten years before they outlived their usefulness, and zinn ordered them shut down on 15 may 1954.[70] their remaining usable fuel was transferred to chicago pile-5 at the argonne national laboratory's new site in dupage county, and the cp-2 and cp-3 reactors were dismantled in 1955 and 1956. some of the graphite blocks from cp-1/cp-2 were reused in the reflector of the treat reactor. high-level nuclear waste such as fuel and heavy water were shipped to oak ridge, tennessee, for disposal. the rest was encased in concrete and buried in a 40-foot-deep (12 m) trench in what is now known as the site a/plot m disposal site. it is marked by a commemorative boulder.[70]
+
+ leo szilard (right) and norman hilberry under the plaque commemorating chicago pile-1 on the west stands of old stagg field. while the stands were later demolished, the plaque is now located at the site memorial.
+by the 1970s there was increased public concern about the levels of radioactivity at the site, which was used by the local residents for recreational purposes. surveys conducted in the 1980s found strontium-90 in the soil at plot m, trace amounts of tritium in nearby wells, and plutonium, technetium, caesium, and uranium in the area. in 1994, the united states department of energy and the argonne national laboratory yielded to public pressure and earmarked $24.7 million and $3.4 million respectively to rehabilitate the site. as part of the clean up, 500 cubic yards (380 m3) of radioactive waste was removed and sent to the hanford site for disposal. by 2002, the illinois department of public health had determined that the remaining materials posed no danger to public health.[70]
+
+significance and commemoration[edit]
+the successful test of cp-1 not only proved that a nuclear reactor was feasible, it demonstrated that the k factor was larger than originally thought. this removed the objections to the use of air or water as a coolant rather than expensive helium. it also meant that there was greater latitude in the choice of materials for coolant pipes and control mechanisms. wigner now pressed ahead with his design for a water-cooled production reactor. there remained concerns about the ability of a graphite-moderated reactor being able to produce plutonium on industrial scale, and for this reason the manhattan project continued the development of heavy water production facilities.[114] an air-cooled reactor, the x-10 graphite reactor, was built at the clinton engineer works in oak ridge as part of a plutonium semiworks,[115] followed by larger water-cooled production reactors at the hanford site in washington state.[116] enough plutonium was produced for an atomic bomb by july 1945, and for two more in august.[117]
+
+a commemorative plaque was unveiled at stagg field on 2 december 1952, the occasion of the tenth anniversary of cp-1 going critical.[118] it read: on december 2, 1942 man achieved here the first self-sustaining chain reaction and thereby initiated the controlled release of nuclear energy.[119]
+ the plaque was saved when the west stands were demolished in august 1957.[120] the site of cp-1 was designated as a national historic landmark on 18 february 1965.[2] when the national register of historic places was created in 1966, it was immediately added to that as well.[1] the site was also named a chicago landmark on 27 october 1971.[3]
+today the site of the old stagg field is occupied by the university's regenstein library, which was opened in 1970, and the joe and rika mansueto library, which was opened in 2011.[121] a henry moore sculpture, nuclear energy, stands in a small quadrangle just outside the regenstein library.[2] it was dedicated on 2 december 1967, to commemorate the 25th anniversary of cp-1 going critical. the commemorative plaques from 1952, 1965 and 1967 are nearby.[119] a graphite block from cp-1 can be seen at the bradbury science museum in los alamos, new mexico; another is on display at the museum of science and industry in chicago.[122]  on 2 december 2017, the 75th anniversary, the massachusetts institute of technology in restoring a research-graphite pile, similar in design to chicago pile-1, ceremonially inserted the final uranium slugs.[123]
+
+notes[edit]
+
+
+^ a b c national park service (9 july 2010). "national register information system". national register of historic places. national park service..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ a b c d 
+"site of the first self-sustaining nuclear reaction". national historic landmark summary listing. national park service. archived from the original on 5 april 2015. retrieved 26 july 2013.
+
+^ a b "site of the first self-sustaining controlled nuclear chain reaction". city of chicago. retrieved 26 july 2013.
+
+^ fermi 1982, p. 24.
+
+^ ölander, arne. "the nobel prize in chemistry 1956 – award ceremony speech". the nobel foundation. retrieved 23 september 2015.
+
+^ rhodes 1986, pp. 13, 28.
+
+^ wellerstein, alex (16 may 2014). "szilard's chain reaction: visionary or crank?". restricted data. retrieved 23 september 2015.
+
+^ szilard, leo. "improvements in or relating to the transmutation of chemical elements, british patent number: gb630726 (filed: 28 june 1934; published: 30 march 1936)". retrieved 23 september 2015.
+
+^ rhodes 1986, pp. 251–254.
+
+^ hahn, o.; strassmann, f. (1939). "über den nachweis und das verhalten der bei der bestrahlung des urans mittels neutronen entstehenden erdalkalimetalle (on the detection and characteristics of the alkaline earth metals formed by irradiation of uranium with neutrons)". die naturwissenschaften. 27: 11. bibcode:1939nw.....27...11h. doi:10.1007/bf01488241.
+
+^ rhodes 1986, pp. 256–263.
+
+^ meitner, lise; frisch, o. r. (1939). "disintegration of uranium by neutrons: a new type of nuclear reaction". nature. 143 (3615): 239–240. bibcode:1939natur.143..239m. doi:10.1038/143239a0.
+
+^ rhodes 1986, pp. 267–271.
+
+^ lanouette & silard 1992, p. 148.
+
+^ brasch, a.; lange, f.; waly, a.; banks, t. e.; chalmers, t. a.; szilard, leo; hopwood, f. l. (december 8, 1934). "liberation of neutrons from beryllium by x-rays: radioactivity induced by means of electron tubes". nature. 134 (3397): 880. bibcode:1934natur.134..880b. doi:10.1038/134880a0. issn 0028-0836.
+
+^ lanouette & silard 1992, pp. 172–173.
+
+^ anderson, h. l.; booth, e. t.; dunning, j. r.; fermi, e.; glasoe, g. n.; slack, f. g. (1939). "the fission of uranium". physical review. 55 (5): 511–512. bibcode:1939phrv...55..511a. doi:10.1103/physrev.55.511.2.
+
+^ rhodes 1986, pp. 267–270.
+
+^ anderson, h. l.; fermi, e.; hanstein, h. (16 march 1939). "production of neutrons in uranium bombarded by neutrons". physical review. 55 (8): 797–798. bibcode:1939phrv...55..797a. doi:10.1103/physrev.55.797.2.
+
+^ anderson, h.l. (april 1973). "early days of chain reaction". bulletin of the atomic scientists. educational foundation for nuclear science, inc.
+
+^ lanouette & silard 1992, pp. 182–183.
+
+^ lanouette & silard 1992, pp. 186–187.
+
+^ lanouette & silard 1992, p. 227.
+
+^ "alfred o. c. nier". american physical society. retrieved 4 december 2016.
+
+^ bonolis 2001, pp. 347–352.
+
+^ amaldi 2001, pp. 153–156.
+
+^ a b lanouette & silard 1992, pp. 194–195.
+
+^ hewlett & anderson 1962, p. 28.
+
+^ anderson, h.; fermi, e.; szilárd, l. (1 august 1939). "neutron production and absorption in uranium". physical review. 56 (3): 284–286. bibcode:1939phrv...56..284a. doi:10.1103/physrev.56.284.
+
+^ a b international atomic energy agency. "nuclear data for safeguards". www-nds.iaea.org. retrieved 16 august 2016.
+
+^ a b c weinberg, alvin (1994). "herbert g. macpherson". memorial tributes. national academy of engineering press. 7 (7): 143–147. bibcode:1993pht....46g.103w. doi:10.1063/1.2808987. issn 1075-8844.
+
+^ bethe, hans a. (2000). "the german uranium project". physics today. american institute of physics. 53 (7): 34–36. bibcode:2000pht....53g..34b. doi:10.1063/1.1292473.
+
+^ bethe, hans a. (2000). "the german uranium project". physics today. american institute of physics. 53 (7): 34. bibcode:2000pht....53g..34b. doi:10.1063/1.1292473.
+
+^ currie, hamister & macpherson 1955
+
+^ eatherly, w. p. (1981). "nuclear graphite – the first years". journal of nuclear materials. 100: 55–63. bibcode:1981jnum..100...55e. doi:10.1016/0022-3115(81)90519-5.
+
+^ salvetti 2001, pp. 177–203.
+
+^ nightingale 1962, p. 4.
+
+^ "einstein's letter to franklin d. roosevelt". atomic archive. retrieved 20 december 2015.
+
+^ "pa, this requires action!". the atomic heritage foundation. archived from the original on 29 october 2012. retrieved 26 may 2007.
+
+^ hewlett & anderson 1962, pp. 19–21.
+
+^ hewlett & anderson 1962, pp. 36–38.
+
+^ a b hewlett & anderson 1962, pp. 46–49.
+
+^ a b anderson 1975, p. 82.
+
+^ salvetti 2001, pp. 192–193.
+
+^ hewlett & anderson 1962, pp. 50–51.
+
+^ a b hewlett & anderson 1962, pp. 54–55.
+
+^ hewlett & anderson 1962, pp. 180–181.
+
+^ a b c weinberg 1994, p. 15.
+
+^ a b rhodes 1986, pp. 396–397.
+
+^ segrè 1970, p. 116.
+
+^ anderson 1975, p. 86.
+
+^ embrey 1970, p. 385.
+
+^ anderson 1975, pp. 86–87.
+
+^ a b rhodes 1986, pp. 399–400.
+
+^ anderson 1975, p. 88.
+
+^ rhodes 1986, pp. 400–401.
+
+^ a b rhodes 1986, p. 401.
+
+^ zug 2003, pp. 134–135.
+
+^ bearak, barry (16 september 2011). "where football and higher education mix". the new york times. retrieved 2 december 2015.
+
+^ libby 1979, p. 86.
+
+^ hewlett & anderson 1962, pp. 74–75.
+
+^ rhodes 1986, pp. 427–428.
+
+^ rhodes 1986, p. 431.
+
+^ a b anderson 1975, p. 91.
+
+^ rhodes 1986, p. 429.
+
+^ libby 1979, p. 85.
+
+^ rhodes 1986, p. 430.
+
+^ hewlett & anderson 1962, pp. 65–66, 83–88.
+
+^ jones 1985, pp. 67–68.
+
+^ a b c d e "red gate woods: 'site a'". forest preserves of cook county. retrieved 26 november 2015.
+
+^ jones 1985, pp. 71–72, 111–114.
+
+^ a b c d compton 1956, pp. 136–137.
+
+^ a b c d hewlett & anderson 1962, pp. 107–109.
+
+^ weinberg 1994, p. 17.
+
+^ a b c compton 1956, pp. 137–138.
+
+^ groves 1962, p. 53.
+
+^ nichols 1987, pp. 66.
+
+^ salvetti 2001, p. 197.
+
+^ a b c d e rhodes 1986, p. 433.
+
+^ rhodes 1986, p. 436.
+
+^ a b anderson 1975, pp. 91–92.
+
+^ a b c holl, hewlett & harris 1997, p. 16.
+
+^ "how the first chain reaction changed science". university of chicago. retrieved 22 november 2015.
+
+^ "chapter 1: wartime laboratory". ornl review. 25 (3 and 4). 2002. issn 0048-1262. archived from the original on 25 august 2009. retrieved 22 march 2016.
+
+^ libby 1979, p. 119.
+
+^ rhodes 1986, p. 434.
+
+^ "frontiers research highlights 1946–1996" (pdf). argonne national laboratory. 1996. p. 11. retrieved 23 march 2013.
+
+^ 
+walsh, j. (1981). "a manhattan project postscript" (pdf). science. 212 (4501): 1369–1371. bibcode:1981sci...212.1369w. doi:10.1126/science.212.4501.1369. pmid 17746246.
+
+^ anderson 1975, p. 93.
+
+^ fermi, enrico (1952). "experimental production of a divergent chain reaction". american journal of physics. 20 (9): 536–558. bibcode:1952amjph..20..536f. doi:10.1119/1.1933322. issn 0002-9505.
+
+^ holl, hewlett & harris 1997, pp. 16–17.
+
+^ a b "the chicago pile 1 pioneers – reactors designed/built by argonne national laboratory". argonne national laboratory. retrieved 28 november 2015. the chicago pile 1 pioneers were: harold agnew, herbert l. anderson, wayne arnold, hugh m. barton, thomas brill, robert f. christy, arthur h. compton, enrico fermi, richard j. fox, stewart fox, carl c. gamertsfelder, alvin c. graves, crawford greenewalt, norman hilberry, david l. hill, william h. hinch, robert e. johnson, w.r. kanne, august c. knuth, phillip grant koontz, herbert e. kubitschek, harold v. lichtenberger, george m. maronde, anthony j. matz, george miller, george d. monk, henry p. newson, robert g. nobles, warren e. nyer, wilcox p. overbeck, j. howard parsons, gerard s. pawlicki, theodore petry, david p. rudolph, leon sayvetz, leo seren, louis slotin, frank h. spedding, william j. sturm, leo szilard, albert wattenberg, richard j. watts, george weil, eugene p. wigner, marvin h. wilkening, volney c. (bill) wilson, leona woods and walter zinn
+
+^ groves 1962, p. 54.
+
+^ a b c d e "cp-1 goes critical". department of energy. archived from the original on 22 november 2010.
+
+^ a b c d libby 1979, pp. 120–123.
+
+^ allardice & trapnell 1982, p. 14.
+
+^ "george weil – from activator to activist" (pdf). new scientist. 56 (822): 530–531. 30 november 1972. issn 0262-4079. retrieved 25 march 2016.
+
+^ hewlett & anderson 1962, p. 174.
+
+^ rhodes 1986, p. 440.
+
+^ anderson 1975, p. 95.
+
+^ 
+"argonne's nuclear science and technology legacy: the italian navigator lands". argonne national laboratory. 10 july 2012. retrieved 26 july 2013.
+
+^ manhattan district 1947, p. 3.9.
+
+^ holl, hewlett & harris 1997, p. 23.
+
+^ 
+"reactors designed by argonne national laboratory: chicago pile 1". argonne national laboratory. 21 may 2013. retrieved 26 july 2013.
+
+^ 
+"atoms forge a scientific revolution". argonne national laboratory. 10 july 2012. retrieved 26 july 2013.
+
+^ manhattan district 1947, p. 3.13.
+
+^ a b holl, hewlett & harris 1997, p. 428.
+
+^ a b fermi, enrico (1946). "the development of the first chain reaction pile". proceedings of the american philosophical society. 90: 20–24. jstor 3301034.
+
+^ mcnear, claire (5 march 2009). "the way things work: nuclear waste". the chicago maroon. retrieved 28 november 2015.
+
+^ wattenberg 1975, p. 123.
+
+^ enrico fermi, nuclear fission, us patent no. 2,708,656, inducted in 1976. national inventors hall of fame
+
+^ aec, the understanding the atomic series, nuclear reactors, john f. hogerton
+
+^ holl, hewlett & harris 1997, p. 47.
+
+^ jones 1985, pp. 191–192.
+
+^ jones 1985, pp. 204–205.
+
+^ jones 1985, pp. 210–212.
+
+^ jones 1985, pp. 222–223.
+
+^ "u. of c. to raze stagg field's atomic cradle". chicago tribune. 26 july 1957. retrieved 28 november 2015.
+
+^ a b site of the fermi's "atomic pile" – first nuclear reactor. youtube. retrieved 28 november 2015.
+
+^ "remove nuclear site plaque". chicago tribune. 16 august 1957. retrieved 28 november 2015.
+
+^ "stagg field / mansueto library". university of chicago. retrieved 28 november 2015.
+
+^ "first-hand recollections of the first self-sustaining chain reaction". department of energy. retrieved 23 september 2015.
+
+^ "milestone for new leu research reactor fuel". world nuclear news. 22 december 2017. retrieved 29 december 2017.
+
+
+see also[edit]
+chicago pile-2
+chicago pile-3
+experimental breeder reactor i (chicago pile-4)
+chicago pile-5
+references[edit]
+.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}
+allardice, corbin; trapnell, edward r. (december 1982). "the first pile". the first reactor (pdf). oak ridge, tennessee: united states atomic energy commission, division of technical information. pp. 1–21. oclc 22115. retrieved 27 may 2017.
+amaldi, ugo (2001). "nuclear physics from the nineteen thirties to the present day".  in bernardini, c.; bonolis, luisa. enrico fermi: his work and legacy. bologna: società italiana di fisica: springer. pp. 151–176. isbn 88-7438-015-1. oclc 56686431.
+anderson, herbert l. (1975). "assisting fermi".  in wilson, jane. all in our time: the reminiscences of twelve nuclear pioneers. chicago: bulletin of the atomic scientists. pp. 66–104. oclc 1982052.
+bonolis, luisa (2001). "enrico fermi's scientific work".  in bernardini, c.; bonolis, luisa. enrico fermi: his work and legacy. bologna: società italiana di fisica: springer. pp. 314–394. isbn 88-7438-015-1. oclc 56686431.
+compton, arthur (1956). atomic quest. new york: oxford university press. oclc 173307.
+currie, l. m.; hamister, v. c.; macpherson, h. g. (1955). the production and properties of graphite for reactors. national carbon company. oclc 349979.
+embrey, lee anna (1970). "george braxton pegram 1876–1958" (pdf). biographical memoirs of the national academy of sciences. 41: 357–407. retrieved 23 november 2015.
+fermi, enrico (december 1982). "fermi's own story". the first reactor (pdf). oak ridge, tennessee: united states atomic energy commission, division of technical information. pp. 22–26. oclc 22115. retrieved 27 may 2017.
+groves, leslie (1962). now it can be told: the story of the manhattan project. new york: harper. isbn 0-306-70738-1. oclc 537684.
+hewlett, richard g.; anderson, oscar e. (1962). the new world, 1939–1946 (pdf). university park: pennsylvania state university press. isbn 0-520-07186-7. oclc 637004643. retrieved 26 march 2013.
+holl, jack m.; hewlett, richard g.; harris, ruth r. (1997). argonne national laboratory, 1946–96. university of illinois press. isbn 978-0-252-02341-5.
+jones, vincent (1985). manhattan: the army and the atomic bomb. washington, d.c.: united states army center of military history. oclc 10913875.
+lanouette, william; silard, bela (1992). genius in the shadows: a biography of leo szilard: the man behind the bomb. new york: skyhorse publishing. isbn 1-62636-023-5. oclc 25508555.
+libby, leona marshall (1979). the uranium people. new york: crane, russak. isbn 0-8448-1300-1. oclc 4665032.
+manhattan district (1947). manhattan district history, book iv – pile project x-10, volume 2 – research, part 1 – metallurgical laboratory (pdf). washington, d.c.: manhattan district.
+nichols, kenneth d. (1987). the road to trinity: a personal account of how america's nuclear policies were made. new york: william morrow and company. isbn 0-688-06910-x. oclc 15223648.
+nightingale, r.e. (1962). "graphite in the nuclear industry".  in nightingale, r.e. nuclear graphite. academic press. isbn 978-1-4832-5848-5. oclc 747492.
+rhodes, richard (1986). the making of the atomic bomb. london: simon & schuster. isbn 0-671-44133-7.
+salvetti, carlo (2001). "the birth of nuclear energy: fermi's pile".  in bernardini, c.; bonolis, luisa. enrico fermi: his work and legacy. bologna: società italiana di fisica: springer. pp. 177–203. isbn 88-7438-015-1. oclc 56686431.
+segrè, emilio (1970). enrico fermi, physicist. chicago: university of chicago press. isbn 0-226-74473-6. oclc 118467.
+wattenberg, albert (1975). "present at creation".  in wilson, jane. all in our time: the reminiscences of twelve nuclear pioneers. chicago: bulletin of the atomic scientists. pp. 105–123. oclc 1982052.
+weinberg, alvin (1994). the first nuclear era: the life and times of a technological fixer. new york: aip press. isbn 1-56396-358-2.
+zug, j. (2003). squash: a history of the game. new york: scribner. isbn 978-0-7432-2990-6. oclc 52079735.
+
+external links[edit]
+
+
+
+wikimedia commons has media related to chicago pile-1.
+the day tomorrow began: the story of chicago pile 1, the first atomic pile - aec video 1967
+photos of cp-1 the university of chicago library archive. includes photos and sketches of cp-1.
+video of west stands of stagg field, institute for the study of metals (metallurgical laboratory), enrico fermi, and an active experiment using cp-1
+the first pile 11 page story about cp-1
+"first-hand recollections of the first self-sustaining chain reaction". department of energy. retrieved 23 september 2015. video of two of the last surviving cp-1 pioneers, harold agnew and warren nyer.
+audio files of fermi recounting the success of the reactor on the 10th anniversary in 1952
+vtemanhattan projecttimelinesites
+ames
+berkeley
+chicago
+dayton
+hanford
+inyokern
+los alamos
+montreal
+new york
+oak ridge
+trinity
+wendover
+heavy water sites
+administrators
+vannevar bush
+arthur compton
+james b. conant
+priscilla duffield
+thomas farrell
+leslie groves
+john lansdale
+ernest lawrence
+james marshall
+franklin matthias
+dorothy mckibbin
+kenneth nichols
+robert oppenheimer
+deak parsons
+william purnell
+frank spedding
+charles thomas
+paul tibbets
+bud uanna
+harold urey
+stafford warren
+ed westcott
+roscoe wilson
+scientists
+luis alvarez
+robert bacher
+hans bethe
+aage bohr
+niels bohr
+norris bradbury
+james chadwick
+john cockcroft
+harry daghlian
+enrico fermi
+richard feynman
+val fitch
+james franck
+klaus fuchs
+maria goeppert mayer
+george kistiakowsky
+george koval
+willard libby
+edwin mcmillan
+mark oliphant
+norman ramsey
+isidor isaac rabi
+james rainwater
+bruno rossi
+glenn seaborg
+emilio segrè
+louis slotin
+henry dewolf smyth
+leo szilard
+edward teller
+stanisław ulam
+john von neumann
+john wheeler
+eugene wigner
+robert wilson
+leona woods
+operations
+alsos mission
+bombings of hiroshima and nagasaki
+operation crossroads
+operation peppermint
+project alberta
+silverplate
+509th composite group
+enola gay
+bockscar
+the great artiste
+weapons
+fat man
+little boy
+pumpkin bomb
+thin man
+related topics
+atomic energy act of 1946
+british contribution
+chicago pile-1
+demon core
+einstein–szilárd letter
+interim committee
+oppenheimer security hearing
+plutonium
+quebec agreement
+rala experiment
+s-1 executive committee
+s-50 project
+smyth report
+uranium
+x-10 graphite reactor
+ manhattan project
+vtechicago landmark memorials and monumentsnational historic landmark,national register of historic places,chicago landmark
+site of the haymarket tragedy
+site of first self-sustaining nuclear reaction (nuclear energy)
+union stock yard gate
+national historic landmark,national register of historic places
+jean baptiste point du sable homesite
+national register of historic places,chicago landmark
+douglas tomb
+getty tomb
+victory monument
+chicago landmark
+clarence buckingham memorial fountain and garden
+site of the origin of the chicago fire of 1871
+site of fort dearborn
+heald square monument
+site of the origins of the i&m canal
+illinois-indiana state line boundary marker
+abraham lincoln: the man statue
+site of the john and mary jones house
+wigwam (site of the sauganash hotel)
+statue of the republic
+see also
+rosehill cemetery entrance
+
+vtechicago landmark educationnational historic landmark, national register of historic places, chicago landmark
+lorado taft midway studios
+site of first self-sustaining nuclear reaction (nuclear energy)
+national historic landmark,national register of historic places
+george herbert jones laboratory
+national register of historic places, chicago landmark
+immaculata high school and convent buildings
+main building and machinery hall, illinois institute of technology
+mundelein college skyscraper building
+st. ignatius college prep building
+chicago landmark
+american school of correspondence
+assumption school building
+wendell phillips academy high school
+rockefeller chapel
+schurz high school
+sexton school
+james ward public school
+robert lindblom math & science academy
+dusable high school
+
+vteuniversity of chicagoacademicsschools
+the college
+booth school of business
+divinity school
+graham school of continuing liberal and professional studies
+harris school of public policy studies
+law school
+pritzker school of medicine
+school of social service administration
+other
+argonne national laboratory
+becker friedman institute
+center for middle eastern studies
+center for population economics
+center for research in security prices
+chicago school of economics
+committee on social thought
+comprehensive cancer center
+enrico fermi institute
+fermilab
+james franck institute
+institute of politics
+laboratory schools
+marine biological laboratory
+medical center
+ national opinion research center
+obama presidential center
+oriental institute
+paulson institute
+sonia shankman orthogenic school
+toyota technological institute
+university of chicago press
+yerkes observatory
+residence halls
+burton–judson courts
+snell–hitchcock
+housing at the university of chicago
+campus
+bartlett hall
+george herbert jones laboratory
+gerald ratner athletics center
+henry crown fieldhouse
+hutchinson commons
+ida noyes hall
+library
+joe and rika mansueto library
+john crerar library
+regenstein library
+lorado taft midway studios
+midway plaisance
+quadrangle club
+renaissance society
+robie house
+rockefeller chapel
+seminary co-op
+smart museum of art
+stagg field
+history
+cannon v. university of chicago
+chicago pile-1
+nuclear energy
+graduate library school
+university of chicago sit-ins
+kenwood astrophysical observatory
+metallurgical laboratory
+old university of chicago
+sports and traditions
+maroons
+football
+men's basketball
+women's basketball
+lascivious costume ball
+latke–hamantash debate
+scavenger hunt
+university athletic association
+student organizations
+band
+the chicago maroon
+chicago review
+contemporary chamber players
+doc films
+off-off campus
+poetry club
+student government
+voices in your head
+whpk
+people
+alumni
+school of business
+law school
+faculty
+school of business
+nobel laureates
+
+
+
+chicago portalhistory of science portalnrhp portalnuclear technology portalworld war ii portal
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=chicago_pile-1&oldid=880074627"					
+categories: history of the manhattan projectenrico fermiargonne national laboratorygraphite moderated reactorsnuclear research reactorsnuclear history of the united statesnational historic landmarks in chicagolandmarks in chicago1942 in illinoisinfrastructure completed in 1942energy infrastructure on the national register of historic places20th century in chicagosouth side, chicagouniversity of chicago1942 establishments in illinois1942 in the united statesnational register of historic places in chicagohidden categories: featured articlescoordinates on wikidatause dmy dates from september 2015 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+العربيةčeštinadeutschespañolfrançaisgalego한국어hrvatskiitalianobahasa melayu日本語norskpolskiportuguêsрусскийsvenskatürkçeукраїнськаاردوtiếng việt中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 25 january 2019, at 04:57 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"1.636","walltime":"1.909","ppvisitednodes":{"value":10183,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":228385,"limit":2097152},"templateargumentsize":{"value":11311,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":13,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":219807,"limit":5000000},"entityaccesscount":{"value":6,"limit":400},"timingprofile":["100.00% 1555.152      1 -total"," 29.79%  463.267      1 template:reflist"," 22.38%  348.090      3 template:infobox"," 18.46%  287.145      1 template:infobox_nrhp"," 12.29%  191.093    107 template:sfn"," 11.53%  179.292     22 template:cite_book"," 11.34%  176.337     21 template:cite_web","  9.33%  145.025     17 template:cite_journal","  7.36%  114.453      5 template:navbox","  5.28%   82.183     43 template:convert"]},"scribunto":{"limitreport-timeusage":{"value":"0.916","limit":"10.000"},"limitreport-memusage":{"value":10076598,"limit":52428800}},"cachereport":{"origin":"mw1262","timestamp":"20190218150910","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":114,"wghostname":"mw1327"});});
+
+

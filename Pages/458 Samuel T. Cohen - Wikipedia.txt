@@ -1,0 +1,315 @@
+
+
+
+
+samuel t. cohen - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"samuel_t._cohen","wgtitle":"samuel t. cohen","wgcurrevisionid":875667485,"wgrevisionid":875667485,"wgarticleid":904426,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["cs1 maint: archived copy as title","all articles with unsourced statements","articles with unsourced statements from january 2010","all articles with self-published sources","articles with self-published sources from december 2017","wikipedia articles with bibsys identifiers","wikipedia articles with gnd identifiers","wikipedia articles with isni identifiers","wikipedia articles with lccn identifiers","wikipedia articles with snac-id identifiers","wikipedia articles with sudoc identifiers","wikipedia articles with viaf identifiers","wikipedia articles with worldcat-viaf identifiers","1921 births","2010 deaths","people from brooklyn","american atheists","american people of austrian-jewish descent","jewish american scientists","jewish atheists","university of california, los angeles alumni","american nuclear physicists","manhattan project people","deaths from stomach cancer","deaths from cancer in california","rand corporation people","scientists from new york (state)"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"samuel_t._cohen","wgrelevantarticleid":904426,"wgrequestid":"xgn1qqpamfaaaacvcgiaaaah","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q560098","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+samuel t. cohen 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+for other people named samuel cohen, see samuel cohen (disambiguation).
+ samuel t. cohen, 1982 photo
+samuel theodore cohen[1] (january 25, 1921 – november 28, 2010) was an american physicist who is generally credited as the father of the neutron bomb.
+
+contents
+
+1 biography
+
+1.1 "clean" nuclear tests
+1.2 u.s. department of defense manual on the neutron bomb
+
+
+2 alleged support from the pope for low-yield tactical nuclear bombs
+
+2.1 red mercury claims
+2.2 political involvement
+
+
+3 support for baptist pastor and author william p. grady
+4 death
+5 in popular culture
+6 references
+7 further reading
+
+
+biography[edit]
+cohen's parents were austrian jews[2] who emigrated from london, england.  he was born on january 25, 1921, in brooklyn and raised in new york city.  he studied mathematics and physics at university of california, los angeles before joining the united states army after the japanese attack on pearl harbor.[3]  in 1944 he worked on the manhattan project in the efficiency group at los alamos and calculated how neutrons behaved in fat man, the atomic bomb that was later detonated over nagasaki, japan.  after the war he studied for his ph.d. at berkeley before dropping out to join the rand corporation.[3]  at rand corporation in 1950, his work on the intensity of fallout radiation first became public when his calculations were included as a special appendix in samuel glasstone's book the effects of atomic weapons.  cohen was personally responsible for recruiting the famous strategist herman kahn into the rand corporation.[4]
+
+ samuel t. cohen, los alamos identification badge photo
+during the vietnam war, cohen argued that using small neutron bombs would end the war quickly and save many american lives, but politicians were not amenable to his ideas and other scientists ignored the neutron bomb in reviewing the role of nuclear weapons.[5] he was a member of the los alamos tactical nuclear weapons panel in the early 1970s.  president carter delayed development of the neutron bomb in 1978,[6] but during ronald reagan's presidency, cohen claims to have convinced reagan to make 700 neutron bombs, 350 shells to go into the 8 inch (200-millimeter) howitzer and 350 w70 mod. 3 warheads for the lance missile.[7]
+
+"clean" nuclear tests[edit]
+in 1956, president dwight d. eisenhower announced the testing of a 95% "clean" (2-stage) fusion weapon, later identified to have been the 11 july navajo test at bikini atoll during operation redwing. this weapon had a yield of 4.5 megatons.  previous "dirty" weapons had fission proportions of 50–77%, due to the use of uranium-238 as a "pusher" around the lithium deuteride (secondary) stage. this is deliberate; the fusion reactions give off large quantities of 14.1 m neutrons, which have more energy than then 1.1 mev "fission threshold" for u238. this means the neutrons, which would otherwise escape, create fission reactions in the tamper, increasing the overall yield of the weapon essentially "for free".
+the 1956 "clean" tests used a lead pusher, while in 1958 a tungsten carbide pusher was employed.  hans a. bethe supported clean nuclear weapons in 1958 as chairman of a presidential science advisory group on nuclear testing:[8]
+
+... certain hard targets require ground bursts, such as airfield runways if it is desired to make a crater, railroad yards if severe destruction of tracks is to be accomplished ... the use of clean weapons in strategic situations may be indicated in order to protect the local population.– dr. hans bethe, working group chairman, 27 march 1958 "top secret — restricted data" report to the nsc ad hoc working group on the technical feasibility of a cessation of nuclear testing, p 9.
+in consequence of bethe's recommendations, on 12 july 1958, the hardtack-poplar shot of the mk-41c warhead was carried out on a barge in the lagoon yielded 9.3 megatons, of which only 4.8% was fission, and thus 95.2% "clean".
+in 1958, cohen investigated a low-yield "clean" nuclear weapon and discovered that the "clean" bomb case thickness scales as the cube-root of yield.  so a larger percentage of neutrons escapes from a small detonation, due to the thinner case required to reflect back x-rays during the secondary stage (fusion) ignition.  for example, a 1-kiloton bomb only needs a case one-tenth the thickness of that required for 1-megaton.
+so, although most neutrons are absorbed by the casing in a 1-megaton bomb, in a 1-kiloton bomb they would mostly escape.  a neutron bomb is only feasible if the yield is sufficiently high that efficient fusion stage ignition is possible, and if the yield is low enough that the case thickness will not absorb too many neutrons.  this means that neutron bombs have a yield range of 1–10 kilotons, with fission proportion varying from 50% at 1-kiloton to 25% at 10-kilotons (all of which comes from the primary stage).  the neutron output per kiloton is then 10–15 times greater than for a pure fission implosion weapon or for a strategic warhead like a w87 or w88.[9]
+
+u.s. department of defense manual on the neutron bomb[edit]
+cohen's neutron bomb is not mentioned in the unclassified manual by glasstone and dolan, the effects of nuclear weapons 1957–1977, but is included as an "enhanced neutron weapon" in chapter 5 of the declassified (formerly secret) manual edited by philip j. dolan, capabilities of nuclear weapons, u.s. department of defense, effects manual dna-em-1, updated 1981 (u.s. freedom of information act).
+under most atmospheric conditions no fallout effects would occur from the use of a neutron bomb, according to that manual, as the combination of 500-meter burst altitude and low yield prevents fallout in addition to significant thermal and blast effects. the reduction in damage outside the target area is a major advantage of such a weapon to deter massed tank invasions. an aggressor would thus be forced to disperse tanks, which would make them easier to destroy by simple hand-held anti-tank missile launchers.
+cohen's backing of investigations into these controversial ideas won him some media attention after many years of being ignored. in 1992 he was featured in the award-winning bbc tv series pandora's box, episode "to the brink of eternity", discussing his battles with officialdom and colleagues at the rand corporation. cohen controversially argued: "when we started this systems analysis business, we stepped through the looking glass where people did the weirdest things and (used) the most perverse kind of logic imaginable and yet claimed to have the most precise understanding of everything."[10]
+
+alleged support from the pope for low-yield tactical nuclear bombs[edit]
+cohen reportedly worked in france on low-yield, highly discriminate tactical nuclear weapons in 1979–80.[11] he claimed that he was awarded a medal by pope john paul ii in 1979 for his bid to reform modern warfare.[12] author charles platt reported in a 2005 profile of sam cohen that "... he showed me the medal of peace that he had received from the pope in 1979."[13]
+at the time, warsaw pact forces had a massive tank superiority in europe (though nato maintained an overall strategic superiority); the christian science monitor reported in 1981 that there were "19,500 tanks in the soviet-controlled forces of the warsaw pact aimed at western europe. of these, 12,500 are soviet tanks in soviet units. nato has 7,000 tanks on its side facing the 19,500."[14] a deterrent which was designed to minimise civilian casualties was a step away from the risk of indiscriminate warfare. the neutron bomb's killing by neutron radiation is different from the fallout of a normal high yield thermonuclear weapon because it can be controlled more precisely, restricted to military targets and kept away from civilians.[citation needed]
+the speed of modern warfare meant that the civilian population would be unlikely to be able to withdraw from combat zones and would suffer a large number of deaths in a nuclear war where the blast yields and fallout were significant. because neutron bombs do not produce the indiscriminate blast (only 40 kilopascals at ground zero from a 1 kt blast yield detonation at 500 m altitude, and only 7 kpa at 2 km distance), heat, and fallout damage of other nuclear weapons, they were more credible as a deterrent to soviet tanks. however, many people believed that the very deployment of the neutron bomb threatened an escalation to full-scale nuclear retaliation, thus canceling out the supposed benefits. advances in precision anti-tank weapons ultimately made the neutron bomb redundant tactically in its original objective. the debate over "clean" low yield nuclear weapons continues with earth penetrator technology ("nuclear bunker busters").
+
+red mercury claims[edit]
+more recently, cohen was the main proponent of what most consider to be a mythical substance, red mercury. if the "conventional story" is to be believed, red mercury was a disinformation campaign led by us government agencies in order to lure potential terrorists into being captured. the story that was released was that red mercury was developed by the soviet union as a "shortcut" to a fusion bomb, and that with the fall of the soviet union it was being offered on the market by the soviet mafia. when prospective buyers showed up to take delivery of the material, they were arrested.
+during the height of the story, in the 1990s, cohen became a proponent of red mercury, claiming not only that it existed, but going further to claim that it was a powerful ballotechnic material that directly compressed the fusion fuel without the need for a fission primary. bombs using red mercury had no real critical mass and could be developed at any size. he further claimed that the soviets had produced a number of "micro-nukes" based on red mercury, which are described as being about as large as a baseball and weighing 10 pounds. according to cohen, their existence meant that any effort to control nuclear proliferation based on fissile material was thus hopeless. a reiteration of the claim can be seen in the nuclear threat that doesn't exist – or does it?, by cohen and joe douglass in an 11 march 2003 guest editorial in financial sense online.[11]
+in a column for worldnetdaily, cohen claimed that 100 of these mini-nukes were in the hands of terrorists,[15] and later that saddam hussein had taken delivery of about fifty of these devices, which he supposedly planned on using against the us forces as they approached baghdad.
+
+political involvement[edit]
+cohen spoke at an april 2000 fundraiser in la canada, california, for then-reform party presidential candidate patrick buchanan.[16] irv rubin was prominently present at this event, with his organization, the jewish defense league (jdl), and with members of the libertarian party, to protest. the jdl posted cohen's home phone number and address on its website, urging its members to contact him, to persuade him to stop supporting buchanan.[17]
+in her address to the 2000 reform party national convention, buchanan's running mate, ezola foster, cited cohen's endorsement of buchanan to refute the claim that the candidate was anti-semitic.[18]
+
+support for baptist pastor and author william p. grady[edit]
+as part of a self-described unusual friendship, cohen wrote the afterword to dr. william p. grady's 2005 bestseller titled how satan turned america against god.  cohen explained that although he was an unbelieving jew, and thus could not relate to the spiritual content of the book, he concurred with grady's grasp of america's disastrous foreign policy.[19]
+
+death[edit]
+he died on november 28, 2010 in brentwood, los angeles, from complications of his stomach cancer.[20]
+
+in popular culture[edit]
+on the dvd of film repo man (which contains a fictional character loosely based on cohen and the neutron bomb as a plot device), cohen is interviewed in the commentary on the deleted scenes.  during the interview, cohen  asserts that the neutron bomb conforms to just war theories.
+
+references[edit]
+
+
+^ "samuel t. cohen dies at 89; inventor of the neutron bomb" los angeles times 2 december 2010
+
+^ maugh ii, thomas h. (december 2, 2010). "samuel t. cohen dies at 89; inventor of the neutron bomb". los angeles times..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ a b miller, stephen (december 1, 2010). "neutron bomb was his life's mission". wall street journal.
+
+^ http://www.hudson.org/index.cfm?fuseaction=publication_details&id=817
+
+^ "archived copy" (pdf). archived from the original (pdf) on 2006-07-02. retrieved 2006-04-19.cs1 maint: archived copy as title (link)
+
+^ "1978: carter delays n-bomb production". bbc news. april 7, 1978.
+
+^ "archived copy". archived from the original on 2006-06-02. retrieved 2005-12-27.cs1 maint: archived copy as title (link)
+
+^ http://worf.eh.doe.gov/data/ihp1b/7374_.pdf
+
+^ "neutron bomb: why 'clean' is deadly". bbc news. july 15, 1999.
+
+^ santa monica mirror: rand and the city: part v
+
+^ a b cohen, sam; douglass, joe (11 march 2003), the nuclear threat that doesn't exist - or does it?, financial sense editorials, archived from the original on 16 october 2008
+
+^ cohen, sam (2006), f*** you! mr. president: confessions of the father of the neutron bomb (pdf), conrad schneiker, p. 199, archived from the original (pdf) on 2007-09-28
+
+^ platt, charles (august 2005), the profits of fear (pdf)
+
+^ harsch, joseph c. (14 august 1981), "neutron bomb: why it worries the russians", christian science monitor
+
+^ cohen, sam; douglass, joe (8 november 2001), realities of nuclear terrorism, worldnetdaily
+
+^ "buchanan promises to protect border." los angeles times. april 30, 2000.
+
+^ raimondo, justin. "wild about harry: why i am not voting libertarian this year." antiwar.com june 14, 2000. accessed august 11, 2009.
+
+^ foster, ezola. "reform party vice presidential nomination acceptance speech. august 12, 2000. accessed august 11, 2009.
+
+^ grady, william. how satan turned america against god, afterword, 2005."
+
+^ robert d. mcfadden (december 1, 2010). "samuel t. cohen, neutron bomb inventor, dies at 89". new york times. retrieved 2010-12-02. samuel t. cohen, the physicist who invented the small tactical nuclear weapon known as the neutron bomb, a controversial device designed to kill enemy troops with subatomic particles but leave battlefields and cities relatively intact, died on sunday at his home in los angeles. he was 89. the cause was complications of stomach cancer, his son paul said.
+
+
+further reading[edit]
+.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}
+hans a. bethe, working group chairman, originally top secret - restricted data report of the president's science advisory committee, 28 march 1958, defending on pages 8–9 "clean nuclear weapons tests", online
+terry triffet and philip lariviere, characterization of fallout, operation redwing fallout studies, directly comparing contamination from two "dirty" tests (tewa and flathead) to two "clean" tests (navajo and zuni), online
+christopher ruddy, bomb inventor says u.s. defenses suffer because of politics, june 15, 1997 online
+charles platt, profits of fear, august 16, 2005 online here and here in other formats
+sam cohen and joseph d. douglass, jr, "the nuclear threat that doesn't exist   – or does it?", march 11, 2003, online; red mercury, fusion-only neutron bombs, russia, iraq, etc.
+---- north korea's nuclear initiative, april 28, 2004 online
+---- development of new low-yield nuclear weapons, march 9, 2003, online
+---- the rogue nuclear threat,  may 26, 2002, [1]
+joe douglass, the conflict over tactical nuclear weapons policy in europe (1968)
+william r. van cleave & s. t. cohen, nuclear weapons, policies, and the test ban issue, 1987, isbn 0-275-92312-6
+samuel t. cohen, we can prevent world war iii, 1985, 2001, isbn 0-915463-10-5
+— (1983). the truth about the neutron bomb: the inventor of the bomb speaks out. william morrow & co. isbn 0-688-01646-4.
+— (2000). shame: confessions of the father of the neutron bomb (1st ed.). xlibris. isbn 0-7388-2230-2.[self-published source]
+— (september 2015). shame: confessions of the father of the neutron bomb (pdf) (4th ed.). archived from the original (pdf) on 2015-10-23. retrieved 2016-11-14.
+— & schneiker, conrad (october 12, 1998). "needed: a real abm defense" (pdf). the new american. vol. 14 no. 21. p. 21. issn 0885-6540. archived from the original (pdf) on july 22, 2011. retrieved 2016-11-14.
+---- & marc geneste, echec a la guerre : la bombe a neutrons, copernic, 1980
+sherri l. wasserman, the neutron bomb controversy: a study in alliance politics, praeger, 1983
+review of shame published on amazon
+thomas powers, trying to save zilchburg, new york times, may 1, 1983 online
+rand corporation unclassified reports authored by s. t. cohen, 1948–75 (includes neutron bomb studies)
+"secrets, lies, and atomic spies", pbs transcript, airdate: february 5, 2002
+
+authority control 
+bibsys: 90127707
+gnd: 143347683
+isni: 0000 0001 0913 2884
+lccn: n79060580
+snac: w65v5p22
+sudoc: 148919480
+viaf: 70204648
+ worldcat identities (via viaf): 70204648
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=samuel_t._cohen&oldid=875667485"					
+categories: 1921 births2010 deathspeople from brooklynamerican atheistsamerican people of austrian-jewish descentjewish american scientistsjewish atheistsuniversity of california, los angeles alumniamerican nuclear physicistsmanhattan project peopledeaths from stomach cancerdeaths from cancer in californiarand corporation peoplescientists from new york (state)hidden categories: cs1 maint: archived copy as titleall articles with unsourced statementsarticles with unsourced statements from january 2010all articles with self-published sourcesarticles with self-published sources from december 2017wikipedia articles with bibsys identifierswikipedia articles with gnd identifierswikipedia articles with isni identifierswikipedia articles with lccn identifierswikipedia articles with snac-id identifierswikipedia articles with sudoc identifierswikipedia articles with viaf identifierswikipedia articles with worldcat-viaf identifiers 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikiquote 
+
+
+
+languages
+
+
+العربيةazərbaycancadeutschespañolفارسیfrançaisitalianoעבריתമലയാളംမြန်မာဘာသာnederlandsportuguêsрусскийsuomi中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 28 december 2018, at 05:13 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.416","walltime":"0.550","ppvisitednodes":{"value":1630,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":41429,"limit":2097152},"templateargumentsize":{"value":2005,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":10,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":50836,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  452.017      1 -total"," 37.30%  168.585      1 template:reflist"," 20.94%   94.653      5 template:cite_news"," 15.13%   68.373      2 template:fix"," 14.48%   65.438      1 template:citation_needed"," 10.45%   47.236      1 template:authority_control"," 10.41%   47.047      2 template:isbn","  9.25%   41.800      3 template:category_handler","  7.60%   34.374      1 template:other_people","  6.93%   31.338      5 template:citation"]},"scribunto":{"limitreport-timeusage":{"value":"0.213","limit":"10.000"},"limitreport-memusage":{"value":4711569,"limit":52428800}},"cachereport":{"origin":"mw1238","timestamp":"20190214003121","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"samuel t. cohen","url":"https:\/\/en.wikipedia.org\/wiki\/samuel_t._cohen","sameas":"http:\/\/www.wikidata.org\/entity\/q560098","mainentity":"http:\/\/www.wikidata.org\/entity\/q560098","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2004-08-16t15:22:08z","datemodified":"2018-12-28t05:13:49z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/8\/86\/an_image_of_sam_cohen.jpg","headline":"american physicist"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":128,"wghostname":"mw1245"});});
+
+

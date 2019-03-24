@@ -1,0 +1,942 @@
+
+
+
+
+iter - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"iter","wgtitle":"iter","wgcurrevisionid":883290924,"wgrevisionid":883290924,"wgarticleid":261362,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["cs1 maint: archived copy as title","coordinates on wikidata","use dmy dates from may 2013","all articles with unsourced statements","articles with unsourced statements from december 2015","wikipedia articles needing clarification from december 2018","articles containing potentially dated statements from 2018","all articles containing potentially dated statements","articles with unsourced statements from april 2008","articles with unsourced statements from february 2007","articles with unsourced statements from march 2016","articles with unsourced statements from january 2019","commons category link is on wikidata","official website different in wikidata and wikipedia","interlanguage link template link number","buildings and structures in bouches-du-rhône","fusion power","fusion reactors","international science experiments","nuclear energy in france","nuclear research institutes","plasma physics","proposed fusion reactors","research projects","tokamaks"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"iter","wgrelevantarticleid":261362,"wgrequestid":"xgthnapaic4aaeoz-oaaaabs","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgcoordinates":{"lat":43.70831,"lon":5.77741},"wgwikibaseitemid":"q191788","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+iter 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+for the type of medieval circuit court, see eyre (legal term).for the computer science terminology, see iterator.
+coordinates: 43°42′30″n 5°46′39″e﻿ / ﻿43.70831°n 5.77741°e﻿ / 43.70831; 5.77741
+
+international thermonuclear experimental reactorthirty-five participating nationsformation24 october 2007headquarterssaint-paul-lès-durance, francedirector-generalbernard bigotwebsitewww.iter.org
+itertypetokamakconstruction date2013–2025major radius6.2 mplasma volume840 m3magnetic field11.8 t (peak toroidal field on coil)5.3 t (toroidal field on axis)6 t (peak poloidal field on coil)heating50 mwfusion power500 mwcontinuous operationup to 1000 slocationsaint-paul-lès-durance, france
+iter (international thermonuclear experimental reactor) is an international nuclear fusion research and engineering megaproject, which will be the world's largest magnetic confinement plasma physics experiment. it is an experimental tokamak nuclear fusion reactor that is being built next to the cadarache facility in saint-paul-lès-durance, in provence, southern france.[1]
+iter was proposed in 1987[2] and designed as the international thermonuclear experimental reactor, according to the "iter technical basis," published by the international atomic energy agency, in 2002.[3] by 2005, the iter organization abandoned the original meaning of the acronym iter, and instead adopted a new meaning, the latin word for "the way."[4]
+the iter thermonuclear fusion reactor has been designed to produce a fusion plasma equivalent to 500 megawatts (mw) of thermal output power for around twenty minutes while 50 megawatts of thermal power are injected into the tokamak, resulting in a ten-fold gain of plasma heating power.[5] 
+thereby the machine aims to demonstrate the principle of producing more thermal power from the fusion process than is used to heat the plasma, something that has not yet been achieved in any fusion reactor. 
+the total electricity consumed by the reactor and facilities will range from 110 mw up to 620 mw peak for 30-second periods during plasma operation.[6]
+thermal-to-electric conversion is not included in the design because iter will not produce sufficient power for net electrical production. the emitted heat from the fusion reaction will be vented to the atmosphere.[7][8]
+the project is funded and run by seven member entities—the european union, india, japan, china, russia, south korea, and the united states. the eu, as host party for the iter complex, is contributing about 45 percent of the cost, with the other six parties contributing approximately 9 percent each.[9][10][11]
+in 2016 the iter organization signed a technical cooperation agreement with the national nuclear fusion agency of australia, enabling this country access to research results of iter in exchange for construction of selected parts of the iter machine.[12]
+construction of the iter tokamak complex started in 2013[13] and the building costs are now over us$14 billion as of june 2015.[14] the facility is expected to finish its construction phase in 2025 and will start commissioning the reactor that same year. initial plasma experiments are scheduled to begin in 2025, with full deuterium–tritium fusion experiments starting in 2035.[15][16] if iter becomes operational, it will become the largest magnetic confinement plasma physics experiment in use with a plasma volume of 840 cubic meters,[17] surpassing the joint european torus by almost a factor of 10.
+the goal of iter is to demonstrate the scientific and technological feasibility of fusion energy for peaceful use.[18]
+it is the latest and largest of more than 100 fusion reactors built since the 1950s.[18]
+iter's planned successor, demo, is expected to be the first fusion reactor to produce electricity in an experimental environment. 
+demo's anticipated success is expected to lead to full-scale electricity-producing fusion power stations and future commercial reactors.[19]
+
+contents
+
+1 background
+2 organization history
+3 objectives
+4 timeline and current status
+5 reactor overview
+6 technical design
+
+6.1 vacuum vessel
+6.2 breeder blanket
+6.3 magnet system
+6.4 additional heating
+6.5 cryostat
+6.6 cooling systems
+
+
+7 location
+8 participants
+9 funding
+10 criticism
+
+10.1 responses to criticism
+
+
+11 similar projects
+12 see also
+13 references
+14 external links
+
+
+background[edit]
+ iter will produce energy by fusing deuterium and tritium to helium.
+fusion power has the potential to provide sufficient energy to satisfy mounting demand, and to do so sustainably, with a relatively small impact on the environment.
+nuclear fusion has many potential attractions. firstly, its hydrogen isotope fuels are relatively abundant – one of the necessary isotopes, deuterium, can be extracted from seawater, while the other fuel, tritium, would be bred from a lithium blanket using neutrons produced in the fusion reaction itself.[20] furthermore, a fusion reactor would produce virtually no co2 or atmospheric pollutants, and its radioactive waste products would mostly be very short-lived compared to those produced by conventional nuclear reactors.
+on 21 november 2006, the seven participants formally agreed to fund the creation of a nuclear fusion reactor.[21] the program is anticipated to last for 30 years – 10 for construction, and 20 of operation. iter was originally expected to cost approximately €5 billion, but the rising price of raw materials and changes to the initial design have seen that amount almost triple to €13 billion.[14] the reactor is expected to take 10 years to build with completion scheduled for 2019.[22] site preparation has begun in cadarache, france, and procurement of large components has started.[23]
+when supplied with 300 mw of electrical power, iter is expected to produce the equivalent of 500 mw of thermal power sustained for up to 1,000 seconds.[24] this compares to jet's consumption of 700 mw of electrical power and peak thermal output of 16 mw for less than a second) by the fusion of about 0.5 g of deuterium/tritium mixture in its approximately 840 m3 reactor chamber. the heat produced in iter will not be used to generate any electricity because after accounting for losses and the 300 mw minimum power input, the 
+output will be equivalent to a zero (net) power reactor.[7]
+
+organization history[edit]
+ ronald reagan and mikhail gorbachev at the geneva summit in 1985
+iter began in 1985 as a reagan–gorbachev[25][26] initiative[26][27] with the equal participation of the soviet union, the european atomic energy community, the united states, and japan through the 1988–1998 initial design phases. preparations for the first gorbachev-reagan summit showed that there were no tangible agreements in the works for the summit.
+one energy research project, however, was being considered quietly by two physicists, alvin trivelpiece and evgeny velikhov. the project involved collaboration on the next phase of magnetic fusion research — the construction of a demonstration model. at the time, magnetic fusion research was ongoing in japan, europe, the soviet union and the us. velikhov and trivelpiece believed that taking the next step in fusion research would be beyond the budget of any of the key nations and that collaboration would be useful internationally.
+a major bureaucratic fight erupted in the us government over the project. one argument against collaboration was that the soviets would use it to steal us technology and know-how. a second was symbolic — the soviet physicist andrei sakharov was in internal exile and the us was pushing the soviet union on its human rights record. the united states national security council convened a meeting under the direction of william flynn martin that resulted in a consensus that the us should go forward with the project.
+martin and velikhov concluded the agreement that was agreed at the summit and announced in the last paragraph of this historic summit meeting, "... the two leaders emphasized the potential importance of the work aimed at utilizing controlled thermonuclear fusion for peaceful purposes and, in this connection, advocated the widest practicable development of international cooperation in obtaining this source of energy, which is essentially inexhaustible, for the benefit for all mankind."[28]
+conceptual and engineering design phases carried out under the auspices of the iaea led to an acceptable, detailed design in 2001, underpinned by us$650 million worth of research and development by the "iter parties" to establish its practical feasibility.[citation needed] these parties, namely eu, japan, russian federation (replacing the soviet union), and united states (which opted out of the project in 1999 and returned in 2003), were joined in negotiations by china, south korea, and canada (who then terminated its participation at the end of 2003). india officially became part of iter in december 2005.
+on 28 june 2005, it was officially announced that iter would be built in the european union in southern france. the negotiations that led to the decision ended in a compromise between the eu and japan, in that japan was promised 20% of the research staff on the french location of iter, as well as the head of the administrative body of iter. in addition, another research facility for the project will be built in japan, and the european union has agreed to contribute about 50% of the costs of this institution.[29]
+on 21 november 2006, an international consortium signed a formal agreement to build the reactor.[30] on 24 september 2007, the people's republic of china became the seventh party to deposit the iter agreement to the iaea. finally, on 24 october 2007, the iter agreement entered into force and the iter organization legally came into existence.
+
+objectives[edit]
+iter's mission is to demonstrate the feasibility of fusion power, and prove that it can work without negative impact.[31] specifically, the project aims to:
+
+momentarily produce a fusion plasma with thermal power ten times greater than the injected thermal power (a q value of 10).
+produce a steady-state plasma with a q value greater than 5. (q = 1 is scientific breakeven.)
+maintain a fusion pulse for up to 8 minutes.
+develop technologies and processes needed for a fusion power station — including superconducting magnets and remote handling (maintenance by robot).
+verify tritium breeding concepts.
+refine neutron shield/heat conversion technology (most of the energy in the d+t fusion reaction is released in the form of fast neutrons).
+timeline and current status[edit]
+ aerial view of the iter site in 2018
+ iter construction status in 2018
+in 1978, the european commission, japan, united states, and ussr joined in the international tokamak reactor (intor) workshop, under the auspices of the international atomic energy agency (iaea), to assess the readiness of magnetic fusion to move forward to the experimental power reactor (epr) stage, to identify the additional r&d that must be undertaken, and to define the characteristics of such an epr by means of a conceptual design. hundreds of fusion scientists and engineers in each participating country took part in a detailed assessment of the then present status of the tokamak confinement concept vis-a-vis the requirements of an epr, identified the required r&d by early 1980, and produced a conceptual design by mid-1981.
+in 1985, at the geneva summit meeting in 1985, mikhail gorbachev suggested to ronald reagan that the two countries jointly undertake the construction of a tokamak epr as proposed by the intor workshop. the iter project was initiated in 1988.[32][33]
+
+
+project milestones
+
+
+date
+event
+
+
+1988
+iter project officially initiated.[32][33] conceptual design activities ran from 1988 to 1990.[34]
+
+
+1992
+engineering design activities from 1992[35] to 1998.[36]
+
+
+2005
+india officially became part of iter.
+
+
+2006
+approval of a cost estimate of €10 billion (us$12.8 billion) projecting the start of construction in 2008 and completion a decade later.[21]
+
+
+2008
+site preparation start, iter itinerary start.[37]
+
+
+2009
+site preparation completion.[37]
+
+
+2010
+tokamak complex excavation starts.[33]
+
+
+2013
+tokamak complex construction starts.[37]
+
+
+2015
+tokamak construction starts,[38][39] but the schedule is extended by at least six years.[40]
+
+
+2016
+the atomic energy organization of iran formally requests to join iter.[41]
+
+
+2017
+assembly hall ready for equipment
+
+
+2018-2025
+assembly and integration[42]
+
+
+2025
+planned: assembly ends; commissioning phase starts[42]
+
+
+2025
+planned: achievement of first plasma.[43]
+
+
+2035
+planned: start of deuterium–tritium operation.[44]
+
+reactor overview[edit]
+see also: nuclear fusion
+when deuterium and tritium fuse, two nuclei come together to form a helium nucleus (an alpha particle), and a high-energy neutron.
+
+21d + 31t → 42he + 10n + 6988281822844063300♠17.59 mev
+while nearly all stable isotopes lighter on the periodic table than iron-56 and nickel-62, which have the highest binding energy per nucleon, will fuse with some other isotope and release energy, deuterium and tritium are by far the most attractive for energy generation as they require the lowest activation energy (thus lowest temperature) to do so, while producing among the most energy per unit weight.
+all proto- and mid-life stars radiate enormous amounts of energy generated by fusion processes. mass for mass, the deuterium–tritium fusion process releases roughly three times as much energy as uranium-235 fission, and millions of times more energy than a chemical reaction such as the burning of coal. it is the goal of a fusion power station to harness this energy to produce electricity.
+activation energies for fusion reactions are generally high because the protons in each nucleus will tend to strongly repel one another, as they each have the same positive charge. a heuristic for estimating reaction rates is that nuclei must be able to get within 100 femtometers (1 × 10−13 meter) of each other, where the nuclei are increasingly likely to undergo quantum tunneling past the electrostatic barrier and the turning point where the strong nuclear force and the electrostatic force are equally balanced, allowing them to fuse. in iter, this distance of approach is made possible by high temperatures and magnetic confinement.
+high temperatures give the nuclei enough energy to overcome their electrostatic repulsion (see maxwell–boltzmann distribution). for deuterium and tritium, the optimal reaction rates occur at temperatures on the order of 100,000,000 k. the plasma is heated to a high temperature by ohmic heating (running a current through the plasma). additional heating is applied using neutral beam injection (which cross magnetic field lines without a net deflection and will not cause a large electromagnetic disruption) and radio frequency (rf) or microwave heating.
+at such high temperatures, particles have a large kinetic energy, and hence velocity. if unconfined, the particles will rapidly escape, taking the energy with them, cooling the plasma to the point where net energy is no longer produced. a successful reactor would need to contain the particles in a small enough volume for a long enough time for much of the plasma to fuse.
+in iter and many other magnetic confinement reactors, the plasma, a gas of charged particles, is confined using magnetic fields. a charged particle moving through a magnetic field experiences a force perpendicular to the direction of travel, resulting in centripetal acceleration, thereby confining it to move in a circle or helix around the lines of magnetic flux.
+a solid confinement vessel is also needed, both to shield the magnets and other equipment from high temperatures and energetic photons and particles, and to maintain a near-vacuum for the plasma to populate.
+the containment vessel is subjected to a barrage of very energetic particles, where electrons, ions, photons, alpha particles, and neutrons constantly bombard it and degrade the structure. the material must be designed to endure this environment so that a power station would be economical. tests of such materials will be carried out both at iter and at ifmif (international fusion materials irradiation facility).
+once fusion has begun, high energy neutrons will radiate from the reactive regions of the plasma, crossing magnetic field lines easily due to charge neutrality (see neutron flux). since it is the neutrons that receive the majority of the energy, they will be iter's primary source of energy output. ideally, alpha particles will expend their energy in the plasma, further heating it.
+beyond the inner wall of the containment vessel one of several test blanket modules will be placed. these are designed to slow and absorb neutrons in a reliable and efficient manner, limiting damage to the rest of the structure, and breeding tritium for fuel from lithium-bearing ceramic pebbles contained within the blanket module following the following reactions:
+
+10n + 63li → 31t + 42he
+10n + 73li → 31t + 42he + 10n
+where the reactant neutron is supplied by the d-t fusion reaction.
+energy absorbed from the fast neutrons is extracted and passed into the primary coolant. this heat energy would then be used to power an electricity-generating turbine in a real power station; in iter this generating system is not of scientific interest, so instead the heat will be extracted and disposed of.
+
+technical design[edit]
+
+ drawing of the iter tokamak and integrated plant systems
+
+vacuum vessel[edit]
+ cross-section of part of the planned iter fusion reaction vessel.
+the vacuum vessel is the central part of the iter machine: a double walled steel container in which the plasma is contained by means of magnetic fields.
+the iter vacuum vessel will be twice as large and 16 times as heavy as any previously manufactured fusion vessel: each of the nine torus shaped sectors will weigh between 390 and 430 tonnes.[45] when all the shielding and port structures are included, this adds up to a total of 5,116 tonnes. its external diameter will measure 19.4 metres (64 ft), the internal 6.5 metres (21 ft). once assembled, the whole structure will be 11.3 metres (37 ft) high.
+the primary function of the vacuum vessel is to provide a hermetically sealed plasma container. its main components are the main vessel, the port structures and the supporting system. the main vessel is a double walled structure with poloidal and toroidal stiffening ribs between 60-millimetre-thick (2.4 in) shells to reinforce the vessel structure. these ribs also form the flow passages for the cooling water. the space between the double walls will be filled with shield structures made of stainless steel. the inner surfaces of the vessel will act as the interface with breeder modules containing the breeder blanket component. these modules will provide shielding from the high-energy neutrons produced by the fusion reactions and some will also be used for tritium breeding concepts.
+the vacuum vessel has 18 upper, 17 equatorial and 9 lower ports that will be used for remote handling operations, diagnostic systems, neutral beam injections and vacuum pumping.
+
+breeder blanket[edit]
+owing to very limited terrestrial resources of tritium, a key component of the iter reactor design is the breeder blanket. this component, located adjacent to the vacuum vessel, serves to produce tritium through reaction with neutrons from the plasma. there are several reactions that produce tritium within the blanket. 6li produces tritium via n,t reactions with moderated neutrons, 7li produces tritium via interactions with higher energy neutrons via n,nt reactions. concepts for the breeder blanket include helium cooled lithium lead (hcll) and helium cooled pebble bed (hcpb) methods. six different test blanket modules (tbm) will be tested in iter and will share a common box geometry. materials for use as breeder pebbles in the hcpb concept include lithium metatitanate and lithium orthosilicate.[46] requirements of breeder materials include good tritium production and extraction, mechanical stability and low activation levels.[47]
+
+magnet system[edit]
+the central solenoid coil will use superconducting niobium-tin to carry 46 ka and produce a field of up to 13.5 teslas.
+the 18 toroidal field coils will also use niobium-tin. at their maximum field strength of 11.8 teslas, they will be able to store 41 gigajoules. they have been tested at a record 80 ka. other lower field iter magnets (pf and cc) will use niobium-titanium for their superconducting elements. as of now the in-wall shielding blocks to protect the magnets from high energy neutrons are being manufactured and transported from the avasarala technologies in bangalore india to the iter center.[48]
+
+additional heating[edit]
+there will be three types of external heating in iter: 
+
+two heating neutral beam injectors (hnb), each providing about 17mw to the burning plasma, with the possibility to add a third one. the requirements in terms of deuterium beam energy (1mev), total current (40a) and beam pulse duration (up to 1h).[clarification needed] the prototype is being built at the neutral beam test facility (nbtf),[49] which is being constructed in padua, italy.
+ion cyclotron resonance heating (icrh)
+electron cyclotron resonance heating (ecrh)
+cryostat[edit]
+the cryostat is a large 3,800-tonne stainless steel structure surrounding the vacuum vessel and the superconducting magnets, in order to provide a super-cool vacuum environment. its thickness ranging from 50 to 250 millimetres (2.0 to 9.8 in) will allow it to withstand the atmospheric pressure on the area of a volume of 8,500 cubic meters. the total of 54 modules of the cryostat will be engineered, procured, manufactured, and installed by larsen & toubro heavy engineering in india.[50][51]
+
+cooling systems[edit]
+the iter tokamak will use three interconnected cooling systems. most of the heat will be removed by a primary water cooling loop, itself cooled by water through a heat exchanger within the tokamak building's secondary confinement. the secondary cooling loop will be cooled by a larger complex, comprising a cooling tower, a 5 km (3.1 mi) pipeline supplying water from canal de provence, and basins that allow cooling water to be cooled and tested for chemical contamination and tritium before being released into the durance river. this system will need to dissipate an average power of 7008450000000000000♠450 mw during the tokamak's operation. a liquid nitrogen system will provide a further 7006130000000000000♠1300 kw of cooling to 80 k (−193.2 °c; −315.7 °f), and a liquid helium system will provide 7004750000000000000♠75 kw of cooling to 4.5 k (−268.65 °c; −451.57 °f). the liquid helium system will be designed, manufactured, installed and commissioned by air liquide in france and by inox in india.[52][53]
+
+location[edit]
+ location of cadarache in france
+the process of selecting a location for iter was long and drawn out. the most likely sites were cadarache in provence-alpes-côte-d'azur, france, and rokkasho, aomori, japan. additionally, canada announced a bid for the site in clarington in may 2001, but withdrew from the race in 2003. spain also offered a site at vandellòs on 17 april 2002, but the eu decided to concentrate its support solely behind the french site in late november 2003. from this point on, the choice was between france and japan. on 3 may 2005, the eu and japan agreed to a process which would settle their dispute by july.
+at the final meeting in moscow on 28 june 2005, the participating parties agreed to construct iter at cadarache in provence-alpes-côte-d'azur, france. construction of the iter complex began in 2007, while assembly of the tokamak itself was scheduled to begin in 2015.[23]
+
+fusion for energy, the eu agency in charge of the european contribution to the project, is located in barcelona, spain. fusion for energy (f4e) is the european union's joint undertaking for iter and the development of fusion energy. according to the agency's website: f4e is responsible for providing europe's contribution to iter, the world's largest scientific partnership that aims to demonstrate fusion as a viable and sustainable source of energy. [...] f4e also supports fusion research and development initiatives [...][54]
+the iter neutral beam test facility aimed at developing and optimizing the neutral beam injector prototype, is being constructed in padova, italy.[55] it will be the only iter facility out of the site in cadarache.
+
+participants[edit]
+ thirty-five countries participate in the iter project.
+currently there are seven parties participating in the iter program: the european union (through the legally distinct organisation euratom), india, japan, china, russia, south korea, and the united states.[23] canada was previously a full member, but has since pulled out due to a lack of funding from the federal government. the lack of funding also resulted in canada withdrawing from its bid for the iter site in 2003. the host member of the iter project, and hence the member contributing most of the costs, is the eu.
+in 2007, it was announced that participants in the iter will consider kazakhstan's offer to join the program[56] and in march 2009, switzerland, an associate member of euratom since 1979, also ratified the country's accession to the european domestic agency fusion for energy as a third country member.[57] 
+the prime minister of the united kingdom announced on 20 march 2017 that the uk will be withdrawing from euratom and future involvement in the project is unclear. the future of the joint european torus project, which is located in the uk, is also not certain. some type of associate membership in euratom is considered a likely scenario, possibly similar to switzerland.[58][59] in 2016, iter announced a partnership with australia for "technical cooperation in areas of mutual benefit and interest", but without australia becoming a full member.[60]
+iter's work is supervised by the iter council, which has the authority to appoint senior staff, amend regulations, decide on budgeting issues, and allow additional states or organizations to participate in iter.[61] the current chairman of the iter council is won namkung,[62] and the iter director-general is bernard bigot.
+
+participants
+
+ eu
+ united states
+ china
+ india
+ japan
+ russia
+ south korea
+  switzerland
+
+funding[edit]
+as of 2016, the total price of constructing the experiment is expected to be in excess of €20 billion,[63] an increase of €4.6 billion of its 2010 estimate,[64] and of €9.6 billion from the 2009 estimate.[65] prior to that, the proposed costs for iter were €5 billion for the construction and €5 billion for maintenance and the research connected with it during its 35-year lifetime. at the june 2005 conference in moscow the participating members of the iter cooperation agreed on the following division of funding contributions: 45% by the hosting member, the european union, and the rest split between the non-hosting members – china, india, japan, south korea, the russian federation and the usa. during the operation and deactivation phases, euratom will contribute to 34% of the total costs.[66]
+although japan's financial contribution as a non-hosting member is one-eleventh of the total, the eu agreed to grant it a special status so that japan will provide for two-elevenths of the research staff at cadarache and be awarded two-elevenths of the construction contracts, while the european union's staff and construction components contributions will be cut from five-elevenths to four-elevenths.
+it was reported in december 2010 that the european parliament had refused to approve a plan by member states to reallocate €1.4 billion from the budget to cover a shortfall in iter building costs in 2012–13. the closure of the 2010 budget required this financing plan to be revised, and the european commission (ec) was forced to put forward an iter budgetary resolution proposal in 2011.[67]
+the u.s. withdrew from the iter consortium in 2000. in 2006, congress voted to rejoin, and again contribute financially.
+
+criticism[edit]
+ protest against iter in france, 2009. construction of the iter facility began in 2007, but the project has run into many delays and budget overruns.[15] the world nuclear association says that fusion "presents so far insurmountable scientific and engineering challenges".[68]
+a technical concern is that the 14 mev neutrons produced by the fusion reactions will damage the materials from which the reactor is built.[69] research is in progress to determine whether and how reactor walls can be designed to last long enough to make a commercial power station economically viable in the presence of the intense neutron bombardment. the damage is primarily caused by high energy neutrons knocking atoms out of their normal position in the crystal lattice. a related problem for a future commercial fusion power station is that the neutron bombardment will induce radioactivity in the reactor material itself.[70] maintaining and decommissioning a commercial reactor may thus be difficult and expensive. another problem is that superconducting magnets are damaged by neutron fluxes. a new special research facility, ifmif, is planned to investigate this problem.
+another source of concern comes from the 2013 tokamak parameters database interpolation which says that power load on tokamak divertors will be five times the expected value for iter and much more for actual electricity-generating reactors. given that the projected power load on the iter divertor is already very high, these new findings mean that new divertor designs should be urgently tested.[71] however, the corresponding test facility (adx) has not received any funding as of  2018[update].
+a number of fusion researchers working on non-tokamak systems, such as robert bussard and eric lerner, have been critical of iter for diverting funding from what they believe could be a potentially more viable and/or cost-effective path to fusion power, such as the polywell reactor.[72][73]
+many critics accuse iter researchers of being unwilling to face up to the technical and economic potential problems posed by tokamak fusion schemes.[72] the expected cost of iter has risen from us$5 billion to us$20 billion, and the timeline for operation at full power was moved from the original estimate of 2016 to 2027.
+a french association including about 700 anti-nuclear groups, sortir du nucléaire (get out of nuclear energy), claimed that iter was a hazard because scientists did not yet know how to manipulate the high-energy deuterium and tritium hydrogen isotopes used in the fusion process.[74]
+rebecca harms, green/efa member of the european parliament's committee on industry, research and energy, said: "in the next 50 years, nuclear fusion will neither tackle climate change nor guarantee the security of our energy supply." arguing that the eu's energy research should be focused elsewhere, she said: "the green/efa group demands that these funds be spent instead on energy research that is relevant to the future. a major focus should now be put on renewable sources of energy." french green party lawmaker noël mamère claims that more concrete efforts to fight present-day global warming will be neglected as a result of iter: "this is not good news for the fight against the greenhouse effect because we're going to put ten billion euros towards a project that has a term of 30–50 years when we're not even sure it will be effective."[75]
+iter is not designed to produce electricity, but made as a proof of concept reactor for the later demo project.[76]
+a list of iter suppliers isn't officially published. 
+
+responses to criticism[edit]
+proponents believe that much of the iter criticism is misleading and inaccurate, in particular the allegations of the experiment's "inherent danger." the stated goals for a commercial fusion power station design are that the amount of radioactive waste produced should be hundreds of times less than that of a fission reactor, and that it should produce no long-lived radioactive waste, and that it is impossible for any such reactor to undergo a large-scale runaway chain reaction.[77] a direct contact of the plasma with iter inner walls would contaminate it, causing it to cool immediately and stop the fusion process. in addition, the amount of fuel contained in a fusion reactor chamber (one half gram of deuterium/tritium fuel[23]) is only sufficient to sustain the fusion burn pulse from minutes up to an hour at most, whereas a fission reactor usually contains several years' worth of fuel.[78]
+moreover, some detritiation systems will be implemented, so that at a fuel cycle inventory level of about 2 kg (4.4 lb), iter will eventually need to recycle large amounts of tritium and at turnovers orders of magnitude higher than any preceding tritium facility worldwide.[79]
+in the case of an accident (or sabotage), it is expected that a fusion reactor would release far less radioactive pollution than would an ordinary fission nuclear station. furthermore, iter's type of fusion power has little in common with nuclear weapons technology, and does not produce the fissile materials necessary for the construction of a weapon. proponents note that large-scale fusion power would be able to produce reliable electricity on demand, and with virtually zero pollution (no gaseous co2, so2, or nox by-products are produced).
+according to researchers at a demonstration reactor in japan, a fusion generator should be feasible in the 2030s and no later than the 2050s. japan is pursuing its own research program with several operational facilities that are exploring several fusion paths.[80]
+in the united states alone, electricity accounts for us$210 billion in annual sales.[81] asia's electricity sector attracted us$93 billion in private investment between 1990 and 1999.[82] these figures take into account only current prices. proponents of iter contend that an investment in research now should be viewed as an attempt to earn a far greater future return.[citation needed] also, worldwide investment of less than us$1 billion per year into iter is not incompatible with concurrent research into other methods of power generation, which in 2007 totaled us$16.9 billion.[83]
+supporters of iter emphasize that the only way to test ideas for withstanding the intense neutron flux is to experimentally subject materials to that flux, which is one of the primary missions of iter and the ifmif,[23] and both facilities will be vitally important to that effort.[84] the purpose of iter is to explore the scientific and engineering questions that surround potential fusion power stations. it is nearly impossible to acquire satisfactory data for the properties of materials expected to be subject to an intense neutron flux, and burning plasmas are expected to have quite different properties from externally heated plasmas.[citation needed] supporters contend that the answer to these questions requires the iter experiment, especially in the light of the monumental potential benefits.
+furthermore, the main line of research via tokamaks has been developed to the point that it is now possible to undertake the penultimate step in magnetic confinement plasma physics research with a self-sustained reaction. in the tokamak research program, recent advances devoted to controlling the configuration of the plasma have led to the achievement of substantially improved energy and pressure confinement, which reduces the projected cost of electricity from such reactors by a factor of two to a value only about 50% more than the projected cost of electricity from advanced light-water reactors.[citation needed] in addition, progress in the development of advanced, low activation structural materials supports the promise of environmentally benign fusion reactors and research into alternate confinement concepts is yielding the promise of future improvements in confinement.[85] finally, supporters contend that other potential replacements to the fossil fuels have environmental issues of their own. solar, wind, and hydroelectric power all have a relatively low power output per square kilometer compared to iter's successor demo which, at 2,000 mw,[86] would have an energy density that exceeds even large fission power stations.[citation needed]
+
+similar projects[edit]
+precursors to iter were east, sst-1, kstar, jet,[87] and tore supra.[88]
+similar reactors include the wendelstein 7-x.[89]
+other planned and proposed fusion reactors include demo,[90] nif,[91] hiper,[92] and mast,[93] as well as cfetr (china fusion engineering test reactor), a 7008200000000000000♠200 mw tokamak.[94][95][96][97]
+
+see also[edit]
+
+
+nuclear technology portal
+energy portal
+science portal
+france portal
+colex process (isotopic separation)
+east (experimental advanced superconducting tokamak)
+fusenet, european fusion education network, 2008-2013
+fusion for energy, the domestic agency in charge of managing eu contributions to the iter project
+international fusion materials irradiation facility, proposed, construction not started
+iter neutral beam test facility, the facility dedicated to the development of the iter neutral beam injector prototype
+jt-60, japan's magnetic fusion program
+kstar (korea superconducting tokamak advanced research), one of the first research tokamaks in the world to feature fully superconducting magnets
+national ignition facility, inertial confinement using lasers
+nuclear power in france
+wendelstein 7-x (german experimental fusion reactor) - a stellarator
+references[edit]
+
+
+^ the iter project. efda, european fusion development agreement (2006).
+
+^ "ncl collection store" (pdf). www.iaea.org..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ iaea (12 september 2018). "iter technical basis". retrieved 12 september 2018.
+
+^ "wayback machine". under "what is iter?". 5 february 2005. archived from the original on 5 february 2005. retrieved 12 september 2018.
+
+^ "facts & figures". iter. retrieved 25 november 2017.
+
+^ "power supply". iter. retrieved 25 november 2017.
+
+^ a b "will iter make more energy than it consumes?". www.jt60sa.org. retrieved 12 september 2018.
+
+^ "workshop" (pdf). www.iaea.org. 2016.
+
+^ amos, jonathan (14 october 2010). "key component contract for iter fusion reactor". bbc news. retrieved 21 may 2013.
+
+^ iter – our contribution. europa (web portal). retrieved 21 may 2013.
+
+^ lengthy iter dispute concludes in favour of france. european commission press release. cordis.europa.eu (28 june 2005). retrieved 21 may 2013.
+
+^ iter annual report 2016. retrieved 25 october 2017.
+
+^ iter organisation (2014). "iter & beyond". iter. archived from the original on 1 june 2010.
+
+^ a b iter organisation (2015). "facts and figures". iter.
+
+^ a b w wayt gibbs (30 december 2013). "triple-threat method sparks hope for fusion". nature. 505 (7481): 9–10. bibcode:2014natur.505....9g. doi:10.1038/505009a. pmid 24380935.
+
+^ "what is iter?". iter. 2017.
+
+^ "facts & figures". retrieved 12 september 2018.
+
+^ a b meade, dale (2010). "50 years of fusion research". nuclear fusion. 50 (1): 014004. bibcode:2010nucfu..50a4004m. doi:10.1088/0029-5515/50/1/014004. issn 0029-5515.
+
+^ "broader approach agreement". iter.org. retrieved 2018-09-23.
+
+^ "fusion fuels". iter. retrieved 24 october 2011.
+
+^ a b "green light for nuclear fusion project". new scientist. 21 november 2006. retrieved 13 september 2009.
+
+^ mcgrath, matt. (29 july 2010) deal finalised on fusion reactor. bbc. retrieved 21 may 2013.
+
+^ a b c d e iter website. iter.org. retrieved 21 may 2013.
+
+^ iter – the world's largest tokamak. iter.org
+
+^ educational foundation for nuclear science, inc. (october 1992). bulletin of the atomic scientists. educational foundation for nuclear science, inc. pp. 9–. issn 0096-3402.
+
+^ a b braams, c.m.; stott, p.e. (2010). nuclear fusion: half a century of magnetic confinement fusion research. nuclear fusion: half a century of magnetic confinement fusion research/ c.m. braams and p.e. stott. bristol; philadelphia: iop ; c2002. pp. 250–. bibcode:2002nfhc.book.....b. isbn 978-0-7503-0705-5.
+
+^ plasma 2010 committee; plasma science committee; national research council (2007). plasma science: advancing knowledge in the national interest. national academies press. pp. 222–. isbn 978-0-309-10943-7.
+
+^ joint soviet-united states statement on the summit meeting in geneva ronald reagan. november 21, 1985
+
+^ japan cedes iter project to france. the asahi shimbun, 29 june 2005.
+
+^ "states sign nuclear energy pact". bbc news. 21 november 2006. retrieved 5 may 2010.
+
+^ "why iter?". the iter organization. retrieved 13 september 2009.
+
+^ a b "quest for a fusion energy reactor: an insider's account of the intor workshop", oxford university press (2010)
+
+^ a b c "the geneva summit". milestones in the history of the iter project. iter. november 1985. retrieved 12 september 2012.
+
+^ "on the road to iter: milestones". retrieved 12 september 2018.
+
+^ "on the road to iter: milestones". retrieved 12 september 2018.
+
+^ "on the road to iter: milestones". retrieved 12 september 2018.
+
+^ a b c "approved! council gives project green light to proceed". iter & beyond. the phases of iter. iter. september 2012. archived from the original on 22 september 2012. retrieved 12 september 2012.
+
+^ iter (19 november 2015). "iter project progressing well despite delays" (pdf). retrieved 20 january 2016.
+
+^ first machine components reach iter. december 2015, iter.
+
+^ clery, daniel (19 november 2015). "iter fusion project to take at least 6 years longer than planned". science. retrieved 2016-02-16.
+
+^ "iran to join iter". 23 july 2016. retrieved 12 september 2018.
+
+^ a b when will experiments begin? iter. accessed april 2018.
+
+^ iter (22 june 2017). "20th iter council meeting recognizes strong project progress in line with the 2016 baseline" (pdf). retrieved 25 june 2017.
+
+^ "frequently asked questions". iter. retrieved 2017-09-30.
+
+^ iter vacuum vessel assembly – call for expression of interest. iter. 20 feb 2009.
+
+^ hanaor, d.a.h.; kolb, m.h.h.; gan, y.; kamlah, m.; knitter, r. (2014). "solution based synthesis of mixed-phase materials in the li2tio3-li4sio4 system". journal of nuclear materials. 456: 151–161. arxiv:1410.7128. bibcode:2015jnum..456..151h. doi:10.1016/j.jnucmat.2014.09.028.
+
+^ gan, y; hernandez, f;  et al. (2014). "thermal discrete element analysis of eu solid breeder blanket subjected to neutron irradiation". fusion science and technology. 66 (1): 83–90. arxiv:1406.4199. citeseerx 10.1.1.748.6005. doi:10.13182/fst13-727.
+
+^ "what's news" (pdf). www.iter.org. 2016.
+
+^ "archived copy" (pdf). archived from the original (pdf) on 10 october 2016. retrieved 9 october 2016.cs1 maint: archived copy as title (link)
+
+^ 
+"larsen & toubro ltd will manufacture iter cryostat". 3 september 2012. retrieved 2 january 2013.
+
+^ 
+"nuclear fusion win for larsen & toubrot". 12 september 2012. retrieved 2 january 2013.
+
+^ "world's largest cryogenic plant to be installed in iter fusion reactor". science world report. december 2012. retrieved 31 december 2012.
+
+^ "eur 83 million contract signed for liquid helium plant". retrieved 31 december 2012.
+
+^ the eu's fusion for energy website. fusionforenergy.europa.eu (19 april 2007). retrieved 2013-05-21.
+
+^ the consorzio rfx website, where the iter neutral beam test facility is host
+
+^ "kazakhstan offers to join international fusion power project". ria novosti. retrieved 14 july 2007.
+
+^ "switzerland officializes iter participation". iter.org. 29 may 2009. retrieved 1 may 2014.
+
+^ "brexit puts europe's nuclear fusion future in doubt". new scientist. 30 nov 2016. retrieved 17 jan 2017.
+
+^ "eurofusion and uk after brexit". eurofusion. 24 jun 2016. retrieved 17 jan 2017.
+
+^ "welcome australia!". iter.org. 16 oct 2016. retrieved 17 jan 2017.
+
+^ "iter council, iter's top authority". iter.org.
+
+^ "won namkung takes helm of the iter council" (pdf). iter.org. 12 january 2016. retrieved 23 november 2016.
+
+^ tirone, jonathan. "world's biggest science experiment seeks more time and money". bloomberg.com. retrieved 2016-07-01.
+
+^ "eu member states agree on iter funding shortfall", bbc, 13 july 2010.
+
+^ "fusion falters under soaring costs", bbc, 17 june 2009 (accessed 18 june 2009).
+
+^ iter & fusion research press release. europa (web portal), 5 may 2011. retrieved 19 november 2011.
+
+^ nuclear fusion finance plan rejected by eu parliament, bbc, 16 december 2010 (accessed 19 december 2010).
+
+^ world nuclear association (2005). "nuclear fusion power". archived from the original on 24 june 2009.
+
+^ cambi, g.; cepraga, d.g.; frisoni, m.; carloni, f. (1999). "neutron irradiation effects on the iter-eda and iter-rc first wall/blanket materials". 18th ieee/npss symposium on fusion engineering. symposium proceedings (cat. no.99ch37050). p. 330. doi:10.1109/fusion.1999.849850. isbn 978-0-7803-5829-4.
+
+^ iter homepage: hot cell. iter.org. retrieved 21 may 2013.
+
+^ innovation is key from iter to demo. dec 2013 porkolab. mit the fire place. (pmi=plasma material interaction) compares iter parameters with the aries-act1 and aries-act2 designs, and has 3 slides on adx
+
+^ a b robert bussard (lecturer) (9 november 2006). "should google go nuclear? clean, cheap, nuclear power (no, really)". google tech talks. archived from the original (flash video) on 2007-02-05. retrieved 23 december 2007.
+
+^ focus fusion: the fastest route to cheap, clean energy. youtube
+
+^ france wins nuclear fusion plant. deutsche welle. dw-world.de (28 june 2005). retrieved 21 may 2013.
+
+^ mixed reactions to iter | euractiv july 2005
+
+^ lev grossman, "a star is born", time magazine, november 2, 2015, p.29.
+
+^ "advantages of fusion". iter. retrieved 2016-10-19.
+
+^ facts and stats... 1/3 of fuel rods changed every 18 months. stpnoc.com.
+
+^ "detritiation systems at iter" (pdf). french nuclear safety authority. 2010. archived from the original (pdf) on 13 september 2014. retrieved 12 august 2014.
+
+^ hiwatari, r.; okano, k.; asaoka, y.; shinya, k.; ogawa, y. (2005). "demonstration tokamak fusion power station for early realization of net electric power generation". nuclear fusion. 45 (2): 96. bibcode:2005nucfu..45...96h. doi:10.1088/0029-5515/45/2/004.
+
+^ doe/eia-0623 challenges of electric power industry restructuring for fuel suppliers. eia.doe.gov (september 1998). retrieved 21 may 2013.
+
+^ "worldwide power - electric perspectives - find articles at bnet". 6 march 2009. archived from the original on 2009-03-06. retrieved 12 september 2018.
+
+^ "global trends in sustainable energy investment 2008" (pdf). archived from the original (pdf) on 21 july 2011. retrieved 10 october 2010.
+
+^ nuclear data for helium production in fusion. (pdf). retrieved 21 may 2013.
+
+^ commentaries on criticisms of magnetic fusion, weston m. stacey, georgia institute of technology,
+march 1999
+
+^ "demonstration fusion reactors". fusion for energy. european joint undertaking for iter and the development of fusion energy. retrieved 17 november 2008.
+
+^ "efda-jet". efda. 2009. retrieved 29 may 2009.
+
+^ "tore supra". cea. archived from the original on 15 november 2012.
+
+^ "wendelstein 7-x". max-planck-institut für plasmaphysik. 3 april 2009. archived from the original on 21 may 2009. retrieved 29 may 2009.
+
+^ "beyond iter". iter.org. archived from the original on 20 may 2009.
+
+^ "national ignition facility & photon science". lawrence livermore national laboratory. retrieved 29 may 2009.
+
+^ "hiper". hiper project. 2009. retrieved 29 may 2009.
+
+^ "mast". mega ampere spherical tokamak. 2010. archived from the original on 2010-02-13. retrieved 1 february 2010.
+
+^ "physics meeting" (pdf). www-naweb.iaea.org.
+
+^ zheng, jinxing (2013). "concept design of cfetr superconducting magnet system based on different maintenance ports". fusion engineering and design. 88 (11): 2960–2966. doi:10.1016/j.fusengdes.2013.06.008.
+
+^ song, y. t.; wu, s. t.; li, j. g.; wan, b. n.; wan, y. x.; fu, p.; ye, m. y.; zheng, j. x.; lu, k.; gao, x.; liu, s. m.; liu, x. f.; lei, m. z.; peng, x. b.; chen, y. (1 march 2014). "concept design of cfetr tokamak machine". ieee transactions on plasma science. 42 (3): 503–509. doi:10.1109/tps.2014.2299277. retrieved 12 september 2018  – via ieee xplore.
+
+^ "meeting info" (pdf). aries.ucsd.edu.
+
+
+external links[edit]
+
+
+
+wikinews has related news:
+ france secures site for 10 billion euro nuclear fusion research project
+
+
+
+wikimedia commons has media related to iter.
+official website
+the new yorker, mar. 3 2014, star in a bottle, by raffi khatchadourian
+archival material collected by prof. mccray relating to iter’s early phase (1979–1989) can be consulted at the historical archives of the european union in florence
+"way to new energy" video (23:24) at youtube, by rt, on may 6, 2014.
+the roles of the host and the non-host for the iter project. june 2005 the broader approach agreement with japan.
+fusion electricity - a roadmap to the realisation of fusion energy efda 2012 - 8 missions, iter, project plan with dependencies, ...
+vtefusion power, processes and devicescore topics
+nuclear fusion
+timeline
+list of experiments
+nuclear power
+nuclear reactor
+atomic nucleus
+fusion energy gain factor
+lawson criterion
+magnetohydrodynamics
+neutron
+plasma
+processes and methodsby confinementgravitational 
+alpha process
+triple-alpha process
+cno cycle
+fusor
+helium flash
+nova
+remnants
+proton-proton chain
+carbon-burning
+lithium burning
+neon-burning
+oxygen-burning
+silicon-burning
+r-process
+s-process
+magnetic
+magnetic mirror
+dense plasma focus
+field-reversed configuration
+levitated dipole
+reversed field pinch
+spheromak
+stellarator
+tokamak
+spherical
+z-pinch
+inertial
+bubble (acoustic)
+laser-driven
+magnetized liner inertial fusion
+electrostatic
+fusor
+polywell
+other forms
+magnetized-target
+migma
+muon-catalyzed
+pyroelectric
+bumpy torus
+fusion devices and experimentsmagnetic confinementtokamakinternational
+iter
+demo
+proto
+americas
+ stor-m
+ medusa-cr
+ alcator c-mod
+diii-d
+ucla et
+ltx
+nstx
+pegasus
+pbx-m
+text
+tftr
+ ete
+ novillo
+asia and australia
+ lt-1
+tortus
+ ct-6
+cfetr
+east
+hl-1(m)
+hl-2a
+ht-6(b, m)
+ht-7(u)
+kt-5
+sunist
+ aditya
+sst-1
+ ir-t1
+ jt-60
+quest [ja]
+ ktm
+ glast
+ k-demo
+kstar
+europe
+ jet
+  compass
+ golem
+ tj-i
+ tfr
+west
+ asdex upgrade
+textor
+ ftu
+ignitor
+ rtp
+ isttok
+ t-3
+t-4
+t-10
+t-15
+ tcv
+ mast
+mast-u
+start
+stellaratoramericas
+ atf
+cat
+cnt
+hsx
+hidra
+ncsx
+qps
+ scr-1
+asia and australia
+ h-1nf
+ lingyun
+ chs
+heliotron j
+lhd
+tu-heliac
+europe
+ ust-1
+ust-2
+tj-ii
+tj-iu
+ tj-k
+wega [de]
+wendelstein 7-as [de]
+wendelstein 7-x
+ uragan-1
+uragan-2 (uragan-2m)
+uragan-3 (uragan-3m [uk])
+ l-2m
+rfp
+ rfx
+ tpe-rx
+ extrap t2r
+ mst
+other
+ mtf
+ ldx
+mcx
+mftf
+sspx
+ zeta
+inertial confinementlaseramericas
+ argus
+cyclops
+janus
+life
+long path
+nif
+nike
+nova
+omega
+shiva
+asia
+ sg-i
+sg-ii
+sg-iii
+sg-iv
+ gekko xii
+europe
+ hiper
+ asterix iv (pals)
+ lmj
+luli2000
+ iskra
+ vulcan
+non-laser
+ pts
+qiangguang-1
+ pacer
+z machine
+applications
+thermonuclear weapon
+pure fusion weapon
+international fusion materials irradiation facility
+vtenuclear power in francepower plantsactive
+belleville
+blayais
+bugey
+cattenom
+chinon
+chooz
+civaux
+cruas
+dampierre
+fessenheim
+flamanville
+golfech
+gravelines
+nogent
+paluel
+penly
+saint-alban
+saint-laurent
+tricastin (saint-paul-trois-châteaux)
+closed
+brennilis
+bugey 1
+chinon (a1/a2/a3)
+chooz a
+creys-malville spx (superphénix)
+marcoule
+saint-laurent (a1/a2)
+reactor typespower plant reactors
+ungg
+cp0, cp1, cp2, cpy
+p4, p'4
+n4
+epr (under construction)
+research, experimental,prototype reactorsand concepts
+el-1 (zoé)
+el-2, el-3 (cea saclay)
+tfr
+el-4 (brennilis)
+rapsodie
+phénix
+superphénix
+iter (under construction)
+astrid (planned)
+flexblue (concept)
+research locations
+cea cadarache
+cea fontenay-aux-roses
+cea grenoble
+institut laue–langevin (grenoble)
+cea marcoule (marcoule, pierrelatte)
+cea saclay
+meuse/haute marne underground research laboratory (andra)
+tricastin nuclear site (bollène, lapalud, pierrelatte, saint-paul-trois-châteaux)
+fuel cycle locations
+malvesi
+tricastin
+eurodif
+romans (fr)
+la hague
+aube
+manche
+morvilliers
+organisations
+anccli
+areva
+naval group (formerly dcns)
+asn
+cea
+électricité de france (edf)
+engie
+framatome (formerly areva np)
+gsien
+orano group
+orano cycle (formerly cogema and areva nc)
+public discourseand opposition
+accidents and incidents
+anti-nuclear movement in france
+1999 blayais nuclear power plant flood
+sébastien briat
+andré larivière
+corinne lepage
+stéphane lhomme
+jean-pierre petit
+mycle schneider
+monique sené
+dominique voynet
+criirad
+groupement des scientifiques pour l'information sur l'énergie nucléaire
+sortir du nucléaire
+wise-paris
+related categories
+nuclear energy in france
+nuclear power stations in france
+nuclear technology in france
+list of nuclear reactors in france
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=iter&oldid=883290924"					
+categories: buildings and structures in bouches-du-rhônefusion powerfusion reactorsinternational science experimentsnuclear energy in francenuclear research institutesplasma physicsproposed fusion reactorsresearch projectstokamakshidden categories: cs1 maint: archived copy as titlecoordinates on wikidatause dmy dates from may 2013all articles with unsourced statementsarticles with unsourced statements from december 2015wikipedia articles needing clarification from december 2018articles containing potentially dated statements from 2018all articles containing potentially dated statementsarticles with unsourced statements from april 2008articles with unsourced statements from february 2007articles with unsourced statements from march 2016articles with unsourced statements from january 2019commons category link is on wikidataofficial website different in wikidata and wikipediainterlanguage link template link number 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+العربيةasturianubân-lâm-gúбългарскиbosanskicatalàčeštinadanskdeutschespañolesperantoeuskaraفارسیfrançaisgalego한국어հայերենहिन्दीhrvatskibahasa indonesiaitalianoעבריתქართულიlietuviųmagyarമലയാളംnederlands日本語norskoccitanoʻzbekcha/ўзбекчаpolskiportuguêsromânăрусскийsicilianuslovenčinaslovenščinasrpskohrvatski / српскохрватскиsuomisvenskaதமிழ்татарча/tatarçatürkçeукраїнськаtiếng việt中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 14 february 2019, at 14:08 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"1.600","walltime":"1.965","ppvisitednodes":{"value":14466,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":410930,"limit":2097152},"templateargumentsize":{"value":11765,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":22,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":212306,"limit":5000000},"entityaccesscount":{"value":6,"limit":400},"timingprofile":["100.00% 1593.939      1 -total"," 56.11%  894.357     12 template:navbox"," 32.91%  524.575      1 template:reflist"," 18.16%  289.385     49 template:cite_web"," 15.60%  248.654      1 template:fusion_experiments"," 11.06%  176.253     50 template:flagicon","  6.30%  100.339      1 template:infobox_organization","  6.18%   98.457     15 template:physics_particle","  5.79%   92.280      8 template:cite_journal","  5.61%   89.384      9 template:nuclide"]},"scribunto":{"limitreport-timeusage":{"value":"0.706","limit":"10.000"},"limitreport-memusage":{"value":12862511,"limit":52428800}},"cachereport":{"origin":"mw1320","timestamp":"20190218235845","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":129,"wghostname":"mw1325"});});
+
+

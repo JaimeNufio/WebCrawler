@@ -1,0 +1,369 @@
+
+
+
+
+mushroom cloud - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"mushroom_cloud","wgtitle":"mushroom cloud","wgcurrevisionid":883461932,"wgrevisionid":883461932,"wgarticleid":263209,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["webarchive template wayback links","all articles with unsourced statements","articles with unsourced statements from september 2015","articles with unsourced statements from february 2012","all articles with dead external links","articles with dead external links from february 2018","articles with permanently dead external links","nuclear weapons","vortices","explosions","cloud types"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"mushroom_cloud","wgrelevantarticleid":263209,"wgrequestid":"xgbyqwpaaemaaim4stkaaact","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q216938","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+mushroom cloud 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+ ascending cloud from redoubt volcano from an eruption on april 21, 1990. the mushroom-shaped plume rose from avalanches of hot debris (pyroclastic flows) that cascaded down the north flank of the volcano.
+ mushroom cloud from the atomic bombing of nagasaki, japan on august 9, 1945.
+a mushroom  cloud is a distinctive pyrocumulus mushroom-shaped cloud of debris/smoke and usually condensed water vapor resulting from a large explosion. the effect is most commonly associated with a nuclear explosion, but any sufficiently energetic detonation or deflagration will produce the same effect. they can be caused by powerful conventional weapons, like thermobaric weapons, including the atbip and gbu-43/b massive ordnance air blast. some volcanic eruptions and impact events can produce natural mushroom clouds.
+mushroom clouds result from the sudden formation of a large volume of lower-density gases at any altitude, causing a rayleigh–taylor instability. the buoyant mass of gas rises rapidly, resulting in turbulent vortices curling downward around its edges, forming a temporary vortex ring that draws up a central column, possibly with smoke, debris, and/or condensed water vapor to form the "mushroom stem". the mass of gas plus entrained moist air eventually reaches an altitude where it is no longer of lower density than the surrounding air; at this point, it disperses, drifting back down (see fallout). the stabilization altitude depends strongly on the profiles of the temperature, dew point, and wind shear in the air at and above the starting altitude.
+
+contents
+
+1 origin of the term
+2 physics
+3 nuclear mushroom clouds
+
+3.1 cloud composition
+3.2 radioisotopes
+3.3 fluorescent glow
+3.4 condensation effects
+
+
+4 references
+5 bibliography
+6 external links
+
+
+origin of the term[edit]
+ vue du siège de gibraltar et explosion des batteries flottantes view of the siege of gibraltar and the explosion of the floating batteries, artist unknown, c.1782
+although the term appears to have been coined at the start of the 1950s, mushroom clouds generated by explosions were being described centuries before the atomic era. a contemporary aquatint by an unknown artist of the 1782 franco-spanish attack on gibraltar shows one of the attacking force's floating batteries exploding with a mushroom cloud, after the british defenders set it ablaze by firing heated shot. the times published a report on 1 october 1937 of a japanese attack on shanghai in china which generated "a great mushroom of smoke". the 1917 halifax explosion also produced one. during world war ii, descriptions of mushroom clouds were relatively common.
+the atomic bomb cloud over nagasaki, japan was described in the times of london of 13 august 1945 as a "huge mushroom of smoke and dust". on 9 september 1945, the new york times published an eyewitness account of the nagasaki bombing, written by william l. laurence, the official newspaper correspondent of the manhattan project, who accompanied one of the three aircraft that made the bombing run. he wrote of the bomb producing a "pillar of purple fire", out of the top of which came "a giant mushroom that increased the height of the pillar to a total of 45,000 feet".[1]
+later in 1946, the operation crossroads nuclear bomb tests were described as having a "cauliflower" cloud, but a reporter present also spoke of "the mushroom, now the common symbol of the atomic age". mushrooms have traditionally been associated both with life and death, food and poison, making them a more powerful symbolic connection than, say, the "cauliflower" cloud.[2]
+
+physics[edit]
+ inside a rising mushroom cloud: denser air rapidly forces itself into the bottom center of the toroidal fireball, which turbulently mixes into the familiar cloud appearance.
+mushroom clouds are formed by many sorts of large explosions under earth's gravity, but they are best known for their appearance after nuclear detonations. without gravity, the explosive's by-product gases would remain spherical. nuclear weapons are usually detonated above the ground (not upon impact, because some of the energy would be dissipated by the ground motions), to maximize the effect of their spherically expanding fireball and blast wave. immediately after the detonation, the fireball begins to rise into the air, acting on the same principle as a hot-air balloon.
+one way to analyze the motion, once the hot gas has cleared the ground sufficiently, is as a 'spherical cap bubble',[3] as this gives agreement between the rate of rise and observed diameter.
+
+ castle bravo, march 1, 1954 >15 mt, showing multiple condensation rings and several ice caps.
+as it rises, a rayleigh–taylor instability is formed, and air is drawn upwards and into the cloud (similar to the updraft of a chimney), producing strong air currents known as "afterwinds", while, inside the head of the cloud, the hot gases rotate in a toroidal shape. when the detonation altitude is low enough, these afterwinds will draw in dirt and debris from the ground below to form the stem of the mushroom cloud.
+after the mass of hot gases reaches its equilibrium level, the ascent stops, and the cloud starts flattening the characteristic mushroom shape, usually aided by surface growth due to the decaying turbulence.
+
+nuclear mushroom clouds[edit]
+nuclear detonations produced high above the ground might not create mushroom clouds with a stem. the heads of the clouds themselves consist of highly radioactive particles, primarily the fission products and other weapon debris aerosols, and are usually dispersed by the wind, though weather patterns (especially rain) can produce problematic nuclear fallout.[4]
+detonations significantly below ground level or deep below the water (for instance, nuclear depth charges) also do not produce mushroom clouds, as the explosion causes the vaporization of a huge amount of earth and water in these instances, creating a bubble which then collapses in on itself; in the case of a less deep underground explosion, this produces a subsidence crater. detonations underwater but near the surface produce a pillar of water, which, in collapsing, forms a cauliflower-like shape, which is easily mistaken for a mushroom cloud (such as in the well-known pictures of the crossroads baker test). underground detonations at low depth produce a mushroom cloud and a base surge, two different distinct clouds. the amount of radiation vented into the atmosphere decreases rapidly with increasing detonation depth.
+with surface and near-surface air bursts, the amount of debris lofted into the air decreases rapidly with increasing burst altitude. at burst altitudes of approximately 7 meters/kiloton​1⁄3, a crater is not formed, and correspondingly lower amounts of dust and debris are produced. the fallout-reducing height, above which the primary radioactive particles consist mainly of the fine fireball condensation, is approximately 55 meters/kiloton0.4.[4] however, even at these burst altitudes, fallout may be formed by a number of mechanisms.
+
+ mushroom cloud size as a function of yield.[citation needed]
+the distribution of radiation in the mushroom cloud varies with yield of the explosion, type of weapon, fusion/fission ratio, burst altitude, terrain type, and weather.  in general, lower-yield explosions have about 90% of their radioactivity in the mushroom head and 10% in the stem.  in contrast, megaton-range explosions tend to have most of their radioactivity in the lower third of the mushroom cloud.[5]
+at the moment of the explosion, the fireball is formed. the ascending, roughly spherical mass of hot, incandescent gases changes shape due to atmospheric friction and cools its surface by energy radiation, turning from a sphere to a violently rotating spheroidal vortex. a rayleigh–taylor instability is formed as the underneath cool air initially pushes the bottom fireball gases into an inverted cup shape. this causes turbulence and a vortex that sucks more air into its center, creating external afterwinds and cooling itself. the speed of its rotating slows down as it cools, and may stop entirely during later phases. the vaporized parts of the weapon and ionized air cool into visible gases, forming the early cloud; the white-hot vortex core becomes yellow, then dark red, then loses visible incandescence. with further cooling, the bulk of the cloud fills in as atmospheric moisture condenses. as the cloud ascends and cools, its buoyancy lessens, and its ascent slows.
+if the size of the fireball is comparable to the atmospheric density scale height, the whole cloud rise will be ballistic, overshooting a large volume of overdense air to greater altitudes than the final stabilization altitude. significantly smaller fireballs produce clouds with buoyancy-governed ascent.
+after reaching the tropopause, the bottom of the region of strong static stability, the cloud tends to slow its ascent and spread out. if it contains sufficient energy, the central part of it may continue rising up into the stratosphere as an analog of a standard thunderstorm.[6] a mass of air ascending from the troposphere to the stratosphere leads to the formation of acoustic gravity waves, virtually identical to those created by intense stratosphere-penetrating thunderstorms. smaller-scale explosions penetrating the tropopause generate waves of higher frequency, classified as infrasound.
+the explosion raises a large amount of moisture-laden air from lower altitudes. as the air rises, its temperature drops, and its water vapour first condenses as water droplets, and later freezes as ice crystals. the phase changes release latent heat, heating the cloud and driving it to yet higher altitudes.
+
+ the evolution of a nuclear mushroom cloud; 19 kt at 120 m • kt −​1⁄3. tumbler-snapper dog. the sandy nevada desert soil is "popcorned" by the intense flash of light emitted by the prompt supercriticality event and this "popcorning effect" results in more soil being lofted into the stem of the mushroom cloud, than would otherwise be the case, if the device had been placed above a more typical surface or soil.
+a mushroom cloud undergoes several phases of formation.[7]
+
+early time, the first ≈20 seconds, when the fireball forms and the fission products mix with the material aspired from the ground or ejected from the crater. the condensation of evaporated ground occurs in first few seconds, most intensely during fireball temperatures between 3500–4100 k.[8]
+rise and stabilization phase, 20 seconds to 10 minutes, when the hot gases rise up and early large fallout is deposited.
+late time, until about 2 days later, when the airborne particles are being distributed by wind, deposited by gravity, and scavenged by precipitation.
+the shape of the cloud is influenced by the local atmospheric conditions and wind patterns.  the fallout distribution is predominantly a downwind plume. however, if the cloud reaches the tropopause, it may spread against the wind, because its convection speed is higher than the ambient wind speed. at the tropopause, the cloud shape is roughly circular and spread out.
+the initial color of some radioactive clouds can be colored red or reddish-brown, due to presence of nitrogen dioxide and nitric acid, formed from initially ionized nitrogen, oxygen, and atmospheric moisture. in the high-temperature, high-radiation environment of the blast, ozone is also formed. it is estimated that each megaton of yield produces about 5000 tons of nitrogen oxides.[9] yellow and orange hues have also been described. this reddish hue is later obscured by the white colour of water/ice clouds, condensing out of the fast-flowing air as the fireball cools, and the dark colour of smoke and debris sucked into the updraft. the ozone gives the blast its characteristic corona discharge-like smell.[10]
+the droplets of condensed water gradually evaporate, leading to the cloud's apparent disappearance.  the radioactive particles, however, remain suspended in the air, and the now-invisible cloud continues depositing fallout along its path.
+the stem of the cloud is gray to brown in a groundburst, as large amounts of dust, dirt, soil, and debris are sucked into the mushroom cloud.  airbursts produce white, steamy stems.  groundbursts produce dark mushroom clouds, containing irradiated material from the ground in addition to the bomb and its casing, and therefore produce more radioactive fallout, with larger particles that readily deposit locally.
+a higher-yield detonation can carry the nitrogen oxides from the burst high enough in atmosphere to cause significant depletion of the ozone layer.
+a double mushroom, with two levels, can be formed under certain conditions. for example, the buster-jangle sugar shot formed the first head from the blast itself, followed by another one generated by the heat from the hot, freshly formed crater.[11]
+the fallout itself may appear as dry, ash-like flakes, or as particles too small to be visible; in the latter case, the particles are often deposited by rain.  large amounts of newer, more radioactive particles deposited on skin can cause beta burns, often presenting as discolored spots and lesions on the backs of exposed animals.[12] the fallout from the castle bravo test had the appearance of white dust and was nicknamed bikini snow; the tiny white flakes resembled snowflakes, stuck to surfaces, and had a salty taste.  41.4% of the fallout from the operation wigwam test consisted of irregular opaque particles, slightly over 25% of particles with transparent and opaque areas, approximately 20% of microscopic marine organisms, and 2% of microscopic radioactive threads of unknown origin.[11]
+
+cloud composition[edit]
+ the mushroom cloud from buster-jangle charlie, yield 14 kilotons (at 143 m • kt −​1⁄3), during the initial phase of stem formation.  the toroidal fireball is visible at the top, a condensation cloud is forming in the middle due to intense updrafts of moist air, and the forming partial stem can be seen below.  the cloud exhibits the reddish-brown hue of nitrogen oxides.
+the cloud contains three main classes of material: the remains of the weapon and its fission products, the material acquired from the ground (only significant for burst altitudes below the fallout-reducing altitude, which depends on the weapon yield), and water vapour.  the bulk of the radiation contained in the cloud consists of the nuclear fission products; neutron activation products from the weapon materials, air, and the ground debris form only a minor fraction.  neutron activation starts during the neutron burst at the instant of the blast itself, and the range of this neutron burst is limited by the absorption of the neutrons as they pass through the earth's atmosphere.
+most of the radiation is created by the fission products. thermonuclear weapons produce a significant part of their yield from nuclear fusion. fusion products are typically non-radioactive. the degree of radiation fallout production is therefore measured in kilotons of fission. the tsar bomba, which produced 97% of its 50-megaton yield from fusion, was a very clean weapon compared to what would typically be expected of a weapon of its yield (although it still produced 1.5 megatons of its yield from fission), as its fusion tamper was made of lead instead of uranium-238; otherwise, its yield would have been 100 megatons with 51 of those from fission. were it to be detonated at or near the surface, its fallout would comprise fully one-quarter of all the fallout from every nuclear weapon test, combined.
+initially, the fireball contains a highly ionized plasma consisting only of atoms of the weapon, its fission products, and atmospheric gases of adjacent air. as the plasma cools, the atoms react, forming fine droplets and then solid particles of oxides. the particles coalesce to larger ones, and deposit on surface of other particles. larger particles usually originate from material aspired into the cloud. particles aspired while the cloud is still hot enough to melt them mix with the fission products throughout their volume. larger particles get molten radioactive materials deposited on their surface. particles aspired into the cloud later, when its temperature is low enough, do not become significantly contaminated. particles formed only from the weapon itself are fine enough to stay airborne for a long time and become widely dispersed and diluted to non-hazardous levels. higher-altitude blasts which do not aspire ground debris, or which aspire dust only after cooling enough and where the radioactive fraction of the particles is therefore small, cause much smaller degree of localized fallout than lower-altitude blasts with larger radioactive particles formed.
+the concentration of condensation products is the same for the small particles and for the deposited surface layers of larger particles. about 100 kg of small particles are formed per kiloton of yield. the volume, and therefore activity, of the small particles is almost three orders of magnitude lower than the volume of the deposited surface layers on larger particles.
+for higher-altitude blasts, the primary particle forming processes are condensation and subsequent coagulation. for lower-altitude and ground blasts, with involvement of soil particles, the primary process is deposition on the foreign particles.
+a low-altitude detonation produces a cloud with a dust loading of 100 tons per megaton of yield. a ground detonation produces clouds with about three times as much dust. for a ground detonation, approximately 200 tons of soil per kiloton of yield is melted and comes in contact with radiation.[8]
+the fireball volume is the same for a surface or an atmospheric detonation. in the first case, the fireball is a hemisphere instead of a sphere, with a correspondingly larger radius.[8]
+the particle sizes range from submicrometer- and micrometer-sized (created by condensation of plasma in the fireball), through 10–500 micrometers (surface material agitated by the blast wave and raised by the afterwinds), to millimeter and above (crater ejecta). the size of particles together with the altitude they are carried to, determines the length of their stay in the atmosphere, as larger particles are subject to dry precipitation. smaller particles can be also scavenged by precipitation, either from the moisture condensing in the cloud itself or from the cloud intersecting with a rain cloud. the fallout carried down by rain is known as rain-out if scavenged during raincloud formation, washout if absorbed into already formed falling raindrops.[13]
+particles from air bursts are smaller than 10–25 micrometers, usually in the submicrometer range. they are composed mostly of iron oxides, with smaller proportion of aluminium oxide, and uranium and plutonium oxides. particles larger than 1–2 micrometers are very spherical, corresponding to vaporized material condensing into droplets and then solidifying. the radioactivity is evenly distributed throughout the particle volume, making total activity of the particles linearly dependent on particle volume.[8] about 80% of activity is present in more volatile elements, which condense only after the fireball cools to considerable degree. for example, strontium-90 will have less time to condense and coalesce into larger particles, resulting in greater degree of mixing in the volume of air and smaller particles.[14] the particles produced immediately after the burst are small, with 90% of the radioactivity present in particles smaller than 300 nanometers. these coagulate with stratospheric aerosols. coagulation is more extensive in the troposphere, and, at ground level, most activity is present in particles between 300 nm and 1 µm.  the coagulation offsets the fractionation processes at particle formation, evening out isotopic distribution.
+for ground and low-altitude bursts, the cloud contains also vaporized, melted and fused soil particles. the distribution of activity through the particles depends on their formation. particles formed by vaporization-condensation have activity evenly distributed through volume as the air-burst particles. larger molten particles have the fission products diffused through the outer layers, and fused and non-melted particles that were not heated sufficiently but came in contact with the vaporized material or scavenged droplets before their solidification have a relatively thin layer of high activity material deposited on their surface. the composition of such particles depends on the character of the soil, usually a glass-like material formed from silicate minerals. the particle sizes do not depend on the yield but instead on the soil character, as they are based on individual grains of the soil or their clusters. two types of particles are present, spherical, formed by complete vaporization-condensation or at least melting of the soil, with activity distributed evenly through the volume (or with a 10–30% volume of inactive core for larger particles between 0.5–2 mm), and irregular-shaped particles formed at the edges of the fireball by fusion of soil particles, with activity deposited in a thin surface layer. the amount of large irregular particles is insignificant.[8] particles formed from detonations above, or in, the ocean, will contain short-lived radioactive sodium isotopes, and salts from the sea water. molten silica is a very good solvent for metal oxides and scavenges small particles easily; explosions above silica-containing soils will produce particles with isotopes mixed through their volume. in contrast, coral debris, based on calcium carbonate, tends to adsorb radioactive particles on its surface.[14]
+the elements undergo fractionation during particle formation, due to their different volatility. refractory elements (sr, y, zr, nb, ba, la, ce, pr, nd, pm) form oxides with high boiling points; these precipitate the fastest and at the time of particle solidification, at temperature of 1400 °c, are considered to be fully condensed. volatile elements (kr, xe, i, br) are not condensed at that temperature. intermediate elements have their (or their oxides) boiling points close to the solidification temperature of the particles (rb, cs, mo, ru, rh, tc, sb, te). the elements in the fireball are present as oxides, unless the temperature is above the decomposition temperature of a given oxide. less refractory products condense on surfaces of solidified particles. isotopes with gaseous precursors solidify on the surface of the particles as they are produced by decay.
+the largest, and therefore the most radioactive particles, are deposited by fallout in the first few hours after the blast. smaller particles are carried to higher altitudes and descend more slowly, reaching ground in a less radioactive state as the isotopes with the shortest half-lives decay the fastest. the smallest particles can reach the stratosphere and stay there for weeks, months, or even years, and cover an entire hemisphere of the planet via atmospheric currents. the higher danger, short-term, localized fallout is deposited primarily downwind from the blast site, in a cigar-shaped area, assuming a wind of constant strength and direction. crosswinds, changes in wind direction, and precipitation are factors that can greatly alter the fallout pattern.[15]
+the condensation of water droplets in the mushroom cloud depends on the amount of condensation nuclei. too many condensation nuclei actually inhibit condensation, as the particles compete for a relatively insufficient amount of water vapor.
+chemical reactivity of the elements and their oxides, ion adsorption properties, and compound solubility influence particle distribution in the environment after deposition from the atmosphere. bioaccumulation influences the propagation of fallout radioisotopes in the biosphere.
+
+radioisotopes[edit]
+the primary fallout hazard is gamma radiation from short-lived radioisotopes, which represent the bulk of activity. within 24 hours after the burst, the fallout gamma radiation level drops 60 times. longer-life radioisotopes, typically caesium-137 and strontium-90, present a long-term hazard. intense beta radiation from the fallout particles can cause beta burns to people and animals coming in contact with the fallout shortly after the blast. ingested or inhaled particles cause an internal dose of alpha and beta radiation, which may lead to long-term effects, including cancer.
+the neutron irradiation of the atmosphere itself produces a small amount of activation, mainly as long-lived carbon-14 and short-lived argon-41. the elements most important for induced radioactivity for sea water are sodium-24, chlorine, magnesium, and bromine. for ground bursts, the elements of concern are aluminium-28, silicon-31, sodium-24, manganese-56, iron-59, and cobalt-60.
+the bomb casing can be a significant sources of neutron-activated radioisotopes. the neutron flux in the bombs, especially thermonuclear devices, is sufficient for high-threshold nuclear reactions. the induced isotopes include cobalt-60, 57 and 58, iron-59 and 55, manganese-54, zinc-65, yttrium-88, and possibly nickel-58 and 62, niobium-63, holmium-165, iridium-191, and short-lived manganese-56, sodium-24, silicon-31, and aluminium-28. europium-152 and 154 can be present, as well as two nuclear isomers of rhodium-102. during the operation hardtack, tungsten-185, 181 and 187 and rhenium-188 were produced from elements added as tracers to the bomb casings, to allow identification of fallout produced by specific explosions. antimony-124, cadmium-109, and cadmium-113m are also mentioned as tracers.[8]
+the most significant radiation sources are the fission products from the primary fission stage, and in the case of fission-fusion-fission weapons, from the fission of the fusion stage uranium tamper. many more neutrons per unit of energy are released in a thermonuclear explosion in comparison with a purely fission yield influencing the fission products composition. for example, the uranium-237 isotope is a unique thermonuclear explosion marker, as it is produced by a (n,2n) reaction from uranium-238, with the minimal neutron energy needed being about 5.9 mev. considerable amounts of neptunium-239 and uranium-237 are indicators of a fission-fusion-fission explosion. minor amounts of uranium-240 are also formed, and capture of large numbers of neutrons by individual nuclei leads to formation of small but detectable amounts of higher transuranium elements, e.g. einsteinium-255 and fermium-255.[8]
+one of the important fission products is krypton-90, a radioactive noble gas. it diffuses easily in the cloud, and undergoes two decays to rubidium-90 and then strontium-90, with half-lives of 33 seconds and 3 minutes. the noble gas nonreactivity and rapid diffusion is responsible for depletion of local fallout in sr-90, and corresponding sr-90 enrichment of remote fallout.[16]
+the radioactivity of the particles decreases with time, with different isotopes being significant at different timespans. for soil activation products, aluminium-28 is the most important contributor during the first 15 minutes. manganese-56 and sodium-24 follow until about 200 hours. iron-59 follows at 300 hours, and after 100–300 days, the significant contributor becomes cobalt-60.
+radioactive particles can be carried for considerable distances. radiation from the trinity test was washed out by a rainstorm in illinois. this was deduced, and the origin traced, when eastman kodak found x-ray films were being fogged by cardboard packaging produced in the midwest. unanticipated winds carried lethal doses of castle bravo fallout over the rongelap atoll, forcing its evacuation. the crew of daigo fukuryu maru, a japanese fishing boat located outside of the predicted danger zone, was also affected. strontium-90 found in worldwide fallout later led to the partial test ban treaty.[14]
+
+fluorescent glow[edit]
+main article: ionized air glow
+the intense radiation in the first seconds after the blast may cause an observable aura of fluorescence, the blue-violet-purple glow of ionized oxygen and nitrogen out to a significant distance from the fireball, surrounding the head of the forming mushroom cloud.[17][18][19]  this light is most easily visible at night or under conditions of weak daylight.[4]  the brightness of the glow decreases rapidly with elapsed time since the detonation, becoming only barely visible after a few tens of seconds.[20]
+
+condensation effects[edit]
+nuclear mushroom clouds are often accompanied by short-lived vapour clouds, known variously as "wilson clouds", condensation clouds, or vapor rings. the "negative phase" following the positive overpressure behind a shock front causes a sudden rarefaction of the surrounding medium. this low pressure region causes an adiabatic drop in temperature, causing moisture in the air to condense in an outward moving shell surrounding the explosion. when the pressure and temperature return to normal, the wilson cloud dissipates.[21] scientists observing the operation crossroads nuclear tests in 1946 at bikini atoll named that transitory cloud a "wilson cloud" because of its visual similarity to a wilson cloud chamber; the cloud chamber uses condensation from a rapid pressure drop to mark the tracks of electrically charged subatomic particles. analysts of later nuclear bomb tests used the more general term "condensation cloud" in preference to "wilson cloud".
+the same kind of condensation is sometimes seen above the wings of jet aircraft at low altitude in high-humidity conditions. the top of a wing is a curved surface. the curvature (and increased air velocity) causes a reduction in air pressure, as given by bernoulli's law. this reduction in air pressure causes cooling, and when the air cools past its dew point, water vapour condenses out of the air, producing droplets of water, which become visible as a white cloud.  in technical terms, the "wilson cloud" is also an example of the prandtl–glauert singularity in aerodynamics.[citation needed]
+the shape of the shock wave is influenced by variation of the speed of sound with altitude, and the temperature and humidity of different atmospheric layers determines the appearance of the wilson clouds. condensation rings around or above the fireball are a commonly observed feature. rings around the fireball may become stable, becoming rings around the rising stem. higher-yield explosions cause intense updrafts, where air speeds can reach 300 miles per hour (480 km/h). the entrainment of higher-humidity air, combined with the associated drop in pressure and temperature, leads to the formation of skirts and bells around the stem. if the water droplets become sufficiently large, the cloud structure they form may become heavy enough to descend; in this way, a rising stem with a descending bell around it can be produced. layering of humidity in the atmosphere, responsible for the appearance of the condensation rings as opposed to a spherical cloud, also influences the shape of the condensation artifacts along the stem of the mushroom cloud, as the updraft causes laminar flow. the same effect above the top of the cloud, where the expansion of the rising cloud pushes a layer of warm, humid, low-altitude air upwards into cold, high-altitude air, first causes the condensation of water vapour out of the air and then causes the resulting droplets to freeze, forming ice caps (or icecaps), similar in both appearance and mechanism of formation to scarf clouds.
+the resulting composite structures can become very complex. the castle bravo cloud had, at various phases of its development, 4 condensation rings, 3 ice caps, 2 skirts, and 3 bells.
+
+
+
+
+
+the mushroom cloud from the 15-megaton castle bravo hydrogen bomb test, showing multiple condensation rings, march 1, 1954.
+
+
+
+
+
+
+the mushroom cloud from the 11-megaton castle romeo hydrogen bomb test, showing a prominent condensation ring.
+
+
+
+
+
+
+the mushroom cloud from the 6.9-megaton castle union hydrogen bomb test, showing multiple condensation rings.
+
+
+
+
+
+
+the water column from the 21-kiloton crossroads baker test, involving a nuclear underwater explosion, showing a prominent, spherical wilson cloud.
+
+
+
+
+
+
+the mushroom cloud from the 225-kiloton greenhouse george test, showing a well-developed bell.
+
+
+
+
+
+ the formation of a mushroom cloud from a nuclear test; tumbler-snapper dog. the streamers of smoke seen to the left of the explosion at detonation are vertical smoke flares used to observe the shockwave from the explosion, and are unrelated to the mushroom cloud.
+
+references[edit]
+
+
+^ eyewitness account of atomic bomb over nagasaki archived 2011-01-06 at the wayback machine hiroshima-remembered.com. retrieved on 2010-08-09.
+
+^ weart, spencer (1987). nuclear fear: a history of images. cambridge, ma: harvard university press. isbn 978-0-674-62836-6. archived from the original on 2016-06-10..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ batchelor, g. k. (2000). "6.11, large gas bubbles in liquid". an introduction to fluid dynamics. cambridge university press. p. 470. isbn 978-0-521-66396-0. archived from the original on 2016-04-28.
+
+^ a b c glasstone and dolan 1977
+
+^ full text of "nuclear survival manual : bosdec-the concrete curtain". archive.org. retrieved on 2010-02-08.
+
+^ "the mushroom cloud". atomic archive. archived from the original on 2013-08-30. retrieved january 14, 2018.
+
+^ national research council; division on engineering and physical sciences; committee on the effects of nuclear earth-penetrator and other weapons (2005). effects of nuclear earth-penetrator and other weapons. national academies press. p. 53. isbn 978-0-309-09673-7.
+
+^ a b c d e f g radioactive fallout after nuclear explosions and accidents, volume 3, i. a. izraėl, elsevier, 2002 isbn 0080438555
+
+^ effects of nuclear explosions archived 2014-04-28 at the wayback machine. nuclearweaponarchive.org. retrieved on 2010-02-08.
+
+^ key issues: nuclear weapons: history: pre cold war: manhattan project: trinity: eyewitness philip morrison archived 2014-07-21 at the wayback machine. nuclearfiles.org (1945-07-16). retrieved on 2010-02-08.
+
+^ a b richard lee miller (1986). under the cloud: the decades of nuclear testing. two-sixty press. p. 32. isbn 978-0-02-921620-0.
+
+^ thomas carlyle jones; ronald duncan hunt; norval w. king (1997). veterinary pathology. wiley-blackwell. p. 690. isbn 978-0-683-04481-2.
+
+^ constantin papastefanou (2008). radioactive aerosols. elsevier. p. 41. isbn 978-0-08-044075-0.
+
+^ a b c lawrence badash (2009). a nuclear winter's tale: science and politics in the 1980s. mit press. p. 25. isbn 978-0-262-25799-2.
+
+^ robert ehrlich (1985). waging nuclear peace: the technology and politics of nuclear weapons. suny press. p. 175. isbn 978-0-87395-919-3.
+
+^ ralph e. lapp (october 1956) "strontium limits in peace and war," bulletin of the atomic scientists, 12 (8): 287–289, 320.
+
+^ "the legacy of trinity". abqjournal. 28 october 1999. archived from the original on 9 may 2008. retrieved 8 february 2010.
+
+^ nobles, ralph (december 2008). "the night the world changed: the trinity nuclear test" (pdf). los alamos historical society. archived from the original (pdf) on 28 december 2010. retrieved 15 february 2019.
+
+^ feynman, richard (21 may 2005). "'this is how science is done'". dimaggio.org. archived from the original on february 16, 2009. retrieved 8 february 2010.
+
+^ "nevada weapons test". bulletin of the atomic scientists. educational foundation for nuclear science, inc. 9 (3): 74. apr 1953. issn 0096-3402.
+
+^ glasstone and dolan 1977, p. 631
+
+
+bibliography[edit]
+glasstone, samuel, and dolan, philip j. the effects of nuclear weapons[permanent dead link] 3rd edn. washington, dc: united states department of defense and energy research and development administration, 1977. (esp. "chronological development of an air-burst" and "description of air and surface bursts" in chapter ii)
+vigh, jonathan. mechanisms by which the atmosphere adjusts to an extremely large explosive event, 2001.
+external links[edit]
+
+
+
+look up mushroom cloud in wiktionary, the free dictionary.
+
+
+
+wikimedia commons has media related to mushroom cloud.
+carey sublette's nuclear weapon archive has many photographs of mushroom clouds
+doe nevada site office has many photographs of nuclear tests conducted at the nevada test site and elsewhere
+burning bulbs is a set of photographs by kevin tieskoetter, showing fine mushroom cloud structures generated by burning lightbulb filaments in air
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=mushroom_cloud&oldid=883461932"					
+categories: nuclear weaponsvorticesexplosionscloud typeshidden categories: webarchive template wayback linksall articles with unsourced statementsarticles with unsourced statements from september 2015articles with unsourced statements from february 2012all articles with dead external linksarticles with dead external links from february 2018articles with permanently dead external links 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+العربيةdeutschespañolesperantoeuskaraفارسیfrançais한국어bahasa indonesiaitalianoעבריתlëtzebuergeschmagyarമലയാളംnederlands日本語norsknorsk nynorskpolskiportuguêsрусскийslovenčinasuomisvenskaతెలుగుไทยtürkçeукраїнськаtiếng việt中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 15 february 2019, at 15:18 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.412","walltime":"0.573","ppvisitednodes":{"value":1899,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":38314,"limit":2097152},"templateargumentsize":{"value":3942,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":52174,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  470.493      1 -total"," 46.19%  217.327      1 template:reflist"," 19.91%   93.661      8 template:cite_book"," 17.76%   83.556      2 template:citation_needed"," 16.56%   77.920      3 template:fix"," 10.16%   47.790      6 template:category_handler","  8.45%   39.780      1 template:convert","  8.13%   38.232      1 template:isbn","  6.41%   30.150      2 template:cite_journal","  4.96%   23.334      2 template:delink"]},"scribunto":{"limitreport-timeusage":{"value":"0.179","limit":"10.000"},"limitreport-memusage":{"value":6560812,"limit":52428800}},"cachereport":{"origin":"mw1276","timestamp":"20190215151741","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"mushroom cloud","url":"https:\/\/en.wikipedia.org\/wiki\/mushroom_cloud","sameas":"http:\/\/www.wikidata.org\/entity\/q216938","mainentity":"http:\/\/www.wikidata.org\/entity\/q216938","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2003-07-08t08:07:34z","datemodified":"2019-02-15t15:18:03z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/45\/mtredoubtedit1.jpg","headline":"cloud"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":127,"wghostname":"mw1272"});});
+
+

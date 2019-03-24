@@ -1,0 +1,825 @@
+
+
+
+
+photographic film - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"photographic_film","wgtitle":"photographic film","wgcurrevisionid":876990795,"wgrevisionid":876990795,"wgarticleid":21556842,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["cs1 maint: archived copy as title","all articles with dead external links","articles with dead external links from december 2017","articles with permanently dead external links","articles needing additional references from july 2008","all articles needing additional references","articles needing additional references from october 2016","all articles with failed verification","articles with failed verification from may 2016","commons category link is on wikidata","wikipedia articles with lccn identifiers","wikipedia articles with nara identifiers","wikipedia articles with ndl identifiers","1885 introductions","photographic films","photography equipment","storage media"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"photographic_film","wgrelevantarticleid":21556842,"wgrequestid":"xgyfyapaicgaai2t4uwaaabu","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q6293","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+photographic film 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+this article is about still photography film. for motion picture film, see film stock.
+this article needs additional citations for verification. please help improve this article by adding citations to reliable sources. unsourced material may be challenged and removed.find sources: "photographic film" – news · newspapers · books · scholar · jstor (july 2008) (learn how and when to remove this template message)
+ undeveloped 35 mm, iso 125/22°, black and white negative film
+photographic film is a strip or sheet of transparent plastic film base coated on one side with a gelatin emulsion containing microscopically small light-sensitive silver halide crystals. the sizes and other characteristics of the crystals determine the sensitivity, contrast and resolution of the film.[1]
+the emulsion will gradually darken if left exposed to light, but the process is too slow and incomplete to be of any practical use. instead, a very short exposure to the image formed by a camera lens is used to produce only a very slight chemical change, proportional to the amount of light absorbed by each crystal. this creates an invisible latent image in the emulsion, which can be chemically developed into a visible photograph. in addition to visible light, all films are sensitive to ultraviolet, x-rays and high-energy particles. unmodified silver halide crystals are sensitive only to the blue part of the visible spectrum, producing unnatural-looking renditions of some colored subjects. this problem was resolved with the discovery that certain dyes, called sensitizing dyes, when adsorbed onto the silver halide crystals made them respond to other colors as well. first orthochromatic (sensitive to blue and green) and finally panchromatic (sensitive to all visible colors) films were developed. panchromatic film renders all colors in shades of gray approximately matching their subjective brightness. by similar techniques, special-purpose films can be made sensitive to the infrared (ir) region of the spectrum.[2]
+in black-and-white photographic film, there is usually one layer of silver halide crystals. when the exposed silver halide grains are developed, the silver halide crystals are converted to metallic silver, which blocks light and appears as the black part of the film negative. color film has at least three sensitive layers, incorporating different combinations of sensitizing dyes. typically the blue-sensitive layer is on top, followed by a yellow filter layer to stop any remaining blue light from affecting the layers below. next comes a green-and-blue sensitive layer, and a red-and-blue sensitive layer, which record the green and red images respectively. during development, the exposed silver halide crystals are converted to metallic silver, just as with black-and-white film. but in a color film, the by-products of the development reaction simultaneously combine with chemicals known as color couplers that are included either in the film itself or in the developer solution to form colored dyes. because the by-products are created in direct proportion to the amount of exposure and development, the dye clouds formed are also in proportion to the exposure and development. following development, the silver is converted back to silver halide crystals in the bleach step. it is removed from the film during the process of fixing the image on the film with a solution of ammonium thiosulfate or sodium thiosulfate (hypo or fixer).[3] fixing leaves behind only the formed color dyes, which combine to make up the colored visible image. later color films, like kodacolor ii, have as many as 12 emulsion layers,[4] with upwards of 20 different chemicals in each layer.
+
+contents
+
+1 history of film
+
+1.1 spectral sensitivity
+1.2 color
+1.3 effect on lens and equipment design
+
+
+2 film basics
+3 film speed
+4 special films
+5 decline
+6 renewed interest in recent years
+7 dx codes
+8 common sizes of film
+9 companies
+
+9.1 in production
+9.2 discontinued
+
+
+10 image gallery
+11 see also
+12 notes
+13 references
+14 bibliography
+15 external links
+
+
+history of film[edit]
+see also: history of photography
+the earliest practical photographic process was the daguerreotype; it was introduced in 1839 and did not use film. the light-sensitive chemicals were formed on the surface of a silver-plated copper sheet.[5] the calotype process produced paper negatives.[6] beginning in the 1850s, thin glass plates coated with photographic emulsion became the standard material for use in the camera. although fragile and relatively heavy, the glass used for photographic plates was of better optical quality than early transparent plastics and was, at first, less expensive. glass plates continued to be used long after the introduction of film, and were used for astrophotography[7] and electron micrography until the early 2000s, when they were supplanted by digital recording methods. ilford continues to manufacture glass plates for special scientific applications.[8]
+the first flexible photographic roll film was sold by george eastman in 1885,[9] but this original "film" was actually a coating on a paper base. as part of the processing, the image-bearing layer was stripped from the paper and attached to a sheet of hardened clear gelatin. the first transparent plastic roll film followed in 1889.[10] it was made from highly flammable nitrocellulose ("celluloid"), now usually called "nitrate film".
+although cellulose acetate or "safety film" had been introduced by kodak in 1908,[11] at first it found only a few special applications as an alternative to the hazardous nitrate film, which had the advantages of being considerably tougher, slightly more transparent, and cheaper. the changeover was completed for x-ray films in 1933, but although safety film was always used for 16 mm and 8 mm home movies, nitrate film remained standard for theatrical 35 mm films until it was finally discontinued in 1951.[12]
+hurter and driffield began pioneering work on the light sensitivity of photographic emulsions in 1876. their work enabled the first quantitative measure of film speed to be devised.[13] they developed h&d curves, which are specific for each film and paper. these curves plot the photographic density against the log of the exposure, to determine sensitivity or speed of the emulsion and enabling correct exposure.[14]
+
+spectral sensitivity[edit]
+this section does not cite any sources. please help improve this section by adding citations to reliable sources. unsourced material may be challenged and removed. (october 2016) (learn how and when to remove this template message)
+early photographic plates and films were usefully sensitive only to blue, violet and ultraviolet light. as a result, the relative tonal values in a scene registered roughly as they would appear if viewed through a piece of deep blue glass. blue skies with interesting cloud formations photographed as a white blank. any detail visible in masses of green foliage was due mainly to the colorless surface gloss. bright yellows and reds appeared nearly black. most skin tones came out unnaturally dark, and uneven or freckled complexions were exaggerated. photographers sometimes compensated by adding in skies from separate negatives that had been exposed and processed to optimize the visibility of the clouds, by manually retouching their negatives to adjust problematic tonal values, and by heavily powdering the faces of their portrait sitters.
+in 1873, hermann wilhelm vogel discovered that the spectral sensitivity could be extended to green and yellow light by adding very small quantities of certain dyes to the emulsion. the instability of early sensitizing dyes and their tendency to rapidly cause fogging initially confined their use to the laboratory, but in 1883 the first commercially dye-sensitized plates appeared on the market. these early products, described as isochromatic or orthochromatic depending on the manufacturer, made possible a more accurate rendering of colored subject matter into a black-and-white image. because they were still disproportionately sensitive to blue, the use of a yellow filter and a consequently longer exposure time were required to take full advantage of their extended sensitivity.
+in 1894, the lumière brothers introduced their lumière panchromatic plate, which was made sensitive, although very unequally, to all colors including red. new and improved sensitizing dyes were developed, and in 1902 the much more evenly color-sensitive perchromo panchromatic plate was being sold by the german manufacturer perutz. the commercial availability of highly panchromatic black-and-white emulsions also accelerated the progress of practical color photography, which requires good sensitivity to all the colors of the spectrum for the red, green and blue channels of color information to all be captured with reasonable exposure times.
+however, all of these were glass-based plate products. panchromatic emulsions on a film base were not commercially available until the 1910s and did not come into general use until much later. many photographers who did their own darkroom work preferred to go without the seeming luxury of sensitivity to red—a rare color in nature and uncommon even in man-made objects—rather than be forced to abandon the traditional red darkroom safelight and process their exposed film in complete darkness. kodak's popular verichrome black-and-white snapshot film, introduced in 1931, remained a red-insensitive orthochromatic product until 1956, when it was replaced by verichrome pan. amateur darkroom enthusiasts then had to handle the undeveloped film by the sense of touch alone.
+
+color[edit]
+experiments with color photography began almost as early as photography itself, but the three-color principle underlying all practical processes was not set forth until 1855, not demonstrated until 1861, and not generally accepted as "real" color photography until it had become an undeniable commercial reality in the early 20th century. although color photographs of good quality were being made by the 1890s, they required special equipment, long exposures, complex printing or display procedures and highly specialized skills, so they were then exceedingly rare.
+the first practical and commercially successful color "film" was the lumière autochrome, a glass plate product introduced in 1907. it was expensive and not sensitive enough for hand-held "snapshot" use. film-based versions were introduced in the early 1930s and the sensitivity was later improved. these were "mosaic screen" additive color products, which used a simple layer of black-and-white emulsion in combination with a layer of microscopically small color filter elements. the resulting transparencies or "slides" were very dark because the color filter mosaic layer absorbed most of the light passing through. the last films of this type were discontinued in the 1950s, but polachrome "instant" slide film, introduced in 1983, temporarily revived the technology.
+"color film" in the modern sense of a subtractive color product with a multi-layered emulsion was born with the introduction of kodachrome for home movies in 1935 and as lengths of 35 mm film for still cameras in 1936.[15] during the next several decades, color remained much more expensive than black-and-white and required much more light, factors which combined to delay its widespread adoption. decreasing cost and increasing sensitivity gradually overcame these impediments. by the 1970s, color film predominated in the consumer market, while the use of black-and-white film was increasingly confined to photojournalism and fine art photography.
+
+effect on lens and equipment design[edit]
+photographic lenses and equipment are designed around the film to be used. although the earliest photographic materials were sensitive only to the blue-violet end of the spectrum, partially color-corrected achromatic lenses were normally used, so that when the photographer brought the visually brightest yellow rays to a sharp focus, the visually dimmest but photographically most active violet rays would be correctly focused, too. the introduction of orthochromatic emulsions required the whole range of colors from yellow to blue to be brought to an adequate focus. most plates and films described as orthochromatic or isochromatic were practically insensitive to red, so the correct focus of red light was unimportant; a red window could be used to view the frame numbers on the paper backing of roll film, as any red light which leaked around the backing would not fog the film; and red lighting could be used in darkrooms. with the introduction of panchromatic film, the whole visible spectrum needed to be brought to an acceptably sharp focus. in all cases a color cast in the lens glass or faint colored reflections in the image were of no consequence as they would merely change the contrast a little. this was no longer acceptable when using color film. more highly corrected lenses for newer emulsions could be used with older emulsion types, but the converse was not true.
+the progression of lens design for later emulsions is of practical importance when considering the use of old lenses, still often used on large-format equipment; a lens designed for orthochromatic film may have visible defects with a color emulsion; a lens for panchromatic film will be better but not as good as later designs.
+the filters used were different for the different film types.
+
+film basics[edit]
+ layers of 35mm color film: 1. film base; 2. subbing layer; 3. red light sensitive layer; 4. green light sensitive layer; 5. yellow filter; 6. blue light sensitive layer; 7. uv filter; 8. protective layer; 9. (visible light exposing film).
+there are several types of photographic film, including:
+
+print film, when developed, yields transparent negatives with the light and dark areas and colors (if color film is used) inverted to their respective complementary colors. this type of film is designed to be printed onto photographic paper, usually by means of an enlarger but in some cases by contact printing. the paper is then itself developed. the second inversion that results restores light, shade and color to their normal appearance. color negatives incorporate an orange color correction mask that compensates for unwanted dye absorptions and improves color accuracy in the prints. although color processing is more complex and temperature-sensitive than black-and-white processing, the wide availability of commercial color processing and scarcity of service for black-and-white prompted the design of some black-and-white films which are processed in exactly the same way as standard color film.
+color reversal film produces positive transparencies, also known as diapositives. transparencies can be reviewed with the aid of a magnifying loupe and a lightbox. if mounted in small metal, plastic or cardboard frames for use in a slide projector or slide viewer they are commonly called slides. reversal film is often marketed as "slide film". large-format color reversal sheet film is used by some professional photographers, typically to originate very-high-resolution imagery for digital scanning into color separations for mass photomechanical reproduction. photographic prints can be produced from reversal film transparencies, but positive-to-positive print materials for doing this directly (e.g. ektachrome paper, cibachrome/ilfochrome) have all been discontinued, so that it now requires the use of an internegative to convert the positive transparency image into a negative transparency, which is then printed as a positive print.[16]
+black-and-white reversal film exists but is very uncommon. conventional black-and-white negative film can be reversal-processed to produce black-and-white slides, as by dr5 chrome.[17] although kits of chemicals for black-and-white reversal processing may no longer be available to amateur darkroom enthusiasts, an acid bleaching solution, the only unusual component which is essential, is easily prepared from scratch. black-and-white transparencies may also be produced by printing negatives onto special positive print film, still available from some specialty photographic supply dealers.[18]
+in order to produce a usable image, the film needs to be exposed properly. the amount of exposure variation that a given film can tolerate, while still producing an acceptable level of quality, is called its exposure latitude. color print film generally has greater exposure latitude than other types of film. additionally, because print film must be printed to be viewed, after-the-fact corrections for imperfect exposure are possible during the printing process.
+
+ plot of image density (d) vs. log exposure (h), yields a characteristic s-curve (h&d curve) for each type of film to determine its sensitivity. changing the emulsion properties or the processing parameters will move the curve to the left or right. changing the exposure will move along the curve, helping to determine what exposure is needed for a given film. note the non-linear response at the far left ("toe") and right ("shoulder") of the curve.[19]
+the concentration of dyes or silver halide crystals remaining on the film after development is referred to as optical density, or simply density; the optical density is proportional to the logarithm of the optical transmission coefficient of the developed film. a dark image on the negative is of higher density than a more transparent image.
+most films are affected by the physics of silver grain activation (which sets a minimum amount of light required to expose a single grain) and by the statistics of random grain activation by photons. the film requires a minimum amount of light before it begins to expose, and then responds by progressive darkening over a wide dynamic range of exposure until all of the grains are exposed, and the film achieves (after development) its maximum optical density.
+over the active dynamic range of most films, the density of the developed film is proportional to the logarithm of the total amount of light to which the film was exposed, so the transmission coefficient of the developed film is proportional to a power of the reciprocal of the brightness of the original exposure. the plot of the density of the film image against the log of the exposure is known as an h&d curve.[14] this effect is due to the statistics of grain activation: as the film becomes progressively more exposed, each incident photon is less likely to impact a still-unexposed grain, yielding the logarithmic behavior. a simple, idealized statistical model yields the equation  density = 1 - ( 1 - k) light, where light is proportional to the number of photons hitting a unit area of film, k is the probability of a single photon striking a grain (based on the size of the grains and how closely spaced they are), and density is the proportion of grains that have been hit by at least one photon. the relationship between density and log exposure is linear for photographic films except at the extreme ranges of maximum exposure (d-max) and minimum exposure (d-min) on an h&d curve, so the curve is characteristically s-shaped (as opposed to digital camera sensors which have a linear response through the effective exposure range.[20] the sensitivity (i.e., the iso speed) of a film can be affected by changing the length or temperature of development, which would move the h&d curve to the left or right (see figure).[21][22]
+if parts of the image are exposed heavily enough to approach the maximum density possible for a print film, then they will begin losing the ability to show tonal variations in the final print. usually those areas will be considered overexposed and will appear as featureless white on the print. some subject matter is tolerant of very heavy exposure. for example, sources of brilliant light, such as a light bulb or the sun, generally appear best as a featureless white on the print.
+likewise, if part of an image receives less than the beginning threshold level of exposure, which depends upon the film's sensitivity to light—or speed—the film there will have no appreciable image density, and will appear on the print as a featureless black. some photographers use their knowledge of these limits to determine the optimum exposure for a photograph; for one example, see the zone system. most automatic cameras instead try to achieve a particular average density.
+
+film speed[edit]
+ a roll of 400 speed kodak 35mm film.
+main article: film speed
+film speed describes a film's threshold sensitivity to light. the international standard for rating film speed is the iso scale, which combines both the asa speed and the din speed in the format asa/din. using iso convention film with an asa speed of 400 would be labeled 400/27°.[23] a fourth naming standard is gost, developed by the russian standards authority. see the film speed article for a table of conversions between asa, din, and gost film speeds.
+common film speeds include iso 25, 50, 64, 100, 160, 200, 400, 800, 1600, 3200, and 6400. consumer print films are usually in the iso 100 to iso 800 range.  some films, like kodak's technical pan,[24] are not iso rated and therefore careful examination of the film's properties must be made by the photographer before exposure and development. iso 25 film is very "slow", as it requires much more exposure to produce a usable image than "fast" iso 800 film. films of iso 800 and greater are thus better suited to low-light situations and action shots (where the short exposure time limits the total light received). the benefit of slower film is that it usually has finer grain and better color rendition than fast film. professional photographers of static subjects such as portraits or landscapes usually seek these qualities, and therefore require a tripod to stabilize the camera for a longer exposure. a professional photographing subjects such as rapidly moving sports or in low-light conditions will inevitably choose a faster film.
+a film with a particular iso rating can be push-processed, or "pushed", to behave like a film with a higher iso, by developing for a longer amount of time or at a higher temperature than usual.[25]:160 more rarely, a film can be "pulled" to behave like a "slower" film. pushing generally coarsens grain and increases contrast, reducing dynamic range, to the detriment of overall quality. nevertheless, it can be a useful tradeoff in difficult shooting environments, if the alternative is no usable shot at all.
+
+special films[edit]
+instant photography, as popularized by polaroid, uses a special type of camera and film that automates and integrates development, without the need of further equipment or chemicals. this process is carried out immediately after exposure, as opposed to regular film, which is developed afterwards and requires additional chemicals. see instant film.
+films can be made to record non-visible ultraviolet (uv) and infrared (ir) radiation. these films generally require special equipment; for example, most photographic lenses are made of glass and will therefore filter out most ultraviolet light.  instead, expensive lenses made of quartz must be used. infrared films may be shot in standard cameras using an infrared band- or long-pass filter, although the infrared focal point must be compensated for.
+exposure and focusing are difficult when using uv or ir film with a camera and lens designed for visible light. the iso standard for film speed only applies to visible light, so visual-spectrum light meters are nearly useless. film manufacturers can supply suggested equivalent film speeds under different conditions, and recommend heavy bracketing (e.g., with a certain filter, assume iso 25 under daylight and iso 64 under tungsten lighting). this allows a light meter to be used to estimate an exposure. the focal point for ir is slightly farther away from the camera than visible light, and uv slightly closer; this must be compensated for when focusing. apochromatic lenses are sometimes recommended due to their improved focusing across the spectrum.
+film optimized for sensing x-ray radiation is commonly used for medical imaging by placing the subject between the film and a source of x-rays, without a lens, as if a translucent object were imaged by being placed between a light source and standard film. unlike other types of film, x-ray film has a sensitive emulsion on both sides of the carrier material. this reduces the x-ray exposure for an acceptable image – a desirable feature in medical radiography. the film is usually placed in contact with a thin layer of lead which also enhances its sensitivity.
+film optimized for sensing x-rays and for gamma rays is sometimes used for radiation dosimetry and personal monitoring.
+film has a number of disadvantages as a scientific detector: it is difficult to calibrate for photometry, it is not re-usable, it requires careful handling (including temperature and humidity control) for best calibration, and the film must physically be returned to the laboratory and processed. against this, photographic film can be made with a higher spatial resolution than any other type of imaging detector, and, because of its logarithmic response to light, has a wider dynamic range than most digital detectors. for example, agfa 10e56 holographic film has a resolution of over 4,000 lines/mm—equivalent to a pixel size of 0.125 micrometers—and an active dynamic range of over five orders of magnitude in brightness, compared to typical scientific ccds that might have pixels of about 10 micrometers and a dynamic range of 3–4 orders of magnitude.[26][not in citation given]
+special films are used for the long exposures required by astrophotography.[27]
+
+decline[edit]
+film remained the dominant form of photography until the early 21st century, when advances in digital photography drew consumers to digital formats. the first consumer electronic camera, the sony mavica was released in 1981, the first digital camera, the fuji ds-x released in 1989,[28] coupled with advances in software such as adobe photoshop which was released in 1989, improvements in consumer level digital color printers and increasingly widespread computers in households during the late 20th century facilitated uptake of digital photography by consumers.[20] although modern photography is dominated by digital users, film continues to be used by enthusiasts. film remains the preference of some photographers because of its distinctive "look".[a]
+
+renewed interest in recent years[edit]
+despite the fact that digital cameras are by far the most commonly-used photographic tool and that the selection of available photographic films is much smaller than it once was, sales of photographic film have been on a steady upward trend.  kodak (which was under bankruptcy protection from january 2012 to september 2013) and other companies have noticed this upward trend, the president of kodak alaris' film, paper and photo chemical's division dennis olbrich stating that sales of their photographic films have been growing over the past 3 or 4 years.  uk-based ilford have confirmed this trend and conducted extensive research on this subject matter, their research showing that 60% of current film users had only started using film in the past five years and that 30% of current film users were under 35 years old. [31]
+in 2013 ferrania, a italy-based film manufacturer which ceased production of photographic films between the years 2009 and 2010, was acquired by the new film ferrania s.r.l taking over the old company's manufacturing facilities, and re-employed some workers who had been laid off 3 years earlier when the company stopped production of film.
+in november of the same year, the company started a crowdfunding campaign with the goal of raising $250,000 to buy tooling and machines from the old factory, with the intention of putting some of the films that had been discontinued back into production, the campaign succeeded and in october 2014 was ended with over $320,000 being raised.
+in february 2017, film ferrania unveiled their "p30" 80 asa, panchromatic black and white film, in 35mm format.
+kodak announced on january 5th, 2017, that ektachrome, one of kodak's most well known transparency films that was discontinued between 2012 and 2013, would be reformulated and manufactured once again, in 35mm still and super 8 motion picture film formats. [32]
+japan-based fujifilm's instant film "instax" cameras and paper have also proven to be very successful, and have replaced traditional photographic films as fujifilm's main film products, while they continue to offer traditional photographic films in various formats and types.[33]
+
+dx codes[edit]
+ 135 film cartridge with dx barcode (top) and dx cas code on the black and white grid below the barcode. the cas code shows the iso, number of exposures, exposure latitude (+3/−1 for print film).
+ dx film edge barcode
+dx encoding (digital index), or dx coding was initially developed by kodak in the 1980s, and eventually adapted by all camera and film manufacturers.[34] it provides information on both the film cassette and on the film regarding the type of film, number of exposures, speed (iso/asa rating) of the film. it consists of three types of identification. first is a barcode near the film opening of the cassette, identifying the manufacturer, film type and processing method (see image below left). this is used by photofinishing equipment during film processing. the second part is a barcode on the edge of the film (see image below right), used also during processing, which indicates the image film type, manufacturer, frame number and synchronizes the position of the frame. the third part of dx coding, known as the dx camera auto sensing (cas) code, consists of a series of 12 metal contacts on the film cassette, which beginning with cameras manufactured after 1985 could detect the type of film, number of exposures and iso of the film, and use that information to automatically adjust the camera settings for the speed of the film.[34][35][36]
+
+common sizes of film[edit]
+see also: film format
+source:[37]
+
+
+
+film designation
+film width (mm)
+image size (mm)
+number of images
+reasons
+
+
+110
+16
+13 × 17
+12/20
+single perforations, cartridge loaded
+
+
+aps/ix240
+24
+17 × 30
+15/25/40
+
+e.g., kodak "advantix", different aspect ratios possible, data recorded on magnetic strip, processed film remains in cartridge
+
+
+
+126
+35
+26 × 26
+12 or 20
+single perforations, cartridge loaded, e.g., kodak instamatic camera
+
+
+135
+35
+24 × 36 (1.0 x 1.5 in.)
+12–36
+double perforations, cassette loaded, "35 mm film"
+
+
+127
+46
+40 x 40 (also 40 x 30 or 60
+8-16
+unperforated, rolled in backing paper.
+
+
+120
+62
+45 × 60
+16 or 15
+unperforated, rolled in backing paper. for medium format photography
+
+
+
+
+60 × 60
+12
+
+
+
+
+
+60 × 70
+10
+
+
+
+
+
+60 × 90
+8
+
+
+
+220
+62
+45 × 60
+32 or 31
+same as 120, but rolled with no backing paper, allowing for double the number of images. unperforated film with leader and trailer.
+
+
+
+
+60 × 60
+24
+
+
+
+
+
+60 × 70
+20
+
+
+
+
+
+60 × 90
+16
+
+
+
+sheet film
+2 ¼ x 3 ¼  to 20 x 24 in.
+
+1
+individual sheets of film, notched in corner for identification, for large format photography
+
+
+disc film
+
+10 × 8 mm
+15
+
+
+
+motion picture films
+
+8 mm, 16 mm, 35 mm and 70 mm
+
+double perforations, cassette loaded
+
+companies[edit]
+in production[edit]
+adox - made in germany
+agfa-gevaert - made in belgium
+bergger - made in france
+lucky - made in china
+cinestill - kodak motion picture film modified for c-41 processing
+dai nippon printing - made in japan
+film ferrania - made in italy
+foma bohemia ltd - made in czech republic
+fujifilm - made in japan
+ilford - made in england
+kodak - made in u.s.a
+lomography - made in austria
+mitsubishi imaging - made in japan
+orwo - made in germany
+polaroid originals - made in the netherlands
+shanghai - made in china
+tasma - made in russia
+discontinued[edit]
+3m (minnesota mining and manufacturing company) - made in u.s., private label films for many chain stores and photofinishing firms; also sold by 3m themselves under the trade name dynachrome
+agfaphoto - branded products formerly produced by other manufacturers under licence
+ansco - made in u.s.; in later years known as gaf
+azopan - black and white film, made in romania
+azocolor - color film, made in romania
+dupont (also dupont-pathé) - made in u.s.
+efke - made in croatia (ceased production in 2012)[38]
+ferrania (which became imation and sold the solaris brand) - made in italy
+forte - made in hungary
+indu - made in india
+konica minolta - made in japan
+maco - made in germany
+perutz - made in west germany
+polaroid corporation - made in usa, mexico, scotland and netherlands
+seagull - made in china
+svema - made in ukraine
+valca - made in spain
+foton - made in poland
+image gallery[edit]
+
+
+
+
+9.5mm film
+
+
+
+
+
+
+mycro 17.5mm film
+
+
+
+
+
+
+kodak agfa 16mm film
+
+
+
+
+
+
+120 film
+
+
+
+
+
+
+35mm film
+
+
+
+
+see also[edit]
+apug
+list of photographic equipment makers
+list of photographic films
+sensitometry
+oversampled binary image sensor
+notes[edit]
+
+
+^ the distinctively "look" of film based photographs compared to digital images is likely due to a combination of factors, including (1) differences in spectral and tonal sensitivity (s-shaped density to exposure with film, vs. linear response curve for digital ccd sensors c.f.[29]) (2) resolution (3) continuity of tone [30]
+
+
+references[edit]
+
+
+^ karlheinz keller et al. "photography" in ullmann's encyclopedia of industrial chemistry, 2005, wiley-vch, weinheim. doi: 10.1002/14356007.a20_001
+
+^ rogers, david (2007). the chemistry of photography: from classical to digital technologies. cambridge, uk: the royal society of chemistry. isbn 978-0-85404-273-9..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ anchell, steve (2008). the darkroom cookbook p.103-105. elsevier, oxford ox2 8dp, uk. isbn 978-0-240-81055-3
+
+^ schwalberg bob (june 1984). "popular photography". popular photography. 91 (6): 55.
+
+^ osterman, mark (2007). "technical evolution of photography".  in peres, michael. the focal encyclopedia of photography (4th ed.). oxford, uk: focal press. pp. 28 et. seq. isbn 978-024080740-9.
+
+^ lynne, warren (2006). the encyclopedia of 20th century photography. routledge. pp. 515–520. isbn 978-1-57958-393-4.
+
+^ "the harvard college observatory astronomical plate stacks". smithsonian astrophysical observatory. archived from the original on 22 december 2015. retrieved 16 december 2015.
+
+^ "scientific products". ilford photo. archived from the original on 5 december 2015. retrieved 16 december 2015.
+
+^ "1878-1929". eastman kodak. 2015. archived from the original on 23 august 2015. retrieved 8 august 2015.
+
+^ hannavy john (2013). encyclopedia of nineteenth-century photography. routledge. p. 251.
+
+^ "1878-1929". eastman kodak. archived from the original on 2012-02-10. retrieved 2016-01-01.
+
+^ "www.loc.gov". loc.gov. 2014. archived from the original on 19 september 2015. retrieved 8 august 2015.
+
+^ day lance mcneil ian (2002). biographical dictionary of the history of technology. routledge. p. 631. isbn 1134650205.
+
+^ a b peres, michael (2007). the focal encyclopedia of photography: digital imaging, theory and applications, history, and science (4th ed.). burlington, ma: focal press. isbn 978-024080740-9.
+
+^ jacobson 2000, p. 266.
+
+^ langford, michael (2010). langford’s basic photography: the guide for serious photographers, 9th ed. oxford, uk: focal press. isbn 978-0-240-52168-8.
+
+^ 
+"dr5chrome b&w reversal process information". archived from the original on 2010-08-08.
+
+^ haist, grant (1979). modern photographic processing. new york: wiley. isbn 978-0471022282.
+
+^ jacobson 2000, pp. 232–234.
+
+^ a b peres, michael r. (2008). the concise focal encyclopedia of photography : from the first photo on paper to the digital revolution. burlington, mass.: focal press/elsevier. p. 75. isbn 978-0-240-80998-4.
+
+^ jacobson 2000, pp. 306–309.
+
+^ "basic sensitometry and characteristics of film" (pdf). kodak cinema and television: technical information. kodak. archived (pdf) from the original on 5 march 2016. retrieved 11 august 2015.
+
+^ jacobson 2000, p. 306.
+
+^ "kodak professional technical pan film technical data sheet" (pdf). eastman kodak company. archived (pdf) from the original on 17 august 2000. retrieved 13 august 2015.
+
+^ london, barbara; upton, john (1998). photography (6th ed.). new york: longman. isbn 0321011082.
+
+^ "archived copy". archived from the original on 2017-12-07. retrieved 2016-08-18.cs1 maint: archived copy as title (link)
+
+^ malin, david; murdin, paul (1984-08-30). colours of the stars. cup archive. isbn 9780521257145.
+
+^ "1988/1989 - first consumer digital cameras". history of the digital camera and digital imaging. the digital camera museum. retrieved 10 august 2015.[permanent dead link]
+
+^ "h&d curve of film vs digital". archived from the original on september 23, 2015. retrieved august 11, 2015.
+
+^ claire elise campton (17 august 2016). "film photography". photopholio. archived from the original on 19 september 2016. retrieved 17 august 2016.
+
+^ "archived copy". archived from the original on 2017-05-19. retrieved 2017-10-28.cs1 maint: archived copy as title (link)
+
+^ "archived copy". archived from the original on 2017-07-08. retrieved 2017-10-28.cs1 maint: archived copy as title (link)
+
+^ "archived copy". archived from the original on 2017-10-29. retrieved 2017-10-28.cs1 maint: archived copy as title (link)
+
+^ a b francois (30 january 2008). "the dx story - or how the coding works". filmwasters.com. archived from the original on 3 october 2015. retrieved 8 august 2015.
+
+^ grundberg, andy (12 october 1986). "camera: how to read the code on dx film cartridges". the new york times: arts section. the new york times company. archived from the original on 11 october 2015. retrieved 8 august 2015.
+
+^ jacobson 2000, p. 138.
+
+^ jacobson 2000, pp. 200–201.
+
+^ "fotokemika ceases production, affects efke/adox". la vida leica!. archived from the original on 2016-03-04. retrieved 2016-01-01.
+
+
+bibliography[edit]
+jacobson, ralph e. (2000). the focal manual of photography: photographic and digital imaging (9th ed.). boston, mass.: focal press. isbn 978-0-240-51574-8.
+external links[edit]
+
+
+
+wikimedia commons has media related to photographic films.
+kosmo foto article on future of film
+vtephotographyterminology
+35 mm equivalent focal length
+angle of view
+aperture
+black and white
+chromatic aberration
+circle of confusion
+color balance
+color temperature
+depth of field
+depth of focus
+exposure
+exposure compensation
+exposure value
+zebra patterning
+f-number
+film format
+large
+medium
+film speed
+focal length
+guide number
+hyperfocal distance
+metering mode
+orb (optics)
+perspective distortion
+photograph
+photographic printing
+photographic processes
+reciprocity
+red-eye effect
+science of photography
+shutter speed
+sync
+zone system
+genres
+abstract
+aerial
+aircraft
+architectural
+astrophotography
+banquet
+conceptual
+conservation
+cloudscape
+documentary
+ethnographic
+erotic
+fashion
+fine-art
+fire
+forensic
+glamour
+high-speed
+landscape
+lomography
+nature
+neues sehen
+nude
+photojournalism
+pornography
+portrait
+post-mortem
+selfie
+social documentary
+sports
+still life
+stock
+street
+vernacular
+underwater
+wedding
+wildlife
+techniques
+afocal
+bokeh
+brenizer
+burst mode
+contre-jour
+cyanotype
+ettr
+fill flash
+fireworks
+harris shutter
+hdri
+high-speed
+holography
+infrared
+intentional camera movement
+kirlian
+kite aerial
+long-exposure
+macro
+mordançage
+multiple exposure
+night
+panning
+panoramic
+photogram
+print toning
+redscale
+rephotography
+rollout
+scanography
+schlieren photography
+sabatier effect
+slow motion
+stereoscopy
+stopping down
+strip
+slit-scan
+sun printing
+tilt–shift
+miniature faking
+time-lapse
+ultraviolet
+vignetting
+xerography
+composition
+diagonal method
+framing
+headroom
+lead room
+rule of thirds
+simplicity
+golden triangle (composition)
+equipment
+camera
+light-field
+field
+instant
+pinhole
+press
+rangefinder
+slr
+still
+tlr
+toy
+view
+darkroom
+enlarger
+safelight
+film
+base
+format
+holder
+stock
+available films
+discontinued films
+filter
+flash
+beauty dish
+cucoloris
+gobo
+hood
+hot shoe
+monolight
+reflector
+snoot
+softbox
+lens
+wide-angle lens
+zoom lens
+telephoto lens
+manufacturers
+monopod
+movie projector
+slide projector
+tripod
+head
+zone plate
+history
+timeline of photography technology
+analog photography
+autochrome lumière
+box camera
+calotype
+camera obscura
+daguerreotype
+dufaycolor
+heliography
+painted photography backdrops
+photography and the law
+glass plate
+visual arts
+digitalphotography
+digital camera
+d-slr
+comparison
+milc
+camera back
+digiscoping
+digital versus film photography
+film scanner
+image sensor
+cmos aps
+ccd
+three-ccd camera
+foveon x3 sensor
+image sharing
+pixel
+colorphotography
+color
+print film
+chromogenic print
+reversal film
+color management
+color space
+primary color
+cmyk color model
+rgb color model
+photographicprocessing
+bleach bypass
+c-41 process
+cross processing
+developer
+digital image processing
+dye coupler
+e-6 process
+fixer
+gelatin silver process
+gum printing
+instant film
+k-14 process
+print permanence
+push processing
+stop bath
+lists
+most expensive photographs
+photographers
+norwegian
+polish
+street
+women
+
+ category
+ portal
+ outline
+
+authority control 
+lccn: sh85101225
+nara: 10643017
+ndl: 00563257
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=photographic_film&oldid=876990795"					
+categories: 1885 introductionsphotographic filmsphotography equipmentstorage mediahidden categories: cs1 maint: archived copy as titleall articles with dead external linksarticles with dead external links from december 2017articles with permanently dead external linksarticles needing additional references from july 2008all articles needing additional referencesarticles needing additional references from october 2016all articles with failed verificationarticles with failed verification from may 2016commons category link is on wikidatawikipedia articles with lccn identifierswikipedia articles with nara identifierswikipedia articles with ndl identifiers 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+afrikaansالعربيةবাংলাбългарскиcatalàčeštinadanskdeutschελληνικάespañolesperantoفارسیfrançaisgalego한국어հայերենidobahasa indonesiaitalianoעבריתlietuviųмакедонскиbahasa melayunederlands日本語norsknorsk nynorskpolskiportuguêsрусскийshqipsimple englishslovenčinasrpskohrvatski / српскохрватскиsuomisvenskaతెలుగుไทยtürkçeукраїнськаwinaray粵語中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 5 january 2019, at 20:59 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.616","walltime":"0.822","ppvisitednodes":{"value":2745,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":110469,"limit":2097152},"templateargumentsize":{"value":2779,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":102145,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  670.116      1 -total"," 42.15%  282.430      2 template:reflist"," 16.47%  110.348     12 template:cite_book"," 10.88%   72.887      1 template:commons_category","  9.73%   65.232      1 template:refimprove","  9.73%   65.170     17 template:cite_web","  9.01%   60.401      2 template:ambox","  6.80%   45.588      1 template:about","  5.01%   33.580      1 template:isbn","  4.51%   30.196      1 template:find_sources_mainspace"]},"scribunto":{"limitreport-timeusage":{"value":"0.291","limit":"10.000"},"limitreport-memusage":{"value":7661223,"limit":52428800}},"cachereport":{"origin":"mw1325","timestamp":"20190215001542","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"photographic film","url":"https:\/\/en.wikipedia.org\/wiki\/photographic_film","sameas":"http:\/\/www.wikidata.org\/entity\/q6293","mainentity":"http:\/\/www.wikidata.org\/entity\/q6293","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2002-03-10t03:00:01z","datemodified":"2019-01-05t20:59:26z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/89\/undeveloped_film.png","headline":"sheet of plastic coated with light-sensitive chemicals"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":131,"wghostname":"mw1319"});});
+
+

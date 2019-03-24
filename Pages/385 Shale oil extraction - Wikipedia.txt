@@ -1,0 +1,860 @@
+
+
+
+
+shale oil extraction - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"shale_oil_extraction","wgtitle":"shale oil extraction","wgcurrevisionid":883499453,"wgrevisionid":883499453,"wgarticleid":12321977,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["pages containing links to subscription-only content","cs1 maint: multiple names: authors list","webarchive template wayback links","articles containing potentially dated statements from 2010","all articles containing potentially dated statements","featured articles","oil shale technology","petroleum production"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"shale_oil_extraction","wgrelevantarticleid":12321977,"wgrequestid":"xgcxqqpamfsaacqjz-caaaar","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q3299156","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+shale oil extraction 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+this article is about production of synthetic oil from oil shale. for production of crude oil trapped in oil-bearing shales (tight oil), see tight oil.
+shale oil extractionshell's experimental in situ shale oil facility, piceance basin, colorado, united statesprocess typechemicalindustrial sector(s)chemical industry, oil industrymain technologies or sub-processeskiviter, galoter, petrosix, fushun, shell icpfeedstockoil shaleproduct(s)shale oilleading companiesroyal dutch shell, eesti energia, viru keemia grupp, petrobras, fushun mining groupmain facilitiesfushun shale oil plant, narva oil plant, petrosix, stuart shale oil plant
+shale oil extraction is an industrial process for unconventional oil production.  this process converts kerogen in oil shale into shale oil by pyrolysis, hydrogenation, or thermal dissolution.  the resultant shale oil is used as fuel oil or upgraded to meet refinery feedstock specifications by adding hydrogen and removing sulfur and nitrogen impurities.
+shale oil extraction is usually performed above ground (ex situ processing) by mining the oil shale and then treating it in processing facilities. other modern technologies perform the processing underground (on-site or in situ processing) by applying heat and extracting the oil via oil wells.
+the earliest description of the process dates to the 10th century. in 1684, great britain granted the first formal extraction process patent. extraction industries and innovations became widespread during the 19th century. the industry shrank in the mid-20th century following the discovery of large reserves of conventional oil, but  high petroleum prices at the beginning of the 21st century have led to renewed interest, accompanied by the development and testing of newer technologies.
+as of 2010, major long-standing extraction industries are operating in estonia, brazil, and china. its economic viability usually requires a lack of locally available crude oil. national energy security issues have also played a role in its development. critics of shale oil extraction pose questions about environmental management issues, such as waste disposal, extensive water use, waste water management, and air pollution.
+
+contents
+
+1 history
+2 processing principles
+3 classification of extraction technologies
+4 ex situ technologies
+
+4.1 internal combustion
+4.2 hot recycled solids
+4.3 conduction through a wall
+4.4 externally generated hot gas
+4.5 reactive fluids
+4.6 plasma gasification
+
+
+5 in situ technologies
+
+5.1 wall conduction
+5.2 externally generated hot gas
+5.3 exxonmobil electrofrac
+5.4 volumetric heating
+
+
+6 economics
+7 environmental considerations
+8 see also
+9 references
+10 external links
+
+
+history[edit]
+main article: history of the oil shale industry
+ alexander c. kirk's retort, used in the mid-to-late 19th century, was one of the first vertical oil shale retorts. its design is typical of retorts used in the end of 19th and beginning of 20th century.[1]
+in the 10th century, the arabian physician masawaih al-mardini (mesue the younger) wrote of his experiments in extracting oil from "some kind of bituminous shale".[2]  the first shale oil extraction patent was granted by the british crown in 1684 to three people who had "found a way to extract and make great quantities of pitch, tarr, and oyle out of a sort of stone".[1][3][4] modern industrial extraction of shale oil originated in france with the implementation of a process invented by alexander selligue in 1838, improved upon a decade later in scotland using a process invented by james young.[1][5]  during the late 19th century, plants were built in australia, brazil, canada, and the united states.[6]  the 1894 invention of the pumpherston retort, which was much less reliant on coal heat than its predecessors, marked the separation of the oil shale industry from the coal industry.[1]
+china (manchuria), estonia, new zealand, south africa, spain, sweden, and switzerland began extracting shale oil in the early 20th century. however, crude oil discoveries in texas during the 1920s and in the middle east in the mid 20th century brought most oil shale industries to a halt.[6][7][8][9]  in 1944, the us recommenced shale oil extraction as part of its synthetic liquid fuels program. these industries continued until oil prices fell sharply in the 1980s.[7][10][11]  the last oil shale retort in the us, operated by unocal corporation, closed in 1991.[10][11] the us program was restarted in 2003, followed by a commercial leasing program in 2005 permitting the extraction of oil shale and oil sands on federal lands in accordance with the energy policy act of 2005.[12]
+as of  2010[update], shale oil extraction is in operation in estonia, brazil, and china.[13][14][15]  in 2008, their industries produced about 930,000 metric tonnes (17,700 barrels per day) of shale oil.[6]  australia, the us, and canada have tested shale oil extraction techniques via demonstration projects and are planning commercial  implementation; morocco and jordan have announced their intent to do the same.[6][10][15][16][17][18]  only four processes are in commercial use: kiviter, galoter, fushun, and petrosix.[14]
+
+processing principles[edit]
+ overview of shale oil extraction
+shale oil extraction process decomposes oil shale and converts its kerogen into shale oil—a petroleum-like synthetic crude oil. the process is conducted by pyrolysis, hydrogenation, or thermal dissolution.[19][20] the efficiencies of extraction processes are often evaluated by comparing their yields to the results of a fischer assay performed on a sample of the shale.[21]
+the oldest and the most common extraction method involves pyrolysis (also known as retorting or destructive distillation).  in this process, oil shale is heated in the absence of oxygen until its kerogen decomposes into condensable shale oil vapors and non-condensable combustible oil shale gas.  oil vapors and oil shale gas are then collected and cooled, causing the shale oil to condense.  in addition, oil shale processing produces spent oil shale, which is a solid residue. spent shale consists of inorganic compounds (minerals) and char—a carbonaceous residue formed from kerogen. burning the char off the spent shale produces oil shale ash. spent shale and shale ash can be used as ingredients in cement or brick manufacture.[19][22]  the composition of the oil shale may lend added value to the extraction process through the recovery of by-products, including ammonia, sulfur, aromatic compounds, pitch, asphalt, and waxes.[11]
+heating the oil shale to pyrolysis temperature and completing the endothermic kerogen decomposition reactions require a source of energy. some technologies burn other fossil fuels such as natural gas, oil, or coal to generate this heat and experimental methods have used electricity, radio waves, microwaves, or reactive fluids for this purpose.[23]  two strategies are used to reduce, and even eliminate, external heat energy requirements: the oil shale gas and char by-products generated by pyrolysis may be burned as a source of energy, and the heat contained in hot spent oil shale and oil shale ash may be used to pre-heat the raw oil shale.[19]
+for ex situ processing, oil shale is crushed into smaller pieces, increasing surface area for better extraction.  the temperature at which decomposition of oil shale occurs depends on the time-scale of the process.  in ex situ retorting processes, it begins at 300 °c (570 °f) and proceeds more rapidly and completely at higher temperatures.  the amount of oil produced is the highest when the temperature ranges between 480 and 520 °c (900 and 970 °f). the ratio of oil shale gas to shale oil generally increases along with retorting temperatures.[19]  for a modern in situ process, which might take several months of heating, decomposition may be conducted at temperatures as low as 250 °c (480 °f). temperatures below 600 °c (1,110 °f) are preferable, as this prevents the decomposition of lime stone and dolomite in the rock and thereby limits carbon dioxide emissions and energy consumption.[24]
+hydrogenation and thermal dissolution (reactive fluid processes) extract the oil using hydrogen donors,  solvents, or a combination of these.  thermal dissolution involves the application of solvents at elevated temperatures and pressures, increasing oil output by cracking the dissolved organic matter. different methods produce shale oil with different properties.[20][25][26][27]
+
+classification of extraction technologies[edit]
+industry analysts have created several classifications of the technologies used to extract shale oil from oil shale.
+by process principles: based on the treatment of raw oil shale by heat and solvents the methods are classified as pyrolysis, hydrogenation, or thermal dissolution.[20]
+by location: a frequently used distinction considers whether processing is done above or below ground, and classifies the technologies broadly as ex situ (displaced) or in situ (in place).  in ex situ processing, also known as above-ground retorting, the oil shale is mined either underground or at the surface and then transported to a processing facility.  in contrast, in situ processing converts the kerogen while it is still in the form of an oil shale deposit, following which it is then extracted via oil wells, where it rises in the same way as conventional crude oil.[23]  unlike ex situ processing, it does not involve mining or spent oil shale disposal aboveground as spent oil shale stays underground.[28]
+by heating method: the method of transferring heat from combustion products to the oil shale may be classified as direct or indirect. while methods that allow combustion products to contact the oil shale within the retort are classified as direct, methods that burn materials external to the retort to heat another material that contacts the oil shale are described as indirect[14]
+by heat carrier: based on the material used to deliver heat energy to the oil shale, processing technologies have been classified into gas heat carrier, solid heat carrier, wall conduction, reactive fluid, and volumetric heating methods.[9][21][23][29] heat carrier methods can be sub-classified as direct or indirect.
+the following table shows extraction technologies classified by heating method, heat carrier and location (in situ or ex situ).
+
+
+
+
+
+classification of processing technologies by heating method and location (according to alan burnham)[9][21][23][29]
+
+
+heating method
+above ground (ex situ)
+underground (in situ)
+
+
+internal combustion
+
+gas combustion, ntu, kiviter, fushun, union a, paraho direct, superior direct
+
+occidental petroleum mis, llnl rise, geokinetics horizontal, rio blanco
+
+
+hot recycled solids (inert or burned shale)
+
+alberta taciuk, galoter, enefit, lurgi-ruhrgas, tosco ii, chevron stb, llnl hrs,shell spher, kentort ii
+
+–
+
+
+conduction through a wall (various fuels)
+
+pumpherston, fischer assay, oil-tech, ecoshale in-capsule, combustion resources
+
+shell icp (primary method), american shale oil ccr, iep geothermic fuel cell
+
+
+externally generated hot gas
+
+petrosix, union b, paraho indirect, superior indirect, syntec (smith process)
+
+chevron crush, omnishale, mwe ige
+
+
+reactive fluids
+
+igt hytort (high-pressure h2), donor solvent processes rendall process chattanooga fluidized bed reactor
+
+shell icp (some embodiments)
+
+
+volumetric heating
+
+–
+
+radio wave, microwave, and electric current processes
+
+by raw oil shale particle size: the various ex situ processing technologies may be differentiated by the size of the oil shale particles that are fed into the retorts. as a rule, gas heat carrier technologies process oil shale lumps varying in diameter from 10 to 100 millimeters (0.4 to 3.9 in), while solid heat carrier and wall conduction technologies process fines which are particles less than 10 millimeters (0.4 in) in diameter.[14]
+by retort orientation: "ex-situ" technologies are sometimes classified as vertical or horizontal. vertical retorts are usually shaft kilns where a bed of shale moves from top to bottom by gravity.  horizontal retorts are usually horizontal rotating drums or screws where shale moves from one end to the other.  as a general rule, vertical retorts process lumps using a gas heat carrier, while horizontal retorts process fines using solid heat carrier.
+by complexity of technology: in situ technologies are usually classified either as true in situ processes or modified in situ processes. true in situ processes do not involve mining or crushing the oil shale. modified in situ processes involve drilling and fracturing the target oil shale deposit to create voids in the deposit. the voids enable a better flow of gases and fluids through the deposit, thereby increasing the volume and quality of the shale oil produced.[11]
+
+ex situ technologies[edit]
+internal combustion[edit]
+internal combustion technologies burn materials (typically char and oil shale gas) within a vertical shaft retort to supply heat for pyrolysis.[9][23]  typically raw oil shale particles between 12 millimetres (0.5 in) and 75 millimetres (3.0 in) in size are fed into the top of the retort and are heated by the rising hot gases, which pass through the descending oil shale, thereby causing decomposition of the kerogen at about 500 °c (932 °f) . shale oil mist, evolved gases and cooled combustion gases are removed from the top of the retort then moved to separation equipment. condensed shale oil is collected, while non-condensable gas is recycled and used to carry heat up the retort. in the lower part of the retort, air is injected for the combustion which heats the spent oil shale and gases to between 700 °c (1,292 °f) and 900 °c (1,650 °f). cold recycled gas may enter the bottom of the retort to cool the shale ash.[9][19][30] the union a and superior direct processes depart from this pattern. in the union a process, oil shale is fed through the bottom of the retort and a pump moves it upward.[9]  in the superior direct process, oil shale is processed in a horizontal, segmented, doughnut-shaped traveling-grate retort.[9][24][31]
+internal combustion technologies such as the paraho direct are thermally efficient, since combustion of char on the spent shale and heat recovered from the shale ash and evolved gases can provide all the heat requirements of the retort. these technologies can achieve 80-90% of fischer assay yield.[29] two well-established shale oil industries use internal combustion technologies: kiviter process facilities have been operated continuously in estonia since the 1920s, and a number of chinese companies operate fushun process facilities.
+common drawbacks of internal combustion technologies are that the combustible oil shale gas is diluted by combustion gases [29] and particles smaller than 10 millimeters (0.4 in) can not be processed.  uneven distribution of gas across the retort can result in blockages when hot spots cause particles to fuse or disintegrate.
+
+hot recycled solids[edit]
+hot recycled solids technologies deliver heat to the oil shale by recycling hot solid particles—typically oil shale ash. these technologies usually employ rotating kiln or fluidized bed retorts, fed by fine oil shale particles generally having a diameter of less than 10 millimeters (0.4 in); some technologies use particles even smaller than 2.5 millimeters (0.10 in). the recycled particles are heated in a separate chamber or vessel to about 800 °c (1,470 °f) and then mixed with the raw oil shale to cause the shale to decompose at about 500 °c (932 °f).  oil vapour and shale oil gas are separated from the solids and cooled to condense and collect the oil.  heat recovered from the combustion gases and shale ash may be used to dry and preheat the raw oil shale before it is mixed with the hot recycle solids.
+in the galoter and enefit processes, the spent oil shale is burnt in a separate furnace and the resulting hot ash is separated from the combustion gas and mixed with oil shale particles in a rotating kiln.  combustion gases from the furnace are used to dry the oil shale in a dryer before mixing with hot ash.[32]  the tosco ii process uses ceramic balls instead of shale ash as the hot recycled solids.[11]  the distinguishing feature of the alberta taciuk process (atp) is that the entire process occurs in a single rotating multi–chamber horizontal vessel.[11][14]
+because the hot recycle solids are heated in a separate furnace, the oil shale gas from these technologies is not diluted with combustion exhaust gas.[9][23] another advantage is that there is no limit on the smallest particles that the retort can process, thus allowing all the crushed feed to be used. one disadvantge is that more water is used to handle the resulting finer shale ash.
+
+ alberta taciuk processor retort
+conduction through a wall[edit]
+these technologies transfer heat to the oil shale by conducting it through the retort wall. the shale feed usually consists of fine particles. their advantage lies in the fact that retort vapors are not combined with combustion exhaust.[9][23]  the combustion resources process uses a hydrogen–fired rotating kiln, where hot gas is circulated through an outer annulus.[33][34]  the oil-tech staged electrically heated retort consists of individual inter-connected heating chambers, stacked atop each other.[10][31]  its principal advantage lies in its modular design, which enhances its portability and adaptability.[31]  the red leaf resources ecoshale in-capsule process combines surface mining with a lower-temperature heating method similar to in situ processes by operating within the confines of an earthen structure. a hot gas circulated through parallel pipes heats the oil shale rubble.[10][35][36]  an installation within the empty space created by mining would permit rapid reclamation of the topography.[36]
+a general drawback of conduction through a wall technologies is that the retorts are more costly when scaled-up due to the resulting large amount of heat conducting walls made of high-temperature alloys.
+
+externally generated hot gas[edit]
+in general, externally generated hot gas technologies are similar to internal combustion technologies in that they also process oil shale lumps in vertical shaft kilns. significantly, though, the heat in these technologies is delivered by gases heated outside the retort vessel, and therefore the retort vapors are not diluted with combustion exhaust.[9][23] the petrosix and paraho indirect employ this technology.[11][37] in addition to not accepting fine particles as feed, these technologies do not utilize the potential heat of combusting the char on the spent shale and thus must burn more valuable fuels.  however, due to the lack of combustion of the spent shale, the oil shale does not exceed 500 °c (932 °f) and significant carbonate mineral decomposition and subsequent co2 generation can be avoided for some oil shales.  also, these technologies tend to be the more stable and easier to control than internal combustion or hot solid recycle technologies.
+
+reactive fluids[edit]
+kerogen is tightly bound to the shale and resists dissolution by most solvents.[38] despite this constraint, extraction using especially reactive fluids has been tested, including those in a supercritical state.[38] reactive fluid technologies are suitable for processing oil shales with a low hydrogen content. in these technologies, hydrogen gas (h2) or hydrogen donors (chemicals that donate hydrogen during chemical reactions) react with coke precursors (chemical structures in the oil shale that are prone to form char during retorting but have not yet done so).[39]  reactive fluid technologies include the igt hytort (high-pressure h2) process, donor solvent processes, and the chattanooga fluidized bed reactor.[10][23]  in the igt hytort oil shale is processed in a high-pressure hydrogen environment.[40]  the chattanooga process uses a fluidized bed reactor and an associated hydrogen-fired heater for oil shale thermal cracking and hydrogenation.[10]  laboratory results indicate that these technologies can often obtain significantly higher oil yields than pyrolysis processes.  drawbacks are the additional cost and complexity of hydrogen production and high-pressure retort vessels.
+
+plasma gasification[edit]
+several experimental tests have been conducted for the oil-shale gasification by using plasma technologies.[41] in these technologies, oil shale is bombarded by radicals (ions). the radicals crack kerogen molecules forming synthetic gas and oil. air, hydrogen or nitrogen are used as plasma gas and processes may operate in an arc, plasma arc, or plasma electrolysis mode.[41][42][43]  the main benefit of these technologies is processing without using water.[42]
+
+in situ technologies[edit]
+in situ technologies heat oil shale underground by injecting hot fluids into the rock formation, or by using linear or planar heating sources followed by thermal conduction and convection to distribute heat through the target area. shale oil is then recovered through vertical wells drilled into the formation.[10] these technologies are potentially able to extract more shale oil from a given area of land than conventional ex situ processing technologies, as the wells can reach greater depths than surface mines.  they present an opportunity to recover shale oil from low-grade deposits that traditional mining techniques could not extract.[44]
+during world war ii a modified in situ extraction process was implemented without significant success in germany.[9]  one of the earliest successful in situ processes was underground gasification by electrical energy (ljungström method)—a process exploited between 1940 and 1966 for shale oil extraction at kvarntorp in sweden.[9][45]  prior to the 1980s, many variations of the in situ process were explored in the united states. the first modified in situ oil shale experiment in the united states was conducted by occidental petroleum in 1972 at logan wash, colorado.[11] newer technologies are being explored that use a variety of heat sources and heat delivery systems.
+
+wall conduction[edit]
+ shell's freeze wall for in situ shale oil production separates the process from its surroundings
+wall conduction in situ technologies use heating elements or heating pipes placed within the oil shale formation. the shell in situ conversion process (shell icp) uses electrical heating elements for heating the oil shale layer to between 650 and 700 °f (340 and 370 °c) over a period of approximately four years.[46]  the processing area is isolated from surrounding groundwater by a freeze wall consisting of wells filled with a circulating super-chilled fluid.[21][28]  disadvantages of this process are large electrical power consumption, extensive water use, and the risk of groundwater pollution.[47]  the process was tested since the early 1980s at the mahogany test site in the piceance basin. 1,700 barrels (270 m3) of oil were extracted in 2004 at a 30-by-40-foot (9.1 by 12.2 m) testing area.[28][46][48]
+
+ american shale oil ccr process
+in the ccr process proposed by american shale oil, superheated steam or another heat transfer medium is circulated through a series of pipes placed below the oil shale layer to be extracted.  the system combines horizontal wells, through which steam is passed, and vertical wells, which provide both vertical heat transfer through refluxing of converted shale oil and a means to collect the produced hydrocarbons. heat is supplied by combustion of natural gas or propane in the initial phase and by oil shale gas at a later stage.[10][49]
+the geothermic fuels cells process (iep gfc) proposed by independent energy partners extracts shale oil by exploiting a high-temperature stack of fuel cells. the cells, placed in the oil shale formation, are fueled by natural gas during a warm-up period and afterward by oil shale gas generated by its own waste heat.[10][45]
+
+externally generated hot gas[edit]
+ chevron crush process
+externally generated hot gas in situ technologies use hot gases heated above-ground and then injected into the oil shale formation.  the chevron crush process, which was researched by chevron corporation in partnership with los alamos national laboratory, injects heated carbon dioxide into the formation via drilled wells and to heat the formation through a series of horizontal fractures through which the gas is circulated.[50]  general synfuels international has proposed the omnishale process involving injection of super-heated air into the oil shale formation.[10][36] mountain west energy's in situ vapor extraction process uses similar principles of injection of high-temperature gas.[10][51]
+
+exxonmobil electrofrac[edit]
+main article: exxonmobil electrofrac
+exxonmobil's in situ technology (exxonmobil electrofrac) uses electrical heating with elements of both wall conduction and volumetric heating methods. it injects an electrically conductive material such as calcined petroleum coke into the hydraulic fractures created in the oil shale formation which then forms a heating element.[10][52][53]  heating wells are placed in a parallel row with a second horizontal well intersecting them at their toe.  this allows opposing electrical charges to be applied at either end.[10][53]
+
+volumetric heating[edit]
+ artist's rendition of a radio wave-based extraction facility
+the illinois institute of technology developed the concept of oil shale volumetric heating using radio waves (radio frequency processing) during the late 1970s.  this technology was further developed by lawrence livermore national laboratory.  oil shale is heated by vertical electrode arrays. deeper volumes could be processed at slower heating rates by installations spaced at tens of meters. the concept presumes a radio frequency at which the skin depth is many tens of meters, thereby overcoming the thermal diffusion times needed for conductive heating.[23][54][55]  its drawbacks include intensive electrical demand and the possibility that groundwater or char would absorb undue amounts of the energy.[23]  radio frequency processing in conjunction with critical fluids is being developed by raytheon together with cf technologies and tested by schlumberger.[56][57]
+microwave heating technologies are based on the same principles as radio wave heating, although it is believed that radio wave heating is an improvement over microwave heating because its energy can penetrate farther into the oil shale formation.[58]  the microwave heating process was tested by global resource corporation.[59]  electro-petroleum proposes electrically enhanced oil recovery by the passage of direct current between cathodes in producing wells and anodes located either at the surface or at depth in other wells. the passage of the current through the oil shale formation results in resistive joule heating.[10]
+
+economics[edit]
+ nymex light-sweet crude oil prices 1996–2009 (not adjusted for inflation)
+main article: oil shale economics
+the dominant question for shale oil production is under what conditions shale oil is economically viable.  according to the united states department of energy, the capital costs of a 100,000 barrels per day (16,000 m3/d) ex-situ processing complex are $3–10 billion.[60]  the various attempts to develop oil shale deposits have succeeded only when the shale-oil production cost in a given region is lower than the price of petroleum or its other substitutes. according to a survey conducted by the rand corporation, the cost of producing shale oil at a hypothetical surface retorting complex in the united states (comprising a mine, retorting plant, upgrading plant, supporting utilities, and spent oil shale reclamation), would be in a range of $70–95 per barrel ($440–600/m3), adjusted to 2005 values.  assuming a gradual increase in output after the start of commercial production, the analysis projects a gradual reduction in processing costs to $30–40 per barrel ($190–250/m3) after achieving the milestone of 1 billion barrels (160×10^6 m3).[8][28] the united states department of energy estimates that the ex-situ processing would be economic at sustained average world oil prices above $54 per barrel and in-situ processing would be economic at prices above $35 per barrel.  these estimates assume a return rate of 15%.[60] royal dutch shell announced in 2006 that its shell icp technology would realize a profit when crude oil prices are higher than $30 per barrel ($190/m3), while some technologies at full-scale production assert profitability at oil prices even lower than $20 per barrel ($130/m3).[11][61]
+to increase the efficiency of oil shale retorting and by this the viability of the shale oil production, researchers have proposed and tested several co-pyrolysis processes, in which other materials such as biomass, peat, waste bitumen, or rubber and plastic wastes are retorted along with the oil shale.[62][63][64][65][66]  some modified technologies propose combining a fluidized bed retort with a circulated fluidized bed furnace for burning the by-products of pyrolysis (char and oil shale gas) and thereby improving oil yield, increasing throughput, and decreasing retorting time.[67]
+other ways of improving the economics of shale oil extraction could be to increase the size of the operation to achieve economies of scale, use oil shale that is a by-product of coal mining such as at fushun china, produce specialty chemicals as by viru keemia grupp in estonia, co-generate electricity from the waste heat and  process high grade oil shale that yields more oil per shale processed.
+a possible measure of the viability of oil shale as an energy source lies in the ratio of the energy in the extracted oil to the energy used in its mining and processing (energy returned on energy invested, or eroei). a 1984 study estimated the eroei of the various known oil shale deposits as varying between 0.7–13.3;[68] some companies and newer technologies assert an eroei between 3 and 10.  according to the world energy outlook 2010, the eroei of ex-situ processing is typically 4 to 5 while of in-situ processing it may be even as low as 2.[69]
+to increase the eroei, several combined technologies were proposed. these include the usage of process waste heat, e.g. gasification or combustion of the residual carbon (char), and the usage of waste heat from other industrial processes, such as coal gasification and nuclear power generation.[10][70][71]
+the water requirements of extraction processes are an additional economic consideration in regions where water is a scarce resource.
+
+environmental considerations[edit]
+main article: environmental impact of the oil shale industry
+mining oil shale involves a number of environmental impacts, more pronounced in surface mining than in underground mining.[72] these include acid drainage induced by the sudden rapid exposure and subsequent oxidation of formerly buried materials, the introduction of metals including mercury[73] into surface-water and groundwater, increased erosion, sulfur-gas emissions, and air pollution caused by the production of particulates during processing, transport, and support activities.[54][74] in 2002, about 97% of air pollution, 86% of total waste and 23% of water pollution in estonia came from the power industry, which uses oil shale as the main resource for its power production.[75]
+
+ spent shale often presents a disposal problem
+oil-shale extraction can damage the biological and recreational value of land and the ecosystem in the mining area. combustion and thermal processing generate waste material. in addition, the atmospheric emissions from oil shale processing and combustion include carbon dioxide, a greenhouse gas. environmentalists oppose production and usage of oil shale, as it creates even more greenhouse gases than conventional fossil fuels.[76]  experimental in situ conversion processes and carbon capture and storage technologies may reduce some of these concerns in the future, but at the same time they may cause other problems, including groundwater pollution.[77]  among the water contaminants commonly associated with oil shale processing are oxygen and nitrogen heterocyclic hydrocarbons. commonly detected examples include quinoline derivatives, pyridine, and various alkyl homologues of pyridine (picoline, lutidine).[78]
+water concerns are sensitive issues in arid regions, such as the western us and israel's negev desert, where plans exist to expand oil-shale extraction despite a water shortage.[79]  depending on technology, above-ground retorting uses between one and five barrels of water per barrel of produced shale-oil.[28][80][81][82] a 2008 programmatic environmental impact statement issued by the us bureau of land management stated that surface mining and retort operations produce 2 to 10 u.s. gallons (7.6 to 37.9 l; 1.7 to 8.3 imp gal) of waste water per 1 short ton (0.91 t) of processed oil shale.[80] in situ processing, according to one estimate, uses about one-tenth as much water.[83]
+environmental activists, including members of greenpeace, have organized strong protests against the oil shale industry. in one result, queensland energy resources put the proposed stuart oil shale project in australia on hold in 2004.[54][84][85]
+
+see also[edit]
+
+oil shale in china
+oil shale in estonia
+oil shale in jordan
+oil shale geology
+oil shale reserves
+
+references[edit]
+
+
+^ a b c d louw, s.j.; addison, j. (1985).  seaton, a., ed. "studies of the scottish oil shale industry. vol.1 history of the industry, working conditions, and mineralogy of scottish and green river formation shales. final report on us department of energy" (pdf). institute of occupational medicine: 35, 38, 56–57. de-aco2 – 82er60036. archived from the original (pdf) on 2011-07-26. retrieved 2009-06-05..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ 
+forbes, r.j. (1970). a short history of the art of distillation from the beginnings up to the death of cellier blumenthal. brill publishers. pp. 41–42. isbn 978-90-04-00617-1. retrieved 2009-06-02.
+
+^ 
+moody, richard (2007-04-20). "oil & gas shales, definitions & distribution in time & space. in the history of on-shore hydrocarbon use in the uk" (pdf). geological society of london: 1. archived from the original (pdf) on 2012-02-06. retrieved 2007-07-28.
+
+^ 
+cane, r.f. (1976). "the origin and formation of oil shale".  in teh fu yen; chilingar, george v. oil shale. amsterdam: elsevier. p. 56. isbn 978-0-444-41408-3. retrieved 2009-06-05.
+
+^ 
+runnels, russell t.; kulstad, robert o.; mcduffee, clinton; schleicher, john a. (1952). "oil shale in kansas". kansas geological survey bulletin (96, part 3). retrieved 2009-05-30.
+
+^ a b c d 
+dyni, john r. (2010). "oil shale" (pdf).  in clarke, alan w.; trinnaman, judy a. survey of energy resources (22 ed.). world energy council. pp. 93–123. isbn 978-0-946121-02-1.
+
+^ a b 
+prien, charles h. (1976). "survey of oil-shale research in last three decades".  in teh fu yen; chilingar, george v. oil shale. amsterdam: elsevier. pp. 237–243. isbn 978-0-444-41408-3. retrieved 2009-06-05.
+
+^ a b 
+francu, juraj; harvie, barbra; laenen, ben; siirde, andres; veiderma, mihkel (may 2007). "a study on the eu oil shale industry viewed in the light of the estonian experience. a report by easac to the committee on industry, research and energy of the european parliament" (pdf). european academies science advisory council: 12–13, 18–19, 23–24, 28. retrieved 2010-06-21.
+
+^ a b c d e f g h i j k l 
+an assessment of oil shale technologies (pdf). united states office of technology assessment. diane publishing. june 1980. pp. 108–110, 133, 138–139, 148–150. isbn 978-1-4289-2463-5. ntis order #pb80-210115. retrieved 2007-11-03.
+
+^ a b c d e f g h i j k l m n o p 
+secure fuels from domestic resources: the continuing evolution of america's oil shale and tar sands industries (pdf). ntek, inc. (report) (5 ed.). united states department of energy, office of naval petroleum and oil shale reserves. 2007. pp. 3, 8, 16–17, 22–29, 36–37, 40–43, 54–57. retrieved 2014-02-09.
+
+^ a b c d e f g h i 
+johnson, harry r.; crawford, peter m.; bunger, james w. (2004). "strategic significance of america's oil shale resource. volume ii: oil shale resources, technology and economics" (pdf). office of deputy assistant secretary for petroleum reserves; office of naval petroleum and oil shale reserves; united states department of energy: 13–16, a2, b3–b5. archived from the original (pdf) on 2014-02-21. retrieved 2014-02-09.
+
+^ 
+"nominations for oil shale research leases demonstrate significant interest in advancing energy technology" (press release). bureau of land management. 2005-09-20. archived from the original on 2008-09-16. retrieved 2007-07-10.
+
+^ 
+brendow, k. (2009). "oil shale – a local asset under global constraint" (pdf). oil shale. a scientific-technical journal. 26 (3): 357–372. doi:10.3176/oil.2009.3.02. issn 0208-189x. retrieved 2009-09-25.
+
+^ a b c d e 
+qian jialin; wang jianqiu (2006-11-07). world oil shale retorting technologies (pdf). international oil shale conference. china university of petroleum. amman, jordan: jordanian natural resources authority. archived from the original (pdf) on 2008-05-27. retrieved 2007-06-29.
+
+^ a b 
+aarna, indrek (2009). "editor's page. the 3rd international oil shale symposium in tallinn" (pdf). oil shale. a scientific-technical journal. 26 (3): 349–356. doi:10.3176/oil.2009.3.01. issn 0208-189x. retrieved 2009-09-25.
+
+^ 
+luck, taylor (2008-08-07). "jordan set to tap oil shale potential". the jordan times. jordan press foundation. archived from the original on 2011-09-27. retrieved 2008-10-25.
+
+^ 
+"san leon energy awarded moroccan oil shale exploration project". oilvoice. oilvoice. 2009-06-01. archived from the original on 2011-09-29. retrieved 2009-06-03.
+
+^ 
+"oil shale" (pdf). colorado school of mines. 2008. retrieved 2008-12-24.
+
+^ a b c d e 
+koel, mihkel (1999). "estonian oil shale". oil shale. a scientific-technical journal (extra). issn 0208-189x. retrieved 2007-07-21.
+
+^ a b c 
+luik, hans (2009-06-08). alternative technologies for oil shale liquefaction and upgrading (pdf). international oil shale symposium. tallinn university of technology. tallinn, estonia. archived from the original (pdf) on 2012-02-24. retrieved 2009-06-09.
+
+^ a b c d 
+speight, james g. (2008). synthetic fuels handbook: properties, process, and performance. mcgraw-hill. pp. 13, 182, 186. isbn 978-0-07-149023-8. retrieved 2009-03-14.
+
+^ 
+qian, jialin; wang, jianqiu; li, shuyuan (2007-10-15). one year's progress in the chinese oil shale business (pdf). 27th oil shale symposium. golden, colorado: china university of petroleum. retrieved 2011-05-06.
+
+^ a b c d e f g h i j k 
+burnham, alan k.; mcconaghy, james r. (2006-10-16). comparison of the acceptability of various oil shale processes (pdf). 26th oil shale symposium. lawrence livermore national laboratory. golden, colorado. pp. 2, 17. ucrl-conf-226717. retrieved 2007-05-27.
+
+^ a b 
+"synthetic fuels summary. report no. fe-2468-82" (pdf). the engineering societies commission on energy, inc.: 80, 83–84, 90. march 1981. archived from the original (pdf) on 2011-07-16. retrieved 2009-07-17.
+
+^ 
+gorlov, e.g. (october 2007). "thermal dissolution of solid fossil fuels". solid fuel chemistry. 41 (5): 290–298. doi:10.3103/s0361521907050047. issn 1934-8029. (subscription required).
+
+^ 
+koel, mihkel; ljovin, s.; hollis, k.; rubin, j. (2001). "using neoteric solvents in oil shale studies" (pdf). pure and applied chemistry. 73 (1): 153–159. doi:10.1351/pac200173010153. issn 0033-4545. retrieved 2010-01-22.
+
+^ 
+baldwin, r. m.; bennett, d. p.; briley, r. a. (1984). "reactivity of oil shale towards solvent hydrogenation" (pdf). american chemical society. division of petroleum chemistry. 29 (1): 148–153. issn 0569-3799. retrieved 2014-02-09.
+
+^ a b c d e 
+bartis, james t.; latourrette, tom; dixon, lloyd; peterson, d.j.; cecchine, gary (2005). oil shale development in the united states. prospects and policy issues. prepared for the national energy technology laboratory of the united states department of energy (pdf). the rand corporation. pp. x, 15–18, 50. isbn 978-0-8330-3848-7. retrieved 2007-06-29.
+
+^ a b c d 
+smith, m.w.; shadle, l.j.; hill, d. (2007). "oil shale development from the perspective of netl's unconventional oil resource repository". united states department of energy. doe/netl-ir-2007-022. retrieved 2009-11-29.
+
+^ 
+fuels to drive our future. committee on production technologies for liquid transportation fuels, energy engineering board, united states national research council. national academies press. 1990. p. 183. isbn 978-0-309-08645-5. retrieved 2008-05-04.
+
+^ a b c 
+"appendix a: oil shale development background and technology overview" (pdf). proposed oil shale and tar sands resource management plan amendments to address land use allocations in colorado, utah, and wyoming and final programmatic environmental impact statement. bureau of land management. september 2008. pp. 36, 54−55. retrieved 2010-08-07.
+
+^ 
+soone, jüri; riisalu, hella; kekisheva, ljudmilla; doilov, svjatoslav (2006-11-07). environmentally sustainable use of energy and chemical potential of oil shale (pdf). international oil shale conference. tallinn university of technology. amman, jordan: jordanian natural resources authority. pp. 2–3. archived from the original (pdf) on 2007-09-28. retrieved 2007-06-29.
+
+^ 
+coates, ralph l.; hatfield, kent e.; smoot, l. douglas (2007-10-16). a new improved process for processing oil shale ore into motor ready fuel products (pdf). 27th oil shale symposium. combustion resources, inc. golden, colorado: colorado school of mines. retrieved 2009-04-12.
+
+^ 
+coates, ralph l.; hatfield, kent e.; smoot, l. douglas (2007-10-17). a method of reducing co2 emissions from oil shale retorting (pdf). 27th oil shale symposium. combustion resources, inc. golden, colorado: colorado school of mines. retrieved 2009-04-12.
+
+^ 
+biglarbigi, khosrow; mohan, hitesh; crawford, peter; carolus, marshall (2008-12-04). economics, barriers, and risks of oil shale development in the united states (pdf). 28th united states association for energy economics/international association for energy economics north america conference. intek incorporated. new orleans: the united states association for energy economics. retrieved 2009-09-27.
+
+^ a b c 
+crawford, peter m.; biglarbigi, khosrow; killen, james r.; dammer, anton r.; knaus, emily (2008-09-22). advances in world oil-shale production technologies. society of petroleum engineers annual technical conference and exhibition. intek incorporated. denver, colorado: society of petroleum engineers.
+
+^ 
+laherrère, jean h. (2005). "review on oil shale data" (pdf). hubbert peak. retrieved 2007-06-17.
+
+^ a b sunggyu lee (1990). oil shale technology. crc press. pp. 109, 110. isbn 978-0-8493-4615-6.
+
+^ 
+rex, r.; janka, j. c.; knowlton, t. (1984). cold flow model testing of the hytort process retort design. 17th oil shale symposium. golden, colorado: colorado school of mines press. pp. 17–36.
+
+^ 
+weil, s. a.; feldkirchner, h. l.; punwani, d. v.; janka, j. c. (1979-01-01). "igt hytort process for hydrogen retorting of devonian oil shales". chicago: gas technology institute. conf-790571-3.
+
+^ a b 
+messerle, v.e.; ustimenko, a.b.; dragosavljevich, z.n.; rakin, petar (september 2009). "gasification of oil shale from aleksinac using plasma technology. plasma-allo-autothermal gasification and plasma steam gasification process simulation results". 5th international workshop and exhibition on plasma assisted combustion (iwepac) (pdf) (report). applied plasma technologies. pp. 58–60. archived from the original (pdf) on 2012-01-25. retrieved 2012-03-08.
+
+^ a b 
+al-mayareh, malik; al-salaymeh, ahmed; jovicic, vojislav; delgado, antonio (2011-10-18). gasification of jordanian oil shale using nitrogen non-thermal plasma (pdf). 31st oil shale symposium. combustion resources, inc. golden, colorado: colorado school of mines. retrieved 2012-03-08.
+
+^ 
+foret, todd; winterburg, kip; macclain, cliff (2007-10-09). oil shale processing, water treatment and co2 sequestration with plasma (pdf). 27th oil shale symposium. combustion resources, inc. golden, colorado: colorado school of mines. retrieved 2012-03-08.
+
+^ 
+kök, m. v.; guner, g.; suat bağci, a. (2008). "application of eor techniques for oil shale fields (in-situ combustion approach)" (pdf). oil shale. a scientific-technical journal. 25 (2): 217–225. doi:10.3176/oil.2008.2.04. retrieved 2008-06-07.
+
+^ a b 
+savage, marshall t. (2006-10-17). geothermic fuel cells (pdf). 26th oil shale symposium. golden, colorado: colorado school of mines/. retrieved 2009-09-25.
+
+^ a b 
+lee, sunggyu; speight, james g.; loyalka, sudarshan k. (2007). handbook of alternative fuel technologies. crc press. p. 290. isbn 978-0-8247-4069-6. retrieved 2009-03-14.
+
+^ 
+birger, jon (2007-11-01). "oil shale may finally have its moment". fortune. cnn. archived from the original on 2007-11-18. retrieved 2007-11-17.
+
+^ 
+reiss, spencer (2005-12-13). "tapping the rock field". wired magazine. retrieved 2009-03-14.
+
+^ 
+"plan of operation for oil shale research, development and demonstration (r, d/d) tract" (pdf). e.g.l. resources, inc. 2006-02-15. archived from the original (pdf) on 2009-05-09. retrieved 2008-05-01.
+
+^ 
+"oil shale research, development & demonstration project. plan of operation" (pdf). chevron usa, inc. 2006-02-15. archived from the original (pdf) on 2008-10-06. retrieved 2008-05-01.
+
+^ 
+doyle, dave (march 2008). "single well, single gas phase technique is key to unique method of extracting oil vapors from oil shale". world oil magazine. gulf publishing company. (subscription required). archived from the original on 2012-03-05. retrieved 2009-09-27.
+
+^ 
+plunkett, jack w. (2008). plunkett's energy industry almanac 2009: the only comprehensive guide to the energy & utilities industry. plunkett research, ltd. p. 71. isbn 978-1-59392-128-6. retrieved 2009-03-14.
+
+^ a b 
+symington, william a.; olgaard, david l.; otten, glenn a.; phillips, tom c.; thomas, michele m.; yeakel, jesse d. (2008-04-20). exxonmobil's electrofrac process for in situ oil shale conversion (pdf). aaapg annual convention. san antonio: american association of petroleum geologists. retrieved 2009-04-12.
+
+^ a b c 
+burnham, alan k. (2003-08-20). "slow radio-frequency processing of large oil shale volumes to produce petroleum-like shale oil" (pdf). lawrence livermore national laboratory. ucrl-id-155045. retrieved 2007-06-28.
+
+^ 
+carlson, r. d.; blase, e. f.; mclendon, t. r. (1981-04-22). "development of the iit research institute rf heating process for in situ oil shale/tar sand fuel extraction–an overview". oil shale symposium proceedings. 14th oil shale symposium: 138–145. conf-810456.
+
+^ 
+"radio frequency/critical fluid oil extraction technology" (pdf). raytheon. archived from the original (pdf) on 2012-02-11. retrieved 2008-08-20.
+
+^ 
+"schlumberger acquires raytheon technology for oil extraction from oil shale and oil sands". green car congress. 2008-01-23. retrieved 2012-02-14.
+
+^ 
+daniel, david edwin; lowe, donald f.; oubre, carroll l.; ward, calvin herbert (1999). soil vapor extraction using radio frequency heating: resource manual and technology demonstration. crc press. p. 1. isbn 978-1-56670-464-9. retrieved 2009-09-26.
+
+^ 
+"global resource reports progress on oil shale conversion process" (press release). global resource corp. 2007-03-09. retrieved 2008-05-31  – via rigzone.
+
+^ a b 
+"fact sheet: u.s. oil shale economics" (pdf). doe. office of petroleum reserves. archived from the original (pdf) on 2012-01-08. retrieved 2012-04-22.
+
+^ 
+schmidt, s. j. (2003). "new directions for shale oil:path to a secure new oil supply well into this century: on the example of australia" (pdf). oil shale. a scientific-technical journal. 20 (3): 333–346. issn 0208-189x. retrieved 2007-06-02.
+
+^ 
+tiikma, laine; johannes, ille; pryadka, natalja (2002). "co-pyrolysis of waste plastics with oil shale". proceedings. symposium on oil shale 2002, tallinn, estonia: 76.
+
+^ 
+tiikma, laine; johannes, ille; luik, hans (march 2006). "fixation of chlorine evolved in pyrolysis of pvc waste by estonian oil shales". journal of analytical and applied pyrolysis. 75 (2): 205–210. doi:10.1016/j.jaap.2005.06.001.
+
+^ 
+veski, r.; palu, v.; kruusement, k. (2006). "co-liquefaction of kukersite oil shale and pine wood in supercritical water" (pdf). oil shale. a scientific-technical journal. 23 (3): 236–248. issn 0208-189x. retrieved 2007-06-16.
+
+^ 
+aboulkas, a.; el harfi, k.; el bouadili, a.; benchanaa, m.; mokhlisse, a.; outzourit, a. (2007). "kinetics of co-pyrolysis of tarfaya (morocco) oil shale with high-density polyethylene" (pdf). oil shale. a scientific-technical journal. 24 (1): 15–33. issn 0208-189x. retrieved 2007-06-16.
+
+^ 
+ozdemir, m.; a. akar, a. aydoğan, e. kalafatoglu; e. ekinci (2006-11-07). copyrolysis of goynuk oil shale and thermoplastics (pdf). international oil shale conference. amman, jordan: jordanian natural resources authority. archived from the original (pdf) on 2008-05-27. retrieved 2007-06-29.cs1 maint: multiple names: authors list (link)
+
+^ 
+siirde, andres; martins, ants (2009-06-07). oil shale fluidized bed retorting technology with cfb furnace for burning the by-products (pdf). international oil shale symphosium. tallinn, estonia: tallinn university of technology. archived from the original (pdf) on 2012-02-24. retrieved 2009-05-22.
+
+^ 
+cleveland, cutler j.; costanza, robert; hall, charles a. s.; kaufmann, robert (1984-08-31). "energy and the u.s. economy: a biophysical perspective". science. 225 (4665): 890–897. bibcode:1984sci...225..890c. doi:10.1126/science.225.4665.890. pmid 17779848.
+
+^ 
+iea (2010). world energy outlook 2010. paris: oecd. pp. 165–169. isbn 978-92-64-08624-1.
+
+^ 
+parkinson, gerald (2006). "oil shale: the u.s. takes another look at a huge domestic resource". chemical engineering progress. 102 (7). (subscription required). archived from the original on 2014-06-11. retrieved 2014-02-09.
+
+^ 
+clark, judy (2008-08-11). "nuclear heat advances oil shale refining in situ". oil & gas journal. 106 (30). pennwell corporation. pp. 22–24. retrieved 2014-02-09. (subscription required (help)).
+
+^ 
+mittal, anu k. (10 may 2012). "unconventional oil and gas production. opportunities and challenges of oil shale development" (pdf). government accountability office. retrieved 22 december 2012.
+
+^ western oil shale has a high mercury content http://www.westernresearch.org/uploadedfiles/energy_and_environmental_technology/unconventional_fuels/oil_shale/mercuryinoilshale.pdf archived 2011-07-19 at the wayback machine
+
+^ 
+"environmental impacts from mining" (pdf). the abandoned mine site characterization and cleanup handbook. united states environmental protection agency. august 2000. pp. 3/1–3/11. retrieved 21 june 2010.
+
+^ 
+raukas, anto (2004). "opening a new decade" (pdf). oil shale. a scientific-technical journal. 21 (1): 1–2. issn 0208-189x. retrieved 14 may 2008.
+
+^ 
+"driving it home. choosing the right path for fueling north america's transportation future" (pdf). natural resources defense council. june 2007. retrieved 19 april 2008.
+
+^ 
+bartis, jim (26 october 2006). unconventional liquid fuels overview (pdf). world oil conference. association for the study of peak oil & gas – usa. archived from the original (pdf) on 21 july 2011. retrieved 28 june 2007.
+
+^ sims, g. k. and e.j. o'loughlin. 1989. degradation of pyridines in the environment. crc critical reviews in environmental control. 19(4): 309-340.
+
+^ 
+speckman, stephen (22 march 2008). "oil-shale 'rush' is sparking concern". deseret morning news. retrieved 6 may 2011.
+
+^ a b 
+"chapter 4. effects of oil shale technologies" (pdf). proposed oil shale and tar sands resource management plan amendments to address land use allocations in colorado, utah, and wyoming and final programmatic environmental impact statement. bureau of land management. september 2008. pp. 4‑3. fes 08-32. retrieved 7 august 2010.
+
+^ 
+"critics charge energy, water needs of oil shale could harm environment". u.s. water news online. july 2007. archived from the original on 18 june 2008. retrieved 1 april 2008.
+
+^ 
+al-ayed, omar (2008). "jordan oil shale project". al-balqa` applied university. archived from the original on 3 june 2008. retrieved 15 august 2008.
+
+^ 
+fischer, perry a. (august 2005). "hopes for shale oil are revived". world oil magazine. archived from the original on 9 november 2006. retrieved 1 april 2008.
+
+^ 
+"greenpeace happy with part closure of shale oil plant". australian broadcasting corporation. 22 july 2004. retrieved 19 may 2008.
+
+^ 
+anderson, campbell (2 may 2002). greenpeace vs the future of australian oil shale (pdf). the 53rd sydney mining club. sydney. retrieved 10 april 2009.
+
+
+external links[edit]
+oil shale. a scientific-technical journal (issn 0208-189x)
+oil shale and tar sands programmatic environmental impact statement (eis) information center. concerning potential leases of federal oil sands lands in utah and oil shale lands in utah, wyoming, and colorado.
+the united states national oil shale association (nosa)
+vtepetroleum industry
+petroleum
+primary energy
+benchmarks
+argus sour
+bonny light
+brent
+dubai
+indian basket
+indonesian
+isthmus-34 light
+japan cocktail
+opec reference basket
+tapis
+urals
+west texas intermediate
+western canadian select
+datanatural gas
+consumption
+production
+reserves
+imports
+exports
+price
+petroleum
+consumption
+production
+reserves
+imports
+exports
+price (of gasoline and diesel)
+posted price
+exploration
+core sampling
+geophysics
+integrated asset modelling
+petroleum engineering
+reservoir simulation
+seismic to simulation
+petroleum geology
+petrophysics
+reflection seismology (seismic inversion)
+seismic source
+drilling
+blowout
+completion (squeeze job)
+differential sticking
+directional drilling (geosteering)
+drilling engineering
+drilling fluid (invasion)
+drill stem test
+lost circulation
+measurement
+tracers
+shale oil extraction
+ljungström method
+underbalanced drilling
+well logging
+production
+petroleum fiscal regime
+concessions
+production sharing agreements
+artificial lift
+pumpjack
+submersible pump (esp)
+gas lift
+downstream
+enhanced oil recovery (eor)
+steam injection
+gas reinjection
+midstream
+petroleum product
+pipeline transport
+refining
+upstream
+water injection
+well intervention
+xt
+history
+1967 oil embargo
+1973 oil crisis
+1979 energy crisis
+1980s oil glut
+1990 oil price shock
+2000s energy crisis
+2010s oil glut
+founders
+history of the petroleum industry
+nationalization
+opec
+gecf
+seven sisters
+standard oil
+oil market timelines
+petroleum industry in iraq
+provincesand fields
+list of natural gas fields
+list of oil fields
+caspian sea
+east midlands oil province
+east texas
+gulf of mexico
+niger delta
+north sea
+permian basin
+persian gulf
+prudhoe bay oil field
+russia
+venezuela
+western canadian sedimentary basin
+other topics
+acronyms
+oil shale gas
+peak oil
+mitigation
+timing
+people
+petrocurrency
+petrodollar recycling
+shale band
+shale gas
+swing producer
+unconventional oil
+heavy crude
+oil sands
+oil shale
+tight oil
+companies and organisationsmajor petroleumcompaniessupermajors
+bp
+chevron
+eni
+exxonmobil
+royal dutch shell
+total
+national oilcompanies
+adnoc (uae)
+cnooc (china)
+cnpc (china)
+ecopetrol (colombia)
+equinor (norway)
+gazprom (russia)
+iraq national oil company
+indian oil corporation
+kazmunaygas (kazakhstan)
+kuwait petroleum corporation
+lotos (poland)
+nigerian national petroleum corporation
+nioc (iran)
+nisoc (iran)
+ogdcl (pakistan)
+ongc (india)
+pdvsa (venezuela)
+pkn orlen (poland)
+pemex (mexico)
+pertamina (indonesia)
+petrobangla (bangladesh)
+petrobras (brazil)
+petrochina
+petronas (malaysia)
+petrovietnam
+ptt (thailand)
+qatar petroleum
+rosneft (russia)
+saudi aramco (saudi arabia)
+sinopec (china)
+socar (azerbaijan)
+sonangol (angola)
+sonatrach (algeria)
+tpao (turkey)
+ypf (argentina)
+energy trading
+glencore
+gunvor
+mercuria
+naftiran intertrade
+trafigura
+vitol
+other
+anadarko
+apache
+bg group
+cenovus energy
+compañía española de petróleos
+conocophillips
+devon
+galp energia
+hess
+husky energy
+imperial oil
+jxtg holdings
+lukoil
+marathon oil
+occidental
+omv
+port harcourt refining company
+reliance industries
+repsol
+suncor energy
+surgutneftegas
+tnk-bp
+tullow oil
+tüpraş
+major servicescompanies
+amec foster wheeler
+baker hughes
+cameron
+cgg
+ch2m hill
+chicago bridge & iron company
+china oilfield services
+enbridge
+ensco
+ge oil & gas
+halliburton
+nabors industries
+naftiran intertrade
+national oilwell varco
+petrofac
+saipem
+schlumberger
+snam
+subsea 7
+transcanada
+transocean
+weatherford
+wood group
+other
+international association of oil & gas producers
+international energy agency
+international petroleum exchange
+opec
+society of petroleum engineers
+world petroleum council
+
+category
+ commons
+
+
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=shale_oil_extraction&oldid=883499453"					
+categories: oil shale technologypetroleum productionhidden categories: pages containing links to subscription-only contentcs1 maint: multiple names: authors listwebarchive template wayback linksarticles containing potentially dated statements from 2010all articles containing potentially dated statementsfeatured articles 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+العربيةespañolفارسیlatinaportuguêsукраїнськаtiếng việt 
+edit links 
+
+
+
+
+
+ this page was last edited on 15 february 2019, at 19:47 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"1.296","walltime":"1.488","ppvisitednodes":{"value":5828,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":263613,"limit":2097152},"templateargumentsize":{"value":1960,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":286573,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00% 1137.858      1 -total"," 63.56%  723.239      1 template:reflist"," 27.00%  307.251     33 template:cite_journal","  8.37%   95.286     17 template:cite_book","  7.46%   84.889     17 template:cite_conference","  7.18%   81.712     29 template:convert","  4.45%   50.588      1 template:about","  4.41%   50.198      1 template:petroleum_industry","  4.08%   46.423      1 template:navbox_with_collapsible_groups","  3.69%   41.938      3 template:main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.607","limit":"10.000"},"limitreport-memusage":{"value":8467080,"limit":52428800}},"cachereport":{"origin":"mw1288","timestamp":"20190215194705","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":102,"wghostname":"mw1256"});});
+
+

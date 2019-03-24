@@ -1,0 +1,1017 @@
+
+
+
+
+neutron - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"neutron","wgtitle":"neutron","wgcurrevisionid":880140433,"wgrevisionid":880140433,"wgarticleid":21272,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["webarchive template wayback links","wikipedia indefinitely move-protected pages","pages using deprecated image syntax","all articles with unsourced statements","articles with unsourced statements from june 2012","wikipedia articles needing clarification from may 2015","commons category link from wikidata","wikipedia articles with gnd identifiers","wikipedia articles with ndl identifiers","neutron","baryons","nucleons"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"neutron","wgrelevantarticleid":21272,"wgrequestid":"xgmxnapamfwaaab30cwaaaam","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":["sysop"],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q2348","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","ext.math.scripts","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+neutron 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+this article is about the subatomic particle. for other uses, see neutron (disambiguation).
+neutronthe quark content of the neutron. the color assignment of individual quarks is arbitrary, but all three colors must be present. forces between quarks are mediated by gluons.classificationbaryoncomposition1 up quark, 2 down quarksstatisticsfermionicinteractionsgravity, weak, strong, electromagneticsymboln, n0, n0antiparticleantineutrontheorizedernest rutherford[1] (1920)discoveredjames chadwick[2] (1932)mass6973167492747100000♠1.674927471(21)×10−27 kg[3]7002939565413300000♠939.5654133(58) mev/c2[3]7000100866491588000♠1.00866491588(49) u[3]mean lifetime7002881500000000000♠881.5(15) s (free)electric charge5000000000000000000♠0 e
+3021799999999999999♠(−2±8)×10−22 e (experimental limits)[4]electric dipole moment< 6974290000000000000♠2.9×10−26 e⋅cm (experimental upper limit)electric polarizability6997116000000000000♠1.16(15)×10−3 fm3magnetic moment3026033763500000000♠−0.96623650(23)×10−26 j·t−1[3]3002895812437000000♠−1.04187563(25)×10−3 μb[3]2999808695726999999♠−1.91304273(45) μn[3]magnetic polarizability6996370000000000000♠3.7(20)×10−4 fm3spin1/2isospin−1/2parity+1condensedi(jp) = 1/2(1/2+)
+the neutron is a subatomic particle, symbol n or n0, with no net electric charge and a mass slightly larger than that of a proton. protons and neutrons constitute the nuclei of atoms. since protons and neutrons behave similarly within the nucleus, and each has a mass of approximately one atomic mass unit, they are both referred to as nucleons.[5] their properties and interactions are described by nuclear physics.
+the chemical and nuclear properties of the nucleus are determined by the number of protons, called the atomic number, and the number of neutrons, called the neutron number. the atomic mass number is the total number of nucleons. for example, carbon has atomic number 6, and its abundant carbon-12 isotope has 6 neutrons, whereas its rare carbon-13 isotope has 7 neutrons. some elements occur in nature with only one stable isotope, such as fluorine. other elements occur with many stable isotopes, such as tin with ten stable isotopes.
+within the nucleus, protons and neutrons are bound together through the nuclear force. neutrons are required for the stability of nuclei, with the exception of the single-proton hydrogen atom. neutrons are produced copiously in nuclear fission and fusion. they are a primary contributor to the nucleosynthesis of chemical elements within stars through fission, fusion, and neutron capture processes.
+the neutron is essential to the production of nuclear power. in the decade after the neutron was discovered by james chadwick in 1932,[6] neutrons were used to induce many different types of nuclear transmutations. with the discovery of nuclear fission in 1938,[7] it was quickly realized that, if a fission event produced neutrons, each of these neutrons might cause further fission events, etc., in a cascade known as a nuclear chain reaction.[8] these events and findings led to the first self-sustaining nuclear reactor (chicago pile-1, 1942) and the first nuclear weapon (trinity, 1945).
+free neutrons, while not directly ionizing atoms, cause ionizing radiation. as such they can be a biological hazard, depending upon dose.[8] a small natural "neutron background" flux of free neutrons exists on earth, caused by cosmic ray showers, and by the natural radioactivity of spontaneously fissionable elements in the earth's crust.[9] dedicated neutron sources like neutron generators, research reactors and spallation sources produce free neutrons for use in irradiation and in neutron scattering experiments.
+
+contents
+
+1 description
+2 discovery
+3 beta decay and the stability of the nucleus
+
+3.1 free neutron decay
+3.2 bound neutron decay
+3.3 competition of beta decay types
+
+
+4 intrinsic properties
+
+4.1 mass
+4.2 electric charge
+4.3 magnetic moment
+4.4 spin
+4.5 structure and geometry of charge distribution
+4.6 electric dipole moment
+4.7 anti-neutron
+
+
+5 neutron compounds
+
+5.1 dineutrons and tetraneutrons
+5.2 neutronium and neutron stars
+
+
+6 detection
+
+6.1 neutron detection by neutron capture
+6.2 neutron detection by elastic scattering
+
+
+7 sources and production
+
+7.1 neutron beams and modification of beams after production
+
+
+8 applications
+9 medical therapies
+10 protection
+11 neutron temperature
+
+11.1 thermal neutrons
+11.2 cold neutrons
+11.3 ultracold neutrons
+11.4 fission energy neutrons
+11.5 fusion neutrons
+11.6 intermediate-energy neutrons
+11.7 high-energy neutrons
+
+
+12 see also
+
+12.1 neutron sources
+12.2 processes involving neutrons
+
+
+13 references
+14 further reading
+
+
+description[edit]
+nuclear physics
+nucleus  · nucleons (p, n)  · nuclear matter  · nuclear force  · nuclear structure  · nuclear reaction
+
+models of the nucleusliquid drop · nuclear shell model · interacting boson model · ab initio
+
+nuclides' classificationisotopes – equal zisobars – equal aisotones – equal nisodiaphers – equal n − z     isomers – equal all the abovemirror nuclei – z ↔ n
+stable · magic · even/odd · halo
+
+nuclear stabilitybinding energy · p–n ratio · drip line · island of stability · valley of stability
+
+radioactive decayalpha α · beta β (2β, β+) · k/l capture · isomeric (gamma γ · internal conversion) · spontaneous fission · cluster decay · neutron emission · proton emissiondecay energy · decay chain · decay product · radiogenic nuclide
+
+nuclear fissionspontaneous · products (pair breaking) · photofission
+
+capturing processeselectron · neutron (s · r) · proton (p · rp)
+
+high energy processesspallation (by cosmic ray) · photodisintegration
+
+nucleosynthesis and nuclear astrophysicsnuclear fusionprocesses: stellar · big bang · supernovanuclides: primordial · cosmogenic · artificial
+
+high energy nuclear physicsquark–gluon plasma  · rhic  · lhc
+
+scientistsalvarez · becquerel · bethe · a.bohr · n.bohr · chadwick · cockcroft · ir.curie · fr.curie · pi.curie · skłodowska-curie · davisson · fermi · hahn · jensen · lawrence · mayer · meitner · oliphant · oppenheimer · proca · purcell · rabi · rutherford · soddy · strassmann · szilárd · teller · thomson · walton · wigner
+vte
+atomic nuclei are formed by a number of protons, z the atomic number, and a number of neutrons, n the neutron number, bound together by the nuclear force. the atomic number defines the chemical properties of the atom, and the neutron number determines the isotope or nuclide.[8] the terms isotope and nuclide are often used synonymously, but they refer to chemical and nuclear properties, respectively. strictly speaking, isotopes are two or more nuclides with the same number of protons; nuclides with the same number of neutrons are called isotones. the atomic mass number, symbol a, equals z+n. nuclides with the same atomic mass number are called isobars. the nucleus of the most common isotope of the hydrogen atom (with the chemical symbol 1h) is a lone proton. the nuclei of the heavy hydrogen isotopes deuterium (d or 2h) and tritium (t or 3h) contain one proton bound to one and two neutrons, respectively. all other types of atomic nuclei are composed of two or more protons and various numbers of neutrons. the most common nuclide of the common chemical element lead, 208pb, has 82 protons and 126 neutrons, for example. the table of nuclides comprises all the known nuclides. even though it is not a chemical element, the neutron is included in this table.[10]
+the free neutron has a mass of 939,565,413.3 ev/c2, or 6973167492747100000♠1.674927471×10−27 kg, or 7000100866491588000♠1.00866491588 u.[3] the neutron has a mean square radius of about 6984800000000000000♠0.8×10−15 m, or 0.8 fm,[11] and it is a spin-½ fermion.[12]
+the neutron has no measurable electric charge. with its positive electric charge, the proton is directly influenced by electric fields, whereas the neutron is unaffected by electric fields. the neutron has a magnetic moment, however, so the neutron is influenced by magnetic fields. the neutron's magnetic moment has a negative value, because its orientation is opposite to the neutron's spin.[13]
+a free neutron is unstable, decaying to a proton, electron and antineutrino with a mean lifetime of just under 15 minutes (7002881500000000000♠881.5±1.5 s).[14] this radioactive decay, known as beta decay, is possible because the mass of the neutron is slightly greater than the proton. the free proton is stable. neutrons or protons bound in a nucleus can be stable or unstable, however, depending on the nuclide. beta decay, in which neutrons decay to protons, or vice versa, is governed by the weak force, and it requires the emission or absorption of electrons and neutrinos, or their antiparticles.
+
+ nuclear fission caused by absorption of a neutron by uranium-235. the heavy nuclide fragments into lighter components and additional neutrons.
+protons and neutrons behave almost identically under the influence of the nuclear force within the nucleus. the concept of isospin, in which the proton and neutron are viewed as two quantum states of the same particle, is used to model the interactions of nucleons by the nuclear or weak forces. because of the strength of the nuclear force at short distances, the binding energy of nucleons is more than seven orders of magnitude larger than the electromagnetic energy binding electrons in atoms. nuclear reactions (such as nuclear fission) therefore have an energy density that is more than ten million times that of chemical reactions. because of the mass–energy equivalence, nuclear binding energies add or subtract from the mass of nuclei. ultimately, the ability of the nuclear force to store energy arising from the electromagnetic repulsion of nuclear components is the basis for most of the energy that makes nuclear reactors or bombs possible. in nuclear fission, the absorption of a neutron by a heavy nuclide (e.g., uranium-235) causes the nuclide to become unstable and break into light nuclides and additional neutrons. the positively charged light nuclides then repel, releasing electromagnetic potential energy.
+the neutron is classified as a hadron, because it is a composite particle made of quarks. the neutron is also classified as a baryon, because it is composed of three valence quarks.[15] the finite size of the neutron and its magnetic moment indicates that the neutron is a composite particle, as opposed to being an elementary particle. a neutron contains two down quarks with charge −​1⁄3 e and one up quark with charge +​2⁄3 e.
+like protons, the quarks of the neutron are held together by the strong force, mediated by gluons.[16] the nuclear force results from secondary effects of the more fundamental strong force.
+
+discovery[edit]
+main article: discovery of the neutron
+the story of the discovery of the neutron and its properties is central to the extraordinary developments in atomic physics that occurred in the first half of the 20th century, leading ultimately to the atomic bomb in 1945. in the 1911 rutherford model, the atom consisted of a small positively charged massive nucleus surrounded by a much larger cloud of negatively charged electrons. in 1920, rutherford suggested that the nucleus consisted of positive protons and neutrally-charged particles, suggested to be a proton and an electron bound in some way.[17] electrons were assumed to reside within the nucleus because it was known that beta radiation consisted of electrons emitted from the nucleus.[17] rutherford called these uncharged particles neutrons, by the latin root for neutralis (neuter) and the greek suffix -on (a suffix used in the names of subatomic particles, i.e. electron and proton).[18][19] references to the word neutron in connection with the atom can be found in the literature as early as 1899, however.[20]
+throughout the 1920s, physicists assumed that the atomic nucleus was composed of protons and "nuclear electrons"[21][22] but there were obvious problems. it was difficult to reconcile the proton–electron model for nuclei with the heisenberg uncertainty relation of quantum mechanics.[23][24] the klein paradox,[25] discovered by oskar klein in 1928, presented further quantum mechanical objections to the notion of an electron confined within a nucleus.[23] observed properties of atoms and molecules were inconsistent with the nuclear spin expected from the proton–electron hypothesis. since both protons and electrons carry an intrinsic spin of ½ ħ, there is no way to arrange an odd number of spins ±½ ħ to give a spin integer multiple of ħ. nuclei with integer spin are common, e.g., 14n.
+in 1931, walther bothe and herbert becker found that if alpha particle radiation from polonium fell on beryllium, boron, or lithium, an unusually penetrating radiation was produced. the radiation was not influenced by an electric field, so bothe and becker assumed it was gamma radiation.[26][27] the following year irène joliot-curie and frédéric joliot-curie in paris showed that if this "gamma" radiation fell on paraffin, or any other hydrogen-containing compound, it ejected protons of very high energy.[28] neither rutherford nor james chadwick at the cavendish laboratory in cambridge were convinced by the gamma ray interpretation.[29] chadwick quickly performed a series of experiments that showed that the new radiation consisted of uncharged particles with about the same mass as the proton.[6][30][31] these particles were neutrons. chadwick won the nobel prize in physics for this discovery in 1935.[2]
+
+ models depicting the nucleus and electron energy levels in hydrogen, helium, lithium, and neon atoms. in reality, the diameter of the nucleus is about 100,000 times smaller than the diameter of the atom.
+models for atomic nucleus consisting of protons and neutrons were quickly developed by werner heisenberg[32][33][34] and others.[35][36] the proton–neutron model explained the puzzle of nuclear spins. the origins of beta radiation were explained by enrico fermi in 1934 by the process of beta decay, in which the neutron decays to a proton by creating an electron and a (as yet undiscovered) neutrino.[37] in 1935 chadwick and his doctoral student maurice goldhaber, reported the first accurate measurement of the mass of the neutron.[38][39]
+by 1934, fermi had bombarded heavier elements with neutrons to induce radioactivity in elements of high atomic number. in 1938, fermi received the nobel prize in physics "for his demonstrations of the existence of new radioactive elements produced by neutron irradiation, and for his related discovery of nuclear reactions brought about by slow neutrons".[40] in 1938 otto hahn, lise meitner, and fritz strassmann discovered nuclear fission, or the fractionation of uranium nuclei into light elements, induced by neutron bombardment.[41][42][43] in 1945 hahn received the 1944 nobel prize in chemistry "for his discovery of the fission of heavy atomic nuclei."[44][45][46] the discovery of nuclear fission would lead to the development of nuclear power and the atomic bomb by the end of world war ii.
+
+beta decay and the stability of the nucleus[edit]
+ the feynman diagram for beta decay of a neutron into a proton, electron, and electron antineutrino via an intermediate heavy w boson
+under the standard model of particle physics, the only possible decay mode for the neutron that conserves baryon number is for one of the neutron's quarks to change flavour via the weak interaction. the decay of one of the neutron's down quarks into a lighter up quark can be achieved by the emission of a w boson. by this process, the standard model description of beta decay, the neutron decays into a proton (which contains one down and two up quarks), an electron, and an electron antineutrino.
+since interacting protons have a mutual electromagnetic repulsion that is stronger than their attractive nuclear interaction, neutrons are a necessary constituent of any atomic nucleus that contains more than one proton (see diproton and neutron–proton ratio).[47] neutrons bind with protons and one another in the nucleus via the nuclear force, effectively moderating the repulsive forces between the protons and stabilizing the nucleus.
+
+see also: valley of stability, beta-decay stable isobars, and neutron emission
+free neutron decay[edit]
+main article: free neutron decay
+outside the nucleus, free neutrons are unstable and have a mean lifetime of 7002881500000000000♠881.5±1.5 s (about 14 minutes, 42 seconds); therefore the half-life for this process (which differs from the mean lifetime by a factor of ln(2) = 0.693) is 7002611000000000000♠611.0±1.0 s (about 10 minutes, 11 seconds).[14] beta decay of the neutron, described above, can be denoted by the radioactive decay:[48]
+
+n0 → p+ + e− + νe
+where p+, e−, and νe denote the proton, electron and electron antineutrino, respectively.
+for the free neutron the decay energy for this process (based on the masses of the neutron, proton, and electron) is 0.782343 mev. the maximal energy of the beta decay electron (in the process wherein the neutrino receives a vanishingly small amount of kinetic energy) has been measured at 0.782 ± 0.013 mev.[49] the latter number is not well-enough measured to determine the comparatively tiny rest mass of the neutrino (which must in theory be subtracted from the maximal electron kinetic energy) as well as neutrino mass is constrained by many other methods.
+a small fraction (about one in 1000) of free neutrons decay with the same products, but add an extra particle in the form of an emitted gamma ray:
+
+n0 → p+ + e− + νe + γ
+this gamma ray may be thought of as an "internal bremsstrahlung" that arises from the electromagnetic interaction of the emitted beta particle with the proton. internal bremsstrahlung gamma ray production is also a minor feature of beta decays of bound neutrons (as discussed below).
+
+ a schematic of the nucleus of an atom indicating β− radiation, the emission of a fast electron from the nucleus (the accompanying antineutrino is omitted). in the rutherford model for the nucleus, red spheres were protons with positive charge and blue spheres were protons tightly bound to an electron with no net charge. the inset shows beta decay of a free neutron as it is understood today; an electron and antineutrino are created in this process.
+a very small minority of neutron decays (about four per million) are so-called "two-body (neutron) decays", in which a proton, electron and antineutrino are produced as usual, but the electron fails to gain the 13.6 ev necessary energy to escape the proton (the ionization energy of hydrogen), and therefore simply remains bound to it, as a neutral hydrogen atom (one of the "two bodies"). in this type of free neutron decay, almost all of the neutron decay energy is carried off by the antineutrino (the other "body"). (the hydrogen atom recoils with a speed of only about (decay energy)/(hydrogen rest energy) times the speed of light, or 250 km/s.)
+the transformation of a free proton to a neutron (plus a positron and a neutrino) is energetically impossible, since a free neutron has a greater mass than a free proton. but a high-energy collision of a proton and an electron or neutrino can result in a neutron.
+
+bound neutron decay[edit]
+main article: atomic nucleus
+while a free neutron has a half life of about 10.2 min, most neutrons within nuclei are stable. according to the nuclear shell model, the protons and neutrons of a nuclide are a quantum mechanical system organized into discrete energy levels with unique quantum numbers. for a neutron to decay, the resulting proton requires an available state at lower energy than the initial neutron state. in stable nuclei the possible lower energy states are all filled, meaning they are each occupied by two protons with spin up and spin down. the pauli exclusion principle therefore disallows the decay of a neutron to a proton within stable nuclei. the situation is similar to electrons of an atom, where electrons have distinct atomic orbitals and are prevented from decaying to lower energy states, with the emission of a photon, by the exclusion principle.
+neutrons in unstable nuclei can decay by beta decay as described above. in this case, an energetically allowed quantum state is available for the proton resulting from the decay. one example of this decay is carbon-14 (6 protons, 8 neutrons) that decays to nitrogen-14 (7 protons, 7 neutrons) with a half-life of about 5,730 years.
+inside a nucleus, a proton can transform into a neutron via inverse beta decay, if an energetically allowed quantum state is available for the neutron. this transformation occurs by emission of a positron and an electron neutrino:
+
+p+ → n0 + e+ + νe
+the transformation of a proton to a neutron inside of a nucleus is also possible through electron capture:
+
+p+ + e− → n0 + νe
+positron capture by neutrons in nuclei that contain an excess of neutrons is also possible, but is hindered because positrons are repelled by the positive nucleus, and quickly annihilate when they encounter electrons.
+
+competition of beta decay types[edit]
+three types of beta decay in competition are illustrated by the single isotope copper-64 (29 protons, 35 neutrons), which has a half-life of about 12.7 hours. this isotope has one unpaired proton and one unpaired neutron, so either the proton or the neutron can decay. this particular nuclide is almost equally likely to undergo proton decay (by positron emission, 18% or by electron capture, 43%) or neutron decay (by electron emission, 39%).
+
+intrinsic properties[edit]
+mass[edit]
+the mass of a neutron cannot be directly determined by mass spectrometry due to lack of electric charge. however, since the masses of a proton and of a deuteron can be measured with a mass spectrometer, the mass of a neutron can be deduced by subtracting proton mass from deuteron mass, with the difference being the mass of the neutron plus the binding energy of deuterium (expressed as a positive emitted energy). the latter can be directly measured by measuring the energy (
+
+
+
+
+b
+
+d
+
+
+
+
+{\displaystyle b_{d}}
+
+) of the single 6987125322244813139♠0.7822 mev gamma photon emitted when neutrons are captured by protons (this is exothermic and happens with zero-energy neutrons), plus the small recoil kinetic energy (
+
+
+
+
+e
+
+r
+d
+
+
+
+
+{\displaystyle e_{rd}}
+
+) of the deuteron (about 0.06% of the total energy).
+
+
+
+
+
+
+m
+
+n
+
+
+=
+
+m
+
+d
+
+
+−
+
+m
+
+p
+
+
++
+
+b
+
+d
+
+
+−
+
+e
+
+r
+d
+
+
+
+
+{\displaystyle m_{n}=m_{d}-m_{p}+b_{d}-e_{rd}}
+
+
+the energy of the gamma ray can be measured to high precision by x-ray diffraction techniques, as was first done by bell and elliot in 1948. the best modern (1986) values for neutron mass by this technique are provided by greene, et al.[50] these give a neutron mass of:
+
+mneutron= 7000100864490400000♠1.008644904(14) u
+the value for the neutron mass in mev is less accurately known, due to less accuracy in the known conversion of u to mev:[51]
+
+mneutron= 7002939565630000000♠939.56563(28) mev/c2.
+another method to determine the mass of a neutron starts from the beta decay of the neutron, when the momenta of the resulting proton and electron are measured.
+
+electric charge[edit]
+the total electric charge of the neutron is 5000000000000000000♠0 e. this zero value has been tested experimentally, and the present experimental limit for the charge of the neutron is 3021799999999999999♠−2(8)×10−22 e,[4]   or 3040700000000000000♠−3(13)×10−41 c. this value is consistent with zero, given the experimental uncertainties (indicated in parentheses). by comparison, the charge of the proton is 7000100000000000000♠+1 e.
+
+magnetic moment[edit]
+main article: neutron magnetic moment
+even though the neutron is a neutral particle, the magnetic moment of a neutron is not zero. the neutron is not affected by electric fields, but it is affected by magnetic fields. the magnetic moment of the neutron is an indication of its quark substructure and internal charge distribution.[52]
+the value for the neutron's magnetic moment was first directly measured by luis alvarez and felix bloch at berkeley, california, in 1940,[53] using an extension of the magnetic resonance methods developed by rabi. alvarez and bloch determined the magnetic moment of the neutron to be μn= 2999807000000000000♠−1.93(2) μn, where μn is the nuclear magneton.
+in the quark model for hadrons, the neutron is composed of one up quark (charge +2/3 e) and two down quarks (charge −1/3 e).[52] the magnetic moment of the neutron can be modeled as a sum of the magnetic moments of the constituent quarks.[54] the calculation assumes that the quarks behave like pointlike dirac particles, each having their own magnetic moment. simplistically, the magnetic moment of the neutron can be viewed as resulting from the vector sum of the three quark magnetic moments, plus the orbital magnetic moments caused by the movement of the three charged quarks within the neutron.
+in one of the early successes of the standard model (su(6) theory, now understood in terms of quark behavior), in 1964 mirza a.b. beg, benjamin w. lee, and abraham pais theoretically calculated the ratio of proton to neutron magnetic moments to be −3/2, which agrees with the experimental value to within 3%.[55][56][57] the measured value for this ratio is 2999854010195000000♠−1.45989805(34).[3] a contradiction of the quantum mechanical basis of this calculation with the pauli exclusion principle, led to the discovery of the color charge for quarks by oscar w. greenberg in 1964.[55]
+the above treatment compares neutrons with protons, allowing the complex behavior of quarks to be subtracted out between models, and merely exploring what the effects would be of differing quark charges (or quark type). such calculations are enough to show that the interior of neutrons is very much like that of protons, save for the difference in quark composition with a down quark in the neutron replacing an up quark in the proton.
+attempts have been made to quantitatively recover the neutron magnetic moment from first principles. from the nonrelativistic, quantum mechanical wavefunction for baryons composed of three quarks, a straightforward calculation gives fairly accurate estimates for the magnetic moments of neutrons, protons, and other baryons.[54] for a neutron, the end result of this calculation is that the magnetic moment of the neutron is given by μn= 4/3 μd − 1/3 μu, where μd and μu are the magnetic moments for the down and up quarks, respectively. this result combines the intrinsic magnetic moments of the quarks with their orbital magnetic moments, and assumes the three quarks are in a particular, dominant quantum state.
+
+
+
+baryon
+
+magnetic momentof quark model
+
+computed(
+
+
+
+
+μ
+
+
+n
+
+
+
+
+
+{\displaystyle \mu _{\mathrm {n} }}
+
+)
+
+observed(
+
+
+
+
+μ
+
+
+n
+
+
+
+
+
+{\displaystyle \mu _{\mathrm {n} }}
+
+)
+
+
+p
+
+4/3 μu − 1/3 μd
+
+2.79
+
+2.793
+
+
+n
+
+4/3 μd − 1/3 μu
+
+−1.86
+
+−1.913
+
+the results of this calculation are encouraging, but the masses of the up or down quarks were assumed to be 1/3 the mass of a nucleon.[54] the masses of the quarks are actually only about 1% that of a nucleon.[58] the discrepancy stems from the complexity of the standard model for nucleons, where most of their mass originates in the gluon fields, virtual particles, and their associated energy that are essential aspects of the strong force.[58][59] furthermore, the complex system of quarks and gluons that constitute a neutron requires a relativistic treatment.[60] the nucleon magnetic moment has been successfully computed numerically from first principles, however, including all the effects mentioned and using more realistic values for the quark masses. the calculation gave results that were in fair agreement with measurement, but it required significant computing resources.[61][62]
+
+spin[edit]
+the neutron is a spin 1/2 particle, that is, it is a fermion with intrinsic angular momentum equal to 1/2 ħ, where ħ is the reduced planck constant. for many years after the discovery of the neutron, its exact spin was ambiguous. although it was assumed to be a spin 1/2 dirac particle, the possibility that the neutron was a spin 3/2 particle lingered. the interactions of the neutron's magnetic moment with an external magnetic field were exploited to finally determine the spin of the neutron.[63] in 1949, hughes and burgy measured neutrons reflected from a ferromagnetic mirror and found that the angular distribution of the reflections was consistent with spin 1/2.[64] in 1954, sherwood, stephenson, and bernstein employed neutrons in a stern–gerlach experiment that used a magnetic field to separate the neutron spin states. they recorded two such spin states, consistent with a spin 1/2 particle.[63][65]
+as a fermion, the neutron is subject to the pauli exclusion principle; two neutrons cannot have the same quantum numbers. this is the source of the degeneracy pressure which makes neutron stars possible.
+
+see also: delta baryon
+structure and geometry of charge distribution[edit]
+an article published in 2007 featuring a model-independent analysis concluded that the neutron has a negatively charged exterior, a positively charged middle, and a negative core.[66] in a simplified classical view, the negative "skin" of the neutron assists it to be attracted to the protons with which it interacts in the nucleus. (however, the main attraction between neutrons and protons is via the nuclear force, which does not involve electric charge.)
+the simplified classical view of the neutron's charge distribution also "explains" the fact that the neutron magnetic dipole points in the opposite direction from its spin angular momentum vector (as compared to the proton). this gives the neutron, in effect, a magnetic moment which resembles a negatively charged particle. this can be reconciled classically with a neutral neutron composed of a charge distribution in which the negative sub-parts of the neutron have a larger average radius of distribution, and therefore contribute more to the particle's magnetic dipole moment, than do the positive parts that are, on average, nearer the core.
+
+electric dipole moment[edit]
+main article: neutron electric dipole moment
+the standard model of particle physics predicts a tiny separation of positive and negative charge within the neutron leading to a permanent electric dipole moment.[67] the predicted value is, however, well below the current sensitivity of experiments. from several unsolved puzzles in particle physics, it is clear that the standard model is not the final and full description of all particles and their interactions. new theories going beyond the standard model generally lead to much larger predictions for the electric dipole moment of the neutron. currently, there are at least four experiments trying to measure for the first time a finite neutron electric dipole moment, including:
+
+cryogenic neutron edm experiment being set up at the institut laue–langevin[68]
+nedm experiment under construction at the new ucn source at the paul scherrer institute[69]
+nedm experiment being envisaged at the spallation neutron source[70][71]
+nedm experiment being built at the institut laue–langevin[72]
+anti-neutron[edit]
+main article: antineutron
+the antineutron is the antiparticle of the neutron. it was discovered by bruce cork in 1956, a year after the antiproton was discovered. cpt-symmetry puts strong constraints on the relative properties of particles and antiparticles, so studying antineutrons provides stringent tests on cpt-symmetry. the fractional difference in the masses of the neutron and antineutron is 6995900000000000000♠(9±6)×10−5. since the difference is only about two standard deviations away from zero, this does not give any convincing evidence of cpt-violation.[14]
+
+neutron compounds[edit]
+dineutrons and tetraneutrons[edit]
+main articles: dineutron and tetraneutron
+the existence of stable clusters of 4 neutrons, or tetraneutrons, has been hypothesised by a team led by francisco-miguel marqués at the cnrs laboratory for nuclear physics based on observations of the disintegration of beryllium-14 nuclei. this is particularly interesting because current theory suggests that these clusters should not be stable.
+in february 2016, japanese physicist susumu shimoura of the university of tokyo and co-workers reported they had observed the purported tetraneutrons for the first time experimentally.[73] nuclear physicists around the world say this discovery, if confirmed, would be a milestone in the field of nuclear physics and certainly would deepen our understanding of the nuclear forces.[74][75]
+the dineutron is another hypothetical particle. in 2012, artemis spyrou from michigan state university and coworkers reported that they observed, for the first time, the dineutron emission in the decay of 16be. the dineutron character is evidenced by a small emission angle between the two neutrons. the authors measured the two-neutron separation energy to be 1.35(10) mev, in good agreement with shell model calculations, using standard interactions for this mass region.[76]
+
+neutronium and neutron stars[edit]
+main articles: neutronium and neutron star
+at extremely high pressures and temperatures, nucleons and electrons are believed to collapse into bulk neutronic matter, called neutronium. this is presumed to happen in neutron stars.
+the extreme pressure inside a neutron star may deform the neutrons into a cubic symmetry, allowing tighter packing of neutrons.[77]
+
+detection[edit]
+main article: neutron detection
+the common means of detecting a charged particle by looking for a track of ionization (such as in a cloud chamber) does not work for neutrons directly. neutrons that elastically scatter off atoms can create an ionization track that is detectable, but the experiments are not as simple to carry out; other means for detecting neutrons, consisting of allowing them to interact with atomic nuclei, are more commonly used. the commonly used methods to detect neutrons can therefore be categorized according to the nuclear processes relied upon, mainly neutron capture or elastic scattering.[78]
+
+neutron detection by neutron capture[edit]
+a common method for detecting neutrons involves converting the energy released from neutron capture reactions into electrical signals. certain nuclides have a high neutron capture cross section, which is the probability of absorbing a neutron. upon neutron capture, the compound nucleus emits more easily detectable radiation, for example an alpha particle, which is then detected. the nuclides 3he, 6li, 10b, 233u, 235u, 237np, and 239pu are useful for this purpose. 
+
+neutron detection by elastic scattering[edit]
+neutrons can elastically scatter off nuclei, causing the struck nucleus to recoil. kinematically, a neutron can transfer more energy to a light nucleus such as hydrogen or helium than to a heavier nucleus. detectors relying on elastic scattering are called fast neutron detectors. recoiling nuclei can ionize and excite further atoms through collisions. charge and/or scintillation light produced in this way can be collected to produce a detected signal. a major challenge in fast neutron detection is discerning such signals from erroneous signals produced by gamma radiation in the same detector.
+fast neutron detectors have the advantage of not requiring a moderator, and are therefore capable of measuring the neutron's energy, time of arrival, and in certain cases direction of incidence.
+
+sources and production[edit]
+main articles: neutron source, neutron generator, and research reactor
+free neutrons are unstable, although they have the longest half-life of any unstable subatomic particle by several orders of magnitude. their half-life is still only about 10 minutes, however, so they can be obtained only from sources that produce them continuously.
+natural neutron background. a small natural background flux of free neutrons exists everywhere on earth. in the atmosphere and deep into the ocean, the "neutron background" is caused by muons produced by cosmic ray interaction with the atmosphere. these high-energy muons are capable of penetration to considerable depths in water and soil. there, in striking atomic nuclei, among other reactions they induce spallation reactions in which a neutron is liberated from the nucleus. within the earth's crust a second source is neutrons produced primarily by spontaneous fission of uranium and thorium present in crustal minerals. the neutron background is not strong enough to be a biological hazard, but it is of importance to very high resolution particle detectors that are looking for very rare events, such as (hypothesized) interactions that might be caused by particles of dark matter.[9] recent research has shown that even thunderstorms can produce neutrons with energies of up to several tens of mev.[79] recent research has shown that the fluence of these neutrons lies between 10−9 and 10−13 per ms and per m2 depending on the detection altitude. the energy of most of these neutrons, even with initial energies of 20 mev, decreases down to the kev range within 1 ms.[80]
+even stronger neutron background radiation is produced at the surface of mars, where the atmosphere is thick enough to generate neutrons from cosmic ray muon production and neutron-spallation, but not thick enough to provide significant protection from the neutrons produced. these neutrons not only produce a martian surface neutron radiation hazard from direct downward-going neutron radiation but may also produce a significant hazard from reflection of neutrons from the martian surface, which will produce reflected neutron radiation penetrating upward into a martian craft or habitat from the floor.[81]
+sources of neutrons for research. these include certain types of radioactive decay (spontaneous fission and neutron emission), and from certain nuclear reactions. convenient nuclear reactions include tabletop reactions such as natural alpha and gamma bombardment of certain nuclides, often beryllium or deuterium, and induced nuclear fission, such as occurs in nuclear reactors. in addition, high-energy nuclear reactions (such as occur in cosmic radiation showers or accelerator collisions) also produce neutrons from disintegration of target nuclei. small (tabletop) particle accelerators optimized to produce free neutrons in this way, are called neutron generators.
+in practice, the most commonly used small laboratory sources of neutrons use radioactive decay to power neutron production. one noted neutron-producing radioisotope, californium-252 decays (half-life 2.65 years) by spontaneous fission 3% of the time with production of 3.7 neutrons per fission, and is used alone as a neutron source from this process. nuclear reaction sources (that involve two materials) powered by radioisotopes use an alpha decay source plus a beryllium target, or else a source of high-energy gamma radiation from a source that undergoes beta decay followed by gamma decay, which produces photoneutrons on interaction of the high-energy gamma ray with ordinary stable beryllium, or else with the deuterium in heavy water. a popular source of the latter type is radioactive antimony-124 plus beryllium, a system with a half-life of 60.9 days, which can be constructed from natural antimony (which is 42.8% stable antimony-123) by activating it with neutrons in a nuclear reactor, then transported to where the neutron source is needed.[82]
+
+ institut laue–langevin (ill) in grenoble, france – a major neutron research facility.
+nuclear fission reactors naturally produce free neutrons; their role is to sustain the energy-producing chain reaction. the intense neutron radiation can also be used to produce various radioisotopes through the process of neutron activation, which is a type of neutron capture.
+experimental nuclear fusion reactors produce free neutrons as a waste product. however, it is these neutrons that possess most of the energy, and converting that energy to a useful form has proved a difficult engineering challenge. fusion reactors that generate neutrons are likely to create radioactive waste, but the waste is composed of neutron-activated lighter isotopes, which have relatively short (50–100 years) decay periods as compared to typical half-lives of 10,000 years[citation needed] for fission waste, which is long due primarily to the long half-life of alpha-emitting transuranic actinides.[83]
+
+neutron beams and modification of beams after production[edit]
+free neutron beams are obtained from neutron sources by neutron transport. for access to intense neutron sources, researchers must go to a specialized neutron facility that operates a research reactor or a spallation source.
+the neutron's lack of total electric charge makes it difficult to steer or accelerate them. charged particles can be accelerated, decelerated, or deflected by electric or magnetic fields. these methods have little effect on neutrons. however, some effects may be attained by use of inhomogeneous magnetic fields because of the neutron's magnetic moment. neutrons can be controlled by methods that include moderation, reflection, and velocity selection. thermal neutrons can be polarized by transmission through magnetic materials in a method analogous to the faraday effect for photons. cold neutrons of wavelengths of 6–7 angstroms can be produced in beams of a high degree of polarization, by use of magnetic mirrors and magnetized interference filters.[84]
+
+applications[edit]
+science with neutrons
+foundations
+neutron temperature
+flux · radiation · transport
+cross section · absorption · activation
+
+neutron scattering
+neutron diffraction
+small-angle neutron scattering
+gisans
+reflectometry
+inelastic neutron scattering
+triple-axis spectrometer
+time-of-flight spectrometer
+backscattering spectrometer
+spin-echo spectrometer
+
+other applications
+neutron tomography
+activation analysis · prompt gamma activation analysis
+fundamental research with neutrons: ultracold neutrons · interferometry
+fast neutron therapy
+neutron capture therapy
+
+infrastructure
+neutron sources: research reactor · spallation · neutron moderator
+neutron optics: guide · supermirror · polarizer
+detection
+
+neutron facilities
+america:  hfir · lansce · nist cnr -sns
+australia: opal
+asia: j-parc · hanaro
+europe: ber ii · frm ii · ill · isis neutron and muon source · jinr · llb · pins · sinq
+historic: ipns · hfbr
+under construction: ess
+vte
+the neutron plays an important role in many nuclear reactions. for example, neutron capture often results in neutron activation, inducing radioactivity. in particular, knowledge of neutrons and their behavior has been important in the development of nuclear reactors and nuclear weapons. the fissioning of elements like uranium-235 and plutonium-239 is caused by their absorption of neutrons.
+cold, thermal, and hot neutron radiation is commonly employed in neutron scattering facilities, where the radiation is used in a similar way one uses x-rays for the analysis of condensed matter. neutrons are complementary to the latter in terms of atomic contrasts by different scattering cross sections; sensitivity to magnetism; energy range for inelastic neutron spectroscopy; and deep penetration into matter.
+the development of "neutron lenses" based on total internal reflection within hollow glass capillary tubes or by reflection from dimpled aluminum plates has driven ongoing research into neutron microscopy and neutron/gamma ray tomography.[85][86][87]
+a major use of neutrons is to excite delayed and prompt gamma rays from elements in materials. this forms the basis of neutron activation analysis (naa) and prompt gamma neutron activation analysis (pgnaa). naa is most often used to analyze small samples of materials in a nuclear reactor whilst pgnaa is most often used to analyze subterranean rocks around bore holes and industrial bulk materials on conveyor belts.
+another use of neutron emitters is the detection of light nuclei, in particular the hydrogen found in water molecules. when a fast neutron collides with a light nucleus, it loses a large fraction of its energy. by measuring the rate at which slow neutrons return to the probe after reflecting off of hydrogen nuclei, a neutron probe may determine the water content in soil.
+
+medical therapies[edit]
+main articles: fast neutron therapy and neutron capture therapy of cancer
+because neutron radiation is both penetrating and ionizing, it can be exploited for medical treatments. neutron radiation can have the unfortunate side-effect of leaving the affected area radioactive, however. neutron tomography is therefore not a viable medical application.
+fast neutron therapy utilizes high-energy neutrons typically greater than 20 mev to treat cancer. radiation therapy of cancers is based upon the biological response of cells to ionizing radiation. if radiation is delivered in small sessions to damage cancerous areas, normal tissue will have time to repair itself, while tumor cells often cannot.[88] neutron radiation can deliver energy to a cancerous region at a rate an order of magnitude larger than gamma radiation[89]
+beams of low-energy neutrons are used in boron capture therapy to treat cancer. in boron capture therapy, the patient is given a drug that contains boron and that preferentially accumulates in the tumor to be targeted. the tumor is then bombarded with very low-energy neutrons (although often higher than thermal energy) which are captured by the boron-10 isotope in the boron, which produces an excited state of boron-11 that then decays to produce lithium-7 and an alpha particle that have sufficient energy to kill the malignant cell, but insufficient range to damage nearby cells. for such a therapy to be applied to the treatment of cancer, a neutron source having an intensity of the order of a thousand million (109) neutrons per second per cm2 is preferred. such fluxes require a research nuclear reactor.
+
+protection[edit]
+exposure to free neutrons can be hazardous, since the interaction of neutrons with molecules in the body can cause disruption to molecules and atoms, and can also cause reactions that give rise to other forms of radiation (such as protons). the normal precautions of radiation protection apply: avoid exposure, stay as far from the source as possible, and keep exposure time to a minimum. some particular thought must be given to how to protect from neutron exposure, however. for other types of radiation, e.g., alpha particles, beta particles, or gamma rays, material of a high atomic number and with high density make for good shielding; frequently, lead is used. however, this approach will not work with neutrons, since the absorption of neutrons does not increase straightforwardly with atomic number, as it does with alpha, beta, and gamma radiation. instead one needs to look at the particular interactions neutrons have with matter (see the section on detection above). for example, hydrogen-rich materials are often used to shield against neutrons, since ordinary hydrogen both scatters and slows neutrons. this often means that simple concrete blocks or even paraffin-loaded plastic blocks afford better protection from neutrons than do far more dense materials. after slowing, neutrons may then be absorbed with an isotope that has high affinity for slow neutrons without causing secondary capture radiation, such as lithium-6.
+hydrogen-rich ordinary water affects neutron absorption in nuclear fission reactors: usually, neutrons are so strongly absorbed by normal water that fuel enrichment with fissionable isotope is required.[clarification needed] the deuterium in heavy water has a very much lower absorption affinity for neutrons than does protium (normal light hydrogen). deuterium is, therefore, used in candu-type reactors, in order to slow (moderate) neutron velocity, to increase the probability of nuclear fission compared to neutron capture.
+
+neutron temperature[edit]
+main article: neutron temperature
+thermal neutrons[edit]
+a thermal neutron is a free neutron that is boltzmann distributed with kt= 6979405350651211000♠0.0253 ev (6979399999999999999♠4.0×10−21 j) at room temperature. this gives characteristic (not average, or median) speed of 2.2 km/s. the name 'thermal' comes from their energy being that of the room temperature gas or material they are permeating. (see kinetic theory for energies and speeds of molecules). after a number of collisions (often in the range of 10–20) with nuclei, neutrons arrive at this energy level, provided that they are not absorbed.
+in many substances, thermal neutron reactions show a much larger effective cross-section than reactions involving faster neutrons, and thermal neutrons can therefore be absorbed more readily (i.e., with higher probability) by any atomic nuclei that they collide with, creating a heavier – and often unstable – isotope of the chemical element as a result.
+most fission reactors use a neutron moderator to slow down, or thermalize the neutrons that are emitted by nuclear fission so that they are more easily captured, causing further fission. others, called fast breeder reactors, use fission energy neutrons directly.
+
+cold neutrons[edit]
+cold neutrons are thermal neutrons that have been equilibrated in a very cold substance such as liquid deuterium. such a cold source is placed in the moderator of a research reactor or spallation source. cold neutrons are particularly valuable for neutron scattering experiments.[citation needed]
+
+ cold neutron source providing neutrons at about the temperature of liquid hydrogen
+ultracold neutrons[edit]
+ultracold neutrons are produced by elastically scattering cold neutrons in substances with a temperature of a few kelvins, such as solid deuterium or superfluid helium. an alternative production method is the mechanical deceleration of cold neutrons.
+
+fission energy neutrons[edit]
+main article: nuclear fission
+a fast neutron is a free neutron with a kinetic energy level close to 6987160217648700000♠1 mev (6987160000000000000♠1.6×10−13 j), hence a speed of ~7007140000000000000♠14000 km/s (~ 5% of the speed of light). they are named fission energy or fast neutrons to distinguish them from lower-energy thermal neutrons, and high-energy neutrons produced in cosmic showers or accelerators. fast neutrons are produced by nuclear processes such as nuclear fission. neutrons produced in fission, as noted above, have a maxwell–boltzmann distribution of kinetic energies from 0 to ~14 mev, a mean energy of 2 mev (for u-235 fission neutrons), and a mode of only 0.75 mev, which means that more than half of them do not qualify as fast (and thus have almost no chance of initiating fission in fertile materials, such as u-238 and th-232).
+fast neutrons can be made into thermal neutrons via a process called moderation. this is done with a neutron moderator. in reactors, typically heavy water, light water, or graphite are used to moderate neutrons.
+
+fusion neutrons[edit]
+ the fusion reaction rate increases rapidly with temperature until it maximizes and then gradually drops off. the dt rate peaks at a lower temperature (about 70 kev, or 800 million kelvins) and at a higher value than other reactions commonly considered for fusion energy.
+further information: nuclear fusion § criteria and candidates for terrestrial reactions
+d–t (deuterium–tritium) fusion is the fusion reaction that produces the most energetic neutrons, with 14.1 mev of kinetic energy and traveling at 17% of the speed of light. d–t fusion is also the easiest fusion reaction to ignite, reaching near-peak rates even when the deuterium and tritium nuclei have only a thousandth as much kinetic energy as the 14.1 mev that will be produced.
+14.1 mev neutrons have about 10 times as much energy as fission neutrons, and are very effective at fissioning even non-fissile heavy nuclei, and these high-energy fissions produce more neutrons on average than fissions by lower-energy neutrons. this makes d–t fusion neutron sources such as proposed tokamak power reactors useful for transmutation of transuranic waste. 14.1 mev neutrons can also produce neutrons by knocking them loose from nuclei.
+on the other hand, these very high-energy neutrons are less likely to simply be captured without causing fission or spallation. for these reasons, nuclear weapon design extensively utilizes d–t fusion 14.1 mev neutrons to cause more fission. fusion neutrons are able to cause fission in ordinarily non-fissile materials, such as depleted uranium (uranium-238), and these materials have been used in the jackets of thermonuclear weapons. fusion neutrons also can cause fission in substances that are unsuitable or difficult to make into primary fission bombs, such as reactor grade plutonium. this physical fact thus causes ordinary non-weapons grade materials to become of concern in certain nuclear proliferation discussions and treaties.
+other fusion reactions produce much less energetic neutrons. d–d fusion produces a 2.45 mev neutron and helium-3 half of the time, and produces tritium and a proton but no neutron the rest of the time. d–3he fusion produces no neutron.
+
+intermediate-energy neutrons[edit]
+ transmutation flow in light water reactor, which is a thermal-spectrum reactor
+a fission energy neutron that has slowed down but not yet reached thermal energies is called an epithermal neutron.
+cross sections for both capture and fission reactions often have multiple resonance peaks at specific energies in the epithermal energy range.
+these are of less significance in a fast neutron reactor, where most neutrons are absorbed before slowing down to this range, or in a well-moderated thermal reactor, where epithermal neutrons interact mostly with moderator nuclei, not with either fissile or fertile actinide nuclides.
+however, in a partially moderated reactor with more interactions of epithermal neutrons with heavy metal nuclei, there are greater possibilities for transient changes in reactivity that might make reactor control more difficult.
+ratios of capture reactions to fission reactions are also worse (more captures without fission) in most nuclear fuels such as plutonium-239, making epithermal-spectrum reactors using these fuels less desirable, as captures not only waste the one neutron captured but also usually result in a nuclide that is not fissile with thermal or epithermal neutrons, though still fissionable with fast neutrons. the exception is uranium-233 of the thorium cycle, which has good capture-fission ratios at all neutron energies.
+
+high-energy neutrons[edit]
+high-energy neutrons have much more energy than fission energy neutrons and are generated as secondary particles by particle accelerators or in the atmosphere from cosmic rays. these high-energy neutrons are extremely efficient at ionization and far more likely to cause cell death than x-rays or protons.[90][91]
+
+see also[edit]
+
+
+
+wikimedia commons has media related to neutrons.
+ionizing radiation
+isotope
+list of particles
+neutron magnetic moment
+neutron radiation and the sievert radiation scale
+neutronium
+nuclear reaction
+nucleosynthesis
+neutron capture nucleosynthesis
+r-process
+s-process
+thermal reactor
+neutron sources[edit]
+neutron generator
+neutron source
+processes involving neutrons[edit]
+neutron bomb
+neutron diffraction
+neutron flux
+neutron transport
+cosmogenic radionuclide dating
+references[edit]
+
+
+^ ernest rutherford. chemed.chem.purdue.edu. retrieved on 2012-08-16.
+
+^ a b 1935 nobel prize in physics. nobelprize.org. retrieved on 2012-08-16.
+
+^ a b c d e f g h mohr, p.j.; taylor, b.n. and newell, d.b. (2014), "the 2014 codata recommended values of the fundamental physical constants" (web version 7.0). the database was developed by j. baker, m. douma, and s. kotochigova. (2014). national institute of standards and technology, gaithersburg, maryland 20899.
+
+^ a b 
+olive, k.a.; (particle data group);  et al. (2014). "review of particle physics" (pdf). chin. phys. c. 38 (9): 090001. bibcode:2014chphc..38i0001o. doi:10.1088/1674-1137/38/9/090001..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ thomas, a.w.; weise, w. (2001), the structure of the nucleon, wiley-wch, berlin, isbn 978-3-527-40297-7
+
+^ a b 
+chadwick, james (1932). "possible existence of a neutron". nature. 129 (3252): 312. bibcode:1932natur.129q.312c. doi:10.1038/129312a0.
+
+^ hahn, o. & strassmann, f. (1939). "über den nachweis und das verhalten der bei der bestrahlung des urans mittels neutronen entstehenden erdalkalimetalle ("on the detection and characteristics of the alkaline earth metals formed by irradiation of uranium with neutrons")". naturwissenschaften. 27 (1): 11–15. bibcode:1939nw.....27...11h. doi:10.1007/bf01488241.. the authors were identified as being at the kaiser-wilhelm-institut für chemie, berlin-dahlem. received 22 december 1938.
+
+^ a b c glasstone, samuel; dolan, philip j., eds. (1977), the effects of nuclear weapons, third edition, u.s. dept. of defense and energy research and development administration, u.s. government printing office, isbn 978-1-60322-016-3
+
+^ a b 
+carson, m.j.;  et al. (2004). "neutron background in large-scale xenon detectors for dark matter searches". astroparticle physics. 21 (6): 667–687. arxiv:hep-ex/0404042. bibcode:2004aph....21..667c. doi:10.1016/j.astropartphys.2004.05.001.
+
+^ nudat 2. nndc.bnl.gov. retrieved on 2010-12-04.
+
+^ povh, b.; rith, k.; scholz, c.; zetsche, f. (2002). particles and nuclei: an introduction to the physical concepts. berlin: springer-verlag. p. 73. isbn 978-3-540-43823-6.
+
+^ 
+basdevant, j.-l.; rich, j.; spiro, m. (2005). fundamentals in nuclear physics. springer. p. 155. isbn 978-0-387-01672-6.
+
+^ tipler, paul allen; llewellyn, ralph a. (2002). modern physics (4 ed.). macmillan. p. 310. isbn 978-0-7167-4345-3.
+
+^ a b c nakamura, k (2010). "review of particle physics". journal of physics g: nuclear and particle physics. 37 (7a): 075021. bibcode:2010jphg...37g5021n. doi:10.1088/0954-3899/37/7a/075021. pdf with 2011 partial update for the 2012 edition
+the exact value of the mean lifetime is still uncertain, due to conflicting results from experiments.
+the particle data group reports values up to six seconds apart (more than four standard deviations), commenting that "our 2006, 2008, and 2010 reviews stayed with 885.7±0.8 s; but we noted that in light of serebrov 05 our value should be regarded as suspect until further experiments clarified matters. since our 2010 review, pichlmaier 10 has obtained a mean life of 880.7±1.8 s, closer to the value of serebrov 05 than to our average. and serebrov 10b[...] claims their values should be lowered by about 6 s, which would bring them into line with the two lower values. however, those reevaluations have not received an enthusiastic response from the experimenters in question; and in any case the particle data group would have to await published changes (by those experimenters) of published values.
+
+at this point, we can think of nothing better to do than to average the seven best but discordant measurements, getting 881.5±1.5s. note that the error includes a scale factor of 2.7. this is a jump of 4.2 old (and 2.8 new) standard deviations. this state of affairs is a particularly unhappy one, because the value is so important. we again call upon the experimenters to clear this up."
+
+^ 
+adair, r.k. (1989). the great design: particles, fields, and creation. oxford university press. p. 214. bibcode:1988gdpf.book.....a.
+
+^ 
+cottingham, w.n.; greenwood, d.a. (1986). an introduction to nuclear physics. cambridge university press. isbn 9780521657334.
+
+^ a b 
+rutherford, e. (1920). "nuclear constitution of atoms". proceedings of the royal society a. 97 (686): 374–400. bibcode:1920rspsa..97..374r. doi:10.1098/rspa.1920.0040.
+
+^ pauli, wolfgang; hermann, a.; meyenn, k.v; weisskopff, v.f (1985). "das jahr 1932 die entdeckung des neutrons". wolfgang pauli. sources in the history of mathematics and physical sciences. 6. pp. 105–144. doi:10.1007/978-3-540-78801-0_3. isbn 978-3-540-13609-5.
+
+^ hendry, john, ed. (1984), cambridge physics in the thirties, adam hilger ltd, bristol, isbn 978-0852747612
+
+^ 
+feather, n. (1960). "a history of neutrons and nuclei. part 1". contemporary physics. 1 (3): 191–203. bibcode:1960conph...1..191f. doi:10.1080/00107516008202611.
+
+^ brown, laurie m. (1978). "the idea of the neutrino". physics today. 31 (9): 23–28. bibcode:1978pht....31i..23b. doi:10.1063/1.2995181.
+
+^ friedlander g., kennedy j.w. and miller j.m. (1964) nuclear and radiochemistry (2nd edition), wiley, pp. 22–23 and 38–39
+
+^ a b stuewer, roger h. (1985). "niels bohr and nuclear physics".  in french, a.p.; kennedy, p.j. niels bohr: a centenary volume. harvard university press. pp. 197–220. isbn 978-0674624160.
+
+^ pais, abraham (1986). inward bound. oxford: oxford university press. p. 299. isbn 978-0198519973.
+
+^ klein, o. (1929). "die reflexion von elektronen an einem potentialsprung nach der relativistischen dynamik von dirac". zeitschrift für physik. 53 (3–4): 157–165. bibcode:1929zphy...53..157k. doi:10.1007/bf01339716.
+
+^ bothe, w.; becker, h. (1930). "künstliche erregung von kern-γ-strahlen" [artificial excitation of nuclear γ-radiation]. zeitschrift für physik. 66 (5–6): 289–306. bibcode:1930zphy...66..289b. doi:10.1007/bf01390908.
+
+^ becker, h.; bothe, w. (1932). "die in bor und beryllium erregten γ-strahlen" [γ-rays excited in boron and beryllium]. zeitschrift für physik. 76 (7–8): 421–438. bibcode:1932zphy...76..421b. doi:10.1007/bf01336726.
+
+^ joliot-curie, irène & joliot, frédéric (1932). "émission de protons de grande vitesse par les substances hydrogénées sous l'influence des rayons γ très pénétrants" [emission of high-speed protons by hydrogenated substances under the influence of very penetrating γ-rays]. comptes rendus. 194: 273.
+
+^ brown, andrew (1997). the neutron and the bomb: a biography of sir james chadwick. oxford university press. isbn 978-0-19-853992-6.
+
+^ "atop the physics wave: rutherford back in cambridge, 1919–1937". rutherford's nuclear world. american institute of physics. 2011–2014. retrieved 19 august 2014.
+
+^ chadwick, j. (1933). "bakerian lecture. the neutron". proceedings of the royal society a: mathematical, physical and engineering sciences. 142 (846): 1–25. bibcode:1933rspsa.142....1c. doi:10.1098/rspa.1933.0152.
+
+^ heisenberg, w. (1932). "über den bau der atomkerne. i". z. phys. 77 (1–2): 1–11. bibcode:1932zphy...77....1h. doi:10.1007/bf01342433.
+
+^ heisenberg, w. (1932). "über den bau der atomkerne. ii". z. phys. 78 (3–4): 156–164. bibcode:1932zphy...78..156h. doi:10.1007/bf01337585.
+
+^ heisenberg, w. (1933). "über den bau der atomkerne. iii". z. phys. 80 (9–10): 587–596. bibcode:1933zphy...80..587h. doi:10.1007/bf01335696.
+
+^ iwanenko, d.d., the neutron hypothesis, nature 129 (1932) 798.
+
+^ miller a.i. (1995) early quantum electrodynamics: a sourcebook, cambridge university press, cambridge, isbn 0521568919, pp. 84–88.
+
+^ wilson, fred l. (1968). "fermi's theory of beta decay". am. j. phys. 36 (12): 1150–1160. bibcode:1968amjph..36.1150w. doi:10.1119/1.1974382.
+
+^ chadwick, j.; goldhaber, m. (1934). "a nuclear photo-effect: disintegration of the diplon by gamma rays". nature. 134 (3381): 237–238. bibcode:1934natur.134..237c. doi:10.1038/134237a0.
+
+^ chadwick, j.; goldhaber, m. (1935). "a nuclear photoelectric effect". proc. r. soc. lond. 151 (873): 479–493. bibcode:1935rspsa.151..479c. doi:10.1098/rspa.1935.0162.
+
+^ cooper, dan (1999). enrico fermi: and the revolutions in modern physics. new york: oxford university press. isbn 978-0-19-511762-2. oclc 39508200.
+
+^ hahn, o. (1958). "the discovery of fission". scientific american. 198 (2): 76–84. bibcode:1958sciam.198b..76h. doi:10.1038/scientificamerican0258-76.
+
+^ rife, patricia (1999). lise meitner and the dawn of the nuclear age. basel, switzerland: birkhäuser. isbn 978-0-8176-3732-3.
+
+^ hahn, o.; strassmann, f. (10 february 1939). "proof of the formation of active isotopes of barium from uranium and thorium irradiated with neutrons; proof of the existence of more active fragments produced by uranium fission". die naturwissenschaften. 27 (6): 89–95. bibcode:1939nw.....27...89h. doi:10.1007/bf01488988.
+
+^ "the nobel prize in chemistry 1944". nobel foundation. retrieved 2007-12-17.
+
+^ bernstein, jeremy (2001). hitler's uranium club: the secret recordings at farm hall. new york: copernicus. p. 281. isbn 978-0-387-95089-1.
+
+^ "the nobel prize in chemistry 1944: presentation speech". nobel foundation. retrieved 2008-01-03.
+
+^ sir james chadwick’s discovery of neutrons. ans nuclear cafe. retrieved on 2012-08-16.
+
+^ particle data group summary data table on baryons. lbl.gov (2007). retrieved on 2012-08-16.
+
+^ basic ideas and concepts in nuclear physics: an introductory approach, third edition; k. heyde taylor & francis 2004. print isbn 978-0-7503-0980-6, 978-1-4200-5494-1. doi:10.1201/9781420054941. full text
+
+^ greene, gl;  et al. (1986). "new determination of the deuteron binding energy and the neutron mass". phys. rev. lett. 56 (8): 819–822. bibcode:1986phrvl..56..819g. doi:10.1103/physrevlett.56.819. pmid 10033294.
+
+^ byrne, j. neutrons, nuclei, and matter, dover publications, mineola, new york, 2011, isbn 0486482383, pp. 18–19
+
+^ a b gell, y.; lichtenberg, d.b. (1969). "quark model and the magnetic moments of proton and neutron". il nuovo cimento a. series 10. 61 (1): 27–40. bibcode:1969ncima..61...27g. doi:10.1007/bf02760010.
+
+^ alvarez, l.w; bloch, f. (1940). "a quantitative determination of the neutron magnetic moment in absolute nuclear magnetons". physical review. 57 (2): 111–122. bibcode:1940phrv...57..111a. doi:10.1103/physrev.57.111.
+
+^ a b c perkins, donald h. (1982), introduction to high energy physics, addison wesley, reading, massachusetts, pp. 201–202, isbn 978-0-201-05757-7
+
+^ a b 
+greenberg, o.w. (2009), "color charge degree of freedom in particle physics", compendium of quantum physics, springer berlin heidelberg, pp. 109–111, arxiv:0805.0289, doi:10.1007/978-3-540-70626-7_32, isbn 978-3-540-70622-9
+
+^ beg, m.a.b.; lee, b.w.; pais, a. (1964). "su(6) and electromagnetic interactions". physical review letters. 13 (16): 514–517, erratum 650. bibcode:1964phrvl..13..514b. doi:10.1103/physrevlett.13.514.
+
+^ sakita, b. (1964). "electromagnetic properties of baryons in the supermultiplet scheme of elementary particles". physical review letters. 13 (21): 643–646. bibcode:1964phrvl..13..643s. doi:10.1103/physrevlett.13.643.
+
+^ a b cho, adrian (2 april 2010). "mass of the common quark finally nailed down". science. american association for the advancement of science. retrieved 27 september 2014.
+
+^ wilczek, f. (2003). "the origin of mass" (pdf). mit physics annual: 24–35. retrieved may 8, 2015.
+
+^ 
+ji, xiangdong (1995). "a qcd analysis of the mass structure of the nucleon". phys. rev. lett. 74 (7): 1071–1074. arxiv:hep-ph/9410274. bibcode:1995phrvl..74.1071j. doi:10.1103/physrevlett.74.1071. pmid 10058927.
+
+^ 
+martinelli, g.; parisi, g.; petronzio, r.; rapuano, f. (1982). "the proton and neutron magnetic moments in lattice qcd". physics letters b. 116 (6): 434–436. bibcode:1982phlb..116..434m. doi:10.1016/0370-2693(82)90162-9. retrieved may 8, 2015.
+
+^ kincade, kathy (2 february 2015). "pinpointing the magnetic moments of nuclear matter". phys.org. retrieved may 8, 2015.
+
+^ a b j. byrne (2011). neutrons, nuclei and matter: an exploration of the physics of slow neutrons. mineola, new york: dover publications. pp. 28–31. isbn 978-0486482385.
+
+^ hughes, d.j.; burgy, m.t. (1949). "reflection and polarization of neutrons by magnetized mirrors" (pdf). phys. rev. 76 (9): 1413–1414. bibcode:1949phrv...76.1413h. doi:10.1103/physrev.76.1413.
+
+^ sherwood, j.e.; stephenson, t.e.; bernstein, s. (1954). "stern-gerlach experiment on polarized neutrons". phys. rev. 96 (6): 1546. bibcode:1954phrv...96.1546s. doi:10.1103/physrev.96.1546.
+
+^ 
+miller, g.a. (2007). "charge densities of the neutron and proton". physical review letters. 99 (11): 112001. arxiv:0705.2409. bibcode:2007phrvl..99k2001m. doi:10.1103/physrevlett.99.112001. pmid 17930428.
+
+^ 
+"pear-shaped particles probe big-bang mystery" (press release). university of sussex. 20 february 2006. retrieved 2009-12-14.
+
+^ a cryogenic experiment to search for the edm of the neutron. hepwww.rl.ac.uk. retrieved on 2012-08-16.
+
+^ search for the neutron electric dipole moment: nedm. nedm.web.psi.ch (2001-09-12). retrieved on 2012-08-16.
+
+^ us nedm ornl experiment public page. retrieved on 2017-02-08.
+
+^ sns neutron edm experiment archived 2011-02-10 at the wayback machine. p25ext.lanl.gov. retrieved on 2012-08-16.
+
+^ measurement of the neutron electric dipole moment. nrd.pnpi.spb.ru. retrieved on 2012-08-16.
+
+^ kisamori, k.;  et al. (2016). "candidate resonant tetraneutron state populated by the he4(he8,be8) reaction". physical review letters. 116 (5): 052501. bibcode:2016phrvl.116e2501k. doi:10.1103/physrevlett.116.052501. pmid 26894705.
+
+^ "physicists find signs of four-neutron nucleus". 2016-02-24.
+
+^ orr, nigel (2016-02-03). "can four neutrons tango?". physics. 9. retrieved 2016-04-11.
+
+^ spyrou, a.;  et al. (2012). "first observation of ground state dineutron decay: 16be". physical review letters. 108 (10): 102501. bibcode:2012phrvl.108j2501s. doi:10.1103/physrevlett.108.102501. pmid 22463404.
+
+^ llanes-estrada, felipe j.; moreno navarro, gaspar (2012). "cubic neutrons". modern physics letters a. 27 (6): 1250033–1–1250033–7. arxiv:1108.1859. bibcode:2012mpla...2750033l. doi:10.1142/s0217732312500332.
+
+^ knoll, glenn f. (1979). "ch. 14". radiation detection and measurement. john wiley & sons. isbn 978-0471495451.
+
+^ köhn, c.; ebert, u. (2015). "calculation of beams of positrons, neutrons and protons associated with terrestrial gamma-ray flashes". j. geophys. res. atmospheres. 23 (4): 1620–1635. bibcode:2015jgrd..120.1620k. doi:10.1002/2014jd022229.
+
+^ köhn, c.; diniz, g.; harakeh, muhsin (2017). "production mechanisms of leptons, photons, and hadrons and their possible feedback close to lightning leaders". j. geophys. res. atmospheres. 122 (2): 1365. bibcode:2017jgrd..122.1365k. doi:10.1002/2016jd025445. pmid 28357174.
+
+^ clowdsley, ms; wilson, jw; kim, mh; singleterry, rc; tripathi, rk; heinbockel, jh; badavi, ff; shinn, jl (2001). "neutron environments on the martian surface" (pdf). physica medica. 17 (suppl 1): 94–96. pmid 11770546. archived from the original (pdf) on 2005-02-25.
+
+^ byrne, j. neutrons, nuclei, and matter, dover publications, mineola, new york, 2011, isbn 0486482383, pp. 32–33.
+
+^ science/nature |q&a: nuclear fusion reactor. bbc news (2006-02-06). retrieved on 2010-12-04.
+
+^ byrne, j. neutrons, nuclei, and matter, dover publications, mineola, new york, 2011, isbn 0486482383, p. 453.
+
+^ kumakhov, m.a.; sharov, v.a. (1992). "a neutron lens". nature. 357 (6377): 390–391. bibcode:1992natur.357..390k. doi:10.1038/357390a0.
+
+^ physorg.com, "new way of 'seeing': a 'neutron microscope'". physorg.com (2004-07-30). retrieved on 2012-08-16.
+
+^ "nasa develops a nugget to search for life in space". nasa.gov (2007-11-30). retrieved on 2012-08-16.
+
+^ hall ej (2000). radiobiology for the radiologist. lippincott williams & wilkins; 5th edition
+
+^ johns he and cunningham jr (1978). the physics of radiology. charles c thomas 3rd edition
+
+^ freeman, tami (may 23, 2008). "facing up to secondary neutrons". medical physics web. archived from the original on 2010-12-20. retrieved 2011-02-08.
+
+^ heilbronn, l.; nakamura, t; iwata, y; kurosawa, t; iwase, h; townsend, lw (2005). "expand+overview of secondary neutron production relevant to shielding in space". radiation protection dosimetry. 116 (1–4): 140–143. doi:10.1093/rpd/nci033. pmid 16604615.
+
+
+further reading[edit]
+james byrne, neutrons, nuclei and matter: an exploration of the physics of slow neutrons. mineola, new york: dover publications, 2011. isbn 0486482383.
+abraham pais, inward bound, oxford: oxford university press, 1986. isbn 0198519974.
+sin-itiro tomonaga, the story of spin, the university of chicago press, 1997
+herwig schopper, weak interactions and nuclear beta decay, publisher, north-holland pub. co., 1966.
+annotated bibliography for neutrons from the alsos digital library for nuclear issues
+vteparticles in physicselementaryfermionsquarks
+up (quark
+antiquark)
+down (quark
+antiquark)
+charm (quark
+antiquark)
+strange (quark
+antiquark)
+top (quark
+antiquark)
+bottom (quark
+antiquark)
+leptons
+electron
+positron
+muon
+antimuon
+tau
+antitau
+electron neutrino
+electron antineutrino
+muon neutrino
+muon antineutrino
+tau neutrino
+tau antineutrino
+bosonsgauge
+photon
+gluon
+w and z bosons
+scalar
+higgs boson 
+ghost fields
+faddeev–popov ghosts
+hypotheticalsuperpartnersgauginos
+gluino
+gravitino
+photino
+others
+higgsino
+neutralino
+chargino
+axino
+sfermion (stop squark)
+others
+planck particle
+axion
+dilaton
+dual graviton
+graviton
+leptoquark
+majoron
+majorana fermion
+magnetic monopole
+preon
+sterile neutrino
+tachyon
+w′ and z′ bosons
+x and y bosons
+compositehadronsbaryons / hyperons
+nucleon
+proton
+antiproton
+neutron
+antineutron
+delta baryon
+lambda baryon
+sigma baryon
+xi baryon
+omega baryon
+mesons / quarkonia
+pion
+rho meson
+eta and eta prime mesons
+phi meson
+j/psi meson
+omega meson
+upsilon meson
+kaon
+b meson
+d meson
+exotic hadrons
+tetraquark
+pentaquark
+others
+atomic nuclei
+atoms
+exotic atoms
+positronium
+muonium
+tauonium
+onia
+superatoms
+molecules
+hypotheticalhypothetical baryons
+hexaquark
+skyrmion
+hypothetical mesons
+glueball
+theta meson
+t meson
+others
+mesonic molecule
+pomeron
+diquarks
+quasiparticles
+davydov soliton
+dropleton
+exciton
+hole
+magnon
+phonon
+plasmaron
+plasmon
+polariton
+polaron
+roton
+trion
+lists
+baryons
+mesons
+particles
+quasiparticles
+timeline of particle discoveries
+related
+history of subatomic physics
+timeline
+standard model
+mathematical formulation
+subatomic particles
+particles
+antiparticles
+nuclear physics
+eightfold way
+quark model
+exotic matter
+massless particle
+relativistic particle
+virtual particle
+wave–particle duality
+wikipedia books
+hadronic matter
+particles of the standard model
+leptons
+quarks
+ physics portal
+authority control 
+gnd: 4041964-2
+ndl: 00573932
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=neutron&oldid=880140433"					
+categories: neutronbaryonsnucleonshidden categories: webarchive template wayback linkswikipedia indefinitely move-protected pagespages using deprecated image syntaxall articles with unsourced statementsarticles with unsourced statements from june 2012wikipedia articles needing clarification from may 2015commons category link from wikidatawikipedia articles with gnd identifierswikipedia articles with ndl identifiers 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+afrikaansalemannischالعربيةasturianuazərbaycancaتۆرکجهবাংলাbân-lâm-gúбеларускаябеларуская (тарашкевіца)‎българскиbosanskibrezhonegcatalàчӑвашлаčeštinacymraegdanskdeutscheestiελληνικάespañolesperantoeuskaraفارسیfiji hindifrançaisfryskfurlangaeilgegalegoхальмг한국어հայերենहिन्दीhrvatskiidobahasa indonesiainterlinguaíslenskaitalianoעבריתkabɩyɛಕನ್ನಡкъарачай-малкъарქართულიқазақшаkiswahilikreyòl ayisyenkurdîкыргызчаlatinalatviešulëtzebuergeschlietuviųlimburgslingálalingua franca novalumbaartmagyarмакедонскиമലയാളംमराठीbahasa melayumìng-dĕ̤ng-ngṳ̄монголမြန်မာဘာသာnederlandsनेपालीनेपाल भाषा日本語nordfriisknorsknorsk nynorsknovialoccitanoʻzbekcha/ўзбекчаਪੰਜਾਬੀپنجابیپښتوpatoispiemontèisplattdüütschpolskiportuguêsripoarischromânăruna simiрусскийscotsseelterskshqipsicilianuසිංහලsimple englishسنڌيslovenčinaslovenščinasoomaaligaکوردیсрпски / srpskisrpskohrvatski / српскохрватскиbasa sundasuomisvenskatagalogதமிழ்татарча/tatarçaతెలుగుไทยtürkçeᨅᨔ ᨕᨘᨁᨗукраїнськаاردوvènetotiếng việtvõro文言winaraywolofייִדיש粵語žemaitėška中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 25 january 2019, at 16:33 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"1.716","walltime":"2.087","ppvisitednodes":{"value":11803,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":466329,"limit":2097152},"templateargumentsize":{"value":13666,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":19,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":241545,"limit":5000000},"entityaccesscount":{"value":5,"limit":400},"timingprofile":["100.00% 1608.366      1 -total"," 48.56%  781.023      1 template:reflist"," 25.23%  405.807     41 template:cite_journal","  9.36%  150.603      1 template:infobox_particle","  9.09%  146.185      1 template:infobox","  6.71%  107.842     26 template:subatomicparticle","  6.20%   99.716      1 template:commons_category","  6.05%   97.346     33 template:physics_particle","  5.96%   95.930     10 template:navbox","  5.51%   88.684     33 template:val"]},"scribunto":{"limitreport-timeusage":{"value":"0.850","limit":"10.000"},"limitreport-memusage":{"value":13127354,"limit":52428800}},"cachereport":{"origin":"mw1257","timestamp":"20190217191022","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":2235,"wghostname":"mw1257"});});
+
+

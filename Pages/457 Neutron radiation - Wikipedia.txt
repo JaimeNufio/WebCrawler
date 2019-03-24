@@ -1,0 +1,293 @@
+
+
+
+
+neutron radiation - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"neutron_radiation","wgtitle":"neutron radiation","wgcurrevisionid":880157649,"wgrevisionid":880157649,"wgarticleid":410923,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["all accuracy disputes","articles with disputed statements from march 2018","iarc group 1 carcinogens","ionizing radiation","neutron","neutron-related techniques"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"neutron_radiation","wgrelevantarticleid":410923,"wgrequestid":"xgrukqpaicwaaelae9kaaabl","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q922364","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+neutron radiation 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+science with neutrons
+foundations
+neutron temperature
+flux · radiation · transport
+cross section · absorption · activation
+
+neutron scattering
+neutron diffraction
+small-angle neutron scattering
+gisans
+reflectometry
+inelastic neutron scattering
+triple-axis spectrometer
+time-of-flight spectrometer
+backscattering spectrometer
+spin-echo spectrometer
+
+other applications
+neutron tomography
+activation analysis · prompt gamma activation analysis
+fundamental research with neutrons: ultracold neutrons · interferometry
+fast neutron therapy
+neutron capture therapy
+
+infrastructure
+neutron sources: research reactor · spallation · neutron moderator
+neutron optics: guide · supermirror · polarizer
+detection
+
+neutron facilities
+america:  hfir · lansce · nist cnr -sns
+australia: opal
+asia: j-parc · hanaro
+europe: ber ii · frm ii · ill · isis neutron and muon source · jinr · llb · pins · sinq
+historic: ipns · hfbr
+under construction: ess
+vte
+neutron radiation is a form of ionizing radiation that presents as free neutrons. typical phenomena are  nuclear fission or nuclear fusion causing the release of free neutrons, which then react with nuclei of other atoms to form new isotopes—which, in turn, may trigger further neutron radiation.  free neutrons are unstable, decaying into a proton, an electron, plus an anti-electron-neutrino with a mean lifetime of 887 seconds (about 14 minutes, 47 seconds).[1]
+
+contents
+
+1 sources
+
+1.1 neutron radiation from fission
+1.2 cosmogenic neutrons
+
+
+2 uses
+3 ionization mechanisms and properties
+4 health hazards and protection
+5 effects on materials
+6 see also
+7 references
+8 external links
+
+
+sources[edit]
+main article: neutron source
+see also: category:neutron sources
+neutrons may be emitted from nuclear fusion or nuclear fission, or from other nuclear reactions such as radioactive decay or particle interactions with cosmic rays or within particle accelerators. large neutron sources are rare, and usually limited to large-sized devices such as nuclear reactors or particle accelerators, including the spallation neutron source.
+neutron radiation was discovered from observing  an alpha particle colliding with a beryllium nucleus, which was transformed into a carbon nucleus while emitting a neutron, be(α, n)c. the combination of an alpha particle emitter and an isotope with a large (α, n) nuclear reaction probability is still a common neutron source.
+
+neutron radiation from fission[edit]
+the neutrons in nuclear reactors are generally categorized as slow (thermal) neutrons or fast neutrons depending on their energy. thermal neutrons are similar in energy distribution (the maxwell–boltzmann distribution) to a gas in thermodynamic equilibrium but are easily captured by atomic nuclei and are the primary means by which elements undergo nuclear transmutation.
+to achieve an effective fission chain reaction, neutrons produced during fission must be captured by fissionable nuclei, which then split, releasing more neutrons. in most fission reactor designs, the nuclear fuel is not sufficiently refined to absorb enough fast neutrons to carry on the chain reaction, due to the lower cross section for higher-energy neutrons, so a neutron moderator must be introduced to slow the fast neutrons down to thermal velocities to permit sufficient absorption. common neutron moderators include graphite, ordinary (light) water and heavy water. a few reactors (fast neutron reactors) and all nuclear weapons rely on fast neutrons. this requires certain changes in the design and in the required nuclear fuel.  the element beryllium is particularly useful due to its ability to act as a neutron reflector or lens. this lets smaller quantities of fissile material be used and is a primary technical development that led to the creation of neutron bombs.[dubious  – discuss]
+
+cosmogenic neutrons[edit]
+main article: cosmogenic neutron
+cosmogenic neutrons, neutrons produced from cosmic radiation in the earth's atmosphere or surface, and those produced in particle accelerators can be significantly higher energy than those encountered in reactors. most of them activate a nucleus before reaching the ground; a few react with nuclei in the air. the reactions with nitrogen-14 lead to the formation of carbon-14, widely used in radiocarbon dating.
+
+uses[edit]
+cold, thermal and hot neutron radiation is most commonly used in scattering and diffraction experiments, to assess the properties and the structure of materials in crystallography, condensed matter physics, biology, solid state chemistry, materials science, geology, mineralogy and related sciences. neutron radiation is also used in select facilities to treat cancerous tumors due to its highly penetrating and damaging nature to cellular structure.  neutrons can also be used for imaging of industrial parts termed neutron radiography when using film, neutron radioscopy when taking a digital image, such as through image plates, and neutron tomography for three-dimensional images. neutron imaging is commonly used in the nuclear industry, the space and aerospace industry, as well as the high reliability explosives industry.
+
+ionization mechanisms and properties[edit]
+neutron radiation is often called indirectly ionizing radiation. it does not ionize atoms in the same way that charged particles such as protons and electrons do (exciting an electron), because neutrons have no charge. however, neutron interactions are largely ionizing, for example when neutron absorption results in gamma emission and the gamma ray (photon) subsequently removes an electron from an atom, or a nucleus recoiling from a neutron interaction is ionized and causes more traditional subsequent ionization in other atoms. because neutrons are uncharged, they are more penetrating than alpha radiation or beta radiation. in some cases they are more penetrating than gamma radiation, which is impeded in materials of high atomic number. in materials of low atomic number such as hydrogen, a low energy gamma ray may be more penetrating than a high energy neutron.
+
+health hazards and protection[edit]
+in health physics neutron radiation is a type of radiation hazard. another, sometimes more severe hazard of neutron radiation, is neutron activation, the ability of neutron radiation to induce radioactivity in most substances it encounters, including the body tissues.[2] this occurs through the capture of neutrons by atomic nuclei, which are transformed to another nuclide, frequently a radionuclide. this process accounts for much of the radioactive material released by the detonation of a nuclear weapon. it is also a problem in nuclear fission and nuclear fusion installations as it gradually renders the equipment radioactive such that eventually it must be replaced and disposed of as low-level radioactive waste.
+neutron radiation protection relies on radiation shielding. due to the high kinetic energy of neutrons, this radiation is considered the most severe and dangerous radiation to the whole body when it is exposed to external radiation sources. in comparison to conventional ionizing radiation based on photons or charged particles, neutrons are repeatedly bounced and slowed (absorbed) by light nuclei so hydrogen-rich material is more effective at shielding than iron nuclei. the light atoms serve to slow down the neutrons by elastic scattering so they can then be absorbed by nuclear reactions. however, gamma radiation is often produced in such reactions, so additional shielding must be provided to absorb it. care must be taken to avoid using nuclei that undergo fission or neutron capture that causes radioactive decay of nuclei, producing gamma rays.
+neutrons readily pass through most material, and hence the absorbed dose (measured in grays) from a given amount of radiation is low, but interact enough to cause biological damage. the most effective shielding materials are water, or hydrocarbons like polyethylene or paraffin wax. water-extended polyester (wep) is effective as a shielding wall in harsh environments due to its high hydrogen content and resistance to fire, allowing it to be used in a range of nuclear, health physics, and defense industries.[3] hydrogen-based materials are suitable for shielding as they are proper barriers against radiation.[4]
+concrete (where a considerable number of water molecules chemically bind to the cement) and gravel provide a cheap solution due to their combined shielding of both gamma rays and neutrons. boron is also an excellent neutron absorber (and also undergoes some neutron scattering). boron decays into carbon or helium and produces virtually no gamma radiation with boron carbide, a shield commonly used where concrete would be cost prohibitive. commercially, tanks of water or fuel oil, concrete, gravel, and b4c are common shields that surround areas of large amounts of neutron flux, e.g., nuclear reactors. boron-impregnated silica glass, standard borosilicate glass, high-boron steel, paraffin, and plexiglas have niche uses.
+because neutrons that strike the hydrogen nucleus (proton, or deuteron) impart energy to that nucleus, they in turn break from their chemical bonds and travel a short distance before stopping. such hydrogen nuclei are high linear energy transfer particles, and are in turn stopped by ionization of the material they travel through. consequently, in living tissue, neutrons have a relatively high relative biological effectiveness, and are roughly ten times more effective at causing biological damage compared to gamma or beta radiation of equivalent energy exposure. these neutrons can either cause cells to change in their functionality or to completely stop reproducing, causing damage to the body over time.[5] neutrons are particularly damaging to soft tissues like the cornea of the eye.
+
+effects on materials[edit]
+high-energy neutrons damage and degrade materials over time; bombardment of materials with neutrons creates collision cascades that can produce point defects and 
+dislocations in the material, the creation of which is the primary driver behind microstructural changes occurring over time in materials exposed to radiation. at high neutron fluences this can lead to embrittlement of metals and other materials, and to swelling in some of them. this poses a problem for nuclear reactor vessels and significantly limits their lifetime (which can be somewhat prolonged by controlled annealing of the vessel, reducing the number of the built-up dislocations). graphite moderator blocks are especially susceptible to this effect, known as wigner effect, and must be annealed periodically. the windscale fire was caused by a mishap during such an annealing operation.
+radiation damage to materials occurs as a result of the interaction of an energetic incident particle (a neutron, or otherwise) with a lattice atom in the material. the collision causes a massive transfer of kinetic energy to the lattice atom, which is displaced from its lattice site, becoming what is known as the primary knock-on atom (pka). because the pka is surrounded by other lattice atoms, its displacement and passage through the lattice results in many subsequent collisions and the creations of additional knock-on atoms, producing what is known as the collision cascade or displacement cascade. the knock-on atoms lose energy with each collision, and terminate as interstitials, effectively creating a series of frenkel defects in the lattice. heat is also created as a result of the collisions (from electronic energy loss), as are possibly transmuted atoms. the magnitude of the damage is such that a single 1 mev neutron creating a pka in an iron lattice produces approximately 1100 frenkel pairs.[6] the entire cascade event occurs over a timescale of 10^-13 seconds, and therefore, can only be 'observed' in computer simulations of the event[7]
+the knock-on atoms terminate in non-equilibrium interstitial lattice positions, many of which annihilate themselves by diffusing back into neighboring vacant lattice sites and restore the ordered lattice. those that do not or cannot leave vacancies, which causes a local rise in the vacancy concentration far above that of the equilibrium concentration. these vacancies tend to migrate as a result of thermal diffusion towards vacancy sinks (i.e., grain boundaries, dislocations) but exist for significant amounts of time, during which additional high-energy particles bombard the lattice, creating collision cascades and additional vacancies, which migrate towards sinks. the main effect of irradiation in a lattice is the significant and persistent flux of defects to sinks in what is known as the defect wind. vacancies can also annihilate by combining with one another to form dislocation loops and later, lattice voids.[6]
+the collision cascade creates many more vacancies and interstitials in the material than equilibrium for a given temperature, and diffusivity in the material is dramatically increased as a result. this leads to an effect called radiation enhanced diffusion, which leads to microstructural evolution of the material over time. the mechanisms leading to the evolution of the microstructure are many, may vary with temperature, flux, and fluence, and are a subject of extensive study[8]
+
+radiation-induced segregation results from the aforementioned flux of vacancies to sinks, implying a flux of lattice atoms away from sinks: but not necessarily in the same proportion to alloy composition in the case of an alloyed material. these fluxes may therefore lead to depletion of alloying elements in the vicinity of sinks. for the flux of interstitials introduced by the cascade, the effect is reversed: the interstitials diffuse toward sinks resulting in alloy enrichment near the sink.[6]
+dislocation loops are formed if vacancies form clusters on a lattice plane. if these vacancy concentration expand in three dimensions, a void forms. by definition, voids are under vacuum, but may became gas-filled in the case of alpha-particle radiation (helium) or if the gas is produced as a result of transmutation reactions. the void is then called a bubble, and leads to dimensional instability (swelling) of parts subject to radiation. swelling presents a major long-term design problem, especially in reactor components made out of stainless steel.[9] alloys with crystallographic isotropy, such as zircaloys are subject to the creation of dislocation loops, but do not exhibit void formation. instead, the loops form on particular lattice planes, and can lead to irradiation-induced growth, a phenomenon distinct from swelling, but that can also produce significant dimensional changes in an alloy.[10]
+irradiation of materials can also induce phase transformations in the material: in the case of a solid solution, the solute enrichment or depletion at sinks radiation-induced segregation can lead to the precipitation of new phases in the material.[11]
+the mechanical effects of these mechanisms include irradiation hardening, embrittlement, creep, and environmentally-assisted cracking. the defect clusters, dislocation loops, voids, bubbles, and precipitates produced as a result of radiation in a material all contribute to the strengthening and embrittlement (loss of ductility) in the material[12] embrittlement is of particular concern for the material comprising the reactor pressure vessel, where as a result the energy required to fracture the vessel decreases significantly. it is possible to restore ductility by annealing the defects out, and much of the life-extension of nuclear reactors depends on the ability to safely do so. creep is also greatly accelerated in irradiated materials, though not as a result of the enhanced diffusivities, but rather as a result of the interaction between lattice stress and the developing microstructure. environmentally-assisted cracking or, more specifically, irradiation assisted stress corrosion cracking (iascc) is observed especially in alloys subject to neutron radiation and in contact with water,  caused by hydrogen absorption at crack tips resulting from radiolysis of the water, leading to a reduction in the required energy to propagate the crack.[6]
+
+see also[edit]
+neutron emission
+neutron flux
+neutron radiography
+references[edit]
+
+
+^ yue, a. t.; dewey, m. s.; gilliam, d. m.; greene, g. l.; laptev, a. b.; nico, j. s.; snow, w. m.; wietfeldt, f. e. (27 november 2013). "improved determination of the neutron lifetime". physical review letters. 111 (22): 222501. arxiv:1309.2623. bibcode:2013phrvl.111v2501y. doi:10.1103/physrevlett.111.222501  – via aps..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ "how radiation damages tissue". michigan state university. retrieved 2017-12-21.
+
+^ "neutron radiation shielding". www.frontier-cf252.com. frontier technology corporation. retrieved 2017-12-21.
+
+^ carrillo, héctor rené vega (2006-05-15). "neutron shielding performance of water-extended polyester" (pdf). ta-3 dosimetry and instrumentation. retrieved 2017-12-21.
+
+^ specialist, wpi, environmental information services -- shawn denny, information architect; mike pizzuti, graphic designer; chelene neal, web information specialist; kate bessiere, web information. "advisory committee on human radiation experiments final report". ehss.energy.gov. retrieved 2017-12-21.
+
+^ a b c d [dunand, david. "materials in nuclear power generation." materials science & engineering 381: materials for energy efficient technology. northwestern university, evanston. 3 feb. 2015. lecture]
+
+^ a. struchbery, e. bezakova "thermal-spike lifetime from picosecond-duration preequilibrium effects in hyperfine magnetic fields following ion implantation". 3 may. 1999.
+
+^ thomé, l.; moll, s.; debelle, a.; garrido, f.; sattonnay, g.; jagielski, j. (1 june 2018). "radiation effects in nuclear ceramics". advances in materials science and engineering. 2012: 1–13. doi:10.1155/2012/905474.
+
+^ cawthorne, c.; fulton, e. j. (1 november 1967). "voids in irradiated stainless steel" (pdf). nature. 216 (5115): 575–576. bibcode:1967natur.216..575c. doi:10.1038/216575a0.
+
+^ adamson, r. "effects of neutron radiation on microstructure and the properties of zircaloy" 1977. 08 feb. 2015.
+
+^ hyun ju jin, tae kyu kim. "neutron irradiation performance of zircaloy-4 under research reactor operating conditions." annals of nuclear energy. 13 sept. 2014 web. 08 feb. 2015.
+
+^ baroch, cj. effects of radiation on structural materials. astm.org. astm international. pp. 129–129–14. doi:10.1520/stp33683s.
+
+
+https://journals.aps.org/prl/abstract/10.1103/physrevlett.111.222501
+
+external links[edit]
+epa definitions of various terms
+comparison of neutron radiographic and x-radiographic images
+neutron techniques a unique tool for research and development
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=neutron_radiation&oldid=880157649"					
+categories: iarc group 1 carcinogensionizing radiationneutronneutron-related techniqueshidden categories: all accuracy disputesarticles with disputed statements from march 2018 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+languages
+
+
+češtinadanskdeutscheestiespañolفارسیmagyarnederlands日本語polskiportuguêsрусскийsuomisvenskaไทยtürkçeاردو中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 25 january 2019, at 18:38 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.312","walltime":"0.385","ppvisitednodes":{"value":929,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":31892,"limit":2097152},"templateargumentsize":{"value":702,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":28775,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  288.196      1 -total"," 60.85%  175.371      1 template:reflist"," 41.16%  118.629      3 template:cite_journal"," 16.04%   46.236      1 template:dubious"," 14.29%   41.184      1 template:fix"," 13.55%   39.057      1 template:science_with_neutrons"," 12.47%   35.939      1 template:sidebar","  8.76%   25.245      1 template:category_handler","  5.32%   15.323      3 template:cite_web","  4.19%   12.083      1 template:delink"]},"scribunto":{"limitreport-timeusage":{"value":"0.148","limit":"10.000"},"limitreport-memusage":{"value":4646135,"limit":52428800}},"cachereport":{"origin":"mw1240","timestamp":"20190203022107","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":95,"wghostname":"mw1323"});});
+
+

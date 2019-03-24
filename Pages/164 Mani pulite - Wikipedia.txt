@@ -1,0 +1,590 @@
+
+
+
+
+mani pulite - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"mani_pulite","wgtitle":"mani pulite","wgcurrevisionid":878924878,"wgrevisionid":878924878,"wgarticleid":377779,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["articles containing italian-language text","all articles with unsourced statements","articles with unsourced statements from may 2018","articles with italian-language external links","history of the italian republic","political history of italy","modern history of italy","law enforcement in italy","political corruption"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"mani_pulite","wgrelevantarticleid":377779,"wgrequestid":"xgb6sgpaaeqaahpbmfkaaads","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfexpandallsectionsuseroption":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q921474","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+mani pulite 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+
+
+clean hands(italian: mani pulite)
+
+
+
+former prime minister bettino craxi greeted by a salvo of coins as a sign of loathing by protesters.
+
+
+
+country:
+
+italy
+
+
+since:
+
+february 17, 1992
+
+
+judges:
+
+antonio di pietrogherardo colombopiercamillo davigo
+
+mani pulite (italian: [ˈmaːni puˈliːte], italian for "clean hands") was a nationwide judicial investigation into political corruption in italy held in the 1990s. mani pulite led to the demise of the so-called "first republic", resulting in the disappearance of many political parties. some politicians and industry leaders committed suicide after their crimes were exposed. antonio di pietro was the main judicial figure in charge of the operation.
+in some accounts, as many as 5,000 public figures fell under suspicion. at one point, more than half of the members of the italian parliament were under indictment. more than 400 city and town councils were dissolved because of corruption charges. the estimated value of bribes paid annually in the 1980s by italian and foreign companies bidding for large government contracts reached us$4 billion dollars (6.5 trillion lire).[1]
+the corrupt system uncovered by the investigation was referred to as tangentopoli (italian pronunciation: [tandʒenˈtɔːpoli]).[2] the term derives from tangente, which means "kickback" and in this context refers to kickbacks given for public works contracts,[1] and poli meaning city;[3] it is thus sometimes translated as "bribesville" or "kickback city".
+
+contents
+
+1 arrest of mario chiesa
+2 extension of anti-corruption investigations
+3 effect on national politics
+4 the cusani trial
+5 investigations on other fronts
+6 escalating conflict between berlusconi and di pietro
+7 statutory term strategy
+8 lottizzazione
+9 in modern culture
+10 see also
+11 references
+12 further reading
+13 external links
+
+
+arrest of mario chiesa[edit]
+tangentopoli began on 17 february 1992 when judge antonio di pietro had mario chiesa, a member of the centre-left italian socialist party (psi), arrested for accepting a bribe from a milan cleaning firm. the psi distanced themselves from chiesa, with psi leader bettino craxi calling him mariuolo, or "villain", a "wild splinter" of the otherwise clean party. upset over this treatment by his former colleagues, chiesa began to give information about corruption implicating them. this marked the beginning of the mani pulite investigation; news of political corruption began spreading in the italian press.
+
+extension of anti-corruption investigations[edit]
+in the 1992 elections, the centre-right christian democracy (dc) held on to power when its coalition government kept a small majority, while leftist opposition parties gained support. however, the italian communist party split after the fall of the soviet union, depriving the opposition of leadership. many votes went to the far-right lega nord, which was not inclined to form alliances with other parties at the time. the resulting parliament was therefore weak and difficult to bring to an agreement.
+during april 1992, many industrial figures and politicians from both the government and the opposition were arrested on charges of corruption. while the investigations started in milan, they quickly spread to other towns as more politicians confessed. one grotesque situation occurred when a socialist politician immediately confessed to all of his crimes to two carabinieri who had come to his house, only to later discover that they had come to deliver a mere fine for a traffic violation.[citation needed]
+fundamental to this increased exposure was the general attitude of the main politicians to drop support for subordinates who got caught; this made many of them feel betrayed, and they often implicated many other figures, who in turn would implicate even more. on 2 september 1992, the socialist politician sergio moroni, charged with corruption, committed suicide. he left a letter pleading guilty, declaring that crimes were not for his personal gain but for the party's benefit, and accused the financing system of all the political parties.
+
+effect on national politics[edit]
+in the local december elections, dc lost half of their votes. the day after that, craxi was officially accused of corruption. after many other politicians were accused and jailed, craxi eventually resigned from the psi.
+on 5 march 1993, the italian government of giuliano amato and his justice minister giovanni conso tried to find a solution with a decree, which allowed criminal charges for several bribery-related crimes to be replaced by administrative charges instead; according to italian popular opinion at the time, that would have resulted in a de facto amnesty for most corruption charges. amid public outrage and nationwide rallies, the italian president oscar luigi scalfaro refused to sign the decree, deeming it unconstitutional. the following week, a us$250 million affair involving eni, the government-controlled national energy company, was revealed. the stream of accusations, confessions and jailing continued.
+on 25 march, the italian parliament changed the municipal electoral law in favor of a majoritarian system. later, on 18 april, the public overwhelmingly backed the abrogation of the existing proportional representation parliamentary electoral law in a referendum (a mixed system was introduced that august), causing amato to resign three days later. still shocked by the recent events, the parliament was unable to produce a new government. carlo azeglio ciampi, former governor of the bank of italy, was appointed head of the government; he appointed a technical government without political influences. in the meantime, the investigation of craxi was blocked by the parliament. several members of the government, having been in office just three days, resigned in protest; among them were minister of the environment francesco rutelli and minister of finance vincenzo visco. in new local elections on 6 june 1993, dc lost half of its votes once again; the psi virtually disappeared. instead lega nord, a far-right protest movement, became the strongest political force in northern italy. the left-wing opposition was approaching majority, but still lacked unity and leadership.
+eventually, all four parties in the 1992 government disappeared, at different times in different ways: dc, the psi, the italian socialist democratic party, and the italian liberal party. the democratic party of the left, the italian republican party and the movimento sociale italiano were the only surviving national parties; the republican party is the only one that has maintained its name since.
+
+the cusani trial[edit]
+on 20 july 1993, the former eni president, gabriele cagliari, committed suicide in jail. his wife later gave back us$3 million of illegal funds. meanwhile, cusani faced trial and was accused of crimes connected to enimont, a joint venture between eni and another energy company, montedison. the trial was broadcast on national television, and was a sort of showcase of the old politics being brought to their responsibilities. while cusani himself was not a major figure, the connection of his crimes to the enimont affair called in all the nation's major politicians as witnesses.
+a high note was reached in the cusani trial when former head of government arnaldo forlani, answering a question, simply said, "i don't remember"; he happened to be very nervous and did not notice that sweat was accumulating on his lips, and that image was by many considered symbolic of the people's disgust for the corrupt system. craxi, instead, admitted that his party received $93 million of illegal funds, defending his actions by saying that "everyone was doing this." even the lega nord was implicated in the trial; secretary umberto bossi and former treasurer alessandro patelli were convicted for receiving 200 million lire of illegal funding (approx. $100,000 at the time).
+a bribe to the italian communist party was alleged, but it was not established who had committed the offence. a number of milanese members of the democratic party of the left were charged with corruption during their time as members of the pci, but they were acquitted. as prosecutor antonio di pietro stated, "penal responsibility is personal. i cannot bring here a person with the first name party and last name communist. (la responsabilità penale è personale, non posso portare in giudizio una persona che si chiami partito di nome e comunista di cognome.)
+the enimont trial itself was carried out after the cusani trial, with much less public interest.
+
+investigations on other fronts[edit]
+in the meantime, the investigation expanded outside the political range: on 2 september 1993, the milan judge diego curtò was arrested. on 21 april 1994, 80 financial regulators and 300 industry personalities were charged with corruption. a few days later, the secretary of fiat admitted corruption with a letter to a newspaper. media tycoon silvio berlusconi entered politics later that year and won the 1994 general election, in what many thought was a move to shield his many business concerns from possible scrutiny. this suspicion was reinforced on 11 february, when berlusconi's brother, paolo, admitted to corruption crimes. 
+on 13 july 1994, the berlusconi government made a new law to avoid jail time for most corruption crimes, the passage of which was timed to coincide with italy's defeat of bulgaria in the 1994 football world cup's semifinals in the hopes that the public would be distracted. however, as roberto baggio shot high the last penalty against brazil, and newscasts showed images of corrupt politicians leaving jail, public opinion became enraged; the images of francesco de lorenzo, former minister of health, were especially striking, since the general public perceived stealing money from hospitals an especially heinous act.
+just a few days before, the arrested regulators had been talking about corruption in fininvest, the holding company controlled by the berlusconi family. most of the judge pool declared that they would respect the state's laws, but they could not work in a situation where duty and conscience were to conflict: they requested therefore to be reassigned to other duties. since the government could not afford to be seen as an adversary of the popular judge pool, the decree was hastily revoked and marked a "misunderstanding"; interior minister roberto maroni, of lega nord, claimed that he had not even had the chance to read it. while the minister of justice was alfredo biondi, allegations that the decree was written by cesare previti, a lawyer from fininvest, are at least credible.
+on 29 july berlusconi's brother was again arrested and immediately released.
+
+escalating conflict between berlusconi and di pietro[edit]
+at this point a public conflict erupted between berlusconi and di pietro. while berlusconi's companies were being investigated, "inspectors" were sent from the government to the milanese judges' office to look for formal irregularities. none were ever found, but this tactic, coupled with berlusconi's firm grip on the media, helped spread what is described in other environments as fear, uncertainty and doubt. the battle ended without winners: di pietro resigned on 6 december, two weeks before the berlusconi government resigned ahead a critical confidence vote in parliament that was expected to go against them.
+during 1995, many investigations were started against di pietro, who would years later be cleared of all charges. meanwhile, berlusconi incurred other charges of corruption. it was later found that the man prosecuting di pietro, fabio salamone from brescia, was the brother of a man that di pietro himself had prosecuted and sent to jail for various corruption charges. however, it wasn't until later that authorities realized the conflict of interest and reassigned salamone, even though his investigations had taken a completely different direction: paolo berlusconi and previti were accused of a conspiracy against di pietro, but the prosecutor who later replaced salamone asked for their acquittal and so did the court.
+after being cleared, di pietro went into politics, despite previously not wishing to exploit the popularity gained doing what he perceived to be just his duty. his movement is named italia dei valori ("italy of values"). in 1998, cesare previti, then sitting in parliament after the berlusconi government, avoided jail thanks to parliamentary intervention, even though berlusconi and his allies were in opposition. craxi was sentenced to several years cumulative jail time in definitive convictions and fled to tunisia, where he remained until his death on 19 january 2000.
+
+statutory term strategy[edit]
+after 1994, trials became likely to be cancelled due to the expiration of statutory terms. the government ignored the pleas of the judiciary system for more funding to buy equipment, and passed laws that made italy's notoriously slow legal system even slower and subject to earlier prescription. the intricate nature of these laws allowed lawyers to use many delaying tactics: an instructive example was a prosecution of berlusconi, where he was accused of misappropriation of fininvest's funds in order to prepare black funds that could have been used for bribes or other illegitimate purposes; on the last possible day, a lawyer from fininvest appeared in court and complained that his company had not been formally notified of the trial. while this trial was well publicized in the media, the formality forced the trial to be restarted from scratch, and berlusconi was finally acquitted by expiration of statutory terms. being acquitted in this first trial, he could later benefit from a general reduction of terms for other trials, which in turn expired earlier with a domino effect.
+after berlusconi's victory in the 2001 election, public opinion had turned so far against judges, where it is not only openly acceptable to criticize them for having carried out mani pulite, but also increasingly difficult to broadcast opinions favorable to milan's pool. some blame berlusconi's media influence as having played a role in this change, or the inability of the opposition to gain the consent of conservative electors. even umberto bossi, whose lega nord has been an opposition party, became highly critical of judges.
+
+lottizzazione[edit]
+the term lottizzazione, meaning the way a terrain is divided up in minor parts or lotti, came to indicate the procedure of awarding top positions in important state conglomerates such as iri, enel or eni to political figures, or at least managers with a clear political orientation. this usually trickled down to lower levels, creating power centres depending on political parties that controlled a significant part of the production system. the available seats were usually awarded so that government parties (and opposition parties like the italian communist party) would get a share of power corresponding to their perceived influence in the government.
+
+in modern culture[edit]
+in 2005, artist gianni motti created a piece of soap, named mani pulite, based on the scandal. this piece was claimed to have been created out of the fat from a liposuction of silvio berlusconi. it was sold at the 36th edition of art basel for 15,000 euros.[4]
+a 2015 television series titled 1992 is based on the events of mani pulite.[5]
+
+see also[edit]
+
+
+italy portal
+1990s portal
+criminal justice portal
+politics portal
+history of italy as a republic
+giovanni falcone
+bancopoli (italian scandal in 2005)
+calciopoli
+tangentopoli
+-gate suffix
+references[edit]
+
+
+^ a b stephen p. koff (2002). italy: from the 1st to the 2nd republic. routledge. p. 2. isbn 978-0-203-00536-1..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ moliterno, gino (2000). encyclopedia of contemporary italian culture. routledge. isbn 0-415-14584-8.
+
+^ -poli is also used as a suffix for a scandal (e.g. calciopoli, scommessopoli), much like "-gate" in the english language (i.e. zippergate, russiagate).
+
+^ http://www.repubblica.it/2005/f/sezioni/spettacoli_e_cultura/motti/sapovendu/sapovendu.html
+
+^ young, deborah. "'1992': berlin review". the hollywood reporter. retrieved 15 march 2016.
+
+
+further reading[edit]
+nelken, david (1996). a legal revolution? the judges and tangentopoli. the new italian republic: from the fall of the berlin wall to berlusconi. routledge. pp. 191–205.
+buonanno, paolo; prarolo, giovanni; vanin, paolo (january 2016). "organized crime and electoral outcomes. evidence from sicily at the turn of the xxi century". european journal of political economy. elsevier. 41: 61–74. doi:10.1016/j.ejpoleco.2015.11.002.
+external links[edit]
+(in italian) tangentopoli e il crollo dei partiti
+(in italian) mani pulite
+(in italian) [1]
+italy's 'clean hands' judges bite their nails - new york times
+vteitaly articleshistorychronology
+prehistory
+italic peoples
+ancient peoples of italy
+pre-nuragic sardinia
+nuragic peoples
+etruscan civilization
+nuragic civilization
+phoenician/carthaginian colonies
+magna graecia
+ancient rome
+kingdom
+republic
+empire
+middle ages
+italy under odoacer
+ostrogoths
+byzantium
+lombards
+the holy roman empire
+the sardinian judicates
+arabs
+normans
+guelphs and ghibellines
+the italian city-states
+the maritime republics
+renaissance
+italian wars
+early modern period
+unification
+revolutions of 1820
+revolutions of 1830
+revolutions of 1848
+sicilian revolution of 1848
+first war of independence
+crimean war
+second war of independence
+expedition of the thousand
+third war of independence
+capture of rome
+monarchy and the world wars
+kingdom of italy
+colonial empire
+world war i
+fascist italy
+world war ii
+resistance
+civil war
+republic
+economic boom
+years of lead
+years of mud
+mani pulite
+by topic
+citizenship
+currency
+economy
+fashion
+flags
+genetic
+historic states
+military
+music
+postal
+railways
+geography
+peninsula
+northern
+northwest
+northeast
+central
+southern
+south
+insular
+climate
+fauna
+flora
+mountains
+prealps
+alps
+apennines
+volcanology
+volcanoes
+beaches
+canals
+caves
+earthquakes
+islands
+lakes
+national parks
+rivers
+valleys
+politics
+constitution
+elections
+referendums
+foreign relations
+missions
+judiciary
+law enforcement
+military
+parliament
+chamber of deputies
+senate
+political parties
+president
+prime minister
+council of ministers
+regions
+provinces
+metropolitan cities
+comune
+municipalities
+cities
+economy
+economic history
+milan
+naples
+rome
+turin
+regions by gdp
+automotive industry
+banking
+central bank
+companies
+energy
+government debt
+science and technology
+stock exchange
+taxation
+telecommunications
+internet
+tourism
+trade unions
+transportation
+welfare
+society
+abortion
+adoption
+billionaires
+capital punishment
+corruption
+crime
+demographics
+education
+secondary
+higher
+universities
+emigration
+fathers' rights movement
+feminism
+gambling
+health
+healthcare
+immigration
+lgbt rights
+nobility
+prostitution
+racism
+religion
+smoking
+social class
+terrorism
+women
+culture
+duecento
+trecento
+quattrocento
+cinquecento
+seicento
+settecento
+architecture
+art
+castles
+cinema
+cuisine
+beer
+wine
+cultural icons
+decorations
+design
+fashion
+festivals
+folklore
+italian language
+regional italian
+italian literature
+italophilia
+italophobia
+languages
+media
+newspapers
+radio
+tv
+monuments
+music
+classical
+folk
+opera
+popular
+mythology
+national symbols
+anthem
+emblem
+flag
+regions
+national monument
+personification
+people
+philosophy
+public holidays
+festa della repubblica
+sculpture
+sport
+traditions
+world heritage sites
+
+ italy portal
+ category
+ commons
+ news
+quotes
+travel
+ wikiproject
+
+vteitalian socialist partysecretary
+carlo dell'avalle (1892-1894)
+filippo turati (1895-1896)
+enrico ferri (1896)
+carlo dell'avalle (1896-1898)
+alfredo bertesi (1898-1899)
+enrico bertini (1899-1900)
+savino varazzani (1900-1904)
+enrico ferri (1904-1906)
+oddino morgari (1906-1908)
+pompeo ciotti (1908-1912)
+costantino lazzari (1912-1918)
+egidio gennari (1918)
+costantino lazzari (1918-1919)
+arturo vella (1919)
+nicola bombacci (1919-1920)
+egidio gennari (1920-1921)
+giovanni bacci (1921)
+domenico fioritto (1921-1923)
+tito oro nobili (1923-1925)
+olindo vernocchi (1925-1930)
+ugo coccia (1930-1932)
+pietro nenni (1933-1939)
+giuseppe saragat, oddino morgari and angelo tasca (1939-1942)
+giuseppe romita (1942–1943)
+pietro nenni (1943–1945)
+sandro pertini (1945)
+rodolfo morandi (1945–1946)
+ivan matteo lombardo (1946–1947)
+lelio basso (1947–1948)
+alberto jacometti (1948–1949)
+pietro nenni (1949–1963)
+francesco de martino (1963–1968)
+mario tanassi  (1966–1968)
+mauro ferri (1968–1969)
+francesco de martino (1969–1970)
+giacomo mancini (1970–1972)
+francesco de martino (1972–1976)
+bettino craxi (1976–1993)
+giorgio benvenuto (1993)
+ottaviano del turco (1993–1994)
+valdo spini (1994)
+related articles
+italian labour party
+italian revolutionary socialist party
+fasci siciliani
+avanti!
+critica sociale
+marxism
+revolutionary socialism
+maximalists
+national syndicalism
+reformist socialism
+democratic socialism
+division over world war i
+national liberation committee
+italian resistance movement
+craxism
+sigonella incident
+banco ambrosiano scandal
+mani pulite
+derivatives
+italian reformist socialist party
+fasci of revolutionary action / national fascist party / republican fascist party
+communist party of italy / italian communist party / international communist party
+unitary socialist party
+maximalist italian socialist party
+socialist unity
+italian democratic socialist party
+italian socialists / italian democratic socialists / socialist league
+labour federation
+reformist socialist party
+socialist party / new italian socialist party
+forza italia (social-democrats faction)
+democracy is freedom – the daisy (social-democrats faction)
+alliances
+popular democratic front (1947-1948)
+organic centre-left (1962-1976)
+unified socialist party (1966-1971)
+pentapartito (1981-1993)
+alliance of progressives (1994)
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=mani_pulite&oldid=878924878"					
+categories: history of the italian republicpolitical history of italymodern history of italylaw enforcement in italypolitical corruptionhidden categories: articles containing italian-language textall articles with unsourced statementsarticles with unsourced statements from may 2018articles with italian-language external links 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+languages
+
+
+العربيةcatalàčeštinadeutschespañolesperantofrançaishrvatskiíslenskaitalianoעבריתmagyar日本語norskpolskiportuguêsрусскийshqipsrpskohrvatski / српскохрватскиsvenskatürkçeукраїнськаvèneto 
+edit links 
+
+
+
+
+
+ this page was last edited on 17 january 2019, at 20:28 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.512","walltime":"0.674","ppvisitednodes":{"value":1474,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":116023,"limit":2097152},"templateargumentsize":{"value":20723,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":22,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":13373,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  541.773      1 -total"," 27.90%  151.159      1 template:lang-it"," 22.74%  123.220      7 template:navbox"," 20.92%  113.341      1 template:italy_topics"," 20.24%  109.639      1 template:country_topics"," 19.16%  103.795      1 template:reflist"," 15.23%   82.496      3 template:cite_book","  8.98%   48.649      1 template:citation_needed","  7.90%   42.801      1 template:fix","  5.92%   32.084      3 template:category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.284","limit":"10.000"},"limitreport-memusage":{"value":13483879,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1274","timestamp":"20190210121548","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"mani pulite","url":"https:\/\/en.wikipedia.org\/wiki\/mani_pulite","sameas":"http:\/\/www.wikidata.org\/entity\/q921474","mainentity":"http:\/\/www.wikidata.org\/entity\/q921474","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2003-11-24t17:33:38z","datemodified":"2019-01-17t20:28:03z"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":101,"wghostname":"mw1273"});});
+
+

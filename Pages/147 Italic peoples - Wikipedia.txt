@@ -1,0 +1,846 @@
+
+
+
+
+italic peoples - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"italic_peoples","wgtitle":"italic peoples","wgcurrevisionid":883089309,"wgrevisionid":883089309,"wgarticleid":2237587,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["italic peoples","indo-european peoples"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"italic_peoples","wgrelevantarticleid":2237587,"wgrequestid":"xgxtewpaaeyaag1z@kmaaaaw","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q3617880","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+italic peoples 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+part of a series onindo-european topics
+languages
+list of indo-european languages
+
+historical
+albanian
+armenian
+balto-slavic
+baltic
+slavic
+celtic
+germanic
+hellenic
+greek
+indo-iranian
+indo-aryan
+iranian
+italic
+romance
+extinct
+anatolian
+tocharian
+paleo-balkan
+dacian
+illyrian
+liburnian
+messapian
+mysian
+paeonian
+phrygian
+thracian
+
+reconstructed
+proto-indo-european language
+phonology: sound laws, accent, ablaut
+
+hypothetical
+daco-thracian
+graeco-armenian
+graeco-aryan
+graeco-phrygian
+indo-hittite
+italo-celtic
+thraco-illyrian
+
+grammar
+vocabulary
+root
+verbs
+nouns
+pronouns
+numerals
+particles
+
+other
+proto-anatolian
+proto-armenian
+proto-germanic (proto-norse)
+proto-celtic
+proto-italic
+proto-greek
+proto-balto-slavic (proto-slavic)
+proto-indo-iranian (proto-iranian)
+
+philology
+hittite texts
+hieroglyphic luwian
+linear b
+rigveda
+avesta
+homer
+behistun
+gaulish epigraphy
+latin epigraphy
+runic epigraphy
+ogam
+gothic bible
+armenian bible
+slanting brahmi
+old irish glosses
+
+origins
+homeland
+proto-indo-europeans
+society
+religion
+
+mainstream
+kurgan hypothesis
+indo-european migrations
+eurasian nomads
+
+alternative and fringe
+anatolian hypothesis
+armenian hypothesis
+indigenous aryans
+baltic homeland
+paleolithic continuity theory
+
+archaeology
+chalcolithic (copper age)
+pontic steppe
+
+domestication of the horse
+kurgan
+kurgan culture
+steppe cultures
+bug–dniester
+sredny stog
+dnieper–donets
+samara
+khvalynsk
+yamnaya
+mikhaylovka culture
+novotitorovka culture
+caucasus
+
+maykop
+east asia
+
+afanasievo
+eastern europe
+
+usatovo
+cernavodă
+cucuteni
+northern europe
+
+corded ware
+baden
+middle dnieper
+
+bronze age
+pontic steppe
+
+chariot
+yamnaya
+catacomb
+multi-cordoned ware
+poltavka
+srubna
+northern/eastern steppe
+
+abashevo culture
+andronovo
+sintashta
+europe
+
+globular amphora
+corded ware
+beaker
+unetice
+trzciniec
+nordic bronze age
+terramare
+tumulus
+urnfield
+lusatian
+south asia
+
+bmac
+yaz
+gandhara grave
+
+iron age
+steppe
+
+chernoles
+europe
+
+thraco-cimmerian
+hallstatt
+jastorf
+caucasus
+
+colchian
+india
+
+painted grey ware
+northern black polished ware
+
+peoples and societies
+bronze age
+anatolian peoples (hittites) 
+armenians
+mycenaean greeks
+indo-iranians
+iron age
+indo-aryans
+
+indo-aryans
+iranians
+
+iranians
+scythians
+persians
+medes
+parthians
+east asia
+
+wusun
+yuezhi
+europe
+
+celts
+gauls
+celtiberians
+insular celts
+cimmerians
+hellenic peoples
+italic peoples
+germanic peoples
+paleo-balkans/anatolia
+thracians
+dacians
+illyrians
+phrygians
+middle ages
+east asia
+
+tocharians
+europe
+
+balts
+slavs
+albanians
+norsemen/medieval scandinavians
+medieval europe
+indo-aryan
+
+medieval india
+iranian
+
+greater persia
+
+religion and mythology
+reconstructed
+proto-indo-european religion
+proto-indo-iranian religion
+ancient iranian religion
+
+historical
+hittite
+indian
+
+vedic
+hinduism
+buddhism
+jainism
+sikhism
+iranian
+
+persian
+zoroastrianism
+kurdish
+yazidism
+yarsanism
+scythian
+ossetian
+others
+
+armenian
+europe
+
+paleo-balkans
+greek
+roman
+celtic
+irish
+scottish
+breton
+welsh
+cornish
+germanic
+anglo-saxon
+continental
+norse
+baltic
+latvian
+lithuanian
+slavic
+albanian
+practices
+fire sacrifice
+horse sacrifice
+sati
+winter solstice/yule
+
+indo-european studies
+scholars
+marija gimbutas
+j. p. mallory
+institutes
+copenhagen studies in indo-european
+publications
+encyclopedia of indo-european culture
+the horse, the wheel and language
+journal of indo-european studies
+indogermanisches etymologisches wörterbuch
+indo-european etymological dictionary
+vte
+the italic peoples were an indo-european ethnolinguistic group identified by their use of italic languages.
+the italic peoples descended from indo-europeans who migrated into italy in the 2nd millennium bc. latins achieved a dominant position among these tribes, establishing ancient roman civilization. during this development, other italic tribes adopted latin language and culture in a process known as romanization. with the creation of the roman empire, romanization was extended beyond the italian peninsula and spread to much of europe.
+the modern ethnic groups descended from this linguistic development speak romance languages, and are collectively referred to as romance peoples or latin peoples. this includes the italians, french people, spaniards, romanians, portuguese people, and others.
+
+contents
+
+1 classification
+2 history
+
+2.1 copper age
+2.2 early and middle bronze age
+2.3 late bronze age
+2.4 iron age
+2.5 antiquity
+2.6 rise of the romance languages
+
+
+3 see also
+4 references
+5 bibliography
+
+
+classification[edit]
+ ethnolinguistic map of italy in the iron age.
+the italics were an ethnolinguistic group who are identified by their use of the italic languages, which form one of the branches of indo-european languages. 
+the term is sometimes used improperly, especially in non-specialised literature, to also refer to pre-roman peoples like the etruscans and the raetians, who did not speak indo-european languages.[1]
+
+history[edit]
+see also: indo-european migrations and list of ancient italic peoples
+copper age[edit]
+during the copper age, at the same time as metalworking appeared, indo-european people are believed to have migrated to italy in several waves.[2] associated with this migration are the rinaldone culture and remedello culture in northern italy, and the gaudo culture of southern italy. these cultures were led by a warrior-aristocracy and are considered intrusive.[2] their indo-european character is suggested due to the presence of weapons in burials, the appearance of the horse in italy at this time and material similarities with cultures of central europe.[2]
+
+early and middle bronze age[edit]
+ indo-european migrations. source david anthony (2007), the horse, the wheel and language
+according to david w. anthony, between 3100–3000 bc, a massive migration of indo-europeans from the yamnaya culture took place into the danube valley. thousands of kurgans are attributed to this event. these migrations probably split off pre-italic, pre-celtic and pre-germanic from proto-indo-european.[3] by this time the anatolian peoples and the tocharians had already split of from other indo-europeans.[4] hydronymy shows that proto-germanic homeland is in central germany, which would be very close to the homeland of italic and celtic languages as well.[5] the origin of a hypothetical ancestral "italo-celtic" people is to be found in today's eastern hungary, settled around 3100 bc by the yamnaya culture. this hypothesis is to some extent supported by the observation that italic shares a large number of isoglosses and lexical terms with celtic and germanic, some of which are more likely to be attributed to the bronze age.[2] in particular, using bayesian phylogenetic methods, russell gray and quentin atkinson argued that proto-italic speakers separated from proto-germanic ones 5500 years before present, i.e. roughly the start of the bronze age.[6] this is further confirmed by the fact that the germanic language family shares more vocabulary with the italic family than with the celtic language family.[7]
+from the late 3rd to the early 2nd millennium bc, tribes coming both from the north and from franco-iberia brought the beaker culture[8] and the use of bronze smithing, to the po valley, to tuscany and to the coasts of sardinia and sicily. the beakers could have been the link which brought the yamnaya dialects from hungary to austria and bavaria. these dialects might then have developed into proto-celtic.[9] the arrival of indo-europeans into italy is in some sources ascribed to the beakers.[1] a migration across the alps from east-central europe by italic tribes is though to have occurred around 1800 bc.[10][11]
+in the mid-2nd millennium bc, the terramare culture developed in the po valley.[12] the terramare culture takes its name from the black earth (terra marna) residue of settlement mounds, which have long served the fertilizing needs of local farmers. these people were still hunters, but had domesticated animals; they were fairly skillful metallurgists, casting bronze in moulds of stone and clay, and they were also agriculturists, cultivating beans, the vine, wheat and flax. the latino-faliscan people have been associated with this culture, especially by the archaeologist luigi pigorini.[2]
+
+late bronze age[edit]
+ the villanovan culture in 900 bc
+the urnfield culture might have brought proto-italic people from among the "italo-celtic" tribes who remained in hungary into italy.[9] these tribes are thought to have penetrated italy from the east during the late 2nd millennium bc through the proto-villanovan culture.[9] they later crossed the apennine mountains and settled central italy, including latium. before 1000 bc several italic tribes had probably entered italy. these divided into various groups and gradually came to occupy central italy and southern italy.[11] this period was characterized by widespread upheaval in the mediterranean, including the emergence of the sea peoples and the late bronze age collapse.[13]
+the proto-villanovan culture dominated the peninsula and replaced the preceding apennine culture. the proto-villanovans practiced cremation and buried the ashes of their dead in pottery urns of a distinctive double-cone shape. generally speaking, proto-villanovan settlements have been found in almost the whole italian peninsula from veneto to eastern sicily, although they were most numerous in the northern-central part of italy. the most important settlements excavated are those of frattesina in veneto region, bismantova in emilia-romagna and near the monti della tolfa, north of rome. the osco-umbrians, the veneti, and possibly the latino-faliscans too, have been associated with this culture.
+in the 13th century bc, proto-celts (probably the ancestors of the lepontii people), coming from the area of modern-day switzerland, eastern france and south-western germany (rsfo urnfield group), entered northern italy (lombardy and eastern piedmont), starting the canegrate culture, who not long time after, merging with the indigenous ligurians, produced the mixed golasecca culture.
+
+iron age[edit]
+ italy (as defined by today's borders) in 400 bc.
+in the early iron age, the relatively homogeneous proto-villanovan culture shows a process of fragmentation and regionalisation. in tuscany and in part of emilia-romagna, latium and campania, the proto-villanovan culture was followed by the villanovan culture. the villanovan culture is closely associated with the celtic halstatt culture of alpine austria, and is characterised by the introduction of iron-working, the practice of cremation coupled with the burial of the ashes in distinctive pottery. the earliest remains of villanovan culture date back to approx. 1100 bc.
+in the region south of the tiber (latium vetus), the latial culture of the latins emerges, while in the north-east of the peninsula the este culture of the veneti appeared. roughly in the same period, from their core area in central italy (modern-day umbria and sabina region), the osco-umbrians began to emigrate in various waves, through the process of ver sacrum, the ritualized extension of colonies, in southern latium, molise and the whole southern half of the peninsula, replacing the previous tribes, such as the opici and the oenotrians. this corresponds with the emergence of the terni culture, which had strong similarities with the celtic cultures of hallstatt and la tène.[14] the umbrian necropolis of terni, which dates back to the 10th century bc, was identical under every aspect, to the celtic necropolis of the golasecca culture.[15]
+
+antiquity[edit]
+by the mid-1st millenium bc, the latins of rome were growing in power and influence. this led to the establishment of ancient roman civilization. in order to combat the non-italic etruscans, several italic tribes united in the latin league. after the latins had liberated themselves from etruscan rule they acquired a dominant position among the italic tribes. frequent conflict between various italic tribes followed. the best documented of these are the wars between the latins and the samnites.[1]
+the latins eventually succeeded in unifying the italic elements in the country. many non-latin italic tribes adopted latin culture and acquired roman citizenship. during this time italic colonies were established throughout the country, and non-italic elements eventually adoted latin language and culture in a process known as romanization.[11] in the early 1st century bc, several italic tribes, in particular the marsi and the samnites, rebelled against roman rule. this conflict is called the social war. after roman victory was secured, all peoples in italy, except from the celts of the po valley, were granted roman citizenship.[1]
+
+rise of the romance languages[edit]
+romanization was eventually extended to the european areas dominated by roman empire. roman methods of organization and technology also spread to the germanic tribes living along rome's european frontier. in the 5th-century ad these tribes migrated into the western roman empire and amalgamated with the local latin-speaking population.[1] the germanic migration left a vacuum filled by the slavs.[1]
+after the collapse of the western roman empire, the use of the latin language retreated in size, but was still widely used, such as through the catholic church as well as by others like the germanic visigoths and the catholic frankish kingdom of clovis.[16]:1 in part due to regional dialects of the latin language and local environments, several languages evolved from it, the romance languages.[16]:4 the ethnic groups that emerged from this development are collectively referred to as romance peoples or latin peoples.[1][17] the spanish and portuguese languages prominently spread into north, central, and south america through colonization.[16]:8,10 the french language has spread to most inhabited continents through colonialism, however the ethnic qualification of the italic ethnolinguistic group is only found in france, and some parts of haiti. [16]:13–15 the italian language developed as a national language of italy beginning in the 19th century out of several similar romance dialects.[16]:312 the romanian language has developed primarily in the daco-romanian variant that is the national language of romania and moldova, but also with other romanian variants such as the aromanian spoken in bulgaria, greece, albania, montenegro, serbia and macedonia by the aromanian minority.
+romance ethnic groups include:[17]
+
+
+andorrans[18]
+aromanians
+asturians
+canarians
+catalans[19]
+corsicans[20]
+french people[21]
+galicians
+italians (including vaticans and sammarinese)[22]
+leonese
+ligurians
+monacans
+normans (historically)
+occitans
+piedmontese
+portuguese
+romands[23]
+romanians (including moldovans)
+romansh people
+sards[24]
+savoyards
+sicilians
+spaniards
+walloons
+
+see also[edit]
+list of ancient italic peoples
+romance-speaking world
+legacy of the roman empire
+pan-latinism
+references[edit]
+
+
+^ a b c d e f g waldman & mason 2006, p. 452-459
+
+^ a b c d e mallory 1997, p. 314-319
+
+^ anthony 2007, p. 305
+
+^ anthony 2007, p. 344
+
+^ hans, wagner. "anatolien war nicht ur-heimat der indogermanischen stämme". eurasischesmagazin. retrieved 20 july 2016..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ "language evolution and human history: what a difference a date makes, russell d. gray, quentin d. atkinson and simon j. greenhill (2011)".
+
+^ "a grammar of proto-germanic, winfred p. lehmann jonathan slocum" (pdf).
+
+^ p144, richard bradley the prehistory of britain and ireland, cambridge university press, 2007, isbn 0-521-84811-3
+
+^ a b c anthony 2007, p. 367
+
+^ "italic languages: origins of the italic languages". encyclopædia britannica online. retrieved july 10, 2018.
+
+^ a b c "history of europe: romans". encyclopædia britannica online. retrieved july 10, 2018.
+
+^ pearce, mark (december 1, 1998). "new research on the terramare of northern italy". antiquity.
+
+^ waldman & mason 2006, p. 620-658
+
+^ leonelli, valentina. la necropoli delle acciaierie di terni: contributi per una edizione critica (cestres ed.). p. 33.
+
+^ farinacci, manlio. carsulae svelata e terni sotterranea. associazione culturale umru - terni.
+
+^ a b c d e harris, martin; vincent, nigel (2001). romance languages. london, england, uk: routledge.
+
+^ a b minahan 2000, p. 776
+
+^ minahan 2000, p. 47
+
+^ minahan 2000, p. 156
+
+^ minahan 2000, p. 182
+
+^ minahan 2000, p. 257
+
+^ minahan 2000, p. 343
+
+^ minahan 2000, p. 545
+
+^ minahan 2000, p. 588
+
+
+bibliography[edit]
+anthony, david (2007). the horse, the wheel, and language: how bronze-age riders from the eurasian steppes shaped the modern world. princeton university press. isbn 978-0-691-05887-0.
+devoto, giacomo; buti, gianna g. (1974). preistoria e storia delle regioni d'italia. florence: sansoni.
+devoto, giacomo (1951). gli antichi italici. florence: vallechi.
+mallory, j. p. (1997). encyclopedia of indo-european culture. douglas q. adams. isbn 1884964982. retrieved 23 march 2013.
+minahan, james (2000). one europe, many nations: a historical dictionary of european national groups. greenwood publishing group. isbn 0313309841.
+moscati, sabatino (1998). così nacque l'italia: profili di popoli riscoperti. turin: società editrice internazionale.
+pigorini, luigi (1910). gli abitanti primitivi dell'italia. rome: bertero.
+villar, francisco (1997). gli indoeuropei e le origini dell'europa. bologna: il mulino. isbn 88-15-05708-0.
+waldman, carl; mason, catherine (2006). encyclopedia of european peoples. infobase publishing. isbn 1438129181.
+vteitaly articleshistorychronology
+prehistory
+italic peoples
+ancient peoples of italy
+pre-nuragic sardinia
+nuragic peoples
+etruscan civilization
+nuragic civilization
+phoenician/carthaginian colonies
+magna graecia
+ancient rome
+kingdom
+republic
+empire
+middle ages
+italy under odoacer
+ostrogoths
+byzantium
+lombards
+the holy roman empire
+the sardinian judicates
+arabs
+normans
+guelphs and ghibellines
+the italian city-states
+the maritime republics
+renaissance
+italian wars
+early modern period
+unification
+revolutions of 1820
+revolutions of 1830
+revolutions of 1848
+sicilian revolution of 1848
+first war of independence
+crimean war
+second war of independence
+expedition of the thousand
+third war of independence
+capture of rome
+monarchy and the world wars
+kingdom of italy
+colonial empire
+world war i
+fascist italy
+world war ii
+resistance
+civil war
+republic
+economic boom
+years of lead
+years of mud
+mani pulite
+by topic
+citizenship
+currency
+economy
+fashion
+flags
+genetic
+historic states
+military
+music
+postal
+railways
+geography
+peninsula
+northern
+northwest
+northeast
+central
+southern
+south
+insular
+climate
+fauna
+flora
+mountains
+prealps
+alps
+apennines
+volcanology
+volcanoes
+beaches
+canals
+caves
+earthquakes
+islands
+lakes
+national parks
+rivers
+valleys
+politics
+constitution
+elections
+referendums
+foreign relations
+missions
+judiciary
+law enforcement
+military
+parliament
+chamber of deputies
+senate
+political parties
+president
+prime minister
+council of ministers
+regions
+provinces
+metropolitan cities
+comune
+municipalities
+cities
+economy
+economic history
+milan
+naples
+rome
+turin
+regions by gdp
+automotive industry
+banking
+central bank
+companies
+energy
+government debt
+science and technology
+stock exchange
+taxation
+telecommunications
+internet
+tourism
+trade unions
+transportation
+welfare
+society
+abortion
+adoption
+billionaires
+capital punishment
+corruption
+crime
+demographics
+education
+secondary
+higher
+universities
+emigration
+fathers' rights movement
+feminism
+gambling
+health
+healthcare
+immigration
+lgbt rights
+nobility
+prostitution
+racism
+religion
+smoking
+social class
+terrorism
+women
+culture
+duecento
+trecento
+quattrocento
+cinquecento
+seicento
+settecento
+architecture
+art
+castles
+cinema
+cuisine
+beer
+wine
+cultural icons
+decorations
+design
+fashion
+festivals
+folklore
+italian language
+regional italian
+italian literature
+italophilia
+italophobia
+languages
+media
+newspapers
+radio
+tv
+monuments
+music
+classical
+folk
+opera
+popular
+mythology
+national symbols
+anthem
+emblem
+flag
+regions
+national monument
+personification
+people
+philosophy
+public holidays
+festa della repubblica
+sculpture
+sport
+traditions
+world heritage sites
+
+ italy portal
+ category
+ commons
+ news
+quotes
+travel
+ wikiproject
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=italic_peoples&oldid=883089309"					
+categories: italic peoplesindo-european peoples 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commons 
+
+
+
+languages
+
+
+العربيةaragonésasturianuazərbaycancaбеларускаябеларуская (тарашкевіца)‎българскиbosanskicatalàčeštinadanskdeutscheestiespañolesperantofrançais한국어հայերենhrvatskiitalianoעבריתlingua franca novaмакедонскиnederlands日本語norskplattdüütschpolskiromânăрусскийslovenčinaсрпски / srpskisrpskohrvatski / српскохрватскиsvenskaไทยtürkçeукраїнська 
+edit links 
+
+
+
+
+
+ this page was last edited on 13 february 2019, at 06:03 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"0.560","walltime":"0.705","ppvisitednodes":{"value":2813,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":140569,"limit":2097152},"templateargumentsize":{"value":22861,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":17,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":51938,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  436.052      1 -total"," 42.75%  186.415      1 template:reflist"," 22.84%   99.612      1 template:italy_topics"," 22.81%   99.465      6 template:navbox"," 22.03%   96.071      1 template:country_topics"," 19.61%   85.513      5 template:cite_web"," 12.31%   53.678      1 template:indo-european_topics"," 11.87%   51.768     12 template:cite_book","  7.64%   33.296      1 template:isbn","  4.77%   20.794     14 template:harvnb"]},"scribunto":{"limitreport-timeusage":{"value":"0.169","limit":"10.000"},"limitreport-memusage":{"value":4650781,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1275","timestamp":"20190214204548","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"italic peoples","url":"https:\/\/en.wikipedia.org\/wiki\/italic_peoples","sameas":"http:\/\/www.wikidata.org\/entity\/q3617880","mainentity":"http:\/\/www.wikidata.org\/entity\/q3617880","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2005-07-15t05:03:05z","datemodified":"2019-02-13t06:03:20z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/db\/indo-european_migrations.gif","headline":"peoples who are or were native speakers of an italic language, and are or were related to one of them"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":873,"wghostname":"mw1275"});});
+
+

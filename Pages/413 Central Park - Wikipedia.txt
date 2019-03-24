@@ -1,0 +1,1707 @@
+
+
+
+
+central park - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"central_park","wgtitle":"central park","wgcurrevisionid":883641910,"wgrevisionid":883641910,"wgarticleid":37536,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["webarchive template wayback links","cs1: julian–gregorian uncertainty","all articles with dead external links","articles with dead external links from december 2017","articles with permanently dead external links","articles with short description","use mdy dates from october 2018","coordinates on wikidata","articles containing potentially dated statements from 2007","all articles containing potentially dated statements","pages using new york city subway service templates","articles using kml from wikidata","official website different in wikidata and wikipedia","wikipedia articles with gnd identifiers","wikipedia articles with musicbrainz place identifiers","wikipedia articles with nara identifiers","wikipedia articles with nkc identifiers","wikipedia articles with viaf identifiers","wikipedia articles with worldcat-viaf identifiers","articles containing video clips","pages with maps","central park","1873 establishments in new york (state)","frederick law olmsted works","harlem","historic public gardens","landscape design history of the united states","midtown manhattan","national historic landmarks in manhattan","parks in manhattan","parks on the national register of historic places in new york (state)","upper east side","upper west side","urban forests in the united states","urban public parks"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"central_park","wgrelevantarticleid":37536,"wgrequestid":"xgrdmgpaic0aaddwa8iaaabl","wgcspnonce":false,"wgisprobablyeditable":true,"wgrelevantpageisprobablyeditable":true,"wgrestrictionedit":[],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgkartographerlivedata":{"_4fe6974edca5db6614cf6025a18ea88a282b0426":[{"type":"externaldata","service":"geoshape","url":"https://maps.wikimedia.org/geoshape?getgeojson=1\u0026ids=q160409","properties":{"stroke-width":1,"stroke":"#000","title":"central park"}}]},"wgcoordinates":{"lat":40.782222222222,"lon":-73.965277777778},"wgwikibaseitemid":"q160409","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.kartographer.style":"ready","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","ext.tmh.thumbnail.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.kartographer.staticframe","ext.cite.ux-enhancements","mw.mediawikiplayer.loader","mw.popupmediatransform","mw.tmhgalleryhook.js","mediawiki.page.gallery","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+central park 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+public park at the center of manhattan in new york city, new york, united states
+for other uses, see central park (disambiguation).
+
+
+central parkthe pond and hallett nature sanctuary in the park's southeast cornerinteractive map showing location of central parktypeurban parklocationmanhattan, new york citycoordinates40°46′56″n 73°57′55″w﻿ / ﻿40.78222°n 73.96528°w﻿ / 40.78222; -73.96528coordinates: 40°46′56″n 73°57′55″w﻿ / ﻿40.78222°n 73.96528°w﻿ / 40.78222; -73.96528area843 acres (3.41 km2)[1]created1857owned bynew york city department of parks and recreationoperated bycentral park conservancyvisitorsabout 37.5 million annually[2][3]statusopen all yearu.s. national register of historic placesu.s. national historic landmark
+architectfrederick law olmsted (1822–1903), calvert vaux (1824–1895)nrhp reference #66000538significant datesadded to nrhpoctober 15, 1966[4]designated nhlmay 23, 1963
+
+central park is an urban park in manhattan, new york city. it is located between the upper west side and upper east side, roughly bounded by fifth avenue on the east, central park west (eighth avenue) on the west, central park south (59th street) on the south, and central park north (110th street) on the north. central park is the most visited urban park in the united states, with 40 million visitors in 2013, and one of the most filmed locations in the world. in terms of area, central park is the fifth-largest park in new york city, covering 843 acres (341 ha).
+the park was established in 1857 on 778 acres (315 ha) of land acquired by the city. in 1858, landscape architect frederick law olmsted and architect/landscape designer calvert vaux won a design competition to improve and expand the park with a plan they titled the "greensward plan". construction began the same year, and the park's first area was opened to the public in the winter of 1858. construction north of the park continued during the american civil war in the 1860s, and the park was expanded to its current size in 1873. after a period of decline in the early 20th century, robert moses started a program to clean up central park. another decline in the late 20th century spurred the creation of the central park conservancy in 1980, which refurbished many parts of the park during the 1980s and 1990s.
+central park was designated a national historic landmark by the u.s. department of the interior in 1963,[5] which in april 2017 placed it on the tentative list for unesco world heritage sites.[6] the park, managed for decades by the new york city department of parks and recreation, is currently managed by the central park conservancy under contract with the municipal government in a public-private partnership. the conservancy is a non-profit organization that contributes 75 percent of central park's $65 million annual budget and is responsible for all basic care of the 843-acre park.
+
+contents
+
+1 description
+
+1.1 management
+
+
+2 history
+
+2.1 planning
+2.2 construction
+2.3 first decline and renovation
+2.4 the "events era" and second decline
+2.5 restoration and second renovation
+
+2.5.1 1980s–90s renovations
+2.5.2 2000s renovations
+
+
+2.6 post-renovation
+
+
+3 points of interest
+
+3.1 visitor attractions
+3.2 art and architecture
+
+3.2.1 sculptures
+3.2.2 structures and exhibitions
+3.2.3 other
+
+
+3.3 geographic features
+
+3.3.1 geology
+3.3.2 lakes
+
+
+
+
+4 wildlife
+
+4.1 flora
+4.2 fauna
+
+
+5 activities
+
+5.1 hobbies
+5.2 leisure tours
+5.3 sports
+5.4 attractions
+5.5 restaurants
+5.6 entertainment
+
+
+6 transportation
+
+6.1 public transport
+6.2 roads
+
+6.2.1 vertical drives
+
+
+
+
+7 issues
+8 gallery
+9 notes
+10 references
+11 further reading
+12 external links
+
+
+description[edit]
+ clicking on a feature in the picture causes the browser to load the appropriate article.
+central park was designed in 1858 by landscape architect and writer frederick law olmsted and the english architect calvert vaux, who also designed brooklyn's prospect park. central park has been a national historic landmark since 1962.[7][8][9]
+central park is the fifth-largest park in new york city, behind flushing meadows-corona park, van cortlandt park, the staten island greenbelt, and pelham bay park.[10] central park is located on 843 acres (3.41 km2; 1.317 sq mi) of land, although its original area was 770 acres (3.1 km2).[1][11] the park, with a perimeter of 6.1 miles (9.8 km), is bordered on the north by central park north (110th street), on the south by central park south (59th street), on the west by central park west (eighth avenue), and on the east by fifth avenue. it is 2.5 miles (4 km) long between central park south and central park north, and is 0.5 mile (0.8 km) wide between fifth avenue and central park west.[12]
+central park constitutes its own united states census tract, number 143. according to american community survey 5-year estimates, the park's population in 2017 was four people, all female, with a median age of 19.8 years.[13] however central park officials have rejected the claim of anyone permanently living there.[14] the real estate value of central park was estimated by property appraisal firm miller samuel to be about $528.8 billion in december 2005.[15]
+central park's size and cultural position, similar to london's hyde park and munich's englischer garten, has served as a model for many urban parks, including san francisco's golden gate park, tokyo's ueno park, and vancouver's stanley park. the park, which receives approximately 35 million visitors annually,[16] is the most visited urban park in the united states.[17] it is also the most filmed location in the world. a december 2017 report found that 231 movies have used central park for on-location shoots, more than the 160 movies that have filmed in greenwich village or the 99 movies that have filmed in times square.[18]
+the park has its own new york city police department precinct—the central park precinct—which employs both regular police and auxiliary officers. in 2005, safety measures held the number of crimes in the park to fewer than one hundred per year (down from approximately 1,000 annually in the early 1980s). the new york city parks enforcement patrol also patrols central park. there is an all-volunteer ambulance service, the central park medical unit, that provides free emergency medical service to patrons of central park and the surrounding streets. it operates a rapid-response bicycle patrol, particularly during major events such as the new york city marathon, the 1998 goodwill games, and concerts in the park.
+while planting and land form in much of the park appear natural, it is in fact almost entirely landscaped. the park contains several natural-looking lakes and ponds that have been created artificially by damming natural seeps and flows.
+there is a large area of woods in addition to seven major lawns, the "meadows",[19] and many minor grassy areas; some of them are used for informal or team sports and some set aside as quiet areas; there are a number of enclosed playgrounds for children. the 6 miles (9.7 km) of drives within the park are used by joggers, cyclists, skateboarders, and inline skaters, especially when automobile traffic is prohibited, on weekends and in the evenings after 7:00 pm.
+
+management[edit]
+the park is maintained by the central park conservancy, a private, not-for-profit organization that manages the park under a contract with the new york city department of parks and recreation,[20] in which the president of the conservancy is ex officio administrator of central park. today, the conservancy employs 80% of maintenance and operations staff in the park. it effectively oversees the work of both the private and public employees under the authority of the central park administrator (publicly appointed), who reports to the parks commissioner, conservancy's president. as of  2007[update], the conservancy had invested approximately $450 million in the restoration and management of the park; the organization presently contributes approximately 85% of central park's annual operating budget of over $37 million.[20] the system was functioning so well that in 2006 the conservancy created the historic harlem parks initiative, providing horticultural and maintenance support and mentoring in morningside park, st. nicholas park, jackie robinson park, and marcus garvey park.[21]
+
+
+
+ panoramic view of central park from rockefeller center
+
+
+ central park in 2004
+
+history[edit]
+planning[edit]
+@media all and (max-width:720px){.mw-parser-output .mobile-float-reset{float:none!important;width:100%!important}}.mw-parser-output .stack-container{box-sizing:border-box}.mw-parser-output .stack-clear-left{float:left;clear:left}.mw-parser-output .stack-clear-right{float:right;clear:right}.mw-parser-output .stack-left{float:left}.mw-parser-output .stack-right{float:right}.mw-parser-output .stack-object{margin:1px;overflow:hidden}
+ view in central park n.y. 1861 mt. st. vincent
+ john randel's survey bolt
+
+between 1821 and 1855, new york city nearly quadrupled in population. as the city expanded northward up manhattan island, people were drawn to the few existing open spaces, mainly cemeteries, to get away from the noise and chaotic life in the city. since central park was not part of the original commissioners' plan of 1811, john randel, jr., surveyed the grounds. the only remaining surveying bolt from his survey is embedded in a rock located north of the present dairy and the 65th street transverse, and south of center drive. the bolt marks the location where west 65th street would have intersected sixth avenue.[22]
+new york city's need for a great public park was resounded by the famed poet and editor of the evening post (now the new york post), william cullen bryant, as well as by the first american landscape architect, andrew jackson downing, who predicted and began to publicize the city's need for a public park in 1844. a stylish place for open-air driving, similar to paris' bois de boulogne or london's hyde park, was felt to be needed by many influential new yorkers, and, after an abortive attempt in 1850–1851 to designate jones's wood, in 1853 the new york legislature settled upon a 750-acre (300 ha) area from 59th to 106th streets for the creation of the park, at a cost of more than us$5 million for the land.[23][24][25]
+the state appointed a central park commission to oversee the development of the park, and in 1857 the commission held a landscape design contest. frederick law olmsted and calvert vaux developed what came to be known as the "greensward plan", which was selected as the winning design. according to olmsted, the park was "of great importance as the first real park made in this country – a democratic development of the highest significance...", a view probably inspired by his various trips to europe during 1850[26] (he had visited several parks during these trips and was particularly impressed by birkenhead park and derby arboretum in england).[27][28] the greensward plan called for some 36 bridges, all designed by vaux, ranging from rugged spans of manhattan schist or granite, to lacy neo-gothic cast iron; no two are alike. the ensemble of the formal line of the mall's doubled allées of elms culminating at bethesda terrace, whose centerpiece is the bethesda fountain, with a composed view beyond of lake and woodland, was at the heart of the larger design. execution of the greensward plan was the responsibility of a number of individuals, including jacob wrey mould (architect), ignaz anton pilat (master gardener), george e. waring, jr. (engineer), and andrew haswell green (politician), in addition to olmsted and vaux.[23][24][25]
+several influences came together in the design. landscaped cemeteries, such as mount auburn (cambridge, massachusetts) and green-wood (brooklyn, new york) had set examples of idyllic, naturalistic landscapes. the most influential innovations in the central park design were the "separate circulation" systems for pedestrians, horseback riders, and pleasure vehicles. the "crosstown" commercial traffic was entirely concealed in sunken roadways (today called "transverses"), screened with densely planted shrub belts so as to maintain a rustic ambiance.
+
+construction[edit]
+@media all and (max-width:720px){.mw-parser-output .tmulti>.thumbinner{width:100%!important;max-width:none!important}.mw-parser-output .tmulti .tsingle{float:none!important;max-width:none!important;width:100%!important;text-align:center}}from 1864 to 1934, a flock of pedigree southdown and dorset sheep grazed in the sheep meadow. they were removed to prospect park in brooklyn in 1934.children's festival in central park, sponsored by the federal art project, september 1938
+in 1850, the land was occupied by free blacks and irish immigrants who had purchased land, where they raised livestock, built churches and cemeteries, and had lived as a community for close to 50 years.[29] before the construction of the park could start, the area had to be cleared of its inhabitants.[30] rossi states that part of the impetus to schemes such as central park and others was to remove what they incorrectly deemed as shanty towns and their denizens.[31] however, most lived in small villages, such as harsenville,[32] the piggery district,[33] or seneca village; or in the school and convent at mount st. vincent's academy. approximately 1,600 residents were evicted under the rule of eminent domain during 1857. seneca village and parts of the other communities were razed to make room for the park.[34] in addition, when the commission finally submitted its report for public examination on october 4, 1855, taxpayers learned that they would be paying $5 million just for the park land, more than three times what they had been told the completed park as a whole would cost. at the same time, the offsetting revenue from property taxes of adjacent land came to $1.7 million, or one-third of the purchase price, and was considerably less than earlier estimates.[35]
+during the park's construction, olmsted battled with the park commissioners, many of them also politicians. in 1860, he was forced out for the first of many times as central park's superintendent, and andrew haswell green, the former president of new york city's board of education took over as the commission's chairman.[36] despite his having relatively little experience, green managed to accelerate the construction. green also finalized the negotiations to purchase an additional 65 acres (260,000 m2) at the north end of the park, between 106th and 110th streets, which would be used as the "rugged" part of the park, its swampy northeast corner dredged, and reconstructed as the harlem meer.[37][38]
+
+ the bow bridge, one of 36 bridges in the park. no two bridges in the park are alike.[39]
+between 1860 and 1873, most of the major hurdles to construction were overcome, and the park was substantially completed. construction combined the modern with the ageless: up-to-date steam-powered equipment and custom-designed wheeled tree-moving machines augmented massive numbers of unskilled laborers wielding shovels. the work was extensively documented with technical drawings and photographs. during this period, more than 18,500 cubic yards (14,100 m3) of topsoil had been transported from new jersey, because the original soil was neither fertile nor sufficiently substantial to sustain the various trees, shrubs, and plants called for by the greensward plan. when the park was officially completed in 1873, more than 10 million cartloads of material had been transported out of the park, including soil and rocks, and more than four million trees, shrubs, and plants representing approximately 1,500 species were transplanted to the park. more gunpowder was used to clear the area than was used at the battle of gettysburg during the american civil war.[40]
+a proposal to have ornate, european-style entrances to the park was opposed by olmsted and vaux, who intended for the park's unadorned entrances to signal "that all were welcome, regardless of rank or wealth."[41] the park's commissioners assigned a name to each of the original 18 gates in 1862. the names were chosen to represent the broad diversity of new york city's trades; for example, "mariner's gate" for the entrance at 85th street and central park west.[41] the majority of entrances did not receive an inscription, however, until a park restoration effort in 1999.[41]
+sheep grazed on the sheep meadow from the 1860s until 1934, when they were moved to prospect park in brooklyn and soon thereafter moved to a farm near otisville, new york, in the catskill mountains.[42] it was feared they would be used for food by impoverished depression-era new yorkers.[43]
+
+first decline and renovation[edit]
+following completion, the park quickly slipped into decline. one of the main reasons for this was the lack of interest from the tammany hall political machine, which was the largest political force in new york at the time. around the turn of the 20th century, the park faced several new challenges. cars were becoming commonplace, bringing with them their burden of pollution, and people's attitudes were beginning to change. no longer were parks to be used only for walks and picnics in an idyllic environment but also for sports and similar recreation. following the dissolution of the central park commission in 1870 and andrew green's departure from the project, and vaux's death in 1895, the maintenance effort gradually declined. all of this changed in 1934, when republican fiorello la guardia was elected mayor of new york city and unified the five park-related departments then in existence. robert moses was given the task of cleaning up the park. moses, about to become one of the most powerful men in new york city, took over what was essentially a relic, a leftover from a bygone era.[44]
+according to historian robert caro:
+
+.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}lawns, unseeded, were expanses of bare earth, decorated with scraggly patches of grass and weeds, that became dust holes in dry weather and mud holes in wet... the once beautiful mall looked like a scene of a wild party the morning after. benches lay on their backs, their legs jabbing at the sky...[45]:334
+
+in a single year, moses managed to clean up central park and other parks in new york city. lawns and flowers were replanted, dead trees and bushes were replaced, walls were sandblasted, and bridges were repaired. another dramatic change was moses's removal of the "hoover valley" shantytown, whose site was transformed into the 30 acres (12 ha) great lawn.[46] major redesigning and construction also was carried out: for instance, the croton lower reservoir was filled in so the great lawn could be created. the greensward plan's purpose of creating an idyllic landscape was combined with moses' vision of a park to be used for recreational purposes: 19 playgrounds, 12 ball fields, and handball courts were constructed. moses managed to secure funds from the new deal program, as well as donations from the public.[47] he also created the 67th street transverse, widened west drive, and evicted the sheep from sheep meadow.[45]:984
+
+
+
+
+
+lower end of mall in 1901
+
+
+
+
+play media
+
+skating in central park, a movie by frank s. armitage, american mutoscope and biograph, 1900. collection of eye film institute netherlands.
+
+
+
+
+
+
+brooklyn museum collection: "early spring afternoon – central park" (1911) by willard leroy metcalf
+
+
+
+
+
+
+belvedere castle, central park, built 1869
+
+
+
+
+the "events era" and second decline[edit]
+
+ central park in may 1940
+ the dairy in 2013
+ lookout point on the lake at central park, one of four rustic landing stages on the lake
+
+the 1960s marked the beginning of an "events era" in central park that reflected the widespread cultural and political trends of the period. the public theater's annual shakespeare in the park festival was settled in the delacorte theater in 1961, and summer performances were instituted on the sheep meadow, and then on the great lawn by the new york philharmonic orchestra and the metropolitan opera. during the late 1960s, the park became the venue for rallies and cultural events such as the "love-ins" and "be-ins" of the period. in 1966, mayor john lindsay, an avid cyclist, initiated a weekend ban on automobiles in central park for the enjoyment of cyclists and public alike – a policy that continues.[48] increasingly through the 1970s, the park became a venue for events of unprecedented scale, including rallies, demonstrations, festivals, and concerts.
+despite the increasing numbers of visitors to the park, robert moses' departure in 1960 marked the beginning of a 20-year period of decline in its management. the city was experiencing economic and social changes, with some residents leaving the city and moving to the suburbs in the wake of increased crime. the parks department, suffering from budget cuts, responded by opening the park to any and all activities that would bring people into it, without adequate oversight and maintenance follow-up. some of these events nevertheless became milestones in the social history of the park and in the cultural history of the city.[49]
+by the mid-1970s, however, managerial neglect was taking a toll on the park's condition. "years of poor management and inadequate maintenance had turned a masterpiece of landscape architecture into a virtual dustbowl by day and a danger zone by night", in the opinion of douglas blonsky, a president of the central park conservancy.[21] vandalism, territorial use (e.g., a pick-up game of softball or association football, which commandeered open space and excluded others), and illicit activities were taking place in the park. several volunteer citizen groups emerged, intent upon reclaiming the park by fundraising and organizing volunteer initiatives. one of these groups, the central park community fund, commissioned a study of the park's management. the study's conclusion was bi-linear; it called for establishment of a single position within the new york city parks department, responsible for overseeing both the planning and management of central park, as well as a board of guardians to provide citizen oversight.[49]
+in 1979, parks commissioner gordon davis established the office of central park administrator, appointing to the position the executive director of another citizen organization, the central park task force.[49] the central park conservancy was founded the following year, to support the office and initiatives of the administrator and to provide consistent leadership through a self-perpetuating, citizen-based board that also would include as ex-officio trustees, the parks commissioner, the central park administrator, and mayoral appointees.[49]
+
+restoration and second renovation[edit]
+under the leadership of the central park conservancy, the park's reclamation began with modest but highly significant first steps, addressing needs that could not be met within the existing structure and resources of the parks department. interns were hired and a small restoration staff to reconstruct and repair unique rustic features, undertaking horticultural projects, and removing graffiti under the broken windows theory.[49] the state of the park has improved since the 1970s, according to conservancy president douglas blonsky:
+
+graffiti doesn't last 24 hours in central park; visible litter gets carted off by 9 each morning and throughout the day. our workers empty trash receptacles daily (at least) and maintain lawns with tremendous care. broken benches and playground equipment get fixed on the spot.[21]
+
+1980s–90s renovations[edit]
+the great lawn before renovations in the late 1970s.the great lawn after renovations in the 1980s.
+by 1980, the conservancy was also engaged in design efforts and long-term restoration planning, using both its own staff and external consultants. it provided the impetus and leadership for several early restoration projects funded by the city, preparing a comprehensive plan for rebuilding the park. the restoration was accompanied by a crucial restructuring of management, whereby the park was subdivided into zones, to each of which a supervisor was designated, responsible for maintaining restored areas. that year, the dairy (which was originally designed as a refreshment stand and rest spot) was transformed into the park's first visitor's center, with the conservancy using it to revitalize public interest in the park through exhibits, music series, and children's programs. the first landscape to be restored was the sheep meadow, primarily with funds provided by new york state. during the next few years, bethesda terrace and fountain, belvedere castle, and the east green were restored.
+bethesda fountain, which had been dry for decades, was restored in 1980–81[50] and the terrace was restored a year later, its stonework disassembled, cleaned, deteriorated surfaces removed, restored, patched, and reset. resodding, and fifty new trees, 3,500 shrubs and 3,000 ground cover plants specified by philip winslow followed in 1986,[51] most of which, having matured into dense blocks, were removed in 2008, to make way for plants native to the united states. around the same time, the belvedere castle, which had been closed for many years, was renovated and reopened on may 1, 1983, as the henry luce nature observatory.
+by 1982, the chess & checkers house and frisbee hill had been restored; thousands of shrubs and flowers asserted the park as a horticultural showpiece. to tend to those plants, more than 1,900 volunteers contributed more than 4,000 hours of work in the park. on completion of the planning stage in 1985, the conservancy launched its first capital campaign, assuming increasing responsibility for funding the park's restoration, and full responsibility for designing, bidding, and supervising all capital projects in the park.[49] the conservancy launched its first fundraising campaign in 1986, mapping out a 15-year restoration plan that sought to remain true to the original design. over the next several years, campaign for the central park conservancy restored landmarks in the southern part of the park – grand army plaza,[52] shakespeare garden, and cedar hill. by 1988, conservancy volunteers logged more than 13,000 hours in the park, with the organization's volunteer program winning a citation for excellence from the white house.
+
+ view of heckscher playground and skyline from rat rock (april 2015)
+in the early 1990s, the conservancy announced a $50 million capital campaign to focus on improvements to the northern end of the park. efforts culminated in the restoration of the mall and concert ground, harlem meer, and the ravine in the north woods. the conservancy's work on the meer and the charles a. dana discovery center was subsequently honored with three awards: the 1994 new york city landmarks preservation award, the american society of landscape architects' design merit award and the victorian society's citation of merit. in 1996, the conservancy embarked on its most ambitious landscape restoration: the overhaul of the 55 acres (22 hectares) including and surrounding the great lawn and turtle pond (formerly the great lawn and the belvedere lake).[53] the project was the centerpiece of the conservancy's three-year wonder of new york campaign, which raised $71.5 million and also helped restore southern and westside landscapes, as well as the north meadow. the great lawn project was completed in 1997, featuring new amenities to encourage passive and active recreation as well as nature appreciation.
+citywide budget cuts in the early 1990s, however, resulted in attrition of the park's routine maintenance staff, and the conservancy began hiring staff to replace these workers. management of the restored landscapes by the conservancy's "zone gardeners" proved so successful that core maintenance and operations staff were reorganized in 1996. the zone-based system of management was implemented throughout the park, which was divided into 49 zones. zone gardeners supervise volunteers assigned to them; these volunteers commit to a consistent work schedule and are supported by specialized crews in areas of maintenance requiring specific expertise or equipment, or more effectively conducted on a park-wide basis. in 2007, there were 3,000 volunteers compared to just under 250 paid workers in the park.[49][21]
+
+2000s renovations[edit]
+central park after renovationsconservatory water after renovationrenovated bethesda fountain plaza in 2010oak bridge spanning bank rock bay was replaced in 2009 following calvert vaux's original design of 1860
+renovations continued through the early 2000s. in 2000 the conservatory water opened after a six-month restoration effort, with a $4 million project beginning on the 59th street pond, one of the park's most visible and heavily used landscapes. a new reservoir fence was installed in 2003 under a $2 million capital project that replaced the old chain-link fence with a replica of the 8,000-foot long steel and cast-iron one that had enclosed the reservoir in 1926. the new fence, along with removal of invasive trees and shrubs, restored the panoramic views of the park and manhattan skyline.
+another ambitious restoration effort began in 2004, when conservancy staff and contractors worked together to refurbish the 15,876 minton tiles that hang on the ceiling of the bethesda arcade. originally designed by calvert vaux and jacob wrey mould, the ceiling of the arcade is lined by 15,876 elaborately patterned encaustic tiles. made by minton and company, a leading 19th-century ceramic manufacturer in england, the ceiling tiles are divided into 49 panels, each containing 324 tiles. salt and water infiltration from the roadway above had badly damaged the tiles, leaving their backing plates so corroded they had to be removed in the 1980s.[54] the tiles sat in storage for more than 20 years until the conservancy received a generous private donation for their restoration. the conservancy embarked on a $7 million restoration effort to return the minton tiles to their original luster in 2004. a team of seven conservation technicians cleaned and repaired more than 14,000 original tiles by hand. only three panels of replica tiles were needed to replace those that had been damaged beyond repair. for those recreations, the conservancy decided to commission maw and company, minton's successor in stoke-on-trent, england. the completed bethesda terrace arcade was unveiled to much fanfare in march 2007. in 2006, the conservancy completed a nine-month renovation of the mall in a project that returned the landscape to its original character and ensured the protection of its great american elms.
+the lake was the last of central park's bodies of water to be renovated by the central park conservancy, in a project to enhance both its ecological[note 1] and scenic aspects. in the summer of 2007, the first phase of a restoration of the lake and its shoreline plantings commenced, with replanting using native shrubs and understory trees around the northern end of the lake, from bank rock bay – a narrow cove in the northwest corner that had become a silted-up algae-covered stand of aggressively invasive phragmites reeds – to bow bridge, which received replicas of its four original italianate cast-iron vases, overspilling with annuals. in the earliest stages, invasive non-native plants like japanese knotweed were eradicated, the slopes were regraded with added humus and protected with landscaping burlap to stabilize the slopes while root systems became established and leaf litter developed.
+during the same time, bank rock bridge, also called cabinet bridge, across the mouth of the cove was recreated in carved oak with cast-iron panels and pine decking, its original materials, following vaux's original design of 1859–60.[55] the cascade, where the gill empties into the lake, was reconstructed to approximate its dramatic original form, inspired by paintings of asher b. durand. sections of the lake were dredged of accumulated silt – topsoil that had washed off the surrounding slopes – and the island formerly in the lake, which gradually eroded below water level, was reconstructed in the summer of 2007 with rugged boulders along its shoreline, graded wetland areas, and submerged planting shelves for water-loving native plants, like pickerel weed.[56]
+oak bridge, the major entrance to the ramble from the upper west side, spans bank rock bay in the lake's northwest corner; the long-lost picturesque feature was recreated in 2009 based on calvert vaux's original drawings. the bridge, built in 1860 of white oak with decorative openwork panels of cast iron, has been recreated in steel clad in ornamental cast iron facings, with wooden deck and railings. restoration of further sections of the lake's shoreline landscapes was undertaken, and the first renovated sections were opened to visitors in april 2008.[57]
+
+post-renovation[edit]
+ aerial view of southern central park
+on october 23, 2012, hedge fund manager john a. paulson announced a $100 million gift to the central park conservancy, the largest ever monetary donation to new york city's park system.[58]
+since the 1960s, there has been a grassroots campaign to restore the park's loop drives to their original car-free state. over the years, the number of car-free hours increased, though a full closure was resisted by the new york city department of transportation. legislation was proposed in october 2014 to conduct a study to make the park car-free in summer 2015.[59] in 2015, mayor bill de blasio announced the permanent closure of west and east drives north of 72nd street to vehicular traffic as it was proven that closing the roads did not adversely impact traffic.[60] subsequently, in june 2018, the remaining drives south of 72nd street were closed to vehicular traffic.[61][62]
+
+points of interest[edit]
+
+
+visitor attractions[edit]
+visitor attractions include:
+
+
+arsenal
+ballplayers house
+belvedere castle
+bethesda terrace and fountain
+blockhouse
+burnett memorial fountain
+carousel
+delacorte theater
+diana ross playground
+fort clinton
+harlem meer and dana discovery center
+lasker rink
+mall
+marionette theatre
+mcgowan's pass
+metropolitan museum of art
+pug hill
+rumsey playfield
+tavern on the green
+victorian gardens
+wollman rink
+zoo
+
+art and architecture[edit]
+sculptures[edit]
+main article: list of sculptures in central park
+ cleopatra's needle, central park, carved c. 1450 b.c. for thutmose iii, hieroglyphs inscribed c. 1250 b.c. for rameses ii
+a total of 29 sculptures by sculptors such as augustus saint-gaudens, emma stebbins, and john quincy adams ward have been erected over the years, most donated by individuals or organizations. much of the first statuary placed was of authors and poets, in an area now known as literary walk. some of the sculptures are:
+
+alice in wonderland margaret delacorte memorial (1959), a sculpture of alice by sculptor josé de creeft, landscape architect hideo sasaki, and designer ferando texidor at the central park conservatory pond
+angel of the waters at bethesda terrace by emma stebbins (1873), the first large public sculpture commission for an american woman
+balto (1925), a statue of balto, the sled dog who became famous during the 1925 serum run to nome
+duke ellington memorial (dedicated in 1997), by sculptor robert graham, near fifth avenue and 110th street, in the duke ellington circle
+king jagiello monument, a bronze monument on the east end of turtle pond
+structures and exhibitions[edit]
+ victory leading sherman
+ strawberry fields with the dakota behind
+cleopatra's needle is a red granite obelisk. the "cleopatra's needle" in central park is one of four; there also is one in paris, one in glasgow and one in london. each obelisk is approximately 68–69 feet tall and weigh about 180 tons. they originally were erected at the temple of ra in heliopolis in ancient egypt around 1450 bc by the pharaoh thutmose iii. the hieroglyphs were inscribed about two hundred years later by pharaoh rameses ii to glorify his military victories. the obelisks were all moved during the reign of roman emperor augustus caesar when ancient egypt was under the control of rome. they were brought to alexandria and erected as tribute to julius caesar, in front of the caesarium, a temple originally built by cleopatra vii of egypt in honor of mark antony, thus the name "cleopatra's needle".[63] there are two versions of how the central park cleopatra's needle made its way to central park: either it was a gift from the khedive of egypt, isma'il pasha, or it was stolen through the machinations of william h. vanderbilt who paid the tab to have the obelisk shipped to new york and erected. the obelisk arrived in new york in july 1880; it took thirty-two horses hitched in sixteen pairs to pull the obelisk to the park. it was erected in an official ceremony on january 22, 1881.
+strawberry fields: on october 9, 1985, on what would have been john lennon's 45th birthday, new york city dedicated 2.5 acres (1.0 hectare) to his memory. countries from all around the world contributed trees, and italy donated the iconic "imagine" mosaic. it has since become the site of impromptu memorial gatherings for other notables, and in the days following the september 11, 2001 attacks, candlelight vigils were held there.
+the gates: for sixteen days in 2005 ( february 12–27), central park was the setting for christo and jeanne-claude's installation the gates.[64] although the project was the subject of mixed reactions (and it took many years for christo and jeanne-claude to get the necessary approvals), it was nevertheless a major, if temporary, draw for the park.[65]
+other[edit]
+george delacorte musical clock, a gift george t. delacorte dedicated in 1965 that is mounted above the arcade between the wildlife center and the children's zoo in manhattan's central park[66]
+geographic features[edit]
+geographic features include:
+
+
+cedar hill
+cherry hill
+conservatory garden
+conservatory water
+great lawn / turtle pond
+harlem meer
+onassis reservoir
+the pond and hallett nature sanctuary
+the ramble and lake
+sheep meadow
+
+geology[edit]
+ east side of rat rock
+ congregating at the top of rat rock
+there are four different types of bedrock in manhattan. in central park, manhattan schist and hartland schist, which are both metamorphosed sedimentary rock, are exposed in various outcroppings. the other two types, fordham gneiss (an older deeper layer) and inwood marble (metamorphosed limestone which overlays the gneiss), do not surface in the park.[67] fordham gneiss, which consists of metamorphosed igneous rocks, was formed a billion years ago, during the grenville orogeny that occurred during the creation of an ancient super-continent. it is the oldest rock in the canadian shield, the most ancient part of the north american tectonic plate. manhattan schist and hartland schist were formed in the iapetus ocean during the taconic orogeny in the paleozoic era, about 450 million years ago. during this period the tectonic plates began to move toward each other, which resulted in the creation of the supercontinent pangaea.[68]
+cameron's line is a fault zone that traverses central park on an east-west axis.[69]
+various glaciers have covered the area of central park in the past, with the most recent being the wisconsin glacier which receded about 12,000 years ago. evidence of past glaciers are visible throughout the park in the form of glacial erratics (large boulders dropped by the receding glacier) and north-south glacial striations visible on stone outcroppings.
+one such outcrop is rat rock at 40°46′10″n 73°58′40″w﻿ / ﻿40.769361°n 73.977655°w﻿ / 40.769361; -73.977655, named after the rats that used to swarm there at night but also known as 'umpire rock'.[70][71] located near the southwest corner of the park, the outcrop is roughly circular, about 55 feet (17 m) wide and 15 feet (4.6 m) tall with different east, west, and north faces.[72] boulderers usually congregate there, as many as fifty per day, with some being regulars, and others being tourists;[71] the quality of the stone is poor, and the climbs present so little challenge that it has been called "one of america's most pathetic boulders".[72] the park police formerly ticketed climbers who climbed more than a few feet up the rock, but the city climbers club approached the park authorities and, by working to provide safety features such as wood chips around the base, they were able to legalize climbing there.[72]
+
+lakes[edit]
+ the jacqueline kennedy onassis reservoir
+central park is home to seven bodies of water, all artificial. the largest lake is the jacqueline kennedy onassis reservoir, so named since 1994.[73] it was constructed between 1858 and 1862. covering an area of 106 acres (43 ha) between 86th and 96th streets, the reservoir reaches a depth of more than 40 feet (12 m) in places and contains about 1 billion us gallons (3.8 billion litres) of water.[74] the reservoir is best known to new yorkers for the jogging track around it.
+the ramble and lake south of the great lawn covers nearly 18 acres (7.3 ha). built on a former swamp, it was designed by olmsted and vaux to accommodate boats in the summer and ice skaters in winter. the lake was opened to skaters in december 1858, while the rest of the park was still under construction.[75] at the northern end of the park, at 110th street, the harlem meer, named in honor of one of the first communities in the region, covers nearly 11 acres (4.5 ha). located in a wooded area of oak, cypress, and beech trees, it was built after the completion of the southern portion of the park. harlem meer also allows visitors to fish, on a catch and release basis.[76] in the southeast corner is the pond, with an area of 3.5 acres (1.4 ha). the pond is located near one of the busiest entrances to central park but still provides an atmosphere of calm and solitude.[77]
+
+wildlife[edit]
+flora[edit]
+ bracts of flowering dogwood, an understory tree native to central park
+central park is home to over 25,000 trees and has a stand of 1,700 american elms, one of the largest remaining stands in the northeastern u.s., protected by their isolation from the dutch elm disease that devastated the tree throughout its native range.
+a partial listing of the tree species found in central park, both natives and exotics, includes:
+
+
+acer campestre, hedge maple
+acer ginnala, amur maple
+acer palmatum, japanese maple
+acer platanoides, norway maple
+acer pseudoplatanus, sycamore maple
+acer saccharinum, silver maple
+acer saccharum, sugar maple
+aesculus glabra, american buckeye
+aesculus hippocastanum, common horsechestnut
+aesculus pavia, red buckeye
+aesculus × carnea, red horschestnut
+ailanthus altissima, tree of heaven
+aralia spinosa, devil's walkingstick
+betula alleghaniensis, yellow birch
+betula lenta, black birch
+betula nigra, river birch
+betula papyrifera, paper birch
+celtis occidentalis, hackberry
+cedrus atlantica glauca, blue atlas cedar
+cornus florida, flowering dogwood
+ginkgo biloba, ginkgo
+gleditsia triacanthos, honey locust
+carpinus betulus, european hornbeam
+liquidambar styraciflua, sweetgum
+liriodendron tulipifera, tulip tree
+magnolia grandiflora, southern magnolia
+pinus strobus, eastern white pine
+platanus occidentalis, american sycamore
+quercus alba, white oak
+quercus palustris, pin oak
+quercus rubra, red oak
+robinia pseudoacacia, black locust
+taxodium distichum, bald cypress
+tilia americana, basswood or american linden
+tilia cordata, little-leaf linden
+tsuga canadensis, canadian hemlock
+ulmus americana, american elm
+fauna[edit]
+ red-tailed hawk, one of the bird species found in central park
+ many water birds live in central park.
+birds:  the first official list of birds observed in central park, numbering 235 species, was published in forest and stream on june 10, 1886, by augustus g. paine jr. and lewis b. woodruff.[78][79] over the decades the list has been updated and changed.the park is frequented by various migratory birds during their spring and fall migration on the atlantic flyway. over a quarter of all the bird species found in the united states have been seen in central park. one of these species is the red-tailed hawk, which re-established a presence in the park when a male hawk known as pale male for his light coloration, nested on a building on fifth avenue, across the street from the park in 1991. he became a local media celebrity and a prolific breeder. central park was the site of the misguided unleashing of european starlings in north america, a native of eurasia which has become an invasive species. in april 1890, eighty birds were released by eugene schieffelin and the following march another eighty; these one hundred and sixty birds are the progenitors of the flocks which now span the united states and parts of canada.
+mammals:
+raccoons have become extremely common in central park in recent years, prompting the parks department to post rabies warnings around certain areas.
+eastern gray squirrel, or grey squirrel
+eastern chipmunk: although not commonly sighted, there are chipmunks in central park.
+virginia opossum
+arthropods
+in 2002 a new genus and species of centipede (nannarrup hoffmani) was discovered in central park. at about 0.4 inches (10 mm) long, it is one of the smallest centipedes in the world.
+beetles
+since the late 1990s,[80] the central park conservancy, the united states department of agriculture, and several city and state agencies have been fighting an infestation of the asian long-horned beetle, which has been reported in long island and manhattan, including some parts of central park.[81] the beetle, which likely was accidentally shipped from its native china in an untreated shipping crate, has no natural predators in the united states, and the fight to contain its infestation has been very expensive. the beetle infests trees by boring a hole in them to deposit its eggs, at which point the only way to end the infestation is to destroy the tree. several thousand trees were infected in the city and later removed, including two trees that were removed from central park.[82]
+activities[edit]
+hobbies[edit]
+ loeb boathouse cafe
+a wooded section of the park, called the ramble and lake, is popular among birders. many species of woodland birds, especially warblers, may be seen in the ramble in the spring and the fall.
+rowboats and kayaks are rented on an hourly basis at the loeb boathouse, which also houses a restaurant overlooking the lake. as early as 1922,[83] model power boating was popular on park waters.
+
+leisure tours[edit]
+ a horse-drawn carriage by the park
+the tradition of carriage horses in new york city was revived in 1935.[84] the carriages have appeared in many films, and the first female horse and carriage driver, maggie cogan, appeared in a universal newsreel in 1967.[85] as such, they have become a symbolic institution of the city. after the september 11 attacks, in a much-publicized event, mayor rudolph giuliani went to the stables himself to ask the drivers to go back to work to help return a sense of normality.[84]
+some activists such as nyclass, as well as politicians, have questioned the ethics of this tradition and called for it to end.[86][87] the history of accidents involving spooked horses has come under scrutiny with recent horse deaths.[88] protests from people for the ethical treatment of animals, and celebrities including alec baldwin, alecia beth moore and cheryl hines have raised the issue's profile.[89][90] additional media accounts have corroborated some charges, but they have also shown that the standards vary from stable to stable.[91]
+both activists and horse owners agree that part of the problem is lack of enforcement of the city code.[91] supporters of the trade say it needs to be reformed, not shut down, and that carriage drivers deserve a raise, which the city has not authorized since 1989.[92] paris, london, beijing, and several u.s. cities have banned carriage horses.[93] replacements for the carriage horses may include electric vintage cars.[94][95]
+pedicabs operate mostly in the southern part of the park, the same part as horse carriages.[96] such vehicles have more recently offered visitors a more dynamic way in which to view the park; covering three to ten times the distance of a typical central park horse carriage ride, pedicabs have become very popular with visitors and new yorkers alike;[97] also, they are being eyed as another replacement for the carriage horses.
+
+sports[edit]
+ the victorian gardens seasonal amusement park operates over wollman rink during the summer
+ skating pond, central park, c. 1862
+park drive, just over 6 miles (9.7 km) long, is heavily used by runners, joggers, pedestrians, bicyclists, and inline skaters.
+on most weekends, running races take place in the park, many of which are organized by the new york road runners. the new york city marathon finishes in central park outside tavern on the green. many other professional races are run in the park, including the 2008 usa men's 8k championships. baseball fields are numerous, and there are also courts for volleyball, tennis, croquet and lawn bowling. the park is home to several competitive running clubs, including central park track club.
+central park has two ice skating rinks, wollman rink and lasker rink; during summer, the former is the site of victorian gardens seasonal amusement park, and the latter converts to an outdoor swimming pool.
+the park drives are used as the home course for the century road club association's racing series. the crca is a usa cycling sanctioned amateur cycling club.[98]
+central park's glaciated rock outcroppings attract climbers, especially boulderers. the two most renowned spots for boulderers are rat rock and cat rock; others include dog rock, duck rock, rock n' roll rock, and beaver rock, near the south end of the park.[99]
+
+attractions[edit]
+ central park carousel
+central park has twenty-one playgrounds for children located throughout the park; the largest, at 3 acres (12,000 m2), is heckscher playground named for august heckscher. the current central park carousel, installed in 1951, is one of the largest merry-go-rounds in the united states. the fifty-eight hand-carved horses and two chariots were made by solomon stein and harry goldstein in 1908. the carousel originally was installed in coney island in brooklyn.
+the central park zoo is part of a system of four zoos and one aquarium that is managed by the wildlife conservation society. the zoo is home to an indoor rainforest, a leafcutter ant colony, a chilled penguin house, and a polar bear pool.
+swedish cottage marionette theatre is located in the swedish cottage. the building was originally a model schoolhouse built in sweden. made of native pine and cedar, it was disassembled and rebuilt in the u.s. as sweden's exhibit for the 1876 centennial exposition in philadelphia. frederick law olmsted moved the cottage to its present site in 1877.
+
+restaurants[edit]
+ tavern on the green was originally built in the era of tammany hall to house central park's sheep
+central park is home to two indoor restaurants.
+the famed new york city restaurant tavern on the green is located on the park's grounds at central park west and west 67th street. it was originally the sheepfold that housed the sheep that grazed sheep meadow, built to a design by calvert vaux in 1870. it became a restaurant as part of a 1934 renovation of the park under robert moses. in 1974, warner leroy took over the restaurant's lease and reopened it in 1976 after $10 million in renovations including the addition of a glass-enclosed crystal room overlooking the restaurant's garden (one of several dining rooms), which doubled the seating capacity to 800.[100] the restaurant closed in 2009 and reopened on april 24, 2014, after a renovation.[101]
+the loeb boathouse restaurant is the other indoor restaurant in central park. located at the loeb boathouse on the lake, it was designed in 1874, destroyed in 1950, and rebuilt in 1954 on the east side between 74th and 75th streets.[102]
+
+entertainment[edit]
+ summerstage features free musical concerts throughout the summer
+central park has given birth to other arts groups dedicated to performing in the park, notably central park brass, which performs an annual concert series, and the new york classical theatre, which produces an annual series of plays.
+each summer, there are several events happening in the park. the public theater presents free open-air theatre productions, often starring well-known stage and screen actors. the delacorte theater is the summer performing venue of the new york shakespeare festival, where most, although not all, of the plays presented are by william shakespeare, and the performances are generally regarded as being of high quality since its founding by joseph papp in 1962. the new york philharmonic gives an open-air concert on the great lawn yearly during the summer. city parks foundation has offered central park summerstage since 1985, a series of free performances including music, dance, spoken word, and film presentations, often featuring famous performers; the summerstage facility also has non-free concerts that are branded under different names. since 1992, local singer-songwriter david ippolito has performed almost every summer weekend to large crowds of passers-by and regulars and has become a new york icon, often simply referred to as "that guitar man from central park". from 1967 until 2007, the metropolitan opera presented two operas in concert each year. the fifth avenue mile is along the east side of the park between 80th and 60th streets each september.[103]
+many popular one-time concerts have been given in the park including barbra streisand, 1967; the supremes, 1970; carole king, 1973; bob marley and the wailers, 1975; america, 1979; elton john, 1980; the simon and garfunkel reunion, 1981; diana ross, 1983; paul simon, 1991; garth brooks, 1997; sheryl crow, 1999; dave matthews band, 2003; bon jovi, 2008;[104] and andrea bocelli, 2011. central park was the location of the largest concert ever on record when country superstar garth brooks performed a free concert in august 1997, to which about 980,000 had attended.[105]
+the oldest free classical music concert series in the united states—the naumburg orchestral concerts, founded in 1905—presents concerts in the naumburg bandshell on the concert ground, each summer. the concerts feature new talent and promote the professional development of young composers and conductors.
+
+transportation[edit]
+public transport[edit]
+the new york city subway's ind eighth avenue line (a, ​b, ​c, and ​d trains) runs along the western edge of the park, with a transfer station to the irt broadway–seventh avenue line at columbus circle. in addition, the irt lenox avenue line (2 and ​3 trains) has a station at central park north. from there the line curves southwest under the park, and heads west under 104th street. the bmt broadway line (n, ​r, and ​w trains) has a station at fifth avenue and 59th street.[106]
+various bus routes pass through central park or stop along its boundaries. the m10 bus stops along central park west, while the m5 and part of the m7 runs along central park south, and the m2, m3 and m4 run along central park north. the m1, m2, m3, and m4 run southbound along fifth avenue with corresponding northbound bus service on madison avenue. in addition, the m66, m72, m79 sbs, m86 sbs, m96 and m106 buses use the transverse roads across central park. the m12, m20 and m104 only serve columbus circle on the south end of the park, and the m31 and m57 run on 57th street two blocks from the park's south end, but do not actually stop on the boundaries of the park itself.[107]
+
+roads[edit]
+ view from central park south
+central park is surrounded by four roadways: central park north, central park south, central park west, and fifth avenue. there are four plazas, one on each corner of the park: frederick douglass circle on the northwest, duke ellington circle on the northeast, columbus circle at the southwest, and grand army plaza at the southeast. there are also four transverse roadways: 65th–66th streets, 79th–81st streets, 86th street, and 96th street. the park has three scenic roadways that travel it vertically: west, center, and east drives. since 2018, traffic is banned from all of the vertical drives.[61]
+
+vertical drives[edit]
+ west drive in central park
+west drive is the westernmost of the park's three vertical "drives". the road, which carries southbound bicycle and horse-carriage traffic, is described as "... concealed in sunken roadways and screened with densely planted shrub belts, creating a country-road feel in the center of the city." in the early 20th century, the drive was a popular place for carriage rides.[108] a painting by gifford beal shows a picture of west drive depicted with a horse and buggy.[109] however, the drive is also dangerous; in 2014, a 0.5-mile (0.80 km) stretch of west drive was considered to be "the most dangerous section of central park" for pedestrians, with bicycle crashes along the drive leaving 15 people injured.[110]
+
+ center drive in central park
+center drive (also known as the "central park lower loop"[111]) connects northbound bicycle and carriage traffic from midtown at west drive and sixth avenue near the 65th street transverse. the street generally goes east and then north, forming the bottom part of the central park loop. the attractions along this street include the victorian gardens amusement park, the central park carousel and the central park mall.
+east drive, the easternmost of the three drives, connects northbound bicycle and carriage traffic from midtown to the upper west side at lenox avenue. the street is renowned for its country scenery and free concerts. it generally straddles the east side of the park along fifth avenue. the drive passes by the central park zoo around 63rd street and the metropolitan museum of art around the 80th to 84th street area. the drive is also one of the legs of the new york marathon. it is known as the "elite carriage parade", because at the time of the park's opening, only 5 percent of the city was able to afford the carriage; of this, walt whitman said that the carriage parade was "an impressive, rich, interminable circus on a grand scale, full of action and color."[112]
+the drives were formerly two-way traffic, but in november 1929, the scenic drives were converted to unidirectional traffic.[113] the improvements were intended to increase pedestrian safety. prior to the changes, there were large numbers of collisions between pedestrians and vehicles. in the first ten months of 1929, eight people were killed and 249 were injured in 338 separate collisions.[114] further improvements were made in 1932 when forty-two traffic lights were installed along the scenic drives, and the speed limit was lowered to 25 miles per hour (40 km/h). the signals were coordinated so that drivers could go through all of the green lights if they maintained a steady speed of 25 mph.[115] the drives were experimentally closed to automotive traffic on weekends starting in 1967, for exclusive use by pedestrians and bicyclists.[116] in subsequent years, the scenic drives were closed to automotive traffic for most of the day during the summer. by 1979, the drives were only open during rush hours and late evenings during the summer.[117]
+legislation was proposed in october 2014 to conduct a study to make the park car-free in summer 2015.[59] in 2015, mayor bill de blasio announced the permanent closure of west and east drives north of 72nd street to vehicular traffic as it was proven that closing the roads did not adversely impact traffic.[118] after most of the central park loop drives were closed to vehicular traffic, the city performed a follow-up study. the city found that west drive, which was used by 1,050 vehicles a day, was open for two hours during the morning rush hour, and that east drive, which was open for twelve hours a day, was used by 3,400 vehicles per day.[119] subsequently, all cars were banned from east drive in january 2018.[120] in april 2018, de blasio announced that the entirety of all three loop drives would be permanently closed to traffic.[119][121] the closure was placed into effect in june 2018.[61][62]
+
+issues[edit]
+central park was once a very dangerous place, especially after dark, as measured by crime statistics. the park is considerably safer in the 21st century, though during prior periods it was the site of numerous muggings and rapes. well-publicized incidents of sexual and confiscatory violence, such as the notorious 1989 central park jogger case,[122][123] dissuaded many from visiting one of manhattan's most scenic areas. fear was also directed toward the gay community after world war ii from a panic of sex crimes.[124][125] as crime has declined in the park and in the rest of new york city, many of the negative perceptions have begun to wane. safety measures hold the number of crimes in the park to fewer than one hundred per year, down from approximately 1,000 in the early 1980s.[126]
+on june 11, 2000, following the puerto rican day parade, gangs of drunken men sexually assaulted women in the park.[127] several arrests were made shortly after the attacks, but it was not until 2006 that a civil suit against the city for failing to provide police protection was finally settled.[128]
+permission to hold issue-centered rallies in central park, similar to the be-ins of the 1960s, has been met with increasingly stiff resistance from the city. during some 2004 protests, the organization united for peace and justice wanted to hold a rally on the great lawn during the republican national convention. the city denied application for a permit, stating that such a mass gathering would be harmful to the grass and that such damage would make it harder to collect private donations to maintain the park.[129] courts upheld the refusal.[130]
+during the 2000s and early 2010s, new towers were constructed along the southern end of central park. according to a municipal art society report, such buildings cast shadows over the southern end of the park. there has been some controversy over this.[131]
+
+
+gallery[edit]
+
+
+
+
+the mall and literary walk
+
+
+
+
+
+
+wollman skating rink
+
+
+
+
+
+
+the lake in snow, seen from the san remo on central park west
+
+
+
+
+
+
+shakespeare garden
+
+
+
+
+
+
+turtle pond
+
+
+
+
+
+
+the ramble
+
+
+
+
+
+
+sheep meadow
+
+
+
+
+
+
+view of harlem meer and dana discovery center
+
+
+
+
+notes[edit]
+
+
+^ "its increasing significance as a wildlife habitat" was noted on the conservancy's on-site information boards.
+
+
+references[edit]
+
+
+^ a b "about us". central park conservancy. 2014. retrieved march 25, 2014..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ "world's most-visited tourist attractions". travel + leisure by various contributors. october 2011. retrieved january 13, 2012.
+
+^ 
+"no. 2 central park, new york city". travel + leisure. october 2011. retrieved january 13, 2012.
+
+^ national park service (january 23, 2007). "national register information system". national register of historic places. national park service.
+
+^ https://npgallery.nps.gov/assetdetail/nris/66000538
+
+^ central park, unesco tentative list
+
+^ "central park". national historic landmark summary listing. national park service. september 10, 2007. archived from the original on october 13, 2007.
+
+^ "national register of historic places inventory". national park service. august 14, 1975.
+
+^ "national register of historic places inventory". national park service. august 14, 1975.
+
+^ foderaro, lisa w. (may 31, 2013). "surveying effort alters sizes of some new york parks". the new york times. issn 0362-4331. retrieved june 7, 2018.
+
+^ "frequently asked questions". new york city department of parks and recreation. retrieved february 1, 2017.
+
+^ http://www.centralpark.com/usr/maps/centralparkrunningmap.pdf
+
+^ "census tract 143, new york, ny". u.s. census bureau. retrieved july 11, 2006.
+
+^ feuer, alan (march 25, 2011). "census apparently did check behind every tree". the new york times.
+
+^ robledo, s. jhoanna; "central park: because we wouldn't trade a patch of grass for $528,783,552,000" nymag.com, december 18, 2005 (retrieved: august 26, 2009)
+
+^ "central park faq". archived from the original on may 24, 2011.
+
+^ "america's most visited city parks" (pdf). the trust for public land. june 2006. archived from the original (pdf) on july 25, 2006. retrieved july 11, 2006.
+
+^ pereira, ivan (december 10, 2017). "central park is a film superstar". am new york. retrieved december 11, 2017.
+
+^ "restoring a meadow to grandeur: conservancy marks milestone in central park", september 2011
+
+^ a b "about the central park conservancy". central park conservancy. retrieved july 15, 2010.
+
+^ a b c d blonsky, douglas (november 3, 2007). "saving the park: a key to nyc's revival". new york post. p. op-ed.
+
+^ todd, john emerson todd (1982). frederick law olmsted (see the history of green-wood cemetery). boston: twayne publishers: twayne's world leader series. p. 73.
+
+^ a b "the great park debate – 1850". centralparkhistory.com. retrieved october 20, 2014.
+
+^ a b "taking the land – 1850". centralparkhistory.com. retrieved october 20, 2014.
+
+^ a b andrew s. dolkart. "the architecture and development of new york city". retrieved october 20, 2014.
+
+^ "olmsted letter to parke godwin august 1, 1858". empire city: the making and meaning of the new york city landscape.
+
+^ "the design competition". centralparkhistory.com. retrieved october 20, 2014.
+
+^ "the victors". centralparkhistory.com. retrieved october 20, 2014.
+
+^ www.insecula.com central park (retrieved march 5, 2007) archived november 29, 2014, at the wayback machine
+
+^ gilligan, heather (february 23, 2017). "an entire manhattan village owned by black people was destroyed to build central park". timeline. retrieved february 10, 2018.
+
+^ rossi, peter h. (1989). down and out in america: the origins of homelessness. university of chicago press. isbn 0-226-72828-5.
+
+^ "manhattan's lost village of harsenville". ephemeral new york. retrieved august 28, 2016.
+
+^ beach, frederick converse beach; rines, george edwin, eds. (1903). "central city – central park". the encyclopedia americana. the americana company. 4.
+
+^ "the history of central park". sarah waxman. retrieved october 20, 2014.
+
+^ "centralparkhistory.com". centralparkhistory.com. retrieved april 2, 2016.
+
+^ "andrew haswell green".
+
+^ "harlem meer". centralpark.com. archived from the original on april 8, 2007. retrieved october 20, 2014.
+
+^ "andrew h. green and central park" (pdf). the new york times. retrieved october 20, 2014.
+
+^ henry hope reed, robert m. mcgee and esther mipaas. the bridges of central park. (greensward foundation) 1990.
+
+^ rosenzweig, roy; blackmar, elizabeth (1992). the park and the people: a history of central park. p. 150.
+
+^ a b c pollak, michael. (july 3, 2014). what is jamaica, queens, named after?, the new york times. retrieved july 6, 2014.
+
+^ "sheep meadow | your complete guide to central park". centralpark.com. archived from the original on august 21, 2010. retrieved april 22, 2011.
+
+^ "big apple history . new york living . bread lines | pbs kids go!". pbskids.org. archived from the original on april 3, 2012. retrieved april 22, 2011.
+
+^ "robert moses and a new deal". centralparkhistory.com. retrieved october 20, 2014.
+
+^ a b caro, robert a. (1974). the power broker: robert moses and the fall of new york. knopf. isbn 978-0-394-48076-3.
+
+^ stern, robert a.m.; gregory gilmartin; thomas mellins (1987). new york 1930. rizzoli new york. p. 710. isbn 978-0-8478-3096-1.
+
+^ "planting the seeds for the "great lawn"". centralparkhistory.com. retrieved october 20, 2014.
+
+^ "a pioneer of urban cycling". jim's bike blog. retrieved june 22, 2012.
+
+^ a b c d e f g "the history of central park". centralparknyc.org. august 18, 2009. retrieved december 20, 2012.
+
+^ murphy and ottavino 1986:24: "materials science, chemical testing, historical research, and attentive site supervision contributed to the successful rehabilitation of bethesda terrace".
+
+^ central park conservancy on-line history archived january 26, 2007, at the wayback machine.
+
+^ jackson, kenneth t., ed. (1995), the encyclopedia of new york city, new haven: yale university press, isbn 0300055366, pp. 497-498; louie, elaine (march 1, 1990). "currents; grand army plaza's rather grand history". the new york times. retrieved april 14, 2010.; goldberger, paul (june 28, 1990). "review/architecture; a restored grand army plaza, with a new coat for the general". the new york times. retrieved april 14, 2010.; "grand army plaza, redressed". the new york times. july 2, 1990. retrieved april 14, 2010.; morgan, ann lee (2007). the oxford dictionary of american art and artists. oxford reference online. oxford university press. p. 45. isbn 978-0-19-512878-9.
+
+^ "turtle pond". centralpark.org. retrieved october 12, 2014.
+
+^ murphy and ottavino 1986 and champe, peter; rabinowitz, mark (1999). "restoring the minton tile ceiling, bethesda terrace arcade, central park, new york city". apt bulletin. 30 (2–3): 11–16. doi:10.2307/1504635. jstor 1504635.
+
+^ the former replacement bridge with utilitarian spiked steel pipe handrails.
+
+^ central park conservancy press release archived october 3, 2007, at the wayback machine
+
+^ central park conservancy (february 12, 2015). "oak bridge at bank rock bay". the official website of central park nyc. retrieved october 12, 2017.
+
+^ lisa w. foderaro (october 23, 2012). "a $100 million thank-you for a lifetime's central park memories". the new york times. retrieved october 23, 2012.
+
+^ a b "imagine a car-free central park". the epoch times. october 16, 2014.
+
+^ "central park, prospect park loops to be closed to traffic on weekdays". 7 online. june 18, 2015. retrieved june 22, 2016.
+
+^ a b c walker, ameena (june 27, 2018). "at last, central park is permanently car-free". curbed ny. retrieved october 6, 2018.
+
+^ a b "central park goes car-free as traffic ban takes effect". abc7 new york. june 26, 2018. retrieved october 6, 2018.
+
+^ frank leslie's new york journal, volumes 1-2 p. 292
+
+^ christo and jeanne-claude, the gates: central park, new york city, 1979–2005, isbn 3-8228-4242-7
+
+^ february 25, 2005 cnn story about christo and jeanne-claude's the gates central park's 'gates' to close
+
+^ "central park monuments: delacorte clock". nyc parks. retrieved june 6, 2016.
+
+^ city at the water's edge: a natural history of new york by betsy mccully p. 6
+
+^ deformational history of manhattan rocks and its relationship with the state of in-situ stress in new york city [1]
+
+^ "geology of central park – from rocks to ice" by charles merguerian and mickey merguerian archived february 28, 2009, at the wayback machine
+
+^ "ratrock @ climbnyc.com". archived from the original on november 12, 2014.
+
+^ a b jennifer bleyer (october 7, 2007), "the zen of the rock", the new york times
+
+^ a b c john sherman (1994), stone crusade: a historical guide to bouldering in america, the mountaineers books, pp. 226–228, isbn 978-0-930410-62-9
+
+^ the new york times report by diane cardwell, july 30, 2007.
+
+^ www.centralparknyc.org the reservoir article
+
+^ www.centralparknyc.org the lake article
+
+^ www.centralparknyc.org harlem meer article
+
+^ www.centralparknyc.org the pond article
+
+^ "list of birds of central park". forest and stream. new york: the forest and stream publishing company. xxvi (20): 386–387. june 10, 1886.
+
+^ eugene kinkead (august 26, 1974). "the birds of central park". the new yorker. new york. xxvi (20): 78.
+
+^ "asian beetle nears central park". chicago tribune. august 19, 1999. retrieved november 14, 2014.
+
+^ "asian longhorned beetle returns to central park". nyc parks. retrieved november 14, 2014.
+
+^ "beetles infest 2 trees in central park". the baltimore sun. february 17, 2002. retrieved november 14, 2014.
+
+^ powerboats.
+
+^ a b tradition or cruelty?, jessica bennett, newsweek, september 25, 2007; accessed august 23, 2008
+
+^ chris hicks (april 16, 1996). "jupiter's wife". deseret news. salt lake city.
+
+^ richburg, keith b. (december 17, 2007). "bill could halt new york carriage horses". the washington post. retrieved august 23, 2008.
+
+^ bill could halt new york carriage horses, keith b. richburg, the washington post, december 17, 2007; accessed august 23, 2008
+
+^ another horse down in central park archived september 24, 2008, at the wayback machine, blog of the aspca, september 17, 2007; accessed august 23, 2008.
+
+^ peta fact sheet on horse carriage archived october 5, 2008, at the wayback machine; accessed august 23, 2008
+
+^ home on the asphalt, lloyd grove, new york magazine, march 16, 2008; accessed august 23, 2008
+
+^ a b carriage horse industry at a crossroads, kristin cole, cbs news, november 5, 2007; accessed august 23, 2008.
+
+^ horse pucky, editorial of the new york sun, november 30, 2007; accessed august 23, 2008
+
+^ film highlights suffering of nyc carriage horses archived july 18, 2008, at the wayback machine, humane society of the united states, april 24, 2008
+
+^ "central park conservancy says cars are poor alternative to horses". ny daily news.
+
+^ "old school cars could replace central park horse carriages". new york post.
+
+^ "pedicab tours".
+
+^ "in recent years, pedicabs have become ubiquitous in midtown. they pick up theatergoers on broadway, courting couples in central park and give gawking tourists a new way to stare at the tall buildings" ("keep the big wheels turning ", the new york times, 18 december 2005).
+
+^ hourigan, ssan. "racing". century road club association. archived from the original on january 16, 2016. retrieved january 9, 2016.
+
+^ christopher s. wren, "a summit in central park; boulder gives climbers a taste of the mountain", the new york times, july 21, 1999. retrieved october 8, 2007.
+
+^ cuozzo, steve (january 31, 2011). "tavern deal not crystal clear". new york post. retrieved february 1, 2011.
+
+^ "tavern on the green to open april 24 for dinner; to add brunch, lunch in may". ny daily news.
+
+^ central park conservancy. "loeb boathouse". the official website of central park nyc. retrieved october 12, 2017.
+
+^ gretschel, johanna (october 5, 2017). "jenny simpson aims for sixth title, course record at 5th avenue mile". flotrack. retrieved october 12, 2017.
+
+^ for the bon jovi concert, july 12, 2008, 60,000 free tickets were distributed by the city; a large section of central park was closed to the non-ticketed public.
+
+^ "garth brooks: the entertainer". garthbrooks.com. archived from the original on january 3, 2010. retrieved february 14, 2010.
+
+^ "subway map" (pdf). metropolitan transportation authority. january 18, 2018. retrieved january 18, 2018.
+
+^ "manhattan bus map" (pdf). metropolitan transportation authority. december 2017. retrieved april 24, 2018.
+
+^ "central park west drive 1906".[permanent dead link]
+
+^ "west drive, central park".
+
+^ "pedestrians walking into bicycle danger zones in central park". new york post.
+
+^ "central park drives: improvements for pedestrians & cyclists" (pdf).
+
+^ "the elite "carriage parade" in 1860s central park".
+
+^ "one-way traffic ordered for central park; new zone created to relieve congestion". the new york times. november 23, 1929. retrieved october 6, 2018.
+
+^ "park safety is aim of one-way rules; no intention to make express motor highways of the drives, hoyt explains. sees pedestrians aided deputy commissioner also predicts added security for autoists on narrow, winding roads". the new york times. november 27, 1929. retrieved october 6, 2018.
+
+^ "central park uses new traffic lights today to curb speeding and protect pedestrians". the new york times. march 1, 1932. retrieved october 6, 2018.
+
+^ "new car ban set for central park; test will give cyclists sole use of drives on saturdays". the new york times. april 17, 1967. retrieved october 6, 2018.
+
+^ daniels, lee a. (may 8, 1979). "car ban, a spring ritual, gives park roads to the people". the new york times. retrieved october 6, 2018.
+
+^ emily frost (june 18, 2015). "central park will be permanently car-free above 72nd street, mayor says". dna info. archived from the original on september 28, 2015. retrieved june 22, 2016.
+
+^ a b "central park's scenic drives will soon be car-free". the new york times. april 20, 2018. retrieved october 6, 2018.
+
+^ plitt, amy (january 2, 2018). "at last, prospect park is permanently car-free". curbed ny. retrieved october 6, 2018.
+
+^ cherelus, gina (april 20, 2018). "new york banning cars from central park starting this summer". reuters u.s. retrieved october 6, 2018.
+
+^ "affirmation in response to motion to vacate judgment of conviction: the people of the state of new york -against- kharey wise, kevin richardson, antron mccray, yusef salaam, and raymond santana, defendants" (pdf). robert m. morgenthau, district attorney, new york county. december 5, 2002. retrieved june 22, 2007.
+
+^ didion, joan (january 17, 1991). "sentimental journeys". the new york review of books. retrieved june 21, 2007. this essay has also been published in didion's non-fiction collection after henry (1992).
+
+^ "gays in central park".
+
+^ chauncey, george (may 19, 1995). gay new york: gender, urban culture, and the makings of the gay male world. new york: basic books. isbn 0465026214.
+
+^ "nypd compstat report, 22nd precinct" (pdf). archived from the original (pdf) on december 21, 2008.
+
+^ chivers, c. j.; kevin flynn (june 13, 2000). "35 scary minutes: women tell police of assaults in park". the new york times. p. 1. retrieved april 11, 2012.
+
+^ hartocollis, anemona (march 16, 2006). "new york settles with woman abused at 2000 parade". the new york times. retrieved october 12, 2017.
+
+^ "judge blocks central park protest". commondreams.org. august 25, 2004. archived from the original on march 24, 2012. retrieved march 1, 2012.
+
+^ "judge blocks rnc protest in central park". cnn.com. august 24, 2004.
+
+^ "accidental skyline". mas.org. october 15, 2014. retrieved march 1, 2015.
+
+
+further reading[edit]
+.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}
+"1857 central park commissioners annual report" (pdf). new york city department of parks and recreation. 1857. retrieved january 13, 2017.
+"1858 central park commissioners annual report" (pdf). new york city department of parks and recreation. 1858. retrieved january 13, 2017.
+"1859 central park commissioners annual report" (pdf). new york city department of parks and recreation. 1859. retrieved january 13, 2017.
+"1860 central park commissioners annual report" (pdf). new york city department of parks and recreation. 1860. retrieved january 13, 2017.
+"1861 central park commissioners annual report" (pdf). new york city department of parks and recreation. 1861. retrieved january 13, 2017.
+"1862 central park commissioners annual report" (pdf). new york city department of parks and recreation. 1862. retrieved january 13, 2017.
+"1863 central park commissioners annual report" (pdf). new york city department of parks and recreation. 1863. retrieved january 13, 2017.
+"1864 central park commissioners annual report" (pdf). new york city department of parks and recreation. 1864. retrieved january 13, 2017.
+"1865 central park commissioners annual report" (pdf). new york city department of parks and recreation. 1865. retrieved january 13, 2017.
+"1867 central park commissioners annual report" (pdf). new york city department of parks and recreation. 1867. retrieved january 13, 2017.
+"1868 central park commissioners annual report" (pdf). new york city department of parks and recreation. 1868. retrieved january 13, 2017.
+"1869 central park commissioners annual report" (pdf). new york city department of parks and recreation. 1869. retrieved january 13, 2017.
+"architects' report to the board of commissioners of the central park, new york" (pdf). new york city department of parks and recreation. 1858. retrieved january 13, 2017.
+"communication to the commissioners of central park" (pdf). new york city department of parks and recreation. 1866. retrieved january 13, 2017.
+"documents of the board of commissioners of central park for the year ending april 30, 1858" (pdf). new york city department of parks and recreation. 1858. retrieved january 13, 2017.
+"documents of the board of commissioners of central park for the year ending january 30, 1859" (pdf). new york city department of parks and recreation. 1859. retrieved january 13, 2017.
+kelly, bruce; guillet, gail t.; hern, mary ellen w. (1981). art of the olmsted landscape. new york city landmarks preservation commission; arts publisher. isbn 0-941302-00-8.
+kinkead, eugene (1990). central park, 1857-1995: the birth, decline, and renewal of a national treasure. new york: norton. isbn 0-393-02531-4.
+martin, douglas (january 31, 1997). "a village dies, a park is born". the new york times.
+miller, sara cedar (2003). central park, an american masterpiece: a comprehensive history of the nation's first urban park. new york: abrams. isbn 0-8109-3946-0.
+rosenzweig, roy; blackmar, elizabeth (1992). the park and the people: a history of central park. ithaca, ny: cornell university press. isbn 0-8014-9751-5.
+schuyler, david. parks in urban america. oxford university press.
+swerdlow, joel l (may 1993). "central park – oasis in the city". national geographic.
+taylor, dorceta e. (2009). "section 3". the environment and the people in american cities, 1600s-1900s: disorder, inequality, and social change. duke university press. isbn 978-0-8223-4451-3.
+voorsanger, catherine hoover; howat, john k., eds. (2000). art and the empire city: new york, 1825-1861. new york: metropolitan museum of art. isbn 9780870999574.
+wiseman, frederick (director) (1990). central park (motion picture).
+van buren, alex (2016). "12 secrets of new york's central park". smithsonian magazine.
+
+external links[edit]
+
+
+
+wikimedia commons has media related to:
+ central park (category)
+
+
+
+wikivoyage has a travel guide for manhattan/central park.
+kml file (edit • help)
+template:attached kml/central parkkml is from wikidata
+official website (new york city department of parks and recreation)
+official website (central park conservancy)
+"central park police precinct". nyc.gov.
+"central park". national historic landmarks program. archived from the original on october 13, 2007.
+vtecentral parklandmarksgeographicalfeatures
+cedar hill
+cherry hill
+conservatory garden
+conservatory water
+great lawn and turtle pond
+harlem meer
+jacqueline kennedy onassis reservoir
+the pond and hallett nature sanctuary
+the ramble and lake
+seneca village
+sheep meadow
+sculptures
+107th infantry memorial
+alexander hamilton
+angel of the waters
+balto
+christopher columbus
+cleopatra's needle
+daniel webster
+eagles and prey
+the falconer
+fitz-greene halleck
+frederick douglass memorial
+giuseppe mazzini
+indian hunter
+king jagiello monument
+robert burns
+romeo and juliet
+samuel finley breese morse
+seventh regiment memorial
+sir walter scott
+j. marion sims (removed 2018)
+the gates (removed 2005)
+the tempest
+untermyer fountain
+three dancing maidens
+uss maine national monument
+victor herbert
+william shakespeare
+otherfeatures
+arsenal
+belvedere castle
+bethesda terrace and fountain
+blockhouse
+bridges
+burnett memorial fountain
+carousel
+delacorte theater
+diana ross playground
+fort clinton
+lasker rink
+mall
+marionette theatre
+mcgowan's pass
+mcgown's pass tavern
+pug hill
+richard morris hunt memorial
+rumsey playfield
+strawberry fields
+tavern on the green
+victorian gardens
+wollman rink
+zoo
+escape hoax
+zoo york wall
+zoo york
+
+
+
+
+events
+be-ins
+the concert
+uae healthy kidney 10k
+new york mini 10k
+concerto: one night in central park
+shakespeare in the park
+summerstage
+neighboringtransportationborder roads
+east: fifth avenue
+north: 110th street
+south: 59th street
+west: eighth avenue
+transverses
+66th
+79th
+85th
+97th
+subway stations
+fifth avenue–59th street
+59th street–columbus circle
+72nd street
+81st street
+86th street
+96th street
+103rd street
+cathedral parkway–110th street
+central park north–110th street
+miscellaneous
+frederick law olmsted
+calvert vaux
+hal the coyote
+pale male (hawk)
+pattycake (gorilla)
+conservancy
+jogger case
+medical unit
+popular culture
+see also: new york city department of parks and recreation
+articles related to central park
+vtetourist attractions in new york citymore than 10 millionannual visitors
+times square (50 m)
+central park (40 m)
+grand central terminal (21.6 m)
+broadway (13.2 m)
+south street seaport (12 m)
+rockefeller center
+1 to 10 millionannual visitors
+high line (7.6 m)
+metropolitan museum of art (6.3 m)
+american museum of natural history (5.0 m)
+national september 11 memorial & museum (5.0 m)
+empire state building (3.5 m)
+museum of modern art (2.8 m)
+statue of liberty (2.4 m)
+one world trade center (2.3 m)
+bronx zoo (1.8 m)
+ellis island (1.7 m)
+note: visitor numbers are estimates only.see also: tourism in new york city
+vteprotected areas of new york cityfederalnational historic sites
+lower east side tenement museum
+theodore roosevelt birthplace
+national monumentsand memorials
+african burial ground
+castle clinton
+federal hall
+general grant
+governors island
+hamilton grange
+statue of liberty
+stonewall
+other protected areas
+gateway national recreation area
+floyd bennett field
+fort tilden
+fort wadsworth
+great kills
+jamaica bay wildlife refuge
+jacob riis
+miller field
+statestate parks
+bayswater point
+clay pit ponds
+east river
+franklin d. roosevelt four freedoms
+gantry plaza
+riverbank
+roberto clemente
+city parks and preservesmanhattan
+79th street boat basin
+abingdon square
+albert capsouto
+asphalt green
+battery
+bennett
+british garden at hanover square
+bowling green
+bryant
+captain patrick j. brown walk
+carl schurz
+central
+chelsea
+city hall
+collect
+columbus
+corlears hook
+dag hammarskjold plaza
+damrosch
+dante
+desalvio playground
+dewitt clinton
+drumgoole plaza
+duane
+east river greenway
+east river esplanade
+east river
+stuyvesant cove
+father demo square
+finn square
+foley square
+fort tryon
+fort washington
+gorman
+gramercy
+greenacre
+hamilton fish
+hanover square
+harlem river
+hell's kitchen
+herald square
+high line
+highbridge
+holcombe rucker
+hudson
+hudson river
+imagination playground at burling slip
+inwood hill
+isham
+j. hood wright
+jackie robinson
+jackson square
+john jay
+liberty
+louis cuvillier
+madison square
+manhattan waterfront greenway
+marcus garvey
+mill rock
+mitchell square
+morningside
+murphy's brother's playground
+muscota marsh
+paley
+peretz square
+peter cooper
+plaza lafayette
+queen elizabeth ii september 11th garden
+ralph bunche
+randalls island
+richard tucker square
+riverside
+robert moses playground
+roosevelt triangle
+rucker
+sakura
+samuel n. bennerson 2nd playground
+sara delano roosevelt
+septuagesimo uno
+seward
+sheridan square
+sherman square
+st. john's
+st. nicholas
+st. vartan
+straus
+stuyvesant square
+swindler cove
+teardrop
+theodore roosevelt
+thomas jefferson
+thomas paine
+tompkins square
+tribeca
+union square
+verdi square
+vesuvio playground
+wards island
+washington market
+washington square
+west side community garden
+winston churchill
+zuccotti
+brooklyn
+american veterans memorial pier
+amersfort
+asser levy
+bath beach
+betsy head
+bensonhurst
+breukelen ballfields
+brooklyn botanic garden
+brooklyn bridge
+brooklyn heights promenade
+brooklyn–queens greenway
+brower
+bushwick
+byrne
+cadman plaza
+canarsie
+carroll
+calvert vaux
+city line
+coffey
+columbus
+commodore barry
+coney island beach & boardwalk
+coney island creek
+continental army plaza
+cooper
+domino
+dyker beach
+floyd bennett field
+fort greene
+four sparrow marsh
+frank m. charles
+fresh creek nature preserve
+friends field
+fulton
+gravesend
+green central knoll
+herbert von king
+highland
+irving square
+jj byrne
+jamaica bay
+john j. carty
+john paul jones
+kaiser
+kelly
+leif ericson
+leon s. kaiser playground
+lieutenant joseph petrosino
+lincoln terrace
+linden
+lindower
+linton
+manhattan beach
+maria hernandez
+marine
+mccarren
+mcgolrick
+mckinley
+mt. prospect
+owl's head
+paerdegat basin
+paerdegat
+prospect
+red hook
+robert e. venable
+saratoga
+scarangella
+seaside
+seth low
+shore
+spring creek
+steeplechase
+sternberg
+st. johns
+sunset
+tompkins
+trinity
+van voorhees
+walt whitman
+wingate
+wnyc transmitter
+zion triangle
+the bronx
+baretto point
+bicentennial veterans
+bridge
+bronx
+new york botanical garden
+castle hill
+city island wetlands
+claremont
+concrete plant
+crotona
+devoe
+estella diggs
+ewen
+ferry point
+givans creek woods
+grant
+haffen
+harding
+harris
+henry hudson
+hunts point
+jerome
+joseph rodman drake
+joyce kilmer
+julius richman
+macombs dam
+mill pond
+mullaly
+north and south brother islands
+pelham bay
+orchard beach
+rodman's neck
+playground 52
+poe
+printer's
+pugsley creek
+rainey
+raoul wallenberg forest
+richman
+riverdale
+st. mary's
+seton falls
+seton
+soundview
+spuyten duyvil shorefront
+st. james
+st. mary's
+starlight
+tremont
+university woods
+van cortlandt
+vidalia
+vinmont veteran
+washington's walk
+williamsbridge oval
+queens
+admiral
+alley
+alley pond
+andrews grove
+astoria
+baisley pond
+bayside fields
+bayswater
+beach channel
+big bush
+bowne
+brant point wildlife sanctuary
+breininger
+broad channel american
+broad channel
+broad channel wetlands
+brooklyn–queens greenway
+brookville
+bulova
+captain tilly
+crocheron
+cunningham
+det. keith l. williams
+det. william t. gunn
+dr. charles r. drew
+dubos point wildlife sanctuary
+doughboy
+douglaston
+elmhurst
+evergreen
+flushing fields
+flushing meadows-corona
+forest
+fort tilden
+fort totten
+francis lewis
+frank golden
+frank principe
+haggerty
+harvey
+highland
+hinton
+hoffman
+hook creek
+hunter's point
+idlewild
+jamaica bay
+john golden
+juniper valley
+kissena
+kohlreiter square
+libra triangle
+linnaeus
+little bay
+louis pasteur
+mafera
+macneil
+marconi
+marie curie
+montbellier
+o'donohue
+overlook
+park of the americas
+phil "scooter" rizzuto
+ofc. edward byrne
+powell's cove
+queens county farm museum
+queensbridge
+rachel carson
+railroad
+ralph demarco
+rochdale
+rockaway community
+rufus king
+seagirt avenue wetlands
+socrates sculpture
+spring creek
+springfield
+st. albans
+travers
+triangle 54
+tudor
+udall's park preserve
+wayanda
+staten island
+aesop
+allison pond
+amundsen circle
+annadale
+arbutus woods
+arden woods
+austen house
+barrett
+bayview terrace
+blood root valley
+bloomingdale
+blue heron park preserve
+blueberry
+bradys
+bunker ponds
+buono beach
+carlton
+clove lakes
+clove's tail
+conference house
+corporal thompson
+crescent beach
+deere
+eibs pond
+faber
+fairview
+father macris
+forest grove
+fort hill
+fort wadsworth
+south beach–fdr boardwalk
+freshkills
+gaeta
+great kills
+graniteville quarry
+graniteville swamp
+hero
+high rock
+hoffman island
+huguenot ponds
+hybrid oak woods
+ingram woods
+isle of meadows
+jones woods
+joseph manna
+king fisher
+kingdom pond
+last chance
+latourette
+lemon creek
+long pond
+gen. macarthur
+maple woods
+mariners marsh
+meredith woods
+midland beach
+midland field
+miller field
+mount loretto unique area
+new dorp beach
+new york chinese scholar's garden
+northerleigh
+ocean breeze
+old place creek
+olmstead-beil house
+prall's island
+reed's basket willow swamp
+richmond terrace wetlands
+saw mill creek marsh
+schmul
+seaside wildlife nature
+shooters island
+siedenburg
+silver lake
+snug harbor cultural center & botanical garden
+sobel court
+south beach wetlands
+st. george
+staten island greenbelt
+staten island industrial
+swinburne island
+tappen
+tompkinsville
+tottenville shore
+von briesen
+walker
+wegener
+westerleigh
+westwood
+william t. davis wildlife refuge
+willowbrook
+wolfe's pond
+othernature centers
+alley pond 
+belvedere castle
+blue heron
+crotona
+dana discovery center
+forest
+fort greene
+fort totten
+greenbelt
+high rock
+inwood hill
+orchard beach
+prospect
+salt marsh
+van cortlandt
+zoos
+bronx
+central park
+prospect park
+queens
+staten island
+botanical gardens
+brooklyn botanic
+conservatory
+new york botanical
+queens botanical
+staten island botanical
+new york chinese scholar's
+wave hill
+roosevelt island
+lighthouse
+southpoint
+other lists
+world war i-related parks
+vietnam war-related parks
+
+ category
+department of parks and recreation
+new york state
+ commons
+
+vtenew york city historic sites
+nrhp
+manhattan
+brooklyn
+queens
+staten island
+bronx
+nhl
+new york state
+
+nyc
+manhattan
+below 14th st
+14th-59th sts
+59th-110th sts
+above 110th st
+smaller islands
+brooklyn
+queens
+staten island
+bronx
+
+vteu.s. national register of historic places in new yorktopics
+contributing property
+keeper of the register
+historic district
+history of the national register of historic places
+national park service
+property types
+listsby county
+albany
+allegany
+bronx
+broome
+cattaraugus
+cayuga
+chautauqua
+chemung
+chenango
+clinton
+columbia
+cortland
+delaware
+dutchess
+erie
+essex
+franklin
+fulton
+genesee
+greene
+hamilton
+herkimer
+jefferson
+kings (brooklyn)
+lewis
+livingston
+madison
+monroe
+montgomery
+nassau
+new york (manhattan)
+niagara
+oneida
+onondaga
+ontario
+orange
+orleans
+oswego
+otsego
+putnam
+queens
+rensselaer
+richmond (staten island)
+rockland
+saratoga
+schenectady
+schoharie
+schuyler
+seneca
+st. lawrence
+steuben
+suffolk
+sullivan
+tioga
+tompkins
+ulster
+warren
+washington
+wayne
+westchester
+northern
+southern
+wyoming
+yates
+listsby city
+albany
+buffalo
+new rochelle
+new york city
+bronx
+brooklyn
+queens
+staten island
+manhattan
+below 14th st.
+14th–59th st.
+59th–110th st.
+above 110th st.
+minor islands
+niagara falls
+peekskill
+ poughkeepsie
+rhinebeck
+rochester
+syracuse
+yonkers
+other lists
+bridges and tunnels
+national historic landmarks
+
+ category
+ list
+ national register of historic places portal
+
+authority control 
+gnd: 4480303-5
+musicbrainz: 8383a17b-60ee-4402-bbe9-bb9163a68e9c
+nara: 10038347
+nkc: mzk2005280328
+viaf: 315146053
+ worldcat identities (via viaf): 315146053
+
+central park portalnew york city portal
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=central_park&oldid=883641910"					
+categories: central park1873 establishments in new york (state)frederick law olmsted worksharlemhistoric public gardenslandscape design history of the united statesmidtown manhattannational historic landmarks in manhattanparks in manhattanparks on the national register of historic places in new york (state)upper east sideupper west sideurban forests in the united statesurban public parkshidden categories: webarchive template wayback linkscs1: julian–gregorian uncertaintyall articles with dead external linksarticles with dead external links from december 2017articles with permanently dead external linksarticles with short descriptionuse mdy dates from october 2018coordinates on wikidataarticles containing potentially dated statements from 2007all articles containing potentially dated statementspages using new york city subway service templatesarticles using kml from wikidataofficial website different in wikidata and wikipediawikipedia articles with gnd identifierswikipedia articles with musicbrainz place identifierswikipedia articles with nara identifierswikipedia articles with nkc identifierswikipedia articles with viaf identifierswikipedia articles with worldcat-viaf identifiersarticles containing video clipspages with maps 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readeditview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commonswikivoyage 
+
+
+
+languages
+
+
+afrikaansالعربيةasturianuazərbaycancaবাংলাbân-lâm-gúбългарскиcatalàcebuanočeštinadanskdeutscheestiελληνικάespañolesperantoeuskaraفارسیføroysktfrançaisgaeilgegalego한국어հայերենhrvatskibahasa indonesiaíslenskaitalianoעבריתქართულიlatviešulietuviųmagyarмакедонскиmalagasyमराठीمصرىnederlands日本語norsknorsk nynorskoccitanپنجابیpolskiportuguêsromânăрусскийsarduscotsshqipsicilianusimple englishslovenčinaсрпски / srpskisuomisvenskatagalogதமிழ்ไทยtürkçeукраїнськаtiếng việtwinaray粵語zazaki中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 16 february 2019, at 18:06 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"2.020","walltime":"2.410","ppvisitednodes":{"value":13326,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":526366,"limit":2097152},"templateargumentsize":{"value":97904,"limit":2097152},"expansiondepth":{"value":22,"limit":40},"expensivefunctioncount":{"value":14,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":395265,"limit":5000000},"entityaccesscount":{"value":5,"limit":400},"timingprofile":["100.00% 1792.635      1 -total"," 41.77%  748.780      2 template:reflist"," 25.63%  459.431     93 template:cite_web"," 19.07%  341.798      3 template:infobox"," 12.69%  227.568      1 template:infobox_park","  5.63%  100.871      1 template:navboxes","  5.20%   93.214      1 template:infobox_nrhp","  3.97%   71.153     15 template:cite_book","  3.51%   62.966     10 template:navbox","  3.40%   60.943     13 template:cite_news"]},"scribunto":{"limitreport-timeusage":{"value":"0.889","limit":"10.000"},"limitreport-memusage":{"value":12627614,"limit":52428800}},"cachereport":{"origin":"mw1324","timestamp":"20190218162836","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"central park","url":"https:\/\/en.wikipedia.org\/wiki\/central_park","sameas":"http:\/\/www.wikidata.org\/entity\/q160409","mainentity":"http:\/\/www.wikidata.org\/entity\/q160409","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2002-02-03t19:30:03z","datemodified":"2019-02-16t18:06:33z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/05\/southwest_corner_of_central_park%2c_looking_east%2c_nyc.jpg","headline":"public park at the center of manhattan in new york city, new york, united states"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":2570,"wghostname":"mw1324"});});
+
+

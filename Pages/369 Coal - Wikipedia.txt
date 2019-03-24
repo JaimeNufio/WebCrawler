@@ -1,0 +1,1575 @@
+
+
+
+
+coal - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"coal","wgtitle":"coal","wgcurrevisionid":883609946,"wgrevisionid":883609946,"wgarticleid":5987,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["webarchive template wayback links","articles with inconsistent citation formats","cs1 german-language sources (de)","wikipedia semi-protected pages","articles with short description","use dmy dates from december 2016","wikipedia articles needing clarification from december 2018","all articles with unsourced statements","articles with unsourced statements from december 2018","wikipedia articles incorporating a citation from the 1911 encyclopaedia britannica with wikisource reference","wikipedia articles incorporating a citation from the new international encyclopedia","wikipedia articles incorporating a citation from collier's encyclopedia","wikipedia articles with gnd identifiers","wikipedia articles with lccn identifiers","wikipedia articles with ndl identifiers","coal","coal mining","economic geology","fuels","sedimentary rocks","solid fuels"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"coal","wgrelevantarticleid":5987,"wgrequestid":"xgvt9gpaickaah6pdugaaack","wgcspnonce":false,"wgisprobablyeditable":false,"wgrelevantpageisprobablyeditable":false,"wgrestrictionedit":["autoconfirmed"],"wgrestrictionmove":["sysop"],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q24489","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","ext.math.scripts","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+coal 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+for other uses, see coal (disambiguation).
+
+
+a combustible sedimentary rock composed primarily of carbon
+
+
+coalsedimentary rockbituminous coalcompositionprimarycarbonsecondary
+hydrogen
+sulfur
+oxygen
+nitrogen
+
+ lignite (brown coal)
+ anthracite (hard coal)
+coal is a combustible black or brownish-black sedimentary rock, formed as rock strata called coal seams. coal is mostly carbon with variable amounts of other elements; chiefly hydrogen, sulfur, oxygen, and nitrogen.[1]
+coal is formed if dead plant matter decays into peat and over millions of years the heat and pressure of deep burial converts the peat into coal.[2]
+as a fossil fuel burned for heat, coal supplies about a quarter of the world's primary energy and two-fifths of its electricity.[3] some iron and steel making and other industrial processes burn coal.
+the extraction and use of coal causes many premature deaths and much illness.[4] coal damages the environment; including by climate change as it is the largest anthropogenic source of carbon dioxide, 14 gt in 2016[5] which is 40% of the total fossil fuel emissions.[6] as part of the worldwide energy transition many countries have stopped using or use less coal.
+the largest consumer and importer of coal is china. and china mines almost half the world's coal, followed by india with about a tenth. australia accounts for about a third of world coal exports followed by indonesia and russia.[7]
+
+contents
+
+1 etymology
+2 geology
+
+2.1 formation
+2.2 types
+
+2.2.1 hilt's law
+
+
+
+
+3 history
+4 emission intensity
+
+4.1 energy density
+
+
+5 chemistry
+
+5.1 content
+5.2 coking coal and use of coke to smelt iron
+
+5.2.1 use in foundry components
+5.2.2 alternatives to coke
+
+
+5.3 gasification
+5.4 liquefaction
+5.5 production of chemicals
+
+
+6 coal as fuel to generate electricity
+
+6.1 precombustion treatment
+6.2 power plant combustion
+
+
+7 coal industry
+
+7.1 coal mining
+
+7.1.1 legality of coal mining
+
+
+7.2 coal as a traded commodity
+7.3 market trends
+7.4 major coal producers
+7.5 major coal consumers
+7.6 major coal exporters
+7.7 major coal importers
+
+
+8 damage to human health
+9 damage to the environment
+
+9.1 underground fires
+9.2 global warming
+
+
+10 coal pollution mitigation
+
+10.1 standards
+10.2 satellite monitoring
+10.3 combined cycle power plants
+10.4 carbon capture and storage
+
+
+11 economics
+
+11.1 subsidies
+11.2 stranded assets
+
+
+12 politics
+
+12.1 corruption
+
+
+13 opposition to coal
+14 transition away from coal
+
+14.1 peak coal
+14.2 switch to cleaner fuels and lower carbon electricity generation
+14.3 coal regions in transition
+14.4 employment
+14.5 bioremediation
+
+
+15 cultural usage
+16 see also
+17 references
+18 further reading
+19 external links
+
+
+etymology
+the word originally took the form col in old english, from proto-germanic *kula(n), which in turn is hypothesized to come from the proto-indo-european root *g(e)u-lo- "live coal".[8] germanic cognates include the old frisian kole, middle dutch cole, dutch kool, old high german chol, german kohle and old norse kol, and the irish word gual is also a cognate via the indo-european root.[8]
+
+geology
+coal is composed of macerals, minerals and water.[9] fossils and amber may be found in coal.
+
+formation
+ example chemical structure of coal
+at various times in the geologic past, the earth had dense forests[10] in low-lying wetland areas. due to natural processes such as flooding, these forests were buried underneath soil. as more and more soil deposited over them, they were compressed. the temperature also rose as they sank deeper and deeper. as the process continued the plant matter was protected from biodegradation and oxidation, usually by mud or acidic water. this trapped the carbon in immense peat bogs that were eventually covered and deeply buried by sediments. under high pressure and high temperature, dead vegetation was slowly converted to coal. the conversion of dead vegetation into coal is called coalification. coalification starts with dead plant matter decaying into peat. then over millions of years the heat and pressure of deep burial causes the loss of water, methane and carbon dioxide and an increase in the proportion of carbon.[9] thus first lignite (also called "brown coal"), then sub-bituminous coal, bituminous coal, and lastly anthracite (also called "hard coal" or "black coal") may be formed.[2][11]
+the wide, shallow seas of the carboniferous period provided ideal conditions for coal formation, although coal is known from most geological periods. the exception is the coal gap in the permian–triassic extinction event, where coal is rare. coal is known from precambrian strata, which predate land plants—this coal is presumed to have originated from residues of algae.[12][13]
+sometimes coal seams (also known as coal beds) are interbedded with other sediments in a cyclothem.
+
+types
+ coastal exposure of the point aconi seam in nova scotia
+ coal ranking system used by the united states geological survey
+as geological processes apply pressure to dead biotic material over time, under suitable conditions, its metamorphic grade or rank increases successively into:
+
+peat, a precursor of coal
+lignite, or brown coal, the lowest rank of coal, most harmful to health,[14] used almost exclusively as fuel for electric power generation
+jet, a compact form of lignite, sometimes polished; used as an ornamental stone since the upper palaeolithic
+sub-bituminous coal, whose properties range between those of lignite and those of bituminous coal, is used primarily as fuel for steam-electric power generation.
+bituminous coal, a dense sedimentary rock, usually black, but sometimes dark brown, often with well-defined bands of bright and dull material it is used primarily as fuel in steam-electric power generation and to make coke.
+anthracite, the highest rank of coal is a harder, glossy black coal used primarily for residential and commercial space heating.
+graphite is difficult to ignite and not commonly used as fuel; it is most used in pencils, or powdered for lubrication.
+cannel coal (sometimes called "candle coal") is a variety of fine-grained, high-rank coal with significant hydrogen content, which consists primarily of liptinite.
+there are several international standards for coal.[15] the classification of coal is generally based on the content of volatiles. however the most important distinction is between thermal coal (also known as steam coal), which is burnt to generate electricity via steam; and metallurgical coal (also known as coking coal), which is burnt at high temperature to make steel.
+
+hilt's law
+main article: hilt's law
+hilt's law is a geological observation that (within a small area) the deeper the coal is found, the higher its rank (or grade). it applies if the thermal gradient is entirely vertical; however, metamorphism may cause lateral changes of rank, irrespective of depth.
+
+history
+further information: history of coal mining
+ chinese coal miners in an illustration of the tiangong kaiwu encyclopedia, published in 1637
+the earliest recognized use is from the shenyang area of china where by 4000 bc neolithic inhabitants had begun carving ornaments from black lignite.[16] coal from the fushun mine in northeastern china was used to smelt copper as early as 1000 bc.[17] marco polo, the italian who traveled to china in the 13th century, described coal as "black stones ... which burn like logs", and said coal was so plentiful, people could take three hot baths a week.[18] in europe, the earliest reference to the use of coal as fuel is from the geological treatise on stones (lap. 16) by the greek scientist theophrastus (c. 371–287 bc):[19][20]
+
+.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0} among the materials that are dug because they are useful, those known as anthrakes [coals] are made of earth, and, once set on fire, they burn like charcoal. they are found in liguria ... and in elis as one approaches olympia by the mountain road; and they are used by those who work in metals.— theophrastus, on stones (16) translation
+
+outcrop coal was used in britain during the bronze age (3000–2000 bc), where it formed part of funeral pyres.[21][22] in roman britain, with the exception of two modern fields, "the romans were exploiting coals in all the major coalfields in england and wales by the end of the second century ad".[23] evidence of trade in coal, dated to about ad 200, has been found at the roman settlement at heronbridge, near chester; and in the fenlands of east anglia, where coal from the midlands was transported via the car dyke for use in drying grain.[24] coal cinders have been found in the hearths of villas and roman forts, particularly in northumberland, dated to around ad 400. in the west of england, contemporary writers described the wonder of a permanent brazier of coal on the altar of minerva at aquae sulis (modern day bath), although in fact easily accessible surface coal from what became the somerset coalfield was in common use in quite lowly dwellings locally.[25] evidence of coal's use for iron-working in the city during the roman period has been found.[26] in eschweiler, rhineland, deposits of bituminous coal were used by the romans for the smelting of iron ore.[23]
+
+ coal miner in britain, 1942
+no evidence exists of the product being of great importance in britain before about ad 1000, the high middle ages.[27] mineral[clarification needed] coal came to be referred to as "seacoal" in the 13th century; the wharf where the material arrived in london was known as seacoal lane, so identified in a charter of king henry iii granted in 1253.[28] initially, the name was given because much coal was found on the shore, having fallen from the exposed coal seams on cliffs above or washed out of underwater coal outcrops,[27] but by the time of henry viii, it was understood to derive from the way it was carried to london by sea.[29] in 1257–1259, coal from newcastle upon tyne was shipped to london for the smiths and lime-burners building westminster abbey.[27] seacoal lane and newcastle lane, where coal was unloaded at wharves along the river fleet, still exist.[30]
+these easily accessible sources had largely become exhausted (or could not meet the growing demand) by the 13th century, when underground extraction by shaft mining or adits was developed.[21] the alternative name was "pitcoal", because it came from mines. the development of the industrial revolution led to the large-scale use of coal, as the steam engine took over from the water wheel. in 1700, five-sixths of the world's coal was mined in britain. britain would have run out of suitable sites for watermills by the 1830s if coal had not been available as a source of energy.[31] in 1947 there were some 750,000 miners in britain[32] but the last deep coal mine in the uk closed in 2015.[33]
+a grade between bituminous coal and anthracite was once known as 'steam coal' as it was widely used as a fuel for steam locomotives. in this specialized use, it is sometimes known as 'sea coal' in the us.[34] small 'steam coal', also called dry small steam nuts (or dssn) was used as a fuel for domestic water heating.
+sea coal continues to accumulate on beaches around the world from both natural erosion of exposed coal seams and windswept spills from cargo ships. many homes in such areas gather sea coal as a significant, and sometimes primary, source of home heating fuel.[35] scavenging sea coal for heating is still commonplace on both the pacific and atlantic coasts of the u.s.[36]
+
+emission intensity
+emission intensity is the greenhouse gas emitted over the life of a generator per unit of electricity generated. of the currently widely used methods of generating electricity the emission intensity of coal and oil is high, as they emit around 1000g of co2eq for each kwh generated; natural gas and pumped hydro are medium emission intensity at around 500g co2eq per kwh; and all other methods are typically low emission intensity  of under 100g per kwh. the emission intensity of coal varies with type and generator technology and exceeds 1200g per kwh in some countries.[37]
+
+energy density
+main article: energy value of coal
+the energy density of coal, that is its heating value, is roughly 24 megajoules per kilogram[38] (approximately 6.7 kilowatt-hours per kg). for a coal power plant with a 40% efficiency, it takes an estimated 325 kg (717 lb) of coal to power a 100 w lightbulb for one year.[39]
+27.6% of world energy was supplied by coal in 2017 and asia used almost three quarters of it.[40]
+
+chemistry
+content
+
+average content elements other than carbon
+
+
+substance
+content
+
+
+mercury (hg)
+
+6999100000000000000♠0.10±0.01 ppm[41]
+
+
+arsenic (as)
+
+1.4–71 ppm[42]
+
+
+selenium (se)
+
+3 ppm[43]
+
+coking coal and use of coke to smelt iron
+main article: coke (fuel)
+ coke oven at a smokeless fuel plant in wales, united kingdom
+coke is a solid carbonaceous residue derived from coking coal (a low-ash, low-sulfur bituminous coal, also known as metallurgical coal), which is used in manufacturing steel and other iron products.[44] coke is made from coking coal by baking in an oven without oxygen at temperatures as high as 1,000 °c, driving off the volatile constituents and fusing together the fixed carbon and residual ash. metallurgical coke is used as a fuel and as a reducing agent in smelting iron ore in a blast furnace.[45]  the carbon monoxide produced by its combustion reduces hematite (an iron oxide) to iron.
+waste carbon dioxide is also produced (
+
+
+
+
+2
+
+
+fe
+
+2
+
+
+
+
+
+
+o
+
+3
+
+
+
+
+
++
+3
+
+c
+⟶
+4
+
+fe
++
+3
+
+
+co
+
+2
+
+
+
+
+
+
+
+
+{\displaystyle {\ce {2fe2o3 + 3c -> 4fe + 3co2}}}
+
+) together with pig iron, which is too rich in dissolved carbon so must be treated further to make steel.
+coking coal should be low in ash, sulfur, and phosphorus, so that these do not migrate to the metal.[44]
+the coke must be strong enough to resist the weight of overburden in the blast furnace, which is why coking coal is so important in making steel using the conventional route. coke from coal is grey, hard, and porous and has a heating value of 29.6 mj/kg. some cokemaking processes produce byproducts, including coal tar, ammonia, light oils, and coal gas.
+petroleum coke (petcoke) is the solid residue obtained in oil refining, which resembles coke but contains too many impurities to be useful in metallurgical applications.
+
+use in foundry components 
+finely ground bituminous coal, known in this application as sea coal, is a constituent of foundry sand. while the molten metal is in the mould, the coal burns slowly, releasing reducing gases at pressure, and so preventing the metal from penetrating the pores of the sand. it is also contained in 'mould wash', a paste or liquid with the same function applied to the mould before casting.[46] sea coal can be mixed with the clay lining (the "bod") used for the bottom of a cupola furnace. when heated, the coal decomposes and the bod becomes slightly friable, easing the process of breaking open holes for tapping the molten metal.[47]
+
+alternatives to coke
+scrap steel can be recycled in an electric arc furnace; and an alternative to making iron by smelting is direct reduced iron, where any carbonaceous fuel can be used to make sponge or pelletised iron. to lessen carbon dioxide emissions in future hydrogen might be used as the reducing agent and biomass or waste as the source of carbon.[48]
+
+gasification
+main articles: coal gasification and underground coal gasification
+coal gasification, as part of an integrated gasification combined cycle (igcc) coal-fired power station, is used to produce syngas, a mixture of carbon monoxide (co) and the hydrogen (h2) gas to fire gas turbines to produce electricity. syngas can also be converted into transportation fuels, such as gasoline and diesel, through the fischer-tropsch process; alternatively, syngas can be converted into methanol, which can be blended into fuel directly or converted to gasoline via the methanol to gasoline process.[49] gasification combined with fischer-tropsch technology is used by the sasol chemical company of south africa to make motor vehicle fuels from coal and natural gas.
+during gasification, the coal is mixed with oxygen and steam while also being heated and pressurized. during the reaction, oxygen and water molecules oxidize the coal into carbon monoxide (co), while also releasing hydrogen gas (h2). this used to be done in underground coal mines, and also to make town gas which was piped to customers to burn for illumination, heating, and cooking.
+
+3c (as coal) + o2 + h2o → h2 + 3co
+if the refiner wants to produce gasoline, the syngas is routed into a fischer-tropsch reaction. this is known as indirect coal liquefaction. if hydrogen is the desired end-product, however, the syngas is fed into the water gas shift reaction, where more hydrogen is liberated:
+
+co + h2o → co2 + h2
+liquefaction
+main article: coal liquefaction
+coal can be converted directly into synthetic fuels equivalent to gasoline or diesel by hydrogenation or carbonization.[50] coal liquefaction emits more carbon dioxide than liquid fuel production from crude oil. mixing in biomass and using ccs would emit slightly less than the oil process but at a high cost.[51] state owned china energy investment runs a coal liquefaction plant and plans to build 2 more.[52]
+coal liquefaction may also refer to the cargo hazard when shipping coal.[53]
+
+production of chemicals
+ production of chemicals from coal
+chemicals have been produced from coal since the 1950s. coal can be used as a feedstock in the production of a wide range of chemical fertilizers and other chemical products. the main route to these products is coal gasification to produce syngas. primary chemicals that are produced directly from the syngas include methanol, hydrogen and carbon monoxide, which are the chemical building blocks from which a whole spectrum of derivative chemicals are manufactured, including olefins, acetic acid, formaldehyde, ammonia, urea and others. the versatility of syngas as a precursor to primary chemicals and high-value derivative products provides the option of using relatively inexpensive[citation needed] coal to produce a wide range of valuable commodities.
+because the slate of chemical products that can be made via coal gasification can in general also use feedstocks derived from natural gas and petroleum, the chemical industry tends to use whatever feedstocks are most cost-effective. therefore, interest in using coal tends to increase for higher oil and natural gas prices and during periods of high global economic growth that may strain oil and gas production. also, production of chemicals from coal is of much higher interest in countries like south africa, china, india and the united states[citation needed] where there are abundant coal resources. the abundance of coal combined with lack of natural gas resources in china is a strong inducement for the coal to chemicals industry there. similarly, sasol has built and operated coal-to-chemicals facilities in south africa.
+coal to chemical processes require substantial quantities of water. much coal to chemical production is in china[54][55] where coal dependent provinces such as shanxi are struggling to control its pollution.[56]
+
+coal as fuel to generate electricity
+precombustion treatment
+main article: refined coal
+refined coal is the product of a coal-upgrading technology that removes moisture and certain pollutants from lower-rank coals such as sub-bituminous and lignite (brown) coals. it is one form of several precombustion treatments and processes for coal that alter coal's characteristics before it is burned. thermal efficiency improvements are achievable by improved pre-drying (especially relevant with high-moisture fuel such as lignite or biomass).[57] the goals of precombustion coal technologies are to increase efficiency and reduce emissions when the coal is burned. precombustion technology can sometimes be used as a supplement to postcombustion technologies to control emissions from coal-fueled boilers.
+
+power plant combustion
+main articles: fossil fuel power station and thermal power station
+ castle gate power plant near helper, utah, us
+ coal rail cars
+ bulldozer pushing coal in ljubljana power station
+coal burnt as a solid fuel in coal power stations to generate electricity is called thermal coal. coal is also used to produce very high temperatures through combustion. efforts around the world to reduce the use of coal have led some regions to switch to natural gas and electricity from lower carbon sources.
+when coal is used for electricity generation, it is usually pulverized and then burned in a furnace with a boiler.[58] the furnace heat converts boiler water to steam, which is then used to spin turbines which turn generators and create electricity.[59] the thermodynamic efficiency of this process varies between about 25% and 50% depending on the pre-combustion treatment, turbine technology (e.g. supercritical steam generator) and the age of the plant.[60][61][62][63]
+a few integrated gasification combined cycle (igcc) power plants have been built, which burn coal more efficiently. instead of pulverizing the coal and burning it directly as fuel in the steam-generating boiler, the coal is gasified to create syngas, which is burned in a gas turbine to produce electricity (just like natural gas is burned in a turbine). hot exhaust gases from the turbine are used to raise steam in a heat recovery steam generator which powers a supplemental steam turbine. the overall plant efficiency when used to provide combined heat and power can reach as much as 94%.[64] igcc power plants emit less local pollution than conventional pulverized coal-fueled plants; however the technology for carbon capture and storage after gasification and before burning has so far proved to be too expensive to use with coal.[65] other ways to use coal are as coal-water slurry fuel (cws), which was developed in the soviet union, or in an mhd topping cycle. however these are not widely used due to lack of profit.
+in 2017 38% of the world's electricity came from coal, the same percentage as 30 years previously.[66] in 2018 global installed capacity was 2tw (of which 1tw is in china) which was 30% of total electricity generation capacity.[67] the most dependent major country is south africa, with over 80% of its electricity generated by coal.[68]
+the total known deposits recoverable by current technologies, including highly polluting, low-energy content types of coal (i.e., lignite, bituminous), is sufficient for many years. on the other hand, much may have to be left in the ground to avoid climate change,[69][70] so maximum use could be reached sometime in the 2020s.
+
+coal industry
+main pages: category:coal companies, coal mining, coal industry in china, coal industry in pakistan, coal industry in india, and coal companies of australia
+coal mining
+main article: coal mining
+about 8000 mt of coal are produced annually, about 90% of which is hard coal and 10% lignite. as of 2018 just over half is from underground mines.[71] more accidents occur during underground mining than surface mining. not all countries publish mining accident statistics so worldwide figures are uncertain but it is thought that most deaths occur in coal mining accidents in china: in 2017 there were 375 coal mining related deaths in china.[72] most coal mined is thermal coal (also called steam coal as it is used to make steam to generate electricity) but metallurgical coal (also called "metcoal" or "coking coal" as it is used to make coke to make iron) accounts for 10% to 15% of global coal use.[73]
+
+legality of coal mining
+a court in australia has cited climate change in ruling against a new coal mine.[74]
+
+coal as a traded commodity
+china mines almost half the world's coal, followed by india with about a tenth.[75] australia accounts for about a third of world coal exports, followed by indonesia and russia; while the largest importers are japan and india.
+the price of metcoal is volatile[76] and much higher than the price of thermal coal because metcoal must be lower in sulfer and requires more cleaning.[77] coal futures contracts provide coal producers and the electric power industry an important tool for hedging and risk management.
+in some countries new onshore wind or solar generation already costs less than coal power from existing plants.[78][79] however, for china this is forecast for the early 2020s[80] and for south-east asia not until the late 2020s.[81] in india building new plants is uneconomic and, despite being subsidized, existing plants are losing market share to renewables.[82]
+
+market trends
+of the countries which produce coal china mines by far the most, almost half the world's coal, followed by less than 10% by india. china is also by far the largest consumer. therefore, market trends depend on chinese energy policy.[83] although the effort to reduce pollution means that the global long term trend is to burn less coal, the short and medium term trends may differ, in part due to chinese financing of new coal-fired power plants in other countries.[67]
+
+major coal producers
+see also: list of countries by coal production
+countries with annual production higher than 300 million tonnes are shown.
+
+
+
+production of coal by country and year (million tonnes)
+[84][75][85][7]
+
+
+country
+
+2000
+
+2005
+
+2010
+
+2015
+
+2017
+
+share
+
+
+china
+
+1,384
+
+2,350
+
+3,235
+
+3,747
+
+3,523
+
+46%
+
+
+india
+
+335
+
+429
+
+574
+
+678
+
+716
+
+9%
+
+
+united states
+
+974
+
+1,027
+
+984
+
+813
+
+702
+
+9%
+
+
+australia
+
+314
+
+375
+
+424
+
+485
+
+481
+
+6%
+
+
+indonesia
+
+77
+
+152
+
+275
+
+392
+
+461
+
+6%
+
+
+russia
+
+262
+
+298
+
+322
+
+373
+
+411
+
+5%
+
+
+world total
+
+4,726
+
+6,035
+
+7,255
+
+7,862
+
+7,727
+
+100%
+
+
+major coal consumers
+countries with annual consumption higher than 500 million tonnes are shown. shares are based on data expressed in tonnes oil equivalent.
+
+
+consumption of coal by country and year (million tonnes)[86]
+[87]
+
+
+country
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+share
+
+
+china
+
+2,691
+
+2,892
+
+3,352
+
+3,677
+
+4,538
+
+4,678
+
+4,539
+
+3,970 coal + 441 met coke = 4,411
+
+3,784 coal + 430 met coke = 4,214
+
+51%
+
+
+india
+
+582
+
+640
+
+655
+
+715
+
+841
+
+837
+
+880
+
+890 coal + 33 met coke = 923
+
+877 coal + 37 met coke = 914
+
+11%
+
+
+united states
+
+1,017
+
+904
+
+951
+
+910
+
+889
+
+924
+
+918
+
+724 coal + 12 met coke = 736
+
+663 coal + 10 met coke = 673
+
+9%
+
+
+world total
+
+7,636
+
+7,699
+
+8,137
+
+8,640
+
+8,901
+
+9,013
+
+8,907
+
+7,893 coal + 668 met coke = 8561
+
+7,606 coal + 655 met coke = 8261
+
+100%
+
+major coal exporters
+
+exports of coal by country and year (million tonnes)[88]
+
+
+country
+
+2016
+
+
+australia
+
+391
+
+
+indonesia
+
+369
+
+
+russia
+
+165
+
+
+colombia
+
+83
+
+
+united states
+
+54
+
+exporters are at risk of a reduction in import demand from india and china.[89]
+
+major coal importers
+
+imports of coal by country and year (million tonnes)[90]
+
+
+country
+
+2016
+
+
+china
+
+256
+
+
+india
+
+196
+
+
+japan
+
+190
+
+
+south korea
+
+128
+
+
+taiwan
+
+66
+
+
+germany
+
+58
+
+
+turkey
+
+36
+
+damage to human health
+the use of coal as fuel causes ill health and deaths.[91]
+the deadly london smog was caused primarily by the heavy use of coal. globally coal is estimated to cause 800,000 premature deaths every year,[92] mostly in india[93] and china.[94][95][96]
+breathing in coal dust causes coalworker's pneumoconiosis which is known colloquially as "black lung", so-called because the coal dust literally turns the lungs black from their usual pink color.[97] in the united states alone, it is estimated that 1,500 former employees of the coal industry die every year from the effects of breathing in coal mine dust.[98]
+around 10% of coal is ash:[99] coal ash is hazardous and toxic to human beings and some other living things.[100] coal ash contains the radioactive elements uranium and thorium. coal ash and other solid combustion byproducts are stored locally and escape in various ways that expose those living near coal plants to radiation and environmental toxics.[101]
+huge amounts of coal ash and other waste is produced annually. use of coal generates hundreds of millions of tons of ash and other waste products every year. these include fly ash, bottom ash, and flue-gas desulfurization sludge, that contain mercury, uranium, thorium, arsenic, and other heavy metals, along with non-metals such as selenium.[102]
+coal smokestack emissions cause asthma, strokes, reduced intelligence, artery blockages, heart attacks, congestive heart failure, cardiac arrhythmias, mercury poisoning, arterial occlusion, and lung cancer.[103][104]
+annual health costs in europe from use of coal to generate electricity are estimated at up to €43 billion.[105]
+in china, improvements to air quality and human health would increase with more stringent climate policies, mainly because the country’s energy is so heavily reliant on coal. and there would be a net economic benefit.[106]
+a 2017 study in the economic journal found that for britain during the period 1851–1860, "a one standard deviation increase in coal use raised infant mortality by 6–8% and that industrial coal use explains roughly one-third of the urban mortality penalty observed during this period."[107]
+
+damage to the environment
+main article: environmental impact of the coal industry
+ aerial photograph of the site of the kingston fossil plant coal fly ash slurry spill taken the day after the event
+coal mining and coal fueling of power stations and industrial processes can cause major environmental damage.[108]
+water systems are affected by coal mining.[109] for example, mining affects groundwater and water table levels and acidity. spills of fly ash, such as the kingston fossil plant coal fly ash slurry spill, can also contaminate land and waterways, and destroy homes. power stations that burn coal also consume large quantities of water. this can affect the flows of rivers, and has consequential impacts on other land uses. in areas of water scarcity, such as the thar desert in pakistan, coal mining and coal power plants would use significant quantities of water.[110]
+one of the earliest known impacts of coal on the water cycle was acid rain. approximately 75 tg/s per year of sulfur dioxide (so2) is released from burning coal. after release, the sulfur dioxide is oxidized to gaseous h2so2 which scatters solar radiation, hence its increase in the atmosphere exerts a cooling effect on climate. this beneficially masks some of the warming caused by increased greenhouse gases. however, the sulfur is precipitated out of the atmosphere as acid rain in a matter of weeks,[111] whereas carbon dioxide remains in the atmosphere for hundreds of years. release of so2 also contributes to the widespread acidification of ecosystems.[112]
+disused coal mines can also cause issues. subsidence can occur above tunnels, causing damage to infrastructure or cropland. coal mining can also cause long lasting fires, and it has been estimated that thousands of coal seam fires are burning at any given time.[113] for example brennender berg has been burning since 1668 and is still burning in the 21st century.[114]
+the production of coke from coal produces ammonia, coal tar, and gaseous compounds as by-products which if discharged to land, air or waterways can pollute the environment.[115] the whyalla steelworks is one example of a coke producing facility where liquid ammonia is discharged to the marine environment.
+
+underground fires
+main article: coal seam fire
+thousands of coal fires are burning around the world.[116] those burning underground can be difficult to locate and many cannot be extinguished. fires can cause the ground above to subside, their combustion gases are dangerous to life, and breaking out to the surface can initiate surface wildfires. coal seams can be set on fire by spontaneous combustion or contact with a mine fire or surface fire. lightning strikes are an important source of ignition. the coal continues to burn slowly back into the seam until oxygen (air) can no longer reach the flame front. a grass fire in a coal area can set dozens of coal seams on fire.[117][118] coal fires in china burn an estimated 120 million tons of coal a year, emitting 360 million metric tons of co2, amounting to 2–3% of the annual worldwide production of co2 from fossil fuels.[119][120] in centralia, pennsylvania (a borough located in the coal region of the united states), an exposed vein of anthracite ignited in 1962 due to a trash fire in the borough landfill, located in an abandoned anthracite strip mine pit. attempts to extinguish the fire were unsuccessful, and it continues to burn underground to this day. the australian burning mountain was originally believed to be a volcano, but the smoke and ash come from a coal fire that has been burning for some 6,000 years.[121]
+at kuh i malik in yagnob valley, tajikistan, coal deposits have been burning for thousands of years, creating vast underground labyrinths full of unique minerals, some of them very beautiful.
+the reddish siltstone rock that caps many ridges and buttes in the powder river basin in wyoming and in western north dakota is called porcelanite, which resembles the coal burning waste "clinker" or volcanic "scoria".[122] clinker is rock that has been fused by the natural burning of coal. in the powder river basin approximately 27 to 54 billion tons of coal burned within the past three million years.[123] wild coal fires in the area were reported by the lewis and clark expedition as well as explorers and settlers in the area.[124]
+
+global warming
+the largest and most long term effect of coal use is the release of carbon dioxide, a greenhouse gas that causes climate change and global warming. coal is the largest contributor to the human-made increase of co2 in the atmosphere,[125] 40% of the total.[6] coal mining can emit methane, another greenhouse gas.[126]
+in 2016 world gross carbon dioxide emissions from coal usage were 14.5 giga tonnes.[127] for every megawatt-hour generated, coal-fired electric power generation emits around a tonne of carbon dioxide, which is double the approximately 500 kg of carbon dioxide released by a natural gas-fired electric plant.[128] in 2013, the head of the un climate agency advised that most of the world's coal reserves should be left in the ground to avoid catastrophic global warming.[129]
+
+coal pollution mitigation
+main article: coal pollution mitigation
+see also: clean coal technology
+"clean" coal technology usually addresses atmospheric problems resulting from burning coal. historically, the primary focus was on so2 and nox, the most important gases which caused acid rain; and particulates which cause visible air pollution, illness and premature deaths. so2 can be removed by flue-gas desulfurization and no2 by selective catalytic reduction (scr). particulates can be removed with electrostatic precipitators. although perhaps less efficient wet scrubbers can remove both gases and particulates. and mercury emissions can be reduced up to 95%.[130] however capturing carbon dioxide emissions is generally not economically viable.
+
+standards
+local pollution standards include gb13223-2011 (china), india,[131] the industrial emissions directive (eu) and the clean air act (united states).
+
+satellite monitoring
+satellite monitoring is now used to crosscheck national data, for example sentinel-5 precursor has shown that chinese control of so2 has only been partially successful.[132] it has also revealed that low use of technology such as scr has resulted in high no2 emissions in south africa and india.[133]
+
+combined cycle power plants
+a few integrated gasification combined cycle (igcc) coal-fired power plants have been built with coal gasification. although they burn coal more efficiently and therefore emit less pollution, the technology has not generally proved economically viable for coal, except possibly in japan although this is controversial.[134][135]
+
+carbon capture and storage
+although still being intensively researched and considered economically viable for some uses other than with coal; carbon capture and storage has been tested at the petra nova and boundary dam coal-fired power plants and has been found to be technically feasible but not economically viable for use with coal, due to reductions in the cost of solar pv technology.[136]
+
+economics
+in the long term coal and oil could cost the world trillions of dollars.[137] coal alone may cost australia billions,[138] whereas costs to some smaller companies or cities could be on the scale of millions of dollars.[139] the economies most damaged by coal (via climate change) may be india and the us as they are the countries with the highest social cost of carbon.[140] bank loans to finance coal are a risk to the indian economy.[93]
+china is the largest producer of coal in the world. it is the world's largest energy consumer, and coal in china supplies 60% of its primary energy. however two fifths of china's coal power stations are estimated to be loss-making.[80]
+air pollution from coal storage and handling costs the usa almost 200 dollars for every extra ton stored, due to pm2.5.[141] coal pollution costs the eu €43 billion each year.[142] measures to cut air pollution benefit individuals financially and the economies of countries[143][144] such as china.[145]
+
+subsidies
+broadly defined total subsidies for coal in 2015 have been estimated at around 2.5 trillion usd, about 3% of global gdp.[146] in the eu state aid to new coal-fired plants is expected to be banned from mid-2019 and to existing coal-fired plants from 2025. however government funding for new coal power plants is being supplied via exim bank of china,[147] the japan bank for international cooperation and indian public sector banks.[148] coal in kazakhstan was the main recipient of coal consumption subsidies totalling 2 billion usd in 2017.[149] coal in turkey benefited from substantial subsidies.
+
+stranded assets
+some coal-fired power stations could become stranded assets, for example china energy investment, the world's largest power company, risks losing half its capital.[80] however state owned electricity utilities such as eskom in south africa, perusahaan listrik negara in indonesia, sarawak energy in malaysia, taipower in taiwan, egat in thailand, vietnam electricity and eüaş in turkey are building or planning new plants.[147]
+
+politics
+countries building or financing new coal-fired power stations, such as japan, face mounting international criticism for obstructing the aims of the paris agreement.[67] and australia is being criticised by the pacific islands.[150]
+
+corruption
+allegations of corruption are being investigated in india[151] and china.[152]
+
+opposition to coal
+ protesting damage to the great barrier reef caused by climate change in australia
+ tree houses for protesting the felling of part of hambach forest for the hambach surface mine in germany: after which the felling was suspended in 2018
+opposition to coal pollution was one of the main reasons the modern environmental movement started in the 19th century.
+
+transition away from coal
+see also: fossil fuel phase-out § coal
+in order to meet global climate goals and provide power to those that don't currently have it coal power must be reduced from nearly 10,000twh to less than 2,000twh by 2040.[153] many countries, such as the powering past coal alliance, have already or are transitioned away from coal;[154] the largest transition announced so far being germany which is due to shutdown its last coal-fired power station between 2035 and 2038.[155] some countries use the ideas of a "just transition", for example to use some of the benefits of transition to provide early pensions for coal miners.[156] however low lying pacific islands are concerned the transition is not fast enough and that they will be inundated by sea level rise; so they have called for oecd countries to completely phase out coal by 2030 and other countries by 2040.[150]
+
+peak coal
+ a coal mine in wyoming, united states. the united states has the world's largest coal reserves.
+main article: peak coal
+although many countries have coal underground not all will be consumed.
+of the three fossil fuels, coal has the most widely distributed resources. coal is mined on all continents except antarctica. however many such resources have no economic value (much value has been destroyed by shale gas fracking).[157] the largest resources are found in the united states, russia, china, australia and india:
+
+
+proved reserves at end 2017 (billion tonnes)[85][7]
+
+
+country
+
+anthracite & bituminous
+
+subbituminous & lignite
+
+total
+
+percentage of world total
+
+
+united states
+221
+30
+251
+24
+
+
+russia
+70
+90
+160
+16
+
+
+australia
+68
+77
+145
+14
+
+
+china
+131
+8
+139
+13
+
+
+india
+93
+5
+98
+9
+
+
+world total
+718
+317
+1035
+100
+
+nowadays "peak coal" means the point in time when consumption of coal reaches a maximum. as of 2018 global peak coal consumption is predicted to occur by the early 2020s at the latest.[89]
+
+switch to cleaner fuels and lower carbon electricity generation
+see also: natural gas § power generation
+coal-fired generation puts out about twice the amount of carbon dioxide—around a tonne for every megawatt hour generated—than electricity generated by burning natural gas at 500 kg of greenhouse gas per megawatt hour.[158] in addition to generating electricity, natural gas is also popular in some countries for heating and as an automotive fuel.
+the use of coal in the united kingdom declined as a result of the development of north sea oil and the subsequent dash for gas during the 1990s. in canada some coal power plants, such as the hearn generating station, switched from coal to natural gas. in 2017, coal power in the united states provided 30% of the electricity, down from approximately 49% in 2008,[159][160][161] due to plentiful supplies of low cost natural gas obtained by hydraulic fracturing of tight shale formations.[160]
+[162]
+
+coal regions in transition
+some coal-mining regions are highly dependent on coal.
+
+employment
+some coal miners are concerned their jobs may be lost in the transition.[163]
+
+bioremediation
+the white rot fungus trametes versicolor can grow on and metabolize naturally occurring coal.[164] the bacteria diplococcus has been found to degrade coal, raising its temperature.[165]
+
+cultural usage
+coal is the official state mineral of kentucky[166] and the official state rock of utah;[167] both u.s. states have a historic link to coal mining.
+some cultures hold that children who misbehave will receive only a lump of coal from santa claus for christmas in their christmas stockings instead of presents.
+it is also customary and considered lucky in scotland and the north of england to give coal as a gift on new year's day. this occurs as part of first-footing and represents warmth for the year to come.
+
+see also
+
+
+energy portal
+mining portal
+
+ biochar
+ biomass-coal
+ carbochemistry
+ coal pollution mitigation
+ coal assay
+ coal blending
+ coal homogenization
+ coal measures (stratigraphic unit)
+ coal phase out
+ coal-tar
+ coalbed methane
+ environmental issues with coal
+ fluidized bed combustion
+ fossil fuel
+ fossil fuel phase-out
+ gytta
+ major coal producing regions
+ mountaintop removal mining
+ the coal question
+ tonstein – a hard, compact sedimentary rock that is composed mainly of kaolinite or, less commonly, other clay minerals
+ world coal association
+
+references
+
+
+^ blander, m. "calculations of the influence of additives on coal combustion deposits" (pdf). argonne national laboratory. p. 315. archived from the original (pdf) on 28 may 2010. retrieved 17 december 2011..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ a b "coal explained". energy explained. us energy information administration. 21 april 2017. archived from the original on 8 december 2017. retrieved 13 november 2017.
+
+^ "global energy data". international energy agency.
+
+^ "lignite coal – health effects and recommendations from the health sector" (pdf). health and environment alliance (heal).
+
+^ "co2 emissions from fuel combustion 2018 overview (free but requires registration)". international energy agency. retrieved 14 december 2018.
+
+^ a b "china's unbridled export of coal power imperils climate goals". retrieved 7 december 2018.
+
+^ a b c "global energy data". international energy agency.
+
+^ a b harper, douglas. "coal". online etymology dictionary.
+
+^ a b "coal". british geological survey. march 2010.
+
+^ "how coal is formed". archived from the original on 18 january 2017.
+
+^ taylor, thomas n; taylor, edith l; krings, michael (2009). paleobotany: the biology and evolution of fossil plants. isbn 978-0-12-373972-8. archived from the original on 16 may 2016.
+
+^ tyler, s.a.; barghoorn, e.s.; barrett, l.p. (1957). "anthracitic coal from precambrian upper huronian black shale of the iron river district, northern michigan". geological society of america bulletin. 68 (10): 1293. doi:10.1130/0016-7606(1957)68[1293:acfpuh]2.0.co;2. issn 0016-7606.
+
+^ mancuso, j.j.; seavoy, r.e. (1981). "precambrian coal or anthraxolite; a source for graphite in high-grade schists and gneisses". economic geology. 76 (4): 951–54. doi:10.2113/gsecongeo.76.4.951.
+
+^ "lignite coal - health effects and recommendations from the health sector" (pdf). health and environment alliance (heal).
+
+^ "standards catalogue 73.040 – coals". iso.
+
+^ golas, peter j and needham, joseph (1999) science and civilisation in china. cambridge university press. pp. 186–91. isbn 0-521-58000-5
+
+^ coal archived 2 may 2015 at the wayback machine. encyclopædia britannica.
+
+^ marco polo in china. facts and details. retrieved on 11 may 2013. archived 21 september 2013 at the wayback machine
+
+^ carol, mattusch (2008).  oleson, john peter, ed. metalworking and tools. the oxford handbook of engineering and technology in the classical world. oxford university press. pp. 418–38 (432). isbn 978-0-19-518731-1
+
+^ irby-massie, georgia l.; keyser, paul t. (2002). greek science of the hellenistic era: a sourcebook. routledge. 9.1 "theophrastos", p. 228. isbn 978-0-415-23847-2. archived from the original on 5 february 2016
+
+^ a b britannica 2004: coal mining: ancient use of outcropping coal
+
+^ needham, joseph; golas, peter j (1999). science and civilisation in china. cambridge university press. pp. 186–91. isbn 978-0-521-58000-7.
+
+^ a b smith, a.h.v. (1997). "provenance of coals from roman sites in england and wales". britannia. 28: 297–324 (322–24). doi:10.2307/526770. jstor 526770.
+
+^ salway, peter (2001). a history of roman britain. oxford university press. isbn 978-0-19-280138-8.
+
+^ forbes, rj (1966): studies in ancient technology. brill academic publishers, boston.
+
+^ cunliffe, barry w. (1984). roman bath discovered. london: routledge. pp. 14–15, 194. isbn 978-0-7102-0196-6.
+
+^ a b c cantril, t.c. (1914). coal mining. cambridge: cambridge university press. pp. 3–10. oclc 156716838.
+
+^ "coal, 5a". oxford english dictionary. oxford university press. 1 december 2010.
+
+^ john caius, quoted in cantril (1914).
+
+^ trench, richard; hillman, ellis (1993). london under london: a subterranean guide (second ed.). london: john murray. p. 33. isbn 978-0-7195-5288-5.
+
+^ wrigley, ea (1990). continuity, chance and change: the character of the industrial revolution in england. cambridge university press. isbn 978-0-521-39657-8.
+
+^ "the fall of king coal". bbc news. 6 december 1999. archived from the original on 6 march 2016.
+
+^ "uk's last deep coal mine kellingley colliery capped off". bbc. 14 march 2016.
+
+^ funk and wagnalls, quoted in "sea-coal". oxford english dictionary (2 ed.). oxford university press. 1989.
+
+^ bolton, aaron; homer, kbbi- (2018-03-22). "cost of cold: staying warm in homer". alaska public media. retrieved 2019-01-25.
+
+^ "geology of national parks". 3dparks.wr.usgs.gov. retrieved 2019-01-25.
+
+^ tranberg, bo; corradi, olivier; lajoie, bruno; gibon, thomas; staffell, iain; gorm bruun andresen (17 december 2018). "real-time carbon accounting method for the european electricity markets". arxiv:1812.06679 [physics.soc-ph].
+
+^ fisher, juliya (2003). "energy density of coal". the physics factbook. archived from the original on 7 november 2006. retrieved 25 august 2006.
+
+^ "how much coal is required to run a 100-watt light bulb 24 hours a day for a year?". howstuffworks. 3 october 2000. archived from the original on 7 august 2006. retrieved 25 august 2006.
+
+^ "primary energy". bp. retrieved 5 december 2018.
+
+^ ya. e. yudovich, m.p. ketris (21 april 2010). "mercury in coal: a review; part 1. geochemistry" (pdf). labtechgroup.com. archived from the original (pdf) on 23 march 2013. retrieved 22 february 2013.
+
+^ "arsenic in coal" (pdf). pubs.usgs.gov. 28 march 2006. archived (pdf) from the original on 9 may 2013. retrieved 22 february 2013.
+
+^ lakin, hubert w. (1973). "selenium in our enviroment [sic]". selenium in our environment – trace elements in the environment. advances in chemistry. 123. p. 96. doi:10.1021/ba-1973-0123.ch006. isbn 978-0-8412-0185-9.
+
+^ a b "how is steel produced?". world coal association. 28 april 2015. archived from the original on 12 april 2017. retrieved 8 april 2017.
+
+^ blast furnace steelmaking cost model archived 14 january 2016 at the wayback machine. steelonthenet.com. retrieved on 24 august 2012.
+
+^ rao, p. n. (2007). "moulding materials". manufacturing technology: foundry, forming and welding (2 ed.). new delhi: tata mcgraw-hill. p. 107. isbn 978-0-07-463180-5.
+
+^ kirk, edward (1899). "cupola management". cupola furnace – a practical treatise on the construction and management of foundry cupolas. philadelphia: baird. p. 95. oclc 2884198.
+
+^ "coking coal for steel production and alternatives". front line action on coal. retrieved 1 december 2018.
+
+^ "conversion of methanol to gasoline". national energy technology laboratory. archived from the original on 17 july 2014. retrieved 16 july 2014.
+
+^ "direct liquefaction processes". national energy technology laboratory. archived from the original on 25 july 2014. retrieved 16 july 2014.
+
+^ liu, weiguo; wang, jingxin; bhattacharyya, debangsu; jiang, yuan; devallance, david (2017). "economic and environmental analyses of coal and biomass to liquid fuels". energy. 141: 76–86. doi:10.1016/j.energy.2017.09.047.
+
+^ "chn energy to build new coal-to-liquid production lines". xinhua news agency. 13 august 2018.
+
+^ "new imsbc code requirements aim to control liquefaction of coal cargoes". hellenic shipping news worldwide. 29 november 2018.
+
+^ "rembrandt" (2 august 2012). "china's coal to chemical future" (blog post by expert). the oil drum.com. retrieved 3 march 2013.
+
+^ yin, ken (27 february 2012). "china develops coal-to-olefins projects, which could lead to ethylene self-sufficiency". icis chemical business. retrieved 3 march 2013.
+
+^ "smog war casualty: china coal city bears brunt of pollution crackdown". reuters. 27 november 2018.
+
+^ "the niederraussem coal innovation centre" (pdf). rwe. archived (pdf) from the original on 22 july 2013. retrieved 21 july 2014.
+
+^ total world electricity generation by fuel (2006) archived 22 october 2015 at the wayback machine. source: iea 2008.
+
+^ "fossil power generation". siemens ag. archived from the original on 29 september 2009. retrieved 23 april 2009.
+
+^ j. nunn, a. cottrell, a. urfer, l. wibberley and p. scaife, "a lifecycle assessment of the victorian energy grid" archived 2 september 2016 at the wayback machine, cooperative research centre for coal in sustainable development, february 2003, p. 7.
+
+^ jens rosenkranz; andreas wichtmann. "balancing economics and environmental friendliness – the challenge for supercritical coal-fired power plants with highest steam parameters in the future" (pdf). retrieved 23 october 2006.
+
+^ "lünen – state-of-the-art ultra supercritical steam power plant under construction" (pdf). siemens ag. archived (pdf) from the original on 8 august 2014. retrieved 21 july 2014.
+
+^ "neurath f and g set new benchmarks" (pdf). alstom. archived (pdf) from the original on 1 april 2015. retrieved 21 july 2014.
+
+^ avedøreværket archived 29 january 2016 at the wayback machine. ipaper.ipapercms.dk. retrieved on 11 may 2013.
+
+^ "doe sank billions of fossil energy r&d dollars in ccs projects. most failed". powermag. 9 october 2018.
+
+^ "the most depressing energy chart of the year". vox. 2018-06-15. retrieved 30 october 2018.
+
+^ a b c cornot-gandolfe, sylvie (may 2018). a review of coal market trends and policies in 2017 (pdf). ifri.
+
+^ "energy revolution: a global outlook" (pdf). drax. retrieved 7 february 2019.
+
+^ michael slezak. "mining insider: 'leave the coal in the ground'". new scientist. archived from the original on 24 april 2015. retrieved 7 january 2016.
+
+^ "ipcc digested: just leave the fossil fuels underground". new scientist. 30 september 2013. archived from the original on 7 june 2015.
+
+^ "coal mining". world coal association. 2015-04-28. retrieved 5 december 2018.
+
+^ france-presse, agence (16 december 2018). "china: seven miners killed after skip plummets down mine shaft". the guardian.
+
+^ "the one market that's sure to help coal". forbes. 12 august 2018.
+
+^ "court rules out hunter valley coalmine on climate change grounds". the guardian. 7 feb 2019.
+
+^ a b "bp statistical review of world energy 2016" (xls). british petroleum. archived from the original on 2 december 2016. retrieved 8 february 2017.
+
+^ "coal 2017" (pdf). iea. retrieved 26 november 2018.
+
+^ "coal prices and outlook". u.s. energy information administration.
+
+^ "new wind and solar generation costs fall below existing coal plants | financial times". retrieved 2018-11-08.
+
+^ "lazard's levelized cost of energy ("lcoe") analysis – version 12.0" (pdf). retrieved 9 november 2018.
+
+^ a b c "40% of china's coal power stations are losing money". carbon tracker. 2018-10-11. retrieved 11 november 2018.
+
+^ "economic and financial risks of coal power in indonesia, vietnam and the philippines". carbon tracker. retrieved 9 november 2018.
+
+^ "india's coal paradox". 5 january 2019.
+
+^ "coal 2018:executive summary". international energy agency. 2018.
+
+^ "bp statistical review of world energy 2012". british petroleum. archived from the original (xls) on 19 june 2012. retrieved 18 august 2011.
+
+^ a b "bp statistical review of world energy 2018" (pdf). bp. retrieved 6 december 2018.
+
+^ eia international energy annual – total coal consumption (thousand short tons – converted to metric) archived 9 february 2016 at the wayback machine. eia.gov. retrieved on 11 may 2013.
+
+^ coal consumption
+
+^ "primary coal exports". us energy information administration. retrieved 7 december 2018.
+
+^ a b what does "peak coal" mean for international coal exporters? (pdf). 2018.
+
+^ "primary coal imports". us energy information administration. retrieved 7 december 2018.
+
+^ toxic air: the case for cleaning up coal-fired power plants. american lung association (march 2011) archived 26 january 2012 at the wayback machine
+
+^ "health". endcoal. retrieved 3 december 2018.
+
+^ a b "india shows how hard it is to move beyond fossil fuels". the economist. 2 august 2018.
+
+^ preventing disease through healthy environments: a global assessment of the burden of disease from environmental risks archived 30 july 2016 at the wayback machine. world health organization (2006)
+
+^ global health risks. mortality and burden of disease attributable to selected major risks (pdf). world health organization. 2009. isbn 978-92-4-156387-1. archived (pdf) from the original on 14 february 2012.
+
+^ "who – ambient (outdoor) air quality and health". who.int. archived from the original on 4 january 2016. retrieved 7 january 2016.
+
+^ "black lung disease-topic overview". webmd. archived from the original on 10 july 2015.
+
+^ "black lung". umwa.org. archived from the original on 3 february 2016. retrieved 7 january 2016.
+
+^ "coal". epa.gov. 2014-02-05. archived from the original on 20 july 2015.
+
+^ "coal ash: toxic – and leaking". psr.org. archived from the original on 15 july 2015.
+
+^ hvistendahl, mara (13 december 2007). "coal ash is more radioactive than nuclear waste". scientific american. archived from the original on 10 july 2015.
+
+^ world coal association "environmental impact of coal use" archived 23 february 2009 at the wayback machine
+
+^ coal pollution damages human health at every stage of coal life cycle, reports physicians for social responsibility archived 31 july 2015 at the wayback machine. physicians for social responsibility. psr.org (18 november 2009)
+
+^ burt, erica; orris, peter and buchanan, susan (april 2013) scientific evidence of health effects from coal use in energy generation archived 14 july 2015 at the wayback machine. university of illinois at chicago school of public health, chicago, illinois, us
+
+^ "the unpaid health bill – how coal power plants make us sick". health and environment alliance. 2013-03-07. retrieved 15 december 2018.
+
+^ "health benefits will offset cost of china's climate policy". mit. retrieved 15 december 2018.
+
+^ beach, brian; hanlon, w. walker (2018). "coal smoke and mortality in an early industrial economy". the economic journal. 128 (615): 2652–2675. doi:10.1111/ecoj.12522. issn 1468-0297.
+
+^ environmental impacts of coal power: air pollution archived 15 january 2008 at the wayback machine. union of concerned scientists
+
+^ tiwary, r. k. (2001). "environmental impact of coal mining on water regime and its management". water, air, & soil pollution. 132: 185–99. doi:10.1023/a:1012083519667.
+
+^ "pakistan's coal trap". dawn. 4 february 2018.
+
+^ barrie, l.a.; hoff, r.m. (1984). "the oxidation rate and residence time of sulphur dioxide in the arctic atmosphere". atmospheric environment. 18 (12): 2711–22. doi:10.1016/0004-6981(84)90337-8.
+
+^ human impacts on atmospheric chemistry, by pj crutzen and j lelieveld, annual review of earth and planetary sciences, vol. 29: 17–45 (volume publication date may 2001)
+
+^ cray, dan (23 july 2010). "deep underground, miles of hidden wildfires rage". time magazine. archived from the original on 28 july 2010.
+
+^ "das naturdenkmal brennender berg bei dudweiler" [the natural monument burning mountain in dudweiler]. mineralienatlas (in german). retrieved 3 october 2016.
+
+^ "world of coke: coke is a high temperature fuel". www.ustimes.com. archived from the original on 27 november 2015. retrieved 16 january 2016.
+
+^ "sino german coal fire project". archived from the original on 30 august 2005. retrieved 9 september 2005.
+
+^ "committee on resources-index". archived from the original on 25 august 2005. retrieved 9 september 2005.
+
+^ "snapshots 2003" (pdf). fire.blm.gov. archived from the original (pdf) on 18 february 2006. retrieved 9 september 2005.
+
+^ "ehp 110-5, 2002: forum". archived from the original on 31 july 2005. retrieved 9 september 2005.
+
+^ "overview about itc's activities in china". archived from the original on 16 june 2005. retrieved 9 september 2005.
+
+^ "fire in the hole". archived from the original on 14 october 2009. retrieved 5 june 2011.
+
+^ "north dakota's clinker". archived from the original on 14 september 2005. retrieved 9 september 2005.
+
+^ "blm-environmental education – the high plains". archived from the original on 12 march 2005. retrieved 9 september 2005.
+
+^ lyman, robert m.; volkmer, john e. (march 2001). "pyrophoricity (spontaneous combustion) of powder river basin coals: considerations for coalbed methane development" (pdf). archived from the original (pdf) on 12 september 2005. retrieved 9 september 2005.
+
+^ direct testimony of james e. hansen archived 3 february 2009 at the wayback machine. state of iowa
+
+^ "china's coal plants haven't cut methane emissions as required, study finds". the new york times. 29 january 2019.
+
+^ "emissions". global carbon atlas. retrieved 6 november 2018.
+
+^ "how much carbon dioxide is produced when different fuels are burned?". eia.gov. archived from the original on 12 january 2016. retrieved 7 january 2016.
+
+^ vidal, john; readfearn, graham (18 november 2013). "leave coal in the ground to avoid climate catastrophe, un tells industry". the guardian. archived from the original on 2 january 2017.
+
+^ "mercury control from coal combustion". unep.
+
+^ sugathan, anish; bhangale, ritesh; kansal, vishal; hulke, unmil (2018). "how can indian power plants cost-effectively meet the new sulfur emission standards? policy evaluation using marginal abatement cost-curves". energy policy. 121: 124–37. doi:10.1016/j.enpol.2018.06.008.
+
+^ karplus, valerie j.; zhang, shuang; almond, douglas (2018). "quantifying coal power plant responses to tighter so2 emissions standards in china". proceedings of the national academy of sciences. 115 (27): 7004–09. doi:10.1073/pnas.1800605115. pmc 6142229. pmid 29915085.
+
+^ "new satellite data analysis reveals world's biggest no2 emissions hotspots". greenpeace international.
+
+^ "universal failure: how igcc coal plants waste money and emissions nove" (pdf). kiko network. retrieved 13 november 2018.
+
+^ "japan says no to high-emission coal power plants". nikkei asian review. 26 july 2018.
+
+^ groesbeck, james gunnar; pearce, joshua m. (2018). "coal with carbon capture and sequestration is not as land use efficient as solar photovoltaic technology for climate neutral electricity production". nature. 8 (1): 13476. doi:10.1038/s41598-018-31505-3. pmc 6128891. pmid 30194324.
+
+^ "coal is killing the planet. trump loves it". new york times.
+
+^ "labor opposes plan to indemnify new coal plants and warns it could cost billions". the guardian. 24 october 2018.
+
+^ "superfund scandal leads to prison time for coal lobbyist, lawyer". sierra club. 24 october 2018.
+
+^ ricke, katharine; drouet, laurent; caldeira, ken; tavoni, massimo (2018). "country-level social cost of carbon". nature climate change. 8 (10): 895–900. doi:10.1038/s41558-018-0282-y.
+
+^ jha, akshaya; muller, nicholas z. (2018). "the local air pollution cost of coal storage and handling: evidence from u.s. power plants". journal of environmental economics and management. 92: 360–396. doi:10.1016/j.jeem.2018.09.005.
+
+^ "the human cost of coal in the uk: 1600 deaths a year". new scientist. archived from the original on 24 april 2015.
+
+^ "environmentalism". the economist. 4 february 2014. archived from the original on 28 january 2016. retrieved 7 january 2016.
+
+^ "air pollution and health in bulgaria" (pdf). heal. retrieved 26 october 2018.
+
+^ sun, dong; fang, jing; sun, jingqi (2018). "health-related benefits of air quality improvement from coal control in china: evidence from the jing-jin-ji region". resources, conservation and recycling. 129: 416–423. doi:10.1016/j.resconrec.2016.09.021.
+
+^ coady, david; parry, ian; sears, louis; shang, baoping (2017). "how large are global fossil fuel subsidies?". world development. 91: 11–27. doi:10.1016/j.worlddev.2016.10.004.
+
+^ a b "regional briefings for the 2018 coal plant developers list" (pdf). urgewald. retrieved 27 november 2018.
+
+^ "the world needs to quit coal. why is it so hard?". the new york times. 24 november 2018.
+
+^ "fossil-fuel subsidies". iea. retrieved 16 november 2018.
+
+^ a b "pacific nations under climate threat urge australia to abandon coal within 12 years". the guardian. 13 december 2018.
+
+^ "coal scam: naveen jindal, others summoned". times of india. 14 august 2018.
+
+^ "china tackling corruption, safety concerns in coal production". worldwatch. retrieved 27 november 2018.
+
+^ "coal dumped as iea turns to wind and solar to solve climate challenge". renew economy. 13 november 2018.
+
+^ sartor, o. (2018). implementing coal transitions insights from case studies of major coal-consuming economies (pdf). iddri and climate strategies.
+
+^ "germany agrees to end reliance on coal stations by 2038". the guardian. 26 january 2019.
+
+^ "spain to close most coalmines in €250m transition deal". the guardian. 26 october 2018.
+
+^ "ieefa update: the investment rationale for fossil fuels falls apart". ieefa. 2018-08-27. retrieved 5 december 2018.
+
+^ "electricity emissions around the world". retrieved 30 october 2018.
+
+^ "frequently asked questions". u.s. energy information administration. 18 april 2017. archived from the original on 22 may 2017. retrieved 25 may 2017.
+
+^ a b lipton, eric (29 may 2012). "even in coal country, the fight for an industry". the new york times. archived from the original on 30 may 2012. retrieved 30 may 2012.
+
+^ "figure es 1. u.s. electric power industry net generation". electric power annual with data for 2008. u.s. energy information administration. 21 january 2010. retrieved 7 november 2010.
+
+^ http://www.iea.org/publications/freepublications/publication/keyworld2014.pdf%7c2012 data|pg24
+
+^ "thousands protest german coal phaseout". 24 october 2018.
+
+^ campbell, j.a.; stewart, d.l.; mcculloch, m.; lucke, r.b.; bean, r.m. "biodegradation of coal-related model compounds" (pdf). pacific northwest laboratory: 514–21. archived (pdf) from the original on 2 january 2017.
+
+^ potter, m.c. (may 1908). "bateria as agents in the oxidation of amorphous carbon". proceedings of the royal society of london b. 80 (539): 239–59. doi:10.1098/rspb.1908.0023.
+
+^ "kentucky: secretary of state – state mineral". 20 october 2009. archived from the original on 27 may 2011. retrieved 7 august 2011.
+
+^ "utah state rock – coal". pioneer: utah's online library. utah state library division. archived from the original on 2 october 2011. retrieved 7 august 2011.
+
+
+further reading
+walter licht, thomas dublin (2005). the face of decline: the pennsylvania anthracite region in the twentieth century. cornell university press. isbn 978-0-8014-8473-5. oclc 60558740.
+long, priscilla (1991). where the sun never shines: a history of america's bloody coal industry. new york: paragon house. isbn 978-1-55778-465-0. oclc 25236866.
+rottenberg, dan (2003). in the kingdom of coal; an american family and the rock that changed the world. routledge. isbn 978-0-415-93522-7. oclc 52348860.
+robert h. williams; eric d. larson (december 2003). "a comparison of direct and indirect liquefaction technologies for making fluid fuels from coal" (pdf). energy for sustainable development. vii (4): 103–29. doi:10.1016/s0973-0826(08)60382-8. archived from the original (pdf) on 28 may 2006.
+outwater, alice (1996). water: a natural history. new york: basic books. isbn 978-0-465-03780-3. oclc 37785911.
+smith, duane a. (1993). mining america: the industry and the environment, 1800–1980. lawrence, ks: university press of kansas. p. 210. isbn 978-0-87081-306-1.
+freese, barbara (2003). coal: a human history. penguin books. isbn 978-0-7382-0400-0. oclc 51449422.
+external links
+
+
+
+the wikibook historical geology has a page on the topic of: peat and coal
+
+
+
+the wikibook high school earth science has a page on the topic of: coal
+
+
+
+wikimedia commons has media related to coal.
+
+
+
+look up coal in wiktionary, the free dictionary.
+coal transitions
+world coal association
+coal online – international energy agency
+coal research at the national energy technology laboratory
+coalexit
+european association for coal and lignite
+coal news and industry magazine
+global coal plant tracker
+ "coal" . encyclopædia britannica. 6 (11th ed.). 1911. pp. 574–93.
+ "coal" . new international encyclopedia. 1905.
+ "coal" . collier's new encyclopedia. 1921.
+vtecoalcoal types by grade(lowest to highest)
+xylit
+peat1
+lignite
+sub-bituminous coal
+bituminous coal
+anthracite
+graphite1
+coal combustion
+black coal equivalent
+char
+coal pollution mitigation
+coal preparation plant
+coal seam fire
+coke
+coal tar
+energy value
+flue gas
+fly ash
+coal mining
+coalfields
+coal dust
+coal gas
+coal slurry
+coal homogenization
+coal liquefaction
+environmental impact of the coal industry
+history
+mining regions
+peak coal
+refined coal
+coal town
+note: [1] peat is considered a precursor to coal. graphite is only technically considered a coal type.
+vtelists of countries by energy rankingsnon-renewable energy
+petroleum
+proven reserves
+production
+consumption
+exports
+imports
+all
+natural gas
+proven reserves
+production
+consumption
+exports
+imports
+recoverable shale gas
+coal
+proven reserves
+production
+exports
+imports
+uranium
+proven reserves
+production
+generation
+all
+renewable energy
+hydroelectricity
+wind
+solar
+geothermal
+electric energy
+consumption
+exports
+imports
+production
+total energy
+consumption and production
+per capita
+intensity
+summary of top fossil fuel exporters
+
+list of international rankings
+list of top international rankings by country
+lists by country
+
+vteelectricity deliveryconcepts
+availability factor
+automatic generation control
+backfeeding
+base load
+capacity factor
+demand factor
+droop speed control
+economic dispatch
+electric power
+demand management
+eroei
+fault
+home energy storage
+grid storage
+intermittency
+load factor
+load following
+nameplate capacity
+peak demand
+power quality
+power-flow study
+repowering
+utility frequency
+variability
+sourcesnonrenewable
+coal
+fossil fuel power station
+natural gas
+petroleum
+nuclear
+oil shale
+renewable
+biomass
+biofuel
+geothermal
+hydro
+marine
+current
+osmotic
+thermal
+tidal
+wave
+solar
+wind
+generation
+ac power
+cogeneration
+combined cycle
+cooling tower
+induction generator
+micro chp
+microgeneration
+rankine cycle
+three-phase electric power
+virtual power plant
+transmissionand distribution
+demand response
+distributed generation
+dynamic demand
+electric power distribution
+electrical busbar system
+electric power system
+electric power transmission
+electrical grid
+electrical interconnector
+high-voltage direct current
+high-voltage shore connection
+load management
+mains electricity by country
+power line
+power station
+power storage
+pumped hydro
+smart grid
+substation
+super grid
+transformer
+transmission system operator (tso)
+transmission tower
+utility pole
+failure modes
+blackout (rolling blackout)
+brownout
+black start
+cascading failure
+protectivedevices
+arc-fault circuit interrupter
+earth leakage circuit breaker
+residual-current device (gfi)
+power-system protection
+protective relay
+digital protective relay
+sulfur hexafluoride circuit breaker
+economicsand policies
+carbon offset
+cost of electricity by source
+ecotax
+energy subsidies
+feed-in tariff
+fossil-fuel phase-out
+net metering
+pigovian tax
+renewable energy certificates
+renewable energy payments
+renewable energy policy
+spark/dark/quark/bark spread
+statistics and production
+list of electricity sectors
+electric energy consumption
+
+categories
+electric power distribution
+electricity economics
+power station technology
+portals
+energy
+renewable energy
+sustainable development
+
+authority control 
+gnd: 4031641-5
+lccn: sh85027307
+ndl: 00570578
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=coal&oldid=883609946"					
+categories: coalcoal miningeconomic geologyfuelssedimentary rockssolid fuelshidden categories: webarchive template wayback linksarticles with inconsistent citation formatscs1 german-language sources (de)wikipedia semi-protected pagesarticles with short descriptionuse dmy dates from december 2016wikipedia articles needing clarification from december 2018all articles with unsourced statementsarticles with unsourced statements from december 2018wikipedia articles incorporating a citation from the 1911 encyclopaedia britannica with wikisource referencewikipedia articles incorporating a citation from the new international encyclopediawikipedia articles incorporating a citation from collier's encyclopediawikipedia articles with gnd identifierswikipedia articles with lccn identifierswikipedia articles with ndl identifiers 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readview sourceview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commonswikiversity 
+
+
+
+languages
+
+
+afrikaansالعربيةaragonésarmãneashtiঅসমীয়াasturianuaymar aruazərbaycancaবাংলাbahasa banjarbân-lâm-gúбеларускаябеларуская (тарашкевіца)‎भोजपुरीбългарскиbosanskibrezhonegcatalàčeštinacymraegdanskdeitschdeutschdiné bizaadeestiελληνικάespañolesperantoeuskaraفارسیføroysktfrançaisfurlangaeilgegàidhliggalego한국어հայերենहिन्दीhrvatskiidobahasa indonesiaиронíslenskaitalianoעבריתbasa jawaಕನ್ನಡქართულიқазақшаkiswahilikreyòl ayisyenкыргызчалаккуlatinalatviešulietuviųlimburgslumbaartmagyarмакедонскиമലയാളംमराठीbahasa melayuмонголမြန်မာဘာသာnāhuatlnederlandsनेपालीनेपाल भाषा日本語nordfriisknorsknorsk nynorsknovialoccitanoʻzbekcha/ўзбекчаਪੰਜਾਬੀپنجابیپښتوpicardpolskiportuguêsromânăruna simiрусскийсаха тылаscotsshqipsicilianusimple englishslovenčinaslovenščinasoomaaligaсрпски / srpskisrpskohrvatski / српскохрватскиbasa sundasuomisvenskatagalogதமிழ்తెలుగుไทยтоҷикӣtsetsêhestâhesetürkçeукраїнськаاردوvènetotiếng việtwalon文言winaray吴语粵語中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 16 february 2019, at 14:04 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"2.088","walltime":"2.484","ppvisitednodes":{"value":10217,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":330370,"limit":2097152},"templateargumentsize":{"value":6327,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":16,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":472181,"limit":5000000},"entityaccesscount":{"value":7,"limit":400},"timingprofile":["100.00% 1959.441      1 -total"," 52.69% 1032.367      1 template:reflist"," 21.15%  414.404     82 template:cite_web","  7.85%  153.897     18 template:cite_journal","  7.70%  150.796     21 template:annotated_link","  7.64%  149.673     24 template:cite_book","  7.09%  138.915     43 template:template_parameter_value","  6.52%  127.683     28 template:cite_news","  2.50%   48.984      1 template:clarify","  2.48%   48.512      4 template:navbox"]},"scribunto":{"limitreport-timeusage":{"value":"1.115","limit":"10.000"},"limitreport-memusage":{"value":13571215,"limit":52428800}},"cachereport":{"origin":"mw1285","timestamp":"20190219095609","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"coal","url":"https:\/\/en.wikipedia.org\/wiki\/coal","sameas":"http:\/\/www.wikidata.org\/entity\/q24489","mainentity":"http:\/\/www.wikidata.org\/entity\/q24489","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2001-11-06t19:23:54z","datemodified":"2019-02-16t14:04:50z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/20\/coal_bituminous.jpg","headline":"combustible rock"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":137,"wghostname":"mw1320"});});
+
+

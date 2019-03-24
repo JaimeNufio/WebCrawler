@@ -1,0 +1,1019 @@
+
+
+
+
+great power - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"great_power","wgtitle":"great power","wgcurrevisionid":883925643,"wgrevisionid":883925643,"wgarticleid":372836,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["all articles with unsourced statements","articles with unsourced statements from may 2012","cs1 maint: uses authors parameter","webarchive template wayback links","cs1 maint: archived copy as title","cs1 maint: extra text: authors list","cs1: long volume value","all articles with dead external links","articles with dead external links from july 2014","wikipedia pages under 30-500 editing restriction","use british english oxford spelling from july 2017","use dmy dates from july 2017","wikipedia articles needing clarification from march 2018","articles with unsourced statements from august 2018","states by power status","international relations"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"great_power","wgrelevantarticleid":372836,"wgrequestid":"xgvyhwpamfiaaifu9tkaaabo","wgcspnonce":false,"wgisprobablyeditable":false,"wgrelevantpageisprobablyeditable":false,"wgrestrictionedit":["extendedconfirmed"],"wgrestrictionmove":[],"wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wgwikibaseitemid":"q185145","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+great power 
+from wikipedia, the free encyclopedia 
+ jump to navigation
+jump to search
+
+
+ great powers are recognized in an international structure such as the united nations security council,[1][2][3] whose meeting chamber is pictured.
+a great power is a sovereign state that is recognized as having the ability and expertise to exert its influence on a global scale. great powers characteristically possess military and economic strength, as well as diplomatic and soft power influence, which may cause middle or small powers to consider the great powers' opinions before taking actions of their own. international relations theorists have posited that great power status can be characterized into power capabilities, spatial aspects, and status dimensions.
+while some nations are widely considered to be great powers, there is no definitive list of them. sometimes the status of great powers is formally recognized in conferences such as the congress of vienna[1][4][5] or the united nations security council.[1][2][6] accordingly, the status of great powers has also been formally and informally recognized in forums such as the group of seven (g7).[7][8][9][10]
+the term "great power" was first used to represent the most important powers in europe during the post-napoleonic era. the "great powers" constituted the "concert of europe" and claimed the right to joint enforcement of the postwar treaties.[11] the formalization of the division between small powers[12] and great powers came about with the signing of the treaty of chaumont in 1814. since then, the international balance of power has shifted numerous times, most dramatically during world war i and world war ii. in literature, alternative terms for great power are often world power[13] or major power,[14] but these terms can also be interchangeable with superpower.[15]
+
+contents
+
+1 characteristics
+
+1.1 power dimensions
+1.2 spatial dimension
+1.3 status dimension
+
+
+2 history
+
+2.1 great powers at war
+2.2 great powers at peace
+2.3 aftermath of the cold war
+2.4 emerging powers
+
+
+3 hierarchy of great powers
+4 great powers by date
+5 see also
+6 notes
+7 references
+8 further reading
+
+
+characteristics
+there are no set or defined characteristics of a great power. these characteristics have often been treated as empirical, self-evident to the assessor.[16] however, this approach has the disadvantage of subjectivity. as a result, there have been attempts to derive some common criteria and to treat these as essential elements of great power status. danilovic (2002) highlights three central characteristics, which she terms as "power, spatial, and status dimensions," that distinguish major powers from other states. the following section ("characteristics") is extracted from her discussion of these three dimensions, including all of the citations.[17]
+early writings on the subject tended to judge states by the realist criterion, as expressed by the historian a. j. p. taylor when he noted that "the test of a great power is the test of strength for war."[18] later writers have expanded this test, attempting to define power in terms of overall military, economic, and political capacity.[19] kenneth waltz, the founder of the neorealist theory of international relations, uses a set of five criteria to determine great power: population and territory; resource endowment; economic capability; political stability and competence; and military strength.[20] these expanded criteria can be divided into three heads: power capabilities, spatial aspects, and status.[21]
+
+power dimensions
+ leopold von ranke was one of the first to attempt to scientifically document the great powers.
+as noted above, for many, power capabilities were the sole criterion. however, even under the more expansive tests, power retains a vital place.
+this aspect has received mixed treatment, with some confusion as to the degree of power required. writers have approached the concept of great power with differing conceptualizations of the world situation, from multi-polarity to overwhelming hegemony. in his essay, 'french diplomacy in the postwar period', the french historian jean-baptiste duroselle spoke of the concept of multi-polarity: "a great power is one which is capable of preserving its own independence against any other single power."[22]
+this differed from earlier writers, notably from leopold von ranke, who clearly had a different idea of the world situation. in his essay 'the great powers', written in 1833, von ranke wrote: "if one could establish as a definition of a great power that it must be able to maintain itself against all others, even when they are united, then frederick has raised prussia to that position."[23] these positions have been the subject of criticism.[clarification needed][21]
+
+spatial dimension
+all states have a geographic scope of interests, actions, or projected power. this is a crucial factor in distinguishing a great power from a regional power; by definition the scope of a regional power is restricted to its region. it has been suggested that a great power should be possessed of actual influence throughout the scope of the prevailing international system. arnold j. toynbee, for example, observes that "great power may be defined as a political force exerting an effect co-extensive with the widest range of the society in which it operates. the great powers of 1914 were 'world-powers' because western society had recently become 'world-wide'."[24]
+other suggestions have been made that a great power should have the capacity to engage in extra-regional affairs and that a great power ought to be possessed of extra-regional interests, two propositions which are often closely connected.[25]
+
+status dimension
+formal or informal acknowledgment of a nation's great power status has also been a criterion for being a great power. as political scientist george modelski notes, "the status of great power is sometimes confused with the condition of being powerful. the office, as it is known, did in fact evolve from the role played by the great military states in earlier periods... but the great power system institutionalizes the position of the powerful state in a web of rights and obligations."[26]
+this approach restricts analysis to the epoch following the congress of vienna at which great powers were first formally recognized.[21] in the absence of such a formal act of recognition it has been suggested that great power status can arise by implication by judging the nature of a state's relations with other great powers.[27]
+a further option is to examine a state's willingness to act as a great power.[27] as a nation will seldom declare that it is acting as such, this usually entails a retrospective examination of state conduct. as a result, this is of limited use in establishing the nature of contemporary powers, at least not without the exercise of subjective observation.
+other important criteria throughout history are that great powers should have enough influence to be included in discussions of contemporary political and diplomatic questions and exercise influence on the final outcome and resolution. historically, when major political questions were addressed, several great powers met to discuss them. before the era of groups like the united nations, participants of such meetings were not officially named but rather were decided based on their great power status. these were conferences which settled important questions based on major historical events.
+
+history
+further information: list of ancient great powers, list of medieval great powers, list of modern great powers, and international relations of the great powers (1814–1919)
+ the congress of vienna by jean-baptiste isabey, 1819
+different sets of great, or significant, powers have existed throughout history. an early reference to great powers is from the 3rd century, when the persian prophet mani described rome, china, aksum, and persia as the four greatest kingdoms of his time.[28] however, the term "great power" has only been used in scholarly or diplomatic discourse since the congress of vienna in 1815.[21][29] the congress established the concert of europe as an attempt to preserve peace after the years of napoleonic wars.
+lord castlereagh, the british foreign secretary, first used the term in its diplomatic context, in a letter sent on 13 february 1814: "it affords me great satisfaction to acquaint you that there is every prospect of the congress terminating with a general accord and guarantee between the great powers of europe, with a determination to support the arrangement agreed upon, and to turn the general influence and if necessary the general arms against the power that shall first attempt to disturb the continental peace."[11]
+the congress of vienna consisted of five main powers: the austrian empire, france, prussia, russia, and the united kingdom (uk). these five primary participants constituted the original great powers as we know the term today.[21] other powers, such as spain, portugal, and sweden, which was a great power during the 17th century, were consulted on certain specific issues, but they were not full participants. hanover (its elector was also king of the uk), bavaria, and württemberg were also consulted on issues relating to germany.
+of the five original great powers recognized at the congress of vienna, only france and the united kingdom have maintained that status continuously to the present day, although france was defeated in the franco-prussian war and occupied during world war ii. after the congress of vienna, the british empire emerged as the pre-eminent power, due to its navy and the extent of its territories, which signalled the beginning of the pax britannica and of the great game between the uk and russia. the balance of power between the great powers became a major influence in european politics, prompting otto von bismarck to say "all politics reduces itself to this formula: try to be one of three, as long as the world is governed by the unstable equilibrium of five great powers."[30][31][32][33]
+over time, the relative power of these five nations fluctuated, which by the dawn of the 20th century had served to create an entirely different balance of power. some, such as the united kingdom and prussia (as the founder of the newly formed german state), experienced continued economic growth and political power.[34] others, such as russia and austria-hungary, stagnated.[35] at the same time, other states were emerging and expanding in power, largely through the process of industrialization. these countries seeking to attain great power status were: italy after the risorgimento era, japan during the meiji era, and the united states after the reconstruction era. by the dawn of the 20th century, the balance of world power had changed substantially since the congress of vienna. the eight-nation alliance was a belligerent alliance of eight nations against the boxer rebellion in china. it formed in 1900 and consisted of the five congress powers plus italy, japan, and the united states, representing the great powers at the beginning of the 20th century.[36]
+
+great powers at war
+ the "big four" at the paris peace conference of 1919: david lloyd george, vittorio emanuele orlando, georges clemenceau and woodrow wilson
+shifts of international power have most notably occurred through major conflicts.[37] the conclusion of the great war and the resulting treaties of versailles, st-germain, neuilly, trianon and sèvres witnessed the united kingdom, france, italy, japan, and the united states as the chief arbiters of the new world order.[38] in the aftermath of world war i the german empire was defeated, the austria-hungarian empire was divided into new, less powerful states and the russian empire fell to a revolution. during the paris peace conference, the "big four" – france, italy, the united kingdom and the united states – held noticeably more power and influence on the proceedings and outcome of the treaties than japan. the big four were leading architects of the treaty of versailles which was signed by germany; the treaty of st. germain, with austria; the treaty of neuilly, with bulgaria; the treaty of trianon, with hungary; and the treaty of sèvres, with the ottoman empire. during the decision-making of the treaty of versailles, italy pulled out of the conference because a part of its demands were not met and temporarily left the other three countries as the sole major architects of that treaty, referred to as the "big three".[39][40][41][42][43]
+the victorious great powers also gained an acknowledgement of their status through permanent seats at the league of nations council, where they acted as a type of executive body directing the assembly of the league. however, the council began with only four permanent members – the united kingdom, france, italy, and japan – because the united states, meant to be the fifth permanent member, did not ratify the treaty of versailles, thus preventing american participation in the league. germany later joined, and left along with japan, and the soviet union joined.
+when world war ii started in 1939, it divided the world into two alliances: the allies (the united kingdom and france at first in europe, china in asia since 1937, followed in 1941 by the soviet union and the united states) and the axis powers (germany, italy, and japan).[44][nb 1] during world war ii, the united states, united kingdom, soviet union and china were referred as a "trusteeship of the powerful"[45] and were recognized as the allied "big four" in declaration by united nations in 1942.[46] these four countries were referred as the "four policemen" of the allies and considered as the primary victors of world war ii.[47]the importance of france was acknowledged by their inclusion, along with the other four, in the group of countries allotted permanent seats in the united nations security council.
+
+ the "big three" of europe at the yalta conference: winston churchill, franklin d. roosevelt and joseph stalin
+ the allied leaders of the asian and pacific theatre: generalissimo chiang kai-shek, franklin d. roosevelt, and winston churchill meeting at the cairo conference in 1943
+since the end of the world wars, the term "great power" has been joined by a number of other power classifications. foremost among these is the concept of the superpower, used to describe those nations with overwhelming power and influence in the rest of the world. it was first coined in 1944 by william t. r. fox[48] and according to him, there were three superpowers: the british empire, the united states, and the soviet union. but after world war ii the british empire lost its superpower status, leaving the united states and the soviet union as the world's superpowers.[nb 2] the term middle power has emerged for those nations which exercise a degree of global influence, but are insufficient to be decisive on international affairs. regional powers are those whose influence is generally confined to their region of the world.
+during the cold war, the asian power of japan and the european powers of the united kingdom, france, and west germany rebuilt their economies. france and the united kingdom maintained technologically advanced armed forces with power projection capabilities and maintain large defence budgets to this day. yet, as the cold war continued, authorities began to question if france and the united kingdom could retain their long-held statuses as great powers.[49] china, with the world's largest population, has slowly risen to great power status, with large growth in economic and military power in the post-war period. after 1949, the republic of china began to lose its recognition as the sole legitimate government of china by the other great powers, in favour of the people's republic of china. subsequently, in 1971, it lost its permanent seat at the un security council to the people's republic of china.
+
+great powers at peace
+according to joshua baron, a "researcher, lecturer, and consultant on international conflict", since the early 1960s direct military conflicts and major confrontations have "receded into the background" with regards to relations among the great powers.[50] baron argues several reasons why this is the case, citing the unprecedented rise of the united states and its predominant position as the key reason. baron highlights that since world war two no other great power has been able to achieve parity or near parity with the united states, with the exception of the soviet union for a brief time.[50] this position is unique among the great powers since the start of the modern era (the 16th century), where there has traditionally always been "tremendous parity among the great powers". this unique period of american primacy has been an important factor in maintaining a condition of peace between the great powers.[50]
+another important factor is the apparent consensus among western great powers that military force is no longer an effective tool of resolving disputes among their peers.[50] this "subset" of great powers – france, germany, japan, the united kingdom and the united states – consider maintaining a "state of peace" as desirable. as evidence, baron outlines that since the cuban missile crisis (1962) during the cold war, these influential western nations have resolved all disputes among the great powers peacefully at the united nations and other forums of international discussion.[50]
+referring to great power relations pre-1960, baron highlights that starting from around the 16th century and the rise of several european great powers, military conflicts and confrontations was the defining characteristic of diplomacy and relations between such powers.[50] "between 1500 and 1953, there were 64 wars in which at least one great power was opposed to another, and they averaged little more than five years in length. during this approximately 450-year time frame, on average, at least two great powers were fighting one another in each and every year."[50] even during the period of pax britannica (or "the british peace") between 1815 and 1914, war and military confrontations among the great powers was still a frequent occurrence. in fact, baron points out that, in terms of militarized conflicts or confrontations, the uk led the way in this period with nineteen such instances against; russia (8), france (5), germany/prussia (5) and italy (1).[50]
+
+aftermath of the cold war
+   great powers with a permanent seat on the united nations security council and recognized nuclear weapons status: china, france, russia, the united kingdom and the united states   great powers without a security council permanent seat nor nuclear weapons: germany and japan
+china, france, russia, the united kingdom and the united states are often referred to as great powers by academics due to "their political and economic dominance of the global arena".[51] these five nations are the only states to have permanent seats with veto power on the un security council. they are also the only state entities to have met the conditions to be considered "nuclear weapons states" under the treaty on the non-proliferation of nuclear weapons, and maintain military expenditures which are among the largest in the world.[52] however, there is no unanimous agreement among authorities as to the current status of these powers or what precisely defines a great power. for example, sources have at times referred to china,[53] france,[54] russia[55][56][57] and the united kingdom[54] as middle powers.
+following the dissolution of the soviet union, its un security council permanent seat was transferred to the russian federation in 1991, as its successor state. the newly formed russian federation emerged on the level of a great power, leaving the united states as the only remaining global superpower[nb 3] (although some support a multipolar world view).
+japan and germany are great powers too, though due to their large advanced economies (having the third and fourth largest economies respectively) rather than their strategic and hard power capabilities (i.e., the lack of permanent seats and veto power on the un security council or strategic military reach).[58][59][60] germany has been a member together with the five permanent security council members in the p5+1 grouping of world powers. like china, france, russia and the united kingdom; germany and japan have also been referred to as middle powers.[61][62][63][64][65][66][67]
+in his 2014 publication great power peace and american primacy, joshua baron considers china, france, russia, germany, japan, the united kingdom and the united states as the current great powers.[50]
+
+italy has been referred to as a great power by a number of academics and commentators throughout the post wwii era.[68][69][70][71] the american international legal scholar milena sterio writes: .mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}the great powers are super-sovereign states: an exclusive club of the most powerful states economically, militarily, politically and strategically. these states include veto-wielding members of the united nations security council (united states, united kingdom, france, china, and russia), as well as economic powerhouses such as germany, italy and japan.[69]
+ sterio also cites italy's status in the group of seven (g7) and the nation's influence in regional and international organizations for its status as a great power.[69] italy has been a member together with the five permanent security council members plus germany in the isg for lebanon[72] [73][74] grouping of world powers.  some analysts assert that italy is an "intermittent" or the "least of the great powers",[75][76] while some others believe italy is a middle or regional power.[77][78][79]
+in addition to these contemporary great powers mentioned above, zbigniew brzezinski[80] and mohan malik consider india to be a great power too.[81] although unlike the contemporary great powers who have long been considered so, india's recognition among authorities as a great power is comparatively recent.[81] however, there is no collective agreement among observers as to the status of india, for example, a number of academics believe that india is emerging as a great power,[82] while some believe that india remains a middle power.[83][84][85]
+the united nations security council, nato quint, the g7, the brics and the contact group have all been described as great power concerts.[86][87]
+
+emerging powers
+see also: emerging power
+with continuing european integration, the european union is increasingly being seen as a great power in its own right,[88] with representation at the wto and at g7 and g-20 summits. this is most notable in areas where the european union has exclusive competence (i.e. economic affairs). it also reflects a non-traditional conception of europe's world role as a global "civilian power", exercising collective influence in the functional spheres of trade and diplomacy, as an alternative to military dominance.[89] the european union is a supranational union and not a sovereign state and has its own  foreign affairs and defence policy. anyway these remain largely with the member states of the european union, which includes france, germany and the united kingdom (referred to as the "eu three").[80]
+brazil and india are widely regarded as emerging powers with the potential to be great powers.[1] political scientist stephen p. cohen asserts that india is an emerging power, but highlights that some strategists consider india to be already a great power.[90] some academics such as zbigniew brzezinski and david a. robinson already regard india as a major or great power.[80][91] others suggest india may even have the potential to emerge as a superpower.[92]
+permanent membership of the un security council is widely regarded as being a central tenet of great power status in the modern world; brazil, germany, india and japan form the g4 nations which support one another (and have varying degrees of support from the existing permanent members) in becoming permanent members.[citation needed] the g4 is opposed by the italian-led uniting for consensus group. there are however few signs that reform of the security council will happen in the near future.[citation needed]
+israel[93][94] and iran,[95][94] are also mentioned in the context of great powers.
+
+hierarchy of great powers
+the political scientist, geo-strategist, and former us national security advisor zbigniew brzezinski appraised the current standing of the great powers in his 2012 publication strategic vision: america and the crisis of global power. in relation to great powers, he makes the following points:
+
+the united states is still preeminent but the legitimacy, effectiveness, and durability of its leadership is increasingly questioned worldwide because of the complexity of its internal and external challenges. ... the european union could compete to be the world's number two power, but this would require a more robust political union, with a common foreign policy and a shared defense capability. ... in contrast, china's remarkable economic momentum, its capacity for decisive political decisions motivated by clearheaded and self centered national interest, its relative freedom from debilitating external commitments, and its steadily increasing military potential coupled with the worldwide expectation that soon it will challenge america's premier global status justify ranking china just below the united states in the current international hierarchy. ... a sequential ranking of other major powers beyond the top two would be imprecise at best. any list, however, has to include russia, japan, and india, as well as the eu's informal leaders: great britain, germany, and france.[80]
+
+according to a 2014 report of the hague centre for strategic studies:
+
+great powers... are disproportionately engaged in alliances and wars, and their diplomatic weight is often cemented by their strong role in international institutions and forums. this unequal distribution of power and prestige leads to “a set of rights and rules governing interactions among states” that sees incumbent powers competing to maintain the status quo and keep their global influence. in today’s international system, there are four great powers that fit this definition: the united states (us), russia, china and the european union (whereby the eu is considered to be the sum of its parts). if we distil from this description of great power attributes and capabilities a list of criteria, it is clear why these four powers dominate the international security debate. the possession of superior military and economic capabilities can be translated into measurements such as military expenditure and gdp, and nowhere are the inherent privileges of great powers more visible than in the voting mechanisms of the united nations security council (unsc), where five permanent members have an overriding veto. the top ten countries ranked on the basis of military expenditures correspond almost exactly with the top ten countries ranked on the basis of gdp with the exception of saudi arabia which is surpassed by brazil. notably, each country with a permanent seat on the unsc also finds itself in the top ten military and economic powers. when taken as the sum of its parts, the eu scores highest in terms of economic wealth and diplomatic weight in the unsc. this is followed closely by the us, which tops the military expenditures ranking, and then russia and china, both of which exert strong military, economic, and diplomatic influence in the international system.[96]
+
+great powers by date
+timelines of the great powers since the end of the napoleonic wars in the early 19th century:
+
+
+
+1815
+1878
+1900
+1919
+1939
+1945
+c. 2000
+c. 2010
+
+
+
+
+ austria[nb 4]
+
+ austria-hungary[nb 5]
+
+ austria-hungary[nb 6]
+
+
+
+
+ british empire[nb 7]
+
+ british empire[nb 8]
+
+ british empire[nb 9]
+
+ british empire[nb 10]
+
+ united kingdom[nb 12]
+
+ united kingdom[nb 13]
+
+ united kingdom[nb 14]
+
+ united kingdom[nb 15]
+
+
+
+
+
+
+
+
+
+
+
+
+ china[nb 16]
+
+ china[nb 17]
+
+ china[nb 18]
+
+
+ france[nb 19]
+
+ france[nb 20]
+
+ france[nb 21]
+
+ france[nb 22]
+
+ france[nb 23]
+
+ france[nb 24]
+
+ france[nb 25]
+
+ france[nb 26]
+
+
+ prussia[nb 27]
+
+ germany[nb 28]
+
+ germany[nb 29]
+
+
+
+ germany[nb 30]
+
+
+
+ germany[nb 31]
+
+ germany[nb 32]
+
+
+
+
+ italy[nb 33]
+
+ italy[nb 34]
+
+ italy[nb 35]
+
+ italy[nb 36]
+
+
+
+ italy[nb 37]
+
+ italy[nb 38]
+
+
+
+
+
+
+ japan[nb 39]
+
+ japan[nb 41]
+
+ japan[nb 42]
+
+
+
+ japan[nb 43]
+
+ japan[nb 44]
+
+
+ russia[nb 45]
+
+ russia[nb 46]
+
+ russia[nb 47]
+
+
+
+ soviet union[nb 48]
+
+ soviet union[nb 49]
+
+ russia[nb 50]
+
+ russia[nb 51]
+
+
+
+
+
+
+ united states[nb 52]
+
+ united states[nb 53]
+
+ united states[nb 54]
+
+ united states[nb 55]
+
+ united states[nb 56]
+
+ united states[nb 57]
+
+
+see also
+
+
+international relations portal
+big four (western europe)
+hegemony
+list of modern great powers
+power (international relations)
+notes
+
+
+^ even though the book the economics of world war ii lists seven great powers at the start of 1939 (the british empire, the empire of japan, france, the kingdom of italy, nazi germany, the soviet union, and the united states), it focuses only on six of them, because france surrendered shortly after the war began.[citation needed]
+
+^ the 1956 suez crisis suggested that the united kingdom, financially weakened by two world wars, could not then pursue its foreign policy objectives on an equal footing with the new superpowers without sacrificing convertibility of its reserve currency as a central goal of policy. – from superpower cited by klug, adam; smith, gregor w. (1999). "suez and sterling, 1956". explorations in economic history. 36 (3): 181–203. doi:10.1006/exeh.1999.0720..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ the fall of the berlin wall and the breakup of the soviet union left the united states as the only remaining superpower in the 1990s.
+
+^ for austria in 1815, see: [1][29][97]
+
+^ for austria in 1880, see: [98]
+
+^ for austria in 1900, see: [99]
+
+^ for the united kingdom in 1815, see: [1][29][97]
+
+^ for the united kingdom in 1880, see: [98]
+
+^ for the united kingdom in 19900, see: [99]
+
+^ for the united kingdom in 1919, see: [100]
+
+^ after the statute of westminster came into effect in 1931, the united kingdom no longer represented the british empire in world affairs.
+
+^ for the united kingdom in 1938, see: [nb 11][101]
+
+^ for the united kingdom in 1946, see: [1][2][48]
+
+^ for the united kingdom in 2000, see: [68][102][2][1][69][70][103][104][105][106]
+
+^ for the united kingdom in 2010, see: [68][102][2][1][104][54][105]
+
+^ for china in 1946, see: [1][2]
+
+^ for china in 2000, see: [1][2][102][104][107][108]
+
+^ for china in 2010, see: [1][2][102][104][107][109]
+
+^ for france in 1815, see: [1][29][97]
+
+^ for france in 1880, see: [98]
+
+^ for france in 1900, see: [99]
+
+^ for france in 1919, see: [100]
+
+^ for france in 1938, see: [101]
+
+^ for france in 1946, see: [1][2]
+
+^ for france in 2000, see: [68][1][2][102][69][70][104]
+
+^ for france in 2010, see: [68][1][2][102][104][54]
+
+^ for germany in 1815, see: [1][29][97]
+
+^ for germany in 1880, see: [98]
+
+^ for germany in 1900, see: [99]
+
+^ for germany in 1938, see: [101]
+
+^ for germany in 2000, see: [68][1][102][69][70][104]
+
+^ for germany in 2010, see: [68][1][102][104][110][61]
+
+^ for italy in 1880, see: [111][112][113][114]
+
+^ for italy in 1900, see: [99]
+
+^ for italy in 1919, see: [100]
+
+^ for italy in 1938, see: [101]
+
+^ for italy in 2000, see: [68][69][70][115][116][117]
+
+^ for italy in 2010, see: [68][69][70][118][119][120]
+
+^ for japan in 1900, see: [99]
+
+^ "the prime minister of canada (during the treaty of versailles) said that there were 'only three major powers left in the world the united states, britain and japan' ... (but) the great powers could not be consistent. at the instance of britain, japan's ally, they gave japan five delegates to the peace conference, just like themselves, but in the supreme council the japanese were generally ignored or treated as something of a joke." from macmillan, margaret (2003). paris 1919. united states of america: random house trade. p. 306. isbn 0-375-76052-0.
+
+^ for japan in 1919, see: [100][nb 40]
+
+^ for japan in 1938, see: [101]
+
+^ for japan in 2000, see: [1][102][107][121][69][104]
+
+^ for japan in 2010, see: [1][102][107][121][104][122]
+
+^ for russia in 1815, see: [1][29][97]
+
+^ for russia in 1880, see: [98]
+
+^ for russia in 1900, see: [99]
+
+^ for russia in 1938, see: [101]
+
+^ for russia in 1946, see: [1][2][48]
+
+^ for russia in 2000, see: [1][2][102][107][69][70][104]
+
+^ for russia in 2010, see: [1][2][102][107][104][123]
+
+^ for the united states in 1900, see: [99]
+
+^ for the united states in 1919, see: [100]
+
+^ for the united states in 1938, see: [101]
+
+^ for the united states in 1946, see: [1][2][48]
+
+^ for the united states in 2000, see: [68][1][2][102][124][69][70][104]
+
+^ for the united states in 2010, see: [68][1][2][102][124][69][70][104]
+
+
+references
+
+
+^ a b c d e f g h i j k l m n o p q r s t u v w x y z aa ab 
+peter howard (2008). "great powers". encarta. msn. archived from the original on 2009-10-31. retrieved 2008-12-20.cs1 maint: uses authors parameter (link)
+
+^ a b c d e f g h i j k l m n o p q louden, robert (2007). the world we want. united states of america: oxford university press us. p. 187. isbn 0195321375.
+
+^ kelsen, hans (2000). the law of the united nations: a critical analysis of its fundamental problems. united states: the lawbook exchange, ltd. pp. 272–281, 911. isbn 1-58477-077-5.
+
+^ fueter, eduard (1922). world history, 1815–1930. united states: harcourt, brace and company. pp. 25–28, 36–44. isbn 1-58477-077-5.
+
+^ danilovic, vesna. "when the stakes are high – deterrence and conflict among major powers", university of michigan press (2002), pp 27, 225–228 (pdf chapter downloads) archived 30 august 2006 at the wayback machine (pdf copy)."archived copy". archived from the original on 2006-08-30. retrieved 2016-02-08.cs1 maint: archived copy as title (link)
+
+^ t. v. paul; james j. wirtz; michel fortmann (2005). "great+power" balance of power. united states: state university of new york press, 2005. pp. 59, 282. isbn 0791464016. accordingly, the great powers after the cold war are britain, china, france, germany, japan, russia and the united states p. 59
+
+^ the routledge handbook of transatlantic security. routledge. 2 jul 2010. isbn 1136936076. (see section on 'the g6/g7: great power governance')
+
+^ contemporary concert diplomacy: the seven-power summit as an international concert, professor john kirton
+
+^ penttilä, risto (17 jun 2013). the role of the g8 in international peace and security. routledge. pp. 17–32. isbn 1136053522. (the g8 as a concert of great powers)
+
+^ tables of sciences po and documentation francaise: russia y las grandes potencias and 
+g8 et chine (2004)
+
+^ a b charles webster, (ed), british diplomacy 1813–1815: selected documents dealing with the reconciliation of europe, (1931), p. 307.
+
+^ toje, a. (2010). the european union as a small power: after the post-cold war. new york: palgrave macmillan.
+
+^ "the definition of world power".
+
+^ "dictionary – major power". reference.com.
+
+^ ""world power" on the new thesaurus.com!".
+
+^ waltz, kenneth n (1979). theory of international politics. mcgraw-hill. p. 131. isbn 0-201-08349-3.
+
+^ danilovic, vesna (2002). when the stakes are high – deterrence and conflict among major powers. university of michigan press. isbn 978-0-472-11287-6. [1]
+
+^ taylor, alan jp (1954). the struggle for mastery in europe 1848–1918. oxford: clarendon. p. xxiv. isbn 0-19-881270-1.
+
+^ organski, afk – world politics, knopf (1958)
+
+^ waltz, kenneth n. (1993). "the emerging structure of international politics" (pdf). international security. 18 (2): 50. doi:10.2307/2539097. jstor 2539097  – via international relations exam database.
+
+^ a b c d e danilovic, vesna. "when the stakes are high – deterrence and conflict among major powers", university of michigan press (2002), pp 27, 225–230 [2].
+
+^ contained on page 204 in: kertesz and fitsomons (eds) – diplomacy in a changing world, university of notre dame press (1960)
+
+^ iggers and von moltke "in the theory and practice of history", bobbs-merril (1973)
+
+^ toynbee, arnold j (1926). the world after the peace conference. humphrey milford and oxford university press. p. 4. retrieved 2016-02-24.
+
+^ stoll, richard j – state power, world views, and the major powers, contained in: stoll and ward (eds) – power in world politics, lynne rienner (1989)
+
+^ modelski, george (1972). principles of world politics. free press. p. 141. isbn 978-0-02-921440-4.
+
+^ a b domke, william k – power, political capacity, and security in the global system, contained in: stoll and ward (eds) – power in world politics, lynn rienner (1989)
+
+^ http://news.bbc.co.uk/2/hi/africa/4376627.stm
+
+^ a b c d e f fueter, eduard (1922). world history, 1815–1920. united states of america: harcourt, brace and company. pp. 25–28, 36–44. isbn 1584770775.
+
+^ bartlett, c. j. (1996-10-15). peace, war and the european powers, 1814–1914. palgrave macmillan. p. 106. isbn 9780312161385.
+
+^ cassels, alan (1996). ideology and international relations in the modern world. psychology press. p. 86. isbn 9780415119269.
+
+^ "the transformation of european politics, 1763–1848". archived from the original on 8 june 2011. retrieved 2011-06-12.
+
+^ britain and germany: from ally to enemy archived 26 october 2007 at the wayback machine
+
+^ "multi-polarity vs bipolarity, subsidiary hypotheses, balance of power". university of rochester. archived from the original (ppt) on 2007-06-16. retrieved 2008-12-20.
+
+^ tonge, stephen. "european history austria-hungary 1870–1914". retrieved 2008-12-20.
+
+^ dallin, david (2006-11-30). the rise of russia in asia. read books. isbn 978-1-4067-2919-1.
+
+^ power transitions as the cause of war.
+
+^ globalization and autonomy by julie sunday, mcmaster university. archived 15 december 2007 at the wayback machine
+
+^ "the treaty of versailles". history learning site., see the part: the attitude towards germany of the "big three"："the "big three" were david lloyd george of britain, clemenceau of france and woodrow wilson of america."
+
+^ macmillan, margaret (2003). paris 1919. united states of america: random house trade. pp. 36, 306, 431. isbn 0-375-76052-0.
+
+^ boemeke, manfred; gerald d. feldman; elisabeth glaser-schmidt (1998). the treaty of versailles: 75 years after. united states of america: cambridge university press. isbn 0-521-62132-1. retrieved 2016-02-24.
+
+^ "italian delegates return to paris peace conference – may 05, 1919". history.com.
+
+^ paris 1919 by margaret macmillan has the council of six (britain, france, italy, japan and the united states) as the main victors and remaining great powers.
+
+^ harrison, m (2000) m1 the economics of world war ii: six great powers in international comparison, cambridge university press.
+
+^ doenecke, justus d.; stoler, mark a. (2005). debating franklin d. roosevelt's foreign policies, 1933–1945. rowman & littlefield. isbn 0-8476-9416-x.
+
+^ hoopes, townsend, and douglas brinkley. fdr and the creation of the u.n. new haven: yale university press, 1997. isbn 978-0-300-06930-3.
+
+^ sainsbury, keith (1986). the turning point: roosevelt, stalin, churchill, and chiang kai-shek, 1943: the moscow, cairo, and teheran conferences. oxford: oxford university press.
+
+^ a b c d the superpowers: the united states, britain and the soviet union – their responsibility for peace (1944), written by william t.r. fox
+
+^ holmes, john. "middle power". the canadian encyclopedia. archived from the original on 3 march 2009. retrieved 2008-12-20.
+
+^ a b c d e f g h i baron, joshua (22 january 2014). great power peace and american primacy: the origins and future of a new international order. united states: palgrave macmillan. isbn 1137299487.
+
+^ yasmi adriansyah, 'questioning indonesia's place in the world', asia times (20 september 2011): 'though there are still debates on which countries belong to which category, there is a common understanding that the gp [great power] countries are the united states, china, united kingdom, france and russia. besides their political and economic dominance of the global arena, these countries have special status in the united nations security council with their permanent seats and veto rights.'
+
+^ "the 15 countries with the highest military expenditure in 2012 (table)". stockholm international peace research institute. archived from the original (pdf) on 15 april 2013. retrieved 15 april 2013.
+
+^ gerald segal, does china matter?, foreign affairs (september/october 1999).
+
+^ a b c d p. shearman, m. sussex, european security after 9/11(ashgate, 2004) - according to shearman and sussex, both the uk and france were great powers now reduced to middle power status.
+
+^ neumann, iver b. (2008). "russia as a great power, 1815–2007". journal of international relations and development. 11 (2): 128–151 [p. 128]. doi:10.1057/jird.2008.7. as long as russia's rationality of government deviates from present-day hegemonic neo-liberal models by favouring direct state rule rather than indirect governance, the west will not recognize russia as a fully fledged great power.
+
+^ garnett, sherman (6 november 1995). "russia ponders its nuclear options". washington times. p. 2. russia must deal with the rise of other middle powers in eurasia at a time when it is more of a middle power itself.
+
+^ kitney, geoff (25 march 2000). "putin it to the people". sydney morning herald. p. 41. the council for foreign and defence policy, which includes senior figures believed to be close to putin, will soon publish a report saying russia's superpower days are finished and that the country should settle for being a middle power with a matching defence structure.
+
+^ t.v. paul; james wirtz; michel fortmann (8 september 2004). balance of power: theory and practice in the 21st century. stanford university press. pp. 59–. isbn 978-0-8047-5017-2.
+
+^ worldcrunch.com (28 november 2011). "europe's superpower: germany is the new indispensable (and resented) nation". worldcrunch.com. archived from the original on 29 february 2012. retrieved 17 november 2013.
+
+^ winder, simon (2011-11-19). "germany: the reluctant superpower". the daily telegraph.
+
+^ a b sperling, james (2001). "neither hegemony nor dominance: reconsidering german power in post cold-war europe". british journal of political science. 31 (2). doi:10.1017/s0007123401000151.
+
+^ max otte; jürgen greve (2000). a rising middle power?: german foreign policy in transformation, 1989–1999. germany. p. 324. isbn 0-312-22653-5.
+
+^ er lp (2006) japan's human security rolein southeast asia
+
+^ "merkel as a world star - germany's place in the world", the economist (18 november 2006), p. 27: "germany, says volker perthes, director of the german institute for international and security affairs, is now pretty much where it belongs: squarely at the centre. whether it wants to be or not, the country is a mittelmacht, or middle power."
+
+^ susanna vogt, "germany and the g20", in wilhelm hofmeister, susanna vogt, g20: perceptions and perspectives for global governance (singapore: 19 october 2011), p. 76, citing thomas fues and julia leininger (2008): "germany and the heiligendamm process", in andrew cooper and agata antkiewicz (eds.): emerging powers in global governance: lessons from the heiligendamm process, waterloo: wilfrid laurier university press, p. 246: "germany’s motivation for the initiative had been '... driven by a combination of leadership qualities and national interests of a middle power with civilian characteristics'."
+
+^ "change of great powers", in global encyclopaedia of political geography, by m.a. chaudhary and guatam chaudhary (new delhi, 2009.), p. 101: "germany is considered by experts to be an economic power. it is considered as a middle power in europe by chancellor angela merkel, former president johannes rau and leading media of the country."
+
+^ susanne gratius, is germany still a eu-ropean power?, fride policy brief, no. 115 (february 2012), pp. 1–2: "being the world's fourth largest economic power and the second largest in terms of exports has not led to any greater effort to correct germany's low profile in foreign policy ... for historic reasons and because of its size, germany has played a middle-power role in europe for over 50 years."
+
+^ a b c d e f g h i j k canada among nations, 2004: setting priorities straight. mcgill-queen's press - mqup. 17 january 2005. p. 85. isbn 0773528369. retrieved 13 june 2016. ("the united states is the sole world's superpower. france, italy, germany and the united kingdom are great powers")
+
+^ a b c d e f g h i j k l sterio, milena (2013). the right to self-determination under international law : "selfistans", secession and the rule of the great powers. milton park, abingdon, oxon: routledge. p. xii (preface). isbn 0415668182. retrieved 13 june 2016. ("the great powers are super-sovereign states: an exclusive club of the most powerful states economically, militarily, politically and strategically. these states include veto-wielding members of the united nations security council (united states, united kingdom, france, china, and russia), as well as economic powerhouses such as germany, italy and japan.")
+
+^ a b c d e f g h i transforming military power since the cold war: britain, france, and the united states, 1991–2012. cambridge university press. 2013. p. 224. isbn 1107471494. retrieved 13 june 2016. (during the kosovo war (1998) "...contact group consisting of six great powers (the united states, russia, france, britain, germany and italy).")
+
+^ why are pivot states so pivotal? the role of pivot states in regional and global security. netherlands: the hague centre for strategic studies. 2014. p. table on page 10 (great power criteria). archived from the original on 11 october 2016. retrieved 14 june 2016.
+
+^ [3]
+
+^ [4]
+
+^ [5]
+
+^ editors, dimitris bourantonis, marios evriviades (1997). a united nations for the twenty-first century : peace, security, and development. boston: kluwer law international. p. 77. isbn 9041103120. retrieved 13 june 2016.
+
+^ italy: 150 years of a small great power, eurasia-rivista.org, 21 december 2010
+
+^ verbeek, bertjan; giacomello, giampiero (2011). italy's foreign policy in the twenty-first century : the new assertiveness of an aspiring middle power. lanham, md.: lexington books. isbn 978-0-7391-4868-6.
+
+^ "operation alba may be considered one of the most important instances in which italy has acted as a regional power, taking the lead in executing a technically and politically coherent and determined strategy." see federiga bindi, italy and the european union (washington, d.c.: brookings institution press, 2011), p. 171.
+
+^ "italy plays a prominent role in european and global military, cultural and diplomatic affairs. the country's european political, social and economic influence make it a major regional power." see italy: justice system and national police handbook, vol. 1 (washington, d.c.: international business publications, 2009), p. 9.
+
+^ a b c d strategic vision: america & the crisis of global power by zbigniew brzezinski, pp. 43–45. published 2012.
+
+^ a b malik, mohan (2011). china and india: great power rivals. united states: firstforumpress. isbn 1935049410.
+
+^ brewster, david (2012). india as an asia pacific power. united states: routledge. isbn 1136620087.
+
+^ charalampos efstathopoulosa, 'reinterpreting india's rise through the middle power prism', asian journal of political science, vol. 19, issue 1 (2011), p. 75: 'india's role in the contemporary world order can be optimally asserted by the middle power concept. the concept allows for distinguishing both strengths and weakness of india's globalist agency, shifting the analytical focus beyond material-statistical calculations to theorise behavioural, normative and ideational parameters.'
+
+^ robert w. bradnock, india's foreign policy since 1971 (the royal institute for international affairs, london: pinter publishers, 1990), quoted in leonard stone, 'india and the central eurasian space', journal of third world studies, vol. 24, no. 2, 2007, p. 183: "the u.s. is a superpower whereas india is a middle power. a superpower could accommodate another superpower because the alternative would be equally devastating to both. but the relationship between a superpower and a middle power is of a different kind. the former does not need to accommodate the latter while the latter cannot allow itself to be a satellite of the former."
+
+^ jan cartwright, 'india's regional and international support for democracy: rhetoric or reality?', asian survey, vol. 49, no. 3 (may/june 2009), p. 424: 'india’s democratic rhetoric has also helped it further establish its claim as being a rising "middle power." (a "middle power" is a term that is used in the field of international relations to describe a state that is not a superpower but still wields substantial influence globally. in addition to india, other "middle powers" include, for example, australia and canada.)'
+
+^ gaskarth, jamie (11 february 2015). rising powers, global governance and global ethics. routledge. p. 182. isbn 1317575113.
+
+^ gowan, edited by bruce d. jones, shepard forman, richard (2010). cooperating for peace and security : evolving institutions and arrangements in a context of changing u.s. security policy (1. publ. ed.). cambridge [u.k.]: cambridge university press. p. 236. isbn 0521889472.cs1 maint: extra text: authors list (link)
+
+^ buzan, barry (2004). the united states and the great powers. cambridge, united kingdom: polity press. p. 70. isbn 0-7456-3375-7.
+
+^ veit bachmann and james d sidaway, "zivilmacht europa: a critical geopolitics of the european union as a global power", transactions of the institute of british geographers, new series, vol. 34, no. 1 (jan., 2009), pp. 94–109.
+
+^ "india: emerging power", by stephen p. cohen, p. 60
+
+^ "india's rise as a great power, part one: regional and global implications". futuredirections.org.au. 7 july 2011. archived from the original on 27 november 2013. retrieved 2013-11-17.
+
+^ robyn meredith (2007). the elephant and the dragon: the rise of india and china and what it means for all of us. w.w norton and company. isbn 978-0-393-33193-6.
+
+^ keeley, walter russell mead & sean. "the eight great powers of 2017 - by walter russell mead sean keeley". retrieved 2018-11-06. this year there’s a new name on our list of the eight greats: israel. a small country in a chaotic part of the world, israel is a rising power with a growing impact on world affairs. [...] three factors are powering israel’s rise: economic developments, the regional crisis, and diplomatic ingenuity. [...] [b]eyond luck, israel’s newfound clout on the world stage comes from the rise of industrial sectors and technologies that good israeli schools, smart israeli policies and talented israeli thinkers and entrepreneurs have built up over many years.
+
+^ a b "power rankings". usnews.com. retrieved 2018-11-06.
+
+^ keeley, walter russell mead & sean. "the eight great powers of 2017 - by walter russell mead sean keeley". retrieved 2018-11-06. the proxy wars between saudi arabia and iran continued unabated throughout 2016, and as we enter the new year iran has confidently taken the lead. [...] meanwhile, the fruits of the nuclear deal continued to roll in: high-profile deals with boeing and airbus sent the message that iran was open for business, while tehran rapidly ramped up its oil output to pre-sanctions levels. [...] 2017 may be a more difficult year for tehran [...] the trump administration seems more concerned about rebuilding ties with traditional american allies in the region than in continuing obama’s attempt to reach an understanding with iran.
+
+^ why are pivot states so pivotal? archived 2016-02-11 at the wayback machine, hcss.nl, 2014
+
+^ a b c d e danilovic, vesna. "when the stakes are high—deterrence and conflict among major powers", university of michigan press (2002), pp 27, 225–228 (pdf chapter downloads) (pdf copy).
+
+^ a b c d e mccarthy, justin (1880). a history of our own times, from 1880 to the diamond jubilee. new york, united states of america: harper & brothers, publishers. pp. 475–476.
+
+^ a b c d e f g h dallin, david. the rise of russia in asia.
+
+^ a b c d e 
+macmillan, margaret (2003). paris 1919. united states of america: random house trade. pp. 36, 306, 431. isbn 0-375-76052-0.
+
+^ a b c d e f g harrison, m (2000) the economics of world war ii: six great powers in international comparison, cambridge university press.
+
+^ a b c d e f g h i j k l m n t. v. paul; james j. wirtz; michel fortmann (2005). balance of power. united states of america: state university of new york press, 2005. pp. 59, 282. isbn 0791464016. accordingly, the great powers after the cold war are britain, china, france, germany, japan, russia, and the united states p.59
+
+^ mccourt, david (28 may 2014). britain and world power since 1945: constructing a nation's role in international politics. united states of america: university of michigan press. isbn 0472072218.
+
+^ a b c d e f g h i j k l m n baron, joshua (22 january 2014). great power peace and american primacy: the origins and future of a new international order. united states: palgrave macmillan. isbn 1137299487.
+
+^ a b chalmers, malcolm (may 2015). "a force for order: strategic underpinnings of the next nss and sdsr" (pdf). royal united services institute. briefing paper (sdsr 2015: hard choices ahead): 2. while no longer a superpower (a position it lost in the 1940s), the uk remains much more than a 'middle power'.
+
+^ walker, william (22 september 2015). "trident's replacement and the survival of the united kingdom". international institute for strategic studies, global politics and strategy. 57 (5): 7–28. retrieved 31 december 2015. trident as a pillar of the transatlantic relationship and symbol of the uk's desire to remain a great power with global reach.
+
+^ a b c d e f  uw press: korea's future and the great powers
+
+^ yong deng and thomas g. moore (2004) "china views globalization: toward a new great-power politics?" the washington quarterly[dead link]
+
+^ yong deng and thomas g. moore (2004) "china views globalization: toward a new great-power politics?" the washington quarterly[dead link]
+
+^ otte m, greve j (2000) a rising middle power?: german foreign policy in transformation, 1989-1999, st. martin's press
+
+^ kennedy, paul (1987). the rise and fall of the great powers. united states of america: random house. p. 204. isbn 0-394-54674-1.
+
+^ best, antony; hanhimäki, jussi; maiolo, joseph; schulze, kirsten (2008). international history of the twentieth century and beyond. united states of america: routledge. p. 9. isbn 0415438969.
+
+^ wight, martin (2002). power politics. united kingdom: continuum international publishing group. p. 46. isbn 0826461743.
+
+^ waltz, kenneth (1979). theory of international politics. united states of america: mcgraw-hill. p. 162. isbn 0-07-554852-6.
+
+^ "italy plays a prominent role in european and global military, cultural and diplomatic affairs. the country's european political, social and economic influence make it a major regional power." see italy: justice system and national police handbook, vol. 1 (washington, d.c.: international business publications, 2009), p. 9.
+
+^ italy: 150 years of a small great power, eurasia-rivista.org, 21 december 2010
+
+^ verbeek, bertjan; giacomello, giampiero (2011). italy's foreign policy in the twenty-first century : the new assertiveness of an aspiring middle power. lanham, md.: lexington books. isbn 978-0-7391-4868-6.
+
+^ "italy plays a prominent role in european and global military, cultural and diplomatic affairs. the country's european political, social and economic influence make it a major regional power." see italy: justice system and national police handbook, vol. 1 (washington, d.c.: international business publications, 2009), p. 9.
+
+^ italy: 150 years of a small great power, eurasia-rivista.org, 21 december 2010
+
+^ verbeek, bertjan; giacomello, giampiero (2011). italy's foreign policy in the twenty-first century : the new assertiveness of an aspiring middle power. lanham, md.: lexington books. isbn 978-0-7391-4868-6.
+
+^ a b richard n. haass, "asia's overlooked great power", project syndicate april 20, 2007.
+
+^ robert w. cox, 'middlepowermanship, japan, and future world order, international journal, vol. 44, no. 4 (1989), pp. 823-862.
+
+^ neumann, iver b. (2008). "russia as a great power, 1815–2007". journal of international relations and development. 11: 128–151 [p. 128]. doi:10.1057/jird.2008.7. as long as russia's rationality of government deviates from present-day hegemonic neo-liberal models by favouring direct state rule rather than indirect governance, the west will not recognize russia as a fully fledged great power.
+
+^ a b "analyzing american power in the post-cold war era". retrieved 2007-02-28.
+
+
+further reading
+mearsheimer, john j. (2001). the tragedy of great power politics. new york: norton. isbn 0393020258.
+waltz, kenneth n. (1979). theory of international politics. reading: addison-wesley. isbn 0201083493.
+witkopf, eugene r. (1981). world politics: trend and transformation. new york: st. martin's press. isbn 0312892462.
+duroselle, jean-baptiste. france and the nazi threat: the collapse of french diplomacy 1932–1939. enigma books. isbn 1-929631-15-4.
+vtepower in international relationstypes
+economic
+energy
+food
+hard
+national
+power politics
+realpolitik
+smart
+soft
+sharp
+status
+small
+middle
+regional
+emerging
+great
+potential
+super
+hyper
+geopolitics
+american (pax)
+asian
+british
+chinese
+indian
+pacific
+history
+list of ancient great powers
+list of medieval great powers
+list of modern great powers
+international relations of the great powers (1814–1919)
+theory
+balance of power
+european
+center of power
+hegemonic stability theory
+philosophy of power
+polarity
+power projection
+power transition theory
+second superpower
+sphere of influence
+superpower collapse
+superpower disengagement
+studies
+composite index of national capability
+comprehensive national power
+organizations and groups by region or regions affectedafrica
+african union
+union for the mediterranean
+africa–asia
+arab league
+cooperation council for the arab states of the gulf (gcc)
+organization of islamic cooperation (oic)
+americas
+community of latin american and caribbean states
+mercosur
+north atlantic treaty organization (nato)
+organization of american states (oas)
+union of south american nations (unasur)
+asia
+asia cooperation dialogue (acd)
+asia-pacific economic cooperation (apec)
+association of southeast asian nations (asean)
+china–japan–south korea trilateral summits
+economic cooperation organization (eco)
+south asian association for regional cooperation (saarc)
+shanghai cooperation organisation (sco)
+europe
+council of europe (ce)
+european union (eu)
+nordic council
+visegrád group
+eurasia
+commonwealth of independent states (cis)
+collective security treaty organization (csto)
+economic cooperation organization (eco)
+eurasian economic union (eaeu)
+turkic council
+north america–europe
+north atlantic treaty organization (nato)
+arctic council
+africa–asia–europe
+union for the mediterranean
+africa–south america
+south atlantic peace and cooperation zone
+oceania–pacific
+australia–new zealand–united states security treaty (anzus)
+asia-pacific economic cooperation (apec)
+melanesian spearhead group (msg)
+pacific islands forum (pif)
+polynesian leaders group (plg)
+non–regional
+brazil–russia–india–china–south africa (brics)
+commonwealth of nations
+francophonie
+colombia–indonesia–vietnam–egypt–turkey–south africa (civets)
+e7
+e9
+g4
+g7
+g8
+g8+5
+g20
+g24
+g77
+india–brazil–south africa dialogue forum (ibsa)
+mexico–indonesia–nigeria–turkey (mint)
+non-aligned movement (nam)
+organisation for economic co-operation and development (oecd)
+uniting for consensus
+global
+united nations (un)
+
+vtediplomacy of the great powers (1871–1913)great powers
+austria–hungary
+france
+germany
+italy
+japan
+russia
+united kingdom
+united states
+alliances
+triple alliance
+dual alliance
+triple entente
+franco-russian alliance
+entente cordiale
+anglo-russian entente
+anglo-japanese alliance
+league of the three emperors
+trends
+european balance of power
+ottoman decline
+eastern question
+spread of nationalism
+sovereign debt
+revanchism
+pax britannica
+new imperialism
+scramble for africa
+in asia
+the great game
+meiji period
+pan-slavism
+balkan league
+great game
+the great rapprochement
+second industrial revolution
+industrial warfare
+treaties andagreements
+treaty of versailles (1871)
+treaty of frankfurt
+treaty of berlin
+reinsurance treaty
+treaty of paris
+treaty of björkö
+taft–katsura agreement
+hague conventions
+martens clause
+japan–korea treaty of 1905
+japan–korea annexation treaty
+racconigi agreement
+events
+unification of germany
+unification of italy
+congress of berlin
+berlin conference
+weltpolitik
+naval arms races
+anglo-german
+dreadnought
+german naval laws
+austro-italian
+south american
+fashoda incident
+annexation of hawaii
+venezuela naval blockade
+first moroccan crisis
+algeciras conference
+second moroccan crisis
+treaty of fez
+bosnian crisis
+july crisis
+wars
+russo-turkish
+anglo-egyptian
+first sino-japanese
+spanish–american
+banana wars
+philippine–american
+boxer rebellion
+second boer
+russo-japanese
+italo-turkish
+balkan wars
+first
+second
+albanian revolts
+first
+second
+third
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=great_power&oldid=883925643"					
+categories: states by power statusinternational relationshidden categories: all articles with unsourced statementsarticles with unsourced statements from may 2012cs1 maint: uses authors parameterwebarchive template wayback linkscs1 maint: archived copy as titlecs1 maint: extra text: authors listcs1: long volume valueall articles with dead external linksarticles with dead external links from july 2014wikipedia pages under 30-500 editing restrictionuse british english oxford spelling from july 2017use dmy dates from july 2017wikipedia articles needing clarification from march 2018articles with unsourced statements from august 2018 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readview sourceview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+languages
+
+
+afrikaansalemannischالعربيةбеларускаябългарскиčeštinadanskdeutschελληνικάespañolesperantoفارسیfrançaisgalego한국어հայերենहिन्दीhrvatskibahasa indonesiaitalianoעבריתқазақшаlatinalietuviųbahasa melayunederlands日本語norsknorsk nynorskਪੰਜਾਬੀplattdüütschpolskiportuguêsromânăрусскийscotsshqipසිංහලsimple englishslovenčinaсрпски / srpskisrpskohrvatski / српскохрватскиsuomisvenskatagalogதமிழ்ไทยtürkçeукраїнськаtiếng việt粵語中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 18 february 2019, at 13:47 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"1.376","walltime":"1.655","ppvisitednodes":{"value":10304,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":257467,"limit":2097152},"templateargumentsize":{"value":14600,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":12,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":326600,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00% 1264.664      1 -total"," 53.62%  678.160      2 template:reflist"," 19.06%  241.056      1 template:list_of_great_powers_by_date"," 18.96%  239.768     51 template:cite_book"," 11.20%  141.639      7 template:cite_journal","  7.59%   96.043     48 template:flag","  5.35%   67.648     15 template:cite_web","  4.54%   57.400      1 template:clarify","  4.48%   56.608      1 template:pp-30-500","  4.30%   54.363      1 template:fix-span"]},"scribunto":{"limitreport-timeusage":{"value":"0.523","limit":"10.000"},"limitreport-memusage":{"value":7505644,"limit":52428800}},"cachereport":{"origin":"mw1262","timestamp":"20190219095643","ttl":2073600,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"article","name":"great power","url":"https:\/\/en.wikipedia.org\/wiki\/great_power","sameas":"http:\/\/www.wikidata.org\/entity\/q185145","mainentity":"http:\/\/www.wikidata.org\/entity\/q185145","author":{"@type":"organization","name":"contributors to wikimedia projects"},"publisher":{"@type":"organization","name":"wikimedia foundation, inc.","logo":{"@type":"imageobject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datepublished":"2003-11-20t03:23:31z","datemodified":"2019-02-18t13:47:15z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/35\/united_nations_security_council.jpg","headline":"nation that has great political, social, and economic influence"}
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgbackendresponsetime":123,"wghostname":"mw1247"});});
+
+

@@ -1,0 +1,1286 @@
+
+
+
+
+car - wikipedia
+document.documentelement.classname = document.documentelement.classname.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgcanonicalnamespace":"","wgcanonicalspecialpagename":false,"wgnamespacenumber":0,"wgpagename":"car","wgtitle":"car","wgcurrevisionid":882400386,"wgrevisionid":882400386,"wgarticleid":13673345,"wgisarticle":true,"wgisredirect":false,"wgaction":"view","wgusername":null,"wgusergroups":["*"],"wgcategories":["cs1 maint: extra text: authors list","cs1: julian–gregorian uncertainty","all articles with dead external links","articles with dead external links from february 2016","articles with dead external links from june 2017","articles with permanently dead external links","articles with short description","wikipedia indefinitely move-protected pages","wikipedia pages semi-protected against vandalism","use dmy dates from september 2014","pages using deprecated image syntax","articles needing additional references from june 2010","all articles needing additional references","wikipedia articles with bne identifiers","wikipedia articles with gnd identifiers","wikipedia articles with hds identifiers","wikipedia articles with nara identifiers","wikipedia articles with ndl identifiers","cars","wheeled vehicles","german inventions"],"wgbreakframes":false,"wgpagecontentlanguage":"en","wgpagecontentmodel":"wikitext","wgseparatortransformtable":["",""],"wgdigittransformtable":["",""],"wgdefaultdateformat":"dmy","wgmonthnames":["","january","february","march","april","may","june","july","august","september","october","november","december"],"wgmonthnamesshort":["","jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"],"wgrelevantpagename":"car","wgrelevantarticleid":13673345,"wgrequestid":"xgvs2gpaicmaaiwmensaaadi","wgcspnonce":false,"wgisprobablyeditable":false,"wgrelevantpageisprobablyeditable":false,"wgrestrictionedit":["autoconfirmed"],"wgrestrictionmove":["sysop"],"wgredirectedfrom":"automobile","wgflaggedrevsparams":{"tags":{}},"wgstablerevisionid":null,"wgcategorytreepagecategoryoptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgwikieditorenabledmodules":[],"wgbetafeaturesfeatures":[],"wgmediavieweronclick":true,"wgmediaviewerenabledbydefault":true,"wgpopupsshouldsendmoduletouser":true,"wgpopupsconflictswithnavpopupgadget":false,"wgvisualeditor":{"pagelanguagecode":"en","pagelanguagedir":"ltr","pagevariantfallbacks":"en","usepageimages":true,"usepagedescriptions":true},"wgmfispagecontentmodeleditable":true,"wgmfenablefontchanger":true,"wgmfdisplaywikibasedescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgrelatedarticles":null,"wgrelatedarticlesusecirrussearch":true,"wgrelatedarticlesonlyusecirrussearch":false,"wgwmeschemaeditattemptstepoversample":false,"wgpoweredbyhhvm":true,"wgulscurrentautonym":"english","wgnoticeproject":"wikipedia","wgcentralnoticecookiestodelete":[],"wgcentralnoticecategoriesusinglegacy":["fundraising","fundraising"],"wginternalredirecttargeturl":"/wiki/car","wgwikibaseitemid":"q1420","wgscorenotelanguages":{"arabic":"العربية","catalan":"català","deutsch":"deutsch","english":"english","espanol":"español","italiano":"italiano","nederlands":"nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"west-vlams"},"wgscoredefaultnotelanguage":"nederlands","wgcentralauthmobiledomain":false,"wgcodemirrorenabled":true,"wgvisualeditortoolbarscrolloffset":0,"wgvisualeditorunsupportededitparams":["undo","undoafter","veswitched"],"wgeditsubmitbuttonlabelpublish":true,"oreswikiid":"enwiki","oresbaseurl":"http://ores.discovery.wmnet:8081/","oresapiversion":3});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalcssjs.user.styles":"ready","ext.globalcssjs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalcssjs.user":"ready","ext.globalcssjs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonprint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualeditor.desktoparticletarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediabadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jquery,require,module){/*@nomin*/mw.user.tokens.set({"edittoken":"+\\","patroltoken":"+\\","watchtoken":"+\\","csrftoken":"+\\"});
+});rlpagemodules=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchsuggest","ext.gadget.teahouse","ext.gadget.referencetooltips","ext.gadget.watchlist-notice","ext.gadget.drn-wizard","ext.gadget.charinsert","ext.gadget.reftoolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualeditor.desktoparticletarget.init","ext.visualeditor.targetloader","ext.eventlogging","ext.wikimediaevents","ext.navigationtiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.quicksurveys.init","ext.centralnotice.geoip","ext.centralnotice.startup","skins.vector.js"];mw.loader.load(rlpagemodules);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+car 
+from wikipedia, the free encyclopedia   (redirected from automobile)
+ jump to navigation
+jump to search
+a wheeled motor vehicle used for transportation
+for other types of motorized vehicles, see motor vehicle. for the 2006 pixar film, see cars (film). for other uses, see car (disambiguation) and automobile (disambiguation).
+
+
+carmodern cars and trucks driving on an expressway in ontario, canadaclassificationvehicleindustryvariousapplicationtransportationfuel sourcegasoline, diesel, natural gas, electric, hydrogen, solar, vegetable oilpoweredyesself-propelledyeswheels3–4axles2inventorkarl benz[1]
+a car (or automobile) is a wheeled motor vehicle used for transportation.  most definitions of car say they run primarily on roads, seat one to eight people, have four tires, and mainly transport people rather than goods.[2][3]
+cars came into global use during the 20th century, and developed economies depend on them. the year 1886 is regarded as the birth year of the modern car when german inventor karl benz patented his benz patent-motorwagen. cars became widely available in the early 20th century. one of the first cars accessible to the masses was the 1908 model t, an american car manufactured by the ford motor company. cars were rapidly adopted in the us, where they replaced animal-drawn carriages and carts, but took much longer to be accepted in western europe and other parts of the world.
+cars have controls for driving, parking, passenger comfort, and safety, and controlling a variety of lights. over the decades, additional features and controls have been added to vehicles, making them progressively more complex. examples include rear reversing cameras, air conditioning, navigation systems, and in-car entertainment. most cars in use in the 2010s are propelled by an internal combustion engine, fueled by the combustion of fossil fuels. this causes air pollution and also contributes to climate change and global warming.[4] vehicles using alternative fuels such as ethanol flexible-fuel vehicles and natural gas vehicles are also gaining popularity in some countries. electric cars, which were invented early in the history of the car, began to become commercially available in 2008.
+there are costs and benefits to car use. the costs include acquiring the vehicle, interest payments (if the car is financed), repairs and maintenance, fuel, depreciation, driving time, parking fees, taxes, and insurance.[5] the costs to society include maintaining roads, land use, road congestion, air pollution, public health, health care, and disposing of the vehicle at the end of its life. road traffic accidents are the largest cause of injury-related deaths worldwide.[6]
+the benefits include on-demand transportation, mobility, independence, and convenience.[7] the societal benefits include economic benefits, such as job and wealth creation from the automotive industry, transportation provision, societal well-being from leisure and travel opportunities, and revenue generation from the taxes. the ability for people to move flexibly from place to place has far-reaching implications for the nature of societies.[8] it was estimated in 2014 that the number of cars was over 1.25 billion vehicles,[9] up from the 500 million of 1986.[10] the numbers are increasing rapidly, especially in china, india and other newly industrialized countries.[11]
+
+contents
+
+1 etymology
+2 history
+3 mass production
+4 fuel and propulsion technologies
+5 user interface
+6 lighting
+7 weight
+8 seating and body style
+9 safety
+10 costs and benefits
+11 environmental impact
+12 emerging car technologies
+
+12.1 autonomous car
+12.2 open source development
+12.3 car sharing
+
+
+13 industry
+14 alternatives
+15 other meanings
+16 see also
+17 references
+18 further reading
+19 external links
+
+
+etymology
+the word car is believed to originate from the latin word carrus or carrum ("wheeled vehicle"), or the middle english word carre (meaning "two-wheel cart", from old north french). in turn, these originated from the gaulish word karros (a gallic chariot).[12][13] it originally referred to any wheeled horse-drawn vehicle, such as a cart, carriage, or wagon.[14][15] "motor car" is attested from 1895, and is the usual formal name for cars in british english.[3] "autocar" is a variant that is also attested from 1895, but that is now considered archaic. it literally means "self-propelled car".[16] the term "horseless carriage" was used by some to refer to the first cars at the time that they were being built, and is attested from 1895.[17]
+the word "automobile" is a classical compound derived from the ancient greek word autós (αὐτός), meaning "self", and the latin word mobilis, meaning "movable". it entered the english language from french, and was first adopted by the automobile club of great britain in 1897.[18] over time, the word "automobile" fell out of favour in britain, and was replaced by "motor car". "automobile" remains chiefly north american, particularly as a formal or commercial term.[19] an abbreviated form, "auto", was formerly a common way to refer to cars in english, but is now considered old-fashioned. the word is still very common as an adjective in american english, usually in compound formations like "auto industry" and "auto mechanic".[20][21] in dutch and german, two languages historically related to english, the abbreviated form "auto" (dutch) / "auto" (german), as well as the formal full version "automobiel" (dutch) / "automobil" (german) are still used — in either the short form is the most regular word for "car".
+
+history
+main article: history of the automobile
+the first working steam-powered vehicle was designed — and quite possibly built — by ferdinand verbiest, a flemish member of a jesuit mission in china around 1672. it was a 65-cm-long scale-model toy for the chinese emperor that was unable to carry a driver or a passenger.[7][22][23] it is not known with certainty if verbiest's model was successfully built or run.[23]
+
+ cugnot's 1771 fardier à vapeur, as preserved at the musée des arts et métiers, paris
+nicolas-joseph cugnot is widely credited with building the first full-scale, self-propelled mechanical vehicle or car in about 1769; he created a steam-powered tricycle.[24]  he also constructed two steam tractors for the french army, one of which is preserved in the french national conservatory of arts and crafts.[25] his inventions were, however, handicapped by problems with water supply and maintaining steam pressure.[25] in 1801, richard trevithick built and demonstrated his puffing devil road locomotive, believed by many to be the first demonstration of a steam-powered road vehicle. it was unable to maintain sufficient steam pressure for long periods and was of little practical use.
+the development of external combustion engines is detailed as part of the history of the car but often treated separately from the development of true cars.  a variety of steam-powered road vehicles were used during the first part of the 19th century, including steam cars, steam buses, phaetons, and steam rollers.  sentiment against them led to the locomotive acts of 1865.
+in 1807, nicéphore niépce and his brother claude created what was probably the world's first internal combustion engine (which they called a pyréolophore), but they chose to install it in a boat on the river saone in france.[26] coincidentally, in 1807 the swiss inventor françois isaac de rivaz designed his own 'de rivaz internal combustion engine' and used it to develop the world's first vehicle to be powered by such an engine. the niépces' pyréolophore was fuelled by a mixture of lycopodium powder (dried spores of the lycopodium plant), finely crushed coal dust and resin that were mixed with oil, whereas de rivaz used a mixture of hydrogen and oxygen.[26] neither design was very successful, as was the case with others, such as samuel brown, samuel morey, and etienne lenoir with his hippomobile, who each produced vehicles (usually adapted carriages or carts) powered by internal combustion engines.[1]
+
+ gustave trouvé's tricycle, the first ever electric automobile to be shown in public
+ karl benz, the inventor of the modern car
+in november 1881, french inventor gustave trouvé demonstrated the first working (three-wheeled) car powered by electricity at the international exposition of electricity, paris.[27] although several other german engineers (including gottlieb daimler, wilhelm maybach, and siegfried marcus) were working on the problem at about the same time, karl benz generally is acknowledged as the inventor of the modern car.[1]
+
+ the original benz patent-motorwagen, first built in 1885 and awarded the patent for the concept
+in 1879, benz was granted a patent for his first engine, which had been designed in 1878. many of his other inventions made the use of the internal combustion engine feasible for powering a vehicle. his first motorwagen was built in 1885 in mannheim, germany. he was awarded the patent for its invention as of his application on 29 january 1886 (under the auspices of his major company, benz & cie., which was founded in 1883). benz began promotion of the vehicle on 3 july 1886, and about 25 benz vehicles were sold between 1888 and 1893, when his first four-wheeler was introduced along with a model intended for affordability. they also were powered with four-stroke engines of his own design. emile roger of france, already producing benz engines under license, now added the benz car to his line of products. because france was more open to the early cars, initially more were built and sold in france through roger than benz sold in germany. in august 1888 bertha benz, the wife of karl benz, undertook the first road trip by car, to prove the road-worthiness of her husband's invention.
+
+ bertha benz, the first long distance driver
+in 1896, benz designed and patented the first internal-combustion flat engine, called boxermotor. during the last years of the nineteenth century, benz was the largest car company in the world with 572 units produced in 1899 and, because of its size, benz & cie., became a joint-stock company. the first motor car in central europe and one of the first factory-made cars in the world, was produced by czech company nesselsdorfer wagenbau (later renamed to tatra) in 1897, the präsident automobil.
+daimler and maybach founded daimler motoren gesellschaft (dmg) in cannstatt in 1890, and sold their first car in 1892 under the brand name daimler. it was a horse-drawn stagecoach built by another manufacturer, which they retrofitted with an engine of their design. by 1895 about 30 vehicles had been built by daimler and maybach, either at the daimler works or in the hotel hermann, where they set up shop after disputes with their backers. benz, maybach and the daimler team seem to have been unaware of each other's early work. they never worked together; by the time of the merger of the two companies, daimler and maybach were no longer part of dmg. daimler died in 1900 and later that year, maybach designed an engine named daimler-mercedes that was placed in a specially ordered model built to specifications set by emil jellinek. this was a production of a small number of vehicles for jellinek to race and market in his country. two years later, in 1902, a new model dmg car was produced and the model was named mercedes after the maybach engine, which generated 35 hp. maybach quit dmg shortly thereafter and opened a business of his own. rights to the daimler brand name were sold to other manufacturers.
+karl benz proposed co-operation between dmg and benz & cie. when economic conditions began to deteriorate in germany following the first world war, but the directors of dmg refused to consider it initially. negotiations between the two companies resumed several years later when these conditions worsened and, in 1924 they signed an agreement of mutual interest, valid until the year 2000. both enterprises standardized design, production, purchasing, and sales and they advertised or marketed their car models jointly, although keeping their respective brands. on 28 june 1926, benz & cie. and dmg finally merged as the daimler-benz company, baptizing all of its cars mercedes benz, as a brand honoring the most important model of the dmg cars, the maybach design later referred to as the 1902 mercedes-35 hp, along with the benz name. karl benz remained a member of the board of directors of daimler-benz until his death in 1929, and at times his two sons also participated in the management of the company.
+
+ émile levassor
+ armand peugeot
+in 1890, émile levassor and armand peugeot of france began producing vehicles with daimler engines, and so laid the foundation of the automotive industry in france. in 1891, auguste doriot and his peugeot colleague louis rigoulot completed the longest trip by a gasoline-powered vehicle when their self-designed and built daimler powered peugeot type 3 completed 2,100 km (1,300 miles) from valentigney to paris and brest and back again. they were attached to the first paris–brest–paris bicycle race, but finished 6 days after the winning cyclist, charles terront.
+the first design for an american car with a gasoline internal combustion engine was made in 1877 by george selden of rochester, new york. selden applied for a patent for a car in 1879, but the patent application expired because the vehicle was never built. after a delay of sixteen years and a series of attachments to his application, on 5 november 1895, selden was granted a united states patent (u.s. patent 549,160) for a two-stroke car engine, which hindered, more than encouraged, development of cars in the united states. his patent was challenged by henry ford and others, and overturned in 1911.
+in 1893, the first running, gasoline-powered american car was built and road-tested by the duryea brothers of springfield, massachusetts. the first public run of the duryea motor wagon took place on 21 september 1893, on taylor street in metro center springfield.[28][29] the studebaker automobile company, subsidiary of a long-established wagon and coach manufacturer, started to build cars in 1897[30]:p.66 and commenced sales of electric vehicles in 1902 and gasoline vehicles in 1904.[31]
+in britain, there had been several attempts to build steam cars with varying degrees of success, with thomas rickett even attempting a production run in 1860.[32] santler from malvern is recognized by the veteran car club of great britain as having made the first gasoline-powered car in the country in 1894,[33] followed by frederick william lanchester in 1895, but these were both one-offs.[33] the first production vehicles in great britain came from the daimler company, a company founded by harry j. lawson in 1896, after purchasing the right to use the name of the engines. lawson's company made its first car in 1897, and they bore the name daimler.[33]
+in 1892, german engineer rudolf diesel was granted a patent for a "new rational combustion engine". in 1897, he built the first diesel engine.[1] steam-, electric-, and gasoline-powered vehicles competed for decades, with gasoline internal combustion engines achieving dominance in the 1910s. although various pistonless rotary engine designs have attempted to compete with the conventional piston and crankshaft design, only mazda's version of the wankel engine has had more than very limited success.
+all in all, it is estimated that over 100,000 patents created the modern automobile and motorcycle.[34]
+
+mass production
+see also: automotive industry
+ ransom e. olds founded olds motor vehicle company (oldsmobile) in 1897
+ henry ford founded ford motor company in 1903
+ 1927 ford model t
+ kiichiro toyoda, president of the toyota motor corporation 1941–1950
+ mass production at a toyota plant in the 1950s
+large-scale, production-line manufacturing of affordable cars was started by ransom olds in 1901 at his oldsmobile factory in lansing, michigan and based upon stationary assembly line techniques pioneered by marc isambard brunel at the portsmouth block mills, england, in 1802. the assembly line style of mass production and interchangeable parts had been pioneered in the u.s. by thomas blanchard in 1821, at the springfield armory in springfield, massachusetts.[35] this concept was greatly expanded by henry ford, beginning in 1913 with the world's first moving assembly line for cars at the highland park ford plant.
+as a result, ford's cars came off the line in fifteen-minute intervals, much faster than previous methods, increasing productivity eightfold, while using less manpower (from 12.5-man-hours to 1 hour 33 minutes).[36] it was so successful, paint became a bottleneck. only japan black would dry fast enough, forcing the company to drop the variety of colors available before 1913, until fast-drying duco lacquer was developed in 1926. this is the source of ford's apocryphal remark, "any color as long as it's black".[36] in 1914, an assembly line worker could buy a model t with four months' pay.[36]
+ford's complex safety procedures—especially assigning each worker to a specific location instead of allowing them to roam about—dramatically reduced the rate of injury. the combination of high wages and high efficiency is called "fordism," and was copied by most major industries. the efficiency gains from the assembly line also coincided with the economic rise of the united states. the assembly line forced workers to work at a certain pace with very repetitive motions which led to more output per worker while other countries were using less productive methods.
+in the automotive industry, its success was dominating, and quickly spread worldwide seeing the founding of ford france and ford britain in 1911, ford denmark 1923, ford germany 1925; in 1921, citroen was the first native european manufacturer to adopt the production method. soon, companies had to have assembly lines, or risk going broke; by 1930, 250 companies which did not, had disappeared.[36]
+development of automotive technology was rapid, due in part to the hundreds of small manufacturers competing to gain the world's attention. key developments included electric ignition and the electric self-starter (both by charles kettering, for the cadillac motor company in 1910–1911), independent suspension, and four-wheel brakes.
+since the 1920s, nearly all cars have been mass-produced to meet market needs, so marketing plans often have heavily influenced car design. it was alfred p. sloan who established the idea of different makes of cars produced by one company, called the general motors companion make program, so that buyers could "move up" as their fortunes improved.
+reflecting the rapid pace of change, makes shared parts with one another so larger production volume resulted in lower costs for each price range. for example, in the 1930s, lasalles, sold by cadillac, used cheaper mechanical parts made by oldsmobile; in the 1950s, chevrolet shared hood, doors, roof, and windows with pontiac; by the 1990s, corporate powertrains and shared platforms (with interchangeable brakes, suspension, and other parts) were common. even so, only major makers could afford high costs, and even companies with decades of production, such as apperson, cole, dorris, haynes, or premier, could not manage: of some two hundred american car makers in existence in 1920, only 43 survived in 1930, and with the great depression, by 1940, only 17 of those were left.[36]
+in europe, much the same would happen. morris set up its production line at cowley in 1924, and soon outsold ford, while beginning in 1923 to follow ford's practice of vertical integration, buying hotchkiss (engines), wrigley (gearboxes), and osberton (radiators), for instance, as well as competitors, such as wolseley: in 1925, morris had 41% of total british car production. most british small-car assemblers, from abbey to xtra, had gone under. citroen did the same in france, coming to cars in 1919; between them and other cheap cars in reply such as renault's 10cv and peugeot's 5cv, they produced 550,000 cars in 1925, and mors, hurtu, and others could not compete.[36] germany's first mass-manufactured car, the opel 4ps laubfrosch (tree frog), came off the line at russelsheim in 1924, soon making opel the top car builder in germany, with 37.5% of the market.[36]
+in japan, car production was very limited before world war ii. only a handful of companies were producing vehicles in limited numbers, and these were small, three-wheeled for commercial uses, like daihatsu, or were the result of partnering with european companies, like isuzu building the wolseley a-9 in 1922. mitsubishi was also partnered with fiat and built the mitsubishi model a based on a fiat vehicle. toyota, nissan, suzuki, mazda, and honda began as companies producing non-automotive products before the war, switching to car production during the 1950s. kiichiro toyoda's decision to take toyoda loom works into automobile manufacturing would create what would eventually become toyota motor corporation, the largest automobile manufacturer in the world. subaru, meanwhile, was formed from a conglomerate of six companies who banded together as fuji heavy industries, as a result of having been broken up under keiretsu legislation.
+
+fuel and propulsion technologies
+ the nissan leaf is an all-electric car launched in december 2010
+see also: alternative fuel vehicle
+most cars in use in the 2010s are propelled by an internal combustion engine, fueled by the deflagration (rather than detonation) combustion of hydrocarbon fossil fuels, mostly gasoline (petrol) and diesel, as well as some autogas and cng. hydrocarbon fuels cause air pollution and contribute to climate change and global warming.[4] rapidly increasing oil prices, concerns about oil dependence, tightening environmental laws and restrictions on greenhouse gas emissions are propelling work on alternative power systems for cars. efforts to improve or replace existing technologies include the development of hybrid vehicles, plug-in electric vehicles and hydrogen vehicles. vehicles using alternative fuels such as ethanol flexible-fuel vehicles and natural gas vehicles are also gaining popularity in some countries. cars for racing or speed records have sometimes employed jet or rocket engines, but these are impractical for common use.
+oil consumption in the twentieth and twenty-first centuries has been abundantly pushed by car growth; the 1985–2003 oil glut even fuelled the sales of low-economy vehicles in oecd countries. the bric countries are adding to this consumption; in december 2009 china was briefly the largest car market.[37]
+
+user interface
+see also: car controls
+ in the ford model t the left-side hand lever sets the rear wheel parking brakes and puts the transmission in neutral. the lever to the right controls the throttle. the lever on the left of the steering column is for ignition timing. the left foot pedal changes the two forward gears while the centre pedal controls reverse. the right pedal is the brake.
+cars are equipped with controls used for driving, passenger comfort and safety, normally operated by a combination of the use of feet and hands, and occasionally by voice on 2000s-era cars. these controls include a steering wheel, pedals for operating the brakes and controlling the car's speed (and, in a manual transmission car, a clutch pedal), a shift lever or stick for changing gears, and a number of buttons and dials for turning on lights, ventilation and other functions. modern cars' controls are now standardised, such as the location for the accelerator and brake, but this was not always the case. controls are evolving in response to new technologies, for example the electric car and the integration of mobile communications.
+since the car was first invented, its controls have become fewer and simpler through automation. for example, all cars once had a manual controls for the choke valve, clutch, ignition timing, and a crank instead of an electric starter. however new controls have also been added to vehicles, making them more complex. examples include air conditioning, navigation systems, and in car entertainment. another trend is the replacement of physical knob and switches for secondary controls with touchscreen controls such as bmw's idrive and ford's myford touch. another change is that while early cars' pedals were physically linked to the brake mechanism and throttle, in the 2010s, cars have increasingly replaced these physical linkages with electronic controls.
+
+lighting
+main article: automotive lighting
+ led daytime running lights on an audi a4
+cars are typically fitted with multiple types of lights. these include headlights, which are used to illuminate the way ahead and make the car visible to other users, so that the vehicle can be used at night; in some jurisdictions, daytime running lights; red brake lights to indicate when the brakes are applied; amber turn signal lights to indicate the turn intentions of the driver; white-coloured reverse lights to illuminate the area behind the car (and indicate that the driver will be or is reversing); and on some vehicles, additional lights (e.g., side marker lights) to increase the visibility of the car. interior lights on the ceiling of the car are usually fitted for the driver and passengers. some vehicles also have a trunk light and, more rarely, an engine compartment light.
+
+weight
+ the smart fortwo car from 1998-2002, weighing 730 kg (1,610 lb)
+ a chevrolet suburban extended-length suv weighs 3,300 kg (7,200 lb) (gross weight)[38]
+in the united states, "from 1975 to 1980, average [car] weight dropped from 1,842 to 1,464 kg (4,060 to 3,228 lb), likely in response to rising gasoline prices" and new fuel efficiency standards.[39] the average new car weighed 1,461 kg (3,221 lb) in 1987 but 1,818 kg (4,009 lb) in 2010, due to modern steel safety cages, anti-lock brakes, airbags, and "more-powerful—if more-efficient—engines."[40] heavier cars are safer for the driver, from an accident perspective, but more dangerous for other vehicles and road users.[40] the weight of a car influences fuel consumption and performance, with more weight resulting in increased fuel consumption and decreased performance. the smartfortwo, a small city car, weighs 750–795 kg (1,655–1,755 lb). heavier cars include full-size cars, suvs and extended-length suvs like the suburban.
+according to research conducted by julian allwood of the university of cambridge, global energy use could be heavily reduced by using lighter cars, and an average weight of 500 kg (1,100 lb) has been said to be well achievable.[41] in some competitions such as the shell eco marathon, average car weights of 45 kg (99 lb) have also been achieved.[42][43] these cars are only single-seaters (still falling within the definition of a car, although 4-seater cars are more common), but they nevertheless demonstrate the amount by which car weights could still be reduced, and the subsequent lower fuel use (i.e. up to a fuel use of 2560 km/l).[44]
+
+seating and body style
+see also: car body style
+most cars are designed to carry multiple occupants, often with four or five seats. cars with five seats typically seat two passengers in the front and three in the rear. full-size cars and large sport utility vehicles can often carry six, seven, or more occupants depending on the arrangement of the seats. on the other hand, sports cars are most often designed with only two seats. the differing needs for passenger capacity and their luggage or cargo space has resulted in the availability of a large variety of body styles to meet individual consumer requirements that include, among others, the sedan/saloon, hatchback, station wagon/estate, and minivan.
+
+safety
+main articles: car safety, traffic accident, low speed vehicle, and epidemiology of motor vehicle collisions
+ result of a serious car accident
+road traffic accidents are the largest cause of injury-related deaths worldwide.[6] mary ward became one of the first documented car fatalities in 1869 in parsonstown, ireland,[45] and henry bliss one of the united states' first pedestrian car casualties in 1899 in new york city.[46]
+there are now standard tests for safety in new cars, such as the euroncap and the us ncap tests,[47] and insurance-industry-backed tests by the insurance institute for highway safety (iihs).[48]
+worldwide, road traffic is becoming ever safer, in part due to efforts by the government to implement safety features in cars (e.g., seat belts, air bags, etc.), reduce unsafe driving practices (e.g., speeding, drinking and driving and texting and driving) and make road design more safe by adding features such as speed bumps, which reduce vehicle speed, and roundabouts, which reduce the likelihood of a head-on-collision (as compared with an intersection).
+
+costs and benefits
+main articles: economics of car usage, car costs, and effects of the car on societies
+ road congestion is an issue in many major cities. (pictured is chang'an avenue in beijing)[49]
+the costs of car usage, which may include the cost of: acquiring the vehicle, repairs and auto maintenance, fuel, depreciation, driving time, parking fees, taxes, and insurance,[5] are weighed against the cost of the alternatives, and the value of the benefits – perceived and real – of vehicle usage. the benefits may include on-demand transportation, mobility, independence and convenience.[7] during the 1920s, cars had another benefit: "[c]ouples finally had a way to head off on unchaperoned dates, plus they had a private space to snuggle up close at the end of the night."[50]
+similarly the costs to society of encompassing car use, which may include those of: maintaining roads, land use, air pollution, road congestion, public health, health care, and of disposing of the vehicle at the end of its life, can be balanced against the value of the benefits to society that car use generates. the societal benefits may include: economy benefits, such as job and wealth creation, of car production and maintenance, transportation provision, society wellbeing derived from leisure and travel opportunities, and revenue generation from the tax opportunities. the ability for humans to move flexibly from place to place has far-reaching implications for the nature of societies.[8]
+
+environmental impact
+see also: exhaust gas, waste tires, environmental impact of transport, motor vehicle emissions and pregnancy, noise pollution, and environmental aspects of the electric car
+ vehicles in use per country from 2001 to 2007. it shows the significant growth in bric.
+ world map of passenger cars per 1000 people
+while there are different types of fuel that may power cars, most rely on gasoline or diesel. the united states environmental protection agency states that the average vehicle emits 8,887 grams of the greenhouse gas carbon dioxide (co2) per gallon of gasoline. the average vehicle running on diesel fuel will emit 10,180 grams of carbon dioxide.[51] many governments are using fiscal policies (such as road tax or the us gas guzzler tax) to influence vehicle purchase decisions, with a low co2 figure often resulting in reduced taxation.[52] fuel taxes may act as an incentive for the production of more efficient, hence less polluting, car designs (e.g. hybrid vehicles) and the development of alternative fuels. high fuel taxes may provide a strong incentive for consumers to purchase lighter, smaller, more fuel-efficient cars, or to not drive. on average, today's cars are about 75 percent recyclable, and using recycled steel helps reduce energy use and pollution.[53] in the united states congress, federally mandated fuel efficiency standards have been debated regularly, passenger car standards have not risen above the 27.5 miles per us gallon (8.6 l/100 km; 33.0 mpg‑imp) standard set in 1985. light truck standards have changed more frequently, and were set at 22.2 miles per us gallon (10.6 l/100 km; 26.7 mpg‑imp) in 2007.[54]
+the manufacture of vehicles is resource intensive, and many manufacturers now report on the environmental performance of their factories, including energy usage, waste and water consumption.[55]
+the growth in popularity of the car allowed cities to sprawl, therefore encouraging more travel by car resulting in inactivity and obesity, which in turn can lead to increased risk of a variety of diseases.[56]
+transportation (of all types including trucks, buses and cars) is a major contributor to air pollution in most industrialised nations. according to the american surface transportation policy project nearly half of all americans are breathing unhealthy air. their study showed air quality in dozens of metropolitan areas has worsened over the last decade.[57]
+animals and plants are often negatively impacted by cars via habitat destruction and pollution. over the lifetime of the average car the "loss of habitat potential" may be over 50,000 m2 (540,000 sq ft) based on primary production correlations.[58] animals are also killed every year on roads by cars, referred to as roadkill. more recent road developments are including significant environmental mitigations in their designs such as green bridges to allow wildlife crossings, and creating wildlife corridors.
+growth in the popularity of vehicles and commuting has led to traffic congestion. brussels was considered europe's most congested city in 2011 according to tomtom.[59]
+
+emerging car technologies
+this section needs additional citations for verification. please help improve this article by adding citations to reliable sources. unsourced material may be challenged and removed.find sources: "car" – news · newspapers · books · scholar · jstor (june 2010) (learn how and when to remove this template message)
+car propulsion technologies that are under development include gasoline/electric and plug-in hybrids, battery electric vehicles, hydrogen cars, biofuels, and various alternative fuels. research into future alternative forms of power include the development of fuel cells, homogeneous charge compression ignition (hcci), stirling engines,[60] and even using the stored energy of compressed air or liquid nitrogen.
+new materials which may replace steel car bodies include duralumin, fiberglass, carbon fiber, biocomposites, and carbon nanotubes. telematics technology is allowing more and more people to share cars, on a pay-as-you-go basis, through car share and carpool schemes. communication is also evolving due to connected car systems.[61]
+
+autonomous car
+main article: autonomous car
+ a robotic volkswagen passat shown at stanford university is a driverless car
+fully autonomous vehicles, also known as driverless cars, already exist in prototype (such as the google driverless car), and are expected to be commercially available around 2020. according to urban designer and futurist michael e. arth, driverless electric vehicles—in conjunction with the increased use of virtual reality for work, travel, and pleasure—could reduce the world's 800 million vehicles to a fraction of that number within a few decades.[62] this would be possible if almost all private cars requiring drivers, which are not in use and parked 90% of the time, would be traded for public self-driving taxis that would be in near constant use. this would also allow for getting the appropriate vehicle for the particular need—a bus could come for a group of people, a limousine could come for a special night out, and a segway could come for a short trip down the street for one person. children could be chauffeured in supervised safety, duis would no longer exist, and 41,000 lives could be saved each year in the us alone.[63][64]
+
+open source development
+main article: open source car
+there have been several projects aiming to develop a car on the principles of open design, an approach to designing in which the plans for the machinery and systems are publicly shared, often without monetary compensation. the projects include oscar, riversimple (through 40fires.org)[65] and c,mm,n.[66] none of the projects have reached significant success in terms of developing a car as a whole both from hardware and software perspective and no mass production ready open-source based design have been introduced as of late 2009. some car hacking through on-board diagnostics (obd) has been done so far.[67]
+
+car sharing
+car-share arrangements and carpooling are also increasingly popular, in the us and europe.[68] for example, in the us, some car-sharing services have experienced double-digit growth in revenue and membership growth between 2006 and 2007. services like car sharing offering a residents to "share" a vehicle rather than own a car in already congested neighborhoods.[69]
+
+industry
+main article: automotive industry
+ a car being assembled in a factory
+the automotive industry designs, develops, manufactures, markets, and sells the world's motor vehicles. in 2008, more than 70 million motor vehicles, including cars and commercial vehicles were produced worldwide.[70]
+in 2007, a total of 71.9 million new cars were sold worldwide: 22.9 million in europe, 21.4 million in the asia-pacific region, 19.4 million in the usa and canada, 4.4 million in latin america, 2.4 million in the middle east and 1.4 million in africa.[71]  the markets in north america and japan were stagnant, while those in south america and other parts of asia grew strongly. of the major markets, china, russia, brazil and india saw the most rapid growth.
+about 250 million vehicles are in use in the united states. around the world, there were about 806 million cars and light trucks on the road in 2007; they burn over 260 billion us gallons (980,000,000 m3) of gasoline and diesel fuel yearly. the numbers are increasing rapidly, especially in china and india.[11] in the opinion of some, urban transport systems based around the car have proved unsustainable, consuming excessive energy, affecting the health of populations, and delivering a declining level of service despite increasing investments. many of these negative impacts fall disproportionately on those social groups who are also least likely to own and drive cars.[72][73][74] the sustainable transport movement focuses on solutions to these problems.
+in 2008, with rapidly rising oil prices, industries such as the automotive industry, are experiencing a combination of pricing pressures from raw material costs and changes in consumer buying habits. the industry is also facing increasing external competition from the public transport sector, as consumers re-evaluate their private vehicle usage.[75] roughly half of the us's fifty-one light vehicle plants are projected to permanently close in the coming years, with the loss of another 200,000 jobs in the sector, on top of the 560,000 jobs lost this decade.[76] combined with robust growth in china, in 2009, this resulted in china becoming the largest car producer and market in the world.
+china 2009 sales had increased to 13.6 million, a significant increase from one million of domestic car sales in 2000.[77] since then however, even in china and other bric countries, the automotive production is again falling.[78]
+
+alternatives
+main article: alternatives to car use
+ the vélib' in paris is the largest bikesharing system outside china[79]
+established alternatives for some aspects of car use include public transit such as buses, trolleybuses, trains, subways, tramways light rail, cycling, and walking. bike-share systems have been tried in some european cities, including copenhagen and amsterdam. similar programs have been experimented with in a number of us cities.[80] additional individual modes of transport, such as personal rapid transit could serve as an alternative to cars if they prove to be socially accepted.[81]
+
+other meanings
+the term motorcar has formerly also been used in the context of electrified rail systems to denote a car which functions as a small locomotive but also provides space for passengers and baggage.  these locomotive cars were often used on suburban routes by both interurban and intercity railroad systems.[82]
+
+see also
+
+
+cars portal
+main article: outline of automobiles
+
+car costs
+car classification
+carfree city
+list of countries by automobile production
+list of countries by vehicles per capita
+lists of automobiles
+motor vehicle theft
+noise pollution
+peak car
+steering
+traffic collision
+
+references
+
+
+^ a b c d stein, ralph (1967). the automobile book. paul hamlyn..mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/lock-green.svg/9px-lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/lock-gray-alt-2.svg/9px-lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/lock-red-alt-2.svg/9px-lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/wikisource-logo.svg/12px-wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}
+
+^ fowler, h.w.; fowler, f.g., eds. (1976). pocket oxford dictionary. oxford university press. isbn 978-0198611134.
+
+^ a b "motor car, n." oed online. oxford university press. september 2014. retrieved 2014-09-29.
+
+^ a b "global climate change". u.s. department of energy. archived from the original on 2007-02-25. retrieved 2015-11-23.
+
+^ a b "car operating costs". my car. racv. archived from the original on 2009-10-07. retrieved 2009-12-22.
+
+^ a b peden m; scurfield r; sleet d (eds.) (2004). world report on road traffic injury prevention. world health organization. isbn 92-4-156260-9. retrieved 2008-06-24.cs1 maint: extra text: authors list (link)
+
+^ a b c setright, l. j. k. (2004). drive on!: a social history of the motor car. granta books. isbn 1-86207-698-7.
+
+^ a b jakle, john a.; sculle, keith a. (2004). lots of parking: land use in a car culture. university of virginia press. isbn 0-8139-2266-6.
+
+^ "number of vehicles in use worldwide 2014". statista. retrieved 2017-04-28.
+
+^ sousanis, john (2011-08-15). "world vehicle population tops 1 billion units". wards auto. retrieved 2012-07-17.
+
+^ a b "automobile industry introduction". plunkett research. archived from the original on 2011-07-22.
+
+^ "car". (etymology). online etymology dictionary. archived from the original on 2008-03-06. retrieved 2008-06-02.
+
+^ 'car' derived from 'carrus'
+
+^ "car, n.1". oed online. oxford university press. september 2014. retrieved 2014-09-29.
+
+^ "a dictionary of the welsh language" (pdf). university of wales. retrieved 2016-06-15.
+
+^ "auto-, comb. form2". oed online. oxford university press. september 2014. retrieved 2014-09-29.
+
+^ "definition of horseless carriage". merriam-webster.com. retrieved 2015-11-23.
+
+^ "prospective arrangements", the times, p. 13, 1897-12-04
+
+^ "automobile, adj. and n." oed online. oxford university press. september 2014. retrieved 2014-09-29.
+
+^ "definition of "auto"". cambridge dictionary. retrieved 2015-08-19.
+
+^ "definition of auto". merriam-webster.com. retrieved 2015-11-23.
+
+^ "1679-1681–r p verbiest's steam chariot". history of the automobile: origin to 1900. hergé. retrieved 2009-05-08.
+
+^ a b "a brief note on ferdinand verbiest". curious expeditions. 2007-07-02. archived from the original on 2013-03-10. retrieved 2008-04-18. – note that the vehicle pictured is the 20th century diecast model made by brumm, of a later vehicle, not a model based on verbiest's plans.
+
+^ encyclopædia britannica "nicolas-joseph cugnot".
+
+^ a b encyclopædia britannica
+
+^ a b speos.fr. "niepce museum, other inventions". niepce.house.museum. archived from the original on 2005-12-20. retrieved 2010-08-26.
+
+^ wakefield, ernest h. (1994). history of the electric automobile. society of automotive engineers. pp. 2–3. isbn 1-56091-299-5.
+
+^ "the first car – a history of the automobile". ausbcomp.com. archived from the original on 2011-07-16. retrieved 2011-07-17.
+
+^ "the duryea brothers – automobile history". inventors.about.com. 2010-09-16. retrieved 2011-07-17.
+
+^ longstreet, stephen. a century on wheels: the story of studebaker. new york: henry holt. p. 121. 1st edn., 1952.
+
+^ clymer, floyd. treasury of early american automobiles, 1877–1925 (new york: bonanza books, 1950), p.178.
+
+^ burgess wise, d. (1970). veteran and vintage cars. london: hamlyn. isbn 0-600-00283-7.
+
+^ a b c georgano, n. (2000). beaulieu encyclopedia of the automobile. london: hmso. isbn 1-57958-293-1.
+
+^ jerina, nataša g. (may 2014). "turin charter ratified by fiva". ticcih. archived from the original on 2018-03-11. retrieved 2018-03-11.
+
+^ "industrialization of american society". engr.sjsu.edu. archived from the original on 2010-09-19. retrieved 2011-07-17.
+
+^ a b c d e f g georgano, g. n. (2000). vintage cars 1886 to 1930. sweden: ab nordbok. isbn 1-85501-926-4.
+
+^ 
+chris hogg (2009-02-10). "china's car industry overtakes us". bbc news.
+
+^ "used 2008 chevrolet suburban features & specs". edmunds. retrieved 2015-11-25.
+
+^ "vehicle weight and automotive fatalities". the national bureau of economic research. us. retrieved 2015-11-25.
+
+^ a b lowrey, annie (2011-06-27). "your big car is killing me". slate. retrieved 2015-11-25.
+
+^ "possible global energy reducstion". new scientist. retrieved 2011-07-17.
+
+^ "45 kg as average car weight in shell eco-marathon". wn.com. retrieved 2011-07-17.
+
+^ robarts, stu (2016-05-26). "behind the wheel of a super-efficient shell eco-marathon car". new atlas. australia. retrieved 2018-06-11.
+
+^ "andy green's 8000-mile/gallon car". mindfully.org. archived from the original on 2016-05-18. retrieved 2011-07-17.
+
+^ "mary ward 1827–1869". universityscience.ie. archived from the original on 2008-03-11. retrieved 2008-10-27.
+
+^ "citystreets – bliss plaque". archived from the original on 2006-08-26.
+
+^ "safercar.gov – nhtsa". archived from the original on 2004-07-27.
+
+^ "insurance institute for highway safety".
+
+^ fran tonkiss. space, the city and social theory: social relations and urban forms. polity, 2005
+
+^ anthony, ariana (2013-05-09). "dating in the 1920s: lipstick, booze and the origins of slut-shaming | howaboutwe". huffingtonpost.com. retrieved 2015-11-23.
+
+^ us epa. "greenhouse gas emissions from a typical passenger vehicle (" (pdf). archived from the original (pdf) on 2013-02-02. retrieved 2013-04-25.
+
+^ "a review and comparative analysis of fiscal policies associated with new passenger vehicle co2 emissions" (pdf). international council on clean transportation. february 2011. retrieved 2013-10-15.
+
+^ "automobiles and the environment". greenercars.com. archived from the original on 2007-07-26.
+
+^ "cafe overview – frequently asked questions". national highway traffic safety administration. archived from the original on 2006-12-05.
+
+^ "volvo's carbon-free car factory". ends report. october 2005. retrieved 2013-10-15.
+
+^ "our ailing communities". metropolis magazine. archived from the original on 2007-02-08.
+
+^ "clearing the air". the surface transportation policy project. 2003-08-19. archived from the original on 2007-02-08. retrieved 2007-04-26.
+
+^ ball, jeffrey (2009-03-09). "six products, six carbon footprints". wall street journal. archived from the original on 2010-12-06. retrieved 2011-01-10.
+
+^ "which is europe's most congested city?". what car?. archived from the original on 2011-08-30. retrieved 2011-12-18.
+
+^ paul werbos. "who killed the electric car? my review". retrieved 2007-04-10.
+
+^ "inside uniti's plan to build the iphone of evs". greenmotor.co.uk. retrieved 2017-06-26.
+
+^ oliver, rachel (2007-09-16). "rachel oliver "all about: hydrid transportation"". cnn. retrieved 2009-03-05.
+
+^ arth, michael (spring 2008). "new pedestrianism: a bridge to the future". carbusters magazine. archived from the original on 2009-10-26. retrieved 2009-03-06.
+
+^ birch, alex (2008-05-23). "most cars can be eliminated in 20 years says urban designer michael e. arth". corrupt.org. archived from the original on 2009-06-14. retrieved 2009-03-06.
+
+^ "fortyfires: main". 40fires.org. archived from the original on 2010-07-01. retrieved 2010-07-11.
+
+^ "open source mobility: home". c,mm,n. retrieved 2010-07-11.
+
+^ "geek my ride presentation at linux.conf.au 2009". google. archived from the original on 2011-04-11. retrieved 2010-07-11.
+
+^ "global automotive consumer study - exploring consumer preferences and mobility choices in europe" (pdf). deloitte. 2014. archived from the original (pdf) on 2015-07-04. retrieved 2015-11-23.
+
+^ "flexcar expands to philadelphia". green car congress. 2007-04-02.
+
+^ "world motor vehicle production by country: 2007–2008". organisation internationale des constructers d'automobiles (oica).
+
+^ "2008 global market data book", automotive news, p.5
+
+^ kenworthy, j r (2004). "transport energy use and greenhouse emissions in urban passenger transport systems" (pdf). institute for sustainability and technology policy. archived from the original (pdf) on 2008-09-09. retrieved 2008-07-22.
+
+^ world health organisation, europe. "health effects of transport". retrieved 2008-08-29.
+
+^ social exclusion unit, office of the prime minister (uk). "the connections – final report on transport and social exclusion" (pdf). retrieved 2003-02-01.[dead link]
+
+^ ibisworld newsletter, june 2008, global trends oil – the crude reality of current trends[permanent dead link], ibisworld
+
+^ jeff rubin (2009-03-02). "wrong turn" (pdf). cibc world markets.
+
+^ "indonesia: towards a one trillion dollar economy". the jakarta post. retrieved 2011-07-17.
+
+^ khor, martin (2012-07-23). "trends in the automotive industry". third world network. archived from the original on 2014-10-29.
+
+^ larsen, janet (2013-04-25). "bike-sharing programs hit the streets in over 500 cities worldwide". earth policy institute. retrieved 2013-04-29.
+
+^ "about bike share programs". tech bikes mit. archived from the original on 2007-12-20.
+
+^ kay, jane holtz (1998). asphalt nation: how the automobile took over america, and how we can take it back. university of california press. isbn 0-520-21620-2.
+
+^ "atchison_177". laparks.org. archived from the original on 2011-05-15. retrieved 2011-02-13.
+
+
+further reading
+halberstam, david (1986). the reckoning. new york: morrow. isbn 0-688-04838-2.
+kay, jane holtz (1997). asphalt nation : how the automobile took over america, and how we can take it back. new york: crown. isbn 0-517-58702-5.
+williams, heathcote (1991). autogeddon. new york: arcade. isbn 1-55970-176-5.
+sachs, wolfgang (1992). for love of the automobile: looking back into the history of our desires. berkeley: university of california press. isbn 0-520-06878-5.
+external links
+
+
+
+wikimedia commons has media related to automobile.
+
+
+
+wikisource has original text related to this article:
+california ab 1493
+
+
+
+look up car in wiktionary, the free dictionary.
+fédération internationale de l'automobile
+forum for the automobile and society
+vtecar designclassificationby size
+micro
+city
+kei
+subcompact
+supermini
+family
+compact
+mid-size
+full-size
+custom
+hot rod
+lead sled
+lowrider
+street rod
+t-bucket
+luxury
+compact executive
+executive
+personal
+(mpv)
+compact
+mini
+(suv)
+compact
+crossover
+mini
+sports
+grand tourer
+hot hatch
+muscle
+pony
+sport compact
+super
+
+antique
+classic
+economy
+leisure
+ute
+van
+voiturette
+body styles
+2+2
+baquet
+barchetta
+berlinetta
+brougham
+cabrio coach
+cab over
+cabriolet / convertible
+coupé
+coupé de ville
+coupé utility
+drophead coupe (convertible)
+fastback
+hardtop
+hatchback
+landaulet
+liftback
+limousine
+multi-stop truck
+notchback
+panel van
+phaeton
+pickup truck
+quad coupé
+retractable hardtop
+roadster
+runabout
+saloon / sedan
+sedan delivery/panel van
+sedanca de ville (coupé de ville)
+shooting-brake
+spider / spyder (roadster)
+station wagon
+targa top
+torpedo
+touring
+town (coupé de ville)
+t-top
+vis-à-vis
+specialized vehicles
+amphibious
+connected
+driverless (autonomous)
+hearse
+gyrocar
+roadable aircraft
+taxicab
+tow truck
+propulsion
+alternative fuel
+autogas
+biodiesel
+diesel
+electric (battery
+nev)
+ethanol (e85)
+fuel cell
+gasoline / petrol (direct injection)
+homogeneous charge compression ignition
+hybrid (plug-in)
+hydrogen
+internal combustion
+liquid nitrogen
+steam
+drive wheels
+front-wheel
+rear-wheel
+two-wheel
+four-wheel
+six-wheel
+eight-wheel
+ten-wheel
+twelve-wheel
+engine position
+front
+mid
+rear
+layout .mw-parser-output .nobold{font-weight:normal}(engine / drive)
+front / front 
+ front mid / front 
+ rear / front 
+ front / rear 
+ rear mid / rear 
+ rear / rear 
+ front / four-wheel 
+ mid / four-wheel 
+ rear / four-wheel 
+engine configuration(internal combustion)
+boxer
+flat
+four-stroke
+h-block
+reciprocating
+single-cylinder
+straight
+two-stroke
+v (vee)
+w engine
+wankel
+
+portal
+category
+template:ec car classification
+
+vteautomotive designpart of a series of articles on carsbodyframework
+backbone chassis
+beltline
+body-on-frame
+bumper
+cabrio coach
+chassis
+continental tire
+crumple zone
+dagmar bumpers
+fender
+fender skirts
+grille
+hood
+hood scoop
+monocoque
+overhang
+pillar
+platform
+pontoon fenders
+quarter panel
+roof rack
+shaker scoop
+spoiler
+stressed member engine
+subframe
+tonneau
+trunk lid
+compartments
+trunk/boot/dickie
+hood/bonnet
+doors
+butterfly
+canopy
+gull-wing
+scissor
+sliding
+suicide
+glass
+greenhouse
+power window
+quarter glass
+opera window
+sunroof
+windshield/windscreen
+windshield/windscreen wiper
+other elements
+bumper sticker
+curb feeler
+front-end bra
+hood ornament
+japan black
+nerf bar
+omniview technology
+run-flat tire
+spare tire
+tire/tyre
+tow hitch
+truck accessory
+window deflector
+geometry
+approach and departure angles
+breakover angle
+overhang
+ride height
+roll center
+turning radius
+weight distribution
+exteriorequipmentlighting
+daytime running lamp
+headlamp
+sealed beam
+high-intensity discharge lamp
+hidden headlamps
+turn signals
+trafficators
+rear position lamps
+stop lamps
+reversing lamps
+safety reflector
+retroreflector
+other elements
+horn
+registration plate
+vanity plate
+windshield/windscreen washer fluid
+wing mirror
+power side-view mirror
+legal
+identification number
+theft
+
+ category
+ commons
+ portal
+
+vteautomotive enginepart of the automobile seriesbasic terminology
+bore
+compression ratio
+crank
+cylinder
+dead centre
+diesel engine
+dry sump
+engine balance
+engine configuration
+engine displacement
+engine knocking
+firing order
+hydrolock
+petrol engine
+power band
+redline
+spark-ignition engine
+stroke
+stroke ratio
+wet sump
+main components
+connecting rod
+crankcase
+crankpin
+crankshaft
+crossplane
+cylinder bank
+cylinder block
+cylinder head (crossflow, reverse-flow)
+flywheel
+head gasket
+hypereutectic piston
+main bearing
+piston
+piston ring
+starter ring gear
+sump
+valvetrain
+cam
+cam follower
+camshaft
+desmodromic valve
+hydraulic tappet
+multi-valve
+overhead camshaft
+overhead valve
+pneumatic valve springs
+poppet valve
+pushrod
+rocker arm
+sleeve valve
+tappet
+timing belt
+timing mark
+valve float
+variable valve timing
+aspiration
+air filter
+blowoff valve
+boost controller
+butterfly valve
+centrifugal-type supercharger
+cold air intake
+dump valve
+electronic throttle control
+forced induction
+inlet manifold
+intake
+intercooler
+manifold vacuum
+naturally aspirated engine
+ram-air intake
+scroll-type supercharger
+short ram air intake
+supercharger
+throttle
+throttle body
+turbocharger
+twin-turbo
+variable-geometry turbocharger
+variable-length intake manifold
+warm air intake
+fuel system
+carburetor
+common rail
+direct injection
+fuel filter
+fuel injection
+fuel pump
+fuel tank
+gasoline direct injection
+indirect injection
+injection pump
+lean-burn
+stratified charge engine
+turbo fuel stratified injection
+unit injector
+ignition
+contact breaker
+magneto
+distributor
+electrical ballast
+high tension leads
+ignition coil
+spark plug
+wasted spark
+electrics and enginemanagement
+air–fuel ratio meter
+alternator
+automatic performance control
+car battery (lead–acid battery)
+crankshaft position sensor
+dynamo
+drive by wire
+electronic control unit
+engine control unit
+engine coolant temperature sensor
+glow plug
+idle air control actuator
+map sensor
+mass flow sensor
+oxygen sensor
+starter motor
+throttle position sensor
+exhaust system
+automobile emissions control
+catalytic converter
+diesel particulate filter
+exhaust manifold
+glasspack
+muffler
+engine cooling
+air cooling
+antifreeze (ethylene glycol)
+core plug
+electric fan
+fan belt
+radiator
+thermostat
+water cooling
+viscous fan (fan clutch)
+other components
+balance shaft
+block heater
+combustion chamber
+cylinder head porting
+gasket
+motor oil
+oil filter
+oil pump
+oil sludge
+pcv valve
+seal
+synthetic oil
+underdrive pulleys
+
+portal
+category
+
+vtepowertrainpart of the automobile seriesautomotive engine
+diesel engine
+electric
+fuel cell
+hybrid (plug-in hybrid)
+internal combustion engine
+petrol engine
+steam engine
+transmission
+automatic transmission
+chain drive
+clutch
+constant-velocity joint
+continuously variable transmission
+coupling
+differential
+direct-shift gearbox
+drive shaft
+dual-clutch transmission
+drive wheel
+electrohydraulic manual transmission
+electrorheological clutch
+epicyclic gearing
+fluid coupling
+friction drive
+gear stick
+giubo
+hotchkiss drive
+limited-slip differential
+locking differential
+manual transmission
+manumatic
+parking pawl
+park by wire
+preselector gearbox
+semi-automatic transmission
+shift by wire
+torque converter
+transaxle
+transmission control unit
+universal joint
+wheels and tires
+wheel hub assembly
+wheel
+rim
+alloy wheel
+hubcap
+tire
+tubeless
+radial
+rain
+snow
+racing slick
+off-road
+run-flat
+spare
+hybrid
+electric motor
+hybrid vehicle drivetrain
+electric generator
+alternator
+
+ portal
+ category
+
+vtechassis control systempart of the automobile seriessuspension
+anti-roll bar (sway bar)
+axle
+axle track
+beam axle
+camber angle
+car handlingelectric
+coil spring
+de dion tube
+double wishbone
+hydrolastic (hydragas)
+hydropneumatic
+independent suspension
+leaf spring
+live axle
+macpherson strut
+multi-link suspension
+panhard rod
+shock absorber
+swing axle
+toe angle
+torsion bar
+trailing arm
+unsprung mass
+watt's linkage
+wheel alignment
+wheelbase
+steering
+ackermann steering geometry
+caster angle
+kingpin
+oversteer
+power steering
+rack and pinion
+torque steering
+understeer
+brakes
+automatic braking
+anti-lock braking system
+active rollover protection
+brake bleeding
+brake fade
+brake fluid
+brake lining
+disc brake
+drum brake
+electric park brake
+electronic brakeforce distribution
+electronic stability control
+engine braking
+hydraulic brake
+hydraulic fluid
+inboard brake
+parking brake
+regenerative brake
+vacuum servo
+roadwheelstires (tyres)
+alloy wheel
+custom wheel
+drive wheel
+hubcap
+outline of tires
+rostyle wheel
+spinner
+whitewall tire
+wire wheels
+
+ portal
+ category
+
+vteautomotive industry
+car
+motor vehicle
+by countryafrica
+egypt
+ethiopia
+ghana
+ivory coast
+libya
+kenya
+morocco
+namibia
+nigeria
+south africa
+sudan
+tunisia
+asia
+armenia
+azerbaijan
+bangladesh
+myanmar
+cambodia
+china
+manufacturers
+georgia
+india
+indonesia
+iran
+israel
+japan
+manufacturers
+kazakhstan
+lebanon
+malaysia
+north korea
+pakistan
+philippines
+south korea
+sri lanka
+taiwan
+thailand
+turkey
+vietnam
+uzbekistan
+europe
+austria
+belarus
+belgium
+bulgaria
+croatia
+czech republic
+automobiles
+denmark
+finland
+france
+manufacturers
+germany
+manufacturers
+greece
+hungary
+italy
+manufacturers
+ireland
+latvia
+liechtenstein
+lithuania
+monaco
+netherlands
+norway
+poland
+portugal
+romania
+russia
+manufacturers
+serbia
+slovakia
+slovenia
+soviet union
+spain
+sweden
+manufacturers
+switzerland
+ukraine
+yugoslavia
+united kingdom
+manufacturers
+north america
+canada
+mexico
+united states
+manufacturers
+south america
+argentina
+brazil
+colombia
+venezuela
+oceania
+australia
+new zealand
+data
+automobile sales by model
+best-selling automobiles
+countries by motor vehicle production
+countries by car exports
+countries by vehicles per capita
+top manufacturers
+history
+automotive industry crisis of 2008–10
+history of the automobile
+history of the internal combustion engine
+history of the motorcycle
+timeline of motor vehicle brands
+manufacturers
+automobile manufacturers
+marques
+motorcycle manufacturers
+truck manufacturers
+minor automotive manufacturing groups
+organisations
+association for standardisation of automation and measuring systems
+european automobile manufacturers association
+organisation internationale des constructeurs d'automobiles
+related topics
+auto and motor shows
+automotive design
+automotive engineering
+automotive standards
+people
+
+ category
+ commons
+ list
+ portal
+
+vteprivate transportmotorized
+car/automobile
+motorboat
+electric bicycle
+electric skateboard
+hovercraft
+motorcycle
+moped
+scooter (motorcycle)
+mobility scooter
+private jet
+motor ship
+submarine
+motorized wheelchair
+private railroad car
+private spaceflight
+non-motorized
+bicycle/cycling
+walking
+ice skates
+inline skates
+pack animal
+roller skates
+scooter
+skateboard
+wheelchair
+horse-drawn vehicle
+hot air balloon
+vehicles for hire
+car rental
+auto rickshaw
+boda-boda
+cycle rickshaw
+gondola
+hackney carriage
+motorcycle taxi
+paratransit
+personal rapid transit
+pulled rickshaw
+share taxi
+taxicab
+shared
+shared transport
+carsharing
+carpooling
+car jockey
+flexible carpooling
+real-time ridesharing
+slugging
+vanpool
+bicycle-sharing
+alternatives
+public transport
+personal public transport
+modal share
+personal rapid transit
+
+authority control 
+bne: xx525492
+gnd: 4129315-0
+hds: 13901
+nara: 10640181
+ndl: 00574667
+
+
+
+
+ 
+						retrieved from "https://en.wikipedia.org/w/index.php?title=car&oldid=882400386"					
+categories: carswheeled vehiclesgerman inventionshidden categories: cs1 maint: extra text: authors listcs1: julian–gregorian uncertaintyall articles with dead external linksarticles with dead external links from february 2016articles with dead external links from june 2017articles with permanently dead external linksarticles with short descriptionwikipedia indefinitely move-protected pageswikipedia pages semi-protected against vandalismuse dmy dates from september 2014pages using deprecated image syntaxarticles needing additional references from june 2010all articles needing additional referenceswikipedia articles with bne identifierswikipedia articles with gnd identifierswikipedia articles with hds identifierswikipedia articles with nara identifierswikipedia articles with ndl identifiers 
+
+
+
+navigation menu
+
+
+personal tools
+
+not logged intalkcontributionscreate accountlog in 
+
+
+
+namespaces
+
+articletalk 
+
+
+
+
+variants
+
+
+
+
+
+
+
+views
+
+readview sourceview history 
+
+
+
+more
+
+
+
+
+
+search
+
+
+
+ 
+
+
+
+
+
+
+
+navigation
+
+
+main pagecontentsfeatured contentcurrent eventsrandom articledonate to wikipediawikipedia store 
+
+
+
+interaction
+
+
+helpabout wikipediacommunity portalrecent changescontact page 
+
+
+
+tools
+
+
+what links hererelated changesupload filespecial pagespermanent linkpage informationwikidata itemcite this page 
+
+
+
+print/export
+
+
+create a bookdownload as pdfprintable version 
+
+
+
+in other projects
+
+
+wikimedia commonswikiquote 
+
+
+
+languages
+
+
+afrikaansalemannischአማርኛængliscالعربيةaragonésܐܪܡܝܐarmãneashtiarpetanasturianuavañe'ẽazərbaycancaتۆرکجهবাংলাbân-lâm-gúбашҡортсабеларускаябеларуская (тарашкевіца)‎भोजपुरीбългарскиboarischbosanskibrezhonegбуряадcatalàčeštinacorsucymraegdanskdeitschdeutschdiné bizaadeestiελληνικάespañolesperantoeuskaraفارسیfiji hindiføroysktfrançaisfryskgaeilgegaelggalego贛語گیلکیગુજરાતી客家語/hak-kâ-ngî한국어hausaհայերենहिन्दीhrvatskiidobahasa indonesiainterlinguainterlingueиронíslenskaitalianoעבריתbasa jawakabɩyɛಕನ್ನಡქართულიkaszëbscziқазақшаkiswahilikongokreyòl ayisyenкыргызчаladinoລາວlatinalatviešulëtzebuergeschлезгиlietuviųlingálalivvinkarjalalumbaartmagyarмакедонскиmalagasyമലയാളംmaltimāoriमराठीمصرىbahasa melayumìng-dĕ̤ng-ngṳ̄монголမြန်မာဘာသာdorerin naoeronederlandsnedersaksiesnēhiyawēwin / ᓀᐦᐃᔭᐍᐏᐣनेपालीनेपाल भाषा日本語нохчийнnordfriisknorsknorsk nynorsknouormandoccitanoʻzbekcha/ўзбекчаਪੰਜਾਬੀپنجابیpatoispicardpiemontèispolskiποντιακάportuguêsqaraqalpaqsharomânăromaniruna simiрусиньскыйрусскийсаха тылаscotsseelterskshqipසිංහලsimple englishسنڌيslovenčinaslovenščinaсловѣньскъ / ⱄⰾⱁⰲⱑⱀⱐⱄⰽⱏślůnskisoomaaligaکوردیсрпски / srpskisrpskohrvatski / српскохрватскиbasa sundasuomisvenskatagalogதமிழ்తెలుగుไทยтоҷикӣtsetsêhestâhesetürkçeтыва дылᨅᨔ ᨕᨘᨁᨗукраїнськаاردوئۇيغۇرچە / uyghurchevahcuenghvènetovepsän kel’tiếng việtvõrowalon文言winaray吴语ייִדיש粵語zazakižemaitėška中文 
+edit links 
+
+
+
+
+
+ this page was last edited on 8 february 2019, at 20:31 (utc).
+text is available under the creative commons attribution-sharealike license;
+additional terms may apply.  by using this site, you agree to the terms of use and privacy policy. wikipedia® is a registered trademark of the wikimedia foundation, inc., a non-profit organization.
+
+
+privacy policy
+about wikipedia
+disclaimers
+contact wikipedia
+developers
+cookie statement
+mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.rlq=window.rlq||[]).push(function(){mw.config.set({"wgpageparsereport":{"limitreport":{"cputime":"1.464","walltime":"1.719","ppvisitednodes":{"value":5691,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":318438,"limit":2097152},"templateargumentsize":{"value":2635,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":13,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":234785,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1192.819      1 -total"," 48.64%  580.208      1 template:reflist"," 23.67%  282.384     56 template:cite_web"," 13.36%  159.306     15 template:cite_book","  8.48%  101.125     11 template:navbox","  6.15%   73.357      1 template:authority_control","  4.70%   56.099      1 template:refimprove_section","  4.43%   52.861     13 template:convert","  4.37%   52.161      1 template:more_citations_needed","  4.12%   49.086      1 template:ambox"]},"scribunto":{"limitreport-timeusage":{"value":"0.691","limit":"10.000"},"limitreport-memusage":{"value":11312874,"limit":52428800}},"cachereport":{"origin":"mw1332","timestamp":"20190219095605","ttl":2073600,"transientcontent":false}}});mw.config.set({"wgbackendresponsetime":129,"wghostname":"mw1333"});});
+
+
